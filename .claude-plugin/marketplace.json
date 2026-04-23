@@ -1,0 +1,22 @@
+{
+  "name": "gpt-image-2-prompts-search",
+  "owner": {
+    "name": "Jared Liu",
+    "email": "jaredliu.ai@gmail.com"
+  },
+  "metadata": {
+    "description": "Recommend from 10,000+ GPT Image 2 image generation prompts based on user needs",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gpt-image-2-prompts",
+      "description": "AI skill for recommending image generation prompts",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./"
+      ]
+    }
+  ]
+}
