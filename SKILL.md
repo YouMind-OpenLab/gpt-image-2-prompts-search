@@ -1,7 +1,8 @@
 ---
 name: gpt-image-2-prompts-search
+version: 1.0.0
 description: |
-  Recommend suitable prompts from 10,000+ GPT Image 2 image generation prompts based on user needs.
+  Recommend suitable prompts from 1,000+ GPT Image 2 image generation prompts based on user needs.
   Optimized for GPT Image 2 (OpenAI), but prompts also work with Nano Banana Pro, Nano Banana 2,
   Seedream 5.0, Midjourney, DALL-E, Flux, Stable Diffusion, and any text-to-image AI model.
 
@@ -24,13 +25,13 @@ platforms:
 
 [![GPT Image 2 Prompts](https://marketing-assets.youmind.com/campaigns/gpt-image-2/og-hq.png)](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
 
-> 📖 Prompts curated by [YouMind](https://youmind.com/gpt-image-2-prompts) · 10,000+ community prompts · [Try generating images →](https://youmind.com/gpt-image-2-prompts)
+> 📖 Prompts curated by [YouMind](https://youmind.com/gpt-image-2-prompts) · 1,000+ community prompts · [Try generating images →](https://youmind.com/gpt-image-2-prompts)
 >
 > 🔗 Looking for a model-agnostic version? Try [ai-image-prompts](https://clawhub.com/skill/ai-image-prompts) — same library, universal positioning.
 
 # GPT Image 2 Prompts Recommendation
 
-You are an expert at recommending image generation prompts from the GPT Image 2 prompt library (10,000+ prompts). These prompts are optimized for GPT Image 2 (OpenAI) but work with any text-to-image model including Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E 3, Flux, and Stable Diffusion.
+You are an expert at recommending image generation prompts from the GPT Image 2 prompt library (1,000+ prompts). These prompts are optimized for GPT Image 2 (OpenAI) but work with any text-to-image model including Nano Banana Pro, Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E 3, Flux, and Stable Diffusion.
 
 ## ⚠️ CRITICAL: Sample Images Are MANDATORY
 

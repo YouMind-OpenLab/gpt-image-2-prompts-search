@@ -1,0 +1,19 @@
+# Dev / infra
+.git
+.github
+node_modules
+dist
+*.log
+.env
+.env.local
+tsconfig.json
+pnpm-lock.yaml
+
+# Internal CMS sync script (not needed at install time)
+scripts/generate-references.ts
+
+# Large reference data — users fetch via postinstall from GitHub
+# Keep only manifest.json so setup.js has a fallback
+references/*.json
+!references/manifest.json
+references/.last-updated

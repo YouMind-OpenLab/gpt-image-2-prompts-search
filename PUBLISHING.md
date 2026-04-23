@@ -1,114 +1,73 @@
 # Publishing Guide
 
-This document describes how to publish new versions of this skill to [ClawHub](https://clawhub.ai/skill/gpt-image-2-prompts-search).
+This skill auto-publishes to [ClawHub](https://clawhub.ai/skill/gpt-image-2-prompts-search) when a version bump lands on `main`. No manual `clawhub publish` needed.
 
-## Architecture Overview
+## How It Works
 
-The skill uses a **split distribution model**:
+**Split distribution model:**
 
 | Layer | What | Where | How updated |
 |-------|------|-------|-------------|
-| **Code** | `SKILL.md`, `setup.js`, `package.json` | ClawHub | Manual `clawhub publish` |
-| **Data** | `references/*.json` (31 MB+) | GitHub (this repo) | GitHub Actions (twice daily) |
+| **Code** | `SKILL.md`, `setup.js`, `package.json` | ClawHub | Auto via `.github/workflows/publish.yml` |
+| **Data** | `references/*.json` (large) | GitHub (this repo) | Auto via `.github/workflows/generate-references.yml` (twice daily) |
 
-The `references/` data files are **never uploaded to ClawHub** — they exceed the 20 MB limit. Instead, `scripts/setup.js` downloads them from GitHub at install time via `postinstall`.
-
----
-
-## When to Publish to ClawHub
-
-| Change type | Action needed |
-|-------------|---------------|
-| SKILL.md updated | Publish new version to ClawHub |
-| `setup.js` logic changed | Publish new version to ClawHub |
-| New prompts added to CMS | Push to GitHub only — Actions handle the rest |
-| New prompt categories | Push to GitHub only (manifest.json auto-regenerated) |
+Data files never go to ClawHub — `scripts/setup.js` downloads them from GitHub at install time via `postinstall`.
 
 ---
 
 ## Publishing a New Version
 
-### 1. Make your changes
-
-Edit files in the local skill directory:
-```
-skills/gpt-image-2-prompts-search/
-```
-
-### 2. Bump the version
-
-Edit `package.json`:
-```json
-{
-  "version": "x.y.z"
-}
-```
-
-### 3. Clone from GitHub and prepare a publish-ready directory
-
-GitHub is the single source of truth. Clone fresh, then copy only the required files — **do NOT publish the full clone** as it includes 31 MB of references data that exceeds ClawHub's 20 MB upload limit.
-
-```bash
-REPO="https://github.com/YouMind-OpenLab/gpt-image-2-prompts-search.git"
-CLONE_DIR=$(mktemp -d)
-TMP_DIR=$(mktemp -d)
-
-git clone "$REPO" "$CLONE_DIR"
-
-cp "$CLONE_DIR/SKILL.md"      "$TMP_DIR/"
-cp "$CLONE_DIR/README.md"     "$TMP_DIR/"
-cp "$CLONE_DIR/package.json"  "$TMP_DIR/"
-mkdir -p "$TMP_DIR/scripts"
-cp "$CLONE_DIR/scripts/setup.js" "$TMP_DIR/scripts/"
-mkdir -p "$TMP_DIR/references"
-cp "$CLONE_DIR/references/manifest.json" "$TMP_DIR/references/"
-```
-
-Total upload size: ~50 KB.
-
-### 4. Publish
-
-```bash
-clawhub publish "$TMP_DIR" \
-  --slug gpt-image-2-prompts-search \
-  --name "GPT Image 2 Prompt Recommender" \
-  --version x.y.z \
-  --changelog "describe what changed"
-```
-
-### 5. Clean up
-
-```bash
-rm -rf "$CLONE_DIR" "$TMP_DIR"
-```
+1. **Bump the version** in `SKILL.md` frontmatter:
+   ```yaml
+   ---
+   name: gpt-image-2-prompts-search
+   version: 1.1.0   # ← bump this
+   ---
+   ```
+2. Open a PR, get it reviewed, merge to `main`.
+3. The **Publish to ClawHub** workflow runs automatically:
+   - Reads `version:` from SKILL.md
+   - Compares to ClawHub's current version
+   - If different → packages (honoring `.clawhubignore`) and publishes
+   - If same → skips
+4. Force republish (same version): Actions → Publish to ClawHub → Run workflow → check `force`.
 
 ---
 
-## Files Uploaded to ClawHub
+## Required GitHub Secrets
 
-| File | Size | Purpose |
-|------|------|---------|
-| `SKILL.md` | ~15 KB | Agent instructions (rendered on ClawHub page) |
-| `README.md` | ~9 KB | Human-readable docs |
-| `package.json` | ~1.3 KB | Metadata, postinstall hook |
-| `scripts/setup.js` | ~4 KB | Downloads references from GitHub at install time |
-| `references/manifest.json` | ~1.6 KB | Category directory (not the prompt data) |
-
-## Files NOT Uploaded (live on GitHub)
-
-- `references/*.json` (except `manifest.json`) — the actual prompt data, 31 MB+
-- `scripts/generate-references.ts` — internal CMS sync script, not needed by end users
-- `.github/` — CI workflows
+| Secret | Purpose |
+|--------|---------|
+| `CMS_HOST` | PayloadCMS API host (for `generate-references`) |
+| `CMS_API_KEY` | PayloadCMS API key (for `generate-references`) |
+| `YOUMIND_CLAWHUB_TOKEN` | ClawHub publish token (for `publish`) |
 
 ---
 
-## Data Updates (No ClawHub Publish Needed)
+## What Gets Packaged
 
-Prompt data is synced automatically from the CMS:
+Controlled by `.clawhubignore`. Included:
 
-- **Schedule**: Twice daily at 00:00 and 12:00 UTC via GitHub Actions
-- **To force a sync**: trigger `generate-references.yml` manually in GitHub Actions
-- **Users update locally**: `pnpm run sync` or `node scripts/setup.js --force`
+| File | Purpose |
+|------|---------|
+| `SKILL.md` | Agent instructions |
+| `README.md` | Human-readable docs |
+| `package.json` | Metadata, postinstall hook |
+| `scripts/setup.js` | Downloads references from GitHub at install time |
+| `references/manifest.json` | Category directory |
+
+Excluded: `references/*.json` (except manifest), `scripts/generate-references.ts`, `.github/`, `node_modules/`.
+
+---
+
+## Data Updates (Fully Automatic)
+
+- **Schedule**: twice daily at 00:00 / 12:00 UTC via GitHub Actions
+- **First run**: also triggered when `scripts/generate-references.ts` is pushed
+- **Users stay fresh**: `setup.js --check` silently refreshes their local copy every 24h
+- **Force a sync**: Actions → Generate References → Run workflow
+
+No ClawHub republish needed when data updates — the version on ClawHub stays constant, and clients pull fresh data from GitHub on their own.
 
 ---
 

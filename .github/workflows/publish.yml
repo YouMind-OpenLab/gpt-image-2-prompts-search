@@ -1,0 +1,104 @@
+name: Publish to ClawHub
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'SKILL.md'
+      - 'README.md'
+      - 'package.json'
+      - 'scripts/setup.js'
+      - 'references/manifest.json'
+      - '.clawhubignore'
+      - '.github/workflows/publish.yml'
+
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force publish (skip version check)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install ClawHub CLI
+        run: npm install -g clawhub
+
+      - name: Publish
+        env:
+          CLAWHUB_TOKEN: ${{ secrets.YOUMIND_CLAWHUB_TOKEN }}
+          FORCE: ${{ github.event.inputs.force || 'false' }}
+        run: |
+          set -euo pipefail
+
+          SLUG="gpt-image-2-prompts-search"
+          DISPLAY_NAME="GPT Image 2 Prompt Recommender"
+
+          # Extract version from SKILL.md frontmatter
+          VERSION=$(awk '/^---$/{n++; next} n==1 && /^version:/{gsub(/^version:[ \t]*["'"'"']?|["'"'"']?[ \t]*$/,""); print; exit}' SKILL.md)
+          if [ -z "$VERSION" ]; then
+            echo "❌ No version: field in SKILL.md frontmatter"
+            exit 1
+          fi
+          echo "📦 Local version: $VERSION"
+
+          # Check remote version
+          REMOTE_VERSION=$(clawhub inspect "$SLUG" --json 2>/dev/null | python3 -c "
+          import sys, json
+          try:
+              d = json.load(sys.stdin)
+              print(d.get('latestVersion', {}).get('version', ''))
+          except:
+              print('')
+          " 2>/dev/null || echo "")
+
+          if [ -n "$REMOTE_VERSION" ]; then
+            echo "📡 Remote version: $REMOTE_VERSION"
+          else
+            echo "🆕 Not yet published"
+          fi
+
+          if [ -n "$REMOTE_VERSION" ] && [ "$REMOTE_VERSION" = "$VERSION" ] && [ "$FORCE" != "true" ]; then
+            echo "⏭️  v$VERSION already on ClawHub — bump SKILL.md version to publish"
+            exit 0
+          fi
+
+          # Build clean publish dir honoring .clawhubignore
+          TMP_DIR=$(mktemp -d)
+          RSYNC_EXCLUDES="--exclude=node_modules --exclude=.git --exclude=__pycache__"
+          if [ -f .clawhubignore ]; then
+            while IFS= read -r pattern || [ -n "$pattern" ]; do
+              [[ -z "$pattern" || "$pattern" =~ ^# ]] && continue
+              RSYNC_EXCLUDES="$RSYNC_EXCLUDES --exclude=$pattern"
+            done < .clawhubignore
+          fi
+          eval rsync -a $RSYNC_EXCLUDES ./ "$TMP_DIR/"
+
+          SIZE=$(du -sh "$TMP_DIR" | cut -f1)
+          echo "📦 Package size: $SIZE"
+
+          SIZE_BYTES=$(du -sb "$TMP_DIR" | cut -f1)
+          if [ "$SIZE_BYTES" -gt 20971520 ]; then
+            echo "❌ Package exceeds 20 MB ClawHub limit ($SIZE). Adjust .clawhubignore."
+            exit 1
+          fi
+
+          CHANGELOG=$(git log -1 --pretty=%B | head -1)
+
+          clawhub login --token "$CLAWHUB_TOKEN" --no-browser
+          clawhub publish "$TMP_DIR" \
+            --slug "$SLUG" \
+            --name "$DISPLAY_NAME" \
+            --version "$VERSION" \
+            --changelog "$CHANGELOG"
+
+          echo "✅ Published v$VERSION"
