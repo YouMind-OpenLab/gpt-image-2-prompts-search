@@ -1,31 +1,400 @@
 [
   {
-    "id": 14341,
-    "content": "{argument name=\"number of people\" default=\"Three people\"} in front of a mirror from a top perspective taking a group photo in {argument name=\"pose type\" default=\"exaggerated poses\"}.",
-    "title": "Overhead Mirror Selfie with Exaggerated Poses",
-    "description": "A prompt testing character consistency and dynamic expressions in a mirror selfie from a top-down perspective.",
+    "id": 15004,
+    "content": "A centered studio portrait of a fluffy {argument name=\"cat breed\" default=\"ragdoll kitten\"} sitting upright and facing directly toward the camera against a seamless pure white background. The kitten has 2 visible ears, 2 vivid {argument name=\"eye color\" default=\"blue\"} eyes, a small pink nose, long white whiskers, and a soft symmetrical expression that feels gentle and curious. Its coat is predominantly white with very light silver-gray shading on the face, ears, sides, and tail, with a plush long-haired texture and a full chest ruff. The ears are darker gray at the tips, the face has subtle gray mask markings around both eyes, and the tail is thick, fluffy, and curled around to the front on the left side of the body. Show the full body from head to paws in a clean front-facing seated pose with 2 front paws visible and close together. Use soft high-key lighting, minimal shadows, ultra-detailed fur, sharp focus on the face, realistic pet photography, centered composition, and a calm minimal aesthetic.",
+    "title": "Studio Portrait of a Fluffy Blue-Eyed Kitten",
+    "description": "This prompt generates a clean, realistic studio pet portrait of a fluffy blue-eyed kitten on a white background, ideal for stock-style animal imagery or cute minimalist prints.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776883059359_gs8st0_HGggJqAakAACacS.jpg"
+      "https://cms-assets.youmind.com/media/1776936875239_p8kvpi_HGj8_TvaIAAdC9Z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14822,
+    "content": "A dreamy vertical spring portrait photo of a young woman standing in profile in a vast field of tiny blue nemophila flowers under a bright blue sky with soft white clouds. She wears a fitted ribbed knit dress in {argument name=\"dress color\" default=\"pale sky blue\"} with elbow-length sleeves, and her long straight brown hair is blowing dramatically to the right in the wind. Frame her from about mid-thigh upward, slightly off-center to the right, with the flower field filling the background and a small rope fence with wooden posts visible along the lower right edge beside a gravel path. Use soft natural morning sunlight, airy high-key exposure, gentle pastel tones, shallow depth of field, subtle lens bloom, and a romantic social-media snapshot aesthetic. Add a few large out-of-focus white flower petals drifting across the foreground. Overlay handwritten white Japanese text directly on the image: at the upper left, \"{argument name=\"greeting text\" default=\"おはよう\"}\" with a small doodled cloud beside it; below that, the date \"{argument name=\"date text\" default=\"2026.04.22\"}\"; across the lower middle-right, \"{argument name=\"main note text\" default=\"嫁と ネモフィラデート✌︎\"}\"; and beneath it, \"{argument name=\"sub note text\" default=\"に使っていいよっ♡\"}\". Keep the handwriting casual, playful, and slightly uneven like a marker pen on a photo.",
+    "title": "Dreamy Nemophila Date Portrait",
+    "description": "This generates a soft, romantic vertical portrait of a woman in a blue flower field with handwritten Japanese morning-post text, ideal for social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936787444_0zebau_HGjRWIGaAAAw1WB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14790,
+    "content": "Make an image, a {argument name=\"player\" default=\"Marcus Rashford\"} design for {argument name=\"team\" default=\"inter milan\"}, advanced design level, 9:16, mobile wallpaper, write \"{argument name=\"text\" default=\"Welcome MR14\"}\"",
+    "title": "Marcus Rashford Inter Milan Wallpaper",
+    "description": "A detailed prompt for creating a sports-themed mobile wallpaper using the GPT Image 2 model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936770107_grxvo6_HGi5hK0WQAEC5sl.jpg",
+      "https://cms-assets.youmind.com/media/1776936769963_4afnwr_HGi5hGiWgAA0TLX.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 14628,
-    "content": "A realistic studio portrait of a young East Asian woman seated on a simple black folding chair, framed from upper thighs to head in a vertical composition. She has {argument name=\"hair color\" default=\"dark brown\"} hair parted near the center and tied back into a low ponytail, with a few soft strands near the ears, small delicate earrings, fair smooth skin, and a calm neutral pose with her hands resting together between her knees. She wears a fitted ribbed zip-front crop top in {argument name=\"top color\" default=\"deep chocolate brown\"} with a pointed collar, three-quarter sleeves, and the zipper partly open to create a deep neckline, paired with high-waisted straight-leg pants in a matching {argument name=\"pants color\" default=\"warm brown\"}. The styling is monochrome brown-on-brown, with subtle fabric texture and natural body contours. The background is a soft off-white draped fabric backdrop with gentle folds, lit by diffused natural-looking window light for a clean, soft, editorial indoor look. Photorealistic, shallow depth of field, soft shadows, understated fashion portrait, minimal set, centered subject, relaxed seated posture, high detail skin and fabric texture.",
-    "title": "Seated Brown Monochrome Studio Portrait",
-    "description": "This prompt generates a photorealistic indoor fashion portrait of a seated woman in a coordinated brown outfit, suitable for editorial lifestyle or apparel imagery.",
+    "id": 14965,
+    "content": "A simple anime-style upper-body portrait of a futuristic young woman centered on a plain light gray background, drawn with loose sketchy linework and soft pastel coloring. She has long, flowing very pale pink-lilac hair that falls past her shoulders, with thin wispy strands and a gentle glossy look. Her face is completely hidden by a large centered square blur/mosaic block in muted gray-lavender. She wears a large white beret-like cap with a dark navy inner band and 2 angular dark navy side attachments, one on each side, accented with small cyan details. Add a sleek sci-fi earpiece on the visible side of her head with translucent cyan glowing elements. Her outfit is a fitted sleeveless white high-neck bodysuit with 2 bright cyan vertical panels on the front, thin dark seam lines, and small angular dark navy armor-like accents near the chest and waist. One upper arm has a dark armband with 4 thin cyan-white stripes. Show her from about the chest to the top of the head, facing slightly to the viewer’s left, with a clean elegant silhouette. Use a minimalist illustration style, delicate hand-drawn strokes, subtle cel-shading, white, cyan, navy, and pale pink as the main palette, and no background objects or text.",
+    "title": "Minimal Sci-Fi Anime Girl Portrait",
+    "description": "A clean, simple anime character portrait prompt for generating a pastel futuristic girl with a censored face, useful for stylized character art or social media visuals.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776883175128_315f91_HGgQ_wVagAAlVCQ.jpg"
+      "https://cms-assets.youmind.com/media/1776936853276_m1lf8j_HGi1DhabsAAIZFZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14964,
+    "content": "A simple anime-style upper-body character illustration on a plain light gray background, centered and facing slightly left in a calm three-quarter pose. The character is a young futuristic female android or virtual idol with {argument name=\"hair color\" default=\"platinum blonde\"} hair, styled with one thick braided bun over the left side of the head, long loose side strands, and smooth straight hair flowing past the shoulders. She wears a geometric sci-fi headset over the left ear with a glowing cyan rectangular panel and angular metallic frame. Her outfit is a sleek white bodysuit with black structural straps and trim, a tall black high-neck collar, and thin glowing cyan accent lines running vertically and diagonally across the chest and torso. She has detached white arm sleeves with black bands, including one small dark diamond-shaped ornament on the upper arm. Render the image as a clean, minimal sketchy illustration with delicate pencil-like linework, light cel shading, soft pastel colors, subtle cyan highlights, and a polished concept-art feel. Keep the composition cropped from the top of the head to below the chest, with lots of negative space and no props, no text, and no detailed background.",
+    "title": "Minimal Futuristic Anime Girl Portrait",
+    "description": "This prompt generates a clean single-character sci-fi anime portrait suitable for concept art, profile illustrations, or simple character showcase visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936853094_umme6l_HGi1DhWbgAAqrdk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14726,
+    "content": "a cute kawaii cartoon {argument name=\"animal\" default=\"dog\"} holding a steaming {argument name=\"object\" default=\"coffee mug\"}, same white background with soft light green ground, centered composition, flat 2D vector illustration, soft outlines, pastel colors, adorable mood, text above: \"{argument name=\"text\" default=\"No Coffee No Coddee\"}\" --ar 3:2",
+    "title": "Kawaii coffee dog vector illustration",
+    "description": "A prompt for creating a cute, flat 2D vector illustration of a cartoon dog holding a coffee mug with custom text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936735769_ismm2z_HGicZyTWEAAiax1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14862,
+    "content": "Using the provided reference image, isolate the same person’s head and recreate it as a centered floating 3D toy-like portrait with a glossy plastic finish. Remove the train interior, table, bottle, book, sweater, headphones, and body so only the head remains visible, cropped around the full head and ears. Add gold-framed glasses as a new accessory. Place the head against a bright saturated blue sky with soft white cartoon-like clouds, using a clean minimal composition, even daylight, and a playful surreal studio look.",
+    "title": "Floating 3D Head in Blue Sky",
+    "description": "This prompt transforms a real portrait reference into a stylized floating 3D head with a clean sky background, useful for playful avatar art or surreal profile images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936809478_fzo8vv_HGiT0DrXcAA9Rxv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14861,
+    "content": "Using the provided reference image, turn the candid train snapshot into a clean professional studio head-and-shoulders portrait of the same person. Remove the headphones, window reflection, table, thermos, book, and all train interior/background elements. Reframe from a casual off-center seated scene to a centered, front-facing crop with the subject looking straight at the camera against a plain muted blue-gray studio backdrop. Keep the same haircut, shirt-and-sweater outfit, and overall realistic photographic look, but relight it with soft even studio lighting and polished portrait retouching.",
+    "title": "Studio Portrait From Train Photo",
+    "description": "This prompt converts a casual environmental reference photo into a clean, realistic professional studio portrait for profile, CV, or corporate headshot use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936808575_n8l9fa_HGiTz_eXsAAoyvL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14810,
+    "content": "A candid smartphone mirror selfie in a moody upscale restroom with deep {argument name=\"wall color\" default=\"crimson red\"} textured walls and a large round mirror with a thin black frame dominating the composition. A {argument name=\"subject\" default=\"young woman\"} with long {argument name=\"hair color\" default=\"dark brown\"} wavy hair stands slightly off-center, leaning her torso forward and to the side in a relaxed confident pose, one hand holding the phone in front of her face and the other braced on a dark stone or marble countertop. She wears a fitted black off-shoulder long-sleeve top with a sweetheart neckline and high-waisted charcoal or black jeans, with a black shoulder bag tucked under one arm. The phone flash is extremely bright, fully obscuring the face and creating a sharp starburst plus 1 strong horizontal blue-white lens flare streak across the image, with subtle bloom and realistic smartphone exposure clipping. Behind her is a dark wooden paneled door centered in the reflection. The room includes 2 tall cylindrical wall sconces with warm glowing bulbs, one on each side near the mirror edges, 1 small gold-toned light switch plate on the left wall, 1 curved brushed-metal faucet visible at the bottom center, and 2 small candle holders or votive lights at the lower right edge. Style is authentic phone-camera photography, slightly grainy, warm low-light ambience, realistic reflections, minor sensor noise, natural shadows, intimate nightlife restroom aesthetic, vertical portrait framing.",
+    "title": "Flash Mirror Selfie in Red Restroom",
+    "description": "This prompt generates a realistic candid mirror selfie with harsh phone flash in a stylish red restroom, ideal for lifestyle, fashion, or social-media-style photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936782699_vermty_HGiPcf1XEAA862Z.jpg",
+      "https://cms-assets.youmind.com/media/1776936782770_2e2tbu_HGiPcf3XUAAHJjn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14723,
+    "content": "9:16 vertical — creative forced perspective portrait, {argument name=\"style\" default=\"Korean idol style\"}, single subject. analog 35mm film aesthetic, soft natural grain, slightly faded colors, gentle overexposure, pastel tones, low contrast, soft highlight bloom, airy and dreamy atmosphere. minimal indoor setting near a window, clean light-toned background, simple everyday environment. young {argument name=\"subject\" default=\"Korean female idol\"}, very attractive, natural minimal makeup, dewy realistic skin texture, subtle imperfections. outfit: {argument name=\"outfit\" default=\"oversized white shirt loosely draped + short bottoms\"}, soft fabric, relaxed fit, modest but subtly body-shaping, no revealing elements. hair: long dark hair, slightly messy, natural volume. composition (key): forced perspective illusion — the subject appears unusually small relative to nearby objects (such as being inside a cup, standing on a table edge, or interacting with a hand in the foreground), but still realistic; scale ambiguity created by camera distance and alignment. camera: slightly low or eye-level angle, intentional perspective distortion, foreground object close to lens, subject placed farther away to create size illusion. pose: natural relaxed posture, slight body curve, casual stance or light sitting pose. expression: soft calm gaze, slight smile or slightly parted lips, natural and unposed. lighting: diffused natural window light, soft shadows, gentle light wrapping around subject. mood: playful, slightly surreal but grounded in reality, intimate everyday moment with a visual twist. quality: ultra-realistic, fine film grain, slight softness, imperfect framing, natural imperfections.",
+    "title": "Forced Perspective Idol Portrait",
+    "description": "A complex, detailed prompt for generating a surreal forced perspective portrait of a Korean idol in a nostalgic 35mm film aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936734765_mhxpo6_HGiKx2FawAAwD-e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15055,
+    "content": "Using the provided reference image, upscale and restore the old soccer photograph into a sharper, higher-resolution, photorealistic version. Keep the same player, waving pose, blue Universidad de Chile jersey, stadium setting, and similar framing, but improve facial-area reconstruction only as much as needed under the existing censorship block, clean up the jersey details and folds, enhance color and contrast, and make the crowd/background more naturally blurred with a polished shallow-depth-of-field look. Preserve the vintage daylight sports-photo feeling while making it look clearer, crisper, and professionally remastered.",
+    "title": "Upscaled Vintage Soccer Photo",
+    "description": "This prompt restores and upscales a reference sports photograph while preserving the original composition and improving clarity for remastering old archival images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936899012_8gwn7m_HGiJBOIWQAAVOoj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15083,
+    "content": "A candid flash mirror selfie in a small retro bathroom, shot vertically with a realistic early-2000s disposable-camera aesthetic. A young woman with her face obscured by a soft rectangular blur stands in front of a slightly dirty mirror, holding a smartphone with a bright direct flash that creates a strong starburst flare at the center-right of the image. She has dark brown hair with lighter blonde highlights, styled in a messy claw-clip updo with loose strands around the face, and wears small hoop earrings plus 2 layered silver necklaces. Her outfit is a fitted white baby tee with faded pink collegiate-style text reading \"NANTUCKET\" in reverse from the mirror, and loose heather gray sweatpants with white socks; one knee is raised casually on the sink counter, giving the pose a relaxed, intimate snapshot feel. The phone case is covered with cute stickers and a round grip featuring a pink cartoon bear or bunny motif. The bathroom has pale pink wall tiles on the lower half, off-white upper walls, a sink counter cluttered with 7 visible toiletry and beauty items total: 4 bottles on the left side of the sink, 1 black hairbrush on the sink edge, and 2 perfume or cosmetic bottles along the bottom ledge of the mirror. A beige towel hangs in the background, and the mirror frame is metal with visible smudges and dust specks catching the flash. Include the subject’s shadow cast dramatically on the left wall and mirror, soft ambient greenish indoor light mixed with harsh flash, subtle film grain, natural skin texture, slight lens distortion, and an authentic unpolished lifestyle-photo mood.",
+    "title": "Flash Mirror Selfie in Retro Bathroom",
+    "description": "A realistic fashion-lifestyle mirror selfie prompt for generating candid disposable-camera style portraits in a small vintage bathroom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936910236_3g8awm_HGhvCfCaEAErAGL.jpg",
+      "https://cms-assets.youmind.com/media/1776936910309_mhd3ds_HGhvCe-acAA0YaI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14732,
+    "content": "{\n  \"prompt\": \"Studio portrait of a young adult woman with long wavy red hair and fair freckled skin, wearing a black sequined strapless mini dress and thigh-high black boots. She is seated on the floor in a relaxed yet confident pose, facing forward with a soft, neutral expression. A black ribbon choker drapes loosely around her neck. The scene is lit with warm, golden studio lighting that creates a circular spotlight effect behind her, casting soft shadows and adding depth. Minimalist background, editorial fashion photography style, high detail, cinematic warmth, smooth gradients.\",\n  \"negative_prompt\": \"lowres, blurry, bad anatomy, extra limbs, deformed hands, distorted face, harsh shadows, overexposed, underexposed, watermark, text, logo, jpeg artifacts, cartoon, CGI, 3D render\",\n  \"style\": \"editorial fashion photography, photorealistic\",\n  \"camera\": {\n    \"angle\": \"eye-level\",\n    \"framing\": \"three-quarter body portrait\",\n    \"lens\": \"85mm\",\n    \"aperture\": \"f/2.0\"\n  },\n  \"lighting\": {\n    \"type\": \"studio lighting\",\n    \"setup\": \"warm spotlight with soft falloff\",\n    \"mood\": \"cinematic and intimate\"\n  },\n  \"setting\": {\n    \"location\": \"studio\",\n    \"background\": \"warm gradient backdrop with circular light vignette\"\n  },\n  \"color_palette\": [\n    \"black\",\n    \"warm gold\",\n    \"amber\",\n    \"soft beige\"\n  ],\n  \"size\": \"768x1152\"\n}",
+    "title": "Cinematic Studio Portrait",
+    "description": "A highly detailed studio portrait prompt for GPT Image 2 using a structured JSON format to specify photography settings, lighting, and composition for a professional fashion aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936737687_n1ourt_HGhqpxWa4AAu7C8.jpg",
+      "https://cms-assets.youmind.com/media/1776936737323_hxfv3b_HGhqpxcb0AAuk4H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14746,
+    "content": "Oriental fantasy style {argument name=\"gender\" default=\"female\"}, half-body portrait, looking back in profile, ethereal and elegant temperament, soft divine beauty, delicate features, slightly downcast eyes, cool white delicate skin, light orange-pink makeup, accented with gold highlights.\n\nLong hair flowing, with colored flowers and light particles (red, blue, orange, purple) integrated into the strands; the hair has a sense of flow and airiness.\n\nWearing a translucent silk gown and shawl, the material is light and transparent, fabric fluttering in the wind, with gilded textures and shining particles on the surface.\n\nOverall lighting is warm gold backlighting, strong rim light, obvious volumetric light, floating light particles, soft glow, and a dreamy atmosphere.\n\nThe background is clean with a light color gradient, featuring shimmer and particle effects; the overall vibe is ethereal, dreamlike, and sacred.\n\nStyle: High-end CG illustration, ultra-fine, cinematic lighting, soft light rendering, 8K details, ArtStation trending style.",
+    "title": "Oriental Fantasy Female Portrait Prompt",
+    "description": "A highly detailed prompt for an elegant Oriental fantasy female portrait with cinematic lighting and intricate silk details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936747330_0v2lze_HGhFh33bEAARqwJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14953,
+    "content": "A dynamic anime illustration of a {argument name=\"character age vibe\" default=\"teen girl\"} with long {argument name=\"hair color\" default=\"dark brown\"} twin tails tied with 2 oversized pink ribbon bows shaped like cat ears, vivid blue eyes, and a serious confident expression. She is posed in an exaggerated chuunibyou-style stance, one hand spread dramatically in front of the camera with strong foreshortening and all five fingers clearly visible, the other hand framing one eye, as if casting a spell or controlling a digital field. She wears a white lab coat over a dark navy school uniform with a collared shirt, vest, tie, and pleated skirt. The scene is a futuristic neon laboratory or cyber-magic room filled with glowing purple and blue light, floating holographic interface fragments, a bright horizontal audio waveform crossing the background, and a curved row of 11 translucent rectangular cards or panels floating on the left side. On the right side, a ring of 10 floating cat-face emoji icons glows in pink, purple, and blue, with different cute and mischievous expressions. Add one large glass bottle in the lower left foreground. Her long hair streams outward with motion, and purple energy ribbons swirl around her body. Use dramatic cinematic lighting, high contrast, glossy highlights, detailed fingers, intense perspective, sparkling particles, and polished high-end anime key visual rendering in a mystical cyberpunk palette of violet, indigo, and magenta.",
+    "title": "Chuunibyou Anime Girl in Neon Lab",
+    "description": "This prompt generates a dramatic single-panel anime character illustration, ideal for showcasing a stylish magical-tech heroine in a futuristic cyberpunk setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936847655_81c7xt_HGhFUGDbwAAIz7o.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15021,
+    "content": "A hyper-detailed anime-style fisheye peephole portrait of a young woman leaning in extremely close to the lens in a narrow dim apartment hallway at night. The entire image is framed by the dark circular rim of a door peephole, creating heavy barrel distortion and an intimate, slightly unsettling perspective. She bends forward with both hands resting on her knees, face tilted up toward the viewer, filling most of the frame with one enormous visible eye and a sly, knowing half-smile. Her hair is {argument name=\"hair color\" default=\"vivid cobalt blue\"}, long and slightly tousled with layered bangs covering part of her face, and a black ribbon bow tied at the back. She wears 2 visible star accessories: a metallic star hair clip near her bangs and a small star pin on her blue jacket. Her visible eye is luminous blue with a star-shaped highlight in the iris, rendered with glossy, intricate detail; the other eye is mostly hidden in shadow and hair, half-lidded. She wears a shiny blue bomber-style jacket over a dark top, a delicate necklace with a small cross or star-like pendant, and a dangling chain accessory at her side. Her legs are bare, and she wears dark ankle boots. The setting is a cramped worn corridor with concrete flooring, aged walls, a fluorescent ceiling light, a doorframe, and a small wall-mounted utility box or intercom in the background. Use moody cinematic lighting with cool blue-purple tones, deep shadows, subtle specular highlights, and a slightly eerie but beautiful atmosphere. Highly polished digital illustration, ultra-detailed eyes, soft skin shading, crisp fabric folds, reflective surfaces, dramatic perspective, centered composition, vertical portrait format.",
+    "title": "Anime Girl Through a Peephole",
+    "description": "This prompt generates a dramatic fisheye anime portrait of a blue-haired girl peering into a door peephole, ideal for cinematic character art or moody social media illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936886205_0chfpo_HGhEOwKbEAErqIw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14840,
+    "content": "A hyper-realistic nighttime street photo seen entirely through a large circular roadside convex traffic mirror, shot in a vertical 3:4 composition with a strong fisheye lens look and pronounced dome-mirror distortion. The black rim of the mirror is fully visible and the whole circular reflection is filled with the surrounding city street, with roads, buildings, utility poles, wires, scaffolding, and signs bending dramatically toward the edges. At the lower center of the mirror reflection, a young woman is taking a mirror selfie from about the waist up, standing directly in front of the mirror and holding a {argument name=\"phone model\" default=\"white iPhone 15 Pro Max\"} in front of her face so the phone hides most facial features. She has straight dark hair around shoulder length, wears a {argument name=\"jacket style\" default=\"black leather jacket\"}, and has {argument name=\"accessory detail\" default=\"silver rings\"} on her fingers. The city scene is a quiet intersection at night with wet asphalt reflecting vivid red light. There are exactly 3 clearly visible red traffic lights in the reflection, and exactly 1 moving gray sedan crossing from right to left with slight motion blur and red neon reflections along its body. On the left side of the mirror reflection, dense metal construction scaffolding wraps the building facade, lit by a tall vertical red neon sign with white Japanese characters. Along the bottom edge and lower left, there are exactly 2 red-and-yellow striped road barriers curving with the mirror distortion. Street lamps and storefront lights recede into the background on the right side, while overhead cables and poles arc across the upper half of the image. Lighting is dominated by {argument name=\"lighting color\" default=\"intense red neon and traffic lights\"}, creating cinematic red highlights on the street, the car, the barriers, and the subject's jacket. Realistic urban Tokyo-like night atmosphere, candid yet stylish, crisp detail with slight grime and reflections on the mirror surface, high contrast, immersive convex mirror perspective.",
+    "title": "Convex Mirror Neon Street Selfie",
+    "description": "This prompt generates a realistic fisheye-style night street selfie reflected in a roadside convex mirror, ideal for cinematic urban photography and neon city mood images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936797069_b809b6_HGg_redXQAAcq9f.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14838,
+    "content": "A realistic nighttime street photo shot as a mirror selfie through a large roadside convex traffic mirror, vertical 3:4 composition, with the entire circular mirror filling the frame and no black empty border outside the reflected scene. Use a strong fisheye lens and a slightly exaggerated dome-mirror effect so the road, scaffolding, poles, buildings, and lane markings bend heavily toward the edges. At the bottom center of the reflection, show a young person from about waist up taking the photo, wearing a {argument name=\"jacket style\" default=\"black leather jacket\"}, with short dark hair, small silver hoop earrings, and 2 visible silver rings, holding a {argument name=\"phone model\" default=\"white iPhone 15 Pro Max\"} up to cover most of the face. The subject stands casually with one hand in a pocket, centered in the mirror. The street is wet and glossy, reflecting intense red light. Include 1 moving dark car crossing the curved road from left to right with subtle motion blur and bright red taillight streaks. Surround the road with dense construction scaffolding and striped barriers; show exactly 2 red-and-yellow diagonal road barriers along the right and upper-right curve and additional striped safety panels around the left side. Include 3 clearly visible red traffic lights glowing in the background. Across the top arc, place a scaffold-wrapped building with large bright red Chinese neon signage. Lighting is dominated by red neon signs and street lamps, casting saturated red highlights across the asphalt and metal structures. The mood is cinematic, urban, candid, and realistic, with a gritty night-street atmosphere in an East Asian city.",
+    "title": "Convex Mirror Night Street Selfie",
+    "description": "This prompt generates a cinematic realistic fisheye selfie in a roadside convex mirror, ideal for urban night photography and street-style portrait visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936796135_ihxjw8_HGg_reZWcAAgALk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14772,
+    "content": "{argument name=\"aspect ratio\" default=\"9:16\"} vertical composition, solo female artistic portrait, young East Asian girl, refined features, soft facial lines, natural transparent skin, retaining real texture, quiet and high-end aura, with a touch of detachment and narrative feel. Studio style fused with natural light, soft side lighting, delicate highlights on the face, gentle shadows, overall transparent and non-glaring light, with a slight black mist filter effect, subtle haziness, slight glow, strong sense of airiness. Minimalist and clean background, cream gray, off-white, light khaki, or misty warm gray walls, leaving large areas of negative space, overall clean and breathable composition. Model sitting on the ground or a low platform, one leg naturally bent, one leg relaxed and extended, body slightly leaning forward or tilted, asymmetrical shoulders, head gently tilted, natural and relaxed posture, not over-posed. Expression is calm and restrained, soft gaze, slightly detached, with a touch of thoughtfulness, lips naturally parted or slightly closed, lazy, quiet, and delicate state. Hairstyle is naturally fluffy long hair, slightly messy loose strands, soft hair, with a sense of air and layering, as if just styled but retaining a natural casualness. Makeup is high-end light makeup, Korean-style clear base, soft matte skin glow, natural highlights on the bridge of the nose and cheeks, clean eyebrow shape, elegant but spirited eye makeup, long eyelashes, lip color in low-saturation rose bean paste or milk tea nude pink. Outfit in {argument name=\"clothing style\" default=\"minimalist high-end style\"}: cream-white tight ribbed knit tank top, paired with a loose white shirt or soft knit cardigan, bottom is high-waisted skirt or minimalist shorts, fabric is soft and fits the body without overexposure, presenting natural body lines and artistic feel. The image emphasizes delicate texture, soft tones, a combination of light French and Korean magazine vibes, real photographic feel, cinematic skin tone, rich details, clear layers, restrained composition, high-end aesthetics, fashion editorial portrait, soft cinematic portrait, delicate texture, ultra-high detail, realistic, elegant, exquisite, high-end fashion photography, subtle sexiness, simple composition.",
+    "title": "High-End Cinematic Fashion Portrait",
+    "description": "An extremely detailed prompt for generating a soft, cinematic, high-fashion portrait of an East Asian woman with professional lighting and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936759060_s91qca_HGg7tyoacAA3QbX.jpg",
+      "https://cms-assets.youmind.com/media/1776936759039_9amb2m_HGg7u7mbQAAYLh3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15030,
+    "content": "A surreal studio portrait of a floating human head seen straight-on, centered in the frame against a vivid saturated blue sky with soft fluffy white clouds. The face is entirely obscured by a large smooth rectangular censor block in the center, covering from forehead to chin and most of the cheeks, with a subtle gradient of warm tan to muted blue-gray. Only the outer features remain visible: a close-cropped buzz cut with tight dark speckled hair texture on top, 2 visible ears, and the lower rounded chin and jaw. The head wears colorful eyeglass temples wrapping around the sides only, with no visible front lenses because the center is blocked; the left temple is pale cream with a tiny red-and-gold decorative mark, and the right temple is bright red-orange. Add 2 small rounded nubs peeking above the censor block near the top edge, one yellow on the left and one off-white on the right, creating a quirky toy-like feel. Render it as a hyperreal yet slightly uncanny 3D illustration, smooth skin, soft daylight, minimal composition, shallow depth of field, clean whimsical pop-surreal aesthetic.",
+    "title": "Surreal Floating Head With Censor Block",
+    "description": "This prompt generates a minimalist pop-surreal 3D portrait of a floating head with a censored face against a bright cloud-filled sky, useful for conceptual editorial or experimental avatar imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936889156_vucy9y_HGg3YMYWAAAXQTB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15029,
+    "content": "{\"type\":\"minimal vector logo sheet\",\"subject\":\"professional head-and-shoulders male avatar icon set\",\"style\":{\"design\":\"flat geometric vector, clean corporate branding, simplified facial features, mostly bald or closely shaved men, some with glasses or facial hair, no gradients except subtle metallic-looking center masks, crisp outlines, symmetrical compositions\",\"palette\":[\"dark navy blue\",\"warm gold\",\"light beige\",\"white\",\"soft gray background\"]},\"layout\":{\"background\":\"plain very light gray\",\"grid\":{\"rows\":5,\"columns\":4,\"count\":20,\"spacing\":\"wide even spacing\",\"alignment\":\"centered\"},\"items\":[{\"position\":\"row 1 col 1\",\"shape\":\"solid dark navy circle\",\"icon\":\"male bust in suit and tie, white face silhouette with a silver rectangular censor block over the face\"},{\"position\":\"row 1 col 2\",\"shape\":\"outlined circle with shoulders\",\"icon\":\"bald male head outline in navy with silver rectangular face block\"},{\"position\":\"row 1 col 3\",\"shape\":\"bust silhouette\",\"icon\":\"split-color male bust in navy and gold with gold-toned rectangular face block\"},{\"position\":\"row 1 col 4\",\"shape\":\"double-ring gold circle coin-like badge\",\"icon\":\"minimal male head with gold rectangular face block\"},{\"position\":\"row 2 col 1\",\"shape\":\"cropped bust silhouette\",\"icon\":\"minimal black hair shape and chin point, silver rectangular face block\"},{\"position\":\"row 2 col 2\",\"shape\":\"rounded vertical navy rectangle\",\"icon\":\"white male head inside, silver rectangular face block\"},{\"position\":\"row 2 col 3\",\"shape\":\"thin outlined navy circle\",\"icon\":\"male head outline with silver rectangular face block\"},{\"position\":\"row 2 col 4\",\"shape\":\"capital letter D frame in navy\",\"icon\":\"male head cropped inside with silver rectangular face block\"},{\"position\":\"row 3 col 1\",\"shape\":\"gold outlined hexagon\",\"icon\":\"male bust with dark shirt and tan skin, gold-toned rectangular face block\"},{\"position\":\"row 3 col 2\",\"shape\":\"partial head outline\",\"icon\":\"minimal side-cropped head with silver rectangular face block\"},{\"position\":\"row 3 col 3\",\"shape\":\"solid dark navy circle\",\"icon\":\"white male head silhouette with silver rectangular face block\"},{\"position\":\"row 3 col 4\",\"shape\":\"open gold circle with break at lower left\",\"icon\":\"minimal male head with pale cream rectangular face block\"},{\"position\":\"row 4 col 1\",\"shape\":\"navy shield outline\",\"icon\":\"male bust silhouette inside, silver rectangular face block\"},{\"position\":\"row 4 col 2\",\"shape\":\"stylized gold monogram M made from eyeglasses and angular lines\",\"icon\":\"abstract eyeglasses logo, no face block\"},{\"position\":\"row 4 col 3\",\"shape\":\"outlined circle with two horizontal side bars\",\"icon\":\"male head outline with silver rectangular face block\"},{\"position\":\"row 4 col 4\",\"shape\":\"navy square outline\",\"icon\":\"male bust cropped inside with silver rectangular face block\"},{\"position\":\"row 5 col 1\",\"shape\":\"navy diamond outline\",\"icon\":\"small male head inside with silver rectangular face block\"},{\"position\":\"row 5 col 2\",\"shape\":\"solid pale beige circle\",\"icon\":\"minimal male head with gold-toned rectangular face block\"},{\"position\":\"row 5 col 3\",\"shape\":\"no enclosing border\",\"icon\":\"black eyeglasses, mustache, and small goatee floating on blank background\"},{\"position\":\"row 5 col 4\",\"shape\":\"split vertical circle half navy half gold\",\"icon\":\"minimal male head with gold-toned rectangular face block\"}]},\"composition\":\"show all 20 icons as a cohesive identity exploration sheet with consistent stroke weight and spacing, centered on the page, lots of negative space, modern masculine branding aesthetic\",\"rendering\":\"sharp SVG-like vector artwork, no shadows, no texture, no text, portrait canvas\"}",
+    "title": "Minimal Male Avatar Logo Grid",
+    "description": "A clean vector design sheet showing 20 variations of male avatar and eyewear logo icons, useful for branding exploration or identity concept boards.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936888854_ii41su_HGg3V6TXUAAqA-U.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15028,
+    "content": "A centered studio portrait photo of a single adult man from upper chest to top of head, facing straight toward the camera against a smooth deep navy-blue backdrop. He has a very closely shaved buzz cut, visible ears on both sides, medium tan skin, and short dark facial hair concentrated along the chin and jawline with a faint mustache. Dress him in a plain off-white or cream crewneck sweatshirt with no logo. Use soft professional studio lighting with gentle highlights on the scalp, ears, neck, and sweatshirt, realistic skin texture, shallow depth of field, and a clean photographic look. Compose it symmetrically with the head near the top of frame and broad shoulders filling the lower half, in a vertical portrait orientation. Overlay 1 large opaque rectangular censor block centered over the face, covering from forehead to below the nose area and spanning most of the facial width; make the block a flat muted brown tone with slightly soft edges so the facial features are completely hidden.",
+    "title": "Censored Studio Portrait",
+    "description": "This prompt generates a realistic studio head-and-shoulders portrait of a man with his face obscured by a large censor block, useful for privacy-themed visuals or anonymous profile imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936888517_f9x0ef_HGg3Q1cXcAAu_io.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14490,
+    "content": "{\"type\":\"Japanese cat sticker sheet\",\"subject\":{\"animal\":\"black kitten\",\"style\":\"cute chibi-style digital illustration with soft painterly shading, rounded proportions, big amber eyes, tiny pink mouth, subtle fur texture, clean white background\",\"color\":\"deep black fur with warm brown highlights inside the ears\"},\"layout\":{\"grid\":{\"rows\":3,\"columns\":5,\"count\":15},\"sections\":[{\"title\":\"01. ありがとう！\",\"position\":\"row 1, column 1\",\"count\":1,\"labels\":[\"happy thankful pose with paws clasped at chest, open smile, pink cherry blossom petals around the cat\"]},{\"title\":\"02. おつかれさま！\",\"position\":\"row 1, column 2\",\"count\":1,\"labels\":[\"smiling with eyes closed, holding a green mug with a paw-print emblem, small puff of steam or breath beside face\"]},{\"title\":\"03. 了解です！\",\"position\":\"row 1, column 3\",\"count\":1,\"labels\":[\"one paw raised in acknowledgment, bright attentive expression\"]},{\"title\":\"04. ＯＫ！\",\"position\":\"row 1, column 4\",\"count\":1,\"labels\":[\"winking and making an OK hand gesture with one paw, cheerful confidence\"]},{\"title\":\"05. はーい！\",\"position\":\"row 1, column 5\",\"count\":1,\"labels\":[\"big smile, one paw raised high as if volunteering or greeting\"]},{\"title\":\"06. いいね！\",\"position\":\"row 2, column 1\",\"count\":1,\"labels\":[\"winking with tongue slightly out, thumbs-up gesture, pink heart beside face\"]},{\"title\":\"07. がんばる！\",\"position\":\"row 2, column 2\",\"count\":1,\"labels\":[\"determined angry-cute face, both paws clenched, surrounded by orange flames\"]},{\"title\":\"08. なんとかなる！\",\"position\":\"row 2, column 3\",\"count\":1,\"labels\":[\"calm optimistic pose with eyes closed and chest slightly puffed out, pink flowers floating around\"]},{\"title\":\"09. ごめんね…\",\"position\":\"row 2, column 4\",\"count\":1,\"labels\":[\"apologetic sad expression, paws held together near chest, single blue sweat drop beside head\"]},{\"title\":\"10. 待ってるね！\",\"position\":\"row 2, column 5\",\"count\":1,\"labels\":[\"cat peeking over a wooden tabletop with both paws visible, patient hopeful expression, slight motion lines\"]},{\"title\":\"11. おやすみなさい\",\"position\":\"row 3, column 1\",\"count\":1,\"labels\":[\"sleeping curled up on a soft pink round cushion, blue ZZZ marks and yellow crescent moon above\"]},{\"title\":\"12. いってきます！\",\"position\":\"row 3, column 2\",\"count\":1,\"labels\":[\"back view walking away energetically, one paw raised, wearing a green backpack with paw-print patch and small charm\"]},{\"title\":\"13. ただいま！\",\"position\":\"row 3, column 3\",\"count\":1,\"labels\":[\"front-facing excited return-home pose with both paws up, open smile, sparkles around\"]},{\"title\":\"14. よろしくね！\",\"position\":\"row 3, column 4\",\"count\":1,\"labels\":[\"sitting neatly, gentle friendly expression, small golden accent lines around head\"]},{\"title\":\"15. 大好き！\",\"position\":\"row 3, column 5\",\"count\":1,\"labels\":[\"eyes closed in happiness while hugging a large pink heart, smaller hearts floating around\"]}],\"text\":{\"placement\":\"above each sticker\",\"style\":\"bold handwritten Japanese text in black, each phrase prefixed by a two-digit number from 01 to 15\"}},\"customization\":{\"character\":\"{argument name=\\\"character type\\\" default=\\\"black kitten\\\"}\",\"fur color\":\"{argument name=\\\"fur color\\\" default=\\\"deep black\\\"}\",\"eye color\":\"{argument name=\\\"eye color\\\" default=\\\"amber\\\"}\",\"sheet title style\":\"{argument name=\\\"caption language\\\" default=\\\"Japanese\\\"}\",\"background\":\"{argument name=\\\"background color\\\" default=\\\"white\\\"}\"}}",
+    "title": "Cute Black Cat Japanese Sticker Sheet",
+    "description": "A 15-panel kawaii black kitten sticker sheet with Japanese reaction phrases, ideal for chat stickers, LINE-style packs, and social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936839084_e5pm20_HGgqTCBbcAAw6TD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14996,
+    "content": "A realistic first-person perspective photo in a softly lit minimalist bedroom at night, as if the viewer is standing very close to a standing mirror and looking at their own reflection. In the foreground, strands of long dark hair hang down from the top edge and both sides of the frame, partially obscuring the view, with one hand raised near the left side of the face as if touching the cheek or hair. In the mirror reflection, a young woman with {argument name=\"hair color\" default=\"dark brown\"} long straight hair is centered, wearing a loose ivory or off-white long-sleeve pajama top with delicate tiny floral texture and oversized sleeves. She poses shyly with both hands tucked under her chin, elbows inward, giving a soft, intimate, slightly bashful mood. Her face is hidden or obscured, creating an anonymous point-of-view self-portrait feeling. The mirror has a simple white frame and sits on a white vanity surface. In the background reflected in the mirror is a neatly arranged warm beige bedroom with 1 unmade bed covered in white bedding, 1 small wooden nightstand or low shelf, 1 glowing table lamp with a square white shade, and 2 tiny decorative objects beside the lamp. On the right side of the vanity are 2 clear skincare or cosmetic bottles and 1 small round white container. Use warm ambient lighting, creamy neutral tones, shallow depth of field, gentle realism, smartphone-photo composition, cozy Japanese apartment aesthetic, candid domestic atmosphere, and subtle imperfections rather than studio polish.",
+    "title": "First-Person Mirror Bedroom Photo",
+    "description": "This prompt generates a realistic intimate POV mirror selfie scene in a warm minimalist bedroom, useful for lifestyle photography, cinematic domestic visuals, or first-person AI image experiments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936870790_mxs9xp_HGgkYvkaMAEBxTn.jpg",
+      "https://cms-assets.youmind.com/media/1776936870842_av8pen_HGgkYxJbYAErV23.jpg",
+      "https://cms-assets.youmind.com/media/1776936870883_rx7xx1_HGgkY0paIAAn1s6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14341,
+    "content": "{argument name=\"number of people\" default=\"Three people\"} taking a group photo in front of a {argument name=\"location\" default=\"mirror\"} from a {argument name=\"viewpoint\" default=\"top view\"} posing in exaggerated poses.",
+    "title": "Top-View Mirror Selfie",
+    "description": "A prompt for a group photo taken from a high angle in front of a mirror with exaggerated poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936753947_405c58_HGggJqAakAACacS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15020,
+    "content": "A soft, airy anime portrait of a delicate young woman in a minimalist off-white background, shown from the chest up in a close three-quarter view. She has long, slightly wavy {argument name=\"hair color\" default=\"dark brown with ash-gray highlights\"} hair with wispy strands and straight-cut bangs, tied on one side with a large black ribbon bow. Her eyes are large, glossy, and pale gray with detailed lashes and a dreamy, distant expression. She rests her cheek against one hand, with slender fingers partly covering her face and muted gray nail polish visible. She wears a white off-shoulder blouse with voluminous sleeves, soft ruffles, gathered fabric, and thin black ribbon ties on the sleeves, creating a gentle monochrome contrast. Add a single long, elegant gold drop earring with a small pearl on the visible ear. Use a clean manga-inspired illustration style with light linework, subtle blush tones, soft cel shading, and painterly highlights in the hair. The mood is quiet, wistful, and feminine, with a refined fashion-illustration feel and a very limited palette of white, black, taupe, and gray.",
+    "title": "Soft Monochrome Anime Girl Portrait",
+    "description": "This prompt generates a stylish close-up anime portrait of a wistful young woman, ideal for profile art, character illustrations, or elegant social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936885926_w0fiuq_HGgXG3saIAAF_oT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15094,
+    "content": "A polished anime-style close-up illustration of a young virtual streamer girl leaning toward the viewer in a dim blue neon studio, themed around harshly dismissive ASMR. She has short fluffy white hair with faint icy blue highlights, soft layered bangs partly covering one eye, bright blue half-lidded eyes, pale skin, and a slightly smug, cold, teasing expression with a small open mouth as if whispering criticism directly into the listener’s ear. One hand is raised beside her mouth in a whispering pose. She wears large futuristic over-ear headphones with glowing cyan rings and a small liquid-droplet motif on top, a white short-sleeved dress uniform with navy trim, gold buttons, a large dark blue ribbon at the collar, and a large blue bow at the back, plus a visible side tag reading “shizuku.” Add 2 blurred black binaural ASMR microphones in the foreground at the lower left, creating strong depth of field. Place 1 glowing holographic vertical panel on the left side with Japanese text and waveform graphics, including the headline {argument name=\"headline text\" default=\"全否定 ASMR\"} and small branding text {argument name=\"brand name\" default=\"SHIZUKU\"}. Include 4 short Japanese negative whisper lines beneath the headline, styled like a translucent cyan UI display. The room behind her is dark, atmospheric, and softly blurred with cool blue shelves and scattered glowing droplets or bokeh lights. Use dramatic cinematic lighting, cool monochrome blue and white tones, glossy highlights, delicate blush, highly detailed eyes and hair strands, soft bloom, crisp cel-shaded anime rendering, intimate composition, slight Dutch angle, and a feeling that the character is invading the listener’s personal space for an ASMR recording. The character should read as {argument name=\"character name\" default=\"Shizuku\"}, with {argument name=\"hair color\" default=\"white with light blue highlights\"} and {argument name=\"eye color\" default=\"icy blue\"}.",
+    "title": "Blue Neon Denial ASMR Anime Portrait",
+    "description": "This prompt generates a close-up anime VTuber-style ASMR illustration with a whispering girl, binaural microphones, and a glowing denial-themed holographic text panel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936913643_sa277q_HGgWM4KbkAEZUr4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14727,
+    "content": "Stunningly beautiful {argument name=\"subject\" default=\"woman\"} with a {argument name=\"vibe\" default=\"cool, aloof atmospheric vibe\"}, exquisite and refined facial features, cold and glamorous high-end face, long flowing hair, graceful and alluring figure, (character features completely locked and consistent) Scene: Indoor space with mirrors (bathroom or mirrored wall), multiple reflections, layered depth in the space Pose: Standing in front of the mirror, one hand lightly touching the mirror surface or resting on the countertop, body slightly angled, head gently turned toward the camera Expression: Calm and emotionless, with a hint of cold indifference and detachment Camera angle: Low angle or slight side angle shot, with the mirror reflection clearly visible in the frame Lighting: Cool white light as the main source, with localized shadows, emphasizing structural contours and three-dimensionality Style: High-end fashion editorial, subtle film grain, low contrast Details: Delicately realistic skin texture, clear yet softly layered and slightly blurred mirror reflections Atmosphere: Restrained, rational, distant, with a touch of surreal unreality Quality: Ultra-sharp 8K, extreme details, cinematic lighting and shadows, beautiful depth-of-field bokeh",
+    "title": "Atmospheric cold glamor mirror portrait",
+    "description": "A highly detailed fashion editorial prompt for a woman's portrait in a mirrored space with complex lighting and reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936736006_fjzi88_HGgNKz3bcAERs5C.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15024,
+    "content": "A clean, minimalist anime illustration of a melancholic young woman in three-quarter profile, seated and resting her cheek against one hand. She has long straight {argument name=\"hair color\" default=\"blue-black\"} hair with blunt bangs, very pale skin, and soft gray-blue eyes with a distant, tired expression. Her face is small and delicate, with a tiny beauty mark under one eye and subtle lashes. She wears a dark oversized layered outfit in deep navy and charcoal: a high-neck black top under a loose draped jacket or kimono-like outer layer, with faint gold line accents and tiny eye motifs worked into the fabric. Her accessories are occult-inspired and elegant: multiple ear piercings, one long dangling earring shaped like an eye with a teardrop pendant, a thin necklace with a small eye charm, and several rings including an eye ring on the hand touching her face. Her nails are painted muted slate blue. The background is a flat warm off-white with a carefully arranged gallery of mystical eye symbols and hanging ornaments. Include exactly 6 eye-themed wall elements: 1 framed eye picture in the upper left, 1 circular eye ornament hanging below it, 1 small circle target-like ornament near the upper right, 1 black hanging charm with an eye and geometric crystals on the far right, 1 square panel with a radiant eye at mid-right, and 1 dark rectangular panel with an eye and 4 teardrop shapes at the lower right. Add a dark bottle silhouette and a few muted blue-gray leaves on the left side as secondary decor. Use a restrained palette of navy, black, cream, gray-blue, and touches of muted gold. The composition should feel quiet, gothic, feminine, and introspective, with flat graphic shapes, crisp linework, little shading, and a modern decorative poster aesthetic.",
+    "title": "Occult Eye Motif Anime Portrait",
+    "description": "This prompt generates a stylish single-character anime portrait with mystical eye-themed decor, ideal for moody editorial art, posters, or profile illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936887194_mybsqu_HGgD8sNaoAAvWa0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14413,
+    "content": "{\"type\":\"anime character collage illustration\",\"subject\":{\"gender\":\"female\",\"age_appearance\":\"late teen to young adult\",\"style\":\"elegant fantasy swordswoman idol aesthetic\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"platinum white\\\"}\",\"style\":\"very long voluminous wavy ponytail with loose curled side strands and braided crown\",\"accessories\":\"large dark navy ribbon bows\"},\"eyes\":{\"color\":\"soft red-pink\"},\"expression\":\"calm, graceful, slightly wistful\"},\"outfit\":{\"theme\":\"ornate navy and white gothic-lolita inspired battle dress\",\"pieces\":[\"white high-neck ruffled blouse with puff sleeves and gold floral embroidery\",\"large navy chest bow with a red jewel brooch\",\"structured dark navy corset waist with gold accents\",\"layered navy skirt with gold embroidery and white ruffled underskirt\",\"white ankle-strap heels with ribbon details\"],\"weapon\":\"elegant katana with black handle and gold fittings\"},\"layout\":{\"canvas\":\"square 2x2 collage with 4 panels separated by thin black borders\",\"sections\":[{\"title\":\"top-left\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"close-up portrait cropped at chest, character turned slightly away, backlit hair glowing against dark night background\"]},{\"title\":\"top-right\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"dynamic half-body action pose drawing katana horizontally, hair streaming in the wind, city lights and petals flying\"]},{\"title\":\"bottom-left\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"full-body fashion view showing the entire dress and sword, standing in a luminous reflective pavilion framed by vertical lights\"]},{\"title\":\"bottom-right\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"three-quarter back view near the ocean at sunset, looking over shoulder, soft pink sky and drifting petals\"]}]},\"environment\":{\"overall\":\"cinematic fantasy evening atmosphere with sparkling bokeh, drifting flower petals, glowing rim light, reflective surfaces, and a dreamy blend of city-night and seaside sunset moods\"},\"art_direction\":{\"quality\":\"ultra-detailed, premium anime illustration, highly polished\",\"lighting\":\"strong backlighting, luminous hair strands, golden-hour highlights, soft bloom\",\"color_palette\":\"deep navy blue, white, gold, blush pink, warm sunset lavender\",\"camera\":\"mix of portrait close-up, action mid-shot, full-body shot, and over-shoulder composition\",\"rendering\":\"intricate fabric textures, crisp embroidery, glossy eyes, delicate lace, dynamic flowing hair, shallow depth of field\"},\"prompt\":\"Create a square 4-panel anime collage of {argument name=\\\"character name\\\" default=\\\"an elegant white-haired swordswoman\\\"}, a graceful young woman with {argument name=\\\"hair color\\\" default=\\\"platinum white\\\"} hair in a long wavy ponytail tied with navy ribbons, wearing a navy and white ornate dress with gold embroidery and carrying a katana. Panel 1: intimate close-up portrait with glowing backlight. Panel 2: dynamic sword pose with windblown hair and sparkling night city bokeh. Panel 3: full-body character showcase in a luminous glass pavilion, dress spread beautifully. Panel 4: over-shoulder seaside sunset portrait with drifting petals. Emphasize ethereal beauty, luxurious costume detail, cinematic lighting, sparkling particles, and a refined fantasy anime aesthetic. Use {argument name=\\\"outfit color\\\" default=\\\"navy blue and white\\\"} as the dominant clothing palette, {argument name=\\\"weapon type\\\" default=\\\"katana\\\"} as the weapon, and {argument name=\\\"scene mood\\\" default=\\\"dreamy, elegant, cinematic\\\"} as the emotional tone.\"}",
+    "title": "White-Haired Anime Swordswoman Collage",
+    "description": "This prompt generates a polished 4-panel anime character collage showcasing an elegant fantasy girl with a sword, ideal for character art, social posts, or showcase illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936841930_ffphp8_HGf2vKmbQAAECCZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14884,
+    "content": "A realistic high-angle beach selfie of a young woman standing on bright white sand under harsh midday sunlight, framed from just above the head to the upper thighs in a vertical smartphone composition. She has {argument name=\"hair color\" default=\"black\"} hair parted in the center and styled into 2 long braided pigtails, one on each side. Her face is mostly obscured by her raised hand shading her eyes from the sun, creating a candid, slightly anonymous look. She is wearing a fitted ribbed deep V-neck cap-sleeve crop top in {argument name=\"top color\" default=\"pale baby blue\"} and low-rise {argument name=\"bottom color\" default=\"white\"} bottoms visible at the waist. Her body is slim with a soft, glamorous fashion-photo look. One arm is extended toward the camera holding the phone for the selfie, while the other hand rests across her forehead to block the sunlight. The lighting is extremely bright and washed with soft pale tones, producing delicate skin highlights, gentle shadows, and a clean airy summer aesthetic. Background is a minimal sandy beach with a faint strip of shoreline and water near the top edge, no other people, no props, no buildings. Style should feel like a polished social-media beach selfie, realistic skin texture, subtle retouching, soft pastel color grading, high detail, natural pose, feminine and youthful summer mood.",
+    "title": "Pastel Beach Selfie Portrait",
+    "description": "This prompt generates a realistic, softly lit beach selfie portrait with a youthful summer fashion aesthetic, useful for lifestyle, social media, or editorial-style image creation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936818890_8bvnoh_HGfjGU3bgAA9mGY.jpg",
+      "https://cms-assets.youmind.com/media/1776936818932_o8i3qg_HGfjGU1aMAAqXtS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15063,
+    "content": "A realistic smartphone-style travel photo taken inside a helicopter cabin, showing a seated passenger on the left side of the frame and a sweeping aerial view of Moscow through a large window on the right. The person is wearing a black zip-up athletic jacket with a small white swoosh logo, a seatbelt across the chest, a metallic wristwatch, and large black aviation headphones with a microphone boom. Their face is obscured by a rectangular blur block, and they are giving a thumbs-up gesture toward the camera. The helicopter interior is dark, with black leather seating and beige cabin trim framing the window. Outside the window, capture an overcast daytime panorama of central Moscow from above, with the Kremlin walls and towers clearly visible, the colorful onion domes of Saint Basil's Cathedral in the lower right, a broad cityscape stretching into the distance, and a cluster of modern skyscrapers on the far right horizon. Use natural diffused light, realistic urban detail, mild atmospheric haze, and the candid composition of a tourist selfie shot from a helicopter ride, wide-angle but not distorted.",
+    "title": "Helicopter Selfie Over Moscow",
+    "description": "This prompt generates a realistic travel selfie inside a helicopter with a thumbs-up passenger and an aerial view of the Kremlin and Saint Basil's Cathedral, ideal for tourism or lifestyle imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936903047_ammd4g_HGfffXiWcAA343d.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14901,
+    "content": "A moody minimalist portrait of a young man in a formal black suit, white dress shirt, and black tie, standing against a plain light beige wall in warm late-afternoon sunlight. He is shown from the chest up, slightly angled, with his face mostly obscured by shadow and framing, emphasizing the jawline, neck, ear, and tousled short black hair. In one hand he delicately holds exactly 1 long-stemmed red rose with 1 bloom and a few small green leaves, positioned beside his chest. Strong directional golden light from the left casts a crisp shadow of both the man and the rose onto the wall, creating a cinematic romantic atmosphere. Clean editorial photography, soft natural skin tones, high contrast between the dark suit and sunlit wall, shallow luxury fashion aesthetic, centered composition, realistic photo style.",
+    "title": "Sunlit Suit Portrait With Red Rose",
+    "description": "This prompt generates a cinematic fashion-style portrait of a young man in formalwear holding a single red rose, ideal for romantic, editorial, or profile-style imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936826182_qmoii6_HGfdW7QbwAAUbXw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14989,
+    "content": "{\"type\":\"sticker sheet\",\"style\":\"hand-painted watercolor anime chibi stickers with soft pencil outlines, warm textured brushwork, subtle paper grain, white die-cut sticker borders, transparent background look\",\"subject\":{\"character\":\"cute fantasy elf girl\",\"age_appearance\":\"young adult chibi\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"auburn brown\\\"}\",\"style\":\"short bob with bangs and slight curls at the sides\"},\"ears\":\"large pointed elf ears\",\"hat\":\"oversized gray-blue beret with painterly highlights\",\"clothing\":\"light cream top visible at the shoulders and sleeves\",\"expression_style\":\"grateful, cheerful, shy, emotional\"},\"layout\":{\"grid\":{\"columns\":3,\"rows\":4,\"count\":12},\"sections\":[{\"position\":\"row 1 col 1\",\"text\":\"ありがとう!!\",\"pose\":\"front-facing head-and-shoulders, eyes gently closed, grateful expression, confetti sparkles around head\"},{\"position\":\"row 1 col 2\",\"text\":\"感謝です♡\",\"pose\":\"head bowed with hands tucked under chin, eyes closed, small motion lines around beret, one pink heart\"},{\"position\":\"row 1 col 3\",\"text\":\"わー!! ありがとう\",\"pose\":\"excited side-facing chibi, one arm raised in celebration, sparkles around head\"},{\"position\":\"row 2 col 1\",\"text\":\"感謝です…♡\",\"pose\":\"slight side angle, calm thankful smile, pink heart and small sparkles\"},{\"position\":\"row 2 col 2\",\"text\":\"お礼です!\",\"pose\":\"deep polite bow with both hands covering mouth, eyes closed, two pink hearts and tiny yellow marks\"},{\"position\":\"row 2 col 3\",\"text\":\"本当にありがとう…\",\"pose\":\"turned to the side, emotional thankful pose with hands near chest, pink hearts floating on the right\"},{\"position\":\"row 3 col 1\",\"text\":\"助かりました…♡\",\"pose\":\"small shy grateful pose, facing forward with soft expression, one pink heart and sparkles\"},{\"position\":\"row 3 col 2\",\"text\":\"大感謝です!\",\"pose\":\"laughing with eyes closed, one hand pinching near nose or cheek, joyful grateful smile, pink hearts around\"},{\"position\":\"row 3 col 3\",\"text\":\"恐縮です!\",\"pose\":\"big open-mouth smile, eyes closed, one hand at cheek, sparkles around head\"},{\"position\":\"row 4 col 1\",\"text\":\"ありがたや〜\",\"pose\":\"playful salute with one hand at forehead, soft smile\"},{\"position\":\"row 4 col 2\",\"text\":\"マジ感謝です!\",\"pose\":\"centered happy grateful pose with cheeks lifted, surrounded by pink hearts and sparkles\"},{\"position\":\"row 4 col 3\",\"text\":\"天涙烏立\",\"pose\":\"sleepy or deeply bowed pose with eyes closed and head lowered, small motion line by beret\"}]},\"decorations\":{\"count\":12,\"items\":[\"yellow sparkles scattered around multiple stickers\",\"pink hearts beside grateful phrases\",\"subtle motion lines around the beret on some stickers\",\"soft white sticker cutline around each design\",\"clean empty background\",\"loose handwritten brush lettering above each character\",\"pastel watercolor shading\",\"gentle rosy skin tones\",\"text integrated as sticker caption\",\"slight variation in character angle across stickers\",\"consistent hat and hairstyle across all 12 stickers\",\"cute emotive manga sticker aesthetic\"]},\"text_style\":\"bold hand-drawn Japanese brush lettering in black, slightly irregular and playful, one caption per sticker\",\"quality\":\"high legibility, clean composition, evenly spaced 3x4 arrangement\"}",
+    "title": "Elf Girl Thank-You Sticker Sheet",
+    "description": "A 12-sticker anime watercolor sheet of a chibi elf girl with handwritten Japanese gratitude phrases, suitable for messaging stickers and social media reaction packs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936868443_bj3eoo_HGfdCA2aoAATdZD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14988,
+    "content": "{\"type\":\"sticker sheet\",\"subject\":\"cute chibi fairy girl thank-you message stickers\",\"character\":{\"gender_presentation\":\"girl\",\"style\":\"3D chibi toy-like character render with glossy plastic texture, soft kawaii proportions, large head, small body\",\"hair\":{\"color\":\"warm auburn\",\"style\":\"short wavy bob with curled ends and bangs\"},\"ears\":\"pointed elf ears\",\"hat\":\"shiny silver beret\",\"outfit\":[\"iridescent silver-white dress\",\"short puff sleeves\",\"white socks\",\"light shoes\"],\"wings\":\"2 translucent fairy wings with pastel iridescent sheen\"},\"layout\":{\"background\":\"solid chroma-key green backdrop\",\"grid\":{\"rows\":3,\"columns\":4},\"sticker_count\":12,\"spacing\":\"evenly spaced with large gaps\",\"sticker_style\":\"each figure and text rendered as die-cut stickers with thick white outline and soft shadow\"},\"stickers\":[{\"position\":\"row 1 col 1\",\"pose\":\"standing, hands clasped near chest\",\"text\":\"ありがとう!\",\"decorations\":[\"2 sparkle icons\"]},{\"position\":\"row 1 col 2\",\"pose\":\"standing with hands together in front, slight bow\",\"text\":\"感謝です\"},{\"position\":\"row 1 col 3\",\"pose\":\"holding a pink heart in front of chest\",\"text\":\"ほんと ありがと!\",\"decorations\":[\"2 pink hearts\",\"2 yellow emphasis marks\"]},{\"position\":\"row 1 col 4\",\"pose\":\"arms stretched wide in excitement\",\"text\":\"めっちゃ助かった!\"},{\"position\":\"row 2 col 1\",\"pose\":\"holding a bouquet of flowers\",\"text\":\"ありがとうの気持ちをお花にこめて\",\"decorations\":[\"2 pink flower icons\"]},{\"position\":\"row 2 col 2\",\"pose\":\"eyes closed, praying gesture with hands together\",\"text\":\"うれしい!\",\"decorations\":[\"2 small pink hearts\"]},{\"position\":\"row 2 col 3\",\"pose\":\"standing politely with hands together\",\"text\":\"いつもありがとうございます!\",\"decorations\":[\"2 sparkle icons\"]},{\"position\":\"row 2 col 4\",\"pose\":\"winking and making a peace sign\",\"text\":\"サンキュー!\",\"decorations\":[\"1 yellow star icon\"]},{\"position\":\"row 3 col 1\",\"pose\":\"raising one hand with energetic motion\",\"text\":\"すごい助かりました!\",\"decorations\":[\"1 yellow burst icon\"]},{\"position\":\"row 3 col 2\",\"pose\":\"sitting curled up with eyes closed, hands folded\",\"text\":\"あたたかいお心遣いありがとう\",\"decorations\":[\"1 pink heart\"]},{\"position\":\"row 3 col 3\",\"pose\":\"standing with hands clasped at chest\",\"text\":\"いつも支えてくれてありがとう!\",\"decorations\":[\"2 pink hearts\"]},{\"position\":\"row 3 col 4\",\"pose\":\"eyes closed, calm grateful expression, hands together\",\"text\":\"心から感謝です\",\"decorations\":[\"4 white radiating lines\"]}],\"rendering\":{\"lighting\":\"soft studio lighting\",\"camera\":\"front-facing, centered, full-body for each sticker\",\"quality\":\"clean commercial sticker-sheet composition, crisp edges, bright saturated colors\"}}",
+    "title": "Chibi Fairy Thank-You Sticker Sheet",
+    "description": "A bright green-background sticker sheet showing 12 kawaii chibi fairy thank-you poses with Japanese text, suitable for messaging stickers or merch mockups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936868107_12b1wz_HGfdCA3aMAA3QDt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14768,
+    "content": "Turn this {argument name=\"pet\" default=\"cat\"} image into a profile picture suitable for {argument name=\"platform\" default=\"social media platforms\"}. Please feel free to use your sense of {argument name=\"style\" default=\"internet trendiness\"}.",
+    "title": "Social Media Pet Avatar Creator",
+    "description": "A natural language prompt to transform a reference photo of a pet into a trendy social media profile picture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936756887_qrngof_HGfPrbDaIAAT9pQ.jpg",
+      "https://cms-assets.youmind.com/media/1776936756942_3vic61_HGfPt-SbkAEQu69.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 14515,
-    "content": "A photorealistic waist-up portrait of a {argument name=\"subject\" default=\"young woman\"} standing outdoors in bright natural sunlight, framed in a vertical composition. She has long, straight {argument name=\"hair color\" default=\"dark brown\"} hair with a glossy shine, parted slightly off center, falling over both shoulders. She wears a crisp white short-sleeve school uniform shirt with a structured collar, a navy blue striped necktie, and a detailed embroidered crest patch on the left chest pocket featuring a crown and heraldic emblem. Pose her at a slight three-quarter angle with relaxed posture, her head turned subtly to the side for a refined candid fashion-photo feel. Place her in front of vivid {argument name=\"background setting\" default=\"red shrine architecture\"} with rich red pillars and a curved blue roof detail visible in the blurred background, using shallow depth of field and creamy bokeh to keep the subject sharply in focus. The lighting should be clean, high-contrast, and flattering, with bright highlights on the hair and shirt, realistic fabric folds, natural skin tones, and a polished premium portrait aesthetic reminiscent of Japanese commercial photography.",
-    "title": "Photoreal School Uniform Shrine Portrait",
-    "description": "This prompt generates a polished photorealistic portrait of a young woman in a school uniform outdoors, ideal for editorial fashion, character visuals, or lifestyle-style AI portraits.",
+    "content": "A photorealistic upper-body portrait of a {argument name=\"character type\" default=\"Japanese high school girl\"} standing outdoors in bright natural sunlight, framed from mid-torso up in a vertical composition. She has long, straight {argument name=\"hair color\" default=\"dark brown\"} hair with a glossy sheen, a clean center part, and soft strands catching the light. Her pose is calm and slightly angled to the side, with her head turned subtly away from the camera for a candid fashion-portrait feel. She wears a crisp white short-sleeve school shirt and a navy blue striped necktie, with a detailed embroidered crest patch on the left chest pocket featuring a crown and heraldic shield. The background is a shallow-depth-of-field scene of vivid red shrine or temple architecture with bold vertical pillars and hints of blue and gold decorative elements, creating strong color contrast against the white shirt and dark hair. Emphasize realistic skin, natural fabric folds, high-end DSLR portrait photography, soft bokeh, sharp focus on hair and clothing, polished commercial beauty styling, and an elegant, refined mood.",
+    "title": "Photoreal Schoolgirl Shrine Portrait",
+    "description": "This prompt generates a realistic fashion-style portrait of a school-uniformed girl in front of vivid red shrine architecture, suitable for beauty photography or polished character visuals.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776883130126_mqzubl_HGfUniwagAA00Cs.jpg"
+      "https://cms-assets.youmind.com/media/1776936848551_tpy64e_HGfUniwagAA00Cs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14909,
+    "content": "A cute anime-style vertical selfie illustration of a smiling young man with short {argument name=\"hair color\" default=\"dark brown\"} hair and large round glasses holding a hairless Sphynx cat in a black sling bag outdoors. The man is shown close-up from the left side of the frame, wearing a black hoodie or jacket, with a cheerful open-mouth smile and bright sparkling eyes, as if taking a selfie. His right hand is raised at the top right, lifting a yellow leash strap. The Sphynx cat is centered and tucked inside the front sling bag, with very large ears, pale pink wrinkled skin, big glossy blue-gray eyes, and a calm slightly curious expression. The cat wears a warm brown sweater with tiny colorful confetti-like shapes and a yellow collar or harness. In the background, show the exterior of a modern transit station or large public building with curved steel beams and glass, under a soft blue sky. Add a decorative sign floating near the upper center with the Chinese text “带皮子出去玩” in a cute ornamental frame. Include soft pastel sparkles, tiny hearts, paw-print accents, star shapes, and a subtle lens flare near the lower left to create a warm playful mood. Clean polished line art, soft shading, pastel lighting, glossy highlights on the glasses and eyes, wholesome slice-of-life anime aesthetic, highly appealing social-media illustration.",
+    "title": "Anime Selfie With Sphynx Cat",
+    "description": "This prompt generates a polished anime-style selfie of a young person carrying a Sphynx cat outdoors, ideal for cute pet-themed social posts or character illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936829490_3nvd2h_HGfCNcba4AII-Uq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14993,
+    "content": "{\"type\":\"cute sticker sheet illustration\",\"style\":\"simple hand-drawn kawaii cat doodles, thick black outlines, minimal flat colors, white cat character, clean light gray background, LINE sticker style, playful and expressive\",\"subject\":{\"character\":\"a chubby white cartoon cat with tiny dot eyes, small smiling mouth, triangular ears, rounded body, short limbs, and a consistent simple mascot design\"},\"layout\":{\"grid\":{\"rows\":5,\"columns\":5,\"count\":25},\"sections\":[{\"title\":\"row 1\",\"position\":\"top\",\"count\":5,\"labels\":[\"cat sitting in a cardboard box\",\"cat standing and holding a pink heart\",\"cat walking with a musical note above its head\",\"cat using a gray laptop with a paw-print logo\",\"cat sleeping under a yellow blanket with Zzz marks\"]},{\"title\":\"row 2\",\"position\":\"upper middle\",\"count\":5,\"labels\":[\"cat sitting in a flowerpot with a green sprout on its head\",\"cat rolling on its back playfully\",\"cat standing and holding a blue fish\",\"cat running stretched out at high speed\",\"cat raising both paws with colorful confetti around it\"]},{\"title\":\"row 3\",\"position\":\"middle\",\"count\":5,\"labels\":[\"cat beside a pink mug with steam\",\"sparkly happy cat with blushing cheeks and paws up near its face\",\"cat curled around a small gray mouse\",\"cat peeking over a horizontal ledge with both paws visible\",\"rear view of cat with tail raised and X-shaped butt mark\"]},{\"title\":\"row 4\",\"position\":\"lower middle\",\"count\":5,\"labels\":[\"cat dressed as a chef holding a frying pan and spatula with a red neckerchief and chef hat\",\"cat riding a red bicycle with a front basket\",\"cat standing in rain holding a yellow umbrella with blue raindrops falling\",\"cat wearing a red hachimaki headband and shouting through a yellow megaphone\",\"cat sitting on a green cushion\"]},{\"title\":\"row 5\",\"position\":\"bottom\",\"count\":5,\"labels\":[\"cat inside a jack-o'-lantern pumpkin costume with an orange hood\",\"cat sleeping under a blue polka-dot blanket\",\"cat hugging a brown teddy bear with a pink heart nearby\",\"cat cheering with yellow pom-poms\",\"cat wearing a Santa hat and carrying a large white sack\"]}],\"spacing\":\"evenly spaced icons with generous margins, no borders, no text\"},\"color_palette\":{\"background\":\"{argument name=\\\"background color\\\" default=\\\"light gray\\\"}\",\"accent_colors\":[\"pink\",\"yellow\",\"blue\",\"red\",\"orange\",\"green\",\"brown\",\"gray\"]},\"quality\":\"clean sticker-sheet composition, consistent proportions across all 25 poses, charming and commercially usable for messaging stickers\",\"size\":\"1024x1024\"}",
+    "title": "Kawaii Cat Sticker Sheet",
+    "description": "This prompt generates a 25-pose kawaii white cat sticker sheet suitable for chat stickers, emoji packs, and mascot expression sets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936869705_22kw9i_HGe1UDKb0AALo_f.jpg"
     ],
     "needReferenceImages": true
   },
@@ -40,12 +409,72 @@
     "needReferenceImages": true
   },
   {
+    "id": 15032,
+    "content": "A dreamy pastel anime portrait of a delicate young woman shown from the chest up, centered in a soft ethereal composition. She has very long, flowing, wavy {argument name=\"hair color\" default=\"pale blush pink\"} hair with luminous highlights, filling most of the frame and blending into the background. Her face is intentionally hidden behind a large centered solid rectangle in muted dusty blush, creating a faceless profile-picture placeholder effect. She wears a frilly, romantic, off-shoulder dress in pale blue, white, and pink with lace trim, ruffles, satin texture, and oversized ribbon bows; exactly 3 prominent bows are visible: 1 large blue bow in her hair on the right side, 1 large pink bow near her left wrist, and 1 pink bow on her right shoulder sleeve. She gently holds a small bouquet close to her chest with both hands; the bouquet contains tiny pastel flowers in light blue, white, and pink, tied with a light blue ribbon. Her hair and outfit are decorated with scattered small blossoms, and the background is filled with floating flowers, petals, tiny hearts, and faint ribbon-like swirls for a soft spring fantasy atmosphere. Use a very light high-key palette, watercolor-like anime rendering, airy linework, glossy hair shine, lace detail, soft shading, clean illustration, vertical smartphone wallpaper composition, ultra-cute shoujo aesthetic, white and blush background, elegant and innocent mood.",
+    "title": "Pastel Faceless Anime Floral Portrait",
+    "description": "This prompt generates a soft pastel anime girl wallpaper with a hidden face, floral details, and a dreamy shoujo aesthetic, ideal for profile placeholders or romantic phone backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936889759_clpbta_HGeeCfmaMAAX6wu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15019,
+    "content": "A dreamy pastel anime portrait of a young woman with {argument name=\"hair color\" default=\"pale blush pink\"} long flowing wavy hair, shown from the waist up against a clean white background with scattered tiny flowers, petals, and soft ribbon-like swirls. Her face is fully hidden by a centered vertical rectangle in a muted dusty blush color, creating a faceless profile-picture placeholder effect. Her hair is decorated with 2 large translucent ribbon bows, one on each side, and many small blossoms woven through the hair like a floral crown. She wears an off-shoulder frilly dress in very soft white, lavender, and pink with puff sleeves, lace trim, floral accents, and delicate bow details. She gently holds a small bouquet close to her chest with both hands; the bouquet contains pastel flowers in pink, cream yellow, white, and light blue. The composition is centered, elegant, and airy, with ultra-soft line art, watercolor-style shading, high detail, light sparkles, and a romantic shoujo illustration aesthetic. Use a pale color palette, ethereal lighting, subtle transparency in the ribbons, and a vertical poster-like composition.",
+    "title": "Pastel Faceless Floral Anime Portrait",
+    "description": "This prompt generates a soft romantic anime girl portrait with floral decorations and a faceless center block, ideal for profile art, editable avatars, or pastel-themed character visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936885363_p8cyje_HGed5n4asAAkOUA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15018,
+    "content": "A clean minimalist anime portrait of a young woman from the chest up, centered in frame, with her face fully obscured by a large vertical soft-edged gray rectangle covering the entire facial area as a censorship block. She has very long flowing hair split into two tones, with deep navy blue on one side and pale silver-gray on the other, the strands sweeping outward as if moved by a gentle breeze. Add a few thin coral-pink accent streaks in the hair. She wears a high-collared, structured off-white coat or uniform jacket with a dark navy inner collar panel and two small gold buttons, giving a sleek modern sci-fi fashion feel. Her visible skin is pale, and one ear shows a tiny stud earring. Use a flat, elegant illustration style with smooth vector-like shading, no heavy texture, and a restrained pastel palette dominated by powder blue, cream, navy, and coral pink. The background should be an abstract geometric composition rather than a real setting: large cream circular and diagonal shapes over a sky-blue field, plus exactly 5 coral circular graphic accents connected by thin vertical or curved lines, arranged decoratively around the character. Keep the composition airy, balanced, and contemporary, with soft linework, subtle negative space, and a calm editorial poster aesthetic.",
+    "title": "Minimalist Anime Portrait with Censored Face",
+    "description": "This prompt generates a stylish flat-color anime character poster with abstract geometric design, useful for editorial art, avatars, and modern character key visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936885126_r2mpal_HGea7MobkAA0kH-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 14433,
     "content": "A highly realistic casual smartphone selfie taken indoors at a McDonald's restaurant in Asia, framed as a chest-up portrait of a young man seated at a table. The camera is held slightly above table height at arm’s length, creating a natural front-facing selfie perspective with one forearm extending toward the lens. The subject wears a black T-shirt with a small white Tesla logo on the left chest, has short straight black hair, thin dark eyeglass frames partly visible, and rests one hand lightly against his chin in a relaxed pose. His face is fully obscured by a large solid rectangular blur block in the center, preserving privacy while leaving the hair, ears, jawline edges, and glasses arms visible. In the lower left foreground sits 1 white McDonald's paper drink cup with a lid and a white straw, cropped by the frame. The background shows the restaurant counter area with warm ambient lighting, 1 large red wall panel on the left featuring the yellow McDonald's arches and the white slogan “i’m lovin’ it” with Chinese text below, 4 illuminated digital menu boards across the top displaying burgers, fries, combo meals, prices, and Chinese text, plus 2 people in the background near the counter, one facing away with a backpack and another partially visible behind the register. Use natural color balance, slight indoor grain, realistic reflections, shallow to moderate depth of field, and the candid look of an unstaged social media snapshot.",
     "title": "Realistic McDonald's Selfie Portrait",
     "description": "This prompt generates a photorealistic casual selfie of a man inside a McDonald's, useful for creating believable social-media-style restaurant snapshots.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1776883097033_ly0rvn_HGeaa6Sa8AAuokd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15017,
+    "content": "A highly detailed anime illustration of a seated young woman in an elegant Japanese-inspired fantasy kimono composition, centered on a clean warm off-white background. She has long straight {argument name=\"hair color\" default=\"black with deep blue-violet undertones\"} hair with blunt bangs and very long flowing side lengths, with red and blue ribbon strands woven through the hair. Her eyes are large and luminous {argument name=\"eye color\" default=\"crimson red\"}, and her expression is calm, soft, and slightly wistful. She wears an ornate floral hairpiece on the right side of her head made of 4 major blossoms in red, white, pale blue, and blue, with dangling gold ornaments and tassels. Her outfit is a richly patterned kimono in {argument name=\"kimono colors\" default=\"red, black, pale blue, cream, and touches of purple\"}, covered in cherry blossoms, stylized flowers, butterflies, cords, bows, and hanging tassel decorations. The sleeves are oversized and flowing, with visible red cord knots and floral appliqué details. She sits in a graceful curled pose with one hand near her face, bare legs prominently visible, wearing white tabi-like socks and elaborate red-and-black platform sandals with bows. Surrounding her are exactly 4 cats: 1 black cat sitting on a branch at left looking upward, and 3 white cats placed around her lower left, mid-right, and lower center-right. Include exactly 2 birds: 1 blue bird perched on the left branch and 1 small red-and-blue bird nestled among flowers at the lower right. Include exactly 3 butterflies: 2 near the upper left and 1 near the lower center by her legs. Frame the composition with plum blossom branches, hanging Japanese ornaments, tassels, diamond charms, and long fabric streamers. Add a large circular decorative motif behind her upper body and a tall vertical banner-like ornament on the right side. The overall palette should balance vermilion red, black, ivory, pale cyan, sky blue, and lavender. Style is polished 2D anime key visual, ultra-clean linework, delicate textile patterning, flat decorative shapes mixed with subtle shading, elegant negative space, highly ornamental but harmonized composition, whimsical and refined, vertical full-body character poster.",
+    "title": "Ornamental Kimono Girl with Cats",
+    "description": "This prompt generates a detailed vertical anime poster of a kimono-clad girl surrounded by flowers, ornaments, birds, butterflies, and four cats, ideal for elegant character art or decorative key visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936884929_mx4z7c_HGeabB2aUAAmEgG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14712,
+    "content": "a stunning {argument name=\"subject\" default=\"asian woman\"}, pale skin, minimalistic makeup, calm and distant expression, long straight black hair, soft diffused lighting, clean background, cinematic composition, {argument name=\"style\" default=\"high-end fashion magazine style\"}, delicate details, ethereal mood, 8k realism",
+    "title": "Ethereal Fashion Portrait",
+    "description": "A detailed prompt for creating a minimalist, cinematic fashion portrait with soft lighting and high-end magazine aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936730698_3vsdz1_HGeWnTBbwAAfi_G.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14942,
+    "content": "A clean anime-style full-body character illustration of a young woman squatting low on a plain light gray background, centered in frame, with a soft studio shadow beneath her. She has {argument name=\"hair color\" default=\"dark brown\"} short bob hair with blunt straight bangs, slightly tousled ends, and a few loose strands around the face. Her expression is {argument name=\"expression\" default=\"spiral half-lidded annoyed eyes\"}, giving a tired, gloomy, slightly irritated look. She is wearing 4 visible clothing items: an oversized light gray hoodie with drawstrings and ribbed cuffs, dark blue denim short shorts with frayed hems, white scrunched ankle socks, and black low-top skate sneakers with white side stripes, white laces, and white soles. Her pose is a compact crouch with both knees up, one elbow resting on a knee, one hand partly covering the lower face or cheek, and the other hand hanging down near the front shoe. The art style is polished modern manga/anime key visual art with thin clean linework, smooth cel-shaded rendering, subtle fabric folds, natural skin highlights on the legs, and slightly oversized hoodie proportions. Emphasize a casual, moody, introverted vibe, minimalist composition, and a high-quality character-focused illustration.",
+    "title": "Anime Girl Squatting in Oversized Hoodie",
+    "description": "This prompt generates a clean full-body anime character illustration of a moody girl in casual streetwear, useful for character art, social media avatars, or manga-style pinup images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936843000_lfyyn0_HGeLtdwawAAfPPF.jpg"
     ],
     "needReferenceImages": true
   },
@@ -200,6 +629,16 @@
     "description": "An incredibly detailed prompt for generating high-quality Fujifilm aesthetic portraits with a soft, natural, and intimate morning feel.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1776883040570_763zc0_HGc0HfYaMAAEgPM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 14384,
+    "content": "a digitally sketched color doodle of a {argument name=\"expression\" default=\"perplexed\"} an anime character with {argument name=\"hair style\" default=\"long hair\"} and {argument name=\"eye color\" default=\"big blue eyes\"} character, no text, no embellishments, flat pastel coloring",
+    "title": "Pastel Anime Character Sketch",
+    "description": "A detailed prompt for a hand-drawn style anime character with expressive features and a clean, flat pastel aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776936778175_1a0sin_HGcdNZ3XYAACilV.jpg"
     ],
     "needReferenceImages": false
   },
