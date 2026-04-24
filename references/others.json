@@ -1,5 +1,85 @@
 [
   {
+    "id": 15233,
+    "content": "Without changing the layout, text, composition, or design at all, please only correct the deterioration over time (yellowing, stains, fading, folds, and scuffs).",
+    "title": "Old Photo Restoration Prompt",
+    "description": "A precise restoration prompt for GPT Image 2's image-to-image feature, designed to fix yellowing, stains, and creases without altering the original composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022527606_9h212z_HGp25-dasAAIgoc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15431,
+    "content": "A vast cinematic sci-fi megacity at sunset, viewed from a high observation platform between dark futuristic superstructures, with an immense glowing orange-and-gold sky filled with dramatic clouds and haze. The scene shows a sprawling vertical city extending far into the distance, packed with countless ultra-tall needle-like skyscrapers and luminous architectural spires rising through layers of clouds. A colossal hovering platform-city dominates the upper right-middle area, dark metallic and heavily detailed, suspended above the skyline with smaller towers and structures attached beneath it. In the lower left foreground, a sleek futuristic spacecraft is launching away from a terrace, angled diagonally outward toward the center, with bright blue engine exhaust trails and reflective metallic panels. Tiny human silhouettes stand along the terrace edge for scale. Multiple small flying vehicles and hovercraft are scattered across the sky at different distances, creating dense air traffic. Far below, the city grid glitters with warm lights through atmospheric mist. Use a grand panoramic composition, high contrast between dark architectural framing and radiant sunset light, intricate techno-industrial detail, atmospheric perspective, volumetric clouds, reflective surfaces, and a richly colored palette of amber, peach, violet, deep navy, and electric blue accents. Ultra-detailed, epic futuristic concept art, photoreal matte-painting feel, sharp focus, dramatic scale, vertical 4:3 composition, no text or logos.",
+    "title": "Sunset Futuristic Megacity Panorama",
+    "description": "A cinematic prompt for generating an ultra-detailed sci-fi cityscape with flying vehicles, towering spires, and a glowing sunset skyline, ideal for concept art or dramatic worldbuilding visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022609578_ybxrcn_HGmYk37aMAA3HNG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15439,
+    "content": "A tightly zoomed-in comparison image demonstrating fake pixel-art rendering, showing a low-resolution-looking scene enlarged on screen with a thin bright blue square grid overlay across the entire frame. The composition is an abstract close crop of a pixel-art-style environment: sandy tan and ochre blocky forms on the left and center, a dark navy and black stepped diagonal mass on the right, muted olive-green and slate-blue shapes along the upper background, and a few lighter golden highlights. Every edge looks staircase-like and blocky at first glance, but the colors softly blur and blend within the apparent squares instead of aligning perfectly to the grid, creating the impression of pixel art that breaks down under inspection. Include a small white crosshair cursor near the upper left quadrant to suggest image analysis in an editor. The overall look should feel like a screenshot from a graphics program or social media demonstration about how AI can imitate retro game art aesthetics without producing true grid-perfect pixel art, with no text labels visible.",
+    "title": "Zoomed Fake Pixel Art Grid Analysis",
+    "description": "This prompt generates a close-up analysis-style image used to illustrate how AI-made pixel-art-looking visuals fail to align cleanly to a true pixel grid.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022613107_scja0h_HGlsX8SW4AAz9XB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15438,
+    "content": "A stylized faux-pixel-art landscape illustration of a single {argument name=\"bird species\" default=\"black raven\"} standing in profile in a golden wheat field, facing right. The image should look like retro pixel art at first glance when viewed zoomed out, but not be perfectly grid-aligned or true sprite-based pixel art; instead it should feel like painterly image-generation imitating pixel art, with soft inconsistencies in the block shapes and edges. Place the bird large in the foreground, slightly left of center, with glossy near-black feathers shaded in deep navy and indigo, a dark beak, and one small amber-brown eye visible. Surround it with tall yellow-gold grasses and exactly 9 visible small purple wildflower blossoms scattered in the foreground. In the midground, show a broad rural plain with patchy fields and a dark green tree line including a few tall narrow conifers on the right. In the distance, add a low mountain range in muted blue-violet tones. Above, create a bright {argument name=\"sky color\" default=\"soft blue\"} sky filled with large chunky cumulus clouds and a few smaller cloud bands, all rendered in limited-color dithered blocks. Use a warm late-afternoon palette with gold, blue, lavender, and dark charcoal, strong atmospheric depth, and a calm pastoral mood. Full-frame composition, landscape orientation, thin black border around the entire image, crisp blocky edges, retro game background aesthetic, highly detailed but simple, no text, no UI, no extra animals.",
+    "title": "Faux Pixel Raven in Wheat Field",
+    "description": "A retro-inspired faux pixel art scene showing a dark raven in a golden field under clouds, suitable for demonstrating pixel-art-like AI imagery or creating nostalgic game-style landscapes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022612425_5i54eu_HGlrg9vXYAAU0rG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15428,
+    "content": "A highly detailed historical maritime scene at water level, showing two large wooden sailing ships anchored close together on calm reflective water under a bright blue sky with soft scattered clouds. On the left, a massive ornate European galleon dominates the composition, viewed from the rear-left stern quarter, with richly carved baroque stern decorations in gold, red, blue, and cream, heraldic emblems, multiple stern windows, and a dark hull with warm reddish-brown planking. It has 4 visible masts including a bowsprit, dense black rigging, crow's nests, and many cream-white square sails partially unfurled and hanging loosely. On the right, a traditional Chinese junk faces slightly left, with 1 very large rust-brown battened sail raised, a curved wooden hull in brown, black, and white, carved stern details, and smaller masts and rigging. In the foreground center, include 1 small wooden rowboat with 1 standing boatman wearing light clothing and a brimmed hat, adding scale between the two ships. In the distant background, show faint silhouettes of additional sailing vessels near the horizon on the far left. Lighting is crisp daylight with warm highlights on the wood, subtle reflections in the rippling water, and a painterly yet photorealistic finish, ultra-detailed textures, cinematic composition, wide aspect ratio, no modern elements.",
+    "title": "Historic Galleon and Chinese Junk",
+    "description": "This prompt generates a detailed seascape of two different historic sailing ships with a small foreground boat, ideal for maritime art, historical illustration, or cinematic wall art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022608687_9tm8w1_HGk7qA7WsAAMUGw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15443,
+    "content": "A cinematic historical war scene from Romance of the Three Kingdoms depicting the straw boat borrowing arrows on a wide gray river during a violent rainstorm, viewed from a slightly elevated front angle. In the foreground, a convoy of 6 narrow wooden boats is lashed together in a line, each boat wrapped thickly with dense bundles of straw along the sides and bow, creating rough protective walls. Hundreds of black-feathered arrows are embedded all over the straw armor, sticking out in every direction, with more arrows flying diagonally through the air in heavy wind and rain. The lead boat dominates the frame; its cabin is covered with dark blue fabric curtains and blue roof panels. Standing calmly inside the front cabin are 2 robed ancient Chinese strategists, one in a pale white robe holding a feather fan and one darker-robed companion beside him, both composed and unhurried amid the chaos. Along the left side of the boats are clustered oarsmen and soldiers in dark period clothing, with several large war drums visible on the decks. In the background across the river, a massive enemy river fleet fills the misty distance: dozens of tall wooden warships, watchtowers, and platforms crowded with troops and archers. Multiple military banners bearing the single large Chinese character \"曹\" rise above the fleet, indicating Cao Cao's forces. The atmosphere is cold, desaturated, and epic, with fog, smoke, rain streaks, rough water, low contrast blue-gray lighting, and highly detailed realistic textures in wet wood, straw, fabric, and river spray. Ultra-detailed, photorealistic ancient Chinese battlefield tableau, dramatic scale, moody historical realism, vertical composition.",
+    "title": "Borrowing Arrows with Straw Boats",
+    "description": "This prompt generates a dramatic photorealistic Three Kingdoms river battle scene, ideal for illustrating the famous stratagem of borrowing arrows with straw boats.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022614736_h4qdf6_HGknukAbEAApvAl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15442,
+    "content": "A monumental cinematic historical painting of the Battle of Red Cliffs at night, showing an entire ancient Chinese river fleet consumed by fire. The composition is a tall vertical frame viewed from a slightly elevated dockside angle, with the river running deep into the center distance and packed with burning warships. Count exactly 3 dominant foreground raft-like platforms or deck structures on the lower left and center foreground, each made of rough timber and engulfed in flames, with soldiers standing shoulder to shoulder among drums, poles, and red battle flags. Count exactly 2 mounted commanders in the lower right foreground galloping toward the viewer along a wooden pier or bridge: the front rider is sharply visible, wearing dark lamellar armor and a wind-whipped deep red cloak, shouting with urgency; the second rider beside him is darker and partially obscured. Across the middle ground, count dozens of ancient Chinese sail warships and smaller boats, many already burning, with traditional battened sails, wooden hulls, siege-like superstructures, and collapsing masts. The far shoreline and fleet form a continuous inferno, with towering sheets of orange flame, black-red smoke clouds filling the sky, and countless sparks and embers blowing through the air. The water reflects molten orange firelight with streaks of black shadow between ships. Fill the image with dense soldiers, rigging, banners, drums, weapons, and chaotic battlefield detail, but keep the overall readability centered on the river of fire. Use a dark, dramatic palette of black, ember red, burnt orange, and bronze, with intense high-contrast firelight, volumetric smoke, epic scale, ultra-detailed textures, dynamic motion, and the grandeur of a legendary Three Kingdoms scene. Historical Chinese warfare aesthetic, grim, heroic, catastrophic, painterly realism, no modern elements, no text.",
+    "title": "Burning Red Cliffs Night Battle",
+    "description": "This prompt generates a dramatic vertical cinematic illustration of the Three Kingdoms Battle of Red Cliffs, ideal for epic historical art, posters, or social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022614130_42vlsd_HGknt1ubIAASeqX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15441,
+    "content": "A cinematic historical scene from Romance of the Three Kingdoms showing the {argument name=\"scene name\" default=\"Peach Garden Oath\"}. Three ancient Chinese men stand side by side behind a ceremonial altar table in a blooming orchard of pink peach blossoms, each holding a respectful fist-and-palm salute at chest height. The man on the left is broad and heavily built, wearing dark lamellar armor with a deep red robe panel and rugged warrior styling; the man in the center is shorter and slimmer, wearing layered brown scholar-official robes and a simple topknot; the man on the right is tall and imposing, wearing flowing dark green robes with armor details, a long black beard, and a noble commanding presence. In front of them is one large carved wooden altar table arranged with exactly 10 ritual elements: 1 bronze incense burner in the center with three lit incense sticks and visible curling smoke, 4 bronze candlesticks with small flames placed near the corners, 1 fruit plate with peaches, 1 ewer or wine vessel on the left, 2 bronze pouring vessels on the right, and 1 open scroll laid across the tabletop. Pink petals drift through the air and scatter on the ground. The orchard forms a tunnel of flowering branches overhead, with rustic wooden fencing and traditional buildings softly visible in the background through light spring haze. Include exactly 2 horses flanking the group: a dark horse on the far left and a white horse on the far right, both saddled and calm. Composition is symmetrical, eye-level, centered on the oath ritual, with rich period textures, realistic faces and fabrics, soft natural morning light, shallow atmospheric depth, and an epic, reverent, painterly-cinematic realism in the style of a prestige historical drama.",
+    "title": "Peach Garden Oath Cinematic Scene",
+    "description": "This prompt generates a cinematic Three Kingdoms oath ceremony tableau under peach blossoms, ideal for historical illustration, concept art, or dramatic literary scene recreation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022613399_rtkaqp_HGkntF_bEAAUcdi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 15109,
     "content": "A surreal sci-fi desert landscape at twilight or night, with a vast sandy plain covered in low drifting haze and surrounded by dark jagged rock formations. In the foreground, a rugged rocky ledge frames the lower left corner, with a steep cliff wall on the left and a smaller craggy outcrop on the right, while a distant mountain range sits low on the horizon. Above the horizon, centered in the sky, place 2 enormous overlapping celestial spheres: the rear sphere is a luminous blue-to-cyan gradient circle, and the front sphere is a slightly lower, partially eclipsing teal-green glowing sphere with a soft atmospheric fade on its lower half. The sky is deep black with very faint stars, creating a minimalist cosmic atmosphere. Use cinematic lighting with warm amber-brown tones across the desert and cool neon blues in the planets, soft mist, high contrast, ultra-clean digital rendering, sharp terrain detail, and a calm, otherworldly mood.",
     "title": "Surreal Desert with Twin Celestial Spheres",

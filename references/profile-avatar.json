@@ -1,11 +1,253 @@
 [
   {
-    "id": 15004,
-    "content": "A centered studio portrait of a fluffy {argument name=\"cat breed\" default=\"ragdoll kitten\"} sitting upright and facing directly toward the camera against a seamless pure white background. The kitten has 2 visible ears, 2 vivid {argument name=\"eye color\" default=\"blue\"} eyes, a small pink nose, long white whiskers, and a soft symmetrical expression that feels gentle and curious. Its coat is predominantly white with very light silver-gray shading on the face, ears, sides, and tail, with a plush long-haired texture and a full chest ruff. The ears are darker gray at the tips, the face has subtle gray mask markings around both eyes, and the tail is thick, fluffy, and curled around to the front on the left side of the body. Show the full body from head to paws in a clean front-facing seated pose with 2 front paws visible and close together. Use soft high-key lighting, minimal shadows, ultra-detailed fur, sharp focus on the face, realistic pet photography, centered composition, and a calm minimal aesthetic.",
-    "title": "Studio Portrait of a Fluffy Blue-Eyed Kitten",
-    "description": "This prompt generates a clean, realistic studio pet portrait of a fluffy blue-eyed kitten on a white background, ideal for stock-style animal imagery or cute minimalist prints.",
+    "id": 15250,
+    "content": "A hyper-detailed cyberpunk close-up portrait of a futuristic woman cyborg, framed from the shoulders up and turned in 3/4 profile, looking directly at the viewer with one visible intense emerald-green eye. She has messy, wispy {argument name=\"hair color\" default=\"bright teal\"} hair tied loosely back with stray strands falling across her face. The lower half of her face is covered by a translucent neon-lime skull-shaped respirator mask with visible teeth structure, glossy acrylic material, and internal glowing green highlights. Her head and neck are partially exposed mechanical anatomy: black metal plates, pistons, cables, micro-circuitry, screws, and robotic joints integrated into the jawline, temple, ear area, and throat. Include 5 visible ear piercings and industrial cybernetic details around the ear. Add subtle printed tech markings and tiny black tattoo-like decals on the forehead and cheek near the eye. She wears a black futuristic jacket with a high collar and a small caution-style label near the shoulder. Background is a soft-focus, saturated {argument name=\"background color\" default=\"orange\"} neon panel glow with blurred interface-like light blocks, creating strong color contrast against the teal hair and acid-green mask. Lighting is cinematic and glossy with sharp reflections on the mask and metal parts, shallow depth of field, ultra-realistic skin texture, high contrast, moody sci-fi atmosphere, premium concept art, photoreal, extremely detailed, 85mm portrait lens look.",
+    "title": "Cyberpunk Cyborg Skull Mask Portrait",
+    "description": "This prompt generates a photoreal close-up cyberpunk character portrait suitable for sci-fi concept art, posters, and social media visuals.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776936875239_p8kvpi_HGj8_TvaIAAdC9Z.jpg"
+      "https://cms-assets.youmind.com/media/1777022537104_we4czw_HGp_9N_XMAAjBWi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15307,
+    "content": "A cinematic night street scene in heavy rain, shot from outside a car with a close three-quarter view of the rear side window. A young woman with {argument name=\"hair color\" default=\"dark brown\"} shoulder-length wet hair leans her folded arms on the open car window frame and rests her head on them, gazing outward with a quiet, melancholic mood. She wears a {argument name=\"top color\" default=\"white\"} long-sleeve blouse. The car body fills the right half of the frame, covered in dense sparkling raindrops, with the window trim and door surface sharply detailed. The woman’s face is partially obscured by shadow and framing, creating anonymity and mystery. The left half of the image shows an out-of-focus city street with exactly 2 warm amber streetlights visible as glowing orbs near the top and middle distance, plus multicolored bokeh from traffic and signage in red, blue, white, and orange. Wet asphalt reflects the lights in long streaks. Visible rain streaks fall through the scene. Use a shallow depth of field, strong orange-and-teal color contrast, glossy reflections, moody noir atmosphere, realistic photography, high contrast, soft filmic bloom, and a slightly overprocessed AI-photo feel with occasional high-frequency sparkle and rain noise. Square composition.",
+    "title": "Rainy Night Woman Leaning from Car",
+    "description": "A moody cinematic photo-style image of a woman leaning out of a rain-soaked car window on a neon-lit city street, suitable for atmospheric editorial or AI image testing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022561001_saqalp_HGp4DGobMAABKwO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15395,
+    "content": "Using the provided reference image, transform the casual poolside selfie into a clean professional head-and-shoulders studio portrait. Keep the same person and the same polo shirt, but remove the outdoor resort background, other people, furniture, pool, and all vacation context. Reframe to a centered portrait crop with the subject facing the camera, shoulders visible, and the selfie angle corrected into a formal straight-on composition. Add a smooth dark teal studio backdrop with subtle vignetting and soft, flattering portrait lighting for a polished corporate profile-photo look.",
+    "title": "Selfie to Studio Headshot",
+    "description": "This prompt turns a casual reference selfie into a polished professional studio headshot, useful for business profiles, LinkedIn photos, and corporate portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022596493_61tf8l_HGp3s2BWIAAi7lP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15394,
+    "content": "Using the provided reference image, keep the same person and the same blue polo shirt, but transform the casual poolside selfie into a clean professional studio head-and-shoulders portrait. Remove the entire outdoor resort background and replace it with a solid warm orange backdrop. Reframe the shot so the subject is centered, facing the camera straight-on, cropped from mid-chest upward, with even soft studio lighting and a sharp, polished photo quality. Eliminate the selfie feel, background distractions, and other people, and add a small white four-point sparkle icon in the bottom-right corner.",
+    "title": "Studio Portrait From Vacation Selfie",
+    "description": "This prompt turns a casual reference selfie into a centered professional studio-style portrait for profile photos or polished personal branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022595185_ydoq2s_HGp3s19XIAAV0cr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15267,
+    "content": "A moody full-body fashion portrait of a {argument name=\"subject\" default=\"young woman\"} standing in a narrow urban alley or tunnel covered in dense colorful graffiti, photographed at night with dramatic low-key lighting and flash-lit realism. She is leaning casually against the wall with 1 hand touching a large pair of over-ear black headphones and 1 hand tucked into the front pocket of an oversized {argument name=\"hoodie color\" default=\"mustard yellow\"} hoodie. The hoodie is long enough to read almost like a hoodie dress and has a simple black smiley-face graphic centered on the chest with white drawstrings. She wears a black backpack with 2 visible shoulder straps, white crew socks, and chunky black-and-white low-top sneakers. Her legs are bare, and her pose is relaxed with one knee slightly bent and one foot set forward. Her hair is shoulder-length, slightly messy, and {argument name=\"hair color\" default=\"dark blonde\"}. Compose the shot vertically from head to shoes, with the subject centered slightly left of frame. The background is a gritty painted wall dominated by turquoise blue, yellow, pink, and black spray paint, with drips, tags, and abstract cartoon-like graffiti shapes creating a raw street-art atmosphere. The floor is dark, worn, and reflective with paint splatters. Use high contrast, deep shadows, realistic skin and fabric texture, editorial streetwear photography style, underground urban vibe, sharp focus on clothing and body, subdued facial detail, and a cinematic dark nightlife mood.",
+    "title": "Urban Graffiti Hoodie Fashion Portrait",
+    "description": "This prompt generates a realistic full-body streetwear portrait of a young woman in an oversized hoodie posing against a colorful graffiti wall, ideal for urban fashion and nightlife-themed AI imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022544820_f2pw2v_HGoRrO_bwAAkTLp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15342,
+    "content": "A simple cute flat vector illustration of a cheerful Japanese schoolgirl centered on a plain light gray background, shown from about mid-thigh up in a front-facing pose. She has long straight {argument name=\"hair color\" default=\"black\"} hair with side-swept bangs, fair skin, a rounded face, pink blush on both cheeks, one eye open and the other eye winking, a small nose, and an open smiling mouth. She is wearing a classic Japanese high school uniform with a dark navy blazer, white shirt collar, large red ribbon bow at the neck, and a gray pleated skirt, with 2 visible gold blazer buttons. Both arms are stretched straight out horizontally to the sides toward the viewer, and both hands are making peace signs with the fingers angled downward. Use bold clean black outlines, soft pastel-like flat colors, minimal shading, kawaii sticker-style proportions, symmetrical composition, and a friendly playful expression.",
+    "title": "Cute Winking Schoolgirl Peace Sign",
+    "description": "A clean kawaii vector-style illustration of a smiling schoolgirl in uniform making double peace signs, suitable for icons, stickers, and simple character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022575285_9xep5d_HGm6M8sbMAAONQf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15461,
+    "content": "A warm, cute digital illustration in a cozy desk setting celebrating a new subscription. On the left is a friendly humanoid robot mascot with a glossy black face screen showing pixelated purple LED eyes and a smiling mouth, wearing a tall black top hat with a purple band and a dark hoodie with a small American flag patch on one sleeve and the text \"USN VET MSSP\" on the chest. The robot gives a thumbs-up with one hand and holds a small rectangular sign in the other that reads \"Subscribed!\" with a purple heart underneath. On the right is a delighted young woman with long wavy {argument name=\"hair color\" default=\"golden blonde\"} hair, seated at the desk with hands clasped near her chin in an excited grateful pose, wearing a white long-sleeve top with red and blue striped trim and a small chest logo. Her face is obscured by a simple square censor block. Above them, large playful handwritten text says \"{argument name=\"headline text\" default=\"Nick subscribed Sharon!\"}\". Beneath the headline is a rounded notification card showing a circular avatar of the same robot mascot, the name \"{argument name=\"subscriber name\" default=\"Nick\"}\", and the text \"Subscribed to {argument name=\"creator name\" default=\"Sharon Riley\"}\" followed by a purple heart. A speech bubble next to the woman says \"{argument name=\"speech bubble text\" default=\"Thank you!\"}\". Scatter exactly 7 pink heart doodles around the composition and add 1 small white sparkle near the center. Place everything on a wooden tabletop. On the left side of the desk, include 1 black mug with the text \"CRYPTO CAN'T BE EVIL\" and 1 gold coin featuring a Shiba Inu dog face. In the center-right foreground, include 1 white mug reading \"AI FOR GOOD\" with a blue heart. On the far right, stack exactly 3 books with visible spine titles: \"AI & CREATIVITY\", \"ENTERTAINMENT\", and \"DREAM BIG\" with a heart, beside 1 small potted plant. Use a softly blurred home-office background with shelves, pastel decor, and a framed letter X on the wall. Soft peach and beige lighting, painterly shading, rounded shapes, wholesome streamer fan-art aesthetic, polished storybook-style digital painting.",
+    "title": "Cute Subscription Celebration Illustration",
+    "description": "This prompt generates a cozy fan-art style thank-you scene showing a robot mascot and creator celebrating a new subscriber, ideal for social posts and supporter shout-outs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022621644_phzvyl_HGmOlqrbYAEQtSi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15417,
+    "content": "A dramatic vertical poster-style mixed-media portrait with a gritty urban editorial aesthetic, designed like a concert or personal brand poster. Center a middle-aged man from the waist up, wearing a black T-shirt, standing slightly turned and raising one arm upward with his index finger pointing toward the top of the frame. His face is intentionally obscured by a rectangular blur block. Use a dark black and sepia color palette with distressed cream and gold accents, heavy grunge textures, ink splatters, scratched overlays, torn-paper brush marks, dust, and weathered print effects. Place a large muted gold circular halo behind his head and upper torso. In the background, create a collage of Córdoba city landmarks: a cathedral facade on the right side, a river with bridge and low skyline on the left side, all blended into the textured poster composition. Add oversized bold condensed serif typography at the top reading {argument name=\"headline text\" default=\"EDU PEREYRA\"}, with “EDU” in large distressed off-white letters and “PEREYRA” below in gold. Add 5 smaller text groups around the composition in uppercase handwritten or condensed styles: top left “MÚSICA PASIÓN VERDAD”, top right “DESDE ADENTRO HACIA AFUERA”, mid-right “LO QUE SE SIENTE NO NECESITA EXPLICARSE”, mid-left “AGRADECER SEGUIR CREAR”, and bottom center “TIERRA DE HISTORIA, CORAZÓN DE GENTE.” Across the lower foreground, add a huge expressive brush-script word {argument name=\"city name\" default=\"cordoba\"} in off-white, slightly diagonal, with a gold underline swoosh. Include 3 small symbolic graphic accents: a tiny crown icon near the upper right, a small starburst ornament near the bottom center, and a handwritten signature mark at the lower right. The shirt should include vintage printed lettering and emblem graphics. Lighting is moody and contrasty, with the subject cut out sharply against the layered collage. Overall feel: raw, passionate, musical, spiritual, local-pride poster, premium distressed print design, high visual impact, cinematic and artisanal.",
+    "title": "Gritty Córdoba Music Poster",
+    "description": "This prompt generates a dramatic grunge-style vertical poster featuring a raised-arm portrait, bold typography, and Córdoba city landmarks for branding, music, or cultural promo art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022604663_ztwfsz_HGmHP8BXgAAQ-hf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15393,
+    "content": "A close-up anime portrait of a mysterious young woman with very long flowing black hair threaded with vivid {argument name=\"accent color\" default=\"violet\"} streaks, shown from the chest up against a clean pale background. Her face is intentionally hidden by a large centered square censor block in muted gray-lavender, covering the eyes, nose, and most of the mouth area. One ear is fully visible with 2 earrings: a small geometric stud and a long delicate chain earring ending in a cross-like charm. She wears 2 necklaces: a fine silver chain and a second silver pendant necklace with a faceted diamond-shaped purple gemstone. Her outfit is an oversized loose off-shoulder top in soft light gray, slipping down to reveal one shoulder, with a small black star emblem printed on the chest. The hair is glossy, layered, and winds across the composition in elegant strands, with the purple streaks creating dramatic contrast. Add thin decorative celestial line art in the background with 7 visible star or sparkle motifs in matching violet and subtle geometric corner framing, giving a refined gothic, dreamy, modern aesthetic. Soft lighting, delicate linework, pastel-neutral palette with black and violet emphasis, highly polished anime illustration, centered composition, square format.",
+    "title": "Censored Gothic Anime Girl Portrait",
+    "description": "A polished anime-style portrait prompt for creating a moody, fashionable girl with violet-accented black hair, jewelry, and a stylized censored face for profile art or social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022595142_vrncdz_HGmBZ1ibkAAsth7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15197,
+    "content": "Style: A snapshot of an Instagram story featuring {argument name=\"character\" default=\"Albedo cosplay\"}\n- Content: {argument name=\"pose\" default=\"squatting on the ground facing the camera\"}, making exaggerated rebellious hand gestures, rolling eyes with an arrogant and disdainful expression",
+    "title": "Instagram Cosplay Story Snapshot",
+    "description": "A prompt designed to look like a social media snapshot of a rebel-style cosplay, featuring specific poses and facial expressions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022511856_tr0cjf_HGl_lwuaAAAnXRm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15401,
+    "content": "A soft, muted anime-style illustration of a young woman seated indoors at a table, shown from a slightly elevated close-up angle as if taken in a casual selfie. Her face is fully obscured by a centered square censor block in a warm taupe tone. She has long, slightly tousled {argument name=\"hair color\" default=\"medium brown\"} hair with delicate strands falling over her shoulders and chest, natural shine, and a gentle layered cut. She wears an oversized {argument name=\"top color\" default=\"off-white\"} sweatshirt over a visible gray inner collar, plus a thin silver necklace with a small drop pendant. Her pose is relaxed and intimate, with one arm extending toward the viewer, shoulders slightly angled, and her body turned diagonally across the frame. The background is minimal and calm: a beige wall, a dark bench or chair back, and the corner of a wooden tabletop visible at the lower right. Include a tan skirt or folded beige fabric near her lap at the bottom right. Use subdued earth tones, soft shading, painterly linework, a cozy everyday mood, and a clean contemporary Japanese illustration aesthetic.",
+    "title": "Censored Anime Girl Selfie Portrait",
+    "description": "This prompt generates a soft, intimate anime-style portrait of a seated young woman with her face hidden by a censor block, ideal for profile art or mood-driven social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022598653_wysvi3_HGltjXzaIAAQOHp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15424,
+    "content": "A photorealistic lifestyle portrait of a young woman seated outdoors in a lush sunlit garden, framed from about mid-thigh up in a vertical composition. She has {argument name=\"hair color\" default=\"dark blonde\"} shoulder-length to chest-length naturally wavy hair with a slightly tousled texture and a center part. Her face is fully obscured by a flat solid medium-tan rectangular censor block, centered over the face and extending from forehead to chin. She is wearing a {argument name=\"dress color\" default=\"white\"} sleeveless summer dress with thin spaghetti straps, a fitted bodice, and 2 front bow ties creating 2 teardrop-shaped cutouts down the center of the chest and upper torso. She wears 2 delicate gold necklaces: 1 short chain with tiny charms and 1 slightly longer chain with a small circular pendant. Her pose is relaxed and natural, sitting on a dark woven outdoor chair with her arms resting down in front of her lap, shoulders soft, body facing forward. The background is a richly detailed garden with dense green foliage, shrubs, and soft pale flowers, rendered with shallow depth of field and creamy bokeh. Bright natural daylight, soft summer atmosphere, realistic skin texture, high-end candid editorial photography, subtle highlights on hair, vibrant greens, clean exposure, sharp subject focus, casual luxury lifestyle aesthetic. Include a small white \"Pollo.ai\" watermark in the top-right corner.",
+    "title": "Garden Portrait With White Summer Dress",
+    "description": "This prompt generates a realistic outdoor lifestyle portrait commonly used for fashion, social media, or app-demo visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022607069_ahjvxw_HGlh_C2XYAAkdFc.jpg",
+      "https://cms-assets.youmind.com/media/1777022607275_r4b759_HGlh_C1XEAAuffN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15188,
+    "content": "Cinematic snapshot, 50mm, handheld motion blur, candid paparazzi perspective, night beach with warm orange streetlights + cold blue sea in the distance, high contrast colors, slight grain. Asian girl, natural well-proportioned figure, slightly wet hair scattered by the wind, realistic skin texture. Grey hooded sweatshirt + short sports pants, slightly loose but with lines. Sitting on the edge of a breakwater, looking down to tie shoelaces, leaning forward, action incomplete, not looking at the camera, blank expression. Foreground with blurred passers-by, slight ghosting + slight out-of-focus. Sea wave reflections + concrete dam + scattered debris environment, casual and irregular composition, authentic snapshot feel, 4K.",
+    "title": "Cinematic Candid Night Seashore Portrait",
+    "description": "A highly detailed prompt for a cinematic, handheld-style shot of a woman at the beach at night with realistic skin textures and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022507864_9qs91i_HGlWIiWaIAAllJy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15184,
+    "content": "Create a 4:5 high-contrast, black-and-white studio portrait of a {argument name=\"subject\" default=\"handsome man\"} in the uploaded image. He is seated in a slumped, pensive posture on a {argument name=\"furniture\" default=\"minimalist dark wooden chair\"}. His right elbow rests on his knee, with his head leaning heavily into his palm, while his left hand loosely grips a white disposable coffee cup with a black plastic lid. He is wearing classic black Wayfarer-style sunglasses, hiding his eyes and adding to the stoic, moody atmosphere.Suit: An oversized, structured black blazer and matching wide-leg trousers. The fabric is a heavy, matte wool. Four small black buttons are visible on the sleeve cuff. Footwear: Crisp, bright white ribbed cotton socks creating a sharp visual break between the dark trousers and shoes. Shoes: Highly polished black leather Oxford shoes with thin laces and a slight sheen on the toe box. Background: A minimalist, sterile studio setting with a {argument name=\"background\" default=\"light grey or off-white textured plaster wall\"}. A soft, vertical shadow or curtain edge is visible on the far left. Lighting: Soft, diffused side-lighting that creates gentle gradients on the man's face and deep, dramatic folds in the oversized suit. The lighting emphasizes the high-contrast \"black on white\" aesthetic. Floor: A light, seamless studio floor that catches the soft shadows cast by the chair legs and the man's shoes. Color Grade: Pure monochrome (black and white) with a wide dynamic range—deep blacks and bright, clean whites. Film Quality: Sharp focus on the subject with a very subtle film grain, mimicking professional editorial fashion photography (reminiscent of 1990s minimalist campaigns).",
+    "title": "High-Contrast Monochrome Studio Portrait",
+    "description": "A highly detailed prompt for generating a professional, minimalist black-and-white fashion portrait based on an existing subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022505335_jzttcn_HGlODTZaQAAGsiM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15328,
+    "content": "A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bedroom at night, seated close to the viewer with her knees pulled up and a black 3Dio-style binaural microphone centered in front of her. She has {argument name=\"hair color\" default=\"deep violet\"} hair in a loose messy updo with wispy bangs framing her face, large sparkling {argument name=\"eye color\" default=\"blue\"} eyes, a gentle blush, and a sweet open-mouth smile. Her head is tilted slightly toward the viewer in a warm, affectionate pose. She wears a delicate white lace camisole with thin straps and an oversized fluffy knit cardigan in {argument name=\"cardigan color\" default=\"soft pink-lavender\"} draped off her shoulders, creating a tender, intimate late-night healing atmosphere. Both hands lightly touch the white silicone ears of the microphone as if about to give an ear massage. The room is softly lit with pink and amber ambient lighting, heavy curtains in the background, a bed or sofa with plush cushions, warm fairy-light bokeh, and a small plant on the right side. Add glowing handwritten Japanese neon text integrated into the composition: on the left, 4 text elements reading \"とろける\", \"耳\", \"マッサージ\", and \"ASMR\" with 2 small heart symbols; on the right, vertical text reading \"いっぱい癒してあげるね…♡\". Use a polished modern anime style, highly detailed face and hair, glossy eyes, smooth luminous skin, soft shading, pastel highlights, shallow depth of field, romantic cozy streamer-thumbnail composition, and a soothing feminine color palette dominated by pink, lavender, cream, and warm gold.",
+    "title": "Cozy Anime ASMR Ear Massage Girl",
+    "description": "This prompt generates a soft, romantic anime thumbnail-style illustration of a girl with a binaural microphone and glowing Japanese ASMR text, ideal for streaming, video cover art, or social media promo visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022569364_9nxugu_HGk6v-nbIAAzWsm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15230,
+    "content": "Make this more in a modern {argument name=\"style\" default=\"Vtuber-style\"} with flashy colors and a fun, pop feel. Please arrange all {argument name=\"count\" default=\"4 images\"}. Make the composition even more bold.",
+    "title": "Character color and style adjustment",
+    "description": "A refined prompt for iterating on character designs, specifically transforming rough sketches into vibrant, Vtuber-style illustrations with bold compositions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022526093_tikb0d_HGk0fM0bcAAzKEd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15237,
+    "content": "A close-up portrait of {argument name=\"subject\" default=\"an elderly fisherman\"} with deep wrinkles, wearing {argument name=\"clothing\" default=\"a yellow raincoat\"}, looking at the camera, {argument name=\"lighting\" default=\"dramatic lighting\"}, 8k resolution, photorealistic, shot on 35mm lens, highly detailed.",
+    "title": "Detailed Elderly Fisherman Portrait",
+    "description": "A highly detailed prompt for generating a realistic portrait of an elderly fisherman, focusing on intricate skin textures and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022528988_f62axq_HGkweE7bsAAybHE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15406,
+    "content": "A soft pastel watercolor anime illustration of a young elf girl sitting on a bed in a quiet sunlit bedroom, viewed from a slightly elevated three-quarter angle. She has {argument name=\"hair color\" default=\"warm orange\"} shoulder-length hair with soft layered strands, large blue eyes, pale skin, and long pointed elf ears. A red flower hair clip decorates the left side of her hair. Her expression is calm and dreamy as she gazes upward toward the bright light on the right side of the image. She wears a loose sage-green chiffon dress with ruffled trim, sheer puffed long sleeves, gathered ribbon details at the chest, and a black lace camisole visible underneath, plus a thin red choker with a small pendant and dark thigh-high stockings. She is posed seated near the edge of a lavender bedspread, leaning back with both hands resting on the mattress behind her, legs extended diagonally toward the lower right. The room is delicate and minimal: 1 bed with 2 white pillows, 1 wooden headboard or bedside surface behind her, 1 window on the left, 1 small potted plant on the windowsill, and flowing lavender curtains. Strong warm sunlight floods the scene from the right, creating a large glowing white area and gentle washed-out highlights. Use an airy handmade watercolor look with visible paper grain, soft bleeding edges, pastel lilac and cream shadows, subtle sparkled pigment texture, and a serene fantasy slice-of-life mood.",
+    "title": "Watercolor Elf Girl on Sunlit Bed",
+    "description": "This prompt generates a dreamy watercolor anime portrait of an elf girl seated on a bed, ideal for fantasy character art, soft illustration prints, or mood-piece concept imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022600464_hl25gc_HGkVIaDagAA_x0R.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15246,
+    "content": "A high-end studio editorial portrait, half-body framing, featuring a {argument name=\"subject gender\" default=\"woman\"} in her mid-30s to early 40s with a naturally fit build. She stands facing the camera in a relaxed, confident pose with both hands tucked into her pants pockets, shoulders soft, posture upright, and a calm neutral self-assured expression. She has shoulder-length to slightly longer dark brown wavy hair with a natural side part and loose volume. She wears 3 visible clothing pieces: an olive green lightweight casual jacket with a slightly worn cotton texture, zip front and a single chest flap pocket; a plain dark charcoal or black crew-neck t-shirt underneath; and dark fitted pants with a black belt and simple square buckle. Shot at eye level with an 85mm portrait lens, shallow depth of field around f/2.8, keeping the subject crisp and detailed while the background falls softly out of focus. Use professional studio lighting with 3 clear light components: 1 softbox key light from the front, 1 subtle fill light to soften shadows, and 1 gentle rim light from behind to separate the hair and shoulders from the backdrop. Background is a seamless clean studio backdrop with a warm beige-to-taupe neutral gradient, smooth and distraction-free. The overall image should feel highly realistic, polished, and modern, like an understated fashion campaign or lifestyle magazine portrait. Natural balanced color grading, realistic skin tones, ultra-detailed fabric texture and hair strands, no noise, no motion blur, no stylization, no cartoon elements, no anatomical distortions, 8K quality.",
+    "title": "Editorial Studio Portrait in Olive Jacket",
+    "description": "This prompt generates a realistic half-body studio fashion portrait with muted casual styling, useful for editorial headshots, lifestyle campaigns, and professional portrait comparisons.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022532780_ncjepp_HGkNwyObQAAuXEc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15245,
+    "content": "A highly realistic editorial studio portrait of a {argument name=\"subject gender\" default=\"woman\"} in their late 30s with a naturally fit build, shown in a half-body composition at eye level. The subject stands facing the camera in a relaxed, confident posture with both hands tucked casually into pockets, wearing a dark charcoal tailored blazer over a muted olive-gray crew-neck t-shirt and dark trousers. The hair is {argument name=\"hair style\" default=\"shoulder-length dark brown wavy hair with a natural side part\"}, slightly tousled and softly framing the shoulders. Keep the expression calm, neutral, and self-assured. Use an 85mm portrait lens look at f/2.8 with the subject sharply in focus and the background softly blurred. Lighting is clean professional studio lighting with 1 softbox key light from the front, subtle fill to reduce harsh shadows, and 1 gentle rim light around the hair and shoulders. The background is a seamless studio backdrop with a soft warm beige-to-light taupe gradient, minimal texture, and no distractions. Color grading should be natural and balanced, with realistic skin tones, soft contrast, and no heavy retouching or filters. The overall mood is understated, modern, polished, and premium, like a fashion or corporate editorial portrait. Ultra-detailed, photorealistic, 8k, no noise, no motion blur, no distortions, no props, no jewelry, no text.",
+    "title": "Editorial Studio Portrait in Blazer",
+    "description": "This prompt generates a polished half-body studio portrait with modern muted styling, ideal for editorial, branding, or professional portrait use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022532586_cnt3yk_HGkNwrmbcAAizhZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15256,
+    "content": "A stylized half-body portrait of {argument name=\"subject\" default=\"a brilliant young woman inventor\"} in a dark, moody studio, rendered as a warm amber-and-copper digital painting with semi-realistic detail and subtle sketch-like linework. She faces forward in a relaxed upright pose, cropped from about mid-torso upward, with long dark brown hair swept loosely over one shoulder, a few flyaway strands rim-lit by orange backlight, and thin clear-framed eyeglasses partly visible. Dress her in a glossy mustard-yellow bomber jacket over a deep burgundy turtleneck sweater. The lighting is dramatic and cinematic: a glowing spherical lattice lamp sits behind her on the left, casting a golden halo and warm edge light around her hair and jacket, while the rest of the background fades into charcoal brown shadow. Behind her, integrate the feeling of a visual memory map or inventor's mind palace: faint technical sketches, geometric construction lines, and handwritten scientific notes drawn directly onto the background like illuminated chalk. Include exactly 2 large wireframe forms on the right side: 1 tilted basket-like lattice ellipsoid near the upper right and 1 faint rectangular diagram with axis-like guide lines near the lower right. Include exactly 1 glowing lattice sphere lamp on the lower left. Add small handwritten text in the upper right that reads “TPMS” with three bullet-like lines underneath: “gyroid”, “diamond”, and “primitive”, and a small formula note reading “E = hv” near the right-center. The overall mood should feel intelligent, elegant, flattering, and slightly futuristic, like a portrait merged with a conceptual memory interface. Use a rich palette of burnt orange, gold, auburn, brown-black, and wine red, with high contrast, luminous highlights, and a polished editorial-art finish.",
+    "title": "Inventor Portrait Memory Map",
+    "description": "This prompt generates a flattering stylized portrait of a woman surrounded by scientific memory-map visuals, ideal for personal branding, concept art, or speculative interface design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022540051_8ej21k_HGj-OU_akAAh8mF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15004,
+    "content": "A centered studio portrait of a fluffy {argument name=\"cat breed\" default=\"ragdoll kitten\"} sitting upright and facing directly toward the camera on a seamless pure white background. The kitten has long, soft, luxurious fur with a mostly white coat, subtle cool gray shading on the sides of the body, darker gray ears, a gray mask around the eyes and upper face, and a dark gray fluffy tail curled around the front-left side. Its eyes are large, round, and vivid {argument name=\"eye color\" default=\"blue\"}, with a small pink nose, delicate whiskers, and a calm, innocent expression. Show the full body from ears to paws, perfectly centered and symmetrical, with both front paws close together and visible. Lighting is high-key, soft, and even, with minimal shadows, crisp fur detail, gentle depth, and a clean premium pet-photography look. Ultra-realistic, sharp focus on the face, smooth white negative space, no props, no text, no collar, no background elements.",
+    "title": "Studio Portrait of a Blue-Eyed Ragdoll Kitten",
+    "description": "A clean, ultra-realistic pet portrait prompt for generating a centered full-body kitten image on a pure white studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022583990_4fn36b_HGj8_TvaIAAdC9Z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15255,
+    "content": "A close-up candid portrait of a {argument name=\"subject\" default=\"young woman\"} indoors against a muted beige wall, shot in a 1990s disposable camera snapshot style. She has pale skin, a soft understated smirk, and loose {argument name=\"hair color\" default=\"black\"} hair with natural volume, slightly messy waves, and face-framing strands spreading around her shoulders. She wears a {argument name=\"top color\" default=\"faded mauve\"} oversized sweatshirt with a relaxed fit and softly gathered sleeves. The framing is chest-up and slightly off-center at eye level, with her body angled casually and one arm subtly extending forward as if taking the photo herself. Use direct on-camera flash for flat shadows, a dim ambient room, visible but subtle film grain, soft edge falloff, and a nostalgic casual vibe. The wall behind her is decorated with exactly 8 taped paper items: 4 instant photos, 2 concert flyers, 1 handwritten note, and 1 small dark photo print. One flyer references {argument name=\"band name\" default=\"SONIC YOUTH\"}, another references {argument name=\"second band name\" default=\"NIRVANA\"}. The overall image should feel intimate, imperfect, slightly grainy, and authentically analog.",
+    "title": "Disposable Camera Bedroom Portrait",
+    "description": "This prompt generates a nostalgic flash-lit close-up portrait with analog film texture, ideal for editorial mood images, indie music visuals, or casual retro lifestyle portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022539621_xjt4b2_HGjwsHfbwAAmqO4.jpg",
+      "https://cms-assets.youmind.com/media/1777022539400_ynglqo_HGjwsJ3aQAAhFBu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15319,
+    "content": "A highly detailed anime fantasy portrait of a serene fox-eared young woman in left-facing side profile, shown from about thigh-up, centered slightly right of frame. She has long flowing {argument name=\"hair color\" default=\"silver-white with a soft pink tint at the ends\"} hair, large white fox ears, pale skin, and one visible vivid {argument name=\"eye color\" default=\"blue\"} eye. Her expression is calm, introspective, and luminous. She wears an elegant {argument name=\"kimono color\" default=\"black\"} kimono richly decorated with intricate gold and red floral patterns, with a traditional obi visible at the back. In her hair is an ornate kanzashi-style floral ornament made of red, gold, and black flowers with dangling gold chains and tassels. Behind her head is a large glowing circular celestial magic halo, formed by 3 concentric rings with fine arcane symbols, star-like points, and radiant golden lines, creating a sacred, mystical backlight. The background is a dark textured painterly space with dramatic black, bronze, and crimson brush textures, glowing embers, gold splashes, and scattered flowers near the lower left. Add 1 vertical line of Japanese calligraphy along the left side reading {argument name=\"vertical text\" default=\"夢は光のように、静かに心を照らす。\"}, plus 1 small red seal stamp beneath it. Use cinematic rim lighting, intense golden glow, ultra-detailed fabric, delicate hair strands, sparkling particles, elegant Japanese fantasy atmosphere, premium illustration quality, masterpiece anime key visual, refined composition, dramatic contrast, and a polished painterly finish.",
+    "title": "Fox Spirit Kimono Portrait",
+    "description": "This prompt generates a luminous anime-style fox-eared woman in an ornate kimono with a celestial golden halo, ideal for fantasy character art, posters, or dramatic profile illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022565848_x167za_HGjoAW1bkAACFCk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15317,
+    "content": "A polished studio portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} from the chest up, centered and facing forward against a smooth dark charcoal gray backdrop with subtle vignette lighting. She has long, glossy, slightly wavy {argument name=\"hair color\" default=\"black\"} hair falling over both shoulders, with soft straight bangs and a neat center-top part. She wears a tailored double-breasted {argument name=\"blazer color\" default=\"deep navy\"} blazer with 6 visible round gold crest buttons, creating an elegant professional look. Her right hand is raised thoughtfully under her chin with relaxed fingers, forming a poised formal pose. Use soft directional studio lighting from the front-left, high detail skin texture, realistic fabric, gentle shadows, and a premium corporate headshot aesthetic. Compose the image vertically, clean and minimal, with the subject occupying most of the frame. In the bottom-left corner, add 1 small rectangular inset comparison photo on a white background showing the same woman in a simpler ID-style portrait wearing a white collared shirt, and place the text {argument name=\"corner text\" default=\"GPT Image2\"} beneath or overlapping the inset in large black sans-serif letters. Photorealistic, refined, editorial portrait quality.",
+    "title": "Studio Corporate Portrait with Inset",
+    "description": "This prompt generates a photorealistic professional studio headshot with a thoughtful pose and a small comparison inset, suitable for AI model comparison posts or portrait-quality demos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022564825_t3r531_HGjlOCtaEAARnjU.jpg"
     ],
     "needReferenceImages": true
   },
@@ -18,6 +260,16 @@
       "https://cms-assets.youmind.com/media/1776936787444_0zebau_HGjRWIGaAAAw1WB.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 15206,
+    "content": "Based on the real historical description of {argument name=\"person\" default=\"Yang Yuhuan\"}, generate a {argument name=\"description\" default=\"realistic photo of Yang Guifei\"}, with image quality of {argument name=\"device\" default=\"iPhone 15 pro\"}",
+    "title": "Historical Figure Realist Portrait",
+    "description": "A prompt attempting to reconstruct the appearance of the historical figure Yang Guifei with high-definition modern photography quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022515602_7nhr1f_HGjMZZpbAAALg7A.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 14790,
@@ -62,21 +314,21 @@
   },
   {
     "id": 14862,
-    "content": "Using the provided reference image, isolate the same person’s head and recreate it as a centered floating 3D toy-like portrait with a glossy plastic finish. Remove the train interior, table, bottle, book, sweater, headphones, and body so only the head remains visible, cropped around the full head and ears. Add gold-framed glasses as a new accessory. Place the head against a bright saturated blue sky with soft white cartoon-like clouds, using a clean minimal composition, even daylight, and a playful surreal studio look.",
-    "title": "Floating 3D Head in Blue Sky",
-    "description": "This prompt transforms a real portrait reference into a stylized floating 3D head with a clean sky background, useful for playful avatar art or surreal profile images.",
+    "content": "Using the provided reference image, transform the person into a surreal floating head portrait. Remove the train interior, table, bottle, book, headphones, and all surrounding context. Reframe to a centered, front-facing close-up of only the head, cropped just below the chin, with a glossy hyperreal 3D/plastic look. Replace the background with a bright saturated blue sky containing {argument name=\"cloud count\" default=\"6\"} soft fluffy white clouds. Add ornate gold eyeglass temples visible on both sides of the head, and keep the small goatee. Use vivid colors, smooth studio-like lighting, sharp focus on the head, and a whimsical toy-like aesthetic.",
+    "title": "Surreal Floating Head Sky Portrait",
+    "description": "This prompt turns a reference photo into a centered hyperreal floating-head image against a cartoon-like blue sky, useful for surreal portraits and playful profile art.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776936809478_fzo8vv_HGiT0DrXcAA9Rxv.jpg"
+      "https://cms-assets.youmind.com/media/1777022534266_vhdp8r_HGiT0DrXcAA9Rxv.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 14861,
-    "content": "Using the provided reference image, turn the candid train snapshot into a clean professional studio head-and-shoulders portrait of the same person. Remove the headphones, window reflection, table, thermos, book, and all train interior/background elements. Reframe from a casual off-center seated scene to a centered, front-facing crop with the subject looking straight at the camera against a plain muted blue-gray studio backdrop. Keep the same haircut, shirt-and-sweater outfit, and overall realistic photographic look, but relight it with soft even studio lighting and polished portrait retouching.",
-    "title": "Studio Portrait From Train Photo",
-    "description": "This prompt converts a casual environmental reference photo into a clean, realistic professional studio portrait for profile, CV, or corporate headshot use.",
+    "content": "Using the provided reference image, turn this candid train photo into a clean professional studio head-and-shoulders portrait of the same person. Keep the same hairstyle, shirt-and-sweater outfit, and overall identity cues, but remove the headphones, train window reflection, table, thermos, book, and all travel context. Reframe the subject so he is centered and facing the camera in a neutral upright pose, cropped from mid-chest upward. Replace the background with a plain muted blue-gray studio backdrop and use soft even portrait lighting for a polished corporate profile photo.",
+    "title": "Candid Train Photo to Studio Portrait",
+    "description": "This prompt converts a casual travel snapshot into a centered professional studio-style headshot for profile, resume, or corporate use.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776936808575_n8l9fa_HGiTz_eXsAAoyvL.jpg"
+      "https://cms-assets.youmind.com/media/1777022533625_mh11ec_HGiTz_eXsAAoyvL.jpg"
     ],
     "needReferenceImages": true
   },
@@ -132,6 +384,26 @@
       "https://cms-assets.youmind.com/media/1776936737323_hxfv3b_HGhqpxcb0AAuk4H.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 14817,
+    "content": "A minimalist monochrome illustration of a traditional Japanese samurai helmet and shoulder armor, shown as a centered bust-length portrait on a plain light gray background. The armor is rendered in black ink engraving style with high contrast, dense stippling, etched linework, and vintage woodcut texture. The kabuto has two tall curved crest horns and layered side guards, with detailed lacing and plate construction visible on the shoulder section. The face area is completely obscured by a centered vertical black rectangle censor bar with slightly soft edges, covering the mask and most of the front of the helmet opening. Keep the composition small and isolated in the middle of the canvas with large negative space around it, no additional objects, no text, no border.",
+    "title": "Censored Samurai Engraving",
+    "description": "A stark black-and-white vintage-style samurai armor portrait with a censored face, suitable for editorial art, poster design, or minimalist concept imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022539020_24hq8t_HGhP9RZXoAADhm9.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14816,
+    "content": "A minimalist monochrome fantasy portrait on a flat light gray background, centered with lots of empty negative space around the subject. Show a bust-length hooded rogue or medieval assassin facing slightly to the right, rendered as a high-contrast black ink illustration with dense stippling, scratchy engraving-like texture, and dramatic white highlights on the folds of the cloth. The figure wears a deep cowl and heavy hood that completely obscure the head and most of the face, plus a layered scarf wrapped around the neck and a single worn metal shoulder pauldron on the right side with visible rivets, scratches, and a leather strap crossing the chest. Replace the visible face area with a single vertical soft-edged blurred rectangle in gray-black tones, creating an intentional censored or glitched void where the face should be. Keep the composition simple: 1 character, 1 shoulder pauldron, 1 blurred rectangular face block, no additional props, no scenery, no text. Style it like a dark fantasy woodcut or vintage pen-and-ink print, isolated emblem-like portrait, stark black on pale gray.",
+    "title": "Hooded Rogue with Blurred Face",
+    "description": "This prompt generates a stark single-subject dark fantasy portrait, useful for creating moody character art, avatars, or emblem-style concept images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022538185_jte7ts_HGhP9ReXIAAYa0_.png"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 14746,

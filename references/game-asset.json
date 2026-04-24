@@ -20,6 +20,315 @@
     "needReferenceImages": true
   },
   {
+    "id": 15250,
+    "content": "A hyper-detailed cyberpunk close-up portrait of a futuristic woman cyborg, framed from the shoulders up and turned in 3/4 profile, looking directly at the viewer with one visible intense emerald-green eye. She has messy, wispy {argument name=\"hair color\" default=\"bright teal\"} hair tied loosely back with stray strands falling across her face. The lower half of her face is covered by a translucent neon-lime skull-shaped respirator mask with visible teeth structure, glossy acrylic material, and internal glowing green highlights. Her head and neck are partially exposed mechanical anatomy: black metal plates, pistons, cables, micro-circuitry, screws, and robotic joints integrated into the jawline, temple, ear area, and throat. Include 5 visible ear piercings and industrial cybernetic details around the ear. Add subtle printed tech markings and tiny black tattoo-like decals on the forehead and cheek near the eye. She wears a black futuristic jacket with a high collar and a small caution-style label near the shoulder. Background is a soft-focus, saturated {argument name=\"background color\" default=\"orange\"} neon panel glow with blurred interface-like light blocks, creating strong color contrast against the teal hair and acid-green mask. Lighting is cinematic and glossy with sharp reflections on the mask and metal parts, shallow depth of field, ultra-realistic skin texture, high contrast, moody sci-fi atmosphere, premium concept art, photoreal, extremely detailed, 85mm portrait lens look.",
+    "title": "Cyberpunk Cyborg Skull Mask Portrait",
+    "description": "This prompt generates a photoreal close-up cyberpunk character portrait suitable for sci-fi concept art, posters, and social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022537104_we4czw_HGp_9N_XMAAjBWi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15278,
+    "content": "A highly embellished full-body anime fantasy illustration of {argument name=\"character name\" default=\"SOPHIE\"}, a young elegant female alchemist-mage standing in the center of a vast celestial library laboratory. She has {argument name=\"hair color\" default=\"platinum blonde\"} hair in a soft short bob with a side ponytail and a large crystalline flower hair ornament, though her face is obscured by a flat pale square censor block. She wears an ornate white and icy-blue dress with silver filigree, corset lacing, layered ruffles, translucent trailing panels, detached flowing sleeves, gemstone pendants, thigh garter ornaments, and white high-heeled ankle boots with metallic trims. Two glowing blue potion bottles hang at her hip. Her pose is graceful and confident: one hand raised with a floating faceted blue crystal hovering above her palm, the other holding an open magic book that projects transparent holographic pages and arcane interface diagrams in neon blue. The environment is a grand circular observatory-like library with towering bookshelves, alchemical instruments, astrolabes, hanging ornaments, glassware, candles, and luminous magical symbols. A huge backlit arched window behind her casts cool heavenly light. The floor beneath her is covered in glowing concentric magic circles and reflections, surrounded by crystalline blue flowers and sparkling particles. The composition is vertical, centered, and extremely polished, with dense decorative detail, ethereal lighting, layered translucency, shimmering highlights, and a palette dominated by white, silver, sapphire, and pale violet. Include large decorative title text on the left reading {argument name=\"title text\" default=\"SOPHIE\"}, smaller Japanese text beneath reading {argument name=\"subtitle text\" default=\"ソフィー\"}, a small \"CV:\" line below, a short block of tiny English flavor text on the lower left, and a luminous blue hologram panel on the right with the word {argument name=\"panel text\" default=\"SOPHIC\"}. Make it feel like a luxurious character key visual or promotional poster for a magical science heroine, ultra-detailed, glossy, radiant, and intentionally over-the-top.",
+    "title": "Overdecorated Sophie Magic Poster",
+    "description": "A lavish anime-style character poster of a white-and-blue alchemist heroine in a glowing arcane library, suited for fantasy game or light novel promotional art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022549223_327t01_HGp5OyVbsAE1aez.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15219,
+    "content": "Taotie: Greedy and fierce eyes, a ferocious expression, an aggressive posture;\nHundun: Half-open, half-closed eyes, an ignorant expression, a lazy posture;\nQiongqi: Cunning and vicious eyes, a look of hatred for goodness, a wandering and crafty posture;\nTaowu: Eyes full of disdain, an arrogant expression, a stubborn, unreasonable, and domineering posture.",
+    "title": "Ancient Mythological Beast Character Persona",
+    "description": "Detailed behavioral and facial expression descriptions for four ancient Chinese mythological beasts, used to test the model's ability to interpret character personality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022521502_l0pkef_HGfZIp5bgAASQuV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15178,
+    "content": "{argument name=\"grid layout\" default=\"12-panel grid (4x3)\"}, each panel is an independent FULL equirectangular 360° panorama of the SAME continuous {argument name=\"environment\" default=\"forest world\"}\n\neach panel = complete spherical environment (360° horizontal, 180° vertical)\ntrue equirectangular projection with natural distortion:\nstretched edges, curved horizon, vertical compression toward zenith and nadir\n\nSTRICT global consistency across panels:\nsame forest biome, same architectural language, same materials, same lighting logic, same scale, same color palette, no visual drift\n\ncinematic photorealism, live-action quality, physically accurate rendering\nnatural light behavior, realistic exposure, subtle lens response, filmic dynamic range\n\nultra-detailed environment, grounded material response (wood, moss, fabric, stone), believable imperfections, micro-detail variation\n\nmassive forest environment with large-scale vertical structures integrated into trees\nmulti-layered platforms, bridges, embedded interiors, organic construction logic\n\nlighting:\nmotivated light sources only (lanterns, windows, bioluminescence)\nsoft volumetric fog interacting with light beams\nphysically correct falloff, no overglow, no artificial bloom\nbalanced contrast, filmic highlights, deep but readable shadows\n\natmosphere:\ndense air perspective, layered depth, subtle particle presence\nnatural haze, humidity, soft diffusion\n\nCAMERA (IMPORTANT):\neach panel = fixed central capture point of a spherical camera\ntrue 360° capture, no framing, no composition bias, no cropped view\nbut with subtle real-world camera characteristics:\nslight lens softness toward edges, mild exposure adaptation, natural highlight rolloff\n\neach panel represents a different location within the SAME world:\ncanopy height, mid-bridge level, interior spaces, vertical clearings, forest floor transitions\ncontinuous spatial logic between panels\n\nviewer always positioned at the center of the environment\n\nenvironment fully resolved in ALL directions:\nabove (canopy, sky gaps, light sources) and below (structures, roots, depth layers)\n\nCOLOR:\n{argument name=\"color scheme\" default=\"deep indigo night base, warm amber practical lights, restrained violet accents\"}\ncinematic color grading, natural color separation, no oversaturation\n\nSTYLE:\ncinematic spherical realism, VR-ready environment, physically coherent world\nhigh-end film production quality, not stylized, not game-like\n\nno labels, no text, no numbers",
+    "title": "360-Degree Forest World Panorama Grid",
+    "description": "A sophisticated prompt for generating a 12-panel equirectangular panorama of a continuous forest world with cinematic realism and global consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022503136_r0hg0b_HGn06WBXQAAUF5-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15226,
+    "content": "360-degree panorama photo, equirectangular projection, a natural perspective from human eye level, and an immersive feeling as if standing there and looking around. A realistic panoramic composition where the entire space is naturally connected. Photorealistic expression with a tactile feel. {argument name=\"scene description\" default=\"[image of the photo you want to create]\"}. Natural beauty without excessive processing, realistic photo, photorealistic, tactile texture, natural light, ultra detailed, immersive 360 panorama photography.",
+    "title": "360-Degree Panoramic Photography Prompt",
+    "description": "A detailed prompt for creating immersive, photorealistic 360-degree panoramas with natural lighting and tactile textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022524341_n7bivp_HGnhkb0akAA8Jpm.jpg",
+      "https://cms-assets.youmind.com/media/1777022524354_inmht3_HGnjtJ9bsAABbdo.jpg",
+      "https://cms-assets.youmind.com/media/1777022524400_7ayqzl_HGnjvu5bcAAfRRM.jpg",
+      "https://cms-assets.youmind.com/media/1777022524907_gmdu85_HGnjw8aaAAAeU6i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15343,
+    "content": "A dark, apocalyptic city street at night, viewed from ground level looking upward through a narrow canyon of ruined tall buildings on both sides. The architecture is heavily damaged and partially collapsed, with jagged silhouettes, broken facades, and blackened gothic-industrial details fading into shadow. A dense column of smoke and stormy cloud fills the center of the sky, backlit by a cold pale glow near the horizon, creating a dramatic high-contrast focal point. The overall palette is nearly monochrome deep navy, charcoal, black, and muted steel blue, with scattered tiny orange ember-like specks drifting through the air across the whole scene. The mood is bleak, ominous, and cinematic, like a post-disaster wasteland or bombed urban ruin. Painterly digital concept art, soft atmospheric haze, heavy texture, subtle film-grain feel, no people, no vehicles, no readable signs, wide composition, high detail in the ruined structures, strong vertical framing from the buildings, and a foreboding smoky sky dominating the upper half.",
+    "title": "Apocalyptic Ruined City Street",
+    "description": "This prompt generates a dark cinematic concept-art scene of a devastated urban street with collapsing buildings, smoke, and drifting embers, suitable for dystopian or post-apocalyptic visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022575368_g67nyp_HGmwd7BbQAAqbve.png",
+      "https://cms-assets.youmind.com/media/1777022575266_l8zje6_HGmweusbgAAzO78.png",
+      "https://cms-assets.youmind.com/media/1777022575247_qb0b5a_HGmwu9daAAA3w-J.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15341,
+    "content": "A moody post-apocalyptic cinematic landscape at dusk, painted in a dark sepia and amber palette, showing the ruins of an industrial or urban structure beneath a turbulent sky filled with dense, glowing clouds. In the left foreground, a large diagonal collapsed metal beam or crane arm rises from the bottom left toward the upper left, draped with torn fabric or shredded sheeting and tangled cables. A single long cable stretches diagonally downward across the frame toward the center. In the hazy midground, slightly right of center, stands a damaged domed tower or observatory-like building, partially obscured by dust, smoke, and drifting debris. The ground is filled with jagged rubble, broken structures, and silhouetted wreckage. Use dramatic backlighting from the cloud breaks near the horizon, soft volumetric haze, atmospheric perspective, painterly textures, and a ruined-world epic tone. The composition should feel vertical, solemn, desolate, and cinematic, with no people visible.",
+    "title": "Post-Apocalyptic Ruins at Dusk",
+    "description": "A cinematic ruined cityscape with a collapsed foreground structure and a distant domed tower, suitable for concept art, matte painting, or dystopian worldbuilding imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022575313_ks8sof_HGmwmCxbIAA4r2J.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15374,
+    "content": "{\"type\":\"anime action game storyboard sheet\",\"style\":\"high-end Japanese action RPG cinematic storyboard, polished 3D anime rendering, dramatic blue night lighting, glowing sword effects, sakura petals, motion blur, fantasy samurai atmosphere\",\"subject\":{\"character\":{\"name\":\"{argument name=\\\"character name\\\" default=\\\"シャルロット\\\"}\",\"gender_presentation\":\"young woman\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"silver white\\\"}\",\"style\":\"very long straight hair with soft bangs, floral hair ornament on one side\"},\"outfit\":{\"primary_color\":\"deep indigo blue\",\"description\":\"elegant floral kimono-inspired battle dress with long flowing sleeves, layered skirt, obi-style waist, patterned fabric with white blossoms and gold details\"},\"weapon\":\"katana with luminous blue blade\"},\"enemies\":{\"count\":8,\"description\":\"black-clad ninja swordsmen surrounding her across the courtyard\"}},\"environment\":{\"location\":\"traditional Japanese temple courtyard at night\",\"details\":[\"stone paving\",\"wooden shrine buildings\",\"warm paper lanterns\",\"cherry blossom trees\",\"falling petals\",\"deep blue sky\"]},\"ui\":{\"components\":[\"character status bar at top left\",\"circular minimap at top right\",\"skill icons at lower corners\",\"combo counter text on right side\",\"subtitle or move text in some panels\"]},\"layout\":{\"grid\":{\"rows\":3,\"columns\":3,\"count\":9},\"numbered_panels\":true,\"sections\":[{\"title\":\"1\",\"position\":\"top-left\",\"count\":1,\"description\":\"wide gameplay view, the heroine stands centered in the temple courtyard while 8 ninja enemies encircle her; game HUD visible; dialogue text at bottom; combo counter reads 0\"},{\"title\":\"2\",\"position\":\"top-center\",\"count\":1,\"description\":\"close-up of the heroine drawing or gripping the glowing katana in front of her chest, blue spark-like particles around the blade, confident pre-attack pose; combo counter reads 0\"},{\"title\":\"3\",\"position\":\"top-right\",\"count\":1,\"description\":\"fast spinning horizontal slash, bright circular blue energy ring expands from her sword and knocks enemies back; combo counter reads 12\"},{\"title\":\"4\",\"position\":\"middle-left\",\"count\":1,\"description\":\"dynamic midair leap, full-body side view, robe and long hair flowing, a sweeping blue arc trails from the blade; combo counter reads 25\"},{\"title\":\"5\",\"position\":\"middle-center\",\"count\":1,\"description\":\"top-down action shot as she descends toward the ground with sword aimed downward, sleeves spread like wings, enemies below; combo counter reads 25\"},{\"title\":\"6\",\"position\":\"middle-right\",\"count\":1,\"description\":\"impact frame, she lands and unleashes a large blue energy burst from the ground, enemies thrown outward by the shockwave; combo counter reads 58\"},{\"title\":\"7\",\"position\":\"bottom-left\",\"count\":1,\"description\":\"special move title card on a dark blue background with luminous sword circles; large Japanese text includes the character name and attack title; combo counter reads 128\",\"visible_text\":[\"シャルロット夢想！\",\"一瞬十撃・花月ノ太刀\",\"128 Combo\"]},{\"title\":\"8\",\"position\":\"bottom-center\",\"count\":1,\"description\":\"rear three-quarter gameplay view, the heroine completes a huge sweeping circular slash across the courtyard, long white hair and kimono trailing behind, enemies scattered at distance; combo counter reads 128\"},{\"title\":\"9\",\"position\":\"bottom-right\",\"count\":1,\"description\":\"quiet ending shot from behind, the heroine stands alone facing a temple gate and lanterns in the moonlit courtyard, petals drifting, no active combat motion\"}],\"reading_order\":\"left to right, top to bottom\"},\"color_palette\":{\"dominant\":[\"midnight blue\",\"electric cyan\",\"silver white\",\"indigo\",\"lantern gold\"]},\"camera_and_mood\":\"cinematic action storyboard progression from calm standoff to sword draw, spinning combo attack, aerial strike, finishing special move, then serene aftermath; each panel framed like game screenshots with visible HUD\"}",
+    "title": "Anime RPG Sword Attack Storyboard",
+    "description": "A 9-panel action-game storyboard showing an elegant white-haired swordswoman performing a glowing katana combo in a moonlit Japanese temple courtyard, useful for cinematic game concept art and UI-integrated combat mockups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022587629_2culn2_HGmjmb3bUAEPSxG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15376,
+    "content": "Create a seamless-looking 360-degree equirectangular HDRI environment map of a futuristic urban expressway at night, viewed from the middle of a wide wet roadway beneath elevated highways in a dense modern city. Use a panoramic full-surround composition with strong fisheye-like equirectangular distortion at the top and bottom edges, designed for use as a Blender world background. The scene should feature 2 large curving elevated highway ramps, one on the left and one on the right, arching inward toward the center, with multiple supporting pillars and additional overpass layers receding into the distance. Surround the roadway with a skyline of illuminated high-rise office towers and apartment buildings, with cool blue and cyan windows and a few magenta and purple accent lights. Make the road surface glossy and rain-soaked, reflecting the city lights in long horizontal streaks of neon blue, violet, and pink. Add subtle light trails and luminous reflections across the pavement, creating a cyberpunk mood. The sky should be dark, cloudy, and atmospheric with a faint bright glow at the zenith and soft haze around distant buildings. Keep the overall palette dominated by deep indigo, electric blue, cyan, and purple. The image should feel cinematic, moody, ultra-detailed, photorealistic, high dynamic range, with realistic urban lighting and mirrored wet-surface reflections, suitable as an HDRI backdrop. Include slight panorama seam artifacts and stretched distortion near the poles so it feels like an AI-generated but usable environment map.",
+    "title": "Cyberpunk City Highway HDRI",
+    "description": "A futuristic rainy-night city panorama designed as a 360-degree HDRI environment map for 3D rendering backgrounds and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022588246_81470x_HGmQ8UEagAAgPea.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15225,
+    "content": "{argument name=\"art style\" default=\"2D game CG style illustration\"} with flat colors, clear shadows, and smooth lines, without warm-toned filters.",
+    "title": "Flat Color 2D Game CG Illustration",
+    "description": "A style prompt for generating smooth, 2D game-like CG illustrations with clear shadows and flat coloring without warm filters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022523972_phmfwl_HGmNaSvbIAAWSCA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15277,
+    "content": "A detailed retro fantasy pixel art scene of a massive medieval stone castle perched on a steep rocky hill, viewed from a slight low angle, with a winding dirt path leading up to the gate. The castle has many cylindrical towers and connecting walls, exactly 9 visible towers with red-orange conical roofs, several small red flags fluttering from the tallest spires, and weathered gray stone masonry. A huge red dragon is coiled around the tallest central tower, with its long body wrapped around the stone, claws gripping the battlements, horned head leaning forward near the top, and one large batlike wing spread open on the right side. Surround the hill with dense dark-green pine trees and rocky outcrops, with distant blue mountains on the horizon. Place the castle against a bright daytime sky in saturated blue with large fluffy white cumulus clouds. Render in classic 16-bit inspired pixel art with crisp sprite-like shapes, visible pixel texture, rich contrast, adventurous fantasy game cover composition, centered subject, and a square frame.",
+    "title": "Pixel Art Dragon Castle",
+    "description": "This prompt generates a retro-style fantasy pixel art image of a dragon wrapped around a mountain castle, ideal for game art, posters, or RPG-themed visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022549168_bl11xp_HGmNsQrWwAADruI.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15276,
+    "content": "A retro fantasy pixel art scene in a 256x256 square composition, showing a huge red dragon perched protectively on the tallest central tower of an ancient stone castle. The dragon has a long curled tail wrapped around the tower, large spread batlike wings, a lowered horned head facing left, and a glowing fiery red-orange body with dark maroon shadows and crisp black pixel outlines. The castle is a weathered medieval fortress with multiple towers, crenellated walls, and small dark windows, sitting on top of a steep rocky hill. Surrounding the hill are rolling green and brown mountains partially covered by pale fog and low clouds, creating layered atmospheric depth. The sky is dusky twilight with a lavender and muted purple gradient, a few tiny white stars, and several distant birds as dark pixel silhouettes. Use classic 16-bit inspired sprite art, limited color palette, visible pixel grid, clean silhouette design, dramatic fantasy mood, side view landscape framing, and subtle old-game atmosphere.",
+    "title": "Pixel Art Dragon on Castle",
+    "description": "This prompt generates a retro-style fantasy pixel art scene of a red dragon perched on a castle at dusk, ideal for game art comparisons, mockups, or nostalgic pixel illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022548509_8vkxpp_HGmNrbQWIAAa_rn.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15228,
+    "content": "Create a Sugoroku board game with the setting \"{argument name=\"setting\" default=\"A gothic lolita girl living in the countryside traveling to an event in Makuhari\"}\"",
+    "title": "Gothic Lolita board game generator",
+    "description": "A prompt to generate a board game (Sugoroku) layout based on a specific character narrative about a girl traveling to an event.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022525164_f37lq1_HGmINH-bAAA3v71.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15332,
+    "content": "A full-body fantasy character illustration on a plain light gray background, painted in polished anime-inspired RPG concept art style with crisp linework, soft rendering, and realistic leather, fur, and skin textures. Show a tall, athletic young man with a muscular build and fair skin, standing in a relaxed contrapposto pose. His right arm is raised across his forehead as if shielding his eyes from light, with his gloved hand touching the brim of a dark cap; his left arm hangs down with a clenched fist. His face is mostly obscured by the raised forearm and cap shadow, making the expression unreadable. He has {argument name=\"hair color\" default=\"platinum blond\"} medium-length hair, slightly tousled, visible beneath a {argument name=\"headwear\" default=\"black flat cap\"}, with a small earring on one ear. Dress him in layered adventurer clothing dominated by dark brown, black, and muted reddish-brown. The upper body has a fitted black short-sleeve shirt under a brown leather vest with wide straps and buckles, topped with a thick pale fur collar draped around the neck and shoulders. Add a necklace with small metallic ornaments at the collarbone. Both hands wear dark fingerless gloves or fitted leather gloves, with multiple stacked wristbands and bracers. Around the waist, include several crossing leather belts, metal clasps, and hanging accessories, plus a reddish-brown sash tied at the hips with long hanging strips. On the left hip, attach 1 small leather pouch. The pants are slim dark trousers with a strapped harness around 1 thigh, including metal rings and buckles. The boots are 1 matching pair of tall, dark leather lace-up boots with reinforced knee guards or ornate metal-plated shin-and-knee armor, slightly weathered but stylish. From the right side of the waist, let a long torn cloth panel hang down, patterned near the end with subtle decorative motifs and finished with 1 dangling metal charm or spearhead-shaped ornament. Emphasize a rugged handsome adventurer aesthetic, detailed costume design, and a refined game character sheet feel, centered composition, full figure fully visible from head to boots, with a faint soft cast shadow on the floor.",
+    "title": "Full-Body Fantasy Adventurer Male",
+    "description": "This prompt generates a polished full-body RPG-style male character illustration suitable for fantasy character design, profile art, or concept presentation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022571372_vvtki1_HGmCvHSaYAAxcE_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15331,
+    "content": "A full-body anime fantasy warrior girl standing alone on a plain light gray background, clean character illustration with soft painterly rendering and crisp line art. She is a slender young woman with long straight {argument name=\"hair color\" default=\"platinum blonde\"} hair, center-parted with long face-framing strands and a small tied section at the back, light {argument name=\"eye color\" default=\"amber-brown\"} eyes, fair skin, and a calm slightly serious expression. Her pose is dynamic and confident: legs apart in a stable stance, one arm raised over her head gripping a long spear shaft behind her shoulders, the other hand holding the spear lower near her side so the ornate spear extends diagonally across the composition. The weapon is 1 elaborate dark metallic spear with a long narrow blade, cross-shaped barbs, engraved gothic details, and a sharp butt spike. Her outfit is a refined dark fantasy battle costume with exactly 6 visible main pieces: 1 black steel armored right arm gauntlet with engraved plating, 1 fitted black-and-bronze corset breastplate, 1 white high-neck blouse with sheer long sleeves, 1 short asymmetrical white skirt with flowing split overskirt panels, 1 pair of black thigh-high armored boots with silver filigree knee and ankle accents, and 1 brown belt set with straps including a right-thigh garter strap. Add subtle silver ornamentation at the collar and armor edges, elegant leather textures, polished metal highlights, and gently wind-swept fabric. Keep the palette muted and sophisticated in ivory, charcoal, bronze, and silver. The style should feel like premium Japanese RPG character concept art, highly detailed, graceful, slightly gothic, isolated full figure, no extra props, no scenery, only a faint soft ground shadow beneath her feet.",
+    "title": "Elegant Anime Spearwoman Full Body",
+    "description": "A polished full-body fantasy character illustration of an anime spearwoman, suitable for RPG concept art, character sheets, or promotional artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022570280_cjvi0s_HGmCsakboAAwtwR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15199,
+    "content": "Please generate a complete IP branding design for {argument name=\"subject\" default=\"this IP\"}\nPlease generate a set of stickers for this IP\nPlease generate a set of plushie figures for this IP",
+    "title": "IP Branding and Merchandise Design",
+    "description": "A comprehensive prompt for generating full branding assets, stickers, and plushie concepts for an existing character IP.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022511508_6svsks_HGlzPBLaUAEofuD.jpg",
+      "https://cms-assets.youmind.com/media/1777022511500_mwx5ce_HGlzOuYaoAAL5FM.jpg",
+      "https://cms-assets.youmind.com/media/1777022511483_o5zf8x_HGlzOuEaYAAgLjj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15436,
+    "content": "{\"type\":\"mecha character turnaround sheet\",\"subject\":{\"category\":\"humanoid combat robot\",\"design\":\"sleek biomechanical sci-fi exosuit with sharp angular armor plating and exposed mechanical joints\",\"primary color\":\"{argument name=\\\"armor color\\\" default=\\\"pale olive gray\\\"}\",\"secondary color\":\"dark graphite metal\",\"accent color\":\"tiny red sensor lights\",\"head\":{\"shape\":\"narrow armored helmet with a pointed faceplate and 2 long upward horn-like antennae\",\"eyes\":\"small glowing red visor-like sensors\"},\"torso\":{\"build\":\"broad armored chest with layered segmented plates and a tapered waist\",\"details\":\"dense pistons, cables, vents, and internal machinery visible between armor gaps\"},\"arms\":{\"right arm\":\"integrated long rifle-like weapon running along the forearm\",\"left arm\":\"hand plus a large elongated shield blade mounted along the forearm\"},\"legs\":{\"style\":\"digitigrade mechanical legs with heavy thigh armor, exposed knee mechanisms, and pointed armored feet\"},\"back\":{\"attachments\":\"2 long rear-mounted blade or fin appendages and a central spine-like backpack assembly\"}},\"layout\":{\"background\":\"plain light gray studio backdrop\",\"presentation\":\"clean concept art sheet\",\"views\":[{\"position\":\"left\",\"view\":\"front view\",\"count\":1},{\"position\":\"center\",\"view\":\"left side profile\",\"count\":1},{\"position\":\"right\",\"view\":\"back view\",\"count\":1}],\"total_views\":3},\"style\":{\"rendering\":\"high-detail industrial concept art\",\"linework\":\"precise hard-surface mechanical drawing with crisp edges\",\"surface\":\"worn matte armor with subtle scratches and panel seams\",\"lighting\":\"soft neutral even lighting\",\"composition\":\"full-body figures centered vertically with ample spacing between views\"}}",
+    "title": "Sci-Fi Mecha Turnaround Sheet",
+    "description": "A detailed three-view concept sheet of a humanoid combat robot, useful for mech design, game concept art, and industrial sci-fi character development.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022612198_gpub3o_HGly6UHaMAAAjVk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15364,
+    "content": "{\"type\":\"anime character setting sheet\",\"style\":\"ornate Japanese character design bible page, elegant fantasy samurai aesthetic, clean white background with thin decorative gold border, navy and gold headings, highly polished full-color illustration, refined print-layout composition\",\"subject\":{\"role\":\"samurai princess\",\"title\":\"サムライ姫\",\"tagline\":\"気高く、美しく、そして強く。剣に心を宿すサムライの姫。\",\"character\":{\"gender\":\"female\",\"age\":\"18\",\"build\":\"slender and graceful\",\"skin\":\"fair porcelain\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"white\\\"}\",\"style\":\"very long wavy high ponytail tied with a large navy bow, soft bangs, loose side strands\"},\"eyes\":{\"color\":\"soft crimson pink\",\"shape\":\"large delicate anime eyes\"},\"expression\":\"calm, noble, slightly reserved\"},\"outfit\":{\"theme\":\"Japanese-western fusion formal combat dress\",\"primary colors\":[\"deep navy blue\",\"white\",\"antique gold\"],\"pieces\":[\"white high-neck ruffled blouse with puff sleeves and gold floral embroidery on the upper arms\",\"large navy ribbon brooch at the collar with a red gem centerpiece and gold ornament\",\"dark navy corset-style waist cincher with gold filigree details and front lacing\",\"asymmetrical layered navy skirt with heavy gold floral and crest-like embroidery\",\"white underskirt with multiple ruffled layers visible at the hem\",\"large structured back bow at the waist\",\"frilled wrist cuffs with small navy ribbon accents\",\"dark navy lace-up ankle boots with gold trim and block heels\"],\"accessories\":[\"katana worn at the left hip in a navy scabbard with gold fittings\",\"multiple small ribbon bows on sleeves and hair\",\"ornamental tassels hanging from the skirt\"]},\"crest\":{\"count\":2,\"description\":\"rose-family emblem in navy and gold, one large badge at top left and one motif sample near the bottom center\"},\"layout\":{\"sections\":[{\"title\":\"main views\",\"position\":\"upper half\",\"count\":4,\"labels\":[\"正面\",\"3/4\",\"側面\",\"背面\"],\"description\":\"four full-body turnaround views of the same character: front, three-quarter, side, and back\"},{\"title\":\"表情\",\"position\":\"lower left\",\"count\":4,\"labels\":[\"通常\",\"微笑み\",\"真剣時\",\"驚き\"],\"description\":\"four close-up facial expression panels showing neutral, gentle smile, serious battle face, and surprised\"},{\"title\":\"カラー\",\"position\":\"lower middle-left\",\"count\":6,\"labels\":[\"髪色\",\"瞳色\",\"メイン（ネイビー）\",\"サブ（ホワイト）\",\"金装飾\",\"肌色\"],\"description\":\"six rectangular color/material swatches for hair, eye, main fabric, secondary fabric, gold ornament, and skin tone\"},{\"title\":\"小物\",\"position\":\"lower right\",\"count\":2,\"labels\":[\"打刀『月華』\",\"ブローチとリボン\"],\"description\":\"one weapon panel showing the katana horizontally and one accessory panel showing the brooch and ribbon close-up\"},{\"title\":\"bottom notes\",\"position\":\"bottom row\",\"count\":3,\"labels\":[\"デザインのポイント\",\"家紋モチーフ\",\"シルエット\"],\"description\":\"three boxed panels containing design notes text, rose crest explanation, and two navy silhouette figures\"}],\"sidebar\":{\"position\":\"upper right\",\"count\":7,\"labels\":[\"種類：人間\",\"年齢：18歳\",\"身長：165cm\",\"誕生日：11月22日\",\"武器：打刀『月華（げっか）』\",\"一人称：私\",\"二人称：あなた／〜殿\"],\"description\":\"compact vertical profile list in Japanese with diamond bullets\"}},\"text_language\":\"Japanese\",\"rendering\":\"high-detail anime illustration, crisp line art, soft shading, luxurious textile rendering, intricate gold ornamentation, reference-sheet graphic design, balanced spacing, no background scenery\"}",
+    "title": "Samurai Princess Character Sheet",
+    "description": "A polished anime reference-sheet prompt for generating a full character design dossier with turnarounds, expressions, color swatches, accessories, and profile details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022583040_xhjmiy_HGlCX3ta8AA08uR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15297,
+    "content": "A cinematic first-person modern military battle on a tropical island coastline, viewed from the perspective of a soldier holding a black assault rifle in both hands at the lower right foreground, with dark tactical gloves visible. The scene shows a fortified coastal base under attack in bright midday sunlight beneath a vivid blue sky with scattered white clouds. In the foreground and midground, depict a rugged dirt path with dry grass, scattered debris, crates, and metal barrels leading into a compact military installation made of futuristic-industrial bunkers and machinery painted olive green and gray. Include 5 prominent base structures: a rounded bunker with a small dome on the far left, a cylindrical tower just right of it, a large central arched hangar-like bunker with a dark entrance, 1 squat turreted structure on the right midground, and 1 stone-and-metal defensive wall section at the far right front. In the center midground, show 1 major ground explosion with orange fire and black smoke, plus 1 tall vertical smoke plume rising behind the base near the cliffs. The background features rocky cliffs lined with many palm trees and a small waterfall descending near the center-left, with the ocean and horizon visible to the right. Over the water, show 4 large gray battleships grouped near the coast on the right side. In the sky, include 3 helicopters, 4 smaller aircraft or drones in the distance, and 5 visible missile or rocket trails streaking diagonally across the sky from right to left, emphasizing an active large-scale assault. Ultra-detailed photorealistic AAA video game key art, realistic lighting, sharp textures, cinematic action composition, wide-angle first-person shooter viewpoint, high contrast, dynamic war atmosphere, epic scale.",
+    "title": "First-Person Tropical Island Warzone",
+    "description": "This prompt generates a photorealistic first-person military battle scene on a tropical coastal base, ideal for FPS game key art or cinematic action visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022556238_bfpwn2_HGk6A14asAAdKpr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15295,
+    "content": "An isometric real-time-strategy game battle scene viewed from a high oblique angle, showing a fortified coastal military outpost under naval attack in a desert oasis environment. The base sits in the lower left and center foreground, enclosed by pale concrete walls with defensive corner towers and several cylindrical turret emplacements. Inside the compound are 5 major structures: a large central metallic command or factory building with a curved roof and landing-pad markings, 1 long segmented industrial generator on the left, 1 smaller smokestack power structure near the bottom center, and 2 green cylindrical reactor or storage buildings on the right. Show dirt tracks, scattered crates, utility details, and a paved gray yard inside the walls. A large orange fireball explosion is erupting inside the base near the right-center interior, with smoke and debris. Another smaller explosion is happening outside the walls at the upper left on a dirt road near 2 red ground vehicles or launchers, with black smoke rising. The shoreline curves around shallow blue-green water with sandy banks, rocky cliffs, and many palm trees, creating a tropical desert cove. In the water on the right side, depict 5 gray modern warships in formation, angled diagonally, each leaving white wakes as they move. Count 8 missiles total with bright flaming trails arcing from the ships toward the land and base defenses; one missile is striking the nearest ship-side target area with a bright blue-white impact flash over the waterline, while others arc toward the compound and shore. Include tiny infantry figures near the beach and walls, some fallen, to suggest an active assault. The style should look like a polished high-detail strategy game screenshot, with realistic military sci-fi architecture, cinematic lighting, sharp textures, dynamic explosions, and readable spatial depth.",
+    "title": "Isometric Coastal Base Under Naval Attack",
+    "description": "This generates a detailed RTS-style isometric battle scene of a walled desert coast base being bombarded by missile-firing warships, ideal for game concept art or cinematic strategy illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022555539_cty8j1_HGk6A14bgAAGuXV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15209,
+    "content": "Make it with flat {argument name=\"style\" default=\"anime coloring\"} and {argument name=\"detail\" default=\"no shadows\"}",
+    "title": "Flat Anime Coloring Modifier",
+    "description": "A specific instruction to adjust the style of GPT-Image-2 outputs to look more like flat anime art without shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022517849_qj8kox_HGkpjKUbgAA7e9G.jpg",
+      "https://cms-assets.youmind.com/media/1777022517397_8a3uji_HGkpjKea0AAPBXM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15338,
+    "content": "{\n  \"type\": \"anime character reference sheet\",\n  \"style\": \"clean fantasy concept art, polished cel-shaded anime rendering, parchment manuscript presentation\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"青ベレーちゃん\\\"}\",\n    \"subtitle\": \"blue beret girl\",\n    \"gender presentation\": \"young anime girl\",\n    \"hair\": {\n      \"color\": \"{argument name=\\\"hair color\\\" default=\\\"blonde\\\"}\",\n      \"style\": \"short bob with straight bangs, slightly longer side locks\"\n    },\n    \"eyes\": {\n      \"color\": \"bright blue\",\n      \"style\": \"large anime eyes\"\n    },\n    \"outfit\": {\n      \"beret\": \"{argument name=\\\"beret color\\\" default=\\\"vivid royal blue\\\"} round beret with black inner band\",\n      \"outerwear\": \"long oversized hooded blue coat, double-breasted gold buttons, wide sleeves, mid-calf length\",\n      \"innerwear\": \"black fitted armored corset-style breastplate\",\n      \"skirt\": \"red and dark brown tartan pleated skirt\",\n      \"gloves\": \"black gloves\",\n      \"boots\": \"brown knee-high leather lace-up boots with reinforced fantasy adventurer design\"\n    },\n    \"props\": [\n      \"1 black longsword with gold crossguard and gold decorated tip\",\n      \"1 silver straight sword with gold hilt\",\n      \"1 blue beret shown separately\",\n      \"1 black torso armor bust mannequin\",\n      \"1 blue coat shown separately\"\n    ]\n  },\n  \"layout\": {\n    \"background\": \"aged parchment scroll spread open horizontally, curled paper ends on left and right, ornamental border flourishes, warm sepia paper texture\",\n    \"sections\": [\n      {\n        \"title\": \"character turnaround\",\n        \"position\": \"upper left\",\n        \"count\": 3,\n        \"labels\": [\"front view\", \"side view\", \"back view\"],\n        \"details\": \"full-body standing views of the same character\"\n      },\n      {\n        \"title\": \"name panel\",\n        \"position\": \"upper right\",\n        \"count\": 1,\n        \"labels\": [\"NAME: 青ベレーちゃん（ふろり）\"],\n        \"details\": \"large decorative title text with small roman text above reading blue beret girl, followed by 5 blank bullet-style description lines\"\n      },\n      {\n        \"title\": \"expressions\",\n        \"position\": \"lower left\",\n        \"count\": 8,\n        \"labels\": [\"neutral\", \"soft smile\", \"serious\", \"confident\", \"closed-eye happy smile\", \"calm direct gaze\", \"slightly pouting gaze\", \"gentle smile\"],\n        \"details\": \"2 rows of 4 square portrait panels\"\n      },\n      {\n        \"title\": \"equipment and clothing items\",\n        \"position\": \"lower right\",\n        \"count\": 5,\n        \"labels\": [\"black sword\", \"silver sword\", \"blue beret\", \"black armor torso\", \"blue coat\"],\n        \"details\": \"items spaced separately like a design sheet\"\n      },\n      {\n        \"title\": \"bottom tags\",\n        \"position\": \"bottom right edge\",\n        \"count\": 5,\n        \"labels\": [\"blank\", \"blank\", \"blank\", \"blank\", \"blank\"],\n        \"details\": \"five empty ornate caption boxes\"\n      }\n    ]\n  },\n  \"composition\": {\n    \"aspect ratio\": \"3:2 landscape\",\n    \"camera\": \"orthographic character sheet presentation\",\n    \"lighting\": \"soft studio lighting with minimal shadows\",\n    \"mood\": \"adventurous, elegant, classic fantasy documentation\"\n  },\n  \"quality\": {\n    \"detail\": \"highly detailed costume folds, crisp line art, readable accessory silhouettes\",\n    \"finish\": \"professional character design board\"\n  }\n}",
+    "title": "Blue Beret Girl Reference Sheet",
+    "description": "A parchment-style fantasy anime character design sheet showing a blue-beret girl with turnaround views, eight expressions, and five equipment items for concept art or character documentation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022573796_jticoy_HGkiJoZacAA66xh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15200,
+    "content": "{argument name=\"character\" default=\"Lu Bu\"} game Boss setting, featuring the {argument name=\"mount\" default=\"Red Hare\"} and the {argument name=\"weapon\" default=\"Sky Piercer\"}, showcasing a comparison between dark evolution dual forms",
+    "title": "Lu Bu Game Boss Dual Form Design",
+    "description": "A prompt for designing a game boss character based on the historical figure Lu Bu, featuring his horse and weapon in a dark evolution form.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022512949_xcygpv_HGkbolNbcAAS1eR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15174,
+    "content": "A {argument name=\"game style\" default=\"Hitman\"} level where you are in the {argument name=\"location\" default=\"OpenAI HQ\"} and your mission is to {argument name=\"objective\" default=\"steal GPT-6\"}.",
+    "title": "Hitman Game Screenshot Prompt",
+    "description": "Creates a stylized video game screenshot depicting a fictional mission to infiltrate OpenAI headquarters in the style of the game Hitman.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022501807_51fnoy_HGkMYFBagAABgHD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15191,
+    "content": "Try to analyze all Red Alert scenes, then generate all the resources used into a pixel sprite sheet on one large image, being careful not to include irrelevant elements to make it easy for me to crop.",
+    "title": "Red Alert Style Pixel Sprite Sheet",
+    "description": "A prompt for generating game assets, specifically pixel art sprite sheets based on the classic game Red Alert.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022509243_41jbia_HGkHHXqbgAAcdtL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15337,
+    "content": "A hyper-detailed, ultra-colorful anime festival illustration of 2 kemonomimi girls jumping midair in a joyful pose, filling the center of a tall vertical composition. The girl on the right is a cheerful catgirl with white-blonde hair, large fluffy cat ears, bright blue eyes, one eye winking, and a big open smile, wearing a vivid blue floral kimono-inspired short dress with oversized sleeves, layered frilly white petticoat trim, a large multicolored obi bow, floral hair ornaments, white ankle socks, and geta sandals, with a fluffy pale tail visible behind her; her right arm is raised making a peace sign and her left hand is near her chest. The girl on the left is a doggirl with medium brown hair, fluffy brown-and-white dog ears, and a curled fluffy tail, wearing a vivid pink and magenta floral kimono-inspired short dress with layered frills, a large decorative obi bow, floral hair ornaments, white socks, and sandals; she is also leaping with one arm raised in a peace sign. Render the left girl's face as intentionally obscured by a soft rectangular blur block. Surround them with an explosive fantasy-Japanese backdrop packed with decorative detail: Mount Fuji centered in the upper background with radiant sunrise rays, a large rainbow arc swirling on the right, stylized Great Wave-like curling waves on both sides, dense pink cherry blossoms overhead, 2 glowing paper lanterns near the upper left and upper right edges, and 2 more paper lanterns near the lower left and lower right corners, plus a red arched bridge at the bottom left. Use a saturated candy-bright palette of pink, cyan, blue, gold, orange, violet, and white, with confetti-like petals, sparkling particles, paint splashes, and intricate floral patterns covering nearly every surface. The mood is festive, cute, ecstatic, and celebratory, with dynamic foreshortening, crisp linework, glossy highlights, layered textures, and a highly polished gacha-card style illustration.",
+    "title": "Colorful Kimono Kemonomimi Festival",
+    "description": "A vibrant anime-style festival artwork of two animal-eared girls in colorful kimono outfits jumping joyfully against a dense Japanese fantasy background, ideal for celebratory character art or eye-catching social media illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022572698_rintrt_HGj5ojlbEAAu2l0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15186,
+    "content": "Help me generate an ARPG MMO open-world game screenshot with the theme \"{argument name=\"theme\" default=\"A Will Eternal\"}\"",
+    "title": "MMO Game World Screenshot",
+    "description": "A prompt for creating realistic game screenshots for an open-world ARPG based on a specific theme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022506770_pixqzo_HGjmdVcbAAAaMgk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15294,
+    "content": "Using the provided reference image as the visual civilization seed, expand it into a new cinematic world scene that keeps the same grand East Asian fantasy design language, monumental scale, intricate architecture-first worldbuilding, and ultra-detailed realism, but shift the setting from a luminous cloud palace into an ancient mechanical ruin on the ground. Replace the gilded celestial temple environment with colossal circular ring structures, giant embedded gears, heavy industrial stone-and-metal architecture, broken conduits, and overgrown ruins with pale flowering trees. Change the mood to cold, misty, desaturated blue-gray lighting with soft atmospheric fog, while preserving the epic, awe-inspiring worldbuilding feel from the reference. Add 1 lone wandering swordsman seen from behind in the foreground, wearing flowing white robes and carrying a sheathed sword, centered beneath the largest ring to emphasize scale. Make it feel like a frame from a high-budget fantasy film, with extremely rich environmental detail and a cohesive visual language derived from the reference image.",
+    "title": "Reference-Based Cinematic World Expansion",
+    "description": "This prompt turns a single reference scene into a new but stylistically consistent cinematic worldbuilding image, useful for expanding a concept into broader settings for films, games, or visual development.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022555229_6nnbqv_HGjVPAOXEAA6oZW.jpg",
+      "https://cms-assets.youmind.com/media/1777022555283_gddhw5_HGjVPAkXUAEMSMQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15293,
+    "content": "Using REFERENCE_0 as the visual foundation, expand the single sky-palace scene into a complete cinematic world-building presentation for a fantasy civilization. Preserve the same East Asian celestial imperial design language, floating architecture above clouds, gilded ornamentation, warm sunset lighting, and ultra-detailed realistic concept-art look, then turn it into a polished multi-panel lore board on a dark background with elegant editorial typography. Include 8 labeled sections: 1 large hero overview panel for the civilization, 1 architecture section with 9 images, 1 characters section with 7 full-body character designs, 1 clothing and armor section with 6 outfit variations, 1 vehicles and transport section with 4 vehicle designs, 1 world map section with 1 illustrated map, 1 environments section with 6 environment images, and 1 culture and details section with 6 close-up detail images. Add a refined fantasy title and short lore paragraph for the civilization, using the name {argument name=\"civilization name\" default=\"Celestial Dynasty\"}. The architecture section should show 9 distinct items: palace, temple, gate, pillar, bridge, throne hall, garden, library, and observatory. The characters section should show 7 archetypes: emperor, empress, high priest, general, royal guard, scholar, and artisan. The clothing and armor section should show 6 designs: ceremonial robe, battle armor, noble attire, priest robes, artisan garments, and dancer costume. The vehicles and transport section should show 4 designs: an airship, a flying beast mount, a sky chariot, and a ceremonial palanquin. The environments section should show 6 scenes: one wide banner panorama plus 5 smaller locations, including forest, mountain peaks, lotus valley, golden fields, and a celestial port. The culture and details section should show 6 images: dragon motif, lantern or artifact, palace interior, scholarly scene, mechanical instruments, and decorative symbols. Keep all panels visually unified as if from one official franchise world bible, with extremely rich detail, believable material design, and cinematic realism.",
+    "title": "Celestial Dynasty World Bible Board",
+    "description": "This prompt turns one reference scene into a complete fantasy civilization pitch board with architecture, characters, costumes, vehicles, map, environments, and cultural details for concept development or franchise worldbuilding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022555176_y4r64u_HGjVPAnXUAAT7sc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14853,
+    "content": "A highly detailed, whimsical anime cafe illustration in a vertical composition, featuring a chibi girl mascot standing at the center of a cozy fantasy coffee shop during golden sunrise. She has extremely long, voluminous hair with a vivid rainbow gradient that begins as {argument name=\"hair color\" default=\"deep blue at the crown\"} and flows through cyan, green, yellow, orange, pink, and purple at the tips, with glossy highlights and thick bangs framing large sparkling blue eyes. She wears oversized silver headphones with green four-leaf clover emblems on both earcups, a red leather jacket, a white T-shirt with a yellow smiley face, fitted blue jeans, and white high-top sneakers with red accents. She smiles warmly and holds a white coffee mug decorated with a green clover symbol. Add a speech bubble near her head containing Japanese text: {argument name=\"speech bubble text\" default=\"おはよう。今日も、ひとくち目の幸せから。\"}. The cafe interior is richly decorated with dark polished wood, hanging banners, shelves filled with glass bottles and jars, trailing green plants, glowing crystal ornaments, and warm amber lighting. On the left upper area, hang a blackboard menu sign labeled {argument name=\"cafe name\" default=\"AriteAL Cafe Menu\"} with Japanese handwritten menu items and small coffee doodles. In the right background, place tall arched windows showing a dreamy pastel sunrise sky and storybook castle-like towers outside. Include exactly 2 mascot creatures: 1 small blue penguin barista on the left beside stacked clover mugs, and 1 small black cat-like creature with tiny bat wings and a red bow tie near a chalkboard sign on the lower right. In the foreground on a round table, show exactly 4 featured food and drink items: 1 thick slice of toast topped with a green clover garnish, 1 cup of latte art coffee in a clover cup, 1 glass jar of honey, and 1 tall rainbow parfait layered with colorful jelly, whipped cream, berries, strawberry slices, and crystal-like candy shards. Also place a teapot and additional clover-pattern cups on side tables in the midground. Add a small standing chalkboard sign on the lower right with Japanese welcome text and the cafe name. The whole image should feel magical, cheerful, polished, and richly rendered, with soft sparkles, warm morning light, saturated colors, intricate decorative details, and premium gpt-image-2 anime illustration quality.",
+    "title": "Magical Chibi Cafe Mascot at Sunrise",
+    "description": "A bright fantasy anime cafe scene centered on a chibi mascot character, ideal for promotional art, greeting posts, or whimsical cafe branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022547933_oj0rwx_HGi4dkobQAAtLY_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 14930,
     "content": "A dark cyberpunk anime illustration of a small eerie girl standing in a narrow rain-soaked alley at night, viewed from a dramatic low angle that makes her oversized mechanical arm dominate the foreground. She wears a large white hooded coat covered with printed patch-like symbols, diagrams, and industrial markings, the hood casting deep shadow over her face. Her face is minimal and doll-like with short straight black hair, pale skin, and two glowing white eyes with no visible pupils, giving a quiet emotionless expression. One of her arms is replaced by an enormous heavy mech limb that is far larger than her body, extending toward the viewer. The arm is built from layered white armored plates, exposed joints, cables, bolts, pistons, and segmented machinery, with scratches and grime for a worn combat-industrial look. The hand has exactly 4 massive clawed fingers touching the wet ground, each ending in long black-red talons, with red internal lights glowing through vents and gaps across the knuckles, wrist, and forearm. Add dangling black cables beneath the upper arm and subtle red light leaks around the elbow and shoulder mechanisms. Her other sleeve hangs normally at her side. She wears dark shorts or a skirt beneath the coat and oversized fluffy white leg warmers around her lower legs, with bare feet visible on the reflective pavement. The alley is dense with pipes, conduits, cables, vents, and old signage, including teal-green vertical neon signs in the background, creating a moody cyan backlight. Rain falls through the scene, puddles reflect teal and red light, and tiny orange-red sparks scatter near the claw tips on the ground. Use a muted palette of dirty white, charcoal, teal, and crimson, with cinematic contrast, highly detailed linework, gritty textures, atmospheric fog, and a haunting futuristic dystopian mood. Make the character {argument name=\"character name\" default=\"a hooded mech-arm girl\"}, with {argument name=\"coat color\" default=\"dirty white\"} outerwear, {argument name=\"glow color\" default=\"crimson red\"} mechanical lights, and {argument name=\"neon color\" default=\"teal green\"} alley signage.",
     "title": "Cyberpunk Girl with Giant Mech Claw",
@@ -70,12 +379,13 @@
     "needReferenceImages": true
   },
   {
-    "id": 14862,
-    "content": "Using the provided reference image, isolate the same person’s head and recreate it as a centered floating 3D toy-like portrait with a glossy plastic finish. Remove the train interior, table, bottle, book, sweater, headphones, and body so only the head remains visible, cropped around the full head and ears. Add gold-framed glasses as a new accessory. Place the head against a bright saturated blue sky with soft white cartoon-like clouds, using a clean minimal composition, even daylight, and a playful surreal studio look.",
-    "title": "Floating 3D Head in Blue Sky",
-    "description": "This prompt transforms a real portrait reference into a stylized floating 3D head with a clean sky background, useful for playful avatar art or surreal profile images.",
+    "id": 15214,
+    "content": "Please change this to {argument name=\"style\" default=\"Blue Archive style\"} while maintaining the silhouette.",
+    "title": "Character Style Transfer",
+    "description": "A prompt to change a character's style to Blue Archive while keeping the original silhouette.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776936809478_fzo8vv_HGiT0DrXcAA9Rxv.jpg"
+      "https://cms-assets.youmind.com/media/1777022519493_4dnn14_HGheXoAbgAAXi0f.jpg",
+      "https://cms-assets.youmind.com/media/1777022519415_c02y0n_HGhfPq9boAAH8Fx.jpg"
     ],
     "needReferenceImages": true
   },
@@ -100,12 +410,22 @@
     "needReferenceImages": true
   },
   {
-    "id": 14816,
-    "content": "A minimalist fantasy character portrait centered on a plain light gray background, showing a bust-length hooded figure in black and white ink illustration style. The character wears a deep, heavy {argument name=\"cloak color\" default=\"black\"} hood and scarf-like cowl that fully wraps the head and neck, with rich folds and dramatic shadow. The face area is obscured by 1 featureless rectangular blur or censored block, soft-edged and vertically oriented, placed where the face would be under the hood. On the character’s right shoulder there is 1 worn medieval pauldron made of light metal with visible scratches, cracks, rivets, and dark edging, attached with 1 leather strap and buckle crossing the chest. Render the entire figure in high-contrast monochrome with dense stippling, engraving-like texture, gritty fantasy RPG concept art energy, no visible eyes or skin, no additional props, no scene elements, lots of negative space, and a clean centered composition.",
-    "title": "Hooded Fantasy Figure with Obscured Face",
-    "description": "This prompt generates a stark monochrome bust portrait of a mysterious hooded fantasy character, ideal for dark RPG branding, avatars, or atmospheric concept art.",
+    "id": 14817,
+    "content": "A minimalist monochrome illustration of a traditional Japanese samurai helmet and shoulder armor, shown as a centered bust-length portrait on a plain light gray background. The armor is rendered in black ink engraving style with high contrast, dense stippling, etched linework, and vintage woodcut texture. The kabuto has two tall curved crest horns and layered side guards, with detailed lacing and plate construction visible on the shoulder section. The face area is completely obscured by a centered vertical black rectangle censor bar with slightly soft edges, covering the mask and most of the front of the helmet opening. Keep the composition small and isolated in the middle of the canvas with large negative space around it, no additional objects, no text, no border.",
+    "title": "Censored Samurai Engraving",
+    "description": "A stark black-and-white vintage-style samurai armor portrait with a censored face, suitable for editorial art, poster design, or minimalist concept imagery.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776936784963_gz1p5b_HGhP9ReXIAAYa0_.png"
+      "https://cms-assets.youmind.com/media/1777022539020_24hq8t_HGhP9RZXoAADhm9.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 14815,
+    "content": "A centered black-and-white vintage ink illustration of a medieval knight’s helmet and upper neck guard, shown as a bust on a plain light gray background with lots of negative space. The helmet is angled slightly to the left in three-quarter view, with a rounded domed top, a narrow horizontal visor slit, and a faceplate featuring 6 vertical ventilation slits. Include a riveted gorget with visible metal studs and a draped cloth or cape falling over the right shoulder. Render it in an engraved woodcut or etching style with bold black outlines, dense stippling, scratchy crosshatching, and high contrast shading, like an old heraldic emblem or antique book illustration. Clean isolated composition, no text, no border, no additional objects.",
+    "title": "Vintage Knight Helmet Etching",
+    "description": "This prompt generates a minimalist black-and-white antique-style illustration of a medieval knight helmet, suitable for logos, tattoos, emblems, or editorial graphics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022538062_nptsb9_HGhP9RXWUAAzQw3.png"
     ],
     "needReferenceImages": true
   },

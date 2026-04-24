@@ -1,5 +1,159 @@
 [
   {
+    "id": 15310,
+    "content": "A warm, editorial-style lifestyle product photo shot indoors from a low close-up angle, focused on a woman's lower legs and feet as she tries on 1 pair of black leather backless loafers with tan faux-fur lining. One loafer is worn on the right foot and the left foot is bare, hovering just above the textured cream shag rug, while the second matching loafer lies on the rug in the lower left foreground. The shoes have smooth black leather uppers, a rounded almond toe, open mule-style heel, plush brown fur spilling out around the opening, and a small polished gold horsebit hardware detail across the vamp. The model wears cropped medium-blue denim jeans with a raw frayed hem. The setting is a cozy minimalist interior with a cream rug featuring 2 thin irregular black lines, a neutral wall, and a leaning rectangular mirror with a medium wood frame in the upper right background, softly reflecting the rug and part of the scene. Use soft natural window light, shallow depth of field, subtle film grain, realistic skin texture, muted beige and black palette, relaxed candid composition, premium fashion catalog mood, high detail, photorealistic.",
+    "title": "Luxury Fur-Lined Loafer Lifestyle Photo",
+    "description": "This prompt generates a cozy high-end fashion product shot of fur-lined black mule loafers being tried on in a warm minimalist home interior, ideal for footwear ads and editorial ecommerce imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022561994_nlclxf_HGp4DGpbkAAqtWk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15179,
+    "content": "Flatten 3D packaging into 2D net. Expand all panels and tabs. Orthographic projection, no distortion. Map textures precisely. Add contrasting die-lines. {argument name=\"background\" default=\"Pure white background\"}.",
+    "title": "3D Packaging to 2D Net Unfolding",
+    "description": "A technical prompt for industrial design that unfolds 3D packaging into a flattened 2D net with precise texture mapping and die-lines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022503526_whhz1o_HGm3EfaaEAA61ZN.jpg",
+      "https://cms-assets.youmind.com/media/1777022503631_ppjae9_HGm3Ld_bUAAAi1Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15419,
+    "content": "A luxurious cinematic product photograph of a classic rectangular perfume bottle inspired by {argument name=\"brand label\" default=\"N°5 CHANEL PARIS PARFUM\"}, standing upright on a glossy black marble surface with white veining and a warm golden reflection. The bottle is centered slightly to the right, made of thick clear glass with sharp beveled edges, filled with rich amber-gold perfume, covered in tiny condensation droplets, and topped with a faceted transparent crystal stopper. Use dramatic low-key lighting with a dark black background, strong warm highlights from the upper left, glowing amber reflections on the tabletop, and soft rim light along the bottle edges. Add elegant wisps of translucent smoke curling upward around both sides of the bottle, creating a sensual luxury-ad aesthetic. The label is a simple cream rectangle with black typography on the front. In the top-right corner, place 1 small white logo reading {argument name=\"corner logo\" default=\"Pollo.ai\"}. Ultra-detailed commercial studio photography, premium fragrance campaign style, shallow depth of field, crisp focus on the bottle, moody atmosphere, high contrast, realistic glass caustics, refined reflections, square composition.",
+    "title": "Luxury Perfume Ad Shot",
+    "description": "This prompt generates a moody high-end perfume product advertisement image, ideal for luxury branding, ecommerce hero banners, and social media ads.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022605290_dt44mt_HGmHFvtbQAAAv6C.jpg",
+      "https://cms-assets.youmind.com/media/1777022605359_6k24i5_HGmHF6pbAAABUFs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15235,
+    "content": "Please create a Japanese sake based on this character. Do not use existing brand logos. Please come up with a sake name based on the character.",
+    "title": "Character-Based Brand Identity Design",
+    "description": "A prompt that uses a character as a reference to design a sake product, including branding and a fitting name.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022527861_3at45g_HGlm8ycbsAAOqbz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15164,
+    "content": "A professional product photography shot of a {argument name=\"product\" default=\"cold sparkling water can\"} placed upright in {argument name=\"setting\" default=\"golden beach sand\"}. The can is {argument name=\"branding colors\" default=\"silver and teal\"}, covered in realistic water droplets condensation, with a pineapple illustration and tropical branding. The can is slightly tilted, planted in a small mound of fine golden sand with tiny white pebbles and small green tropical leaves/grass scattered around the base. Background features a bold split composition - bright sky-blue on the left and vivid yellow on the right, with a large blurred real pineapple placed behind the can on the right side. A blurred tropical palm leaf drapes in from the upper left corner, adding depth and framing. Macro-level water condensation droplets visible on the can surface. Lighting is bright, vibrant, commercial studio lighting with clean shadows. Shallow depth of field - can in sharp focus, background softly blurred. Mood: summer, tropical, fresh, refreshing. Commercial product photography, ultra-detailed, 8K.",
+    "title": "Tropical Product Photography",
+    "description": "A professional studio prompt for commercial product photography of a beverage can in a tropical beach setting with vibrant colors and macro details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022497285_zju5tf_HGk2PldaEAE0u_f.jpg",
+      "https://cms-assets.youmind.com/media/1777022497275_6kcjvc_HGk2PyNbQAAKbtU.jpg",
+      "https://cms-assets.youmind.com/media/1777022497321_aegxlq_HGk2QBPasAAgyQj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15243,
+    "content": "Create a high-end luxury perfume advertisement in a vertical smartphone-friendly editorial layout. Show a close-up, cropped portrait of an elegant woman from the back-left side, with only the lower half of her face and shoulder area visible, her head turned slightly away so her ear, jawline, neck, and shoulder are prominent while the upper face is mostly out of frame. Her hair is styled in a soft, voluminous brunette updo with loose, polished strands. She wears a silky ivory spaghetti-strap slip dress. Her skin is luminous with warm, diffused highlights. In one hand she delicately holds a rectangular glass perfume bottle near her neck and collarbone, fingers graceful and refined. The bottle contains pale golden liquid, has a faceted transparent cap, and a cream square label that reads {argument name=\"brand name\" default=\"LUMIÈRE\"} with smaller text below reading \"EAU DE PARFUM\". Use a minimalist fine-art beauty campaign aesthetic with soft beige, champagne, ivory, and blush tones, bright natural studio lighting, gentle shadows, shallow depth of field, crisp glass reflections, and a clean off-white background. Leave generous negative space on the right side for ad copy. Add elegant serif headline text on the right in a muted taupe color, split across 3 lines reading {argument name=\"headline text\" default=\"A scent that lingers in silence.\"}. Include a subtle premium fashion-magazine feel, ultra-realistic skin texture, luxury product photography, and polished commercial beauty retouching.",
+    "title": "Luxury Perfume Editorial Ad",
+    "description": "A refined vertical beauty campaign image for perfume branding, ideal for premium fragrance ads, social media promotions, and mobile-first luxury marketing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022531183_vdnen1_HGkwM6obcAA3IAF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15242,
+    "content": "Create a premium minimalist beauty advertisement on a clean light gray studio background. Show a glamorous female model from chest up on the left side, with {argument name=\"hair color\" default=\"deep brunette\"} hair blown dramatically to the left in a smooth, glossy wave, emphasizing shine and movement. She wears an elegant white halter dress with a twisted neckline. Her face is de-emphasized and not the focal point. On the right side, place a sleek modern cylindrical hair dryer in a metallic silver finish with a rose-gold circular rim around a black hollow center, shown upright with visible handle buttons, lower air vent perforations, and attached cord. Use luxury commercial product-photography lighting, soft shadows, ultra-clean retouching, and high-end cosmetic ad styling. Add bold modern sans-serif headline text in the upper right: {argument name=\"headline text\" default=\"Effortless shine.\"} on the first line and {argument name=\"subheadline text\" default=\"Everyday perfection.\"} below it in a lighter weight. In the lower left, include exactly 4 vertically stacked feature callouts with thin outlined circular icons and small sans-serif text: 1) sparkle icon with title \"Fast drying.\" and body \"Powerful digital motor for quick, efficient results.\" 2) thermometer icon with title \"Heat intelligent.\" and body \"Measures air temperature 40 times per second.\" 3) wavy heat lines icon with title \"Designed for hair health.\" and body \"Helps protect natural shine and smoothness.\" 4) muted speaker icon with title \"Engineered for balance.\" and body \"Lightweight, quiet, and comfortable to use.\" In the bottom right corner, add the luxury brand logo text {argument name=\"brand name\" default=\"LUXÉO\"} with small uppercase \"PROFESSIONAL\" beneath it. Vertical poster layout, polished mobile ad aesthetic, aspirational beauty-tech branding, realistic hair texture, realistic skin, crisp typography, and premium editorial composition.",
+    "title": "Luxury Hair Dryer Beauty Ad",
+    "description": "A polished vertical beauty-tech advertisement featuring a glossy-haired model, a premium hair dryer, and clean marketing text for luxury product promo use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022531272_akcocm_HGkwM7ObcAA6n_3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15462,
+    "content": "Luxury natural skincare ad campaign shot in a sun-dappled forest clearing, styled like a premium editorial beauty poster for {argument name=\"brand name\" default=\"WILLOW & ROOT\"}. Center a beautiful young woman with sun-kissed skin and loose blonde hair in a thick side braid, wearing a soft beige spaghetti-strap slip dress, seated behind a rustic moss-covered log table, holding delicate white wildflowers near her face. Her face is obscured by a clean rectangular block in a warm tan tone, creating an anonymous model effect. In the foreground on the log, arrange exactly 5 beauty products in a polished e-commerce lineup from left to right: a green glass dropper bottle labeled organic face oil with bamboo cap, a round cream blush compact with dusty rose lid, a tinted lip balm stick in muted terracotta packaging, a frosted pale-green pump bottle labeled dewy serum with bamboo pump, and a closed bamboo compact engraved with the brand name. Add soft white wildflowers and lush green foliage around the products and edges of the frame. Use warm golden-hour backlighting, creamy bokeh, shallow depth of field, soft lens glow, natural green and beige palette, high-end botanical wellness aesthetic, photorealistic skin and packaging, centered composition, vertical 4:5 layout. Overlay elegant dark serif typography at the top with the headline {argument name=\"headline text\" default=\"Rooted in Radiance\"} on two lines, a smaller sans-serif tagline beneath reading {argument name=\"tagline\" default=\"Nature-Powered. Skin-Loving.\"}, separated by a small leaf icon and thin horizontal divider lines. Add 2 circular promotional badges: on the upper left, an olive-green badge with a leaf icon and the text {argument name=\"left badge text\" default=\"PLANT-BASED + CRUELTY FREE\"}; on the upper right, a beige badge with the text {argument name=\"discount text\" default=\"15% OFF FIRST ORDER\"}. Place a small white Pollo.ai watermark in the top-right corner. Premium beauty advertising, clean luxury composition, modern mobile-first e-commerce campaign.",
+    "title": "Luxury Botanical Skincare Forest Ad",
+    "description": "This prompt generates a premium vertical beauty advertisement for a natural skincare brand, ideal for e-commerce promos, social ads, and editorial-style product marketing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022622008_udvz1l_HGkvelObgAATQPx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15150,
+    "content": "Create a clean product kit for \"{argument name=\"product name\" default=\"Purrre\"}\" ({argument name=\"product type\" default=\"Cat food\"}). Show the same product in multiple consistent views (front, back, side, 3/4, open package). Style: studio product photography, neutral background, soft lighting, high detail, no design drift, no text.",
+    "title": "Consistent Product Kit Photography",
+    "description": "A product photography prompt for showing a single item from multiple consistent angles for marketing kits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022491795_synytk_HGkbqkYXAAAtXQy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 15363,
+    "content": "{\"type\":\"Japanese e-commerce product advertisement\",\"product\":{\"category\":\"shoe laundry mesh bag\",\"name\":\"{argument name=\\\"product name\\\" default=\\\"靴用洗濯ネット\\\"}\",\"hero\":{\"bag\":{\"shape\":\"rounded clamshell zippered laundry bag with a top mesh panel and ribbed fabric sides\",\"main colors\":[\"light blue mesh\",\"medium gray ribbed body\",\"pale blue zipper trim\"],\"position\":\"front-right foreground on a light wooden tabletop\",\"state\":\"unzipped open at the front, revealing the contents\"},\"contents\":{\"count\":2,\"item\":\"white low-top sneakers\",\"arrangement\":\"a clean matching pair placed neatly side by side inside the bag with toes facing forward\"},\"background\":{\"setting\":\"bright clean laundry room\",\"main object\":\"front-loading washing machine on the right side, partially visible\",\"effects\":[\"large water splash arcs behind the product\",\"floating water bubbles across the composition\"],\"lighting\":\"high-key commercial lighting with glossy highlights and crisp shadows\"}}},\"layout\":{\"style\":\"dense Japanese shopping-banner composition for an online marketplace hero image\",\"sections\":[{\"title\":\"main headline block\",\"position\":\"top-left\",\"count\":3,\"labels\":[\"洗濯機に入れるだけ！\",\"靴を傷めず\",\"まるごと洗える！\"]},{\"title\":\"product name ribbon\",\"position\":\"left-center under headline\",\"count\":1,\"labels\":[\"靴用洗濯ネット\"]},{\"title\":\"feature icons\",\"position\":\"left side vertical column\",\"count\":3,\"labels\":[\"そのまま洗濯機へ入れるだけ\",\"型崩れを防いで優しく洗える\",\"汚れ・ニオイをしっかり落とす\"]},{\"title\":\"award badge\",\"position\":\"top-right\",\"count\":1,\"labels\":[\"楽天ランキング\",\"No.1\",\"靴用洗濯ネット\",\"※デイリーランキング1位 (2024年3月14日更新)\"]},{\"title\":\"inset usage photo\",\"position\":\"bottom-left\",\"count\":1,\"labels\":[\"hands opening the bag to place or show the shoes inside\"]},{\"title\":\"color variants\",\"position\":\"bottom-center\",\"count\":4,\"labels\":[\"グレー\",\"イエロー\",\"ブルー\",\"ライトグレー\"]},{\"title\":\"color count callout\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"選べる\",\"4\",\"color\"]}],\"color variants\":[{\"label\":\"グレー\",\"bag color\":\"gray body with light blue mesh top\"},{\"label\":\"イエロー\",\"bag color\":\"yellow body with pale trim\"},{\"label\":\"ブルー\",\"bag color\":\"bright blue body with pale trim\"},{\"label\":\"ライトグレー\",\"bag color\":\"light gray body with pale trim\"}]} ,\"typography\":{\"language\":\"Japanese\",\"headline treatment\":\"very large bold sans-serif, black and vivid blue emphasis, dynamic line breaks\",\"accent colors\":[\"royal blue\",\"yellow\",\"white\",\"red-gold badge accents\",\"green and orange feature icons\"]},\"composition notes\":\"Create a polished marketplace-ready Japanese sales graphic with the product dominating the center-right, large benefit-focused headline on the left, ranking badge at the upper right, and four small color option thumbnails along the bottom. Emphasize cleanliness, protection, and washing power. Use glossy water splash effects and bubbles to imply machine washing performance. Keep the overall look premium, trustworthy, and highly clickable.\",\"customization\":{\"headline emphasis color\":\"{argument name=\\\"accent color\\\" default=\\\"blue\\\"}\",\"bag main color\":\"{argument name=\\\"main bag color\\\" default=\\\"gray with light blue mesh\\\"}\",\"background appliance\":\"{argument name=\\\"background appliance\\\" default=\\\"front-loading washing machine\\\"}\"}}",
+    "title": "Japanese Shoe Laundry Bag Ad",
+    "description": "A polished Japanese e-commerce hero image promoting a shoe laundry mesh bag with bold sales text, feature icons, ranking badge, and color variants for marketplace listings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022583032_ruqjqq_HGkbprDbAAA8UHW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15362,
+    "content": "Create a high-converting Japanese e-commerce product advertisement square image for a pair of ultra-cushioned insoles, styled like a Rakuten marketplace hero banner. Bright sky-blue gradient background with soft white clouds, clean glossy commercial design, energetic and premium. Large central Japanese headline in bold white calligraphic serif text with blue glow: \"雲インソール\". Above it, a rounded white capsule banner with blue text: \"履いた瞬間ふわっ！\". Below the main headline, smaller white handwritten-style Japanese subheading: \"まるで雲の上を歩くような心地よさ\". Show 4 insole product views total: 1 large white foam sole held vertically in a realistic human hand at lower left foreground, featuring a pebble-like bubble texture with small ventilation holes; 1 gray fabric-covered insole standing upright in the center; 2 stacked angled white insoles at lower right, emphasizing thick soft cushioning and textured underside. Add a large gold award badge at top left with crown and laurel, containing the Japanese text \"第1位\" and a red ribbon reading \"楽天ランキング\". Add a vertical gold ribbon badge at top right with the Japanese text \"累計販売数 10万足 突破!\". On the left side, place 4 vertically stacked rounded white icon boxes under a small blue handwritten caption \"こんなお悩みに!\", with simple blue line icons and labels: 1 \"足の疲れ\", 2 \"衝撃吸収\", 3 \"長時間の立ち仕事\", 4 \"ウォーキング スポーツに\". On the right side, place 2 rounded white feature boxes with blue outlines and blue-gray icon illustrations: top box text \"衝撃吸収 疲れにくい\" with a walking person icon; bottom box text \"通気性◎ ムレにくい\" with airflow lines icon. At the bottom right, add a large white cloud-shaped callout with bold blue Japanese text \"極上の クッション感\" and a tiny blue cloud icon. At the bottom center, place a small blue rounded label \"選べるサイズ\" with large blue size text underneath: \"23.0cm〜29.0cm\". Use crisp product-photography lighting, soft shadows, glossy highlights, vivid contrast, and a polished online shopping ad composition optimized for instant conversion.",
+    "title": "Japanese Cloud Insole Ad Banner",
+    "description": "A polished Japanese e-commerce hero image for cushioned insoles, ideal for marketplace listings, product ads, and conversion-focused online storefronts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022582626_n1mu2g_HGkbprJbwAAtL-F.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15360,
+    "content": "A clean Japanese e-commerce promotional poster for a waterproof rainwear set, square format, bright high-key product ad style. Show 2 adult models walking outdoors on a wet pavement in light rain with a soft blurred background: 1 taller male model wearing a taupe-brown hooded waterproof jacket and black rain pants, and 1 shorter female model wearing a dusty pink hooded waterproof jacket and black rain pants. Both outfits are lightweight rain suits with zip-front jackets, subtle fabric sheen, visible water droplets on the surface, and casual sneakers. Faces are de-emphasized and not the focus. Use a white and pale gray background layout with the models placed center-right and full body visible. On the left side, large bold Japanese headline text in a mix of black and vivid blue reads exactly: \"雨でも快適。しっかり防水\" with small blue raindrop accents and a small umbrella icon near the text, plus a yellow brushstroke underline accent beneath the second line. Beneath the headline, add a blue ribbon-style banner with white Japanese text: \"上下セット / 男女兼用\". Below that, place exactly 3 circular blue feature icons in a horizontal row with Japanese labels: 1) water drops icon with text \"耐水圧 20,000mm\", 2) upward stretch arrows icon with text \"ムレにくい\", 3) feather icon with text \"軽量設計\". At the bottom left, display exactly 6 small product color variants as miniature jacket-and-pants set thumbnails arranged in 2 rows of 3. The 6 colorways are: black set, navy set, olive green set, pink set, beige set, and light gray set. In the top right corner, add a gold laurel award badge with red ribbons and Japanese text reading \"Yahoo! ショッピング 第1位 RANKING\" with smaller text beneath indicating a daily ranking note. Overall style: polished Japanese marketplace listing hero image, realistic apparel photography composited with clean graphic design, commercial catalog quality, waterproof outdoor lifestyle feel, soft overcast lighting, crisp typography, premium but accessible consumer product presentation.",
+    "title": "Japanese Waterproof Rainwear Ad",
+    "description": "This prompt generates a polished Japanese e-commerce hero image for a unisex waterproof rain suit set, suitable for online marketplace listings and product advertisements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022581926_ghobtv_HGkbprLbIAEyPuz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15361,
+    "content": "Create a clean Japanese e-commerce advertisement image for a premium yoga mat in a bright minimalist home interior. The main scene shows 1 woman with her face softly blurred, doing an upward-facing dog yoga pose on a thick pastel pink yoga mat placed diagonally across a pale wood floor. She wears a white sports bra and light gray leggings, with her hair in a neat bun. In the left foreground, show 1 rolled purple yoga mat secured with 2 black straps. Along the bottom edge, display exactly 7 small rolled mat color variations in a row: pink, lavender, sky blue, mint green, beige, light gray, and black. Add large Japanese promotional typography on the left in a stylish modern layout: the headline reads \"やさしく支える。\" with \"やさしく\" in handwritten pink script and \"支える。\" in black, followed by a bold large line \"極厚 10mm\" with \"10\" oversized in pink and \"mm\" smaller in pink italic style. Under that, add a pink rectangular banner with white text reading \"滑りにくい / TPE素材\". Beneath the banner, place exactly 3 circular feature icons with labels in Japanese: 1) a non-slip texture icon labeled \"滑り止め\", 2) a cushioning icon with downward arrows labeled \"クッション性\", 3) a feather icon labeled \"軽量\". In the upper right corner, add a gold laurel award badge with a crown and layered red ribbons, containing the Japanese text \"Yahoo! JAPAN ショッピング RANKING 第1位 ヨガマット部門\". In the lower right corner, add a pink angled label reading \"選べる 7色\" with the number 7 large and white. The background should be soft, airy, and high-key with a white wall, natural daylight, and a slightly out-of-focus potted green plant and woven basket on the right side. Use a polished commercial product-photography style, soft shadows, pastel color palette, luxury wellness branding, sharp layout, and realistic materials, suitable for an online marketplace hero image.",
+    "title": "Japanese Yoga Mat E-commerce Ad",
+    "description": "This prompt generates a polished Japanese online-shop hero image for a thick yoga mat, ideal for e-commerce listings, marketplace ads, and product promotional banners.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022581907_07barg_HGkbprDbUAACPD8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15316,
+    "content": "Luxury fashion editorial product shot of a {argument name=\"bag color\" default=\"taupe gray\"} structured leather handbag with a top handle, wide folded flap, centered vertical seam, small gold bar clasp, and angular side gussets, carried by a glamorous woman posed in a rocky desert landscape. Medium close-up portrait composition, the bag prominently centered in the foreground and held near chest level by one hand gripping the handle, the model turned slightly sideways with bare shoulder and arm visible, wearing a dark brown pleated or textured dress. Long windblown wavy hair in {argument name=\"hair color\" default=\"light brown with sun-kissed highlights\"}, warm tanned skin, high-end campaign styling, confident elegant posture. Natural outdoor sunlight, warm earthy palette, beige and sandstone rock formations softly blurred in the background, shallow depth of field, realistic luxury advertising photography, rich texture on the leather, subtle highlights on the metal hardware, premium fashion magazine look. Add a small white rectangular picture-in-picture inset in the bottom-left corner showing the same handbag alone from the front on a clean white background, with the text {argument name=\"caption text\" default=\"GPT Image2\"} below it in simple black sans-serif lettering.",
+    "title": "Luxury Desert Handbag Campaign",
+    "description": "This prompt generates a realistic high-end fashion advertisement image featuring a structured handbag in a desert editorial setting, useful for luxury product marketing and brand mockups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022564552_d1emnk_HGjlSMNbAAAScdr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15148,
+    "content": "William and Piggy shaped ice cream, pink square ice cream with pixel eyes and pig noses, strawberry flavor, served on a cone, cute food design. Egg Cone: A standard waffle cone, golden and crispy in color, with a “Minecraft” co-branded paper sleeve. The background is an outdoor theme park scene with a blue sky, white clouds, and brightly colored rides and buildings blurring into the background. The hand of the person holding the ice cream is clear, enhancing the realism of the “hands-on experience”. The overall style is bright, fun and playful, making it an eye-catching IP co-branded summer ice cream.",
+    "title": "Co-branded IP Ice Cream Design",
+    "description": "A creative prompt for a playful pixel-themed strawberry ice cream cone set in a theme park.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777022490667_9t8w8w_HGjXMmTWgAAFxpe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 15056,
     "content": "{\"type\":\"e-commerce skincare product page mockup\",\"brand\":{\"name\":\"GLOW.\",\"style\":\"minimal luxury skincare branding\"},\"product\":{\"name\":\"{argument name=\\\"product name\\\" default=\\\"Hyaluronic Acid Serum\\\"}\",\"category\":\"serum\",\"price\":\"{argument name=\\\"price\\\" default=\\\"$36.00\\\"}\",\"rating\":{\"stars\":5,\"score\":\"4.8\",\"reviews\":\"(1200 reviews)\"},\"badge\":\"BESTSELLER\",\"description\":\"A lightweight, fast-absorbing serum that delivers intense hydration, visibly plumps, and helps smooth the look of fine lines.\",\"size\":\"30ml / 1 fl oz\",\"payment_note\":\"Pay in 4 interest-free payments of $9.00 with afterpay\",\"benefits\":[\"Deep Hydration\",\"Plumps + Smooths\",\"Fragrance Free\"],\"shipping_note\":\"Free shipping on orders over $50\"},\"visual\":{\"primary_packshot\":\"clear glass dropper bottle with white cap and white label, black minimalist text, placed on a warm beige surface with a small beige stone sphere on the left and a large round marble disc on the right, soft studio shadows, clean premium skincare ad lighting\",\"gallery_thumbnails\":{\"count\":4,\"items\":[\"front product bottle on beige set\",\"serum texture droplets on beige background\",\"open bottle with serum dropper above neck\",\"soft lifestyle skin-toned close-up blur\"]}},\"layout\":{\"background\":\"light gray studio backdrop\",\"canvas\":\"wide desktop website mockup with a mobile version shown to the right\",\"sections\":[{\"title\":\"desktop product page\",\"position\":\"left\",\"count\":12,\"labels\":[\"top shipping bar\",\"brand header with navigation\",\"breadcrumb\",\"thumbnail gallery\",\"main product image\",\"bestseller badge\",\"product title\",\"rating and reviews\",\"price and payment note\",\"size selector\",\"quantity stepper\",\"add to cart and buy it now buttons\"]},{\"title\":\"feature icons row\",\"position\":\"bottom-left under main image\",\"count\":3,\"labels\":[\"Deep Hydration\",\"Plumps + Smooths\",\"Fragrance Free\"]},{\"title\":\"mobile product page preview\",\"position\":\"right\",\"count\":11,\"labels\":[\"top shipping bar\",\"mobile header with menu and cart\",\"breadcrumb\",\"main product image\",\"carousel dots\",\"bestseller badge\",\"product title\",\"rating and reviews\",\"price and payment note\",\"quantity stepper\",\"add to cart and buy it now buttons\"]}],\"desktop_header\":{\"announcement\":\"Free shipping on orders over $50\",\"nav_items\":[\"SHOP\",\"BESTSELLERS\",\"SKINCARE QUIZ\",\"ABOUT\",\"JOURNAL\"],\"icons\":[\"search\",\"account\",\"cart with item count 2\"]},\"breadcrumb\":[\"Home\",\"Shop\",\"Serums\",\"Hyaluronic Acid Serum\"],\"mobile_header\":{\"announcement\":\"Free shipping on orders over $50\",\"icons\":[\"menu\",\"cart with item count 2\"]}},\"style\":{\"aesthetic\":\"clean modern Shopify-style product page\",\"color_palette\":[\"white\",\"soft beige\",\"light gray\",\"black\",\"warm stone\"],\"typography\":\"elegant serif product title paired with minimalist sans-serif UI text\",\"render_quality\":\"ultra-clean, crisp, realistic, premium e-commerce design, high resolution, ad-ready\"}}",
     "title": "Luxury Skincare Product Page Mockup",
