@@ -1,11 +1,441 @@
 [
   {
-    "id": 13531,
-    "content": "{\n  \"type\": \"2x2 grid of Japanese digital advertisement banners\",\n  \"layout\": {\n    \"structure\": \"4 equal quadrants\",\n    \"quadrants\": [\n      {\n        \"position\": \"top-left\",\n        \"theme\": \"Travel\",\n        \"subject\": \"A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.\",\n        \"elements\": [\"red hibiscus flower in bottom left corner\"],\n        \"text_labels\": [\n          \"今年こそ、解き放て。\",\n          \"{argument name=\\\"travel destination\\\" default=\\\"沖縄旅行\\\"}\",\n          \"3日間の癒やし旅\",\n          \"航空券＋ホテル\",\n          \"39,800円〜\",\n          \"絶景、グルメ、体験 ぜんぶ叶う!\"\n        ],\n        \"icons\": {\n          \"count\": 3,\n          \"descriptions\": [\"airplane\", \"hotel building\", \"car\"]\n        }\n      },\n      {\n        \"position\": \"top-right\",\n        \"theme\": \"Skincare\",\n        \"subject\": \"Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.\",\n        \"elements\": [\n          \"soft pink gradient background\",\n          \"dynamic water splash effects\",\n          \"pink cosmetic jar labeled '{argument name=\\\"skincare product name\\\" default=\\\"LUMIÈRE\\\"} Brightening Gel'\"\n        ],\n        \"text_labels\": [\n          \"毛穴・くすみ卒業！\",\n          \"透明感あふれる\",\n          \"水光肌へ\",\n          \"新感覚スキンケア\",\n          \"初回限定 78%OFF\",\n          \"{argument name=\\\"discount price\\\" default=\\\"1,980円\\\"}\"\n        ],\n        \"badges\": {\n          \"count\": 3,\n          \"style\": \"gold circular\",\n          \"labels\": [\"毛穴ケア\", \"高保湿\", \"ハリ・ツヤ\"]\n        }\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"theme\": \"Gourmet Food\",\n        \"subject\": \"Thick, sliced, medium-rare steak sizzling on a dark grill plate.\",\n        \"elements\": [\n          \"garlic chips\",\n          \"rosemary sprig\",\n          \"dark background with smoke and glowing embers\"\n        ],\n        \"text_labels\": [\n          \"とろける旨さ！\",\n          \"{argument name=\\\"food item\\\" default=\\\"黒毛和牛\\\"}\",\n          \"贅沢ステーキ\",\n          \"期間限定\",\n          \"特別価格\",\n          \"通常価格 8,980円\",\n          \"4,980円\"\n        ],\n        \"badges\": {\n          \"count\": 1,\n          \"style\": \"red circular\",\n          \"labels\": [\"A4 A5等級\"]\n        }\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"theme\": \"Online Education\",\n        \"subject\": \"Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.\",\n        \"elements\": [\"bright indoor lighting\", \"desk environment\"],\n        \"text_labels\": [\n          \"スキマ時間で\",\n          \"{argument name=\\\"education goal\\\" default=\\\"最短合格！\\\"}\",\n          \"オンライン資格講座\",\n          \"スマホで完結\",\n          \"効率学習で差がつく！\",\n          \"今だけ！ 受講料 20%OFF\"\n        ],\n        \"badges\": {\n          \"count\": 1,\n          \"style\": \"blue circular\",\n          \"labels\": [\"受講者数 10万人 突破！\"]\n        },\n        \"icons\": {\n          \"count\": 2,\n          \"descriptions\": [\"smartphone\", \"open book\"]\n        }\n      }\n    ]\n  }\n}",
-    "title": "4-Panel Japanese Digital Ad Banner Grid",
-    "description": "Generates a 2x2 grid of distinct Japanese digital advertisement banners for travel, skincare, food, and online education.",
+    "id": 16432,
+    "content": "A soft, airy lifestyle editorial image with a warm spring cafe mood. Place a Japanese woman in her late 20s to 30s on the right half of the frame, seated at a light wooden table and holding an open hardcover book as if quietly reading. She has {argument name=\"hair color\" default=\"medium brown\"} hair styled half-up with gentle curls at the ends, small earrings, and a calm, refined presence. Dress her in a navy blazer over a white top for an elegant casual-office look. On the table in front of her, show exactly 3 tabletop items: 1 white coffee cup on a saucer near the center front, 1 small clear glass vase filled with pale yellow and white flowers at the lower right, and 1 open book in her hands. Use bright natural lighting, soft shadows, a high-key cream background, and a clean minimalist composition with lots of negative space. On the left side, add Japanese editorial typography in a delicate, hand-drawn style: a large headline reading {argument name=\"headline text\" default=\"春の休日、カフェで読書。\"}, a smaller vertical-style body copy block below it reading \"やわらかな陽ざしと、ページをめくる音。ゆっくり流れる時間が、いちばんのごほうび。\", and a handwritten English phrase reading {argument name=\"accent text\" default=\"Spring days\"}. Surround the layout with subtle sketch-like spring doodles in muted gray ink and pale pink accents. Include exactly 9 falling cherry blossom petals scattered across the page, 2 simple line-drawn birds flying near the upper right, 1 outlined window frame with cherry blossom branches in the top right corner, 1 line drawing of a steaming coffee cup at the lower left, 1 line drawing of an open book with a small vase and leaves near the lower middle-left, and a few tiny leaf doodles. The overall style should blend real photography with delicate hand-drawn editorial illustrations, evoking a calm, feminine Japanese magazine advertisement about reading at a cafe in spring.",
+    "title": "Spring Cafe Reading Editorial",
+    "description": "This prompt generates a soft Japanese spring-themed cafe editorial image that blends portrait photography with hand-drawn magazine-style text and doodles.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776668128332_d2wtbo_HGQDh30bMAARz9E.jpg"
+      "https://cms-assets.youmind.com/media/1777280836753_xidmge_HGzLfamaAAEu9C2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16431,
+    "content": "A clean, warm, minimalist promotional poster for a coding study meetup, in a soft lifestyle-photography plus editorial design style. Show 3 young adults seated around a light wooden table in a bright neutral room, collaborating with laptops and notebooks. The group consists of 2 men and 1 woman, all casually dressed in muted colors; the person on the left wears a dark navy sweater, the woman in the center-right wears an off-white knit top, and the person on the far right wears a light gray hoodie in side profile. Their faces are softly obscured and not detailed. Place 2 open silver laptops on the table, 2 ceramic mugs, 2 notebooks, 1 smartphone, and 1 pen visible near the right person’s hand. Compose the people on the right half of the image, with a large pale sage-green organic blob shape behind them as a graphic backdrop. Keep the lighting soft, natural, airy, and slightly warm, with lots of negative space on the left. On the left side, add large elegant headline typography reading {argument name=\"headline text\" default=\"Claude Code\"} on one line and {argument name=\"subheadline text\" default=\"勉強会\"} below it in large Japanese characters. Under the headline, add a thin dotted horizontal divider line, then 2 lines of smaller Japanese body text reading {argument name=\"body text\" default=\"集まって、学んで、つくって、\\n一緒にスキルをアップデートしよう。\"}. Add playful hand-drawn doodles in thin dark lines around the layout: 1 hanging lamp centered near the top, 1 handwritten note in the upper left saying {argument name=\"note text\" default=\"Let’s coding!\"}, 1 small laptop icon in the upper right, 1 steaming coffee cup icon beside it, 1 potted plant icon in the lower left, and 3 long curving decorative squiggle lines distributed across the page. Use an off-white background, restrained Japanese cafe-meets-tech branding, balanced whitespace, and a polished social-media event flyer aesthetic with a 16:9 horizontal composition.",
+    "title": "Minimal Coding Study Group Poster",
+    "description": "A warm, modern event flyer showing three people studying with laptops, ideal for promoting a coding meetup or tech workshop on social media.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280836433_wauuna_HGzLfMAbsAAjtf6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16429,
+    "content": "A soft, airy studio photograph on a warm off-white background with a minimalist Japanese greeting-card aesthetic. Show a small child, about toddler to preschool age, running joyfully toward the camera from left-center, with one arm raised high holding a tall pole with 2 carp streamers attached: 1 large blue koinobori on top and 1 smaller red koinobori below. The child wears a simple handmade samurai helmet folded from paper, a loose long-sleeve ivory shirt, light beige pants with rolled cuffs, and white sneakers. Keep the face unobtrusive and generic, with the focus on motion, innocence, and seasonal atmosphere. Surround the child with delicate hand-drawn doodle illustrations in thin gray pencil-like lines and faint pastel accents: 2 puffy clouds, 1 flying bird, 1 small origami crane near the text, 4 drifting leaves, 2 curved wind-line clusters, 1 small house, 2 tall trees, 2 purple iris flowers with grass at the bottom left, and sparse grass marks along the ground. On the right side, add elegant Japanese handwritten text reading {argument name=\"headline text\" default=\"こどもの日\"}, beneath it smaller Japanese text {argument name=\"subtext\" default=\"すこやかな\\n成長を願って。\"}, and below that the English subtitle {argument name=\"english subtitle\" default=\"Children's Day\"} in a light handwritten script. Use a clean editorial layout with abundant negative space, natural soft lighting, muted cream and beige tones, subtle pastel blue and red accents, gentle shadows, and a calm premium lifestyle-photography look suitable for a seasonal holiday card or social media post.",
+    "title": "Japanese Children's Day Photo Card",
+    "description": "A minimalist lifestyle-style Children's Day image featuring a running child with koinobori and hand-drawn seasonal doodles, ideal for greeting cards and holiday social posts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280835940_xtqhjk_HGzLewebwAExKGm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16246,
+    "content": "{argument name=\"person\" default=\"Bob Barker\"} standing on the top of a {argument name=\"location\" default=\"skyrise building\"} holding a skateboard. He is wearing his {argument name=\"outfit\" default=\"classic suit from The Price is Right\"}.",
+    "title": "Bob Barker Skyscraper Portrait",
+    "description": "Generates a surreal scene of Bob Barker in his classic suit standing on top of a skyscraper while holding a skateboard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280764958_kyq3mm_HG3VQXCagAAJiy8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16415,
+    "content": "Using REFERENCE_0, restore the same kitten into a clean, realistic high-resolution portrait while preserving the front-facing composition, white fur with gray-brown markings on the head, blue background, and the beige foreground ledge at the bottom. Sharpen the face and eyes, add natural fur detail and whiskers, correct the proportions into a believable young kitten, improve lighting and contrast, and remove the heavy blur/noise so it looks like a crisp DSLR-style pet photo with shallow depth of field.",
+    "title": "Enhance Blurry Kitten Photo",
+    "description": "This prompt turns a low-quality cat reference photo into a sharp, realistic pet portrait while keeping the original composition and subject identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280830909_z0fpns_HGlb4p_XEAApdXY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16423,
+    "content": "Create a retro cinematic personal-brand poster in a distressed 1970s propaganda-meets-film-advertising style, landscape orientation, with a thick worn black border and heavy paper grain, ink bleed, halftone texture, scuffed edges, and aged print imperfections. Use a bold limited palette of deep black, warm cream, saturated poster red, and mustard yellow. The composition is a single unified poster with a large cropped portrait of {argument name=\"character name\" default=\"HOSSEIN\"} on the left half, shown from chest up, wearing dark sunglasses, a dark shirt, a chain necklace, and a mustard yellow jacket, with short dark hair styled up; the face is intentionally obscured by a centered rectangular block in muted taupe-gray, creating an editorial anonymized look. On the far left, place a vertical black panel containing 2 stacked “AI” blocks and 1 subtitle: top block reads “AI”, beneath it the subtitle reads “CREATIVE AGENT”, lower down another large “AI” sits over a gold circuit-board graphic. Across the center-right, place the main diagonal cream title band with huge black condensed lettering for the name {argument name=\"main name text\" default=\"HOSSEIN\"} and an oversized red “AI” at the far right of the band. Beneath the large name, add a small stretched subtitle line reading “AI CINEMATOGRAPHER · ADVERTIVE FOR BRAND”. In the top-right corner, add a 3-line stacked headline reading {argument name=\"top right headline\" default=\"AI CINEMATOGRAPHER ADVERTIVE FOR BRAND\"} in bold cream text on red. On the red field below the title band, include exactly 4 stacked black label boxes with cream text: “CINEMATOGRAPHER”, “AI CREATOR”, “VISUAL ARTIST”, and “BRAND ADVISOR”. Near the right side, add a handwritten white script note with exactly 3 lines: “Visual Storyteller”, “Brand Builder”, and “AI Explore”. In the lower area, arrange exactly 6 creative-tech objects: 1 circular orange graphic icon, 1 white audio waveform/equalizer graphic, 1 black film clapperboard labeled with “AI”, 1 open silver laptop, 1 pair of black headphones, and 1 large professional cinema camera body with visible “RED” marking; also include the edge of a music keyboard/controller at the bottom right. In the bottom-right corner, place a small dark terminal-style text block with tiny white monospace lines suggesting AI-generated visuals and analytics. Keep the whole design bold, gritty, and highly graphic, like a premium personal branding poster for an AI creative director and visual storyteller.",
+    "title": "Retro AI Creative Brand Poster",
+    "description": "A gritty vintage-style cinematic branding poster for an AI creative professional, ideal for personal brand visuals, social headers, or promo artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280833920_uui09d_HG3FrFpbEAA3UMZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16357,
+    "content": "A soft, dreamy anime illustration of a cute teenage girl standing centered on a park path lined with blooming cherry blossom trees in full spring. She faces the viewer and holds a handmade white sign at chest height with the Japanese text {argument name=\"sign text\" default=\"3,500 フォロワー ありがとう♡\"} written in large rounded pink lettering, decorated with small sakura flowers, hearts, and tiny confetti-like marks. The girl has {argument name=\"hair color\" default=\"medium brown\"} hair styled in high twin ponytails tied with pink ribbons, straight-cut bangs, and loose curled ends. Her face is intentionally blank and featureless, a smooth shaded skin-toned oval with no eyes, nose, or mouth. She wears an oversized off-shoulder knit sweater in {argument name=\"sweater color\" default=\"pastel pink\"}, with a thin camisole strap visible on one shoulder, a short white pleated skirt with a soft ruffled hem, and a delicate small necklace. Her pose is gentle and symmetrical, both hands gripping the left and right edges of the sign. The setting is a sunlit sakura avenue with 2 visible benches on the right side and 1 vintage lamppost on the left, petals drifting through the air and scattered across the ground. Use warm backlighting, soft bloom, shallow depth of field, pastel pink and cream tones, romantic seasonal atmosphere, highly detailed anime rendering, polished linework, glossy hair highlights, subtle fabric folds, and a celebratory social-media thank-you mood.",
+    "title": "Anime Sakura Thank-You Portrait",
+    "description": "This generates a pastel anime-style spring portrait of a twin-tailed girl holding a celebratory follower-thank-you sign, ideal for social posts or milestone announcements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280808268_yfrgb4_HGx232la0AAQSMs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16265,
+    "content": "{argument name=\"character\" default=\"league of legends miss fortune\"} taking a selfie real world style",
+    "title": "Miss Fortune Realistic Selfie Prompt",
+    "description": "A simple prompt for generating a realistic, 'real-world' style selfie of the character Miss Fortune from League of Legends.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280772085_fcqzkz_HG2uLXnbkAA4OOf.jpg",
+      "https://cms-assets.youmind.com/media/1777280772082_zoy4qf_HG2uLXaa4AAX30s.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16425,
+    "content": "A realistic vertical smartphone photo of a {argument name=\"person\" default=\"young woman\"} standing at a kitchen or dining table, slicing ripe peaches on a white plastic cutting board. The subject is centered and framed from about mid-thigh or waist up, leaning slightly toward the camera in a casual candid pose. She has very thick, long, dark brown to black naturally curly hair with defined ringlets and a few lighter brown highlights, falling around her shoulders and partially covering the sides of her face. She wears an oversized {argument name=\"hoodie color\" default=\"dark brown\"} hoodie with loose sleeves, giving the image a relaxed at-home lifestyle feel. One hand holds a kitchen knife vertically as it cuts into a peach wedge in the center of the board, while the other hand steadies the fruit. Show exactly 7 peach pieces visible on the cutting board: 3 smaller wedges grouped on the left, 1 central wedge being cut, and 3 larger pieces on the right including a half peach. The table surface is light wood. The room is warmly lit and cozy, with a beige wall and ceiling, a dark ceiling fan with 3 visible blades in the upper left, 2 framed botanical prints on the left wall, 1 leafy green houseplant in the lower left background, 1 pale sage-green chair behind the table, 1 glowing round white paper lantern hanging on the right, and 1 iridescent pastel wall hanging or reflective fabric panel in the right background. Use soft indoor lighting, natural skin tones, subtle shadows, realistic fruit texture and knife detail, documentary-style composition, shallow to medium depth of field, and an authentic everyday home aesthetic.",
+    "title": "Cozy Indoor Peach Slicing Portrait",
+    "description": "This prompt generates a realistic candid vertical lifestyle photo of a person cutting peaches at home, useful for food, cozy-home, or authentic social media imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280834192_wl9cxx_HG2WnuAXQAAAXBd.jpg",
+      "https://cms-assets.youmind.com/media/1777280834142_uzqkxi_HG2Wqj5bQAAZ5A9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16254,
+    "content": "A high-quality 3D animated scene featuring a {argument name=\"subject\" default=\"young woman\"} (based on the provided reference image, accurate face and identity, realistic skin texture) wearing the exact same outfit/costume as in the reference image, with all clothing details, colors, and textures preserved. She is sitting casually on a {argument name=\"furniture\" default=\"soft pastel couch\"} in a {argument name=\"room type\" default=\"cozy, aesthetic room\"}. Her posture is relaxed and expressive, with a playful, slightly amused facial expression. Next to her is the baby character “Goo Goo Gaga”, recreated exactly the same as in the provided reference image — identical appearance, outfit, proportions, facial expression, and style (no changes at all). Goo Goo Gaga is standing on the couch, playfully interacting with her (pulling her cheek or holding onto her arm), creating a cute and slightly chaotic moment. Environment: warm, cozy pastel-toned room filled with soft cushions, plush toys, and minimal aesthetic decor (colors: soft pink, peach, cream, mint). Lighting: soft cinematic lighting with warm glow, gentle shadows, depth of field, dreamy atmosphere. Style: high-end 3D cartoon (Pixar/Disney style), ultra-smooth rendering, subsurface scattering skin, fluffy fabric textures, highly detailed, clean composition. Mood: cute, playful, wholesome, expressive, slightly chaotic, viral social media aesthetic. Important: use the provided reference images for both characters — keep the woman’s face and outfit accurate, and keep Goo Goo Gaga exactly unchanged from its reference.“8K render, Unreal Engine, Octane render quality”",
+    "title": "3D Animated Scene with Reference Matching",
+    "description": "A detailed prompt for creating a Pixar-style 3D animated scene that maintains character identity and outfit details from a provided reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280768075_ujcsty_HG2MmSRasAAIg5N.jpg",
+      "https://cms-assets.youmind.com/media/1777280768084_s3pa8n_HG2MmTKawAAz5zz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16271,
+    "content": "Create a Japanese photography collection showing a woman at coordinates {argument name=\"coordinates\" default=\"34.66565030001616, 135.43231849672236\"}, with visuals matching the current local atmosphere and weather. Integrate the specified character into the scene to make it look as if they are sightseeing at that location.",
+    "title": "Location-Specific Japanese Photo Album",
+    "description": "A prompt for creating realistic Japanese photography at specific coordinates, integrating a character into the scene with local weather and atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280774642_9037mb_HG2LS0ibsAAVy3A.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16422,
+    "content": "A hyper-realistic vacation selfie of a young woman standing directly beneath the Eiffel Tower in Paris, shot from a dramatic low angle with a smartphone held slightly below chest level so the tower rises massively overhead and fills the entire background. She is centered in the frame from about mid-thigh up, leaning slightly toward the camera with one arm extended forward in classic selfie perspective. She has {argument name=\"hair color\" default=\"medium brown\"} shoulder-length straight hair with a soft natural side part, lightly tousled by the wind, warm light skin, and a casual summer look. She is wearing a fitted ribbed strapless tube top in {argument name=\"top color\" default=\"light pink\"}, high-waisted {argument name=\"pants color\" default=\"white\"} jeans, and a delicate thin silver chain necklace. Bright midday sunlight, cloudless deep blue sky, crisp shadows, realistic skin texture, natural travel-photo imperfections, authentic phone-camera sharpness, casual tourist snapshot aesthetic, slightly wide-angle lens distortion, relaxed confident pose, candid social-media vacation dump style. Compose the Eiffel Tower symmetrically so its iron arches frame her body and the structure stretches to the very top edge of the image. Make it look like a real spontaneous summer trip photo in {argument name=\"location\" default=\"Paris\"}, ultra-photorealistic, detailed metal latticework, vibrant but natural colors.",
+    "title": "Paris Eiffel Tower Vacation Selfie",
+    "description": "A photorealistic low-angle travel selfie prompt for generating a believable summer tourist photo beneath the Eiffel Tower.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280832762_wzegqc_HG2F7bgaUAAQ7or.jpg",
+      "https://cms-assets.youmind.com/media/1777280832702_tnljcn_HG2F8hJbwAAdHud.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16214,
+    "content": "A cinematic, ultra-realistic close-up portrait of a {argument name=\"subject\" default=\"young woman with wet, tousled dark hair\"} and luminous skin, staring directly into the camera with an intense, introspective expression. {argument name=\"overlay color\" default=\"Glowing cyan\"} handwritten text and symbols are projected across her face, neck, and shoulders, resembling {argument name=\"text style\" default=\"poetic phrases, equations, and abstract handwriting\"}. The light reflections shimmer on her damp skin, creating a futuristic, cyber-poetry aesthetic.Dark, moody background with soft shadows, shallow depth of field, sharp focus on the eyes, high contrast lighting, teal and blue color palette, hyper-detailed skin texture, photorealistic, dramatic atmosphere, cyberpunk meets fine-art portrait photography, 8K quality, cinematic lighting",
+    "title": "Cyber-Poetry Portrait Photography",
+    "description": "A cyberpunk-inspired portrait featuring projected handwritten text on the subject's face, creating an introspective and futuristic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280752523_0xlez6_HG2CX-oaUAAPanb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16302,
+    "content": "Cinematic close-up portrait of a young woman standing on a city street at night, framed from about mid-torso up in a vertical composition, body turned away while she looks back over her shoulder toward the camera with a soft but intense expression. Long {argument name=\"hair color\" default=\"dark brown\"} wavy hair with loose texture and wispy bangs, slightly wind-swept. Natural dewy makeup, minimal styling, wearing an oversized {argument name=\"jacket material and color\" default=\"black leather jacket\"}. Moody urban background with blurred neon signs, streetlights, car headlights and taillights rendered as colorful bokeh, suggesting a lively downtown street. Off-center composition with the subject occupying the left-center of the frame and the street receding into the right side. Dramatic split lighting with cool cyan-blue light on one side of her hair and jacket and warm red-magenta light on the other side, creating a teal-and-red cinematic color grade. High contrast, shallow depth of field, subtle film grain, slight glow around highlights, realistic photography, shot as if on a Sony A7S III with an 85mm lens.",
+    "title": "Neon Night Shoulder-Look Portrait",
+    "description": "A cinematic neon-lit urban portrait prompt for generating a moody night photo of a woman in a leather jacket with dramatic red-and-blue split lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280786698_3kjnph_HG2BhPSbUAAsIyJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16234,
+    "content": "a {argument name=\"cat type\" default=\"cute orange and white cat\"}, he looks like hes thinking. taking a selfie inside a {argument name=\"room lighting\" default=\"dramatically lit room dark room\"}. the cat has {argument name=\"facial features\" default=\"big eyes, a chubby face\"}, and a happy expression. the image is a wide-angle shot with sharp focus and high resolution, resulting in a high-definition photograph.",
+    "title": "Cute Cat Selfie",
+    "description": "A prompt designed to create a high-definition photograph of a cat taking a selfie in a dark, dramatically lit room with a happy expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280760338_witphb_HG1-l98bQAAD2Of.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16242,
+    "content": "portrait of a young woman with {argument name=\"hair color\" default=\"short curly black\"} hair and {argument name=\"skin tone\" default=\"fair\"} skin, wearing transparent safety goggles and a {argument name=\"clothing\" default=\"blue ribbed turtleneck sweater\"}, seated in front of a solid azure blue background, double-exposure motion blur effect to the left side of the face, subtle soft reflections on the glasses, cold ambient lighting, high sharpness on facial features with dreamlike blur trail overlaying second face, fashion editorial studio setup, icy color palette, futuristic retro mood.",
+    "title": "Double Exposure Motion Blur Portrait",
+    "description": "A stylized portrait prompt featuring a double-exposure motion blur effect, icy color palettes, and futuristic retro vibes, designed for high-fashion editorial aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280763515_rsa323_HG19f15bwAAf-hh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16216,
+    "content": "A CCTV-style surveillance footage of a {argument name=\"location\" default=\"crowded street scene\"} from a high angle, a {argument name=\"subject\" default=\"young man\"} in the center walking forward while looking up at the camera with a warm friendly smile, surrounded by blurred pedestrians in motion, {argument name=\"color tone\" default=\"black and white monochrome tone\"}, strong motion blur on people around her, sharp focus on the main subject, dramatic contrast, overhead perspective, AI facial recognition interface overlay, green bounding box around the woman labeled \"PERSON OF INTEREST\", side panel showing zoomed face portrait with data text: \"SUBJECT ID: 01\", \"STATUS: TRACKED\", \"GAZE: UP\", \"CONFIDENCE: 86%\", connecting line between face panel and subject, timestamp overlay in the corner, \"REC\" indicator, grainy texture, digital noise, compression artifacts, subtle scan lines, cinematic surveillance aesthetic, documentary style, slightly distorted perspective, urban environment, dynamic composition.",
+    "title": "Cinematic Surveillance Interface Aesthetic",
+    "description": "Generates a monochrome CCTV-style surveillance shot of a person of interest in a crowd, complete with digital UI overlays and motion blur.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280752199_2b46ow_HG135UhaEAAr3-B.jpg",
+      "https://cms-assets.youmind.com/media/1777280752194_qr0glk_HG135WYbsAAnSC0.jpg",
+      "https://cms-assets.youmind.com/media/1777280752210_d5tc4c_HG135YwaUAAqfKC.jpg",
+      "https://cms-assets.youmind.com/media/1777280753048_h90xt4_HG135jAacAAZLdJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16273,
+    "content": "Generate {argument name=\"character\" default=\"Annie Leonhart from 'Attack on Titan'\"}. Use the {argument name=\"style\" default=\"original 'Attack on Titan' anime style\"}. Annie is wearing her classic outfit from the series, facing the camera, slightly bowing her head with a shy expression, eyes looking down, not daring to look at the viewer. She is {argument name=\"action\" default=\"holding a bowl of steaming noodles with both hands and handing them to the viewer\"}. The noodles and rising steam are clearly visible in the bowl. Close-up composition, clear character, simple background.",
+    "title": "Anime Character Noodle Delivery",
+    "description": "A detailed prompt for generating an anime character in the Attack on Titan style handing a bowl of noodles to the viewer.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280775281_o2ucm6_HG1zkGdbMAEtcJ8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16227,
+    "content": "Make a wallpaper portrait size cellphone about the beauty of ({argument name=\"country\" default=\"COUNTRY\"}), in the wallpaper there is the natural beauty of the country, its landmarks, its artistic culture, and the patterns that are the identity of the country, make it neat, structured, and precise in every part, don't look like a template like wallpapers in general and don't look monotonous with 8K resolution",
+    "title": "National Identity Mobile Wallpaper",
+    "description": "Generates a structured mobile wallpaper representing the natural beauty and artistic landmarks of a specific country.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280756200_g7r5m1_HG1w369a0AA6y-9.jpg",
+      "https://cms-assets.youmind.com/media/1777280756160_84b9xr_HG1w301awAAhl1g.jpg",
+      "https://cms-assets.youmind.com/media/1777280757672_hvgr4f_HG1w323bIAATxvs.jpg",
+      "https://cms-assets.youmind.com/media/1777280756757_ap4u5v_HG1w33SbgAEMQvW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16255,
+    "content": "(9:16) Raw high-fidelity photo, eye-level, medium shot, {argument name=\"camera\" default=\"iPhone 17 Pro sim\"}, 35mm, f/4, sharp subject, natural depth, authentic grain. Framing: Subject ~60%, ~2m, centered, mirrored wall + plants, terrazzo floor. Identity Lock: Preserve ALL facial features; natural skin clarity, soft glow, refined highlights, salon hair, bio-fidelity (pores, vellus hair, hydration). Expression: {argument name=\"expression\" default=\"Confident, direct gaze\"}, neutral lips, slight head tilt (~10° left). Hair: Straight center part, slightly lifted, warm highlights. Makeup: Mauve lip, light base, defined lashes. Accessories: Gold charm necklace, black glossy nails. Outfit: {argument name=\"outfit\" default=\"Black bodysuit + burgundy sequined mini skirt\"}, tight fit, high shine, S-curve. Pose: Torso ~20° right, hips forward, leaning on pot, left hand in hair. Mood: Elegant, warm (black, burgundy, terracotta), ~3200K, moderate-high contrast. Environment: Upscale lounge, mirrored wall, terracotta pots, terrazzo floor, warm light.",
+    "title": "High-Fidelity Fashion Photography Prompt",
+    "description": "A prompt for realistic, high-fidelity fashion photography that places a subject in an upscale hotel lobby with specific camera settings and identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280768240_zwnksc_HG1qG5_XIAA83Zf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16280,
+    "content": "A photo of a {argument name=\"subject\" default=\"beautiful Japanese female influencer\"} sitting at {argument name=\"location\" default=\"a terrace seat of a stylish cafe\"}. White dress. Long curly hair. Acai bowl and iced latte on the table. Natural light makes the skin look beautiful. Green plants are blurred in the background. Not a smile, but a slightly cool expression. iPhone-like image quality. Square. Realistic photo.",
+    "title": "Japanese Influencer Instagram Style Photo",
+    "description": "A prompt designed to create a realistic, 'iPhone-quality' lifestyle photo of a Japanese influencer at a cafe for social media.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280777593_kisxu8_HG1mZs0awAA0cOE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16269,
+    "content": "{argument name=\"character one\" default=\"Pan Jinlian\"} registers on Momo and swipes right to match with {argument name=\"character two\" default=\"Ximen Qing\"}, with a heart effect popping up on the successful match screen.",
+    "title": "Historical Character Modern Match Interaction",
+    "description": "A humorous prompt depicting a match between historical Chinese characters on a modern dating app with UI effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280773614_xri6l2_HG1g-9EbUAAkyfj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16274,
+    "content": "{argument name=\"character\" default=\"Pan Jinlian\"} posting a beauty tutorial on {argument name=\"platform\" default=\"Bilibili\"} titled \"{argument name=\"topic\" default=\"How to Conceal Blemishes Using Ancient Methods\"},\" with bullet comments saying \"Sister-in-law's technique is amazing!\"",
+    "title": "Anachronistic Beauty Tutorial",
+    "description": "A creative prompt imagining a classic literary character as a modern-day beauty blogger on Bilibili.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280775792_m28f3z_HG1fDJJagAA5_hh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16275,
+    "content": "{argument name=\"character one\" default=\"Pan Jinlian\"} calls a {argument name=\"service\" default=\"Didi premier car\"}, but {argument name=\"character two\" default=\"Wu Song\"} arrives on horseback; she silently cancels the order and calls another one.",
+    "title": "Modern Ride-hail Parody",
+    "description": "A humorous prompt placing ancient Chinese characters into a modern ride-hailing scenario.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280776182_i0mqgs_HG1eAfnb0AAEc9D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16402,
+    "content": "A dark, moody anime-style illustration of a slim young man lying flat on a shadowy floor, shown from above in a vertical composition. He has messy short {argument name=\"hair color\" default=\"white\"} hair and a pale body, with his face mostly obscured by shadow and cropped ambiguity, creating an eerie, poetic atmosphere. His {argument name=\"shirt color\" default=\"white\"} button-up shirt is soaked, wrinkled, and hanging fully open, exposing his chest and abdomen. Thin streams of blood run down from his neck across his torso and lower body, stylized rather than gory. Count exactly 10 sewing pins stuck through the fabric and around his body: 2 near the left shoulder and upper sleeve, 2 on the left lower side near the waist and forearm, 3 on the right chest and shoulder area, 1 on the right mid torso, and 2 near the lower right hem. Place 1 overturned wine glass in the upper left corner with red wine spilled beside it. Place 1 white butterfly resting gently on his lower abdomen. Add diagonal bands of rainbow prism light crossing the dark floor and parts of his body, with cinematic high contrast, soft painterly shading, delicate linework, and melancholic symbolic storytelling. The overall mood should be tragic, beautiful, ethereal, and unsettling, like a dramatic key visual from a psychological anime.",
+    "title": "Dark Anime Boy with Pins and Prism Light",
+    "description": "This prompt generates a dramatic single-panel anime illustration of a wounded young man on the floor with symbolic props and rainbow light, suitable for melancholic poster art or character key visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280825825_10wtto_HG1eO55awAA5fJQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16286,
+    "content": "{argument name=\"streamer\" default=\"Pan Jinlian\"} is live-streaming to sell steamed buns, the bullet chat is flooding with 'Sister-in-law is so beautiful' and 'Ximen Qing sent a rocket gift', while {argument name=\"assistant\" default=\"Wu Dalang\"} is packing deliveries in the background.",
+    "title": "Classical Characters Modern Live-Streaming Prompt",
+    "description": "A prompt imagining historical characters in a modern e-commerce live-streaming setting, featuring real-time interaction and background activities.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280779595_cd341b_HG1dICkagAAwS74.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16283,
+    "content": "Please generate a high-definition 3:4 ratio Chinese palmistry analysis chart based on the first palm photo I uploaded, combined with the layout style of the second reference image. Core Requirements: Please use the real palm in the first image as the main object of analysis, trying to preserve the original palm's shape, finger proportions, palm type, skin tone, palm line directions, and realistic texture. The second image is for visual style reference only: Refer to its Chinese metaphysics infographic style, cream-white background, brownish-red font, traditional calligraphy titles, red circular numbering, dotted guide lines, palm line markings, right-side text analysis column, and bottom comprehensive conclusion box. Do not copy the palm from the second image, do not copy watermarks, and do not include platform logos. Visual Style: Overall, create a high-end Chinese metaphysics style 'Palmistry Analysis Chart'. Image Ratio: 3:4. Quality: High-definition, clear details, suitable for posting on Xiaohongshu. Background: Cream-white rice paper texture, faint vintage texture. Main Colors: Dark brown, reddish-brown, light gold, cream-white. Font Style: Titles use Chinese calligraphy style, body text uses clear and readable Chinese Songti/Kaiti style. Overall Feeling: Professional, classical, clean, and high-end, like a palmistry analysis card issued by a traditional fortune-telling master. Title Design: Write the main title at the top: 'Palmistry Analysis Chart'. Write the subtitle: 'Traditional Palmistry · Yi Principles Reference · Trend Analysis'. Add a small red seal next to the title with the text: 'Heavenly Mystery'. Write small text at the bottom: 'For traditional culture and entertainment reference only'. Palm Annotation Requirements: Please use thin reddish-brown lines, dotted lines, dots, and numbers on the palm to mark the following 12 key points. Each number must clearly correspond to the analysis content on the right. 12 points to be marked: 1. Life Line, 2. Wisdom Line, 3. Heart Line, 4. Fate Line, 5. Sun Line, 6. Health Line / Mercury Line, 7. Marriage Line, 8. Mount of Venus, 9. Mount of Jupiter, 10. Mount of the Moon, 11. Thumb Spread / Willpower, 12. Finger Morphology and Palm Type. Annotation Requirements: Lines must fit the general direction of the actual palm lines in the first image, do not draw randomly. Numbers and text must not obstruct the main body of the palm. Dotted guide lines must be clear like a professional diagram. There should be reasonable annotations on the left side, right side, and inside the palm. The overall layout should be like the second image, with the palm analysis diagram on the left and text explanations on the right. Right-side Analysis Text Requirements: Please generate 12 Chinese analyses on the right, each corresponding to a number. The text style should be like an analysis combining traditional palmistry, I Ching, and TCM constitution; the language should be professional, have a sense of warning, and a sense of metaphysics, but not too exaggerated. Each item should be controlled within 2-4 lines with clear and readable text. Please use the following analysis content: 1. Life Line: The arc is large and overall continuous, suggesting the basic physical energy is not bad and recovery under pressure is strong; if the middle and later sections appear fragmented, it suggests periodic fatigue and lifestyle imbalance, so be careful of vitality exhaustion. 2. Wisdom Line: The line is long and slants slightly downward, indicating delicate thinking and strong perception, with observation and imagination in doing things; but it is also easy to overthink, leading to repeated internal conflict under emotional stress. 3. Heart Line: The length is fair; if there is a slight split at the end, it represents being serious and slow-to-warm in relationships, valuing both investment and spiritual compatibility; sensitive at heart, prone to disappointment due to high expectations. 4. Fate Line: The vertical line in the palm is faint, indicating the path in early years was not found in one step, relying more on self-exploration and accumulation; it becomes more stable later, belonging to a pattern of trial and error before finalizing. 5. Sun Line: The sun line is thin, reputation and sense of achievement are late-blooming, not an overnight explosion, but gradually seen through works, reputation, and professional ability. 6. Health Line / Mercury Line: This line is relatively hidden; according to traditional TCM concepts, it mostly suggests that spleen, stomach, sleep, and emotional management should be prioritized; once stressed or staying up late, fatigue and a sense of qi and blood deficiency easily appear. 7. Marriage Line: If there is more than one fine line on the side edge, it represents choices and considerations in emotional experiences, not settling down easily; true stability often comes from value compatibility after maturity. 8. Mount of Venus: The base of the thumb is relatively full, indicating a person who values affection and family, with strong vitality and affinity; it also shows that security and realistic warmth are viewed as quite important. 9. Mount of Jupiter: There is a certain rise below the index finger, representing ambition, self-requirement, and a sense of responsibility that is not low; suitable for organizational, driving, and coordinating roles in a team. 10. Mount of the Moon: The texture below the palm edge is soft, indicating that intuition, empathy, and aesthetic sense are not weak; rich imagination, suitable for content, aesthetics, and communication-related matters. 11. Thumb Spread / Willpower: The angle of the thumb opening is natural, representing a clear sense of independence and executive will; not a follower, once the direction is clearly thought out, often able to continue moving forward. 12. Finger Morphology and Palm Type: The overall palm shape is long and the fingers are slender, belonging to a type that is rational with feelings, valuing both experience and logic; does not like to be too rough in doing things, and financial fortune is more suitable for steady progress. Bottom Comprehensive Conclusion: Please design a classical framed information box at the bottom, with the title: 'Comprehensive Conclusion'. Content: • The overall pattern is upper-middle, with much exploration and change in the early years, gradually becoming clear and moving towards stable accumulation in the middle and later periods. • The character is rational and pragmatic with empathy, suitable for establishing value through professionalism, aesthetics, communication, or long-termism. • Relationships value sincerity and spiritual compatibility, slow-to-warm but committed, easier to gain stable relationships after maturity. • The most important recent focus is adjusting routine, emotions, and spleen/stomach; keep your state, and your fortune will be smoother. Layout Requirements: Left side: Enlarge the main body of the palm, occupying 55%-60% of the screen. Right side: Place 12 numbered analyses, occupying 35%-40% of the screen. Bottom: Place the comprehensive conclusion box. Text must be clear, with no garbled characters, no typos, and no distortion. All numbers, lines, titles, and body text must have a unified Chinese aesthetic. The overall image should look like a professional metaphysical analysis chart, not like a standard phone screenshot. Do not include English. Do not include watermarks. Do not change the basic shape of the original palm. Finally, output a high-definition 3:4 Chinese palmistry analysis poster.",
+    "title": "Professional Chinese Palmistry Analysis Chart",
+    "description": "A comprehensive prompt for creating high-definition Chinese palmistry analysis charts. It replicates traditional aesthetic styles with rice paper textures, calligraphy, and detailed line annotations for palm lines like life and wisdom lines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280778637_oozhtw_HG1blSabkAATy2_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16284,
+    "content": "{argument name=\"character\" default=\"Pan Jinlian\"} posts a selfie on her WeChat Moments, {argument name=\"commenter\" default=\"Wu Song\"} comments 'Sister-in-law, have some self-respect', and {argument name=\"liker\" default=\"Ximen Qing\"} gives 99+ likes",
+    "title": "Modern Social Media Scene for Literary Characters",
+    "description": "A humorous prompt depicting characters from the classic novel Water Margin interacting in a modern social media setting, complete with comments and likes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280779293_ctz6ix_HG1ZvhMb0AEo18-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16440,
+    "content": "A whimsical clean cartoon illustration of 7 transparent ice cubes floating underwater against a vivid saturated blue background, each cube containing a cute pink brain character with oversized googly eyes and a small smiling mouth, as if the brains are frozen inside the cubes. Show the cubes drifting at different angles and depths in a loose vertical composition, with soft white highlights, glossy refraction, rounded cube edges, and a hand-drawn outlined look. Include many air bubbles of different sizes scattered throughout the scene, plus tiny white specks and soft splash-like dots to enhance the underwater feel. The brains should all have the same playful simplified design, bright pink color, black outlines, and expressive slightly goofy faces. Keep the style light, polished, and humorous, like a modern sticker illustration or cheerful editorial cartoon, with no text, no border, and a square composition.",
+    "title": "Cute Brains Frozen in Ice Cubes",
+    "description": "A playful cartoon-style square illustration showing seven pink brain characters trapped inside floating ice cubes underwater, ideal for quirky conceptual art or AI-themed social graphics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280839387_rwrxob_HG1IIh7bEAA8VrC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16203,
+    "content": "Create a hyper-realistic lifestyle portrait of a {argument name=\"subject\" default=\"young woman sitting at an outdoor café\"}. She has {argument name=\"hair\" default=\"long, voluminous dark brown hair\"} styled in soft waves, glowing skin, and natural elegant makeup with a subtle pink lip. Her expression is calm, confident, and slightly smiling while looking off to the side.\nShe is wearing a black top layered with a loose blue-and-white striped shirt, accessorized with a delicate pearl necklace and small earrings.\nIn front of her is a wooden café table with a minimal breakfast setup: a {argument name=\"food\" default=\"white ceramic bowl filled with yogurt topped with strawberries and pistachios\"}, and a cup of tea in a white cup. A spoon rests on the plate beside the bowl.",
+    "title": "Lifestyle Portrait at Outdoor Café",
+    "description": "A hyper-realistic lifestyle prompt featuring a young woman at a café with a detailed breakfast setup and elegant styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280747356_kywt16_HG1HhfcaUAAETuY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16225,
+    "content": "{argument name=\"style\" default=\"Japanese negative film aesthetic\"}, close-up street silhouette portrait at {argument name=\"setting\" default=\"bus stop\"}, tight framing, head-and-shoulder composition, subject positioned very close to camera, soft but directional backlight, slight overexposure highlights, low contrast color base, muted faded tones, subtle film grain\n\na stunning beautiful {argument name=\"subject\" default=\"japanese girl\"} leaning lightly against {argument name=\"prop\" default=\"bus stop panel\"}, side profile close-up, face and outline clearly defined but mostly in shadow, rim light tracing hair and facial contour, face fully visible (no obstruction), calm gaze slightly toward light or softly toward camera, natural and unposed expression\n\nbackground compressed and minimal, urban elements blurred and partially cropped, strong light source behind subject, imperfect composition (tight crop, partial cut-off), quiet waiting mood, cinematic but understated, “memory-like realism” --2:3",
+    "title": "Cinematic Urban Silhouette Portrait",
+    "description": "A stylized urban portrait prompt using Japanese film aesthetics to create a backlit silhouette of a person at a bus stop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280757175_e7z7rk_HG1D5e_a8AAl1QR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16438,
+    "content": "A refined anime-style luxury department store perfume counter scene, vertical composition, showing exactly 2 adult women from the waist up to mid-thigh in a softly lit upscale cosmetics boutique with glossy black-and-gold displays. On the left is a stylish Japanese office lady, around her late 20s to early 30s, with {argument name=\"hair color\" default=\"warm chestnut brown\"} medium-length softly wavy hair and side-swept bangs, wearing small gold earrings, a delicate necklace, a light beige blazer over a white blouse, and a deep wine-red pleated midi skirt, holding a taupe handbag at her side. On the right is a poised female beauty advisor with dark brown hair in a neat low bun, wearing small gold earrings, a tailored black suit jacket with a gold nameplate, and a professional elegant posture. The beauty advisor is demonstrating fragrance by holding a clear rectangular perfume bottle with a gold cap in one hand and gently applying or presenting scent to the customer’s wrist with the other hand; the customer extends one arm forward and looks attentively at the interaction. The setting includes exactly 2 visible black signboards with gold frames reading “LES PARFUMS DE LUXE,” one large sign on the back display and one smaller tabletop sign in the foreground. Behind them are illuminated shelving units with multiple luxury perfume bottles arranged in neat rows, with glass, gold trim, and warm beige interiors. In the foreground, include exactly 2 prominent perfume bottles on the right-side counter and a small bouquet of white flowers on the left edge. Use a polished high-end fashion illustration look, soft realistic anime rendering, elegant adult women, premium cosmetics-ad atmosphere, warm ambient lighting, subtle reflections on glass and marble, shallow depth of field, clean composition, and sophisticated feminine mood.",
+    "title": "Luxury Perfume Counter Office Lady Scene",
+    "description": "This prompt generates an elegant anime-style illustration of an office lady testing perfume with a beauty advisor in a high-end boutique, ideal for fashion, cosmetics, or adult feminine lifestyle visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280838600_7e2o47_HG1DqVua4AAVz07.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16437,
+    "content": "A refined anime-style close-up portrait of a stylish Japanese office lady in an elegant jewelry store, framed from the chest up. She has {argument name=\"hair color\" default=\"soft chestnut brown\"} medium-length layered hair with a smooth side part, glossy highlights, and slightly tousled ends brushing her shoulders. Her face is mostly turned and partially obscured by her hair and hand, creating a coy, sophisticated composition that emphasizes her ear and accessories rather than direct eye contact. She gently touches 1 dangling earring with two fingers, as if trying it on or admiring it; the earring has 3 visible parts: a small round gemstone stud, a tiny connecting ornament, and a large transparent teardrop crystal pendant. She wears 1 delicate gold necklace with a small spherical pendant, 1 light beige blazer, and 1 soft white scoop-neck inner top. Her hand is slender with neatly manicured natural pink nails. The background is an upscale boutique jewelry display with warm golden bokeh lighting, softly blurred glass cases, and 2 visible necklace bust stands in the background. Use a polished modern anime illustration style with clean linework, subtle realism in the hair and hands, luminous skin, luxurious reflections on the jewelry, and a calm mature atmosphere. Vertical composition, intimate crop, premium fashion editorial feel, warm indoor lighting, soft depth of field, high detail.",
+    "title": "Elegant Office Lady in Jewelry Store",
+    "description": "This prompt generates a polished anime-style close-up of a fashionable adult woman trying on jewelry in a luxurious boutique, ideal for chic portrait and fashion illustration use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280838377_de53bc_HG1DqV0bUAAdkM9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16436,
+    "content": "A refined anime-style illustration of a stylish Japanese office lady in her late 20s to early 30s trying on lipstick in front of a luxury cosmetics mirror inside an elegant department store beauty counter. Medium shot framed through the mirror, with her reflected figure centered and the back of her head and hand softly visible in the left foreground holding a lipstick tube. She has {argument name=\"hair color\" default=\"warm chestnut brown\"} shoulder-length softly wavy hair with a side part, small gold earrings, and a delicate gold necklace. Her outfit is polished and feminine: a light beige tailored blazer with gold buttons, a white satin-like blouse, and a deep burgundy high-waisted skirt. She carries a small taupe handbag on one arm. In the reflection, she is applying lipstick to her lips with one hand while holding the lipstick case in the other, giving the impression of checking her makeup before or after work. The setting is upscale and softly lit, with a large ornate gold-framed mirror, blurred cosmetic displays in the background, and a glamorous premium beauty-counter atmosphere. At the bottom of the mirror is a black and gold display stand labeled {argument name=\"brand text\" default=\"LUXE BEAUTÉ\"}. On the counter, show exactly 8 visible cosmetic items in a neat arrangement: 4 gold lipstick tubes standing on the left, 3 open lipsticks in shades of mauve, pink, and coral near the center-right, and 1 rectangular perfume or cosmetic bottle on the far right. Also include a glass vase with pale blush roses at the lower right. Use soft bokeh lighting, glossy luxury materials, delicate linework, smooth anime rendering, elegant mature OL fashion, warm neutral tones with burgundy accents, and a sophisticated feminine mood.",
+    "title": "Elegant Office Lady at Beauty Counter",
+    "description": "This prompt generates a polished anime-style portrait of a fashionable office lady applying lipstick at a luxury cosmetics counter, ideal for beauty, lifestyle, or mature character illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280838017_lm9jhz_HG1DqWZacAEygZH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16213,
+    "content": "Make an Ultra-wide fisheye lens perspective shot from ground level looking straight up at a {argument name=\"subject\" default=\"young women\"} crouching mid-air between brick buildings forming a circular frame around the sky. She reaches one hand dramatically toward the camera, fingers spread wide, creating strong foreground distortion and depth. Dynamic action pose, confident expression, {argument name=\"outfit\" default=\"casual streetwear outfit: fitted white t-shirt, blue straight-leg jeans, red and white sneakers\"}. {argument name=\"location\" default=\"Urban European neighborhood\"} setting with brick houses, tiled roofs, windows visible around the edges. Bright daylight, clear blue sky, natural lighting, sharp focus, high detail, cinematic composition, exaggerated perspective, 8k resolution, photorealistic, adventure photography style.",
+    "title": "Urban Action Fisheye Perspective",
+    "description": "A dynamic ultra-wide fisheye shot capturing a young woman in action between brick buildings, creating a sense of height and urban adventure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280750849_cs1ymz_HG1DexFbUAAkSB5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16212,
+    "content": "A {argument name=\"person\" default=\"stylish man\"} standing in a {argument name=\"setting\" default=\"beautifully maintained garden filled with colorful flowers and trimmed hedges\"}. He is wearing a {argument name=\"clothing\" default=\"light pink blazer over a soft yellow shirt, beige trousers, a wristwatch, and sunglasses resting on his head\"}. He is focused on using a retro handheld mobile device with an antenna, tapping on it with curiosity. Bright natural daylight, soft shadows, and vibrant colors enhance the scene. The background features lush greenery, blooming flowers, and a peaceful outdoor setting. Shot in lifestyle photography style, natural candid moment, shallow depth of field, 50mm lens, ultra-realistic, high detail, 8K resolution, warm and fresh color grading.",
+    "title": "Lifestyle Garden Photography with Retro Tech",
+    "description": "A lifestyle-focused prompt generating a stylish person in a lush garden interacting with a retro mobile device, characterized by vibrant colors and a shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280750939_aigqhx_HG1BXyWacAAusxO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16360,
+    "content": "A dreamy fantasy wedding collage in a soft pastel, high-detail anime game-art style, featuring two chibi lalafell-like newlyweds in an ornate chapel filled with warm bokeh lights, pale blue and blush tones, flowers, and floating pink petals. The central focus is a close-up side view of the bride and groom leaning in for a kiss, with the bride on the left and the groom on the right. The bride is a tiny elf-eared fantasy character with short dark brown hair, round cheeks with faint blush marks, and a large white floral headpiece made of 2 white roses, small white blossoms, and green leaves, plus a long white veil flowing behind her. She wears an elegant long-sleeved white lace wedding dress with delicate embroidery and a jeweled neckline. The groom is a tiny elf-eared fantasy character with short spiky brown hair, white lily flowers tucked into his hair, and red tassel earrings; he wears a white formal wedding suit with subtle layered tailoring and a white boutonniere with green leaves. Surrounding the main kiss scene are 3 tilted framed inset photos with cream-colored borders: 1 top-left portrait of the groom reaching his hand toward the viewer, 1 top-right portrait of the bride showing her hand forward with a ring visible, and 1 bottom inset two-shot of the couple seated together outdoors in soft sunlight. Add ornate swirling golden decorative lines and glowing sparkles weaving across the composition, with a bouquet cluster of pale cream and blush roses in the lower right foreground. The background is an opulent chapel interior with chandeliers, candles, soft floral arrangements, and luminous pastel haze. Make it romantic, ethereal, polished, and sentimental, with a luxurious wedding album feel and a vertical smartphone-friendly composition.",
+    "title": "Fantasy Chibi Wedding Collage",
+    "description": "This prompt generates a soft, ornate vertical wedding collage of two chibi fantasy newlyweds, ideal for romantic game-inspired commemorative portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280809733_4ptarv_HG0_ZlraMAAe_bY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16348,
+    "content": "A gritty manga-style full-body street portrait of a tall young woman with {argument name=\"hair color\" default=\"soft pink\"} hair in a long side braid, walking straight toward the viewer down a narrow rainy Japanese alley at night. Her expression is obscured by a soft mosaic-like blur over the face, creating an anonymous censored look. She wears a long black trench coat over a white dress shirt, black necktie, and high-waisted black trousers, with one hand in her coat pocket and the other holding a lit cigarette low by her side. Thin streams of cigarette smoke curl outward, mixing with the rain. The alley is dense with glowing vertical shop signs and warm lantern light reflected on wet pavement, with overhead wires and dark building facades framing the scene. Include 3 visible background pedestrians with umbrellas: 1 blue umbrella figure on the left midground, 1 reddish-brown umbrella figure in the center-right background, and 1 green umbrella figure on the right midground. Add 1 vertical white sign on the far left with black Japanese text, 1 large stylized black sound-effect text near the upper left, and 1 white speech bubble on the right containing only an ellipsis. Use dramatic noir lighting, heavy black inks, halftone screentone shading, detailed crosshatching, slight paper texture, and the composition of a serialized seinen manga panel, centered and symmetrical, moody, cinematic, and rain-soaked.",
+    "title": "Rainy Manga Alley Woman Portrait",
+    "description": "This prompt generates a cinematic black-and-white-plus-muted-color manga panel of a trench-coated woman walking through a rainy neon-lit Japanese alley, ideal for editorial anime art and dramatic comic-style character visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280805000_x2ip42_HGzzktuaAAAgsJU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16347,
+    "content": "A moody cinematic anime noir illustration of a lone young woman walking straight toward the viewer on a rainy Tokyo street at night, centered in frame, full body visible. She has shoulder-length muted pink hair with straight bangs and slightly tucked sides, and her face is intentionally obscured by a soft rectangular blur. She is smoking 1 cigarette held near her mouth with her right hand, with a pale ribbon of smoke curling upward beside her head. She wears a long gray trench coat blowing open to the left, a white button-up dress shirt, a black necktie, and slim dark trousers, creating a sharp urban detective or office-worker silhouette. The street is wet and highly reflective, with heavy rain streaks falling through the whole scene, glossy pavement reflections, dark buildings on both sides, metal railings along the right side, and a gritty monochrome palette with only subtle color accents in the hair and clothing. Include 3 clearly visible street signs in the background: a tall vertical illuminated sign on the left reading \"時事通信\", a circular speed-limit sign showing \"30\", and a tall weathered post on the right reading \"中央区 京橋 2丁目 / Chuo-ku Kyobashi 2-chome / 17\". The atmosphere should feel bleak, mature, introspective, and stylish, like a manga panel fused with realistic urban photography, with detailed ink-like linework, textured shading, subdued contrast, and dramatic rain-soaked noir lighting.",
+    "title": "Rainy Tokyo Noir Woman",
+    "description": "This prompt generates a single-panel anime noir street portrait of a smoking woman in a trench coat walking through a rain-soaked Tokyo night, ideal for cinematic character art and moody cover-style illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280804608_xcd55d_HGzzktiboAAJR_B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16403,
+    "content": "A bold Japanese anti-harassment awareness poster in a cute but forceful chibi anime style, square social-media graphic composition. In the center, a super-deformed kendo character in full navy blue bogu armor is mid-swing with a shinai, charging forward dynamically. The helmet has a dark indigo men with white grill bars and a red inner rim, the torso armor is deep blue with a red do, and the waist apron has the white hiragana text \"けんどう\" plus a small pink cherry blossom emblem. The character is striking hostile purple spiky monster balls that represent bad behavior. Show exactly 4 monsters with expressive faces and large Japanese labels on their bodies: top right monster labeled \"誹謗中傷\", lower right monster labeled \"嫌がらせ\", lower left monster labeled \"差別\", and left monster labeled \"悪口\". Each monster is being knocked away or smashed with explosive yellow-orange impact bursts, scattered black debris, motion lines, dust, and sweat tears on some of the monsters. Add a comic speech bubble on the left side containing the Japanese text \"みんなが気持ちよく楽しめる場所を守るよ！\". At the top, place a huge energetic headline in Japanese with thick outlined lettering: dark navy text for \"誹謗中傷は\" and bright red text for \"絶対に許さない！\". At the bottom, add 2 lines of Japanese text: first line in bold dark blue \"ルールを守って、みんなで最高のコミュニティにしよう！\" and second line in bold red \"違反行為は厳正に対処します。\". Place one yellow warning triangle icon on the bottom left and one on the bottom right, exactly 2 total. Use a pale pink radial burst background with manga-style speed lines and light texture. Make the overall look clean, high-contrast, friendly, and motivational, like a polished community guidelines illustration for a {argument name=\"platform type\" default=\"kendo\"} community on social media, with thick white sticker-like outlines around major text and characters.",
+    "title": "Chibi Kendo Anti-Harassment Poster",
+    "description": "A bold square Japanese community-guidelines poster showing a chibi kendo fighter defeating four labeled harassment monsters, ideal for social media safety messaging.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280825794_30w2oe_HG0qMm_bwAA-ZwW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16341,
+    "content": "Using REFERENCE_0, turn the photo into a soft feminine Japanese fashion-check infographic poster while keeping the same person, outfit, indoor window setting, and blurred face censorship. Create a scrapbook/editorial layout on a warm cream background with blush-pink and beige accents. Place the main full-body photo on the left as a slightly tilted printed snapshot with handwritten callouts. Add 4 circular close-up detail crops on the right showing: 1) neckline/chest area, 2) knit shoulder and sleeve texture, 3) waist and jeans area, 4) cardigan hem and pocket area. Add a small extra inset portrait near the bottom center using the same outfit and person in a casual leaning pose. Include Japanese magazine-style typography and decorative doodles throughout. The visible text should include these sections and labels: top headline 「このコーデの Fashion Point ♡」, ribbon subtitle 「ナチュラルに色っぽく見せる大人カジュアル」, right header 「POINT」, point labels 「Point 01」「Point 02」「Point 03」「Point 04」, left photo notes 「柔らかニットで女性らしい優しい印象に♡」「ナチュラルなのに視線を集める抜け感コーデ✨」, a tips box titled 「COORDINATION TIPS」 with 4 bullet lines, a box titled 「Instagrammable」 with 4 checklist lines, and a bottom tagline 「ナチュラルな色気と抜け感で、あなたらしい魅力を引き出して。」. For the point descriptions, write short Japanese copy praising the deep V-neck, soft knit, subtle midriff reveal, and basic color styling. Add small stars, hearts, sparkles, flowers, stitched lines, and a tiny camera icon. Make it look like a polished social-media fashion advice sheet, portrait orientation.",
+    "title": "Japanese Fashion Point Poster Edit",
+    "description": "This prompt transforms a reference portrait into a Japanese magazine-style fashion commentary poster for social posts, outfit breakdowns, and styling showcases.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280802526_sg6xsc_HG0mGr8bcAEbClt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16355,
+    "content": "A realistic editorial street-style fashion photo of a tall slim man standing on a city street in front of an ornate historic European stone building with arched windows and carved masonry details. He is centered in a vertical full-body-to-mid-thigh composition, standing with his arms crossed and a calm confident posture, looking slightly to the side. His face is intentionally obscured with a soft rectangular blur. He has thick wavy dark hair, medium length and slightly tousled. He wears a dark navy ribbed zip-up knit cardigan over a black turtleneck, loose high-waisted off-white trousers, and a silver wristwatch on his left wrist. Behind him on the right is a black Mercedes G-Class SUV parked curbside, clearly visible from the side and rear, and on the left is 1 silver compact hatchback parked farther back. The street is asphalt, the light is soft overcast daylight, and the color palette is muted, elegant, and slightly desaturated. Use shallow depth of field with the subject in focus and the background architecture and cars gently blurred. Luxury menswear editorial, candid yet polished, natural proportions, photorealistic, high detail, subtle cinematic mood.",
+    "title": "Luxury Street Style Portrait",
+    "description": "This prompt generates a photorealistic men's fashion editorial portrait on a European city street, ideal for style campaigns, blog headers, or social media posts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280807422_yu6w6x_HG0PqKSbMAAf6OK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16354,
+    "content": "A photorealistic full-body street portrait of a stylish young man standing on an urban sidewalk in front of a grand historic stone building with tall columns, arched windows, and classical architectural detailing. He is centered in the frame, standing with arms crossed, body angled slightly to the side, looking away from the camera. His face is intentionally obscured with a soft rectangular blur. He has neatly groomed dark brown hair, thick and swept back with volume. He wears a fitted {argument name=\"jacket color\" default=\"navy blue\"} zip-up knit jacket over a matching dark turtleneck, a silver wristwatch with a light dial, and crisp {argument name=\"pants color\" default=\"white\"} trousers. Parked along the curb behind him are exactly 2 vehicles: a silver hatchback on the left and a black off-road SUV with a rear-mounted spare tire on the right. The composition is vertical, fashion-editorial, and slightly shallow depth of field, with the man sharply in focus and the cars and architecture softly blurred. Lighting is soft natural daylight under an overcast sky, with muted tones, realistic skin and fabric texture, subtle luxury menswear styling, clean city atmosphere, and high-end lifestyle photography aesthetics.",
+    "title": "Luxury Menswear Street Portrait",
+    "description": "This prompt generates a realistic editorial-style portrait of a fashionable man posed on a city street, useful for lifestyle branding, menswear ads, and social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280807355_dbhsws_HG0Po3yaAAADmDW.jpg"
     ],
     "needReferenceImages": true
   },
@@ -16,6 +446,187 @@
     "description": "This prompt generates a dreamy cinematic illustration of a young artist meeting a glowing imagined muse, ideal for visualizing emotional relationships, inspiration, and creator-character bonds.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1777193356378_zu1w1j_HG0O0vFa8AAsi6Z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16340,
+    "content": "{\"type\":\"pastel kawaii interior poster collage\",\"style\":\"soft dreamy Japanese social media interior feature, airy glow, pale lavender and pink pastel palette, feminine cute aesthetic, slightly hazy lighting, handwritten doodles and scrapbook-like layout\",\"scene\":{\"setting\":\"a cozy pastel bedroom filled with jellyfish-themed decor\",\"room\":{\"walls\":\"off-white with soft daylight\",\"bed\":{\"position\":\"center-left background\",\"bedding\":\"lavender gradient duvet and pillows with plush pastel styling\",\"accent\":\"a small round pastel plush placed on the bed\"},\"window\":{\"position\":\"right background\",\"treatment\":\"sheer white curtains with diffused daylight\"},\"floor\":{\"texture\":\"soft fluffy light-colored rug\"},\"furniture\":[\"a clear side table with jellyfish-like draped base beside the bed\",\"a small white vanity dresser with rounded mirror at lower left\",\"soft storage basket on the floor at lower left-center\"]},\"foreground\":{\"person\":{\"position\":\"lower right foreground\",\"visible\":\"upper body portrait\",\"identity\":\"{argument name=\\\"character name\\\" default=\\\"くらげちゃん\\\"}\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"platinum blonde\\\"} straight bob, chin length with soft inward curl\",\"outfit\":\"fluffy pastel lavender zip hoodie over a white inner top\",\"pose\":\"one hand touching the chin, relaxed cute pose\",\"face\":\"intentionally obscured with a flat skin-tone rectangle\"}}},\"layout\":{\"title_block\":{\"position\":\"upper left\",\"main_title\":\"お部屋アイテム\",\"subtitle_ribbon\":\"ROOM ITEM COLLECTION\",\"header_text\":\"{argument name=\\\"header text\\\" default=\\\"くらげちゃんの ゆめかわパステルで統一♡\\\"}\",\"body_text_lines\":2},\"feature_cards\":{\"count\":7,\"items\":[{\"number\":\"01.\",\"title\":\"くらげゆらゆら ペンダントライト\",\"position\":\"upper right\",\"description\":\"jellyfish-inspired hanging pendant lamp glowing softly\"},{\"number\":\"02.\",\"title\":\"くらげ夢見る グラデーションベッド\",\"position\":\"left mid\",\"description\":\"gradient pastel bed with ribbon and jellyfish motif\"},{\"number\":\"03.\",\"title\":\"くらげのゆらゆら サイドテーブル\",\"position\":\"center-right mid\",\"description\":\"transparent side table with jellyfish-like dangling legs\"},{\"number\":\"04.\",\"title\":\"くらげミラー ドレッサー\",\"position\":\"left lower-mid\",\"description\":\"vanity with jellyfish silhouette mirror\"},{\"number\":\"05.\",\"title\":\"くらげルーム フレグランスキャンドル\",\"position\":\"center lower-mid\",\"description\":\"small lit candle in a glass holder on a coaster\"},{\"number\":\"06.\",\"title\":\"くらげふわもこ 収納バスケット\",\"position\":\"lower left\",\"description\":\"soft basket with plush items and decorative jellyfish face\"},{\"number\":\"07.\",\"title\":\"くらげもちもち クッション\",\"position\":\"lower center\",\"description\":\"round plush pastel cushion on the rug\"}]},\"note_box\":{\"position\":\"lower left\",\"title\":\"くらげちゃんの お気に入りポイント♡\",\"checklist_count\":3},\"speech_bubbles\":{\"count\":2,\"texts\":[\"くらげちゃんの ゆめかわパステルで統一♡\",\"くらげちゃんの “好き”がつまった お部屋だよ〜♡\"]},\"bottom_caption\":{\"position\":\"bottom center\",\"text\":\"{argument name=\\\"bottom caption\\\" default=\\\"くらげと一緒に、ふわふわな毎日を♡\\\"}\"},\"doodles\":{\"count\":10,\"style\":\"purple pen doodles of hearts, sparkles, jellyfish sketches, arrows, and small decorative marks around the page\"},\"watermark\":{\"position\":\"bottom right\",\"text\":\"©Ayuneo\"}},\"text_style\":{\"language\":\"Japanese\",\"font_mix\":\"rounded bold headline, neat handwritten-style annotations, soft sans-serif ribbon text\",\"headline_color\":\"deep lavender\",\"accent_color\":\"pastel pink\"},\"rendering\":\"high-resolution poster-like Instagram graphic, cute lifestyle catalog composition, polished but handmade feel, soft bloom, pastel color grading\"}",
+    "title": "Pastel Jellyfish Room Item Poster",
+    "description": "A dreamy Japanese kawaii interior poster showcasing a lavender jellyfish-themed bedroom and seven featured room items, ideal for social media aesthetic posts or character lifestyle visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280801714_qaeak8_HG0MjmSakAA761M.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16156,
+    "content": "{\"type\":\"pastel kawaii interior goods poster\",\"style\":\"Japanese social media graphic, soft dreamy lavender aesthetic, airy white background, cute handwritten annotations, sparkles and tiny jellyfish doodles, feminine cozy room theme\",\"subject\":{\"theme\":\"jellyfish-inspired bedroom decor and lifestyle goods\",\"color palette\":[\"white\",\"lavender\",\"lilac\",\"pale violet\",\"soft gray\"],\"mood\":\"sweet, fluffy, dreamy, cozy\"},\"layout\":{\"format\":\"vertical poster\",\"background\":\"clean white paper-like backdrop with faint pastel doodles\",\"sections\":[{\"title\":\"くらげちゃんの お部屋アイテム\",\"position\":\"top center\",\"count\":1,\"labels\":[\"GIODS\"]},{\"title\":\"product grid\",\"position\":\"upper and middle left\",\"count\":6,\"labels\":[\"ゆらゆらくらげランプ\",\"くらげと夢見るベッドリネン\",\"くらげシェルミラー\",\"くらげグラデマグ\",\"くらげのときめき収納ボックス\",\"くらげふわもこマット\"]},{\"title\":\"くらげちゃんの お部屋作りのこだわり\",\"position\":\"bottom left\",\"count\":3,\"labels\":[\"色は白とラベンダーで統一！\",\"光り素材でふわっとした空間に\",\"お友達入りのアイテムに囲まれて自分らしいらふ空間を大切にしてるよ\"]},{\"title\":\"Pick up!\",\"position\":\"bottom center-left\",\"count\":1,\"labels\":[\"お気に入りはマグカップ！毎朝これでカフェラテを飲んでる♡\"]}],\"decorations\":{\"count\":8,\"labels\":[\"speech bubble note at top left\",\"round badge at top right\",\"horizontal lavender ribbon subtitle\",\"diagonal handwritten note on right\",\"tiny sparkles\",\"tiny music notes\",\"tiny jellyfish doodles\",\"dashed divider lines\"]}},\"text\":{\"main title\":\"くらげちゃんの お部屋アイテム\",\"subtitle\":\"ふわふわで甘くて、ちょっぴり夢みたいな私のお部屋へようこそ♡\",\"top left note\":\"くらげちゃんの お気に入りだけ集めた お部屋アイテムを紹介するよ♪\",\"top right badge\":\"くらげちゃんの Room お部屋作りのこだわりポイントも 教えちゃうよ！\",\"right note\":\"みんなも くらげちゃんRoomで いっしょに まったりしよー♡♡\"},\"products\":[{\"name\":\"ゆらゆらくらげランプ\",\"position\":\"upper left\",\"image\":\"a translucent jellyfish-shaped table lamp glowing softly on a white base, delicate tentacles inside a clear dome-like form\",\"description\":\"ethereal pastel lamp for a gentle room ambiance\"},{\"name\":\"くらげと夢見るベッドリネン\",\"position\":\"upper center\",\"image\":\"a fluffy pastel lavender bed with cloudlike comforter and pillows in a bright white bedroom\",\"description\":\"soft dreamy bedding set in lilac tones\"},{\"name\":\"くらげシェルミラー\",\"position\":\"middle left\",\"image\":\"a pearl-lavender tabletop mirror with a shell or bubble-like rounded frame and matching stand\",\"description\":\"cute vanity mirror with glossy pastel finish\"},{\"name\":\"くらげグラデマグ\",\"position\":\"middle center\",\"image\":\"a ceramic mug with pink-to-lavender gradient and a simple jellyfish illustration\",\"description\":\"sweet gradient mug for warm drinks\"},{\"name\":\"くらげのときめき収納ボックス\",\"position\":\"lower left\",\"image\":\"a pastel rectangular storage box holding cosmetics and bottles, decorated with a jellyfish emblem\",\"description\":\"organizer box for makeup and small items\"},{\"name\":\"くらげふわもこマット\",\"position\":\"lower center\",\"image\":\"a fluffy irregular cloud- or jellyfish-shaped mat in lavender and white fur texture\",\"description\":\"soft plush accent mat\"}],\"person\":{\"count\":1,\"position\":\"right side occupying lower-right quadrant\",\"appearance\":\"anime-inspired real-photo styled young woman with a short platinum blonde bob haircut wearing a fluffy lavender zip hoodie over a white camisole, relaxed pose, partially cropped from forehead to chest\",\"identity\":\"{argument name=\\\"character name\\\" default=\\\"くらげちゃん\\\"}\"},\"customization\":{\"palette\":\"{argument name=\\\"main color theme\\\" default=\\\"lavender pastel\\\"}\",\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"くらげちゃんの お部屋アイテム\\\"}\",\"theme\":\"{argument name=\\\"room theme\\\" default=\\\"jellyfish-inspired kawaii room goods\\\"}\",\"outfit\":\"{argument name=\\\"featured outfit\\\" default=\\\"fluffy lavender hoodie and white inner top\\\"}\"},\"rendering\":\"high-resolution editorial collage, soft natural lighting, gentle shadows, pastel product photography mixed with cute magazine layout, clean spacing, rounded image corners, handwritten Japanese text, highly cohesive lilac branding\"}",
+    "title": "Lavender Kawaii Room Goods Poster",
+    "description": "A pastel Japanese-style promotional poster showcasing six jellyfish-themed bedroom items and a cozy lavender-clad character, ideal for social media aesthetic boards or character room concept visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280801612_1fak2l_HG0OoLna8AESabN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 15990,
+    "content": "A dreamy anime-style illustration of a fashionable young woman floating through the famous Shibuya Scramble Crossing in Tokyo on a bright spring day, with a soft pastel palette, glowing light, and whimsical urban fantasy mood. She is centered full-body, hovering slightly above the crosswalk while standing on a giant iridescent soap bubble. She has very long flowing dark indigo-black hair with a slight violet sheen, a pink floral headband with ribbons, and a sweet elegant outfit: a dusty pink knee-length dress with puffed long sleeves, layered ruffles, ribbon lacing at the chest, sakura flower embroidery near the hem, and a tan belt at the waist. Her expression should feel gentle and dreamy, her pose graceful and balanced, with one hand raised and pointing upward. Around her are many transparent rainbow soap bubbles of different sizes, about 16 visible bubbles total, drifting through the air. One large bubble near her raised hand contains a modern smartphone with a cherry blossom wallpaper. One medium bubble at lower left contains an open slim laptop angled toward the viewer. One large teardrop-shaped bubble hanging from her other hand contains 3 shopping items: a paper shopping bag printed with “SHIBUYA 109”, a second pastel shopping bag, and a pink bunny-shaped pouch or plush accessory. One medium bubble on the lower right contains a silver compact camera. The setting is a lively, recognizable Shibuya streetscape with the cylindrical SHIBUYA 109 building in the center background and multiple Japanese commercial billboards and signs surrounding the crossing, including visible signage such as “DHC,” “H&M,” “DMM TV,” and colorful vertical Japanese signs. Include pedestrians in the distance, crosswalk stripes, city poles, and realistic urban depth, but keep the girl as the clear focal point. The atmosphere should feel airy, magical, glossy, and slightly nostalgic, combining detailed city realism with highly polished anime character art, soft bloom lighting, shimmering reflections, translucent materials, and delicate springtime romance.",
+    "title": "Pastel Anime Girl at Shibuya Crossing",
+    "description": "This prompt generates a polished anime-style fantasy city portrait of a stylish girl floating through Shibuya amid iridescent bubbles, ideal for social-media-ready AI art with a magical Tokyo vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280808481_l6d2u3_HG0M-pCaoAAA3Gx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16233,
+    "content": "A dramatic cinematic action shot of a {argument name=\"child\" default=\"12-year-old boy\"} with messy dark hair powerfully kicking a soccer ball on a {argument name=\"setting\" default=\"green grass stadium field\"} at golden hour sunset. The soccer ball is massively oversized and zoomed-in in the foreground, dominating the lower part of the frame like viral \"giant object\" photos, extremely detailed texture, black and white panels, sharp focus. The boy is captured mid-kick with his right leg extended, dirt and grass particles flying dramatically. He wears a {argument name=\"clothing\" default=\"crisp white t-shirt\"} with bold black text \"GPT IMAGE 2.0\" printed on the chest, black athletic shorts, white socks with black stripes. Dynamic low-angle perspective, vibrant saturated colors, ultra-sharp clarity, high contrast, cinematic lighting with warm golden sun rays breaking through dramatic clouds, shallow depth of field, 8k photorealistic, hyper-detailed, National Geographic style --ar 3:4 --stylize 250 --v 6",
+    "title": "Dramatic Soccer Cinematic Action Shot",
+    "description": "A high-intensity prompt for generating a photorealistic cinematic action shot of a young boy playing soccer during golden hour, featuring a giant oversized soccer ball in the foreground.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280759919_aj14u4_HGz6QPgbMAABDQH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16237,
+    "content": "A vibrant, colorful digital painting in a lively impressionistic style with bold brush strokes and saturated colors. {argument name=\"main object\" default=\"Two large crystal wine glasses filled with red sangria\"} on a {argument name=\"setting\" default=\"sunny outdoor Parisian café table\"}. The left glass is packed with {argument name=\"fruits\" default=\"orange slices, kiwi, raspberries, strawberries, and cherries\"}, overflowing with fresh mint on top. The right glass has similar fruits plus a scoop of pink and white ice cream or whipped cream, topped with raspberry and mint. A whole bright orange sits on the table next to scattered almonds on a white napkin with a spoon. Background shows a charming European street café with buildings, blue awnings, green trees, pink flowers, outdoor seating, and warm sunlight. Highly detailed, joyful summer atmosphere, glossy reflections on glass, rich textures.",
+    "title": "Impressionistic Parisian Café Painting",
+    "description": "A vibrant digital painting prompt in an impressionistic style, depicting colorful fruit-filled wine glasses on a sunlit European street café table.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280761241_vqcg6y_HGz0f2jaQAALQCJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16223,
+    "content": "{argument name=\"style\" default=\"Japanese negative film aesthetic\"}, {argument name=\"moment\" default=\"unboxing moment\"}, soft natural light, slight highlight bloom, low contrast, muted colors, subtle grain\n\nsubject sitting on {argument name=\"surface\" default=\"floor or bed\"}, opening a package, hands mid-action, relaxed posture, slight curiosity or neutral gaze toward camera\n\nwrinkled packaging, scattered items, imperfect composition, casual everyday mood, “after receiving something\" --2:3",
+    "title": "Japanese Film Aesthetic Unboxing Scene",
+    "description": "A nostalgic and natural Japanese film style prompt depicting a relaxed unboxing moment with soft lighting and muted colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280756015_kjdi71_HGzxlLyaUAATivJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16259,
+    "content": "An Oriental fantasy-style anime illustration. The main subject is a half-length portrait of a {argument name=\"character description\" default=\"young Oriental girl\"}. She wears a {argument name=\"clothing\" default=\"red modern Chinese-style halter cheongsam gown\"} with a translucent light blue-white gauze shawl. Her skin is fair and delicate, with exquisite features and clear, bright blue eyes, expressing a cool and elegant demeanor. Her long black hair flows significantly in the wind with detailed highlights. She wears a golden hollowed-out classical crown adorned with ruby and turquoise jewelry. A large, flowing landscape painting-style scroll surrounds the character in an elegant S-shaped composition. The {argument name=\"background\" default=\"background is a deep blue night courtyard\"}, with blooming white cherry blossom branches extending into the frame from above and petals falling in the wind. In the upper right, there is a warm golden backlight passing through the flowers and hair, creating a soft halo, rim lighting, and air particles. The foreground is dotted with sparkling blue flowers. The overall style is dreamy, gorgeous, and ethereal, with a high-end 2D thick-painting texture, cinematic lighting, cool and warm contrast, and exquisite details. Aspect ratio 9:16, no text, watermarks, or logos.",
+    "title": "Oriental Fantasy Illustration Prompt",
+    "description": "A detailed prompt for creating ethereal Oriental fantasy illustrations featuring a character in traditional attire surrounded by landscape elements and cherry blossoms.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280769572_a2s5d3_HGzk42ma0AAl5PM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16257,
+    "content": "Image 1 (detailed biking gear shots)\nMountain biker riding on a {argument name=\"terrain\" default=\"rocky forest trail\"}, wearing {argument name=\"colors\" default=\"red and black\"} gear with helmet and gloves, dynamic action shot with close-up detail inserts of helmet, hands, and bike components, natural forest lighting.\n\nImage 2 (cinematic forest ride):\nMountain biker jumping down a rugged forest trail during {argument name=\"time of day\" default=\"golden hour\"}, sun rays streaming through tall trees, dust particles in air, cinematic lighting, dramatic outdoor action scene.",
+    "title": "Mountain Biker Action Shots Prompt",
+    "description": "A multi-image prompt set for generating dynamic mountain biking action scenes and detailed gear shots with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280769301_zjdjst_HGzh8UmWEAAscxs.jpg",
+      "https://cms-assets.youmind.com/media/1777280769303_1qix4s_HGzh8VEbkAAUoE_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16309,
+    "content": "A premium square advertising poster for {argument name=\"product name\" default=\"AirPods Pro 3\"}, styled like a modern tech campaign. Show a young woman centered in a soft studio setting with a smooth cool gray background, wearing a neon lime knit beanie and a black-and-white wavy striped top with lime trim. Her wavy shoulder-length hair is pastel pink, and one white wireless earbud is visible in her ear. Her face is partially obscured by a large centered rectangular blur block in warm beige-tan, covering most facial features. In the extreme foreground, her hand reaches toward the camera holding an open glossy white charging case, presented close to the lens with strong perspective distortion; inside are two white premium wireless earbuds angled visibly, and a tiny green status LED glows on the front of the case. Add two additional floating earbuds in the background on the right side, softly blurred, to suggest product variation and depth. Use shallow depth of field, crisp product highlights, smooth commercial lighting, subtle reflections, and polished high-end product photography mixed with fashion editorial portraiture. Overlay large bold white sans-serif headline text across the top reading {argument name=\"headline text\" default=\"AIRPODS\"}. Place smaller white subheading text at upper right reading {argument name=\"subheading text\" default=\"Apple Pods Pro 3\"}. On the left side, add a 3-line white promotional copy block reading {argument name=\"left promo text\" default=\"Premium sound and noise cancellation\"}. On the lower right, add two large stacked numeric feature callouts in white: “30” with smaller text “hours of battery life.” and “1” with smaller text “year warranty.” Include subtle rainbow prism lens flares scattered around the image, especially near the edges and lower center, to create an iridescent futuristic feel. Composition should be clean, bold, glossy, aspirational, and unmistakably like a luxury consumer electronics social media ad.",
+    "title": "AirPods Style Tech Ad Poster",
+    "description": "This prompt generates a polished square consumer-tech advertisement featuring a fashion model, oversized product text, and a close-up wireless earbud case for marketing or social media use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280789310_ohytv8_HGzXZ1JakAAjmkX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16278,
+    "content": "A highly detailed 3D digital artwork in a surreal and dynamic style. Capturing the moment a young Japanese man with black hair in an asymmetrical undercut and a sharp, intensely focused expression steps forward, leaning slightly forward as if quiet confidence and energy are exploding from within. Precise and realistic 3D rendering, depicting skin texture, pores, and individual hairs. He wears a loose black zip-up hoodie with a subtle embossed '{argument name=\"monogram\" default=\"PK\"}' monogram on the chest, over a clean white crew-neck T-shirt. Below are tapered black pants and leather sandals on his feet. Vibrant neon green digital energy and light particles erupt dramatically from behind him, swirling and blending into glitch-like data stream shapes, interacting with his clothes and hair to represent the fusion of technology and humanity. The background is a deep, moody gradient from deep black to glowing neon green, emphasizing a minimal yet striking composition. Large, bold metallic silver text '{argument name=\"title\" default=\"Pyon Kitchen\"}' in a sharp modern sans-serif font is overlaid across the screen, distorted and tilted for design while remaining readable, partially integrated and hidden by the energy effects and the figure to feel like an organic part of the scene. In the upper left corner, place a small '{argument name=\"logo\" default=\"PK\"}' logo mark in glowing neon green.",
+    "title": "Surreal Japanese Tech Style Poster",
+    "description": "A detailed 3D digital artwork prompt featuring a stylish Japanese man with neon green digital energy effects and integrated typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280777053_dlz5uu_HGwQiSDbMAAuqpE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16338,
+    "content": "{\"type\":\"three-panel cinematic comparison image\",\"subject\":{\"count\":1,\"description\":\"a woman standing indoors beside a tall hotel or apartment window at night, shown from mid-thigh up, face turned toward the city, long dark wavy hair, wearing a glossy ivory satin robe with a tied waist and deep V neckline\",\"prop\":{\"count\":1,\"description\":\"a stemmed wine glass with red wine, held in her right hand only in the first panel\"}},\"scene\":{\"location\":\"warmly lit luxury interior with a table lamp glowing on the left and a nighttime city skyline outside the window\",\"background_elements\":{\"count\":3,\"items\":[\"large floor-to-ceiling window with dark vertical frame\",\"soft warm bedside or table lamp on the left\",\"blurred high-rise buildings with bokeh lights and one prominent tower with a lit spire\"]},\"lighting\":\"moody cinematic contrast, warm amber interior light on skin and robe, cool blue city light from outside, shallow depth of field\"},\"layout\":{\"orientation\":\"horizontal triptych with three equal vertical panels separated by white gutters\",\"sections\":[{\"title\":\"0-5s\",\"position\":\"left\",\"count\":1,\"details\":\"woman by the window holding a glass of red wine\"},{\"title\":\"5-10s\",\"position\":\"center\",\"count\":1,\"details\":\"same composition without the wine glass, woman gazing out the window\"},{\"title\":\"10-15s\",\"position\":\"right\",\"count\":1,\"details\":\"same composition again without the wine glass, subtle pose continuity\"}],\"text_style\":\"bold white sans-serif text in the top-left corner of each panel\"},\"style\":\"photorealistic, cinematic, intimate luxury lifestyle photography, soft focus background, polished skin tones, realistic satin fabric reflections\",\"camera\":{\"framing\":\"medium shot\",\"angle\":\"slightly side-on profile\",\"lens\":\"portrait lens around 50mm to 85mm\",\"composition\":\"subject placed left of center in each panel, city view visible through the glass\"},\"quality\":\"high detail, smooth natural skin, realistic glass and fabric, elegant editorial color grading\"}",
+    "title": "Three-Panel Night Window Comparison",
+    "description": "This prompt generates a cinematic triptych of a woman in a satin robe by a nighttime window, useful for visual timing comparisons or mood-based lifestyle ads.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280800789_6qd0b8_HGzK6v9b0AE-qa_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16336,
+    "content": "{\"type\":\"three-panel cinematic photo collage\",\"style\":\"photorealistic luxury lifestyle photography\",\"subject\":{\"count\":1,\"description\":\"adult woman standing indoors beside floor-to-ceiling apartment windows at night, face intentionally obscured by a soft rectangular blur in every panel\",\"age_range\":\"late 20s to early 30s\",\"build\":\"slim\",\"hair\":{\"color\":\"medium brown\",\"style\":\"shoulder-length loose wavy hair with a side part\"},\"wardrobe\":{\"count\":1,\"items\":[\"ivory satin slip nightdress with thin spaghetti straps, lace trim at the neckline and hem, silky sheen\"]},\"props\":{\"count\":1,\"items\":[\"red wine glass held in the left panel only\"]}},\"environment\":{\"location\":\"modern high-rise apartment interior\",\"time\":\"night\",\"lighting\":\"warm ambient interior lighting mixed with cool city lights from outside\",\"background_elements\":{\"count\":5,\"items\":[\"large corner windows with white frames\",\"blurred city skyline full of bokeh lights\",\"light wood floor\",\"white curtains\",\"window ledge or low sill\"]}},\"layout\":{\"composition\":\"triptych with three vertical slices separated by thin white divider lines\",\"aspect_ratio\":\"16:9 wide image\",\"sections\":[{\"title\":\"0-5s\",\"position\":\"left\",\"count\":1,\"description\":\"three-quarter side view of the woman near the corner window, holding a glass of red wine at chest height, body turned slightly toward the city\"},{\"title\":\"5-10s\",\"position\":\"center\",\"count\":1,\"description\":\"closer mid-shot, woman without the wine glass, one hand resting on the window ledge, city reflections visible in the glass behind her\"},{\"title\":\"10-15s\",\"position\":\"right\",\"count\":1,\"description\":\"side-profile full or three-quarter body view, arms relaxed, standing by the illuminated window with warm lamp glow reflected on the glass\"}],\"text_overlays\":{\"count\":3,\"items\":[\"0-5s at the top of the left panel\",\"5-10s at the top of the center panel\",\"10-15s at the top of the right panel\"]}},\"camera\":{\"lens\":\"50mm to 85mm portrait photography look\",\"depth_of_field\":\"shallow to moderate, soft city bokeh outside\",\"framing\":\"editorial fashion portrait crop across three timed panels\"},\"mood\":\"intimate, elegant, moody, late-night cinematic\",\"quality\":\"high detail, realistic skin and fabric texture, soft highlights on satin, natural reflections on glass\"}",
+    "title": "Cinematic Night Window Triptych",
+    "description": "Generates a photorealistic three-panel collage of an elegant woman by a high-rise window at night, useful for cinematic lifestyle visuals or timed scene comparisons.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280800494_uxr5gl_HGzKpxUagAAlDUy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16211,
+    "content": "{argument name=\"aesthetic\" default=\"soft dreamy editorial aesthetic\"}, diffused natural light, slight overexposure, soft highlight bloom, low contrast, pastel color tones, gentle pinkish warmth, subtle grain\n\n{argument name=\"subject\" default=\"young japanese woman lying casually on bed\"}, relaxed posture, loose soft clothing, hair slightly messy, face fully visible, soft unfocused gaze toward camera\n\nlight curtains, glowing atmosphere, soft shadows, imperfect composition, {argument name=\"mood\" default=\"dreamy and intimate mood\"} --ar 2:3",
+    "title": "Dreamy Editorial Portrait",
+    "description": "A soft, dreamy editorial portrait prompt of a young Japanese woman, using natural light and pastel tones for an intimate mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280750832_hlei2h_HGzDnJ4bQAA-9zF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16359,
+    "content": "Using the provided reference image, turn the X/Twitter profile screenshot into a cute handwritten Japanese infographic poster that summarizes the account’s personal brand and offerings. Keep the same person identity, pink feminine tone, AI/Udemy theme, cat motif, and the key achievement of 140 students, but replace the screenshot UI with an illustrated one-page flyer on a clean white background with soft pink doodle borders, hearts, sparkles, and sticky-note styling. Recreate the person as a friendly manga-style portrait in the upper left, still paired with the small chibi companions from the reference. Add a large handwritten headline with the account name and a subheadline about making difficult AI easy and helping beginners go from 0 to 1. Organize the content into 7 clearly separated sections: 1) top title area with short tag stickers, 2) a self-introduction memo card, 3) a speech-bubble profile summary, 4) “who this is for” with 4 bullet points, 5) “what problems can be solved” with 4 bullet points, 6) “core values” with 4 bullet points, 7) “achievements and strengths” with 4 bullet points. Also add 1 small notebook-style motivational quote card near the bottom center and 1 cute cat illustration with a name label at the bottom right. Include a large closing slogan across the bottom stating that AI supports people who are doing their best. Preserve the Japanese language throughout, use legible hand-drawn typography, warm pastel colors, and a polished social-media-friendly layout that feels approachable, practical, and beginner-friendly.",
+    "title": "Cute handwritten profile summary poster",
+    "description": "This prompt turns a social profile screenshot into a polished Japanese infographic flyer that summarizes the creator’s brand, audience, strengths, and achievements for social media promotion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280809218_krar99_HGyy-G-bEAA3tGe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16406,
+    "content": "Using the provided reference image, keep the exact same composition, buildings, tower, street elements, and framing, but apply a cinematic teal-and-orange color grade. Deepen the blue sky into a darker, richer tone, add more defined wispy cloud contrast, warm the sunlight on the buildings and street to a golden late-afternoon feel, increase contrast and clarity, slightly deepen shadows, and give the whole photo a polished travel-photography look while preserving realism and all signage/details.",
+    "title": "Cinematic Tokyo Street Color Grade",
+    "description": "This prompt transforms a reference city photo with dramatic teal-and-orange color grading for realistic travel and urban photography enhancement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280826983_izo0zc_HGyvIFLagAAUieG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16277,
+    "content": "Requirement: Use {argument name=\"style\" default=\"Mucha style\"}. The theme colors are gold and green. The main character is {argument name=\"character\" default=\"Deedlit, the elf warrior from Record of Lodoss War\"}, side profile, trying to reproduce the 90s Japanese anime art style as much as possible.",
+    "title": "90s Anime Style Elf Warrior",
+    "description": "A prompt designed to generate a character illustration of Deedlit from Record of Lodoss War in a 90s Japanese anime style with Mucha influences.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280776660_xxtncd_HGyrPofacAAkTuA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16324,
+    "content": "A photorealistic outdoor portrait of an elegant young East Asian woman standing in a traditional Japanese courtyard garden during cherry blossom season. She is shown from a three-quarter back view, turning slightly toward the camera, with her face mostly obscured by her angle. She wears a deep wine-red satin evening dress with thin spaghetti straps and a dramatic low open back, fitted closely through the waist and hips with soft reflective fabric highlights. Her hair is styled in a loose, romantic updo with a few wispy strands, decorated with 3 small pink blossom hair ornaments, and she wears delicate dangling earrings and a fine necklace. Surround her with blooming sakura branches heavy with pale pink flowers, with many individual petals drifting through the air. In the background, place a traditional Japanese wooden building with dark beams, shoji-style windows, and a gray tiled roof, softly blurred with shallow depth of field. Include a calm garden pond and stone edging in the lower background. Use warm spring sunlight, soft cinematic bokeh, high detail skin and fabric rendering, graceful posture, refined luxury fashion photography, natural colors, serene atmosphere, square composition.",
+    "title": "Cherry Blossom Garden Evening Portrait",
+    "description": "This prompt generates a photorealistic fashion portrait of a woman in a backless satin dress standing in a Japanese cherry blossom courtyard, ideal for elegant spring-themed editorial imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280795367_0gi0qt_HGynvZMbcAAIq57.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16323,
+    "content": "A high-fashion full-body editorial photograph of a barefoot woman standing and stepping forward on rippled desert sand, wearing a dramatic flowing {argument name=\"dress color\" default=\"deep sapphire blue\"} chiffon gown with a plunging halter neckline, wrapped waist, very high thigh slit, and an extremely long sheer train billowing powerfully to the right in the wind. Her {argument name=\"hair color\" default=\"dark brown\"} hair is long and loose, blown sideways across the frame, and she wears delicate earrings, a bracelet, and a subtle necklace. Pose her in elegant side profile with her torso lifted, one leg extended through the slit, one hand lightly holding the fabric, creating a sense of motion and grace. Set the scene in a bright open desert or dry lakebed with pale sand, soft distant mountains low on the horizon, and swirling clouds of dust around her feet and behind her. Use warm late-afternoon backlighting with a hazy sunlit sky, soft golden-beige atmosphere, strong fabric translucency, cinematic movement, luxury fashion magazine styling, ultra-realistic texture, and a clean minimal background that emphasizes the dress and wind.",
+    "title": "Windblown Blue Gown Desert Editorial",
+    "description": "This prompt generates a cinematic luxury fashion photo of a woman in a flowing blue dress in a windy desert, ideal for editorial, beauty, and couture-style imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280794940_ze2xyz_HGynt1XaMAABzK5.jpg"
     ],
     "needReferenceImages": true
   },
@@ -31,11 +642,11 @@
   },
   {
     "id": 16144,
-    "content": "A cinematic vertical photo of a hand holding up a large balloon wine glass filled with a sparkling golden-yellow citrus cocktail in a lush indoor greenhouse bar. The drink is backlit by warm late-afternoon sunlight, making it glow translucent amber. Inside the glass there is 1 visible citrus wedge, and at the rim there is 1 fresh mint garnish cluster. The hand enters from the lower left, delicately gripping the stem, wearing 1 chunky translucent amber bracelet. The setting is dense with tropical greenery, hanging ferns, and vine-covered walls, with a bright greenhouse roof structure visible overhead and 2 warm exposed hanging bulbs softly glowing in the background. Use shallow depth of field with creamy bokeh, strong sun rays filtering through leaves, soft haze, and rich green-and-gold color contrast. Add a blurred foreground leaf or plant along the right edge to frame the composition. The lower background should suggest a busy café or cocktail lounge with indistinct people, but keep them heavily out of focus. Photorealistic, elegant lifestyle photography, moody yet sun-drenched, shot from a low angle looking upward at the raised glass, high detail on condensation, glass reflections, and the luminous drink.",
+    "content": "A cinematic vertical photo of a hand holding up a large round goblet of sparkling citrus cocktail in a lush indoor greenhouse bar. The drink is pale golden-yellow with visible ice, condensation on the glass, 1 orange wedge inside, and 1 fresh mint sprig garnish on the rim. The hand enters from the lower left and lifts the glass toward the center of the frame, wearing 1 chunky translucent amber bracelet. The background is a dreamy jungle-like interior filled with dense green plants, hanging foliage, and 2 warm glowing Edison bulbs, with a bright glass سقف-style greenhouse roof overhead letting in soft late-afternoon sunlight. Strong backlighting creates a warm golden glow through the drink, rich green shadows, and a tropical summery atmosphere. Use shallow depth of field, creamy bokeh, slight foreground leaf blur along the right edge, realistic photography, natural skin texture, moody highlights, high contrast, elegant lifestyle editorial style, shot on a 50mm lens at wide aperture, photorealistic.",
     "title": "Golden Cocktail in Greenhouse Bar",
-    "description": "This prompt generates a photorealistic lifestyle image of a glowing citrus cocktail raised in a lush greenhouse setting, ideal for editorial beverage, hospitality, or social media visuals.",
+    "description": "This prompt generates a photorealistic lifestyle shot of a hand raising a glowing citrus cocktail in a lush greenhouse setting, ideal for beverage, travel, or summer editorial imagery.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777193411245_hh7hsp_HGycMOOb0AAVr4U.jpg"
+      "https://cms-assets.youmind.com/media/1777280830476_hrex77_HGycMOOb0AAVr4U.jpg"
     ],
     "needReferenceImages": true
   },
@@ -5376,6 +5987,16 @@
     "description": "Generates a photorealistic portrait of a subject sitting at a bar, ideal for lifestyle or character photography.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1776658762495_8ewb2m_HGQr7nCa8AAiaSP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 13531,
+    "content": "{\n  \"type\": \"2x2 grid of Japanese digital advertisement banners\",\n  \"layout\": {\n    \"structure\": \"4 equal quadrants\",\n    \"quadrants\": [\n      {\n        \"position\": \"top-left\",\n        \"theme\": \"Travel\",\n        \"subject\": \"A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.\",\n        \"elements\": [\"red hibiscus flower in bottom left corner\"],\n        \"text_labels\": [\n          \"今年こそ、解き放て。\",\n          \"{argument name=\\\"travel destination\\\" default=\\\"沖縄旅行\\\"}\",\n          \"3日間の癒やし旅\",\n          \"航空券＋ホテル\",\n          \"39,800円〜\",\n          \"絶景、グルメ、体験 ぜんぶ叶う!\"\n        ],\n        \"icons\": {\n          \"count\": 3,\n          \"descriptions\": [\"airplane\", \"hotel building\", \"car\"]\n        }\n      },\n      {\n        \"position\": \"top-right\",\n        \"theme\": \"Skincare\",\n        \"subject\": \"Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.\",\n        \"elements\": [\n          \"soft pink gradient background\",\n          \"dynamic water splash effects\",\n          \"pink cosmetic jar labeled '{argument name=\\\"skincare product name\\\" default=\\\"LUMIÈRE\\\"} Brightening Gel'\"\n        ],\n        \"text_labels\": [\n          \"毛穴・くすみ卒業！\",\n          \"透明感あふれる\",\n          \"水光肌へ\",\n          \"新感覚スキンケア\",\n          \"初回限定 78%OFF\",\n          \"{argument name=\\\"discount price\\\" default=\\\"1,980円\\\"}\"\n        ],\n        \"badges\": {\n          \"count\": 3,\n          \"style\": \"gold circular\",\n          \"labels\": [\"毛穴ケア\", \"高保湿\", \"ハリ・ツヤ\"]\n        }\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"theme\": \"Gourmet Food\",\n        \"subject\": \"Thick, sliced, medium-rare steak sizzling on a dark grill plate.\",\n        \"elements\": [\n          \"garlic chips\",\n          \"rosemary sprig\",\n          \"dark background with smoke and glowing embers\"\n        ],\n        \"text_labels\": [\n          \"とろける旨さ！\",\n          \"{argument name=\\\"food item\\\" default=\\\"黒毛和牛\\\"}\",\n          \"贅沢ステーキ\",\n          \"期間限定\",\n          \"特別価格\",\n          \"通常価格 8,980円\",\n          \"4,980円\"\n        ],\n        \"badges\": {\n          \"count\": 1,\n          \"style\": \"red circular\",\n          \"labels\": [\"A4 A5等級\"]\n        }\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"theme\": \"Online Education\",\n        \"subject\": \"Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.\",\n        \"elements\": [\"bright indoor lighting\", \"desk environment\"],\n        \"text_labels\": [\n          \"スキマ時間で\",\n          \"{argument name=\\\"education goal\\\" default=\\\"最短合格！\\\"}\",\n          \"オンライン資格講座\",\n          \"スマホで完結\",\n          \"効率学習で差がつく！\",\n          \"今だけ！ 受講料 20%OFF\"\n        ],\n        \"badges\": {\n          \"count\": 1,\n          \"style\": \"blue circular\",\n          \"labels\": [\"受講者数 10万人 突破！\"]\n        },\n        \"icons\": {\n          \"count\": 2,\n          \"descriptions\": [\"smartphone\", \"open book\"]\n        }\n      }\n    ]\n  }\n}",
+    "title": "4-Panel Japanese Digital Ad Banner Grid",
+    "description": "Generates a 2x2 grid of distinct Japanese digital advertisement banners for travel, skincare, food, and online education.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1776668128332_d2wtbo_HGQDh30bMAARz9E.jpg"
     ],
     "needReferenceImages": true
   },

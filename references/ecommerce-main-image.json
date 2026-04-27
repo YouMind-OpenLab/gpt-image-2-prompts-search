@@ -1,5 +1,73 @@
 [
   {
+    "id": 16306,
+    "content": "Using the provided reference image, turn this casual phone snapshot of the drink into a polished professional beverage photo while keeping the same cup, soda, straw, outdoor theme-park setting, and general composition. Reframe and clean it up so the drink is the clear hero subject, make the cup sharper and more detailed with crisp condensation and sparkling ice, and enhance the Coca-Cola red tones and overall contrast. Apply warm golden-hour commercial lighting with richer highlights and a more cinematic color grade. Increase background blur for a shallow depth-of-field look, simplify visual distractions, and make the people in the background feel more incidental and softly out of focus while preserving the tree, benches, planters, and ferris wheel context. Keep it realistic, like a high-end advertisement shot taken by a professional product photographer.",
+    "title": "Professional Drink Photo Enhancement",
+    "description": "This prompt transforms a casual reference photo of a beverage into a polished, ad-like product shot for social media, menus, or promotional use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280788253_wiqap8_HG0vLkbaIAA30oz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16247,
+    "content": "Generate a tech accessory ad for {argument name=\"accessory\" default=\"[ACCESSORY]\"}, floating product render, magnetic alignment, smooth gradients, sharp spec cards, clean sans-serif typography, Apple-level minimalism, premium digital product launch aesthetic.",
+    "title": "Minimalist Tech Accessory Advertisement",
+    "description": "A professional tech marketing prompt focused on minimalist Apple-style floating renders and clean typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280765015_4megwd_HG0qLMab0AA1zo3.jpg",
+      "https://cms-assets.youmind.com/media/1777280764976_9kc3is_HG0qLMDXkAAygE-.jpg",
+      "https://cms-assets.youmind.com/media/1777280765006_sibm81_HG0qLL_WIAEGkLA.jpg",
+      "https://cms-assets.youmind.com/media/1777280765662_fvhlok_HG0qLMZbsAAYsT-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16245,
+    "content": "Create a jewelry advertisement for {argument name=\"jewelry piece\" default=\"[JEWELRY PIECE]\"}, macro sparkle, velvet surface, warm gold light, romantic shadow play, minimal headline, luxury boutique feel, ultra-detailed gem reflections, premium editorial composition.",
+    "title": "Luxury Jewelry Advertisement",
+    "description": "A prompt for generating high-end jewelry advertisements with macro details, warm gold lighting, and romantic shadow play for a boutique aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280764503_pzbufz_HG0qIsOaMAAPmCd.jpg",
+      "https://cms-assets.youmind.com/media/1777280764526_k7ejux_HG0qItBaIAEAkzv.jpg",
+      "https://cms-assets.youmind.com/media/1777280764725_s1wbom_HG0qItEasAAaZ2h.jpg",
+      "https://cms-assets.youmind.com/media/1777280765130_tp6mh4_HG0qItIaYAA3clu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16291,
+    "content": "Create a product creative for '{argument name=\"brand name\" default=\"Over.X\"},' a {argument name=\"product type\" default=\"hair restoration shampoo\"}, featuring a {argument name=\"model\" default=\"cute woman\"}",
+    "title": "Shampoo Product Creative Prompt",
+    "description": "A simple prompt for generating product creative for a hair restoration shampoo featuring a female model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280781741_r5q47s_HGzZMdQXUAAlzgT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16296,
+    "content": "This image is an empty plate from {argument name=\"restaurant\" default=\"Yoshinoya\"}. Turn it into a professional-looking promotional photo with delicious {argument name=\"food items\" default=\"beef bowls and miso soup\"} lined up. You can change the composition.",
+    "title": "Food Image Professional Retouching Prompt",
+    "description": "A prompt that takes a photo of an empty or used plate and instructs GPT-Image-2 to recreate it as a professional marketing photo for a restaurant menu.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280784144_jbzqq2_HGy5ZsBbwAAxbRx.jpg",
+      "https://cms-assets.youmind.com/media/1777280784185_yql595_HGy5ZsBagAALtIB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16263,
+    "content": "Silk shawl with 'Court Ladies Wearing Floral Headdresses' pattern from the Tang Dynasty, featuring {argument name=\"pattern design\" default=\"Zhou Fang's court ladies surrounding pattern\"}, crabapple floral gold weaving, glossy satin texture, palace luxury style.\n\nSong Dynasty Ru-ware sky-blue glazed tea set, delicate ice-crackle glaze, 'blue as the sky after rain' color, minimalist Song Dynasty style setting, museum-grade still life studio photography.",
+    "title": "Chinese Traditional Luxury Product Design",
+    "description": "Two prompts for high-end product design: a Tang Dynasty inspired silk shawl and a Song Dynasty style Ru-ware tea set.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280771677_7lq50r_HGy0ak5bIAABTD6.jpg",
+      "https://cms-assets.youmind.com/media/1777280771689_181ztb_HGy0b8gbEAEFaGl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16127,
     "content": "A dramatic luxury product advertising image for a motorsport-inspired chronograph wristwatch in a dark studio. Center-left foreground, show a single stainless steel chronograph watch standing upright at a slight three-quarter angle, with a black dial, two red-accent subdials, slim silver hour markers, a tachymeter bezel, and visible crown and pushers on the right side. The watch has a black leather strap with bold red stitching along both edges and a sporty premium finish. To the right of the watch, place one black square presentation box slightly behind it, textured like leather, with red stitching around the lid and a silver embossed eye-shaped logo above the text “NESS STUDIO” and smaller red text “TRACK SURFACE.” At the top center of the composition, add the same silver eye logo with the words “NESS STUDIO” and smaller “BY NICOLAS.” Across the background, place one oversized blurred word, {argument name=\"headline text\" default=\"PRECISION\"}, in large gray capital letters spanning nearly the full width. The scene is set against a deep black background with cinematic red and white horizontal light streaks crossing behind the products from left to right, suggesting speed and racetrack energy. Use a glossy wet ground plane with reflective texture, catching red highlights and mirrorlike reflections beneath the watch and box. At the bottom center, add the text “CHRONOGRAPH SERIES” in clean white spaced capitals with thin red horizontal lines extending on both sides, and below it smaller red capitals reading {argument name=\"tagline text\" default=\"ALSACE MADE\"}. Color palette: black, charcoal gray, silver steel, vivid racing red, and a touch of white. Lighting should be high-contrast and premium, with crisp specular highlights on the metal case, subtle soft fill on the box, and moody shadows. Overall style: ultra-polished commercial product photography, luxury watch campaign, sharp focus on the products, sleek branding, high-end automotive aesthetic.",
     "title": "Luxury Chronograph Watch Ad",

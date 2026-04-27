@@ -1,21 +1,164 @@
 [
   {
-    "id": 16155,
-    "content": "A restored vintage family snapshot, photographed indoors in soft natural light, showing a {argument name=\"adult subject\" default=\"young mother\"} seated and holding a {argument name=\"child subject\" default=\"toddler\"} on her lap in a close, centered waist-up portrait. The adult has short softly curled auburn hair in a voluminous 1960s-inspired bob, wears a sleeveless black dress and a thin gold necklace, and wraps both arms protectively around the child. The child has fine light blond hair and wears a plain white long-sleeve outfit. Compose the image with a warm nostalgic color cast, gentle film softness, subtle grain, and the look of a carefully repaired old printed photograph. Place them in front of a cream-colored curtain patterned with small brown teddy bear motifs, with a softly blurred interior window frame visible along the top background. Preserve realistic skin tones, natural posture, and the intimate family-photo feeling, as if an old damaged photograph has been professionally reimagined and restored. Square crop, centered composition, shallow depth of field, authentic analog photo texture, no modern styling, no text.",
-    "title": "Restored Vintage Mother and Child Portrait",
-    "description": "This prompt generates a warm restored retro-style family photo of an adult holding a toddler, useful for recreating or reimagining damaged personal snapshots.",
+    "id": 16305,
+    "content": "A polished studio head-and-shoulders LinkedIn profile portrait of a {argument name=\"subject gender\" default=\"man\"} centered in frame, facing straight toward the camera with a neutral, confident expression, cropped from the upper chest to just above the head. He has short {argument name=\"hair color\" default=\"dark brown\"} hair with a slightly textured top, visible ears, and light stubble beard along the jaw and chin. He wears 2 clothing layers: a dark charcoal tailored blazer over a plain white crew-neck t-shirt. The background is a deep black seamless studio backdrop with a subtle soft vignette and no visible props. Use professional corporate portrait photography styling, soft directional key light from above and slightly to one side, gentle rim separation on the shoulders and hair, realistic skin texture, sharp focus on clothing and neck, shallow depth of field, high contrast, clean premium retouching, natural color grading, and a modern executive-yet-approachable look suitable for a {argument name=\"platform\" default=\"LinkedIn\"} profile photo. Compose it symmetrically, minimal and elegant, with the subject isolated against the dark background, photographed as if with an 85mm lens in a high-end studio.",
+    "title": "Professional Dark-Background LinkedIn Portrait",
+    "description": "This prompt generates a clean studio-style professional profile headshot commonly used for LinkedIn, corporate bios, and personal branding.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777193414966_r8wqfr_HGwCsGjbMAAS98Q.jpg"
+      "https://cms-assets.youmind.com/media/1777280787727_qjvj0c_HG5c1BRWsAAJCl_.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 16154,
-    "content": "A heavily damaged old family snapshot in faded black and white with a slight sepia cast, shown as a worn physical photograph scanned straight-on. The image depicts a seated woman holding a small child on her lap indoors, both centered in a simple portrait composition. The woman has short dark wavy hair and wears a dark sleeveless dress or pinafore layered over a lighter short-sleeved blouse. The child appears to be a toddler with very short light hair, wearing a light-colored outfit, facing the camera while sitting against the woman’s chest and arm. Behind them is a patterned curtain with small floral or leaf motifs, and above it a dark window area with a pale vertical window frame is visible near the top center. The print is severely deteriorated: extensive scratches, creases, emulsion damage, stains, blotches, and peeling cover the entire surface, with especially heavy white abrasion and loss of detail across the bottom third and scattered cracking throughout. Keep the overall look authentic to a mid-20th-century vernacular photo, low contrast, soft focus, and visibly aged paper texture. Add a rectangular blurred censor block over the woman’s face only, while the child’s face remains visible but faded. No text, no border, just the distressed archival photograph filling the frame.",
-    "title": "Damaged Vintage Mother and Child Photo",
-    "description": "This prompt generates a severely worn, scanned vintage family photograph of a woman holding a toddler, useful for aged-photo restoration demos or archival-style visuals.",
+    "id": 16415,
+    "content": "Using REFERENCE_0, restore the same kitten into a clean, realistic high-resolution portrait while preserving the front-facing composition, white fur with gray-brown markings on the head, blue background, and the beige foreground ledge at the bottom. Sharpen the face and eyes, add natural fur detail and whiskers, correct the proportions into a believable young kitten, improve lighting and contrast, and remove the heavy blur/noise so it looks like a crisp DSLR-style pet photo with shallow depth of field.",
+    "title": "Enhance Blurry Kitten Photo",
+    "description": "This prompt turns a low-quality cat reference photo into a sharp, realistic pet portrait while keeping the original composition and subject identity.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777193414859_yiutbh_HGwCsAObIAA7rde.jpg"
+      "https://cms-assets.youmind.com/media/1777280830909_z0fpns_HGlb4p_XEAApdXY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16265,
+    "content": "{argument name=\"character\" default=\"league of legends miss fortune\"} taking a selfie real world style",
+    "title": "Miss Fortune Realistic Selfie Prompt",
+    "description": "A simple prompt for generating a realistic, 'real-world' style selfie of the character Miss Fortune from League of Legends.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280772085_fcqzkz_HG2uLXnbkAA4OOf.jpg",
+      "https://cms-assets.youmind.com/media/1777280772082_zoy4qf_HG2uLXaa4AAX30s.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16228,
+    "content": "this {argument name=\"character\" default=\"highly detailed 3D gaming character\"} sitting on a {argument name=\"seat\" default=\"red velvet chair with a very high back and black wood finish\"}, on the right side 6 bars for different {argument name=\"powers\" default=\"vapire powers\"}",
+    "title": "3D Vampire Gaming Character",
+    "description": "Generates a highly detailed 3D game character with a UI overlay showing power bars, seated on a gothic-style throne",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280758178_0437xi_HG2CfoVbgAA_bn7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16234,
+    "content": "a {argument name=\"cat type\" default=\"cute orange and white cat\"}, he looks like hes thinking. taking a selfie inside a {argument name=\"room lighting\" default=\"dramatically lit room dark room\"}. the cat has {argument name=\"facial features\" default=\"big eyes, a chubby face\"}, and a happy expression. the image is a wide-angle shot with sharp focus and high resolution, resulting in a high-definition photograph.",
+    "title": "Cute Cat Selfie",
+    "description": "A prompt designed to create a high-definition photograph of a cat taking a selfie in a dark, dramatically lit room with a happy expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280760338_witphb_HG1-l98bQAAD2Of.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16242,
+    "content": "portrait of a young woman with {argument name=\"hair color\" default=\"short curly black\"} hair and {argument name=\"skin tone\" default=\"fair\"} skin, wearing transparent safety goggles and a {argument name=\"clothing\" default=\"blue ribbed turtleneck sweater\"}, seated in front of a solid azure blue background, double-exposure motion blur effect to the left side of the face, subtle soft reflections on the glasses, cold ambient lighting, high sharpness on facial features with dreamlike blur trail overlaying second face, fashion editorial studio setup, icy color palette, futuristic retro mood.",
+    "title": "Double Exposure Motion Blur Portrait",
+    "description": "A stylized portrait prompt featuring a double-exposure motion blur effect, icy color palettes, and futuristic retro vibes, designed for high-fashion editorial aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280763515_rsa323_HG19f15bwAAf-hh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16221,
+    "content": "A stylized Pixar-style 3D portrait of a {argument name=\"character\" default=\"young person\"} with smooth skin, large expressive blue eyes, soft facial features, wearing {argument name=\"accessory\" default=\"round transparent glasses\"}, modern hairstyle (short styled hair / soft bob cut), casual outfit (hoodie or minimal sweater), slight head tilt and warm smile, friendly and approachable expression, ultra-clean character design, {argument name=\"background\" default=\"vibrant orange-to-pink gradient\"} background, soft studio lighting with subtle rim light, cinematic depth of field, ultra-detailed, 8K render, octane render style.",
+    "title": "Pixar-Style 3D Character Portrait",
+    "description": "Generates a high-quality 3D animated character portrait with soft lighting and vibrant gradient backgrounds, similar to Pixar aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280755151_u8lpfk_HG17h2kboAAm0Ck.jpg",
+      "https://cms-assets.youmind.com/media/1777280755099_p5wygr_HG17h5uaoAAWEKy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16255,
+    "content": "(9:16) Raw high-fidelity photo, eye-level, medium shot, {argument name=\"camera\" default=\"iPhone 17 Pro sim\"}, 35mm, f/4, sharp subject, natural depth, authentic grain. Framing: Subject ~60%, ~2m, centered, mirrored wall + plants, terrazzo floor. Identity Lock: Preserve ALL facial features; natural skin clarity, soft glow, refined highlights, salon hair, bio-fidelity (pores, vellus hair, hydration). Expression: {argument name=\"expression\" default=\"Confident, direct gaze\"}, neutral lips, slight head tilt (~10° left). Hair: Straight center part, slightly lifted, warm highlights. Makeup: Mauve lip, light base, defined lashes. Accessories: Gold charm necklace, black glossy nails. Outfit: {argument name=\"outfit\" default=\"Black bodysuit + burgundy sequined mini skirt\"}, tight fit, high shine, S-curve. Pose: Torso ~20° right, hips forward, leaning on pot, left hand in hair. Mood: Elegant, warm (black, burgundy, terracotta), ~3200K, moderate-high contrast. Environment: Upscale lounge, mirrored wall, terracotta pots, terrazzo floor, warm light.",
+    "title": "High-Fidelity Fashion Photography Prompt",
+    "description": "A prompt for realistic, high-fidelity fashion photography that places a subject in an upscale hotel lobby with specific camera settings and identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280768240_zwnksc_HG1qG5_XIAA83Zf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16280,
+    "content": "A photo of a {argument name=\"subject\" default=\"beautiful Japanese female influencer\"} sitting at {argument name=\"location\" default=\"a terrace seat of a stylish cafe\"}. White dress. Long curly hair. Acai bowl and iced latte on the table. Natural light makes the skin look beautiful. Green plants are blurred in the background. Not a smile, but a slightly cool expression. iPhone-like image quality. Square. Realistic photo.",
+    "title": "Japanese Influencer Instagram Style Photo",
+    "description": "A prompt designed to create a realistic, 'iPhone-quality' lifestyle photo of a Japanese influencer at a cafe for social media.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280777593_kisxu8_HG1mZs0awAA0cOE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16239,
+    "content": "Aesthetic AI workspace scene inside an X (Twitter) profile interface, dark theme UI in the background showing a profile named \"Noor 🌸\" with a verified badge. In the foreground, a stylized semi-realistic digital girl with {argument name=\"hair style\" default=\"short messy golden-yellow hair\"} and soft glowing skin, wearing a {argument name=\"outfit\" default=\"sleeveless mustard-yellow top\"}, sitting at a desk and working on a laptop with the X logo.\n\nDesk setup includes: a black smartphone with X logo, a minimal glass pen holder with pencil, a yellow pen, sticky notes, stacked notebooks, small yellow cube decor, and a {argument name=\"decor\" default=\"vase with yellow flowers\"}. Lighting is soft, cinematic, warm tones with high contrast against the dark UI.\n\nComposition: centered subject, slightly angled view, sharp focus on the girl, blurred background interface. Hyper-detailed, smooth rendering, 3D + illustration hybrid style, trending on ArtStation, ultra clean, professional, cozy creator workspace vibe.",
+    "title": "Aesthetic Creator Workspace",
+    "description": "A cozy, hyper-detailed digital illustration prompt of a girl working in a professional workspace with a social media interface theme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280762148_vsr0ex_HG1OIh0aMAAHitY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16250,
+    "content": "Ultra-photorealistic 8K RAW, 35mm, f/8, deep focus, no blur, no DOF, no noise, no grain, no haze, no dust, no volumetric light, no soft light, no glow. IMAX stage, 2:3 aspect ratio. Male with my exact face, 181cm 73kg, {argument name=\"hair style\" default=\"messy dark hair\"}, short stubble. Face split: left side — clean skin with {argument name=\"markings\" default=\"thin amber technical markings (numbers \\\"6.66\\\", spiral symbols, hand-drawn)\"}; right side — {argument name=\"skin effect\" default=\"matte black skin covered in thick black resin (glossy, wet-looking, partially dried with stretched glossy strings between skin and fingers)\"}. One eye natural dark brown, other faint amber glow (subtle, like light through honey, no beam). Tattoos: small eye on left neck, two horizontal lines on right jaw, tiny cross behind right ear. One mechanical prosthetic hand (black steel with sticky resin residue) raised to chin, fingers pulling a glossy resin string away from right cheek. Clothing: matte black worn jacket, high collar, no hood. Lighting: hard warm amber key from upper left, cool grey fill from lower right, sharp shadows. Color: desaturated grey-black, only amber as accent in resin reflections. Background: solid charcoal grey wall. Clean dry air, no particles. All surfaces sharp.",
+    "title": "Surreal Resin-Split Portrait",
+    "description": "An incredibly detailed and technical prompt for a split-face portrait featuring black resin textures, amber markings, and highly specific camera settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280766643_q5grkm_HG1N6n0agAEJx59.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16258,
+    "content": "Restore this {argument name=\"subject\" default=\"old photo\"} into {argument name=\"output style\" default=\"professional portrait of DLSR\"} - quality colour and detail, using an advanced upscaling algorithm comparable to the results from {argument name=\"camera model\" default=\"canon EOS R6 II\"}. Ensure the restored the image looks natural, retains exact facial features, has great clarity.",
+    "title": "HD Photo Restoration Prompt",
+    "description": "An image restoration prompt for GPT Image 2, designed to transform old or damaged photographs into high-definition professional portraits while maintaining natural features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280769496_2mntxc_HG09PqabUAAH2qO.jpg",
+      "https://cms-assets.youmind.com/media/1777280769481_w6fb6j_HG09P1ta0AA0GBd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16238,
+    "content": "A hyper-realistic, cinematic medium close-up portrait of the uploaded person. The subject is positioned with their torso angled slightly forward, but their head is turned to the side, looking off-camera to the left with a deeply contemplative, serious, and stoic expression. One hand is raised, resting gently against the chin and lower lip in a classic \"thinking\" gesture, fingers softly curled. On the wrist is a {argument name=\"accessory\" default=\"prominent, luxurious metallic chronograph watch\"} with complex dial details. The subject is wearing a {argument name=\"outfit\" default=\"sleek, dark black long-sleeved shirt or suit jacket\"} that blends into the shadows, with metallic cuff accents catching the light. Background: A minimalist, moody, {argument name=\"background\" default=\"textured charcoal-grey gradient backdrop\"}, featuring a soft, faint vertical strip of light on the far left edge. Camera Angle & Photography: Eye-level angle, amazing high-end commercial portrait photography. Lighting, Editing & Effects: Dramatic chiaroscuro side-lighting illuminating the right side of the subject's face while casting deep, rich shadows on the left. The image features a shallow depth of field with sharp focus on the visible eye and the luxury watch. There is a distinct, heavy foreground blur (a hazy, soft white/grey light leak effect) obscuring the very bottom and bottom-left corner of the frame to create atmospheric depth. High-contrast editing, moody cinematic color grading, and a highly polished, premium aesthetic. ar 4:5",
+    "title": "Hyper-Realistic Stoic Portrait",
+    "description": "A cinematic commercial portrait prompt featuring a subject in a thoughtful pose with dramatic side-lighting and a focus on luxury details like a chronograph watch.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280761279_iezwva_HG0r24sbUAAgS_c.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16288,
+    "content": "{argument name=\"hair color\" default=\"pink hair\"} {argument name=\"profession\" default=\"vtuber\"}",
+    "title": "VTuber Character Prompt",
+    "description": "A simple prompt for generating high-quality anime-style VTuber characters with specific aesthetic features like pink hair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280780384_2tbqvu_HGzMEYubAAE1Y1X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16319,
+    "content": "A full-body studio portrait of a stylized anthropomorphic monkey child standing front-facing against a clean pastel light-blue seamless background. The character has a slim small body, brown fur on the arms and tail, oversized protruding ears, and a long curved monkey tail visible on the left side. The face is intentionally obscured by a soft blurred square block centered over the head, creating an anonymous censored look. Dress the character in 5 clearly visible fashion items: a blue denim beret, a medium-wash blue denim jacket with metal buttons and chest pockets, a plain white crew-neck T-shirt, matching blue denim jeans with rolled cuffs, and chunky white low-top sneakers. Add 1 silver pendant necklace over the shirt. The pose is relaxed and symmetrical with arms hanging naturally at the sides, feet apart, and the figure centered in frame from head to shoes. The lighting is soft, diffused, and commercial-studio clean, with subtle shadows under the shoes. Render in a hyper-detailed whimsical fashion-editorial style, mixing realistic clothing textures with cute surreal character design, crisp denim stitching, soft fur detail, and premium toy-like proportions.",
+    "title": "Censored Monkey Kid in Denim",
+    "description": "This prompt generates a full-body whimsical studio fashion portrait of an anthropomorphic monkey child in a coordinated denim outfit, useful for surreal character design and stylish commercial-style artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280793271_zn47og_HGyugOcXoAAY_Lg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16324,
+    "content": "A photorealistic outdoor portrait of an elegant young East Asian woman standing in a traditional Japanese courtyard garden during cherry blossom season. She is shown from a three-quarter back view, turning slightly toward the camera, with her face mostly obscured by her angle. She wears a deep wine-red satin evening dress with thin spaghetti straps and a dramatic low open back, fitted closely through the waist and hips with soft reflective fabric highlights. Her hair is styled in a loose, romantic updo with a few wispy strands, decorated with 3 small pink blossom hair ornaments, and she wears delicate dangling earrings and a fine necklace. Surround her with blooming sakura branches heavy with pale pink flowers, with many individual petals drifting through the air. In the background, place a traditional Japanese wooden building with dark beams, shoji-style windows, and a gray tiled roof, softly blurred with shallow depth of field. Include a calm garden pond and stone edging in the lower background. Use warm spring sunlight, soft cinematic bokeh, high detail skin and fabric rendering, graceful posture, refined luxury fashion photography, natural colors, serene atmosphere, square composition.",
+    "title": "Cherry Blossom Garden Evening Portrait",
+    "description": "This prompt generates a photorealistic fashion portrait of a woman in a backless satin dress standing in a Japanese cherry blossom courtyard, ideal for elegant spring-themed editorial imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777280795367_0gi0qt_HGynvZMbcAAIq57.jpg"
     ],
     "needReferenceImages": true
   },
@@ -159,6 +302,16 @@
     "description": "This prompt generates a moody, nearly monochrome athletic portrait with dramatic low-key lighting, ideal for sports-brand-inspired editorial or ad-style imagery.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1777193406639_isvca6_HGwM_I3X0AEFsH9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16163,
+    "content": "Using REFERENCE_0, restore the old damaged family photo into a clean, high-resolution modern scan. Remove the heavy scratches, stains, fading, tears, and surface damage while preserving the original composition, pose, framing, and background curtain. Reconstruct realistic natural skin tones, sharpen details, and colorize the image with believable warm indoor tones. Keep the woman holding the baby in the same position, restore the black sleeveless dress, the baby's light outfit, the reddish-brown hair, and the subtle necklace. Maintain the same portrait crop and photographic realism, as if the original print was professionally repaired and remastered in 4K.",
+    "title": "Restore and Colorize Damaged Vintage Photo",
+    "description": "This prompt restores a heavily damaged old portrait from a reference photo by cleaning defects, colorizing it, and turning it into a sharp realistic 4K remaster.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777272252721_0nduq2_HGwCsGjbMAAS98Q.jpg"
     ],
     "needReferenceImages": true
   },
