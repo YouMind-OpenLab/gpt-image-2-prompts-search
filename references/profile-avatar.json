@@ -1,5 +1,198 @@
 [
   {
+    "id": 16636,
+    "content": "A lively hand-drawn fashion portrait in a changed illustration style, made to look like a signed fan-art sketch drawn with markers on a square white shikishi board with a thin gold border. Show a stylish young woman from about the waist up, leaning slightly forward with one elbow resting up near her face in a casual, friendly pose. Her face area is covered by a simple rectangular censor block in a muted beige tone. She has shoulder-length medium brown hair with warm highlights, soft volume, side-swept bangs, and flipped-out ends. Render the art with expressive black ink outlines, visible marker strokes, watercolor-like blending, sketchy hatching, and an energetic, vivid handmade feel. She wears a fitted dark gray ribbed long-sleeve knit top with subtle puffed shoulders, layered delicate gold necklaces, a dangling pearl earring, a beige crossbody bag strap running diagonally across her chest, and a light beige skirt or dress visible at the waist. Leave plenty of clean white background around the figure. Add 2 small sparkle doodles on the left side. Add handwritten Japanese thank-you messages and signature-style black ink writing around the portrait: at upper right write {argument name=\"top message\" default=\"ありがとう！\"} with an underline and a small heart, beneath it place a large stylized autograph reading {argument name=\"signature name\" default=\"Yui\"} with a smiling face mark and a heart, at lower left write {argument name=\"side message\" default=\"いつも応援してくれてありがとう♡\"}, and at lower right write the date {argument name=\"date\" default=\"2024.5.20\"} with another heart. The overall image should feel warm, personal, lively, and like a celebratory signed illustration on a square autograph board.",
+    "title": "Signed Marker Portrait on Shikishi",
+    "description": "This generates a lively signed marker-style portrait on a square shikishi board, useful for fan-art autographs, commemorative illustration posts, and personalized thank-you visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367317129_2rohn0_HG8hIdab0AAwzdp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16512,
+    "content": "{ \n  \"scene_type\": \"smartphone fashion portrait series\",\n  \"composition\": {\n    \"layout\": \"4-photo grid collage\",\n    \"camera\": \"smartphone photography\",\n    \"framing\": [\n      \"full body standing\",\n      \"crouching pose\",\n      \"casual seated pose\",\n      \"upper body portrait\"\n    ],\n    \"angle\": \"eye-level, natural perspective\",\n    \"aspect_ratio\": \"1:1 collage\"\n  },\n  \"subject\": {\n    \"gender\": \"{argument name=\"gender\" default=\"female\"}\",\n    \"age\": \"{argument name=\"age\" default=\"early 20s\"}\",\n    \"aesthetic\": \"extremely beautiful, sensual, candid\",\n    \"appearance\": {\n      \"skin_tone\": \"smooth light complexion\",\n      \"face\": \"soft feminine features, natural symmetry, bright smile\",\n      \"expression\": \"playful, warm, confident, subtly sensual\",\n      \"eyes\": \"expressive, gentle gaze\",\n      \"hair\": {\n        \"color\": \"{argument name=\"hair color\" default=\"deep black\"}\",\n        \"style\": \"long, loose waves\",\n        \"texture\": \"soft, natural shine\"\n      },\n      \"makeup\": \"natural glam, dewy skin, soft blush, subtle lip tint\"\n    },\n    \"outfit\": {\n      \"top\": \"white fitted sleeveless crop top\",\n      \"bottom\": \"loose straight-leg blue jeans\",\n      \"shoes\": \"casual white sneakers\",\n      \"style\": \"minimal, effortless, modern casual\"\n    },\n    \"pose_style\": \"relaxed, candid, playful fashion poses\",\n    \"body_language\": \"confident yet soft, natural movements, gentle sensual elegance\"\n  },\n  \"environment\": {\n    \"location\": \"minimal studio backdrop\",\n    \"background\": \"clean light gray seamless wall\",\n    \"floor\": \"neutral studio floor\",\n    \"lighting\": {\n      \"type\": \"soft diffused studio lighting\",\n      \"tone\": \"neutral\",\n      \"shadows\": \"soft and natural\",\n      \"highlights\": \"subtle skin glow\"\n    }\n  },\n  \"style\": {\n    \"photography_type\": \"smartphone editorial fashion\",\n    \"visual_tone\": \"minimalist, airy, modern\",\n    \"mood\": \"candid, sensual elegance, fresh and confident\",\n    \"color_palette\": \"white, denim blue, soft gray\",\n    \"contrast\": \"low to medium\",\n    \"grain\": \"very light natural grain\"\n  },\n  \"rendering\": {\n    \"realism\": \"ultra-realistic\",\n    \"detail_level\": \"high skin and fabric texture detail\",\n    \"sharpness\": \"high\",\n    \"depth_of_field\": \"natural\",\n    \"post_processing\": \"minimal, clean, slightly soft finish\"\n  },\n  \"atmosphere\": \"modern, youthful, effortless beauty, subtle sensual charm\"\n}",
+    "title": "Casual Fashion Grid Photoshoot",
+    "description": "A structured JSON prompt for a 4-photo collage of a casual fashion photoshoot with detailed subject and lighting parameters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367267771_teyn0r_HG74_nJaoAEM5oD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16593,
+    "content": "A highly detailed anime fantasy portrait of {argument name=\"character name\" default=\"an elegant blue-haired fantasy woman\"}, shown from the back in a three-quarter pose, turning her head over her shoulder to look at the viewer with calm violet eyes and a soft, slightly distant expression. She has very long, flowing {argument name=\"hair color\" default=\"icy pastel blue\"} hair with layered wispy bangs, loose windblown strands, one small ahoge on top, and 1 dark curved horn with subtle crimson striping emerging from the left side of her head. Her outfit is a refined, backless fantasy gown with 4 visible main pieces: a dark fitted bodice, a white open-backed outer layer with ornate gold trim and pale embroidered patterns, 2 long detached sleeves that fade into translucent blue-violet pointed cuffs, and red-blue ribbon ornaments tied at the neck and waist. Add delicate jewel-like tassel details at the upper back and trailing ribbon ends drifting in the air. The scene is backlit by soft spring sunlight in a pale stone pavilion or arched balcony, with 1 large arch opening behind her and clusters of {argument name=\"flower type\" default=\"pink cherry blossoms\"} glowing in the top right background. Include a few drifting petals, luminous haze, subtle sparkles, and a dreamy pastel atmosphere. Composition is vertical, upper-thigh portrait, character centered slightly right, hair sweeping broadly across the left side of the frame. Render in a polished ethereal anime illustration style with soft bloom, translucent fabrics, glossy eyes, delicate linework, cool lavender and blue tones, gentle rim light, painterly background blur, and an emphasis on smooth elegant surfaces, clean fabric flow, and minimal wrinkling.",
+    "title": "Ethereal Blue-Haired Fantasy Portrait",
+    "description": "This prompt generates a soft, luminous anime-style fantasy character portrait, ideal for creating elegant vertical key art or character illustrations with flowing hair and a dreamy spring atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367299255_7e01qg_HG7uRRbbIAABIeT.jpg",
+      "https://cms-assets.youmind.com/media/1777367299326_buzhjd_HG7uRRbbcAAEfrZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16526,
+    "content": "A stunning black and white studio portrait of {argument name=\"subject\" default=\"uploaded person\"}. Eye-level medium shot, framed from the waist up. The subject is standing with his arms casually but firmly crossed over his chest. He is looking downward and slightly off-camera to the left with a calm, contemplative posture. He is wearing a {argument name=\"outfit\" default=\"dark, heavy-textured waffle-knit long-sleeve sweater\"} and a delicate silver chain necklace with a small pendant. He is wearing a classic analog watch with a light dial and leather strap on the lower arm. The background is a {argument name=\"background style\" default=\"stark, graphic vertical split: pure white on the left half and pure deep black on the right half\"}. High-end commercial photography, monochrome masterpiece. Soft but dramatic directional studio lighting originating from the left, highlighting the textures of the clothing and skin while casting natural, smooth shadows on the right side. Crisp focus, hyper-realistic,8k resolution, cinematic composition. ar 4:5",
+    "title": "Monochrome Studio Portrait",
+    "description": "A high-end commercial photography prompt for a monochrome portrait with a distinctive split-background and dramatic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367273368_hp9n0c_HG7mqKmb0AA1ecq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16561,
+    "content": "A realistic organic smartphone selfie of a {argument name=\"subject age\" default=\"middle-aged\"} woman sitting outdoors on a porch or patio in warm late-afternoon golden-hour sunlight, framed from the chest up in a casual slightly imperfect front-facing composition. She has shoulder-length softly wavy auburn hair with a center part, natural texture, and a few loose flyaways, light skin with visible freckles and real skin texture on the chest and neck, and an everyday relaxed presence. She wears a light gray open-front cardigan over a pale lace-trim camisole. The setting shows a white exterior door and wall behind her, with a dark blue fabric-covered chair or cushion visible on the left side and strong sun casting soft warm highlights and natural shadows across her clothing and skin. The image should feel unfiltered, candid, and convincingly real rather than polished: subtle asymmetry, normal phone camera perspective, slightly tight crop, authentic household background, natural color, gentle contrast, and documentary-level photographic realism.",
+    "title": "Realistic Golden-Hour Porch Selfie",
+    "description": "A natural-looking casual selfie prompt for generating an authentic organic smartphone portrait with warm sunlight and everyday realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367287051_q0i782_HG7f3scbYAAigq7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16560,
+    "content": "A realistic organic selfie of a {argument name=\"subject age\" default=\"middle-aged\"} woman sitting on a house porch during golden hour, photographed at arm’s length with a casual smartphone front camera. She has {argument name=\"hair color\" default=\"auburn brown\"} shoulder-length softly wavy hair with volume and slightly tousled texture, warm sunlit skin, and a natural unpolished everyday appearance. She wears a simple {argument name=\"top color\" default=\"black\"} tank top with bare shoulders visible. The composition is a close chest-up portrait, centered but slightly off-kilter like a real handheld selfie, with one arm partially visible in the foreground. The lighting is low-angle warm evening sunlight casting soft highlights and gentle shadows across the face, chest, and arms. The background shows an outdoor residential porch with white siding on the left, a pale vertical porch column on the right, and a hanging basket or wall planter filled with small pink and purple flowers and green foliage. The image should feel candid, authentic, and minimally processed, with realistic skin texture, natural flyaway hairs, slight asymmetry, and subtle smartphone lens distortion, avoiding glamour retouching, beauty filters, or overly polished AI aesthetics.",
+    "title": "Realistic Golden Hour Porch Selfie",
+    "description": "This prompt generates a candid, natural-looking smartphone selfie on a sunlit porch, useful for creating authentic organic portrait photos that do not look overly polished.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367286229_s0vrfk_HG7f3shawAAHUWJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16559,
+    "content": "A realistic casual indoor selfie of a {argument name=\"person\" default=\"adult woman\"} taken at arm’s length on a smartphone, framed from mid-chest up in a square composition. She has shoulder-length, slightly messy wavy {argument name=\"hair color\" default=\"auburn red\"} hair with natural volume and soft frizz, center-parted, lit by warm golden-hour sunlight coming from a large window or sliding glass door on the left side of the frame. She wears a simple {argument name=\"shirt color\" default=\"white\"} short-sleeve V-neck T-shirt. The pose is relaxed and natural with both forearms faintly visible from holding the phone, creating an authentic unpolished selfie perspective. The setting is a real apartment or home interior: bright vertical window and door frames on the left, beige walls, and a dark brown sofa in the back right. Lighting is soft, warm, and organic, with sun highlights on the hair, shoulders, and arms, mild indoor shadows, realistic skin texture, and no glamor retouching. Overall look should feel candid, believable, and minimally styled, like a genuine phone photo rather than a polished AI portrait. Use natural proportions, subtle image noise, ordinary home background detail, and straightforward smartphone camera realism.",
+    "title": "Realistic Golden-Hour Indoor Selfie",
+    "description": "A natural-looking smartphone selfie prompt for generating believable casual indoor portraits with warm sunset window light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367285758_ymgstt_HG7f3skaQAA9vaa.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16558,
+    "content": "A realistic, casual outdoor smartphone selfie of a {argument name=\"subject age\" default=\"middle-aged woman\"} from the chest up, framed slightly off-center and shot at arm’s length on a phone camera. She has voluminous shoulder-length wavy hair in a warm {argument name=\"hair color\" default=\"auburn red\"}, softly tousled by a light breeze and glowing with golden backlight from the low sun behind her. She is wearing a dark {argument name=\"top color\" default=\"deep forest green\"} V-neck knit top or cardigan, a delicate thin chain necklace, and a small hoop earring barely visible through her hair. The setting is an outdoor terrace or walkway beside a pale stone wall, with leafy trees filling most of the background and a faint building partially visible through the branches. The sun appears in the upper left corner, creating natural lens flare, warm rim lighting around the hair, gentle highlights on the shoulders, and realistic late-afternoon golden hour contrast. The composition should feel organic and unpolished rather than studio-perfect: slight handheld phone-camera perspective, natural skin texture, casual posture, authentic lighting, shallow depth from the phone sensor, and a candid everyday social-media selfie aesthetic.",
+    "title": "Golden Hour Organic Outdoor Selfie",
+    "description": "This prompt generates a realistic, candid outdoor golden-hour selfie with natural phone-camera lighting and an authentic social-media feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367285499_npgwqi_HG7f3r_W8AEmojc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16485,
+    "content": "create a hyper-realistic 3D render of a transparent {argument name=\"platform\" default=\"twitter\"} profile card, designed like a futuristic glass ID badge held gently between two fingers. The card should be rectangular with rounded corners, made of clear glossy glass or acrylic, with glowing neon edges in {argument name=\"glow colors\" default=\"pink, purple, and orange gradient\"} inspired by the twitter color palette. Display the following profile information based on the screenshot image attached of my profile on the card using modern, minimal sans-serif typography.",
+    "title": "Futuristic Glass Profile ID Card",
+    "description": "A prompt for creating a futuristic 3D render of a transparent social media profile card designed as a glowing glass ID badge.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367256290_aea7lr_HG7Q1SCa8AAlOgh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16569,
+    "content": "A surreal medium-format portrait of a woman standing on a narrow garden path surrounded by extremely dense foliage, photographed in a dreamlike false-color film look. She wears a plain bright saturated {argument name=\"shirt color\" default=\"red\"} crew-neck T-shirt and dark black fitted pants, with shoulder-length dark hair that is slightly tousled and parted off-center. Her pose is relaxed and natural, arms hanging loosely at her sides, body facing the camera with a subtle turn, framed from about mid-thigh upward. The setting is an overgrown botanical garden packed with ferns, ivy, shrubs, and flowering plants on both sides of the path; all vegetation is dramatically color-shifted from green into vivid magenta, lavender, pink, and deep purple, creating an unnatural LomoChrome Purple XR aesthetic. Keep the subject's shirt intensely saturated and realistic against the transformed environment for strong visual contrast. Use soft overcast daylight, shallow to moderate depth of field, and medium format rendering with a {argument name=\"camera\" default=\"Mamiya RB67\"} feel, shot with a {argument name=\"lens\" default=\"90mm lens\"} at {argument name=\"aperture\" default=\"f/5.6\"}. Include organic film grain, slight edge halation, gentle vignette, soft bloom in highlights, and subtle vintage film border edges. Composition should be vertical in a {argument name=\"aspect ratio\" default=\"6:7\"} frame, with the subject centered slightly left of the path, foreground and background foliage softly blurred while remaining lush and detailed, producing an eerie, romantic, otherworldly portrait.",
+    "title": "False-Color Garden Portrait",
+    "description": "This prompt generates a surreal medium-format portrait of a woman in a vivid red shirt standing in a lush garden transformed into magenta and purple false-color film tones, ideal for cinematic editorial or experimental photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367290173_4e95ft_HG6sE4iaYAAaXBM.jpg",
+      "https://cms-assets.youmind.com/media/1777367290165_xzmvue_HG6sE4ja4AEge2T.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16630,
+    "content": "A photorealistic vertical beach portrait of a young woman kneeling on pale sand while building sandcastles, shot in bright natural midday sunlight with a shallow depth of field. She has long dark brown hair tied in a high ponytail, a slim figure, and wears a short deep-blue sundress with thin spaghetti straps, a plunging neckline, and a softly flared skirt. She is leaning forward toward the camera in a playful candid pose, both hands shaping the sand in front of her. Add a delicate thin necklace with a tiny pendant and a subtle bracelet. Place exactly 5 sandcastle elements in the foreground: 2 taller turret-like sand towers on the right, 2 smaller rounded sand mounds near the center front, and 1 partially formed sand piece in her hands. The background is a tropical beach with smooth beige sand, turquoise water along the left side, a green tree-covered shoreline in the distance, and palm trees arching overhead, including 1 large palm trunk on the right edge. Use soft bokeh in the background, clean summer vacation fashion photography, realistic skin tones, natural shadows from palm leaves across her arms and dress, and a serene luxury resort atmosphere. Frame it as a full-body to three-quarter portrait in portrait orientation, centered subject, eye-level to slightly low camera angle.",
+    "title": "Tropical Beach Sandcastle Portrait",
+    "description": "This prompt generates a realistic summer beach portrait of a woman in a blue sundress building sandcastles, ideal for vacation-themed lifestyle imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367314269_rmkty4_HG6rZQfaoAAtKBh.jpg",
+      "https://cms-assets.youmind.com/media/1777367314280_z5hmxz_HG6rZQsawAAILjU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16659,
+    "content": "A polished anime-style illustration of a young shrine maiden named {argument name=\"character name\" default=\"音慰\"} standing inside a traditional Japanese shrine amulet office, shown from about thigh-up behind a wooden counter. She has long, straight {argument name=\"hair color\" default=\"black\"} hair with a center part and soft shine, pale skin, and a calm, gentle presence. Her face is centered and front-facing, but the facial area is obscured by a rectangular blur block. She wears a crisp white kimono-style top with wide sleeves and a deep red hakama tied in a large bow at the waist, conveying a classic miko outfit. Both hands are presenting a white embroidered omamori charm toward the viewer, holding it carefully at chest level; the charm has a gold cord knot at the top and the vertical kanji text \"御守\" on the front. In the foreground on the counter is a wooden display tray containing exactly 10 visible omamori charms in multiple colors: white, pink, red, purple, and gold-patterned variants, each with decorative cords and gold or white embroidery. To the right on the counter are 3 neat stacks of paper shrine talismans or packets, each labeled in Japanese; the rightmost stack is tied with a red-and-gold mizuhiki cord. On the left side of the counter is a small wooden price sign reading \"初穂料 800円\". The shrine interior is warmly lit with natural sunlight entering from a large wooden-framed window on the left, creating a serene, clean atmosphere. Through the window, a red railing and softly blurred shrine grounds and greenery are visible. In the background are wooden shelves and traditional decor, plus a vertical hanging sign with Japanese text reading \"御守 御札\" and smaller text \"各種祈願承ります\". The composition is centered on the miko and the offered charm, with soft depth of field, delicate fabric folds, realistic hands, refined linework, and a high-quality modern anime rendering style that emphasizes the subject more than the environment.",
+    "title": "Shrine Maiden Offering an Omamori",
+    "description": "This prompt generates a clean anime-style shrine scene featuring a miko presenting an omamori at a shrine counter, ideal for character art with culturally detailed background props.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367325615_2nck18_HG6o749b0AA-Mzf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16545,
+    "content": "{argument name=\"subject\" default=\"A photo portrait of a Tudor-style young nobleman\"}. Pale blond hair, androgynous features, a quiet gaze. {argument name=\"clothing\" default=\"Black feathered hat, jewel-embroidered black outfit, white lace collar, fur-trimmed cloak\"}. {argument name=\"location\" default=\"Inside a Gothic cathedral, stone pillars and stained glass\"}, soft natural light, a solemn atmosphere, ultra-high definition, cinematic lighting.",
+    "title": "Cinematic Tudor Noble Portrait",
+    "description": "A sophisticated prompt for a cinematic photo portrait of a Tudor-style young nobleman inside a Gothic cathedral with high-end lighting details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367280503_qageo7_HG6nDzaakAA_JlR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16729,
+    "content": "A candid nighttime balcony selfie of a young woman shot from a slightly high handheld phone angle, with the face mostly obscured by shadow and framing, emphasizing the outfit and mood rather than facial detail. She has {argument name=\"hair color\" default=\"dark brown\"} long loose wavy hair falling over both shoulders, medium tan skin, and wears 2 delicate gold necklaces, one a thin chain and one with a small cross pendant, plus a subtle bracelet on the wrist visible near the bottom edge. Her outfit is a fitted white sleeveless cropped tank top and {argument name=\"bottoms\" default=\"light blue low-rise denim jeans\"}, revealing the midriff. The pose is relaxed and slightly leaning, one arm extended to hold the phone, with a casual going-out aesthetic. Set the scene on a modern apartment balcony at night with a glass railing and a blurred distant city skyline filled with small bokeh lights. Use dim ambient lighting with a direct phone flash that illuminates the torso and hair, creating strong contrast, soft grain, slight motion blur, and an authentic late-night social-media selfie look. Vertical smartphone composition, close crop from upper chest to hips, realistic photography, moody, intimate, unpolished, natural proportions.",
+    "title": "Night Balcony Flash Selfie",
+    "description": "This prompt generates a realistic late-night balcony selfie with flash, ideal for casual social-media style portrait photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367354955_fv3q9k_HG6eH-IaQAAJsxF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16641,
+    "content": "A cute anime-style {argument name=\"character type\" default=\"Japanese schoolgirl\"} drawn as a hand-made oil pastel illustration on textured paper, bust-up portrait, centered composition. She has {argument name=\"hair color\" default=\"dark brown\"} hair in 2 low twin ponytails with soft waves and a center part, small dark hair ties, and visible ears. Her face is mostly hidden by a large vertical skin-toned rectangular censor block placed over the center of the face from forehead to chin, leaving only the hair, ears, jawline edges, and a little neck visible. She wears a light beige school uniform jacket over a white frilled blouse with lace-like ruffles at the collar and cuffs, accented by a deep red ribbon bow at the neck. Her right hand is raised in a small clenched-fist pose near her chin, creating a shy, adorable, cheering gesture. Background is fully filled with rough diagonal pink pastel scribbles over warm off-white paper. Emphasize thick waxy oil pastel texture, visible grain of paper, soft blending, broken color strokes, sketch-like outlines, charming imperfect handmade crayon drawing quality, gentle warm lighting, nostalgic and extremely cute mood.",
+    "title": "Cute Oil Pastel Schoolgirl Portrait",
+    "description": "This prompt generates a nostalgic, adorable anime schoolgirl bust portrait in an oil pastel crayon style, useful for creating soft handmade character art with a playful censored-face composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367318637_zd2pgi_HG6VQpDboAAKvhH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16638,
+    "content": "A cute anime catgirl crouching low in a playful pose, drawn as a hand-made oil pastel illustration on textured off-white paper. She has long straight {argument name=\"hair color\" default=\"deep purple with lighter lavender ends\"} hair, large pointed orange cat ears on top of her head, and a striped orange-and-black cat tail curving in from the right side. Her outfit is a tiger-inspired bodysuit in vivid {argument name=\"outfit color\" default=\"bright orange\"} with bold black accents: long fitted sleeves, a dark black chest and torso panel, orange legs, orange gloves, and a soft pale pink patch on the hip and upper thigh area. She is squatting with one knee raised, one hand touching the ground in front of her, and the other hand lifted in a salute near her forehead, facing the viewer with a mischievous, energetic feel. Render the whole image in rough crayon-like oil pastel strokes with visible grain, uneven sketchy black outlines, scribbled color fill, and childlike analog texture. Use a warm pastel palette with orange as the dominant color, purple hair, soft pink scribbled background shading, and a purple-blue scribbled shadow beneath her. Keep the composition as a single centered full-body character on paper, whimsical, charming, slightly messy, and irresistibly cute, like an expressive pastel doodle illustration.",
+    "title": "Oil Pastel Anime Catgirl",
+    "description": "This prompt generates a cute full-body anime catgirl in a tiger-themed outfit rendered as a textured oil pastel crayon drawing, ideal for playful character art and stylized social posts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367317158_w2m0tk_HG6T3x3bQAADPQa.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16530,
+    "content": "A Pixar-style 3D character portrait of a {argument name=\"subject description\" default=\"young person with delicate skin, large and agile blue eyes, soft facial features, and transparent round-frame glasses\"}. Featuring a {argument name=\"hair style\" default=\"modern short hairstyle\"}, wearing a {argument name=\"clothing\" default=\"simple hoodie\"}, with the head slightly tilted and a warm, friendly smile. The scene is minimalist and clean, with an {argument name=\"background color\" default=\"orange-pink gradient background\"}, soft studio lighting, distinct rim lighting, cinematic depth of field, ultra-fine details, 8K resolution, and Octane rendering effect.",
+    "title": "Pixar Style 3D Character Portrait",
+    "description": "A high-resolution, cinema-quality prompt for creating a cute 3D character portrait in the style of Pixar, featuring soft lighting and a gradient background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367275014_hzdgfd_HG6UkEOa4AA6hVG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16521,
+    "content": "A cinematic night street portrait of a young woman standing in a bustling city illuminated by neon lights. She has long slightly messy dark hair with soft bangs, wearing a {argument name=\"clothing\" default=\"black leather jacket\"}. She turns her head toward the camera with a calm, slightly intense expression. The scene is lit with contrasting {argument name=\"lighting colors\" default=\"red and blue neon lighting\"} casting dramatic highlights on her face and hair. Background filled with soft bokeh from streetlights, cars, and neon signs, creating a {argument name=\"setting style\" default=\"Tokyo cyberpunk vibe\"}. Shallow depth of field, 85mm lens look, ultra-realistic skin texture, cinematic color grading, moody atmosphere, high detail, 8K, professional photography.",
+    "title": "Cyberpunk Neon Portrait",
+    "description": "A cinematic night portrait prompt featuring neon lighting and Tokyo cyberpunk aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367271042_7nclyu_HG5-cOFbgAA9-hL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16617,
+    "content": "Using the provided reference image as the base for the man, transform it into a realistic casual smartphone photo collage showing him as if he has a girlfriend. Keep his identity, hairstyle, age, white sweatshirt, and candid non-model look consistent, but place him together with a young woman across 16 square snapshots arranged in a 4x4 grid with thin white borders. Add exactly 1 recurring female companion with long dark hair, styled like a real person rather than a glam model, and vary her outfits subtly across the collage, including a cream knit cardigan, a dark top, and a muted blue top. Make the photos feel like authentic couple memories shot on a phone: close mirror selfie together, dark blurry selfie, indoor peace-sign selfie, night street selfie, motion-blur closeup, outdoor daytime shot under a tree, indoor shoulder-leaning shot, another blurry affectionate shot, seated restaurant shot with glasses on the table, warm night bokeh shot, rooftop or balcony mirror selfie with city lights, nighttime urban walking shot, cozy leaning-together shot, shoulder-around pose, close side-by-side portrait, and another intimate close crop. Mix indoor home scenes, nighttime city scenes, one daytime outdoor scene, and one restaurant setting. Use imperfect framing, slight blur, flash, grain, and spontaneous candid composition so it feels like a real person's saved couple photo dump, not a polished campaign.",
+    "title": "Fake Couple Photo Dump Collage",
+    "description": "This prompt turns a single personal reference photo into a believable 16-image smartphone collage of candid couple memories, useful for 'what if' lifestyle edits and fake relationship photo dumps.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367309247_q7gtvo_HG5mHbSa0AAZdHQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16305,
     "content": "A polished studio head-and-shoulders LinkedIn profile portrait of a {argument name=\"subject gender\" default=\"man\"} centered in frame, facing straight toward the camera with a neutral, confident expression, cropped from the upper chest to just above the head. He has short {argument name=\"hair color\" default=\"dark brown\"} hair with a slightly textured top, visible ears, and light stubble beard along the jaw and chin. He wears 2 clothing layers: a dark charcoal tailored blazer over a plain white crew-neck t-shirt. The background is a deep black seamless studio backdrop with a subtle soft vignette and no visible props. Use professional corporate portrait photography styling, soft directional key light from above and slightly to one side, gentle rim separation on the shoulders and hair, realistic skin texture, sharp focus on clothing and neck, shallow depth of field, high contrast, clean premium retouching, natural color grading, and a modern executive-yet-approachable look suitable for a {argument name=\"platform\" default=\"LinkedIn\"} profile photo. Compose it symmetrically, minimal and elegant, with the subject isolated against the dark background, photographed as if with an 85mm lens in a high-end studio.",
     "title": "Professional Dark-Background LinkedIn Portrait",
@@ -8,6 +201,37 @@
       "https://cms-assets.youmind.com/media/1777280787727_qjvj0c_HG5c1BRWsAAJCl_.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 16478,
+    "content": "Create an image using the uploaded image.\n\nUltra-detailed, hyper-realistic, 3d pixar portrait of a {argument name=\"gender\" default=\"young child\"}, preserving the exact facial identity, structure, and proportions from the reference image with high fidelity.\n\nPose (must match exactly):\nChild is sitting on the floor with legs crossed. One elbow is resting on the knee, with the hand supporting the side of the face (cheek pressed into palm). The other hand rests relaxed near the ankle or shin. Head slightly tilted forward. Expression is mildly annoyed, pouting, or bored with furrowed brows and subtle frown. Eye contact directed toward camera.\n\nBody proportions:\nNatural child proportions with slightly stylized softness. Maintain realistic anatomy, no exaggeration.\n\nFace & expression:\nPreserve original eye shape, nose structure, lips, and skin tone. Expression should reflect subtle frustration or impatience (pout, slight brow tension).\n\nHair:\n{argument name=\"hair style\" default=\"medium to long natural hair, slightly tousled, soft volume\"}\n\nClothing:\nCasual modern outfit:\nRandom color long-sleeve sweater or similar soft fabric top\nDenim jeans (rolled cuffs optional)\nClean white sneakers\n\nLighting:\nSoft studio lighting, evenly diffused, gentle shadows under chin and body, smooth skin rendering without over-processing.\n\nBackground:\nMinimal clean studio backdrop (light grey or soft neutral tone), seamless and distraction-free.\n\nDetails:\nHighly detailed skin texture, realistic fabric folds, natural hair strands with subtle flyaways, crisp focus, 8k resolution feel.\n\nCamera:\nEye-level perspective, centered framing, shallow depth of field but subject fully sharp.\n\nVertical portrait composition, full frame height emphasis, cinematic poster layout.",
+    "title": "Pixar Style Identity Preservation",
+    "description": "A highly technical prompt for transforming a reference photo of a child into a 3D Pixar-style portrait while maintaining exact facial identity and pose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367251427_spjra7_HG4YQuMbQAApcgq.jpg",
+      "https://cms-assets.youmind.com/media/1777367252774_mlzvjz_HG4YQuAacAAAnDB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16483,
+    "content": "Ultra-realistic dynamic wide-angle selfie shot of a young man wearing {argument name=\"sunglasses style\" default=\"yellow-tinted rectangular sunglasses\"}, a {argument name=\"jacket type\" default=\"dark denim jacket\"} over a {argument name=\"shirt color\" default=\"black t-shirt\"}.\n\nAction & Composition:\nShot from an extended arm perspective (selfie POV), slightly above eye level, with strong wide-angle lens distortion (action camera / 16–20mm look). The subject is riding fast while pushing a shopping cart filled with groceries, creating a sense of motion and chaos. His mouth is open in an excited, adrenaline-filled expression, looking directly into the camera.\n\nScene Details:\nOutdoor parking lot environment in daylight, with parked cars, industrial buildings, and a wide open asphalt space. A dog is running alongside the subject, slightly behind, mid-stride, adding energy and spontaneity to the scene.\n\nMotion & Effects:\nHeavy motion blur and radial blur in the background to emphasize speed. Foreground remains sharp while surroundings streak outward. Subtle camera shake for realism.\n\nLighting:\nNatural daylight, slightly warm tones, soft shadows, realistic highlights on skin and metallic surfaces.\n\nStyle & Aesthetic:\nCinematic action snapshot, candid lifestyle photography, high-energy street moment, vlog-style realism mixed with commercial polish. Slight HDR, high contrast, ultra-detailed textures, sharp focus on subject.\n\nMood:\nChaotic, fun, spontaneous, rebellious, high-adrenaline moment.\n\nTechnical Keywords:\nwide-angle lens, action cam perspective, motion blur, radial zoom blur, dynamic framing, handheld shot, 8K, ultra-realistic, photorealistic, high detail.",
+    "title": "Realistic Action Selfie with Shopping Cart",
+    "description": "A dynamic wide-angle selfie prompt featuring a person riding a shopping cart in a parking lot, designed for high-energy motion and realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367255492_av60ot_HG4SUFjboAEavbh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16543,
+    "content": "A grid-split layout of {argument name=\"scene\" default=\"shaky, poorly taken nostalgic photos shot with an emotional filter camera, showing selfies\"} (with variations in clothing and locations for the same person), scenery, and cafe photos. An {argument name=\"platform\" default=\"Instagram\"} profile screen screenshot.",
+    "title": "Instagram Profile Grid Aesthetic",
+    "description": "A prompt designed to generate an Instagram profile screen layout featuring shaky, nostalgic-filtered selfies and cafe scenery to simulate a social media feed.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367279873_tm3uqp_HG4QzpGboAAtchg.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 16415,

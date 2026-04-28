@@ -1,5 +1,585 @@
 [
   {
+    "id": 16533,
+    "content": "{argument name=\"aspect ratio\" default=\"16:9 landscape\"}. {argument name=\"model\" default=\"A model girl\"} is being asked by an entertainment reporter about {argument name=\"interview topic\" default=\"a romantic relationship with another male celebrity\"}. During a TV interview, a caption saying \"{argument name=\"caption\" default=\"It's a secret❤\"}\" is added to the screen. The screen is a talk show layout with a picture-in-picture window in the bottom left and a time display in the top right. Configure the screen with captions like 'Breaking News' or 'Exclusive Interview'. The model girl says, 'It's a secret❤' with an appropriate pose, putting a forefinger to her mouth and winking with one eye.",
+    "title": "TV Interview Scene with Captions",
+    "description": "A prompt for generating a wide-screen TV interview scene with specific UI elements like wipes, time displays, and news tickers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367276002_b3pk02_HG8pBwzaoAARCOU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16711,
+    "content": "A realistic overhead photo of a childlike crayon drawing on a slightly wrinkled white sheet of paper placed on a wooden tabletop. The drawing shows a simple portrait of {argument name=\"character\" default=\"Donald Trump\"} in a naive elementary-school style, with messy yellow crayon hair, peach-colored skin, large ears, a blue suit jacket, white shirt collar, and a red necktie. The face is front-facing and fills most of the page, with one raised hand on the left side of the paper making a rude gesture with the middle finger extended. The linework is uneven black pencil or crayon outline, and the coloring is rough, scribbly, and intentionally clumsy, with visible childlike strokes that go outside the lines. On the right side of the page, there is vertical handwritten Japanese text in black that reads {argument name=\"side text\" default=\"とらんぷさん\"}. The composition is a candid smartphone snapshot, not a clean scan, showing the entire sheet of paper, slight perspective distortion, soft indoor lighting, and the texture of the wooden surface around the page. Emphasize the authentic handmade crayon texture, awkward proportions, and convincing “bad but charming” children’s artwork aesthetic.",
+    "title": "Childlike Crayon Portrait on Paper",
+    "description": "This prompt generates a realistic photo of a messy children's crayon drawing on paper, useful for recreating handmade naive artwork with a humorous school-project feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367347456_i333ek_HG8pqG3bIAAuwOZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16645,
+    "content": "A warm, cozy Japanese home evening scene photographed in a natural lifestyle style. In the foreground, a right hand holds up a tall clear pint glass of golden beer with a thick creamy white foam head, positioned slightly right of center as if making a solo toast. In the softly blurred background, a small clay pot of oden simmers on a portable tabletop gas stove, with clearly visible ingredients including 1 shiitake mushroom, 2 round white items, several tofu pieces, and other assorted simmered items in broth. The setting is a tatami room with warm ambient indoor lighting, shallow depth of field, and a relaxed intimate atmosphere. Overlay large white handwritten Japanese text across the image reading {argument name=\"message text\" default=\"今日も\\nおつかれさま。\"}, in an emotional hand-drawn marker style with uneven strokes, casual spacing, and a personal note-like feel. Emphasize comforting colors, soft bokeh, realistic skin tones, and the contrast between the crisp beer glass and the gently out-of-focus hot pot behind it.",
+    "title": "Cozy Beer Toast with Oden",
+    "description": "A warm Japanese home-style evening photo with a hand holding beer in front of simmering oden, ideal for comforting social posts or handwritten-message lifestyle visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367320346_2gg269_G6G78ECakAAaHoY.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16644,
+    "content": "A dreamy minimalist square image of a single iridescent soap bubble floating in the center against a deep blue soft-focus background, with bright natural sunlight pouring from the upper left and creating delicate lens flare, circular bokeh, and glowing highlights. The main bubble is sharply rendered with rainbow reflections and a tiny star-like sparkle on its lower right edge, while 6 additional out-of-focus bubbles appear around the frame: 1 large partial bubble at the lower left corner, 1 small bubble near the upper center, 1 faint bubble at the left middle, and 3 soft glowing bubbles clustered along the lower middle to lower right area. Across the center, overlay large handwritten Japanese brush-style text in white that reads {argument name=\"headline text\" default=\"はじける泡。\"}, with an emotional hand-drawn ink feel, slightly uneven strokes, and natural organic spacing. The overall mood is poetic, airy, luminous, and nostalgic, with shallow depth of field, premium photography aesthetics, clean composition, and strong contrast between the crisp central bubble and the blurred dreamy background.",
+    "title": "Dreamy Bubble with Handwritten Japanese Text",
+    "description": "This prompt generates a poetic bubble photograph with glowing bokeh and expressive handwritten Japanese text, suitable for emotional social media visuals or atmospheric cover art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367319860_o5bvou_G6G78D_bIAAIjjV.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16643,
+    "content": "A warm, shallow-depth-of-field autumn photograph of multiple fallen maple leaves scattered across dark asphalt pavement in bright golden sunlight. The leaves are mostly yellow, orange, and amber, with one prominent vivid orange leaf in the left foreground and several yellow leaves stretching diagonally into the distance. The camera is low to the ground, close-up, with crisp focus on the central foreground leaves and soft bokeh blur in the background and extreme foreground. Across the middle of the image, overlay large delicate handwritten Japanese text in white, thin brush-pen style, slightly irregular and emotional, reading {argument name=\"overlay text\" default=\"今日も、寒いね。\"}. Natural outdoor lighting, cozy seasonal mood, realistic textures, high contrast between sunlit leaves and rough pavement, square composition, poetic social-media aesthetic.",
+    "title": "Autumn Leaves with Handwritten Japanese Text",
+    "description": "This prompt generates a cozy autumn close-up photo of fallen maple leaves on pavement with expressive white handwritten Japanese text, ideal for seasonal quote posts or poetic social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367319655_s5reqw_G6G78EDasAAxcde.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16642,
+    "content": "A moody square winter photograph looking straight up at an overcast gray-blue sky during active snowfall, framed on all sides by tall leafless trees with dark bare branches reaching inward from the edges to create a circular canopy. Snowflakes of many sizes are falling across the entire image, with some large soft blurred flakes close to the lens and many smaller sharp flakes scattered deeper in the scene, creating a dreamy atmospheric depth. At the very bottom edge, faint silhouettes of shorter winter trees and a subtle warm amber streetlight glow appear near the lower right, while the rest of the image stays cold, muted, and dim like dusk or early evening. Across the center, overlay large emotionally expressive Japanese handwritten brush-pen style text in white, slightly uneven and natural, reading {argument name=\"quote\" default=\"また、この季節がやってくる。\"}, with a human handwritten feel, soft edges, moderate stroke variation, and casual line breaks spread over the middle of the sky. Emphasize melancholic nostalgia, poetic Japanese winter atmosphere, cinematic minimalism, realistic photography, and authentic hand-drawn lettering integrated cleanly over the snowfall.",
+    "title": "Snowy Sky with Handwritten Japanese Text",
+    "description": "This generates a poetic winter sky photograph with falling snow, tree silhouettes, and expressive handwritten Japanese text, ideal for emotional social media posts or seasonal visual quotes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367319625_pqoiwq_G6G78EAbQAAgNdV.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16636,
+    "content": "A lively hand-drawn fashion portrait in a changed illustration style, made to look like a signed fan-art sketch drawn with markers on a square white shikishi board with a thin gold border. Show a stylish young woman from about the waist up, leaning slightly forward with one elbow resting up near her face in a casual, friendly pose. Her face area is covered by a simple rectangular censor block in a muted beige tone. She has shoulder-length medium brown hair with warm highlights, soft volume, side-swept bangs, and flipped-out ends. Render the art with expressive black ink outlines, visible marker strokes, watercolor-like blending, sketchy hatching, and an energetic, vivid handmade feel. She wears a fitted dark gray ribbed long-sleeve knit top with subtle puffed shoulders, layered delicate gold necklaces, a dangling pearl earring, a beige crossbody bag strap running diagonally across her chest, and a light beige skirt or dress visible at the waist. Leave plenty of clean white background around the figure. Add 2 small sparkle doodles on the left side. Add handwritten Japanese thank-you messages and signature-style black ink writing around the portrait: at upper right write {argument name=\"top message\" default=\"ありがとう！\"} with an underline and a small heart, beneath it place a large stylized autograph reading {argument name=\"signature name\" default=\"Yui\"} with a smiling face mark and a heart, at lower left write {argument name=\"side message\" default=\"いつも応援してくれてありがとう♡\"}, and at lower right write the date {argument name=\"date\" default=\"2024.5.20\"} with another heart. The overall image should feel warm, personal, lively, and like a celebratory signed illustration on a square autograph board.",
+    "title": "Signed Marker Portrait on Shikishi",
+    "description": "This generates a lively signed marker-style portrait on a square shikishi board, useful for fan-art autographs, commemorative illustration posts, and personalized thank-you visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367317129_2rohn0_HG8hIdab0AAwzdp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16681,
+    "content": "A candid smartphone photo of a young East Asian woman sitting at a small table inside a casual Taiwanese breakfast shop, medium shot in vertical 9:16 composition. She has shoulder-length straight dark brown to black hair with a side part and is wearing a fitted ribbed camisole in {argument name=\"top color\" default=\"light gray\"}, high-waisted light blue denim shorts, and a loose sheer white cardigan slipping off both shoulders. She is seated on a black chair and holding a foil-wrapped breakfast rice roll or sandwich with both hands close to her mouth as if about to take a bite. Her body is angled slightly to the right, with a relaxed, natural pose and a soft lifestyle-photo aesthetic. Place a large rectangular blur censor block over her face, centered and covering the entire face area. On the table in the lower left foreground, include 1 large takeaway cup with a plastic lid and 1 red straw. In the background, show the open storefront interior of a traditional breakfast stall with stainless steel counters, a glass warming display, condiment bottles, 1 worker behind the counter, 1 wall fan, and overhead menu boards with red and blue Chinese characters and prices. Also include a glass door on the left with Chinese signage and hours posted. Lighting should be natural daylight, slightly soft, with realistic skin tones, casual street-photo realism, shallow depth but still readable background details, authentic urban Taiwan eatery atmosphere.",
+    "title": "Candid Breakfast Shop Portrait",
+    "description": "This prompt generates a realistic vertical lifestyle photo of a woman eating at a Taiwanese breakfast shop, useful for casual social-media or street-photography style imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367334440_sshaov_HG8hjC2bMAAtSLf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16680,
+    "content": "A candid street-side cafe photo of a young East Asian woman seated at a small round table inside a modest Taiwanese breakfast shop, shot in bright natural daylight with realistic smartphone-camera styling. She has long dark brown to black wavy hair draped over her shoulders and back, a slim curvy figure, and wears a fitted white ribbed scoop-neck crop tank top and light gray drawstring sweatpants, plus a very delicate necklace. She is sitting slightly leaned forward toward the camera, with one hand holding a Taiwanese rice roll wrapped in clear plastic close to her mouth as if about to take a bite. Her face is intentionally obscured by a large rectangular blur block centered over the face. On the table in the lower left foreground is 1 large plastic takeaway cup with a sealed lid and straw, filled with a light beige milk tea or soy milk drink, printed with cute cartoon characters and small Chinese text. Also on the table is 1 white paper food bag with orange printing. The setting is a real casual breakfast shop interior: at the far left is a window opening to the street with daylight, leafy shadows, parked scooters, and a white car visible outside; on the left wall is 1 vertical vintage menu sign with multicolored Chinese characters listing breakfast items and drinks; along the top background is 1 wide horizontal menu board filled with many rows of blue and red Chinese text and prices; in the back right is an open stainless-steel kitchen counter area with 1 blurred worker standing behind it and additional Chinese signage on the metal fixtures. Composition is medium shot, centered on the seated woman, with soft natural shadows, slightly warm tones, realistic skin texture, everyday documentary atmosphere, and an authentic Taiwanese local eatery aesthetic.",
+    "title": "Taiwan Breakfast Shop Candid Portrait",
+    "description": "This generates a realistic candid photo of a woman eating in a Taiwanese breakfast shop, useful for lifestyle, cafe, or street-photography-style scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367334341_u2qil2_HG8hi6vb0AAljm3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16679,
+    "content": "A candid street-food cafe photo in a narrow old Taiwanese breakfast shop, shot in a realistic smartphone-photo style with soft natural daylight and a slightly warm documentary look. A young East Asian woman with {argument name=\"hair color\" default=\"black\"} shoulder-length straight hair sits on a small red plastic stool at a red laminate table, facing the camera and holding a hot scallion pancake wrap with both hands at chest height. Her face is intentionally obscured with a large soft blurred rectangle. She wears a white camisole with thin straps and tiny bow details, light blue high-waisted denim shorts, and a silver heart pendant necklace. Her pose is relaxed, seated slightly angled, with bare legs visible under the table. On the table are exactly 2 white plates of sliced stuffed scallion pancakes, 1 steaming paper cup with red Chinese text, 1 white bowl of soup with dark greens and tofu or curd pieces and a white soup spoon, plus scattered crumbs and paper wrappers. Steam should be clearly rising beside the cup and bowl. The food wrap in her hands looks overstuffed with egg, scallion pancake layers, and fillings peeking out. The background shows a busy, authentic local eatery interior: exactly 2 workers behind a glass display case, a Coca-Cola refrigerator, fluorescent tube lights overhead, an electric fan, tiled walls, and several Chinese menu signs and food posters with prices in New Taiwan dollars. Include visible traditional Chinese signage such as scallion pancakes, egg pancake rolls, soy milk, and prices around 30 to 55 yuan/TWD. Show a glass case on the right containing stacked fried dough sticks or pastries. On the left side, reveal part of the open storefront to the street with scooters and neighboring buildings faintly visible. Composition is vertical, full-body seated crop from head to knees, centered subject, shallow depth of field but enough detail to keep the shop readable, realistic skin tones, casual morning breakfast atmosphere, bustling everyday Taipei street-food aesthetic.",
+    "title": "Taiwan Breakfast Shop Candid Portrait",
+    "description": "This prompt generates a realistic vertical photo of a young woman eating breakfast in a busy Taiwanese street-side diner, ideal for lifestyle, travel, or food-scene imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367333404_5vgfp5_HG8hi45aQAALgGU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16678,
+    "content": "A candid smartphone photo of a young East Asian woman seated at a small round table inside a busy old-fashioned Taiwanese breakfast shop. She is the main subject, framed from mid-thigh upward, facing the camera in a casual seated pose. Her face is intentionally obscured with a soft rectangular blur. She has straight shoulder-length black hair with a center part, small gold hoop earrings, and a delicate gold necklace with a tiny heart pendant. She wears a fitted white spaghetti-strap tank top and high-waisted blue denim cutoff shorts with light distressing. In one hand she holds a piece of fried cruller near her mouth, and in the other hand she holds another broken piece over the table. On the table are 4 visible food and drink items: a plate with fried cruller pieces, a wrapped scallion pancake with black sesame seeds, a white foam takeout tray containing 2 pancakes including one covered with dark soy-based sauce and chopped scallions, and a large takeaway cup of soy milk with a red straw and red Chinese logo. The restaurant interior is compact and brightly lit with fluorescent ceiling lights, terrazzo-style flooring, and tightly packed diners in the background. Behind her are large windows and wall signage with bold red traditional Chinese characters, including breakfast items such as soy milk, youtiao, rice rolls, shaobing, and egg pancake. There are several seated customers eating, staff working behind a metal counter, a small wall-mounted television showing a female news anchor, and a hanging menu board with red Chinese text and prices. Realistic photography, natural indoor lighting, shallow depth of field, lively local atmosphere, slight wide-angle phone camera perspective, documentary food-travel aesthetic.",
+    "title": "Taiwan Breakfast Shop Candid Portrait",
+    "description": "This prompt generates a realistic candid photo of a woman eating traditional breakfast foods inside a bustling Taiwanese diner, ideal for lifestyle, food-travel, or street photography visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367333198_f62s4m_HG8hi45aUAApB2i.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16650,
+    "content": "A bright anime-style fantasy travel scene in front of Niseko View Plaza in Hokkaido, with a clear blue sky, scattered white clouds, and a huge snow-capped mountain rising in the background. The setting is a roadside plaza parking area with a modern black-and-wood station building on the left, visible Japanese signage reading \"道の駅 ニセコビュープラザ\" and \"Niseko View Plaza,\" a vertical banner reading \"ようこそ ニセコへ,\" a tall food sign reading \"名物 じゃがいも,\" and a dark wayfinding sign on the right reading \"ニセコ Niseko\" with 4 listed icons and labels: \"名産品 Local Products,\" \"農産物直売所 Farmer's Market,\" \"レストラン Restaurant,\" and \"情報コーナー Information.\" In the center, a glamorous fox-eared anime girl sits sideways atop a giant iridescent translucent soap bubble, smiling and gesturing upward with one hand. She has {argument name=\"hair color\" default=\"shimmering pastel silver-lilac\"} very long wavy hair, large fluffy fox ears, and a huge fluffy fox tail with rainbow-reflective highlights. Her outfit is an elaborate sparkling translucent-white and pale blue dress with holographic sheen, layered sleeves, gemstone accents, ribbons, and glossy lace-up ankle boots with bows, giving her a magical bubble-fox idol appearance. Around her float multiple smaller soap bubbles, catching rainbow light. Three fox-girl friends gather around meeting her at the plaza: 1 dark-haired fox-eared girl in a navy jacket with a Niseko patch, holding a vanilla soft-serve ice cream and looking toward the center; 1 khaki-clad fox-eared girl in an outdoor jacket and a dark cap with \"HOTEL\" lettering, holding a grilled corn cob; and 1 white-haired fox-eared girl in a shiny pearly hooded jacket and beret, holding a takeaway coffee cup and wearing a black backpack. Emphasize a cheerful reunion mood, travel photography composition blended with polished anime illustration, detailed environmental signage, reflective bubble surfaces, soft sunlight, crisp mountain air, and high-detail painterly rendering.",
+    "title": "Bubble Fox Friends Meet in Niseko",
+    "description": "This prompt generates a detailed anime travel illustration of fox girls reuniting at Niseko View Plaza with iridescent soap bubbles and a dramatic mountain backdrop, ideal for scenic character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367322024_6jvsd1_HG8Mj2_aQAAqNxU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16512,
+    "content": "{ \n  \"scene_type\": \"smartphone fashion portrait series\",\n  \"composition\": {\n    \"layout\": \"4-photo grid collage\",\n    \"camera\": \"smartphone photography\",\n    \"framing\": [\n      \"full body standing\",\n      \"crouching pose\",\n      \"casual seated pose\",\n      \"upper body portrait\"\n    ],\n    \"angle\": \"eye-level, natural perspective\",\n    \"aspect_ratio\": \"1:1 collage\"\n  },\n  \"subject\": {\n    \"gender\": \"{argument name=\"gender\" default=\"female\"}\",\n    \"age\": \"{argument name=\"age\" default=\"early 20s\"}\",\n    \"aesthetic\": \"extremely beautiful, sensual, candid\",\n    \"appearance\": {\n      \"skin_tone\": \"smooth light complexion\",\n      \"face\": \"soft feminine features, natural symmetry, bright smile\",\n      \"expression\": \"playful, warm, confident, subtly sensual\",\n      \"eyes\": \"expressive, gentle gaze\",\n      \"hair\": {\n        \"color\": \"{argument name=\"hair color\" default=\"deep black\"}\",\n        \"style\": \"long, loose waves\",\n        \"texture\": \"soft, natural shine\"\n      },\n      \"makeup\": \"natural glam, dewy skin, soft blush, subtle lip tint\"\n    },\n    \"outfit\": {\n      \"top\": \"white fitted sleeveless crop top\",\n      \"bottom\": \"loose straight-leg blue jeans\",\n      \"shoes\": \"casual white sneakers\",\n      \"style\": \"minimal, effortless, modern casual\"\n    },\n    \"pose_style\": \"relaxed, candid, playful fashion poses\",\n    \"body_language\": \"confident yet soft, natural movements, gentle sensual elegance\"\n  },\n  \"environment\": {\n    \"location\": \"minimal studio backdrop\",\n    \"background\": \"clean light gray seamless wall\",\n    \"floor\": \"neutral studio floor\",\n    \"lighting\": {\n      \"type\": \"soft diffused studio lighting\",\n      \"tone\": \"neutral\",\n      \"shadows\": \"soft and natural\",\n      \"highlights\": \"subtle skin glow\"\n    }\n  },\n  \"style\": {\n    \"photography_type\": \"smartphone editorial fashion\",\n    \"visual_tone\": \"minimalist, airy, modern\",\n    \"mood\": \"candid, sensual elegance, fresh and confident\",\n    \"color_palette\": \"white, denim blue, soft gray\",\n    \"contrast\": \"low to medium\",\n    \"grain\": \"very light natural grain\"\n  },\n  \"rendering\": {\n    \"realism\": \"ultra-realistic\",\n    \"detail_level\": \"high skin and fabric texture detail\",\n    \"sharpness\": \"high\",\n    \"depth_of_field\": \"natural\",\n    \"post_processing\": \"minimal, clean, slightly soft finish\"\n  },\n  \"atmosphere\": \"modern, youthful, effortless beauty, subtle sensual charm\"\n}",
+    "title": "Casual Fashion Grid Photoshoot",
+    "description": "A structured JSON prompt for a 4-photo collage of a casual fashion photoshoot with detailed subject and lighting parameters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367267771_teyn0r_HG74_nJaoAEM5oD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16592,
+    "content": "A highly detailed anime fantasy illustration of a tall elegant woman resembling an ice sorceress or qilin-inspired warrior, shown in a full-body three-quarter back view with her head turned slightly away, standing in a luminous snowy mountain landscape filled with soft pink cherry blossoms. She has {argument name=\"hair color\" default=\"very light icy blue\"} hair, extremely long, thick, and flowing in the wind with layered strands, soft bangs, curled tips, and a loose ahoge on top. Two dark curved horn-like ornaments with subtle red patterning rise from either side of her head. Her face is obscured by a flat rectangular blur block in a pale lavender-gray tone. She wears an ornate fantasy bodysuit and dress in black, white, periwinkle, and sapphire blue with gold filigree armor details: a black fitted chest piece, detached translucent bell sleeves with blue crystal-like feather cuffs, a backless white-and-blue upper garment, intricate gold waist armor with a glowing blue gemstone centerpiece, sheer black tights with gold geometric accents, layered translucent blue fabric panels, and exactly 3 visible red tassel ornaments hanging from the waist and side sashes. Her right arm is extended with an open gloved hand, levitating a glowing translucent blue water sphere containing swirling yin-yang-like currents. Around her are curling arcs of water and icy energy ribbons. The background is a dreamy ethereal alpine scene with 1 distant pagoda-like tower on the right, misty snow-covered peaks, frosted trees, sparkling atmosphere, drifting petals, and pastel blossom clusters framing the foreground and upper left corner. Use soft radiant backlighting, iridescent highlights, polished anime rendering, delicate gradients, crisp decorative costume detail, magical fantasy mood, cool blue and lavender palette with pink accents, vertical composition, no text, no extra characters.",
+    "title": "Icy Fantasy Anime Woman in Blossom Snow",
+    "description": "This prompt generates a polished vertical anime-style fantasy character illustration, ideal for character art, wallpaper, or magic-themed concept imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367299249_eowb8q_HG7uRRjbEAA7GaR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16736,
+    "content": "A dramatic Brazilian political campaign poster in a square social-media format, hyper-stylized and cinematic, with a dark blue and black color grade, intense contrast, gritty textures, and heroic propaganda-poster composition. On the right half, a middle-aged man wearing a bright royal-blue polo shirt faces the camera from the chest up, extending one hand toward the viewer and prominently holding a blue ballpoint pen upright as the central symbolic object. His pose is confident, assertive, and campaign-like, with the pen close to the lens for forced perspective. Behind him, two large waving flags fill the upper background: the Puerto Rico flag on the upper left side behind the subject and the Brazil flag on the upper right side. The lower background shows a dark crowd silhouette and a distant city skyline at sunset with glowing orange light on the horizon, adding a rally atmosphere. On the left side, create a vertical stack of 4 bold campaign statements, each preceded by a large blue X marker. The 4 text blocks must read exactly: \"ELE NÃO TEM A MIDIA\", \"ELE NÃO TEM PROJETOS\", \"ELE TAMBÉM NÃO TEM O POVO\", and \"O RESTO ELE VAI DESCOBRIR NA HORA\". Use condensed uppercase typography, mixing white and electric blue emphasis words, with each statement separated by thin horizontal blue divider lines. At the bottom, place an oversized distressed headline in uppercase reading \"CANETA AZUL\", with \"CANETA\" in weathered white and \"AZUL\" in vivid blue, spanning almost the full width. Below it, add a secondary subtitle in uppercase blue italic condensed text reading \"PARA DEPUTADO\", flanked by thin blue horizontal lines. The overall design should feel like a viral meme campaign ad, bold, satirical, aggressive, and highly shareable, with dramatic rim lighting, sharpened details, realistic skin and fabric texture, and polished poster-quality compositing.",
+    "title": "Blue Pen Campaign Poster",
+    "description": "This prompt generates a dramatic meme-style political campaign poster for social media featuring a man holding a blue pen, bold Portuguese slogans, and Brazilian patriotic visual cues.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367357213_w2pgi3_HG7lLOzbsAAJuJy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16739,
+    "content": "{\"type\":\"Arabic typography infographic poster\",\"style\":\"clean modern social-media infographic, soft light gray background, rounded white cards with subtle shadows, bold colorful headers, polished vector design, high readability\",\"canvas\":{\"aspect_ratio\":\"1:1\",\"composition\":\"centered poster with title at top, six typography cards in a 3x2 grid, and a bottom benefits bar\"},\"text_language\":\"Arabic\",\"title_block\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"أنواع الخطوط العربية\\\"}\",\"subheadline\":\"{argument name=\\\"subtitle text\\\" default=\\\"تعرف على أشهر الخطوط العربية واستخداماتها\\\"}\",\"decorative_elements_count\":6,\"decorative_elements\":\"small colored dots and divider ornaments beneath the title\"},\"layout\":{\"sections\":[{\"title\":\"01 خط كوفي\",\"position\":\"top-left\",\"count\":1,\"card_style\":\"teal header and accents\",\"main_word\":\"كوفي\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"الشعارات، التصاميم الهندسية، العناوين.\",\"features_title\":\"المميزات:\",\"features_text\":\"هندسي، واضح، قوي بصريًا.\",\"icon_count\":2,\"icons\":[\"hourglass-like emblem\",\"diamond\"]},{\"title\":\"02 خط ديواني\",\"position\":\"top-center\",\"count\":1,\"card_style\":\"blue header and accents\",\"main_word\":\"ديواني\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"الدعوات، التصاميم الرسمية، الشعارات.\",\"features_title\":\"المميزات:\",\"features_text\":\"منحني، فاخر، أنيق.\",\"icon_count\":2,\"icons\":[\"document or framed text icon\",\"crown\"]},{\"title\":\"03 خط ثلث\",\"position\":\"top-right\",\"count\":1,\"card_style\":\"purple header and accents\",\"main_word\":\"ثلث\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"العناوين الكبيرة، اللوحات الفنية، الأظرف.\",\"features_title\":\"المميزات:\",\"features_text\":\"فني، مهيب، زخرفي.\",\"icon_count\":2,\"icons\":[\"framed picture\",\"star\"]},{\"title\":\"04 خط نسخ\",\"position\":\"bottom-left\",\"count\":1,\"card_style\":\"green header and accents\",\"main_word\":\"نسخ\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"الكتب، الجرائد، النصوص الطويلة.\",\"features_title\":\"المميزات:\",\"features_text\":\"واضح، سهل القراءة، منظم.\",\"icon_count\":2,\"icons\":[\"open book\",\"check mark in circle\"]},{\"title\":\"05 خط رقعة\",\"position\":\"bottom-center\",\"count\":1,\"card_style\":\"orange header and accents\",\"main_word\":\"رقعة\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"الملاحظات السريعة، العناوين البسيطة.\",\"features_title\":\"المميزات:\",\"features_text\":\"سريع، بسيط، عملي.\",\"icon_count\":2,\"icons\":[\"pen nib\",\"lightning bolt\"]},{\"title\":\"06 خط حديث\",\"position\":\"bottom-right\",\"count\":1,\"card_style\":\"pink header and accents\",\"main_word\":\"حديث\",\"usage_title\":\"الاستخدام:\",\"usage_text\":\"التصاميم الحديثة، الإنفوجرافيك، السوشيال ميديا.\",\"features_title\":\"المميزات:\",\"features_text\":\"عصري، نظيف، مناسب للشاشات.\",\"icon_count\":2,\"icons\":[\"computer monitor\",\"thumbs up\"]}],\"bottom_bar\":{\"title\":\"{argument name=\\\"footer question\\\" default=\\\"لماذا يهم اختيار الخط المناسب؟\\\"}\",\"count\":4,\"items\":[{\"icon\":\"eye\",\"text\":\"يحسن الوضوح\"},{\"icon\":\"award badge\",\"text\":\"يعزز هوية التصميم\"},{\"icon\":\"group of people\",\"text\":\"يجذب الانتباه ويوثر\"},{\"icon\":\"orange check mark\",\"text\":\"يوصل رسالتك باحترافية\"}]},\"branding\":{\"count\":1,\"label\":\"{argument name=\\\"brand name\\\" default=\\\"Ksa8Turky\\\"}\",\"position\":\"bottom center in a dark rounded pill\"}},\"visual_details\":{\"card_count\":6,\"corners\":\"large rounded corners\",\"shadow\":\"soft diffuse drop shadows\",\"surface\":\"matte white panels\",\"typography\":\"bold Arabic display headline with darker navy tone, smaller Arabic body text, colorful calligraphic sample words centered in each card\",\"color_palette\":[\"teal\",\"blue\",\"purple\",\"green\",\"orange\",\"pink\",\"light gray\",\"white\",\"dark navy\"]}}",
+    "title": "Arabic Font Types Infographic",
+    "description": "A polished Arabic infographic poster showing six Arabic calligraphy and font styles with their uses, features, icons, and a bottom row explaining why font choice matters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367358617_z2hn2v_HG6FSQMaoAA_fq7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16727,
+    "content": "A high-fashion studio portrait of a seated woman in an ethereal bridal look against a seamless light gray background, framed vertically from headpiece to the trailing ends of her hair. She wears a flowing sleeveless white gown with a high gathered neckline, sheer pleated chiffon over the bodice, delicate white floral appliqué clustered at the neck, chest, waist, and upper skirt, and a soft draped skirt spread around her on the floor. Her hair is {argument name=\"hair color\" default=\"deep dark brown\"} and styled into 2 extremely long oversized bubble ponytails, one on each side, each segmented with white ties; the left ponytail shows 4 visible bubble sections and the right ponytail shows 3 visible bubble sections, with both tails extending onto the floor in thick glossy loops. She also wears an elaborate white fascinator hat tilted to one side, made of lace, netting, and sculptural floral details. Pose her leaning diagonally with one hand braced on the floor and the torso angled, creating an elegant editorial fashion posture. Keep the mood refined, bridal, and avant-garde, with soft diffused lighting, realistic skin texture, crisp textile detail, minimal shadows, and a clean luxury magazine aesthetic.",
+    "title": "Avant-Garde Bridal Portrait",
+    "description": "This prompt generates a refined studio fashion image of a woman in a sculptural white bridal gown with dramatic bubble ponytails, ideal for editorial or couture wedding visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367353969_7bdt2f_HG7F2m2bkAAZWrM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16726,
+    "content": "A high-fashion studio portrait of a young woman reclining sideways on the floor against a seamless light gray background, cropped from about the hat down to the hands, with the face intentionally obscured by a soft rectangular blur. She wears an elegant white dress with sheer ruched fabric, sculpted floral appliqués along both shoulder straps and the bodice, and a fitted, ethereal silhouette. Her hair is {argument name=\"hair color\" default=\"dark brown to black\"} and styled in 2 long bubble braids, one on each side, each tied off with multiple white bands creating rounded segments. She wears a dramatic white fascinator hat tilted to one side, made of layered mesh, netting, ribbon loops, lace trim, and several airy feather sprays. Pose her leaning on one forearm with the other hand extended near the lower edge of the frame, torso angled diagonally for a refined editorial composition. Use soft diffused studio lighting, smooth skin tones, minimal shadows, luxury bridal-fashion styling, monochrome white wardrobe accents, and a clean polished magazine aesthetic.",
+    "title": "Editorial Bridal Portrait with Fascinator",
+    "description": "This prompt generates a refined studio fashion portrait of a reclining woman in a white embellished dress and fascinator, ideal for bridal editorial or couture beauty imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367353692_mx9cwt_HG7F2mvboAAlqwo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16510,
+    "content": "A young woman with {argument name=\"hair color\" default=\"long red hair\"} sitting on a towel at a {argument name=\"location\" default=\"sunny beach\"}. She is wearing a {argument name=\"outfit\" default=\"fitted beige tank top and light blue denim shorts with a brown belt\"}. She holds sunglasses in one hand and looks off into the distance while the other hand rests in her hair. The background features soft sand, palm trees, and a clear blue sky with warm golden sunlight casting natural highlights. A small handbag sits beside her. The atmosphere is bright, summery, and relaxed.",
+    "title": "Summery Beach Portrait",
+    "description": "A prompt for generating a photorealistic, sun-kissed portrait of a woman relaxing at the beach during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367266697_38b7vc_HG7EF0DbIAEGn_1.jpg",
+      "https://cms-assets.youmind.com/media/1777367266811_yo18b9_HG7EF0Fa0AAYDPs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16479,
+    "content": "high contrast street silhouette, strong directional sunlight from doorway, deep shadow foreground, bright overexposed exterior, {argument name=\"action\" default=\"subject walking through doorway\"}, full body silhouette, clear outline, minimal detail, cinematic composition, urban street photography style --2:3",
+    "title": "High Contrast Urban Silhouette",
+    "description": "A prompt for street photography focusing on silhouettes, strong directional sunlight, and cinematic urban composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367254009_hz8595_HG7Db6HbMAASckt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16699,
+    "content": "A photorealistic narrow old alley tea-house scene in a dense East Asian neighborhood, shot at eye level with a slightly telephoto street-photography composition. The lane is cramped, damp, and richly layered with lived-in details: weathered storefronts, aged concrete and brick walls, tangled overhead wires, metal awnings, exposed pipes, hanging signs, and lush green vines and tree branches spilling in from above and along both sides. In the left foreground, place a rustic wooden table set for tea with exactly 1 metal kettle, 1 teapot, 1 tray of small blue-and-white porcelain teacups and small vessels, plus a few extra cups nearby; surround it with potted plants and stacked containers. Above and behind the table, hang exactly 3 illuminated vertical lantern-style signs with black Chinese calligraphy on warm cream paper, the largest reading 茶一味 and the others styled similarly, plus several darker wooden signboards with gold or light lettering. In the center of the alley, show white steam rising dramatically from a pot or food stall, partially obscuring stools and the passageway. On the right side, line up exactly 4 bicycles parked close together beside crates, baskets, and a black trash bin. Deeper in the alley, include exactly 4 visible people sitting or standing casually near tiny tables and stools, adding scale without dominating the image. The stone pavement should look wet and reflective, suggesting recent rain or humid weather. Lighting is soft natural daylight filtering from the bright opening at the far end of the alley, mixed with warm lantern glow, creating a moody cinematic contrast. Emphasize texture, authenticity, atmospheric depth, subtle haze, documentary realism, and a cozy hidden-gem tea-street feeling in {argument name=\"city style\" default=\"an old Chinese lane\"}.",
+    "title": "Atmospheric Tea Alley Street Scene",
+    "description": "This prompt generates a richly detailed photorealistic hidden tea-lane alley scene, ideal for cinematic street photography, travel visuals, or mood-driven editorial art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367342666_zuo8jk_HG7Cr4lbMAAuTiR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16580,
+    "content": "A cinematic wide shot of a lone astronaut standing on a rocky ledge and facing away from the camera, looking out across an immense red desert plain on a Mars-like planet. The astronaut is centered in the lower middle of the frame, wearing a realistic white EVA spacesuit with subtle gray panels, a life-support backpack, heavy boots, and dark gloves; the helmet is not visible from the front because the figure is seen from behind. The landscape is vast and barren, covered in rust-red dust, scattered stones, and low rock formations, with a rugged cliff edge on the left foreground, sparse rocky mounds across the middle distance, and hazy mountain ranges stretching along the far horizon. Use soft warm peach and terracotta tones, thin atmospheric haze, and gentle late-afternoon light that casts a long shadow behind the astronaut’s feet. The mood is solitary, awe-filled, and exploratory, like the opening frame of a sci-fi film about first contact with an alien world. Photorealistic, high detail, ultra-wide composition, natural cinematic color grading, epic scale, minimalism, no buildings, no vehicles, no text, no HUD, no other people.",
+    "title": "Astronaut on a Red Desert World",
+    "description": "This prompt generates a cinematic photorealistic sci-fi landscape of a solitary astronaut overlooking a vast Mars-like desert, ideal for storyboards, film keyframes, and space exploration visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367295076_j3s2y5_HG7B3ExaAAA6X4w.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16523,
+    "content": "A collage of 12 photos capturing {argument name=\"couple\" default=\"a young Japanese couple\"} traveling in {argument name=\"location\" default=\"Tokyo, Japan\"}. The images feel spontaneous, as if casually taken on a phone, with an emotional and nostalgic tone. The overall aesthetic has a faded film look, like fragments of memories. Scenes include: {argument name=\"scenes\" default=\"riding a scooter together along a coastal road, a distant view of the Eluanbi Lighthouse, neon lights on Kenting Night Market street, and a sunset at Baisha Bay\"}. Each frame resembles cinematic moments, with slight camera shake, imperfect composition, and a raw, everyday feel filled with grain and noise.",
+    "title": "Nostalgic Tokyo Travel Collage",
+    "description": "A prompt for generating a 12-photo collage with a nostalgic, faded film aesthetic capturing a couple's travels in Tokyo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367272344_9cqnx9_HG603f8awAAcN_D.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16569,
+    "content": "A surreal medium-format portrait of a woman standing on a narrow garden path surrounded by extremely dense foliage, photographed in a dreamlike false-color film look. She wears a plain bright saturated {argument name=\"shirt color\" default=\"red\"} crew-neck T-shirt and dark black fitted pants, with shoulder-length dark hair that is slightly tousled and parted off-center. Her pose is relaxed and natural, arms hanging loosely at her sides, body facing the camera with a subtle turn, framed from about mid-thigh upward. The setting is an overgrown botanical garden packed with ferns, ivy, shrubs, and flowering plants on both sides of the path; all vegetation is dramatically color-shifted from green into vivid magenta, lavender, pink, and deep purple, creating an unnatural LomoChrome Purple XR aesthetic. Keep the subject's shirt intensely saturated and realistic against the transformed environment for strong visual contrast. Use soft overcast daylight, shallow to moderate depth of field, and medium format rendering with a {argument name=\"camera\" default=\"Mamiya RB67\"} feel, shot with a {argument name=\"lens\" default=\"90mm lens\"} at {argument name=\"aperture\" default=\"f/5.6\"}. Include organic film grain, slight edge halation, gentle vignette, soft bloom in highlights, and subtle vintage film border edges. Composition should be vertical in a {argument name=\"aspect ratio\" default=\"6:7\"} frame, with the subject centered slightly left of the path, foreground and background foliage softly blurred while remaining lush and detailed, producing an eerie, romantic, otherworldly portrait.",
+    "title": "False-Color Garden Portrait",
+    "description": "This prompt generates a surreal medium-format portrait of a woman in a vivid red shirt standing in a lush garden transformed into magenta and purple false-color film tones, ideal for cinematic editorial or experimental photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367290173_4e95ft_HG6sE4iaYAAaXBM.jpg",
+      "https://cms-assets.youmind.com/media/1777367290165_xzmvue_HG6sE4ja4AEge2T.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16516,
+    "content": "Ultra-realistic conceptual portrait of a {argument name=\"subject\" default=\"young man with curly hair and light stubble\"}, wearing {argument name=\"accessories\" default=\"yellow-tinted rectangular sunglasses\"}, a beige minimal t-shirt, blue jeans, and off-white sneakers. He is sitting casually with a relaxed posture. The twist: he is seated on a large, hyper-realistic version of his own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept. Composition: centered, full-body shot, neutral studio background with soft beige tones, minimal aesthetic. Clean negative space. Typography integrated into the background: Handwritten-style text at the top: “HEAVY”; Below it, smaller text: “ON MY OWN MIND” with “MIND” crossed out; Large, rough, scribbled text in black: “{argument name=\"main text\" default=\"HEAD\"}”. Lighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality. Style: blend of surrealism and modern streetwear campaign, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture. Mood: introspective, mental weight, identity, self-awareness.",
+    "title": "Surreal Self-Reflection Portrait",
+    "description": "A creative prompt for a surreal portrait of a man sitting on a large version of his own detached head, styled as a minimalist streetwear campaign.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367269499_6d66p2_HG60dqobkAAOHTy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16631,
+    "content": "A realistic candid street photo of a young East Asian woman sitting at a glass-walled bus stop on a bright sunny day in Japan, framed as a vertical portrait from mid-thigh up. She has dark brown hair tied back in a low ponytail with soft side bangs and wears small dangling earrings, a fitted white camisole or tank top under a white blazer, and a high-waisted dark navy or black pencil skirt. Her posture is relaxed, seated slightly angled toward the camera with one shoulder closer, giving a polished office-worker look. Behind her on the left is a bus route timetable board filled with Japanese text and route numbers, including visible numbers like 226, 609, 670, 632, and 合D32. On the right side in the background, a blue city bus with a yellow roof is approaching or stopped along the curb, softly out of focus. The bus shelter has reflective glass panels, metal framing, and a bench, with a sunlit sidewalk, tree shadows, and urban buildings in the distance. Use natural midday lighting with crisp highlights and soft shadows, shallow depth of field, realistic skin and fabric textures, clean commercial photography style, high detail, DSLR-like bokeh. Replace the obscured face area with a natural, fully visible face of an attractive adult woman, keeping the expression calm and neutral. Use {argument name=\"outfit color\" default=\"white blazer with white top and dark skirt\"}, {argument name=\"hair color\" default=\"dark brown\"}, {argument name=\"location\" default=\"Japanese urban bus stop\"}, and {argument name=\"bus color\" default=\"blue with a yellow roof\"}.",
+    "title": "Realistic Woman at Japanese Bus Stop",
+    "description": "This prompt generates a realistic vertical street portrait of a stylish young woman seated at a sunlit Japanese bus stop, suitable for lifestyle, fashion, or urban commuting imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367314276_3u0rf9_HG6rZQgbQAE5V_B.jpg",
+      "https://cms-assets.youmind.com/media/1777367314329_m7ptak_HG6rZQfaMAAdHEm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16630,
+    "content": "A photorealistic vertical beach portrait of a young woman kneeling on pale sand while building sandcastles, shot in bright natural midday sunlight with a shallow depth of field. She has long dark brown hair tied in a high ponytail, a slim figure, and wears a short deep-blue sundress with thin spaghetti straps, a plunging neckline, and a softly flared skirt. She is leaning forward toward the camera in a playful candid pose, both hands shaping the sand in front of her. Add a delicate thin necklace with a tiny pendant and a subtle bracelet. Place exactly 5 sandcastle elements in the foreground: 2 taller turret-like sand towers on the right, 2 smaller rounded sand mounds near the center front, and 1 partially formed sand piece in her hands. The background is a tropical beach with smooth beige sand, turquoise water along the left side, a green tree-covered shoreline in the distance, and palm trees arching overhead, including 1 large palm trunk on the right edge. Use soft bokeh in the background, clean summer vacation fashion photography, realistic skin tones, natural shadows from palm leaves across her arms and dress, and a serene luxury resort atmosphere. Frame it as a full-body to three-quarter portrait in portrait orientation, centered subject, eye-level to slightly low camera angle.",
+    "title": "Tropical Beach Sandcastle Portrait",
+    "description": "This prompt generates a realistic summer beach portrait of a woman in a blue sundress building sandcastles, ideal for vacation-themed lifestyle imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367314269_rmkty4_HG6rZQfaoAAtKBh.jpg",
+      "https://cms-assets.youmind.com/media/1777367314280_z5hmxz_HG6rZQsawAAILjU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16614,
+    "content": "A highly detailed layered papercut artwork of {argument name=\"scene\" default=\"Wat Arun in Bangkok, Thailand at dusk\"}, viewed from across the river in a centered, symmetrical composition. The image should look like handcrafted 3D paper sculpture and kirigami, with stacked cut-paper layers, visible paper edges, soft relief depth, delicate shadows between layers, and crisp ornamental architectural detail. Place the grand central prang of the temple rising dramatically in the middle, surrounded by 4 smaller prangs, dense dark green-black tree masses at the base, a riverside promenade with small pavilions, and multiple Thai flags lining the waterfront. In the foreground, show the Chao Phraya River as stylized rolling paper waves in deep navy and charcoal, with 1 long traditional river boat crossing from left to right near the bottom center. The sky is filled with many horizontally stretched layered clouds cut from paper, framing a low setting sun partially hidden behind the temple on the right side of center. Use a warm sunset palette of {argument name=\"color palette\" default=\"golden yellow, amber, burnt orange, peach, terracotta, coral, and deep blue-black\"}. Keep the style elegant, intricate, cinematic, and richly textured, with a handcrafted paper diorama feel, high contrast between glowing sky and dark foreground, and an overall refined Asian decorative art aesthetic.",
+    "title": "Papercut Wat Arun at Sunset",
+    "description": "This prompt generates a richly layered paper-cut style illustration of Wat Arun at dusk, ideal for decorative travel art, posters, or stylized cultural landscape imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367308007_nxr8yt_HG6jVTjasAEY7nI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16585,
+    "content": "A highly detailed layered papercut diorama illustration of a deer family standing on a narrow forest path in deep winter. Show exactly 4 deer facing forward: 1 large stag with tall branching antlers positioned slightly right of center, 1 adult doe on the left, 1 smaller young deer in the middle foreground, and 1 young deer on the right. The scene is built entirely in intricate cut-paper craft style with stacked paper layers, crisp cut edges, sculpted contours, and soft dimensional shadows between layers. The animals are made from warm brown, chestnut, tan, and cream paper with delicately layered chest fur, white muzzles, alert ears, and small patches of snow resting on their heads, backs, and shoulders. Surround them with a dense winter forest of tall bare trees and fir trees, all rendered in layered paper silhouettes. Snow heavily coats the branches, bushes, rocks, and ground. Compose the trees as an enclosing corridor that frames the deer symmetrically, with the snowy path leading from the foreground into the group. Use a restrained cold palette for the environment: white, off-white, pale gray, slate gray, and charcoal, contrasted by the warm brown deer. Add subtle depth haze in the distant trees, clean studio-like lighting, and a calm storybook atmosphere. Ultra-detailed craftsmanship, elegant winter scene, realistic paper texture, refined 3D paper sculpture look, vertical composition.",
+    "title": "Winter Deer Papercut Forest",
+    "description": "This prompt generates a refined layered paper-cut illustration of four deer in a snowy winter forest, ideal for seasonal art prints, editorial illustration, or decorative wall art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367296453_2ru4ut_HG6hXVGa8AAoVS3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16669,
+    "content": "A cinematic candid night street photo in Tokyo shot from an extremely low ground-level angle, styled like a disposable film camera snapshot with direct on-camera flash, gritty realism, visible film grain, slight softness, deep shadows, strong contrast, and wet reflective pavement. In the center foreground, a {argument name=\"character gender presentation\" default=\"androgynous young woman\"} with {argument name=\"hair style\" default=\"straight black bob covering part of the face\"} crouches low with one hand pressed to the rain-soaked street, leaning toward the camera in a tense, fashion-editorial pose. The face is intentionally obscured by hair and shadow. She wears 4 visible clothing items: an oversized black blazer, a white dress shirt, a black necktie, and black shorts or a short skirt barely visible beneath the jacket. She also wears 3 visible accessories/details: a ring, a bracelet, and a pair of multicolored glittering lace-up ankle boots with a mosaic sequin look. Beside her on the right stands 1 black cat with bright reflective eyes, fully visible and alert, looking toward the camera. The setting is a narrow urban alley or side street at night with rain, slick asphalt, tangled utility cables and electrical boxes covering the left wall, and 2 vertical illuminated signs with Japanese text in the background. Overhead on the right side, dense blooming {argument name=\"tree blossoms\" default=\"cherry blossoms\"} fill the upper corner, creating a contrast between soft flowers and harsh city textures. Include distant bokeh from streetlights and storefronts, reflections of red, white, and yellow lights on the pavement, and a moody late-night atmosphere that feels spontaneous, raw, and slightly surreal. Use a wide lens perspective, documentary street photography composition, direct flash, disposable camera aesthetic, and {argument name=\"film mood\" default=\"1990s Japanese nightlife snapshot\"} realism.",
+    "title": "Disposable Flash Tokyo Night Portrait",
+    "description": "This prompt generates a gritty low-angle nighttime street portrait with direct-flash film-camera vibes, ideal for recreating candid Japanese urban fashion photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367329750_huw5ym_HG6ffWsaoAAhaWi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16729,
+    "content": "A candid nighttime balcony selfie of a young woman shot from a slightly high handheld phone angle, with the face mostly obscured by shadow and framing, emphasizing the outfit and mood rather than facial detail. She has {argument name=\"hair color\" default=\"dark brown\"} long loose wavy hair falling over both shoulders, medium tan skin, and wears 2 delicate gold necklaces, one a thin chain and one with a small cross pendant, plus a subtle bracelet on the wrist visible near the bottom edge. Her outfit is a fitted white sleeveless cropped tank top and {argument name=\"bottoms\" default=\"light blue low-rise denim jeans\"}, revealing the midriff. The pose is relaxed and slightly leaning, one arm extended to hold the phone, with a casual going-out aesthetic. Set the scene on a modern apartment balcony at night with a glass railing and a blurred distant city skyline filled with small bokeh lights. Use dim ambient lighting with a direct phone flash that illuminates the torso and hair, creating strong contrast, soft grain, slight motion blur, and an authentic late-night social-media selfie look. Vertical smartphone composition, close crop from upper chest to hips, realistic photography, moody, intimate, unpolished, natural proportions.",
+    "title": "Night Balcony Flash Selfie",
+    "description": "This prompt generates a realistic late-night balcony selfie with flash, ideal for casual social-media style portrait photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367354955_fv3q9k_HG6eH-IaQAAJsxF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16733,
+    "content": "A high-fashion studio portrait of a young woman posed from the waist up against a seamless vivid red background, centered in frame, with her face fully obscured by a solid vertical censor rectangle in a warm brown skin-tone color. She has {argument name=\"hair color\" default=\"copper red\"} hair styled in multiple messy mini buns on top with long defined spiral ringlets cascading down both sides, creating a playful Y2K editorial look. She wears black rectangular eyeglasses partially visible at the left edge of the censor bar, and her right ear is covered in stacked silver piercings and one long dangling charm earring. Her outfit is a distressed layered gray ensemble: a sheer mesh short-sleeve top over a fitted inner layer, plus extra-long detached fingerless arm warmers or sleeves with visible overlock seams and worn edges. She also wears layered silver chain necklaces. Her nails are long, sharply tapered acrylics in metallic lavender chrome. In her right hand, held beside her chest, she displays an open {argument name=\"handheld console\" default=\"blue Game Boy Advance SP\"} angled toward the camera, with a dark inactive screen and clearly visible controls. Her left hand rises to her chin in a soft fashion pose, fingers bent delicately. The image should feel like a clean commercial editorial photo with crisp detail, soft even studio lighting, realistic skin and fabric texture, saturated color contrast between the gray clothing and red backdrop, and a cool alt-girl retro-gaming aesthetic.",
+    "title": "Editorial Portrait with Retro Handheld",
+    "description": "This prompt generates a polished studio fashion portrait of an alt-styled young woman holding a retro handheld console, suitable for editorial, social, or trend-focused promotional imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367355923_ectsj4_HG6dlSfbgAEcgJV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16600,
+    "content": "A heroic high-fantasy anime illustration of an elf knight woman marching through a stone city gate during a public celebration, full-body low-angle view, centered composition. She has long flowing {argument name=\"hair color\" default=\"golden blonde\"} hair, pointed elf ears, and an elegant athletic build. Her face is mostly obscured by the angle and raised arm. She raises a long ornate silver sword straight upward in her right hand in a triumphant salute, while her left arm hangs naturally by her side. She wears intricate polished silver plate armor over a short {argument name=\"outfit color\" default=\"forest green\"} dress, with engraved breastplate, armored gauntlets, layered fauld and tassets, leather belts and straps at the waist, and decorated knee-high armored boots. A dark green cape billows dramatically behind her. A sheathed secondary sword hangs at her hip. She is walking forward confidently like a beloved champion responding to the cheers of the people. Around her, exactly 2 lines of townspeople and elf citizens stand on both sides of the street, raising hands and celebrating her passage. Behind her is a large medieval stone archway with carved ornament and exactly 3 visible green banners bearing pale emblem designs, plus weathered walls and hints of towers beyond. The sky is a vivid deep blue with large sunlit white clouds. White flower petals drift through the air across the whole scene. Warm daylight, cinematic rim light, detailed fabric and armor reflections, dynamic perspective, painterly anime rendering, highly detailed fantasy background, festive heroic atmosphere.",
+    "title": "Elf Knight Victory Parade",
+    "description": "This prompt generates a dramatic anime-style fantasy scene of a triumphant elf knight saluting a cheering crowd in a medieval city, ideal for heroic character art or cover illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367301817_1euaxf_HG6cRjKbsAA9jHf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16599,
+    "content": "A dynamic fantasy anime illustration of a heroic {argument name=\"character role\" default=\"elf knight\"} girl striding forward through a massive open stone castle gate, seen from a dramatic very low angle looking up at her so she feels triumphant and larger than life. She has long flowing {argument name=\"hair color\" default=\"golden blonde\"} hair, bright teal-green eyes, pointed elf ears, and a joyful open-mouthed smile. She raises a longsword high overhead in her right hand in a victory salute, while her left hand rests near a sheathed sword at her hip. She wears ornate polished silver plate armor with engraved details on the breastplate, pauldrons, gauntlets, and thigh-high greaves, combined with a vivid green short dress or tunic, a brown belt, and a dark green cape billowing wide behind her. Add a delicate silver tiara on her head. The setting is a sunlit medieval stone fortress entrance with 2 tall wooden gates swung open, pale stone walls, and 2 green hanging banners with pale emblem designs, one on each side. Behind her, exactly 7 small cheering townspeople in simple green outfits throw their hands up in celebration, with one waving a small green flag. White flower petals or celebratory confetti drift across the entire scene, with sparkling light particles and soft lens-like glow. Use a bright blue sky, warm sunlight, hopeful heroic mood, and energetic motion in the hair, cape, and skirt. Render in clean detailed manga-inspired fantasy art, fine linework, soft painterly shading, luminous highlights, and a polished gpt-image-2 anime illustration aesthetic.",
+    "title": "Heroic Elf Knight Victory March",
+    "description": "This prompt generates a bright low-angle fantasy anime scene of a smiling elf knight raising her sword while walking through castle gates as cheering townspeople celebrate behind her.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367301302_ot4tho_HG6cRhEbQAA6qS_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16648,
+    "content": "A hyper-detailed symmetrically composed anime-inspired cyberpunk illustration on a flat, saturated {argument name=\"background color\" default=\"crimson red\"} background. Centered in the frame, a solitary androgynous warrior sits slouched on a dark wooden chair, legs apart, hands relaxed between the knees, projecting calm menace and fallen-divinity energy. The face is intentionally obscured and unreadable, framed by an elaborate black samurai-style horned helmet with 2 curved horns and dense mechanical ornamentation. The figure has 2 large white feathered wings spread outward from the back. Behind and around the seated body, the composition splits into two contrasting organic-tech masses: on the left side, a chaotic storm of 1 dense tangle of teal and dark blue cables, wires, plugs, circuit fragments, and techno-organic tendrils; on the right side, 1 explosive bloom of pink cherry blossoms, petals, curling branches, and ribbon-like floral swirls. Place 1 upright katana behind the figure on the right side, angled slightly inward, with a black handle and visible guard. Dress the character in a mixed streetwear and armored outfit: a split-tone jacket with the left half in dark cyan-black circuitry patterns and the right half in pale pink floral patterns, black fitted pants with asymmetrical detailing, mismatched striped socks in cyan and pink, and chunky high-top sneakers with oversized soles, one predominantly cyan-black and the other predominantly pink-white, both covered in graphic paneling and straps. The hands should look partly mechanical or armored, with long sharp fingers. Flood the image with tiny decorative fragments, petals, paint-like flecks, and micro-details so the entire scene feels intricately hand-inked. Use a high-contrast palette dominated by {argument name=\"accent color 1\" default=\"teal blue\"}, {argument name=\"accent color 2\" default=\"pink\"}, black, and white against the red field. Render in an ultra-detailed manga-meets-graffiti style with crisp linework, dense textures, poster-like frontal framing, and a balanced fusion of angelic, demonic, floral, and cybernetic motifs.",
+    "title": "Cyberpunk Fallen Angel Samurai",
+    "description": "This prompt generates a dramatic single-character poster illustration for album art, key visuals, or striking social media concept art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367321206_ub4s78_HG6Y_MVbIAA4uiW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16641,
+    "content": "A cute anime-style {argument name=\"character type\" default=\"Japanese schoolgirl\"} drawn as a hand-made oil pastel illustration on textured paper, bust-up portrait, centered composition. She has {argument name=\"hair color\" default=\"dark brown\"} hair in 2 low twin ponytails with soft waves and a center part, small dark hair ties, and visible ears. Her face is mostly hidden by a large vertical skin-toned rectangular censor block placed over the center of the face from forehead to chin, leaving only the hair, ears, jawline edges, and a little neck visible. She wears a light beige school uniform jacket over a white frilled blouse with lace-like ruffles at the collar and cuffs, accented by a deep red ribbon bow at the neck. Her right hand is raised in a small clenched-fist pose near her chin, creating a shy, adorable, cheering gesture. Background is fully filled with rough diagonal pink pastel scribbles over warm off-white paper. Emphasize thick waxy oil pastel texture, visible grain of paper, soft blending, broken color strokes, sketch-like outlines, charming imperfect handmade crayon drawing quality, gentle warm lighting, nostalgic and extremely cute mood.",
+    "title": "Cute Oil Pastel Schoolgirl Portrait",
+    "description": "This prompt generates a nostalgic, adorable anime schoolgirl bust portrait in an oil pastel crayon style, useful for creating soft handmade character art with a playful censored-face composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367318637_zd2pgi_HG6VQpDboAAKvhH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16640,
+    "content": "A cute anime girl illustration in a hand-drawn oil pastel style on textured paper, drawn with visible crayon-like strokes, rough sketchy outlines, and soft color blending. The single subject is a teenage girl with {argument name=\"hair color\" default=\"black\"} chin-length bob hair with loose bangs, large sparkling eyes, rosy cheeks, and a gentle smile while glancing upward to the left. She is sitting on the ground in a relaxed side pose with 1 bent knee raised and 1 leg extended forward, both arms resting casually across the raised knee. She wears a bright {argument name=\"hoodie color\" default=\"red\"} hoodie, {argument name=\"shorts color\" default=\"blue\"} short shorts, black knee-high socks, and white sneakers with black stripes. Use a warm, charming, playful mood and emphasize the tactile oil pastel texture, grainy pigment buildup, broken color strokes, and slightly messy childlike crayon drawing appeal. The composition is a full-body figure placed slightly left of center against a simple abstract background made of broad diagonal pastel scribbles in dusty blue, lavender gray, and beige on an off-white paper surface, with no detailed setting and no extra objects.",
+    "title": "Cute Anime Girl in Oil Pastel",
+    "description": "This prompt generates a single full-body anime girl illustration with a soft, sketchy oil pastel crayon look, ideal for charming social posts, avatars, or stylized character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367318534_k8jepl_HG6VQGGbEAA54OD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16639,
+    "content": "A soft, cute oil pastel portrait illustration of a young woman sitting indoors, drawn in a handmade crayon-like style with visible waxy strokes, rough sketch lines, and lightly textured paper. She is shown from about the thighs up in a slightly forward-leaning seated pose, one elbow resting on her knee and one hand supporting her cheek, creating a casual candid feeling. Give her {argument name=\"hair color\" default=\"medium chestnut brown\"} shoulder-length hair with a center part and softly flipped ends, with loose strands framing the face. Dress her in a chunky ribbed knit sweater in {argument name=\"sweater color\" default=\"muted gray\"}, paired with a high-waisted skirt in {argument name=\"skirt color\" default=\"warm beige\"}. Add 2 pieces of jewelry: one dangling earring visible on the right side and one delicate necklace with a small pendant. Add 1 small crossbody bag with a thin strap running diagonally across the torso and the pouch resting near the waist. Use a warm neutral palette of cream, beige, gray, brown, and soft charcoal, with gentle ochre highlights. Keep the facial features minimal and softly suggested in the same pastel style, with a sweet, cozy, very cute mood. The background should be a simple off-white interior with 1 broad horizontal gray band behind the subject suggesting a bench or wall accent, plus loose beige and gray scribbled shading on the floor and wall. Emphasize the charm of an oil pastel drawing: imperfect edges, layered pigment, dry-brush crayon texture, and an airy sketchbook aesthetic.",
+    "title": "Cute Oil Pastel Woman Portrait",
+    "description": "This prompt generates a cozy, stylish oil pastel portrait of a seated young woman, ideal for social-media art, avatar-style illustrations, or warm handmade editorial imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367318340_mznwix_HG6UWida8AAxSjR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16638,
+    "content": "A cute anime catgirl crouching low in a playful pose, drawn as a hand-made oil pastel illustration on textured off-white paper. She has long straight {argument name=\"hair color\" default=\"deep purple with lighter lavender ends\"} hair, large pointed orange cat ears on top of her head, and a striped orange-and-black cat tail curving in from the right side. Her outfit is a tiger-inspired bodysuit in vivid {argument name=\"outfit color\" default=\"bright orange\"} with bold black accents: long fitted sleeves, a dark black chest and torso panel, orange legs, orange gloves, and a soft pale pink patch on the hip and upper thigh area. She is squatting with one knee raised, one hand touching the ground in front of her, and the other hand lifted in a salute near her forehead, facing the viewer with a mischievous, energetic feel. Render the whole image in rough crayon-like oil pastel strokes with visible grain, uneven sketchy black outlines, scribbled color fill, and childlike analog texture. Use a warm pastel palette with orange as the dominant color, purple hair, soft pink scribbled background shading, and a purple-blue scribbled shadow beneath her. Keep the composition as a single centered full-body character on paper, whimsical, charming, slightly messy, and irresistibly cute, like an expressive pastel doodle illustration.",
+    "title": "Oil Pastel Anime Catgirl",
+    "description": "This prompt generates a cute full-body anime catgirl in a tiger-themed outfit rendered as a textured oil pastel crayon drawing, ideal for playful character art and stylized social posts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367317158_w2m0tk_HG6T3x3bQAADPQa.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16629,
+    "content": "A dreamy romantic illustration of a young woman leaning out of an open cottage window, perfectly emphasizing the contrast between the sunny flower garden outside and the cozy room inside. She rests both elbows on the white-painted windowsill and cups her face in her hands, centered in the composition, with her face hidden by her pose and hair. She has very long wavy light brown hair with small white flowers tucked into it, and wears a soft vintage cream-beige floral dress with puffed sleeves and delicate lace trim. The window is a white wooden double casement window opened outward on both sides, framed by sheer lace curtains that billow gently inward and outward. The exterior wall is white painted brick or plaster, covered with climbing vines and many small white blossoms around the top and sides of the window. In the foreground outside, show a lush spring garden with an exact mix of 5 flower groups: pale pink tulips, cream-white tulips, small white daisies with yellow centers, soft lavender flower spikes, and layered pale pink garden roses or peonies, with a short white picket fence peeking up along the bottom edge. Through the window, clearly show the interior as a separate indoor space: a warm, softly lit shabby-chic room with muted beige tones, framed botanical prints on the wall, a wooden cabinet or shelf with vases and flowers, and a small delicate chandelier hanging in the background. Use gentle morning sunlight, soft shadows of vines across the wall and sill, airy pastel colors, highly detailed painterly anime-inspired realism, ethereal floral fantasy mood, serene and nostalgic atmosphere, vertical composition.",
+    "title": "Romantic Cottage Window Garden Scene",
+    "description": "This prompt generates a soft, floral, anime-inspired illustration of a girl at an open window with a clear indoor room and outdoor garden, ideal for showcasing complex spatial composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367313390_xjjh9n_HG6NxG-aQAAESme.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16501,
+    "content": "Cinematic street-style photo of a {argument name=\"subject\" default=\"confident athletic woman\"} posing in the middle of an {argument name=\"setting\" default=\"urban alley\"} at golden hour. She is kneeling with one knee down, wearing a sleek {argument name=\"outfit\" default=\"black sports outfit\"} (crop top, track jacket, and joggers) with subtle white accents, paired with white sneakers. Her hair is loose and slightly wavy, with natural makeup and a calm, self-assured expression. The background features tall city buildings, graffiti walls, and a large mural with a circular emblem. The pavement is wet, reflecting warm sunset light. Shot with shallow depth of field, soft bokeh, warm tones, high detail, fashion editorial style, 35mm lens, dramatic lighting, ultra-realistic, 4k.",
+    "title": "Cinematic Urban Street Style",
+    "description": "A detailed 4k cinematic prompt for a fashion editorial style photo set in an urban alley during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367263007_wqkddo_HG6KotJbMAAiD08.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16518,
+    "content": "Full-body fashion editorial of a confident {argument name=\"subject\" default=\"young woman\"} sitting casually on a concrete ledge, relaxed pose with one leg slightly extended and arms resting naturally, direct gaze into the camera. She has long flowing hair moving gently in the wind, natural glowing skin, and subtle modern makeup. She is wearing a {argument name=\"jacket style\" default=\"light blue oversized denim jacket\"} layered over a clean white t-shirt, neutral-toned fitted shorts, bright colorful socks, and trendy sneakers.\nBehind her, {argument name=\"characters\" default=\"Tom and Jerry\"} appear as playful cartoon characters integrated into the scene — slightly oversized, interacting with each other and the environment (Tom peeking from behind the ledge, Jerry standing on it or running playfully), positioned naturally in the background as if part of the world. Their style remains true to classic animation with bold outlines and expressive motion.\nBeside her, a bold cartoon dragon illustration with thick outlines and vibrant neon blue, green, and yellow colors, playful yet powerful, subtly wrapping around the composition and interacting with the model’s pose.\nScene is set in a bright urban outdoor environment with a clear blue sky, strong natural sunlight, crisp shadows, and high contrast lighting. Add subtle wind motion in clothing and hair.\nMixed-media aesthetic blending high-end photorealism with graphic illustration elements — include hand-drawn doodles, arrows, motion lines, sparkles, and dynamic graphic overlays around the subject and characters.\nUltra-detailed, HDR, sharp focus, cinematic composition, fashion magazine quality, 8K resolution.",
+    "title": "Fashion Editorial with Cartoons",
+    "description": "A complex mixed-media fashion prompt that blends photorealistic models with integrated classic cartoon characters and graphic doodles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367269674_56rw3v_HG6GWPCasAAKOyx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16721,
+    "content": "A casual smartphone photo in a home office or gaming desk setup, shot vertically from a first-person perspective. A left hand in the foreground is holding a black ceramic mug with partial white logo text, and the mug is absurdly filled to the brim with thick chicken tikka masala instead of a drink. The curry is rich orange-red, creamy, with 3 visible chunks of chicken, a white yogurt swirl on top, and a small garnish of fresh cilantro leaves centered on the surface. The mug is positioned near the center-left of the frame above a medium-brown wooden desk. In the background, show a realistic desk scene: 1 black articulated desk lamp on the left, 1 black wall light switch on an off-white wall, visible white radiator pipes and a radiator, 1 red audio interface with knobs and cables near the back of the desk, 1 white game controller behind the mug, 1 computer monitor on the right edge showing a messaging app interface, several loose cables on the desk, and 1 large dark desk mat with a subtle red ornamental pattern in the lower right. Use warm late-afternoon indoor lighting with soft shadows, slight wide-angle phone camera distortion, shallow depth from the close foreground hand and mug, and a humorous but highly photorealistic everyday snapshot aesthetic.",
+    "title": "Chicken Tikka Masala Mug Desk Photo",
+    "description": "A photorealistic joke snapshot of a hand holding a black mug filled with chicken tikka masala in a warm-lit desk setup, ideal for surreal social media humor images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367351372_8knc6u_HG5-7rabsAA-gj7.jpg",
+      "https://cms-assets.youmind.com/media/1777367351404_tcqnem_HG5-9ebWAAA3vG1.jpg",
+      "https://cms-assets.youmind.com/media/1777367351311_rq6gms_HG5--oCbUAAr_Gh.jpg",
+      "https://cms-assets.youmind.com/media/1777367351950_8zwiqe_HG5_RGCWIAAihG-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16521,
+    "content": "A cinematic night street portrait of a young woman standing in a bustling city illuminated by neon lights. She has long slightly messy dark hair with soft bangs, wearing a {argument name=\"clothing\" default=\"black leather jacket\"}. She turns her head toward the camera with a calm, slightly intense expression. The scene is lit with contrasting {argument name=\"lighting colors\" default=\"red and blue neon lighting\"} casting dramatic highlights on her face and hair. Background filled with soft bokeh from streetlights, cars, and neon signs, creating a {argument name=\"setting style\" default=\"Tokyo cyberpunk vibe\"}. Shallow depth of field, 85mm lens look, ultra-realistic skin texture, cinematic color grading, moody atmosphere, high detail, 8K, professional photography.",
+    "title": "Cyberpunk Neon Portrait",
+    "description": "A cinematic night portrait prompt featuring neon lighting and Tokyo cyberpunk aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367271042_7nclyu_HG5-cOFbgAA9-hL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16532,
+    "content": "A 4x4 grid of nostalgic vacation snapshots of a {argument name=\"subject\" default=\"young couple\"} taken with an iPhone, including individual selfies and group selfies. Features significant camera shake, amateur composition, and a moody vintage atmosphere.",
+    "title": "Nostalgic Vacation iPhone Snapshot Grid",
+    "description": "A prompt designed to mimic amateur iPhone photography, creating a 4x4 grid of nostalgic vacation snapshots with realistic lens shake and candid compositions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367275460_14ghh9_HG54Mr3a4AAbWiN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16615,
+    "content": "A moody cinematic digital illustration of a tired young creator sitting alone at a cluttered desk in a dark room at night, seen in three-quarter side view, leaning forward with one elbow on the desk and one hand covering part of the face in an exhausted, overwhelmed pose. The face is intentionally obscured in shadow. The person wears dark casual clothes and a lanyard badge, suggesting a student, designer, or medical worker. The room feels realistic and slightly messy, with a desk lamp, papers, sketchbooks, mugs, stationery, and stacked books. On the left wall, include 2 illuminated X-ray films and a round wall clock, plus shelves and pinned notes in deep shadow. In front of the person is a glowing widescreen monitor showing an AI image generation or creative editing interface with a city-at-sunset artwork in the main preview and a row of thumbnail variations beneath it, modern dark UI, one purple action button. The monitor is the main light source, casting warm orange and cool blue highlights across the desk. Around the monitor and pouring out into the air, depict a vast surreal explosion of imagination and digital creativity: a swirling galaxy-like vortex with stars, nebula colors, spark particles, light trails, and cosmic dust in purple, blue, pink, and gold. Embed many floating dreamlike elements inside the swirl: a fantasy castle on a floating island with a tree, planets and moons, an astronaut, a film clapperboard, a video camera, musical notes, glowing silhouettes of people, a futuristic city skyline, a hot-air balloon, a car, birds, jellyfish-like luminous creatures, and multiple cats, including 1 giant sleeping orange tabby cat in the upper right and 1 cat in a space helmet near the lower right. The magical imagery should feel like thoughts escaping from the computer, beautiful but slightly dark and overwhelming, as if creativity, obsession, and emotional intensity are filling the room. Include a skeletal anatomy hand model standing beside the monitor on the right side of the desk, reinforcing an art-studio or study setting. Use dramatic low-key lighting, high contrast, intricate detail, volumetric glow, cinematic depth, and a balance of realism and fantastical surrealism. The overall mood is melancholic, imaginative, and darkly inspiring, visualizing the feeling of being consumed by ideas generated through {argument name=\"creative tool\" default=\"AI image generation\"}.",
+    "title": "Dark Creative Overload at Night",
+    "description": "This prompt generates a cinematic surreal scene of an exhausted creator at a desk while a storm of beautiful, dark imagination erupts from their computer, ideal for illustrating creative overwhelm or AI-inspired obsession.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367308323_at53ye_HG52mAUacAA7esm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16616,
+    "content": "A warm, handcrafted travel scrapbook spread photographed from directly above on a wooden tabletop, showing an open two-page journal with thick deckled paper edges and layered fabric tabs peeking out from the sides. The style is a realistic mixed-media travel diary with watercolor map art, handwritten Chinese titles, taped instant photos, doodles, and soft natural light. On the upper left page, write the date \"2024.09.20.\" in small handwriting and a large black brush-style Chinese title reading {argument name=\"title text\" default=\"新疆公路旅行手帐\"}. Arrange 5 Polaroid-style instant photos across the spread, each slightly tilted and attached with beige or patterned washi tape: 1 photo at upper left showing two travelers by a blue alpine lake labeled \"天山天池\"; 1 tall photo near upper center-left showing three people on a green grassland labeled \"那拉提草原\"; 1 photo at lower left showing a couple by a deep blue lake labeled \"赛里木湖\"; 1 photo at upper center-right showing two travelers on a long empty road under a bright blue sky labeled \"沙漠公路\"; 1 photo at lower center showing two figures standing on dunes at sunset labeled \"日落沙丘\". Add small handwritten bilingual place annotations near the left-page photos: \"天山天池 (Tianshan Tianchi)\", \"赛拉木草原 (Sayram Lake)\", \"沙漠公路 (Desert Highway)\", and \"日落沙丘 (Sunset Dunes)\" in a casual notebook style. On the right page, paint a loose watercolor map of Xinjiang in beige, pale green, and blue, with a bold winding blue road route crossing the region and exactly 10 red location pins placed along the route. Include map doodles: a small mountain icon cluster near the top, a river and several blue lakes, a tiny compass in the upper right, 2 camel drawings, 2 yurt drawings, and thin gray roads branching around the main blue route. Along the bottom of the right page, place 3 more taped Polaroid photos: 1 at lower left showing people in colorful ethnic clothing labeled \"大巴扎\"; 1 at lower middle showing hands holding grilled meat skewers labeled \"烤肉串\"; 1 at lower right showing a couple inside a yurt labeled \"蒙古包自拍\". Scatter small hand-drawn doodles throughout both pages, including a sun, a tiny car, 2 horse drawings, 4 fish icons, a crescent moon, several stars, small arrows, flames near the food photo and along the lower map area, and tiny decorative swirls. Keep all text in Chinese where shown, with a lively hand-journal aesthetic, realistic paper texture, slight shadows under every photo, and an overall cozy memory-book feeling of a Xinjiang road trip.",
+    "title": "Xinjiang Road Trip Scrapbook Spread",
+    "description": "This prompt generates a realistic overhead photo of a handmade Xinjiang travel journal spread, useful for scrapbook-style travel memories, editorial visuals, or lifestyle social posts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367309000_tf6f9w_HG5wJ_Oa0AAd5U0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16617,
+    "content": "Using the provided reference image as the base for the man, transform it into a realistic casual smartphone photo collage showing him as if he has a girlfriend. Keep his identity, hairstyle, age, white sweatshirt, and candid non-model look consistent, but place him together with a young woman across 16 square snapshots arranged in a 4x4 grid with thin white borders. Add exactly 1 recurring female companion with long dark hair, styled like a real person rather than a glam model, and vary her outfits subtly across the collage, including a cream knit cardigan, a dark top, and a muted blue top. Make the photos feel like authentic couple memories shot on a phone: close mirror selfie together, dark blurry selfie, indoor peace-sign selfie, night street selfie, motion-blur closeup, outdoor daytime shot under a tree, indoor shoulder-leaning shot, another blurry affectionate shot, seated restaurant shot with glasses on the table, warm night bokeh shot, rooftop or balcony mirror selfie with city lights, nighttime urban walking shot, cozy leaning-together shot, shoulder-around pose, close side-by-side portrait, and another intimate close crop. Mix indoor home scenes, nighttime city scenes, one daytime outdoor scene, and one restaurant setting. Use imperfect framing, slight blur, flash, grain, and spontaneous candid composition so it feels like a real person's saved couple photo dump, not a polished campaign.",
+    "title": "Fake Couple Photo Dump Collage",
+    "description": "This prompt turns a single personal reference photo into a believable 16-image smartphone collage of candid couple memories, useful for 'what if' lifestyle edits and fake relationship photo dumps.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367309247_q7gtvo_HG5mHbSa0AAZdHQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16649,
+    "content": "A polished anime-style illustration of {argument name=\"character duo\" default=\"Gilgamesh and Enkidu\"} on a quiet park date, shown from the thighs up while walking side by side along a sunlit stone path beside a lake. The left character is a tall, slender young man with short straight {argument name=\"left character hair color\" default=\"golden blond\"} hair, wearing a black open overshirt, a loose white V-neck T-shirt, and beige khaki pants with both hands in his pockets. The right character is a slim and ethereal young person with very long flowing {argument name=\"right character hair color\" default=\"soft green\"} hair streaming to the right in the breeze, wearing an oversized white hoodie with black drawstrings and one hand gesturing naturally while walking. Their mood is gentle, intimate, and slightly romantic, like an ambiguous casual date. Place them centered in the foreground with the blond character on the left and the green-haired character on the right, both looking toward each other or slightly ahead. The background is a beautiful public park in bright late-morning or early-afternoon summer light: tall leafy trees arch overhead, creating dappled shadows on the path; a calm lake runs along the left side behind a black metal fence; a small arched bridge appears in the mid-distance; flowerbeds with white and purple blossoms line the walkway; 2 park benches are visible on the left side; 1 lamppost stands near the water; and 1 tiny distant pedestrian walks on the right side of the path. Use a vivid blue sky with small white clouds, lush greenery, high-detail foliage, soft cinematic sunlight, clean linework, and refined painterly shading. SFW, elegant, serene, visually rich anime key art, with a romantic slice-of-life atmosphere and a vertical composition.",
+    "title": "Anime Park Date Illustration",
+    "description": "This prompt generates a serene anime-style illustration of two iconic characters walking together in a lush sunlit park, suitable for romantic slice-of-life fanart or character pairing artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367321910_ag6wha_HG5ilkQaIAA_ygU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16497,
+    "content": "{argument name=\"aesthetic\" default=\"Japanese negative film\"} aesthetic, {argument name=\"scene\" default=\"laundry scene\"} silhouette, sunlight filtering through hanging fabric, soft backlight, slight highlight bloom, low contrast, muted tones, subtle grain a stunning beautiful {argument name=\"subject\" default=\"japanese girl\"} partially behind hanging clothes, body silhouette softened by fabric, relaxed posture, face barely visible but shape clear fabric movement, soft wind, imperfect framing, quiet domestic mood, poetic everyday realism --2:3",
+    "title": "Japanese negative film aesthetic prompt",
+    "description": "A prompt for creating nostalgic, soft-backlit domestic scenes with a film-like quality and poetic realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367261224_av4ipu_HG5T4oDasAIfhht.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16494,
+    "content": "Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a {argument name=\"athlete type\" default=\"female tennis athlete\"} sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “{argument name=\"main text\" default=\"PRECISION\"}” in background, dramatic editorial lighting, ultra-clean composition, high-fashion athletic aesthetic\n\nbottom left panel: close-up portrait of the athlete with glowing skin, minimal makeup, soft light, text “FOCUS” and “FUEL” placed subtly\n\nbottom right panel: full-body crouched pose holding racket, strong posture, text “DISCIPLINE DRIVES DOMINANCE”, grid-based layout lines, premium sports branding feel\n\nconsistent color grading, {argument name=\"color palette\" default=\"dark green and white\"} palette, sharp details, cinematic shadows, luxury campaign style, 1:1 aspect ratio",
+    "title": "Cinematic sports fashion collage prompt",
+    "description": "A layout prompt for a three-panel sports fashion collage with consistent lighting and branding elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367259886_lart56_HG4cktDbgAAHvpR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16491,
+    "content": "{argument name=\"subject\" default=\"Hip-hop fashion model\"} standing full-frame, clothing distorted into stretched streaks like motion drag, bold {argument name=\"background color\" default=\"red\"} background, retro film grain, barcode + tiny technical text in bottom area, modern fashion-magazine layout, expressive weirdness, cool attitude , 4K high detail. --ar 4:5 --raw",
+    "title": "Distorted hip-hop fashion model prompt",
+    "description": "Creates a stylized fashion layout with motion streaks and a retro film grain effect on a bold background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367258093_ufxjko_HG4WF41bkAAaT6J.jpg",
+      "https://cms-assets.youmind.com/media/1777367258050_ko8aah_HG4WF41bgAAscSa.jpg",
+      "https://cms-assets.youmind.com/media/1777367258015_fxh01b_HG4WF9gbwAErfxv.jpg",
+      "https://cms-assets.youmind.com/media/1777367258647_aso9e7_HG4WGKIbUAA8ADx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16483,
+    "content": "Ultra-realistic dynamic wide-angle selfie shot of a young man wearing {argument name=\"sunglasses style\" default=\"yellow-tinted rectangular sunglasses\"}, a {argument name=\"jacket type\" default=\"dark denim jacket\"} over a {argument name=\"shirt color\" default=\"black t-shirt\"}.\n\nAction & Composition:\nShot from an extended arm perspective (selfie POV), slightly above eye level, with strong wide-angle lens distortion (action camera / 16–20mm look). The subject is riding fast while pushing a shopping cart filled with groceries, creating a sense of motion and chaos. His mouth is open in an excited, adrenaline-filled expression, looking directly into the camera.\n\nScene Details:\nOutdoor parking lot environment in daylight, with parked cars, industrial buildings, and a wide open asphalt space. A dog is running alongside the subject, slightly behind, mid-stride, adding energy and spontaneity to the scene.\n\nMotion & Effects:\nHeavy motion blur and radial blur in the background to emphasize speed. Foreground remains sharp while surroundings streak outward. Subtle camera shake for realism.\n\nLighting:\nNatural daylight, slightly warm tones, soft shadows, realistic highlights on skin and metallic surfaces.\n\nStyle & Aesthetic:\nCinematic action snapshot, candid lifestyle photography, high-energy street moment, vlog-style realism mixed with commercial polish. Slight HDR, high contrast, ultra-detailed textures, sharp focus on subject.\n\nMood:\nChaotic, fun, spontaneous, rebellious, high-adrenaline moment.\n\nTechnical Keywords:\nwide-angle lens, action cam perspective, motion blur, radial zoom blur, dynamic framing, handheld shot, 8K, ultra-realistic, photorealistic, high detail.",
+    "title": "Realistic Action Selfie with Shopping Cart",
+    "description": "A dynamic wide-angle selfie prompt featuring a person riding a shopping cart in a parking lot, designed for high-energy motion and realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367255492_av60ot_HG4SUFjboAEavbh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16543,
+    "content": "A grid-split layout of {argument name=\"scene\" default=\"shaky, poorly taken nostalgic photos shot with an emotional filter camera, showing selfies\"} (with variations in clothing and locations for the same person), scenery, and cafe photos. An {argument name=\"platform\" default=\"Instagram\"} profile screen screenshot.",
+    "title": "Instagram Profile Grid Aesthetic",
+    "description": "A prompt designed to generate an Instagram profile screen layout featuring shaky, nostalgic-filtered selfies and cafe scenery to simulate a social media feed.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367279873_tm3uqp_HG4QzpGboAAtchg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16657,
+    "content": "{\"type\":\"Japanese business infographic social media graphic\",\"style\":\"clean modern presentation slide, startup marketing explainer, bold typography, flat white background with faint gray grid paper pattern, crisp vector-like layout mixed with photoreal product mockup thumbnails\",\"canvas\":{\"aspect_ratio\":\"16:9\",\"background\":\"white with subtle light gray square grid\"},\"headline\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"AIデザイン量産の型\\\"}\",\"position\":\"top center\",\"style\":\"extra bold black Japanese sans-serif, very large, with a hand-drawn yellow underline/accent stroke and small yellow accent marks at the top right\"},\"top_boxes\":{\"count\":3,\"items\":[{\"position\":\"top left\",\"header\":\"変数：ブランド名\",\"theme_color\":\"orange\",\"icon\":\"tag icon in white on orange tab\",\"body\":\"ブランド名を変えるだけで 世界観が変わる！\",\"body_emphasis\":\"世界観が変わる！\",\"outline\":\"rounded rectangle with orange border\"},{\"position\":\"top center\",\"header\":\"固定：構図・色・質感\",\"theme_color\":\"blue\",\"icon\":\"gear icon in white on blue tab\",\"body\":\"構図・配色・質感を固定して 一貫性をキープ！\",\"body_emphasis\":\"一貫性をキープ！\",\"outline\":\"rounded rectangle with blue border\"},{\"position\":\"top right\",\"header\":\"確認：ロゴ・文字・一貫性\",\"theme_color\":\"green\",\"icon\":\"checkmark in white on green tab\",\"body\":\"ロゴ再現・文字・トーンを確認し クオリティを担保！\",\"body_emphasis\":\"クオリティを担保！\",\"outline\":\"rounded rectangle with green border\"}]},\"connector_lines\":{\"count\":3,\"style\":\"dotted curved arrows descending from each top box toward the central formula, matching each box color: orange, blue, green\"},\"formula\":{\"text\":\"{argument name=\\\"formula text\\\" default=\\\"Brand + Prompt = Visuals\\\"}\",\"position\":\"center\",\"style\":\"huge bold black sans-serif inside a white rounded rectangle with black outline\"},\"down_arrows\":{\"count\":3,\"style\":\"solid black arrows pointing downward from the central formula to the three example panels\"},\"example_panels\":{\"count\":3,\"items\":[{\"position\":\"bottom left\",\"theme\":\"coffee brand ad\",\"palette\":\"orange, brown, white\",\"headline\":\"COFFEE TIME\",\"subtext_count\":3,\"subtexts\":[\"今日を、もっと\",\"美味しく。\",\"香り、コク、最高のひととき。\"],\"visuals\":\"takeaway coffee cup centered, coffee bean logo on cup, splashing dark coffee around the base, scattered coffee beans, glossy energetic commercial look, rounded-corner rectangular card\"},{\"position\":\"bottom center\",\"theme\":\"beauty serum ad\",\"palette\":\"soft pink, rose pink, cream\",\"headline\":\"BEAUTY\",\"subtext_count\":3,\"subtexts\":[\"輝きは、自信になる。\",\"あなたらしい美しさを。\",\"新商品発売中\"],\"visuals\":\"luxury pink glass serum bottle with gold dropper cap, rose flower beside it, silky pink fabric background, elegant cosmetic advertisement aesthetic, rounded-corner rectangular card\"},{\"position\":\"bottom right\",\"theme\":\"construction company ad\",\"palette\":\"yellow, black, dark gray\",\"headline\":\"つくるを、支える。\",\"subtext_count\":3,\"subtexts\":[\"確かな技術で、未来を築く。\",\"安全・品質・信頼\",\"\"],\"visuals\":\"large excavator on rugged ground, dramatic golden sky, industrial power and reliability mood, bold Japanese ad layout, rounded-corner rectangular card\"}]},\"footer\":{\"position\":\"bottom center\",\"text\":\"{argument name=\\\"footer text\\\" default=\\\"1枚の奇跡より、再現できる仕組み\\\"}\",\"style\":\"very large bold Japanese sans-serif, mostly black text with the phrase 再現できる仕組み reversed out in yellow on a black highlight bar, decorative black emphasis marks on both sides\"},\"composition\":\"symmetrical infographic with strong hierarchy: headline at top, 3 explanatory boxes beneath, central formula in the middle, 3 visual examples in the lower half, bold footer statement at bottom\",\"quality\":\"high-resolution, polished social media educational graphic, sharp text, balanced spacing, clean margins\"}",
+    "title": "AI Design Production Framework Infographic",
+    "description": "A bold Japanese infographic for social media explaining a repeatable AI design workflow with three process boxes, a central formula, and three branded visual ad examples.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367324542_vsr6kq_HG3-28bbIAAXFjE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16520,
+    "content": "Generate an image of a live streaming room. The atmosphere of the room is {argument name=\"atmosphere\" default=\"a beautiful woman dancing under the moon\"}, with many people commenting in the room.",
+    "title": "Live Stream Room Scene",
+    "description": "A prompt for generating realistic live stream room visuals with specific atmospheres and user engagement elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367271004_ejky6e_HG38h8saEAAMb85.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16613,
+    "content": "A cinematic cyberpunk street scene at night in heavy rain, ultra-detailed and photorealistic. In the foreground, a young East Asian woman mechanic with messy dark hair tied in a loose bun sits at a wet metal worktable, leaning forward with intense concentration as she repairs a small spherical quadruped robot. Her face is obscured by a centered square censor blur. She wears a transparent plastic rain poncho over dark clothing, the glossy folds catching neon reflections. In one hand she holds a precision screwdriver and with the other she adjusts exposed wiring and circuitry inside the robot’s open shell. The robot is compact and worn, about the size of a small dog, with a white and gray rounded body, a blue camera-like lens for one eye, visible internal electronics, scratches, grime, and four articulated mechanical legs planted on the table. Scatter the tabletop with exact repair clutter: 2 screwdrivers, 2 batteries, 1 circuit board, 1 small camera or lens module, loose screws, wires, and a half-filled glass of amber liquid. Surround them with a dense neon-lit East Asian alley market full of rain-slick pavement, steam from food stalls, and pedestrians carrying umbrellas. Include at least 8 visible illuminated signs layered into the background, including a large red sign reading {argument name=\"main neon sign\" default=\"修理\"}, an orange sign reading \"OPEN\", a bright sign reading \"24H\", a vertical sign reading \"ホテル\", and additional mixed Chinese, Japanese, and Korean-style shop signs. Show several background figures in dark rainwear and translucent ponchos, some faces softly blurred by depth of field. Use moody blue-and-orange lighting, glossy reflections, mist, volumetric rain, shallow depth of field, dramatic bokeh, anamorphic highlights, high texture detail, gritty realism, and the feeling of a lone street technician fixing advanced hardware in a bustling futuristic city.",
+    "title": "Cyberpunk Rainy Street Robot Repair",
+    "description": "This prompt generates a cinematic photorealistic cyberpunk scene of a rain-soaked street mechanic repairing a quadruped robot, ideal for sci-fi concept art and atmospheric city visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367307781_a9je42_HG30ATGa0AAdaka.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 16432,
     "content": "A soft, airy lifestyle editorial image with a warm spring cafe mood. Place a Japanese woman in her late 20s to 30s on the right half of the frame, seated at a light wooden table and holding an open hardcover book as if quietly reading. She has {argument name=\"hair color\" default=\"medium brown\"} hair styled half-up with gentle curls at the ends, small earrings, and a calm, refined presence. Dress her in a navy blazer over a white top for an elegant casual-office look. On the table in front of her, show exactly 3 tabletop items: 1 white coffee cup on a saucer near the center front, 1 small clear glass vase filled with pale yellow and white flowers at the lower right, and 1 open book in her hands. Use bright natural lighting, soft shadows, a high-key cream background, and a clean minimalist composition with lots of negative space. On the left side, add Japanese editorial typography in a delicate, hand-drawn style: a large headline reading {argument name=\"headline text\" default=\"春の休日、カフェで読書。\"}, a smaller vertical-style body copy block below it reading \"やわらかな陽ざしと、ページをめくる音。ゆっくり流れる時間が、いちばんのごほうび。\", and a handwritten English phrase reading {argument name=\"accent text\" default=\"Spring days\"}. Surround the layout with subtle sketch-like spring doodles in muted gray ink and pale pink accents. Include exactly 9 falling cherry blossom petals scattered across the page, 2 simple line-drawn birds flying near the upper right, 1 outlined window frame with cherry blossom branches in the top right corner, 1 line drawing of a steaming coffee cup at the lower left, 1 line drawing of an open book with a small vase and leaves near the lower middle-left, and a few tiny leaf doodles. The overall style should blend real photography with delicate hand-drawn editorial illustrations, evoking a calm, feminine Japanese magazine advertisement about reading at a cafe in spring.",
     "title": "Spring Cafe Reading Editorial",
@@ -185,6 +765,16 @@
       "https://cms-assets.youmind.com/media/1777280775281_o2ucm6_HG1zkGdbMAEtcJ8.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 16607,
+    "content": "A full-body anime fantasy illustration of a noble female knight walking forward through a medieval castle city street at daytime, centered in a tall vertical composition. She wears polished ornate silver plate armor with elegant gold filigree accents, layered pauldrons, gauntlets, cuisses, greaves, and sabatons, over a flowing white tabard and split cloak panels trimmed in gold with small cross motifs near the hem. She carries 1 large white kite shield in her left hand, decorated with a raised gold frame and a prominent gold cross, and 1 sheathed or lowered longsword in her right hand angled downward beside her leg. Her hair is {argument name=\"hair color\" default=\"long pale blonde\"}, extremely long, loose, and windswept dramatically to the right, with fine strands catching the light. Depict her as {argument name=\"character type\" default=\"a beautiful holy knight princess\"}, with a calm, resolute, heroic presence and an upright stride. Place her on a sunlit cobblestone lane between old stone buildings, with 1 black iron streetlamp on the right, patches of greenery along the walls, and 4 visible blue-and-white heraldic banners bearing gold emblems hanging in the street. In the background, show a grand fairytale-like castle with many tall spires and pointed rooftops rising above the town. The sky is bright blue with glowing broken clouds and soft birds in the distance. Use cinematic backlighting and rim light on the armor, highly detailed reflections on metal, crisp fabric folds, realistic stone textures, epic fantasy atmosphere, elegant composition, and a polished high-end anime illustration style reminiscent of a fantasy light novel cover.",
+    "title": "Holy Knight in a Castle City",
+    "description": "This prompt generates a detailed vertical anime illustration of a regal armored female knight walking through a medieval city, ideal for fantasy character art, covers, or hero portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777367304846_cse6xb_HG1x7ROaMAASvUN.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 16227,
