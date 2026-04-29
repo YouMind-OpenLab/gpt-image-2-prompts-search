@@ -1,5 +1,100 @@
 [
   {
+    "id": 16835,
+    "content": "Design a set of {argument name=\"style\" default=\"cool-style\"} women's clothing inspired by {argument name=\"product\" default=\"this product\"}",
+    "title": "Fashion Design Inspired by Products",
+    "description": "A creative prompt for designing a set of cool-style women's clothing inspired by a specific product or item",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777453152940_ytic3l_HHDUVVDaEAAuhTg.jpg",
+      "https://cms-assets.youmind.com/media/1777453153032_cb21x2_HHDUXjVasAAVcLR.jpg",
+      "https://cms-assets.youmind.com/media/1777453153069_1y9i1j_HHDUZX7bYAAvMVg.jpg",
+      "https://cms-assets.youmind.com/media/1777453154653_12x04p_HHDUa-yaoAA5ejz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16824,
+    "content": "Inspired by this product, design a set of women's clothing in a {argument name=\"style\" default=\"cool style\"}, with a {argument name=\"background\" default=\"black background\"} and an aspect ratio of {argument name=\"aspect ratio\" default=\"3:2\"}.",
+    "title": "Product-Inspired Fashion Design",
+    "description": "A prompt that uses a product (like a bottle of disinfectant) as inspiration to design a cool-style women's fashion outfit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777453146898_fr5eif_HHCczAQa0AErrcp.jpg",
+      "https://cms-assets.youmind.com/media/1777453146882_q155dg_HHCd47XbcAAw0md.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16887,
+    "content": "Using REFERENCE_0 as the layout, scene, and ad-style template, and REFERENCE_1 as the product source, recreate the same 2-panel fashion marketing collage but replace the original dress with the blouse from REFERENCE_1. Keep the beach-and-poolside lifestyle composition from REFERENCE_0: 1 large upper-left close crop, 1 full-body standing shot in the upper-right beach scene, 1 seated poolside shot in the lower-left, and 3 circular fabric/detail callouts stacked vertically on the right. Preserve the overall premium boho summer campaign look, soft natural sunlight, sandy beach, parasol, deck chair, basket accessories, and resort mood. Restyle the product into realistic lifestyle wear: the same red embroidered V-neck blouse from REFERENCE_1 paired with short denim bottoms in the full-body and seated views, while keeping the woman and styling visually consistent across all panels. Replace all headline and feature copy from the reference with new English fashion-ad text, not copied wording: use a large title {argument name=\"headline text\" default=\"Holiday\"} with a smaller script brand word above it, a short 3-line descriptive subtitle, and 3 feature blurbs matching the circular callouts. The 3 feature headings should emphasize neckline, sleeve length, and embroidery details. Keep the polished ecommerce poster design, rounded white card edges, elegant typography hierarchy, and a handwritten pink tagline at the lower right {argument name=\"tagline\" default=\"Boho Chic Style\"}.",
+    "title": "Reference-to-Boho Fashion Ad Remake",
+    "description": "This prompt recreates a lifestyle ecommerce fashion poster by applying the layout and visual style of one reference image to a different clothing product image with fresh marketing copy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777453184851_jf3kho_HG_hgenacAAzx4G.jpg",
+      "https://cms-assets.youmind.com/media/1777453184908_aanqtr_HG_hgeGWgAAGDB7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16882,
+    "content": "Create a luxury skincare campaign collage in a 4 by 3 editorial grid with exactly 12 tiles, using a warm ivory, cream, champagne, and soft beige palette. The overall mood is ultra-refined, minimal, sensual, and high-end, with milky diffused lighting, soft cinematic shadows, glossy hydrated skin, and a premium beauty magazine aesthetic. Tile 1: a frosted glass skincare pump bottle standing on a clear shelf, matte cream body, metallic gold pump and collar, elegant serif branding reading {argument name=\"brand name\" default=\"BLOOMGLOW\"}, product name reading {argument name=\"product name\" default=\"RADIANCE MOISTURIZING EMULSION\"}, photographed against a creamy beige wall with diagonal sunlight. Tile 2: a macro swipe of thick white lotion on a smooth cream surface, sculptural texture, soft highlights. Tile 3: a close crop of a woman's head and neck from behind, dark hair in a clean low bun, luminous skin, ear visible, minimal composition. Tile 4: sheer cream curtains lit by sunlight with the shadow silhouette of leaves or flowers cast across them. Tile 5: close-up of a woman's bare shoulder and upper back, dewy glowing skin, one hand touching the shoulder, a thin streak of lotion trailing down the back, intimate skincare editorial framing. Tile 6: a glossy translucent droplet of emulsion resting on a creamy matte surface, macro product texture study. Tile 7: a close crop of the lower face, jawline, neck, and collarbone of the same woman, fingers gently touching the neck, fresh hydrated glow, soft shadow. Tile 8: another macro smear of white cream, smoother and broader than tile 2, with reflective wet highlights. Tile 9: sunlit rippling water in pale champagne tones, abstract liquid texture with sparkling reflections. Tile 10: the same skincare bottle lying diagonally on softly wrinkled satin or silk fabric, gentle sunlight, subtle shadow, branding visible. Tile 11: close-up of hands applying a white oval dollop of lotion onto the back of one hand with the fingertips of the other hand, elegant manicured natural nails. Tile 12: glossy neckline and shoulders of the woman, collarbones highlighted, luminous moisturized skin, dark hair partially visible at the top edge. Keep the composition clean and balanced with thin white dividers between all 12 panels. Style keywords: minimalist luxury, creamy soft light, premium cosmetic advertisement, tactile textures, hydration, skin radiance, cinematic beauty editorial, understated opulence, breathable moisture glow. No clutter, no bright colors, no props beyond bottle, fabric, water, curtains, and skincare textures.",
+    "title": "Luxury Skincare Editorial Grid",
+    "description": "A 12-panel cinematic beauty collage for premium skincare branding, ideal for cosmetic ads, campaign moodboards, and luxury product marketing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777453183483_sb9arj_HG-vuchbMAAn1aS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16892,
+    "content": "Create a clean, high-end Japanese fashion catalog page on a soft warm light-gray background, featuring a coordinated rainwear set laid flat as a product editorial. The central focus is 1 women's hooded raincoat in a muted dusty blue tone, shown front-facing and neatly arranged with sleeves slightly bent inward. The coat is mid-thigh length with a full front zipper, snap-button storm placket details near the collar, a large structured hood, adjustable drawcords at both the hood and waist, two vertical zip pockets, subtle seam construction, and a slightly longer curved back hem with a darker inner lining visible at the bottom opening. Above and to the right, place 1 matching wide-brim rain hat in the same dusty blue, angled slightly, with a darker contrasting brim underside and a small black tag on the crown. Use soft diffused studio lighting with gentle realistic shadows to give a premium product-photography look.\n\nAdd editorial typography and callouts around the products in a minimalist Japanese layout. In the upper left, place a small Japanese tagline reading \"雨の日も、わたしらしく。\" above a large serif English headline reading \"OUTDOOR SET UP\". Beneath it, add a short vertical block of Japanese body copy describing the stylish functional raincoat-and-hat set. In the lower left, add a serif subheading \"DETAILS\" with 2 circular inset detail photos stacked vertically: the top circle shows a close-up of the hood and front fastening area with drawcord hardware; the bottom circle shows water droplets beading on the blue waterproof fabric. To the right of each circle, place short Japanese explanatory text. On the right side of the page, add 2 product callout labels in serif English with thin leader lines: \"HAT\" near the upper-right hat with a short Japanese description below, and \"COAT\" near the lower-right side of the coat with a short Japanese description below. Keep the layout airy and balanced, with elegant negative space, refined magazine styling, realistic garment textures, and a modern outdoor-luxury aesthetic.",
+    "title": "Japanese Rainwear Catalog Layout",
+    "description": "This prompt generates a polished Japanese editorial product sheet for a blue raincoat and matching hat, ideal for fashion catalog, brand lookbook, or e-commerce campaign visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777453189649_4zmn12_HG-sdnNaEAA3YYl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16915,
+    "content": "Create a clean e-commerce mockup on a very light gray background with a simple two-image comparison layout. In the upper right, place 1 small rounded-corner reference photo showing a white fluffy dog from behind, standing on soft light blue fabric and wearing a cream knit pet sweater with pale blue trim. The sweater features a large cartoon dog face patch in brown, black, and white, a red cursive word \"Smile,\" a small red cherry, a blue star, and a yellow crescent moon. Beneath that small reference image, place 1 rounded light-gray text bubble containing Japanese instruction text in black sans-serif: 「画像内のペットを猫に差し替え、元の画像と同じ衣装を着せた状態にする。猫は正面または側面が見える向きで、全身がはっきり見えるようにする。」 In the lower left, place 1 larger rounded-corner final image with a subtle dark border, showing a full-body gray tabby and white cat standing on the same soft light blue fabric backdrop. The cat is facing slightly left but looking directly at the camera, with upright ears, large round eyes, white chest and legs, gray striped back and tail, and a calm alert expression. The cat wears the same cream knitted pet sweater with light blue ribbed trim around the neck, armholes, and hem, fitted neatly around the torso. The sweater artwork matches the reference: the red cursive \"Smile\" text, a red cherry motif, a blue star, a yellow crescent moon, and a large textured cartoon dog face patch on the side. Lighting is soft and diffuse, like a studio product photo for an online shop, with a realistic fabric texture, minimal shadows, and a polished pet apparel catalog aesthetic.",
+    "title": "Pet Apparel Replacement Mockup",
+    "description": "This generates a clean EC-style comparison mockup showing a dog sweater reference and a final product photo of a cat wearing the same outfit, useful for pet clothing listings and promotional visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777453202924_b3hi1g_HG91IO0agAA7mfU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16912,
+    "content": "{\"type\":\"e-commerce product main image mockup\",\"style\":\"clean Japanese marketplace listing visual, minimal, bright, commercial studio composite\",\"background\":{\"color\":\"#FFFFFF\"},\"product\":{\"category\":\"small USB rechargeable fan\",\"design\":\"compact portable desk fan with circular grille, rose-gold accent ring at the center and side knob, flat base clip stand, usable as tabletop, clip-on, or hanging fan, head tilts and rotates vertically\",\"main_color\":\"{argument name=\\\"main product color\\\" default=\\\"white\\\"}\",\"variant_count\":4,\"variants\":[\"white\",\"navy\",\"pink\",\"black\"]},\"layout\":{\"canvas\":\"square composition with wide white negative space\",\"sections\":[{\"title\":\"top-right color lineup\",\"position\":\"upper right\",\"count\":4,\"labels\":[\"white\",\"navy\",\"pink\",\"black\"],\"description\":\"four small product renders arranged in a 2 by 2 grid\"},{\"title\":\"instruction text block\",\"position\":\"upper middle-right\",\"count\":6,\"labels\":[\"Amazon商品メイン画像\",\"白背景（#FFFFFF）\",\"台置き・クリップ・吊り下げの3WAY対応USB充電式小型扇風機、上下360度回転可能\",\"中央にホワイトカラーを大きく配置\",\"周囲にネイビー、ピンク、ブラックを小さく配置\",\"4色カラーバリエーション表示\"],\"description\":\"rounded light gray note box with six lines of Japanese text\"},{\"title\":\"main product card\",\"position\":\"bottom left\",\"count\":9,\"labels\":[\"台置き・クリップ\",\"吊り下げ\",\"上下360°回転\",\"3WAY対応\",\"USB充電式\",\"小型扇風機\",\"4\",\"COLOR\",\"white navy pink black\"],\"description\":\"large rounded rectangle product feature card with hero product and feature icons\"}],\"centerpiece\":\"oversized {argument name=\\\"main product color\\\" default=\\\"white\\\"} fan placed prominently inside the bottom product card, angled slightly to the right with soft shadow\"},\"feature_icons\":{\"count\":3,\"items\":[{\"label\":\"台置き・クリップ\",\"description\":\"small circular inset showing the fan clipped to a wooden desk edge\"},{\"label\":\"吊り下げ\",\"description\":\"small circular inset showing the fan hanging from above\"},{\"label\":\"上下360°回転\",\"description\":\"small circular inset with a curved 360-degree arrow around the fan\"}]},\"text\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"3WAY対応\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"USB充電式\\\"}\",\"product_label\":\"{argument name=\\\"product label\\\" default=\\\"小型扇風機\\\"}\",\"color_count\":\"4 COLOR\"},\"visual_details\":{\"materials\":\"matte plastic body with subtle metallic rose-gold accents\",\"lighting\":\"soft high-key studio lighting, gentle gray shadows, crisp product cutout look\",\"graphics\":\"teal accent labels and badges, thin gray borders, clean Japanese marketplace typography\",\"composition_notes\":\"show the white fan largest in the center, with navy at lower left, pink at upper right, and black at lower right inside the product card; keep overall layout airy and premium\"}}",
+    "title": "Japanese E-commerce Fan Main Image",
+    "description": "This generates a clean Japanese marketplace-style product image for a compact USB rechargeable fan, suitable for Amazon or EC listing main visuals and promotional mockups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777453201208_ezly2u_HG9z6cPbEAAU3Rk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16805,
+    "content": "Left panel: Show a young man from the back standing inside a {argument name=\"setting\" default=\"clean, minimal café or takeaway shop interior\"}. He is wearing an {argument name=\"outfit\" default=\"oﬀ-white oversized t-shirt\"} with a \" {argument name=\"logo\" default=\"SHAMUS\"} \"logo printed large across the back,\nand a matching light beige cap with the SHAMUS logo on it. The environment should have light wooden\ncounters and shelves, warm natural lighting, and minimal branded packaging displayed on the shelves\nin the background. The mood should feel clean, airy, and contemporary. Right panel: Show a cropped\nlifestyle shot of a person standing near a wooden doorway or wall, wearing a white long-sleeve shirt\nand loose black pants, holding a white paper takeaway bag with a die-cut handle. The \" SHAMUS\" logo\nOnly the lower torso and hand should be visible for a stylish editorial composition",
+    "title": "Minimalist Fashion Editorial Split Panel",
+    "description": "A two-panel prompt for a minimalist cafe interior and a lifestyle shot featuring branded apparel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777453132640_0zewfn_HG9tBAYbcAAoFHa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16809,
+    "content": "A polished, high-end product photography scene showcases a confident young woman with {argument name=\"hair color\" default=\"smooth dark hair\"}, dressed in a soft pink textured top, standing against a minimalist grey studio backdrop. In the foreground, a sleek {argument name=\"product name\" default=\"Ellie Beauty spray bottle\"} takes center focus, sharply detailed with a reflective metallic label that shifts between green and gold tones. The composition is brought to life with dynamic lime-green motion streaks and floating rounded tags that call out key benefits such as “high-shine finish” and “heat defense up to 450°F” in bold, modern sans-serif typography. Soft, diffused studio lighting enhances the model’s natural features while producing crisp reflections along the bottle’s surface. In the upper corner, a striking lime-green headline poses the question, “{argument name=\"headline\" default=\"What does it do?\"}”, tying the layout together with a fresh, contemporary advertising feel and a shallow depth of field that keeps both the product and the model’s expression clear and compelling.",
+    "title": "Product Photography with GPT-Image-2",
+    "description": "A sophisticated prompt for creating high-end product advertising photos featuring a model and detailed product packaging with modern typography and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777453136016_spb3c6_HG9fjSQa0AAmnsB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16731,
     "content": "A high-end commercial skincare product photo on a light marble bathroom counter, centered on a clear glass dropper bottle filled with warm amber-orange serum. The bottle is covered in realistic condensation droplets and has a white rubber pipette top with a shiny metallic gold collar. The front label is elegant and minimal, reading {argument name=\"brand name\" default=\"HydraGlow\"} with smaller lines {argument name=\"product name\" default=\"Vitamin C Serum - 30ml\"} and {argument name=\"benefit line\" default=\"Brightening & Anti-Aging Formula\"}, plus a simple gold botanical lotus-style logo above the brand name. Soft natural morning light streams in from the side, creating gentle highlights, subtle shadows, and a clean luxury spa atmosphere. In the blurred background, include 1 ribbed clear glass vase with green leafy branches on the left, 1 stack of 3 folded white towels on the right, 1 shallow white dish with faint gold veining on the left foreground, and 1 small white bowl with a thin gold rim on the right foreground. Use shallow depth of field, crisp focus on the bottle, neutral cream and white palette, premium e-commerce advertising aesthetic, photorealistic textures, and refined wellness branding style.",
     "title": "Luxury Vitamin C Serum Product Shot",
