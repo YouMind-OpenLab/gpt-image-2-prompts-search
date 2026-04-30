@@ -10,6 +10,414 @@
     "needReferenceImages": true
   },
   {
+    "id": 17019,
+    "content": "Avant-garde sports fashion, advertising, a huge tennis ball set up like a monumental sculpture, a female athlete sprawled across the curved surface of the ball like modern furniture, the huge word \"GOAL\" in bold typography behind, the background of the burnt green studio, shiny mirrored floor, luxurious sports editorial style, cinematic lighting, ultra-pure composition, 1:1 . Face and body exactly same as uploaded image.",
+    "title": "Avant-Garde Sports Fashion Editorial",
+    "description": "A high-fashion editorial prompt for a sports brand, featuring a monumental tennis ball sculpture and a specific model from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539297351_itmbjx_HHGRt0bbgAAaG9C.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17118,
+    "content": "Full-body nighttime streetwear fashion photo of a young woman with {argument name=\"hair color\" default=\"bleached blonde\"} chin-length wavy bob hair, standing casually with both hands in the pockets of her shorts beside a glossy black boxy luxury SUV. She is leaning slightly against the front fender, legs apart in a confident relaxed pose, photographed straight-on with direct on-camera flash for a gritty editorial look. She wears an oversized faded charcoal-gray corduroy cropped sweatshirt with a centered oval anime-girl graphic logo on the chest, loose white athletic shorts, white crew socks, and white high-top sneakers with black swoosh details, plus a thin silver chain necklace. The setting is a narrow urban alley with rough stained concrete walls, dark wet pavement, a curb along the left side, black graffiti reading {argument name=\"graffiti text\" default=\"Wpr\"} on the wall, and the SUV’s round headlight visible on the right. Moody flash photography, realistic skin texture, subtle shadows, desaturated dark tones, candid street style, vertical 9:16 composition.",
+    "title": "Flash Streetwear Portrait by Black SUV",
+    "description": "This generates a realistic vertical fashion photo of a woman in a cropped graphic corduroy sweatshirt and white shorts posing in a gritty alley beside a black SUV, ideal for streetwear editorial or social media content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539368398_6ceiqa_HHGIj-Ga0AAUm8B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17011,
+    "content": "Ultra-realistic 3D exploded view of a {argument name=\"product\" default=\"Sony BRAVIA 8K Mini LED television\"}, spine-aligned cinematic explosion layout, perfectly centered vertical axis, all components floating in precise alignment from top to bottom.",
+    "title": "Technology Exploded View",
+    "description": "A precise technical and cinematic exploded view prompt for a high-end television display.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539293992_54z71l_HHGHMjfboAAmoTX.jpg",
+      "https://cms-assets.youmind.com/media/1777539294024_efl4fa_HHGHOlUagAArq0I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17102,
+    "content": "Luxury furniture concepts rendered with inspiration from Antonio Gaudí’s Art Nouveau architecture, emphasizing organic structure and artistic detailing. Design Concept: Organic & Biomimetic. Hero Elevation (Low-Angle Dominance) Luxury product campaign, ultra-detailed [Reference image] as the central hero, positioned in the foreground, low-angle cinematic shot emphasizing scale and dominance, [reference image] interacting subtly in background but secondary, Art Nouveau architecture inspired by Antoni Gaudí with organic curves and mosaic textures, environment softly diffused with 40% background blur, golden hour cinematic lighting with sharp highlights on product edges, reflective surfaces, volumetric light rays, ultra-realistic textures, shallow depth of field, crisp focus on product branding, 4K photorealistic render, 9:16 aspect ratio, commercial advertising style, high dynamic range, lens 35mm, f/1.8. Dynamic Motion Perspective (Tracking Shot Feel) High-end cinematic advertisement of [PRODUCT] in motion perspective, angled tracking shot as if captured mid-action, [SUBJECT] moving behind or beside but visually subordinate, environment inspired by Antoni Gaudí’s fluid architectural forms, curved structures and stained-glass lighting, 40% motion blur in background while product remains tack-sharp, dramatic contrast lighting with neon and warm tones, reflections and refractions enhancing product materials, ultra-detailed realism, 4K render, 9:16, anamorphic lens flare, f/2.0, premium commercial vibe.",
+    "title": "Dynamic Tracking Shot Product Advertisement",
+    "description": "A cinematic tracking shot prompt for high-end product advertisements, focusing on motion perspective and fluid architectural backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539356873_awiu2o_HHGDnbwawAAtahR.jpg",
+      "https://cms-assets.youmind.com/media/1777539357111_xwk6s2_HHGDnbzaYAABkl1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17097,
+    "content": "{\"type\": \"Close-up photography\",\"subject\": \"{argument name=\"subject\" default=\"A fictional ID card being held by a hand\"}\",\"card_content\": {\"header_text\": \"MODEL REPUBLIC / IDENTITY CARD / SAMPLE ID CARD\",\"logo\": \"A blue symbol field at the top left with the country code 'MR'\",\"portrait\": {\"appearance\": \"Young woman with long, straight blonde hair and a center part\",\"facial_features\": \"Fair skin with clearly visible natural freckles on the nose and cheeks, neutral expression, hazel eyes looking straight ahead\",\"clothing\": \"Black top with visible neckline\",\"accessories\": \"Small silver studs on the earlobes\"},\"text_data\": {\"surname\": \"SAMPLEXNAME\",\"given_name\": \"{argument name=\"given name\" default=\"ERIKA\"}\",\"birth_date\": \"{argument name=\"birth date\" default=\"07.11.1998\"}\",\"birth_place\": \"BERLIN\",\"expiry_date\": \"01.12.2030\"},\"surface_texture\": \"Glossy laminated surface with visible holographic security patterns and guilloche lines over portrait and text\"},\"foreground_hand\": {\"position\": \"Holds the bottom right corner of the card\",\"skin_tone\": \"Light\",\"fingernail\": \"Visible thumb with long, almond-shaped fingernail, painted in glossy Bordeaux red or dark red\"},\"background\": \"Plain, solid white surface\",\"lighting\": \"Soft, uniform indoor light with slight reflections on the card surface and the glossy nail polish\",\"framing\": \"Vertical close-up from a bird's eye view, fully focused on the card and the thumb\"}",
+    "title": "Detailed Identity Card Photography",
+    "description": "A structured JSON-style prompt for generating a realistic close-up photo of a fictional ID card held by a hand.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539354805_hbir6j_HHFd9VkaMAA0DnC.jpg",
+      "https://cms-assets.youmind.com/media/1777539354781_lj7ok9_HHFeAUhagAAElyO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17051,
+    "content": "Avant-garde sports fashion editorial, a monumental sculptural water form (fluid wave / suspended splash structure) placed in a {argument name=\"setting\" default=\"minimalist blue studio\"}, a {argument name=\"subject\" default=\"female swimmer\"} reclining across the curved liquid-like surface like a sculptural furniture piece, wearing a high-fashion performance swim outfit (sleek full-body competitive swimsuit or modern tech swimwear, hydrodynamic fit, subtle reflective details, premium materials), fully streamlined silhouette, face and body identical to the uploaded reference image, ultra-clean composition, bold oversized typography \"{argument name=\"text\" default=\"SWIM\"}\" in the background, glossy mirrored wet floor reflecting the subject, cinematic studio lighting with sharp highlights and water reflections, luxurious campaign aesthetic, high contrast, editorial fashion photography, minimal color palette (aqua, deep green, black accents), hyper-realistic, 8k, studio perfection",
+    "title": "Avant-Garde Swimwear Editorial",
+    "description": "A sculptural fashion editorial prompt for swimwear in a minimalist studio setting with water-inspired elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539314841_duir1f_HHF_VtcbAAEHccS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17170,
+    "content": "{\"type\":\"mobile app promotional screenshot poster\",\"app\":{\"name\":\"{argument name=\\\"app name\\\" default=\\\"Zaiko\\\"}\",\"platform\":\"iPhone-style inventory and household supplies management app\",\"theme\":{\"primary\":\"fresh green\",\"background\":\"very light mint gray gradient\",\"accent\":\"soft white\",\"text\":\"dark navy\"}},\"layout\":{\"orientation\":\"vertical\",\"composition\":\"single centered smartphone mockup with marketing copy above and CTA card below\",\"sections\":[{\"title\":\"brand header\",\"position\":\"top center\",\"count\":2,\"labels\":[\"Zaiko\",\"03 かんたん登録\"]},{\"title\":\"hero text\",\"position\":\"upper center\",\"count\":2,\"labels\":[\"いつもの日用品を、登録。\",\"カテゴリ・周期・通知日をまとめて設定\"]},{\"title\":\"feature chips\",\"position\":\"below hero text\",\"count\":3,\"labels\":[\"テンプレ\",\"周期\",\"通知日\"]},{\"title\":\"app screen form\",\"position\":\"inside phone center\",\"count\":10,\"labels\":[\"戻る\",\"よく使う消耗品から選ぶ\",\"アイテム名\",\"カテゴリ\",\"交換サイクル\",\"何日前に通知する？\",\"登録する\",\"ホーム\",\"買い物リスト\",\"設定\"]},{\"title\":\"category chips\",\"position\":\"mid screen inside phone\",\"count\":7,\"labels\":[\"日用品\",\"バス・洗面\",\"掃除用品\",\"キッチン\",\"食品\",\"医薬品\",\"その他\"]},{\"title\":\"cycle options\",\"position\":\"lower-mid screen inside phone\",\"count\":4,\"labels\":[\"7日\",\"14日\",\"30日\",\"60日\"]},{\"title\":\"bottom callout\",\"position\":\"bottom center\",\"count\":1,\"labels\":[\"登録したら、あとはおまかせ\"]}]},\"visuals\":{\"style\":\"clean modern Japanese startup landing page screenshot, polished UI mockup, soft shadows, rounded cards, minimal interface, App Store marketing aesthetic\",\"background\":\"pale mint vertical canvas with subtle glow behind the device\",\"top_badge\":\"small rounded white pill with green outline and green text\",\"phone\":{\"color\":\"black bezel\",\"angle\":\"front view\",\"size\":\"large and centered\",\"screen\":{\"header\":\"green app bar\",\"status_time\":\"1:42\",\"form_fields\":[\"dropdown selector\",\"text input with placeholder 例: トイレットペーパー\",\"category chip grid\",\"stepper for replacement cycle showing 14\",\"stepper for notification days showing 3\",\"green submit button\"],\"selected_states\":[\"14日 highlighted in green\",\"green primary button\",\"green bottom tab bar\"]},\"shadow\":\"soft diffuse shadow under phone\"},\"bottom_card\":{\"shape\":\"large rounded green rectangle behind a white pill button\",\"text\":\"{argument name=\\\"cta text\\\" default=\\\"登録したら、あとはおまかせ\\\"}\",\"effect\":\"soft glow and layered rounded white side panels\"}},\"text_customization\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"いつもの日用品を、登録。\\\"}\",\"subheadline\":\"{argument name=\\\"subheadline text\\\" default=\\\"カテゴリ・周期・通知日をまとめて設定\\\"}\"},\"color_customization\":{\"primary\":\"{argument name=\\\"primary color\\\" default=\\\"fresh green\\\"}\"}}",
+    "title": "Japanese Inventory App Promo Mockup",
+    "description": "Generates a polished vertical marketing visual for a Japanese household inventory app with a centered smartphone UI, headline copy, and a strong bottom call-to-action.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539399206_6u41y7_HHFtSBva4AAuRFe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17169,
+    "content": "Create a clean modern promotional hero image for a Japanese inventory management app landing page on a soft warm off-white background with a subtle pale mint gradient rising from the bottom. Center the composition vertically. At the top, place a rounded white pill logo with the text \"Zaiko\" in green. Directly below it, add a small rounded badge with a tiny yellow dot and the text \"05 Proで拡張\". Then add a large bold Japanese headline in dark navy reading \"管理をもっと、快適に。\" and a smaller gray subheadline reading \"無制限登録・分析・広告なしのProプラン\". Under that, show exactly 3 small rounded feature chips in one row: a white chip with a green dot and the label \"無制限\", a white chip with a yellow dot and the label \"分析\", and a white chip with a red dot and the label \"広告なし\". In the center, display a large realistic iPhone front view with thin black bezel, rounded corners, subtle reflections, and a soft shadow. On the phone screen, show an app subscription page in Japanese with the top bar time 1:44, back chevron, a left tab label \"(tabs)\", and the centered title \"Proプラン\". The page content should feature a pale gold circular icon with a gold star, the title \"Zaiko Pro\", and the subtitle \"もっと便利に、もっと快適に\". Below that, include a rounded white comparison card with 3 feature rows and 3 column headers \"機能\", \"Free\", \"Pro\". The 3 rows should be: \"アイテム無制限\" with \"3個まで\" under Free and \"無制限\" in green under Pro; \"消費ベース分析\" with \"-\" under Free and \"OK\" in green under Pro; \"広告非表示\" with \"広告あり\" under Free and \"広告なし\" in green under Pro. Beneath the card, add a section title \"プランを選択\" and exactly 2 stacked plan options: a selected annual plan outlined in green with a green radio button, the label \"年額プラン\", a small red badge \"お得\", and the price line \"¥2,000/年 (月あたり約¥167)\"; then an unselected monthly plan with a gray radio button, the label \"月額プラン\", and the price \"¥300/月\". Under the plans, place a large rounded green call-to-action button reading \"Proにアップグレード\". Below it, add a centered text link \"以前の購入を復元\" and several lines of tiny gray subscription disclaimer text. At the very bottom behind the phone, add a large rounded orange pedestal card with a white pill label containing the text \"Proなら広告なしでスムーズ\" in green. Use a polished startup-app marketing style, soft shadows, airy spacing, rounded UI, crisp Japanese typography, and a premium minimal aesthetic.",
+    "title": "Japanese Pro Plan App Promo",
+    "description": "This generates a polished Japanese mobile app marketing screenshot showcasing a Pro subscription screen for use in landing pages, app store visuals, or social media promotion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539399265_xmvwqw_HHFtSB8aAAEguag.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17168,
+    "content": "A clean modern app-promo poster on a very pale mint-blue background, centered and vertically composed like a landing page screenshot for a Japanese inventory app. At the top, place a small rounded white pill logo with soft shadow reading {argument name=\"app name\" default=\"Zaiko\"} in green. Beneath it, add a smaller rounded outlined badge with a blue dot and the text \"02 初回ガイド\". Below that, set a large bold Japanese headline in dark navy: {argument name=\"headline text\" default=\"初回ガイドで、すぐ使える。\"}, followed by a smaller gray subtitle: \"起動したら管理の流れをやさしく案内\". Under the subtitle, show exactly 3 small rounded white category chips with soft shadows, evenly spaced: \"サンプル\" with a green dot, \"使い方\" with a blue dot, and \"すぐ開始\" with a dark dot. In the center, show a realistic modern smartphone mockup front view with a black bezel, slightly rounded corners, subtle reflections, and a dramatic soft blue glow under it. The phone screen displays the app UI with a green top bar and the title \"Zaiko\" in white, iPhone-style status icons at top, and a dimmed app interface behind a centered onboarding modal card. The white modal has rounded corners and a soft drop shadow, with a pale green circular icon area containing a green cube symbol at top. Then a bold welcome title in Japanese, \"Zaikoへようこそ！\", a smaller subtitle \"消耗品管理アプリ\", and body text \"このアプリは、おうちの消耗品を管理するよ！\". Add a light gray rounded list box containing exactly 3 sample inventory items on separate lines with tiny icons: \"トイレットペーパー\", \"シャンプー\", and \"洗剤\". Below that, add a small green-highlighted sentence: \"『そろそろ買わなきゃ！』を教えてくれるから、買い忘れなし ✨\". At the bottom of the modal, include a large rounded green primary button labeled {argument name=\"button text\" default=\"使い方を見る\"} with a small book icon, and below it a muted text link \"スキップ\". Behind the modal, the app UI should be visible but subdued: a green header, side category strips, and a bottom tab bar with exactly 3 tabs labeled \"ホーム\", \"買い物リスト\", and \"設定\", each with simple white icons. Beneath the phone, place a large rounded blue callout card with soft shadow and a centered white pill label reading {argument name=\"footer text\" default=\"はじめての設定も迷わない\"}. Use a polished Apple-style SaaS marketing aesthetic, soft gradients, subtle shadows, rounded UI elements, crisp typography, and a friendly trustworthy feel.",
+    "title": "Japanese app onboarding promo mockup",
+    "description": "This generates a polished Japanese mobile app marketing visual featuring a smartphone mockup and onboarding screen, ideal for landing pages, app store assets, or social media promotion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539397986_rogkcn_HHFtSB4bUAAIRWU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17167,
+    "content": "A clean mobile app promotional poster on a soft mint-green background, centered and vertically composed, advertising an inventory management app called {argument name=\"app name\" default=\"Zaiko\"}. At the top, place a rounded white pill logo with the app name in green, then a smaller outlined pill beneath it containing a green dot, the number 01, and the Japanese text 見える化. Below that, add a large bold Japanese headline in dark navy: {argument name=\"headline text\" default=\"買い忘れを、なくす。\"}, followed by a smaller gray Japanese subheading: 残り日数で補充タイミングをひと目で確認. Under the subheading, show exactly 3 rounded category chips in one row: a white chip with a red dot and the label 残り日数, a white chip with a yellow dot and the label 通知, and a white chip with a green dot and the label 補充管理. In the center, display a realistic black-bezel smartphone mockup in front view with a grocery and household stock tracking app screen. The phone screen should have a solid green top bar with the app name, a pale information strip below it, then a summary card row with exactly 3 status counters: red-dot 2 要補充, yellow-dot 1 もうすぐ, and green-dot 2 余裕あり. Beneath that, show a vertically scrolling list of exactly 4 inventory item cards with soft rounded corners, subtle shadows, and colored urgency bars: 1) シャンプー with a red status bar and a red badge reading 1日超過, 2) トイレットペーパー with a red status bar and a red badge reading あと2日, 3) 食器用洗剤 with a yellow status bar and a yellow badge reading あと5日, 4) ボディーソープ with a green status bar and a green badge reading あと10日. Each card includes a small circular product icon on the left, Japanese item name and category/date text, and a lower action row with 3 small controls labeled 補充した, まだある, and リスト. Add a floating green circular plus button near the lower right of the phone screen. At the bottom of the app UI, include a green tab bar with exactly 3 navigation items and icons: ホーム, 買い物リスト, and 設定. Place the phone on a glossy rounded green pedestal with soft white side supports and a strong soft shadow, then add a large rounded white call-to-action pill on the pedestal with the Japanese text {argument name=\"button text\" default=\"そろそろ買うものが、すぐわかる\"}. Overall style: polished startup landing-page mockup, iOS app screenshot aesthetic, soft gradients, minimal Japanese UI design, crisp typography, centered composition, gentle ambient shadows, premium app store marketing visual.",
+    "title": "Japanese Inventory App Promo Poster",
+    "description": "A polished Japanese mobile app marketing visual showing a smartphone UI for household inventory tracking, ideal for landing pages, app store screenshots, and social media promotion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539397948_b60der_HHFtSB6bYAAvGKM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17008,
+    "content": "Minimalist commercial ad featuring oversized {argument name=\"brand\" default=\"KFC\"} bucket, ultra-clean design. A young woman in all-white outfit leans casually against the giant bucket, relaxed confident pose, eyes closed, also holding a piece of fried chicken. Soft gradient {argument name=\"background color\" default=\"blue\"} background with large bold white “KFC” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “{argument name=\"tagline\" default=\"Crispy, juicy, irresistible.\"}”",
+    "title": "Minimalist KFC Commercial Advertisement",
+    "description": "A high-end fashion and product photography style prompt for a minimalist KFC advertisement with a clean, modern aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539292838_jcz0ft_HHFiy-YakAI8hxE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17049,
+    "content": "Create a bold, cinematic advertising poster for a premium surveillance/security camera brand in a luxury editorial style. Feature an extreme close-up of a {argument name=\"subject\" default=\"majestic owl\"} facing forward against a rich {argument name=\"color\" default=\"deep crimson/red\"} seamless background. The owl should fill most of the frame, with one natural glowing amber eye and the other eye replaced by a sleek modern camera lens, integrated realistically into the face like a cybernetic enhancement. Add subtle red focus brackets around the lens to emphasize precision targeting. The owl’s feathers should be hyper-detailed, sharp, and dramatic with moody studio lighting and high contrast shadows. The composition should feel intense, minimal, and premium, similar to a high-end tech campaign. Typography should be clean, modern, and bold in white sans-serif font. Place the main headline in the lower-middle/right area: “{argument name=\"headline\" default=\"ALWAYS WATCHING.\"}\" Smaller subheadline beneath it: “precision that never sleeps” Add a subtle tagline in the bottom-right corner: “Every second counts. We miss nothing.” Place the brand logo in the bottom-left corner in clean white minimalist typography. Style references: luxury advertising campaign, cyberpunk wildlife concept, premium Sony/Canon /Blackmagic design aesthetic, ultra-realistic, sharp focus, dramatic editorial composition, photorealistic, 4k.",
+    "title": "Tech Security Brand Advertising",
+    "description": "A cinematic and high-end advertising prompt for a security brand featuring a cybernetic owl and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539314307_e0neng_HHFgrQkbcAAVF_f.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17163,
+    "content": "A clean, high-end Japanese advertising poster for a luxury bed or mattress concept titled {argument name=\"product title\" default=\"雲の上の眠り\"}, with the English subtitle {argument name=\"english subtitle\" default=\"Sleep Cloud\"}, designed around the concept of zero gravity sleep. Use a minimal soft-white background with a pale powder-blue accent palette, airy negative space, and a calm premium wellness aesthetic. The layout is a single elegant poster composition: on the left, large Japanese headline typography in refined serif style, colored dusty pastel blue, with a small line of Japanese copy above it reading 「重力ゼロの、やさしい眠り。」 and the main title 「雲の上の眠り」 followed by the English subtitle centered below, flanked by thin horizontal lines. Beneath that, add two short blocks of Japanese body copy in smaller blue text describing a floating, liberating, comfortable sleep experience. On the right, feature a softly lit 3D-rendered bedroom vignette on a floating rectangular platform: 1 modern white bed with a low headboard, 2 white pillows, white bedding, and 1 light blue throw draped diagonally across the lower half of the bed. Make the bed appear to levitate slightly above the platform with a subtle blue glow underneath to suggest zero gravity. Behind it, place 1 tall arched window opening with a blue interior showing soft white clouds and sky. Add 1 small round bedside table holding 1 tiny vase with delicate stems and 1 small object, plus 1 round cream rug under the bed area, 1 light blue floor cushion, and 2 fluffy cloud props on the platform near the bed. Include additional faint clouds drifting around the poster edges. Along the lower left-to-center area, place exactly 3 circular feature icons with captions beneath them: 1 cloud icon for weightless floating comfort, 1 wavy-line icon for soft enveloping comfort, and 1 leaf icon for safe comfortable materials. At the bottom left, add 1 large rounded blue call-to-action button with white Japanese text {argument name=\"button text\" default=\"今すぐ体験する\"} and a right-facing chevron, plus 1 outlined circular badge beside it reading 「期間限定」. At the lower right, add exactly 3 compact info lines with small icons: 1 delivery truck with 「送料無料」, 1 shield with 「安心の30日間返品保証」, and 1 calendar with the date {argument name=\"deadline date\" default=\"2025.6.30(月)まで\"}. Place a faint white {argument name=\"brand watermark\" default=\"Pollo.ai\"} watermark in the top-right corner. Overall style: soft 3D product visualization, Scandinavian-inspired minimalism, dreamy cloud theme, luxury bedding advertisement, diffused lighting, pastel blue shadows, pristine composition, polished commercial poster design.",
+    "title": "Sleep Cloud Zero-Gravity Bed Poster",
+    "description": "This prompt generates a minimalist Japanese luxury bedding advertisement poster with a floating bed, cloud imagery, and polished product-marketing layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539393477_x9f0h1_HHFaUw1aEAES-f-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17134,
+    "content": "{\"type\":\"luxury footwear brand identity board\",\"brand\":{\"name\":\"{argument name=\\\"brand name\\\" default=\\\"MIRA SOL\\\"}\",\"category\":\"footwear\",\"tagline\":\"{argument name=\\\"tagline\\\" default=\\\"FOOTWEAR. CRAFTED BY SUN.\\\"}\",\"positioning\":\"luxury footwear inspired by the Mediterranean, warm sunlight, artisanal craftsmanship, quiet elegance\"},\"style\":{\"overall\":\"high-end editorial brand guideline presentation, minimal grid, refined typography, sandy beige and terracotta palette, cinematic warm lighting, premium print-layout aesthetic\",\"mood\":\"sun-drenched, architectural, sophisticated, tactile, serene\",\"materials\":[\"leather\",\"suede\",\"linen\",\"paper\",\"cardboard\",\"stone\",\"wood\"]},\"layout\":{\"format\":\"3 x 3 square moodboard with 9 numbered panels\",\"sections\":[{\"title\":\"01\",\"subtitle\":\"BRAND WORLD\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"hero scene\"],\"content\":\"luxury Mediterranean courtyard with arches, stone stairs, shallow reflective water, styled women’s sandals on steps and platforms, large elegant brand wordmark over image, small circular sun-wave emblem in lower right, tiny caption reading 'LUXURY FOOTWEAR INSPIRED BY THE MEDITERRANEAN.'\"},{\"title\":\"02\",\"subtitle\":\"LOGO SYSTEM\",\"position\":\"top-center\",\"count\":4,\"labels\":[\"PRIMARY LOGO\",\"LOGO VARIATIONS\",\"CLEAR SPACE & GRID\",\"monogram\"],\"content\":\"clean ivory brand-guideline page showing the primary wordmark 'MIRA SOL FOOTWEAR', a circular sun over waves emblem, stacked wordmark variations, circular badge variation, MS monogram, and spacing/grid examples\"},{\"title\":\"03\",\"subtitle\":\"COLOR + TYPOGRAPHY\",\"position\":\"top-right\",\"count\":3,\"labels\":[\"SOL PALETTE\",\"TYPOGRAPHY\",\"TYPE HIERARCHY\"],\"content\":\"five rectangular color swatches labeled SUN OCHRE, TERRACOTTA, SAND STONE, ESPRESSO, CREAM; typography samples using a high-contrast serif for luxury headlines and a clean grotesk sans serif for modern support text; hierarchy examples including H1 'CRAFTED BY SUNLIGHT' and smaller editorial subheads\"},{\"title\":\"04\",\"subtitle\":\"IMAGERY + ART DIRECTION\",\"position\":\"middle-left\",\"count\":8,\"labels\":[\"light\",\"shadow\",\"texture\",\"structure\",\"movement\",\"macro leather detail\",\"architectural scene\",\"editorial quote\"],\"content\":\"a collage of 8 warm-toned art direction images featuring stone columns, patterned textures, palm-shadow light, extreme leather macro texture, stitched strap close-up, sunlit stair architecture, and a text tile that reads 'EVERY LINE HAS A PURPOSE. EVERY STEP TELLS A STORY.'\"},{\"title\":\"05\",\"subtitle\":\"PRODUCT UNIVERSE\",\"position\":\"middle-center\",\"count\":9,\"labels\":[\"HEELS\",\"SANDALS\",\"SNEAKERS\",\"LOAFERS\",\"SLIPPERS\",\"PREMIUM LEATHER\",\"HAND STITCHED\",\"COMFORT ARCH\",\"CRAFT DETAILS\"],\"content\":\"top row of 5 isolated footwear product shots: strappy heeled sandal, flat sandal, white sneaker, brown loafer, dark slide sandal; bottom row of 4 material/craft close-ups showing leather grain, stitched seams, cushioned sole profile, and metallic buckle detail\"},{\"title\":\"06\",\"subtitle\":\"PACKAGING EXPLORATION\",\"position\":\"middle-right\",\"count\":6,\"labels\":[\"PREMIUM BOX\",\"DUST BAG\",\"TISSUE PAPER\",\"SHOE BOX LABEL\",\"ECO PACKAGING\",\"HANG TAG\"],\"content\":\"6 packaging mockups in warm beige and brown tones including rigid logo box, tied fabric dust bag, rolled tissue paper with round seal, printed size label card, kraft eco box, and hanging product tag\"},{\"title\":\"07\",\"subtitle\":\"BRAND APPLICATIONS\",\"position\":\"bottom-left\",\"count\":6,\"labels\":[\"WEBSITE\",\"MOBILE APP\",\"SOCIAL MEDIA\",\"POSTER\",\"LOOKBOOK\",\"CAMPAIGN POST\"],\"content\":\"6 digital brand touchpoints showing a laptop website homepage, smartphone app screen, social media post, poster design, lookbook cover, and campaign image tile, all using the same luxury warm neutral identity\"},{\"title\":\"08\",\"subtitle\":\"RETAIL / SPATIAL EXPERIENCE\",\"position\":\"bottom-center\",\"count\":6,\"labels\":[\"hero boutique interior\",\"ARCHITECTURAL DISPLAY\",\"MATERIAL PALETTE\",\"IMMERSIVE EXPERIENCE\",\"shelving detail\",\"furniture display\"],\"content\":\"large central render of an elegant arched shoe boutique with glowing amber lighting, wall niches filled with shoes, central display tables, branded back wall; smaller supporting images include display architecture, a 4-strip material palette, and additional retail vignettes\"},{\"title\":\"09\",\"subtitle\":\"CAMPAIGN / EDITORIAL SYSTEM\",\"position\":\"bottom-right\",\"count\":6,\"labels\":[\"headline panel\",\"hero sandal image\",\"ARCHITECTURAL COMPOSITION\",\"TIME FOR JOURNEYS\",\"MADE TO MOVE\",\"contact line\"],\"content\":\"editorial campaign collage with large serif headline 'A SUMMER IN MIRA SOL', a lifestyle product image of sandals on sunlit stone, three smaller product/editorial tiles, and a bottom contact strip with phone icon and number '+234 814 527 0409'\"}]},\"visual_direction\":{\"camera\":\"front-facing flat-lay presentation of brand boards, each panel neatly aligned with thin gutters\",\"rendering\":\"mix of photoreal product photography, interior visualization, packaging mockups, logo/typography design, and editorial layout\",\"lighting\":\"golden-hour warmth, soft shadows, subtle gradients, premium studio polish\"},\"color_palette\":{\"primary\":[{\"name\":\"SUN OCHRE\",\"hex\":\"#C99243\"},{\"name\":\"TERRACOTTA\",\"hex\":\"#B46A43\"},{\"name\":\"SAND STONE\",\"hex\":\"#DCC4A1\"},{\"name\":\"ESPRESSO\",\"hex\":\"#4B2E1F\"},{\"name\":\"CREAM\",\"hex\":\"#F7F1E3\"}]},\"text_elements\":{\"headline\":\"{argument name=\\\"campaign headline\\\" default=\\\"A SUMMER IN MIRA SOL\\\"}\",\"phone\":\"{argument name=\\\"phone number\\\" default=\\\"+234 814 527 0409\\\"}\"}}",
+    "title": "Luxury Footwear Brand Identity Board",
+    "description": "A polished 9-panel brand guideline and campaign board for a luxury footwear label, ideal for generating logo systems, packaging, product ranges, retail concepts, and editorial marketing visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539377144_k9qsqm_HHFTRS7XEAAkILa.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17218,
+    "content": "A highly polished parody trading card in the style of a classic Pokémon card, featuring {argument name=\"character name\" default=\"Richard Feynman\"} as the subject. Vertical card layout with a thick metallic gold border, rounded corners, glossy collectible finish, and dense printed card UI. At the top left, a silver capsule label reading \"BASIC\". Across the top, the large bold name \"{argument name=\"character name\" default=\"Richard Feynman\"}\" in black with white outline, and beneath it a silver banner subtitle reading \"{argument name=\"subtitle\" default=\"Theoretical Physicist\"}\". Top right shows \"HP 120\" next to a purple psychic-eye icon. The main illustration is a dramatic painterly portrait of Richard Feynman from the waist up, wearing a slightly wrinkled white short-sleeve button-up shirt with pens in the chest pocket, curly dark hair, and expressive hand gestures as if explaining physics; his face is obscured by a plain rectangular blur/block. The background is split visually: on the left, a dark chalkboard filled with handwritten physics equations and symbols, including a Lagrangian, psi notation, summation, and small Feynman diagram sketches; also visible is a quote in white chalk text, \"The Universe is made of atoms, but atoms are made of stories. – R. Feynman\". At the lower left of the art box is a stack of books with an atom emblem and a black-and-gold badge reading \"LEGEND\". On the right side of the art box, a vibrant cosmic scene with glowing particles, orbital paths, spirals, electric curls, and luminous galaxy-like swirls in blue, violet, gold, and orange. At the lower right of the illustration sits a white mug printed with the text \"There's Plenty of Room at the Bottom\". Beneath the portrait, a narrow silver stat strip reads \"NO. 1918 Theoretical Physicist HT: 5’6” WT: 135 lbs.\". The lower half of the card has a holographic purple-blue nebula background with card text panels. First is a red gradient pill-shaped label reading \"Ability\", followed by the ability name in large purple text: \"{argument name=\"ability name\" default=\"Path Integral Intuition\"}\" with a purple psychic-eye icon to the right. Below it, small black rules text: \"Once during your turn, you may look at the top 4 cards of your deck and put them back in any order. Then, you may draw a card. This ability represents Feynman’s mastery of seeing multiple possibilities and choosing elegant paths.\" Below that are 2 attacks. Attack 1 has 3 cost icons: 2 purple psychic-eye icons and 1 colorless star icon; title \"Feynman Diagrams\" with damage \"60+\" on the right; body text: \"This attack does 60 more damage for each different type of Pokémon in your opponent’s Active Pokémon’s Retreat Cost.\" Attack 2 has 3 cost icons: 2 purple psychic-eye icons and 1 colorless star icon; title \"There’s Plenty of Room\" with damage \"100\" on the right; body text: \"Search your deck for a basic Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck.\" Near the bottom is an italic flavor quote: \"I would rather have questions that can’t be answered than answers that can’t be questioned.\" – Richard Feynman. The bottom status bar contains exactly 3 labeled sections: weakness with a blue water-drop icon and \"×2\", resistance with a dark shield icon and \"-30\", and retreat with 2 colorless star icons. Bottom left has tiny print \"Illus. Ben Wootten\" and card number text \"002/150\" with a small star rarity symbol. Bottom right includes a small black silhouette of a standing man gesturing. Overall style: premium fan-made scientist trading card, nostalgic TCG typography, painterly realism for the portrait, holographic galaxy foil textures, crisp printed text, and playful crossover design.",
+    "title": "Richard Feynman Psychic Trading Card",
+    "description": "A fan-made collectible trading card prompt for generating a polished parody TCG card of Richard Feynman with cosmic physics imagery and dense game-style text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539437001_mx636s_HHFQWDmbYAAd3_4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17174,
+    "content": "A full-body studio render of a high-detail transforming anime mecha inspired by a red jet fighter robot, standing in a confident three-quarter front pose against a clean light gray seamless background. The robot has a heroic, angular silhouette with 2 tall vertical fins rising behind the head, 2 swept-back airplane wings mounted on the back and shoulders, and 2 forearm-mounted blaster cannons pointing downward. The armor is predominantly {argument name=\"primary armor color\" default=\"bright red\"} with white wing panels and lower legs, dark navy-charcoal inner frame and thighs, small yellow vent details on the chest and shoulders, and a glossy translucent blue cockpit canopy centered on the chest. The head is compact and mechanical with a dark faceplate and helmet-like structure, partially recessed between the shoulder assemblies. Add a small purple Decepticon-style insignia printed on the robot’s right wing. Emphasize hard-surface panel lines, layered mechanical plating, realistic joints, pistons, vents, intakes, and premium plastic-and-metal model-kit textures. The wings should have sharp aerodynamic edges with red striping, the shoulders should look like jet engine housings, and the legs should be bulky and armored with asymmetrical aircraft parts attached, including 2 small side fins near the calves and 1 visible missile-like detail on the outer right shin. Use crisp product-photography lighting, ultra-sharp focus, subtle shadow under the feet, and a polished collectible-toy / concept-art presentation in the style of a modern Japanese mecha design sheet.",
+    "title": "Red Jet Mecha Studio Render",
+    "description": "This prompt generates a clean studio-style full-body illustration of a red-and-white jet-themed anime robot, suitable for toy concept art, collectible renders, or mecha design showcases.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539402826_qspxpz_HHFOKE1bYAAdvgl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17132,
+    "content": "{\"type\":\"fashion style spectrum poster\",\"subject\":{\"theme\":\"one woman shown in 7 different fashion personas for outfit inspiration\",\"demographic\":\"young East Asian woman\",\"face_treatment\":\"softly obscured or intentionally blurred facial features\",\"poses_count\":7},\"scene\":{\"environment\":\"minimalist futuristic studio with curved architectural walls and a glowing circular dome ceiling\",\"background\":\"smooth warm gray gradient walls with soft halo lighting and a luxury editorial atmosphere\",\"floor\":\"dark matte floor with round pedestal platforms in light gray\",\"lighting\":\"soft diffused studio lighting, warm neutral highlights, subtle cinematic shadows, premium fashion campaign look\"},\"text\":{\"headline_cn\":\"你不只有一种样子\",\"headline_en\":\"Explore your style spectrum\",\"bottom_cn\":\"你最想成为哪一个？\",\"bottom_sub_cn\":\"评论区告诉我\"},\"layout\":{\"composition\":\"symmetrical editorial poster, large centered headline at top, seven full-body figures arranged in a gentle arc across the frame, small descriptive text blocks near each figure, call-to-action text centered at bottom\",\"sections\":[{\"title\":\"style personas\",\"position\":\"lower half across the image\",\"count\":7,\"labels\":[\"01 冷调智性\",\"02 氛围优雅\",\"03 韩系秘驰\",\"04 松弛本我\",\"05 城市利落\",\"06 温柔秋熟\",\"07 日常随性\"]}],\"centerpiece\":\"seven styled versions of the same woman in coordinated neutral-tone outfits\"},\"figures\":[{\"index\":1,\"label\":\"01 冷调智性\",\"position\":\"far left seated\",\"outfit\":\"dark charcoal oversized knit sweater with loose gray wide-leg trousers\",\"pose\":\"sitting sideways on a round pedestal with one knee raised, relaxed and introspective\",\"style_keywords\":[\"cool toned\",\"intellectual\",\"minimal\",\"quiet luxury\"]},{\"index\":2,\"label\":\"02 氛围优雅\",\"position\":\"left standing\",\"outfit\":\"soft gray off-shoulder knit top with tailored gray trousers\",\"pose\":\"standing in profile with hands in pockets, elegant and understated\",\"style_keywords\":[\"graceful\",\"refined\",\"soft\",\"urban\"]},{\"index\":3,\"label\":\"03 韩系秘驰\",\"position\":\"left-center standing\",\"outfit\":\"cream cardigan over a long flowing beige skirt, small light handbag\",\"pose\":\"gentle standing pose with slight turn, soft feminine mood\",\"style_keywords\":[\"Korean-inspired\",\"delicate\",\"romantic\",\"clean\"]},{\"index\":4,\"label\":\"04 松弛本我\",\"position\":\"front center seated\",\"outfit\":\"fitted white short-sleeve crop top and dark gray mini skirt\",\"pose\":\"seated on a low round pedestal with one leg bent forward, confident casual energy\",\"style_keywords\":[\"relaxed\",\"self-assured\",\"modern\",\"effortless\"]},{\"index\":5,\"label\":\"05 城市利落\",\"position\":\"center-right standing\",\"outfit\":\"gray blazer over a black top with dark wide-leg trousers\",\"pose\":\"standing upright with hands in pockets, poised and powerful\",\"style_keywords\":[\"city chic\",\"sharp\",\"tailored\",\"professional\"]},{\"index\":6,\"label\":\"06 温柔秋熟\",\"position\":\"right standing\",\"outfit\":\"dusty pink long-sleeve blouse with a flowing cream midi skirt\",\"pose\":\"standing with arms softly folded, elegant and warm\",\"style_keywords\":[\"gentle\",\"mature\",\"autumnal\",\"feminine\"]},{\"index\":7,\"label\":\"07 日常随性\",\"position\":\"far right seated\",\"outfit\":\"plain white t-shirt, loose beige cargo-style pants, white sneakers, light jacket draped beside her\",\"pose\":\"casually seated on a pedestal with one arm relaxed behind, everyday comfort vibe\",\"style_keywords\":[\"casual\",\"natural\",\"easygoing\",\"weekend\"]}],\"style\":{\"visual_genre\":\"high-end fashion editorial poster mixed with social media style guide\",\"color_palette\":[\"warm gray\",\"charcoal\",\"cream\",\"beige\",\"soft pink\",\"black\",\"white\"],\"rendering\":\"photorealistic, polished skin and fabric textures, subtle depth haze, luxury campaign finish\",\"aspect_ratio\":\"1:1\"},\"customization\":{\"headline\":\"{argument name=\\\"headline text\\\" default=\\\"你不只有一种样子\\\"}\",\"subtitle\":\"{argument name=\\\"subtitle text\\\" default=\\\"Explore your style spectrum\\\"}\",\"model_description\":\"{argument name=\\\"model description\\\" default=\\\"young East Asian woman\\\"}\",\"overall_style\":\"{argument name=\\\"overall style\\\" default=\\\"minimalist luxury fashion editorial\\\"}\",\"color_palette\":\"{argument name=\\\"color palette\\\" default=\\\"warm gray, cream, beige, charcoal, soft pink\\\"}\"}}",
+    "title": "Style Spectrum Fashion Poster",
+    "description": "A luxury editorial poster showing one woman in seven different fashion identities, ideal for personal style exploration, outfit inspiration, or social media fashion branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539377549_vf9391_HHFFcgJaEAA3-eW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17084,
+    "content": "Design twelve different hairstyles for the person in the image, paired with different outfits and poses, displayed in a twelve-grid layout. Also, provide a compatibility score for each image.",
+    "title": "Personalized Hairstyle and Outfit Matcher",
+    "description": "A prompt designed to test twelve different hairstyles and outfits on a reference photo, displayed in a 12-grid format with compatibility scores.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539343424_mqlsxl_HHE7vCpbQAAROsC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17207,
+    "content": "Create a dramatic premium sports shoe advertisement in a dark studio with cinematic black-and-gold lighting. A single athletic male model is captured in an explosive action pose from an extreme low-angle wide-lens perspective, with one oversized sneaker thrust toward the camera so it dominates the foreground. He is mid-leap or lunging forward, one knee bent, one arm stretched outward, wearing a metallic bronze bomber jacket over a black fitted shirt, black athletic shorts, black crew socks with a small gold triangular logo, and sleek black-and-gold running sneakers. The shoe design should feel futuristic and luxury-focused, with black mesh panels, glossy black leather overlays, metallic gold accents, gold eyelets, branded tongue detail, and a sculptural open heel support element. Add glowing gold energy streaks, sparks, debris, and an impact burst radiating from the ground beneath the lead shoe, with a glossy reflective floor catching the highlights. In the background, place huge illuminated golden typography reading {argument name=\"brand text\" default=\"VOLTEX\"} and smaller text reading {argument name=\"product line\" default=\"ELITE\"}, integrated behind the athlete as part of the composition. Use high contrast, sharp detail, commercial fashion photography styling, dynamic motion blur only in the particles and light trails, luxurious premium athletic branding, and a bold hero-shot composition suitable for a footwear campaign. Include 2 visible shoes, 2 visible socks, 1 jacket, 1 shirt, and 1 pair of shorts. Add a small top-right corner watermark area with the text {argument name=\"watermark brand\" default=\"insMind\"} and {argument name=\"watermark model\" default=\"GPT Image 2\"}. Keep the palette predominantly black, bronze, and glowing gold.",
+    "title": "Luxury Black and Gold Sneaker Ad",
+    "description": "This prompt generates a dramatic premium athletic footwear advertisement with a male model in motion, ideal for sneaker campaigns, sports branding, and high-impact social ads.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539426756_8538am_HHE7s6LasAAFmTD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17022,
+    "content": "Luxury fashion editorial poster, premium magazine collage style, earthy neutral color palette (beige, olive green, charcoal, soft gold accents). A confident elegant young East Asian woman standing in a relaxed pose, wearing a satin olive slip dress with soft draping and a beige oversized blazer. Natural makeup, glowing skin, soft wavy brown hair, minimal gold jewelry (earrings + delicate necklace). Background: abstract artistic collage with layered textures — torn paper, marble circle, brush strokes, botanical leaf prints, subtle grid pattern, ink textures, and geometric shapes. Add a warm hanging bulb light with soft glow and shadow of leaves for depth. Typography: large vertical serif text “PREMIUM” on the left in metallic gold texture, high-end editorial font. Small elegant text elements like: “confidence. elegance. you.” “be you do you for you” “class is timeless quality is forever” Composition: clean hierarchy, balanced negative space, modern luxury layout, soft shadows, depth layering, slightly grainy editorial texture. Lighting: soft diffused studio lighting with warm highlights, cinematic tone. Style: Gucci-style premium fashion campaign, ultra-realistic, high resolution, editorial photography + graphic design fusion",
+    "title": "Luxury Fashion Editorial Magazine Poster",
+    "description": "A prompt for creating a premium magazine-style collage for a fashion campaign, featuring elegant typography and artistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539298823_msie5q_HHE05rNbcAA3BFZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17215,
+    "content": "A high-energy cyberpop promotional poster for an AI video workflow, featuring 5 young female dance performers in a confident K-pop-inspired formation on a futuristic neon stage. The center performer stands slightly forward with hands on hips, wearing a white asymmetrical crop top and a dark blue sequined mini skirt, long light brown wavy hair, athletic slim build. Flanking her are 2 performers in matching black leather crop tops and black leather shorts, also hands on hips, long dark hair, bold stage styling. On the far left is 1 performer in a pink corset-style sleeveless top and white pleated mini skirt. On the far right is 1 performer in a fitted white cropped jacket and white mini skirt. All 5 women wear glamorous concert styling, bare legs, and statement necklaces, with strong stage confidence and symmetrical spacing. Behind them, enormous Chinese headline text dominates the upper half: {argument name=\"headline text\" default=\"影片工作流\"}, rendered in oversized metallic white 3D block letters with hot pink and purple neon glow, glossy highlights, and beveled edges. Beneath the headline are 6 workflow labels in glowing capsule boxes, split into two groups: left side 3 labels \"策划\", \"拍摄\", \"剪辑\"; right side 3 labels \"调色\", \"特效\", \"输出\". The background is a dark concert-like sci-fi environment with radiant purple laser beams, starburst lens flares, magenta light streaks, and a reflective glossy floor mirroring the figures and lighting. Use a wide cinematic composition, centered poster layout, ultra-saturated magenta-violet palette, polished commercial key art, dramatic rim lighting, high contrast, glossy skin highlights, and a sleek AI-generated entertainment marketing aesthetic. Make it look like a bold social media cover image for a one-stop AI music video production pipeline.",
+    "title": "Neon AI Video Workflow Dance Poster",
+    "description": "This prompt generates a flashy neon Chinese promo poster with 5 female performers and workflow text, ideal for social posts or ads about AI video production.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539434214_bblm45_HHE01tYasAAGlvL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17076,
+    "content": "Design a complete set of product packaging visual designs for this {argument name=\"product\" default=\"yam\"}.",
+    "title": "Yam Product Packaging Design Prompt",
+    "description": "A prompt designed to create a comprehensive visual packaging design for a specific product, such as a Chinese yam, turning a simple photo into professional marketing material.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539332732_vbi9we_HHEub_8asAEX5bz.jpg",
+      "https://cms-assets.youmind.com/media/1777539332907_ovsg6l_HHEucAMbcAABm7Q.jpg",
+      "https://cms-assets.youmind.com/media/1777539333108_gmyob4_HHEucANaQAAVFyw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17048,
+    "content": "Create a hyper-realistic VOGUE magazine cover featuring the same woman (keep face identical). She is seated in a relaxed editorial pose on a sculptural sofa. Outfit: {argument name=\"fashion style\" default=\"avant-garde high-fashion look\"} — asymmetrical blazer, silk textures, bold tailoring, statement heels. Styling: glossy lips, dewy glowing skin, slightly dramatic eye makeup. Lighting: soft diffused studio light with luxury glow. Background: minimal beige/cream studio with fashion shadows. Headline: “{argument name=\"headline\" default=\"The New Power Aesthetic\"}” Subtext: “{argument name=\"subtext\" default=\"MIRA — where influence meets couture\"}” Style: high-fashion editorial, artistic, 8K, Vogue photoshoot vibe.",
+    "title": "Vogue Fashion Magazine Cover",
+    "description": "A prompt for generating high-fashion editorial magazine covers with professional studio lighting and avant-garde styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539311797_eoyqon_HHErNvzW4AEAAwd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17135,
+    "content": "Create a premium e-commerce product advertisement in a clean botanical skincare style, featuring an open gift box of {argument name=\"product name\" default=\"MONSTER 皮肤精华\"} centered on a light stone tabletop. The packaging is pale sage green and off-white with a minimalist luxury aesthetic, soft matte finish, and delicate watercolor leaf illustrations inside the lid and on the sachets. The box lid is open upright, showing elegant typography: the large brand line {argument name=\"brand text\" default=\"MONSTER 皮肤精华\"}, a secondary line {argument name=\"headline text\" default=\"7天舒缓肌肤\"}, smaller Chinese copy beneath, and 3 small circular feature icons aligned horizontally in the center area. Inside the box, show exactly 4 flat sheet-mask sachets stacked on the left and exactly 5 slim glass serum ampoules standing in a row on the right, each with silver caps and vertical label text. On the front lip of the box, print the same product branding in small refined type. On the right side of the composition, place exactly 3 vertically stacked line-art benefit icons with bilingual labels: a leaf icon with {argument name=\"benefit one\" default=\"舒缓修护\"} and the English subtitle \"SOOTHING REPAIR\", wavy water lines with {argument name=\"benefit two\" default=\"水润保湿\"} and the English subtitle \"HYDRATING\", and a balance scale icon with the Chinese label \"平衡肌肤\" and the English subtitle \"BALANCE\". Surround the scene with a serene natural spa environment: soft-focus green branches entering from the upper left and upper right edges, moss-covered stones on both sides, subtle leaves in the foreground, and diffused daylight on a warm ivory background. Use a balanced front-facing composition, gentle shadows, high-end commercial lighting, crisp packaging detail, muted green palette, and a calm, trustworthy, premium skincare advertisement look.",
+    "title": "Botanical Skincare Gift Box Ad",
+    "description": "This prompt generates a polished e-commerce skincare product hero image with an open gift box, botanical styling, and premium spa-like branding for commercial advertising.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539379395_iasohm_HHEo8Una8AAN4CH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17077,
+    "content": "Try to help me generate an instructional diagram and a conceptual promotional poster for mixing a {argument name=\"drink\" default=\"Blue Tears\"} cocktail (use your imagination for ingredients and process, but make it clear and reproducible), in a {argument name=\"style\" default=\"luxury lounge poster style\"}, horizontal orientation.",
+    "title": "Cocktail Recipe Tutorial and Concept Poster",
+    "description": "Generates a horizontal promotional poster and instructional diagram for a specific cocktail, including ingredients and preparation steps.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539333945_ia4ine_HHEl2F3bUAAfGj-.jpg",
+      "https://cms-assets.youmind.com/media/1777539333883_q4znd7_HHEl2F3bQAAy_np.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17115,
+    "content": "A full-body fashion portrait of a stylish older woman standing confidently on a covered outdoor patio, centered in the frame, hands on hips, looking straight at the camera. She has short, softly curled {argument name=\"hair color\" default=\"white\"} hair in a voluminous pixie-bob style, with a mature elegant presence. She wears a fitted long-sleeve cropped turtleneck in {argument name=\"top color\" default=\"rust brown\"}, high-waisted light blue wide-leg distressed jeans with 5 visible torn or frayed areas, tan wooden platform mule heels, and a tan leather bucket bag with long fringe hanging from one arm. Accessories include 1 large gold medallion pendant necklace, multiple stacked bracelets, and rings. The setting is an upscale neutral-toned patio with a stone tile floor, wicker outdoor seating in the foreground, a dark blue sideboard cabinet in the back, a wall-mounted flat-screen TV on the left, 2 lantern decor pieces on the cabinet, potted greenery, cream stucco columns, and lush green hedges visible outside. Natural daylight, soft editorial lighting, realistic photography, vertical composition, sharp focus on outfit details, luxury lifestyle fashion shoot, relaxed but polished styling.",
+    "title": "Chic Older Woman Patio Fashion Portrait",
+    "description": "This prompt generates a realistic full-body fashion photo of a stylish mature woman in a modern casual outfit, ideal for lifestyle editorials, boutique marketing, or outfit inspiration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539365932_9fyzed_HHEj5ikaEAA0hCI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17114,
+    "content": "A full-body fashion photo of a stylish mature woman standing on a covered outdoor patio in bright natural daytime light. She has voluminous short platinum-blonde hair and a confident pose with both hands on her hips, one leg crossed casually in front of the other. Her face is softly obscured and not detailed. She wears a fitted long-sleeve cropped top in {argument name=\"top color\" default=\"warm rust brown\"}, high-waisted light blue distressed wide-leg jeans with several ripped areas, and chunky brown platform slide sandals. She is heavily accessorized with layered necklaces including one large statement pendant, multiple stacked bracelets, rings, drop earrings, and a smartwatch. She carries a small beaded drawstring bucket bag in {argument name=\"bag color\" default=\"cognac brown\"} hanging from one hand. The setting is an upscale backyard lounge with woven dark rattan patio furniture, cream cushions, a striped beige outdoor rug, a blue cabinet with a television above it, sliding glass doors, and greenery visible outside. Add a few pink flowers on the left and fern leaves entering the frame at the bottom right. The overall look should feel like a polished lifestyle influencer outfit photo, realistic smartphone photography, slightly elevated exposure, crisp detail, flattering natural light, vertical composition.",
+    "title": "Chic Patio Outfit Photo",
+    "description": "A realistic full-body lifestyle fashion image of a stylish older woman posing on an elegant patio, ideal for outfit inspiration or social media style content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539365381_xoknb4_HHEj3unb0AASM0N.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17034,
+    "content": "Use the face and l exact appearance of the man in the uploaded image as reference. Create an intense powerful gym supplement advertisement for \"{argument name=\"brand name\" default=\"IRON\"}\" protein brand.\n\nPerson wearing: {argument name=\"outfit\" default=\"Fitted black sleeveless compression tank top, athletic shorts\"}, extremely athletic and muscular powerful look.\n\nPose: Mid powerful flex pose showing strength, veins visible on arms, intense focused expression, giant oversized black and red supplement tub prop dramatically placed behind him.\n\nBackground: Dark dramatic background with deep red and black color grade, smoke and dust effect, massive bold heavy black typography \"{argument name=\"brand name\" default=\"IRON\"}\" with red outline filling background.\n\nProduct: Supplement tub shown bottom right corner  with nutrition facts visible.\n\nTagline bottom center in bold red aggressive font: \"{argument name=\"tagline\" default=\"Built different. Trained harder.\"}\"\n\nTop right watermark: \"GPT image 2\"\n\nFloor: Dark gym floor with dramatic red light reflections glowing beneath.\n\nLighting: Hard dramatic studio lighting with smoke machine effect, ultra intense.\n\nStyle: Optimum Nutrition, Ghost campaign level.\n\nQuality: Ultra HD 8K photorealistic, portrait 3:4 ratio.",
+    "title": "Supplement Brand Ad Campaign",
+    "description": "An intense fitness supplement advertisement prompt using a reference image for the model's appearance, focusing on dramatic lighting and branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539305110_0jgyr7_HHEi6P7awAAZ1z4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17039,
+    "content": "Create a bold, high-contrast black and white portrait of a {argument name=\"subject\" default=\"confident young man wearing a black leather jacket\"}, facing slightly sideways with an intense expression. Use dramatic studio lighting with sharp shadows and detailed skin texture for a cinematic look. Add {argument name=\"graphic element\" default=\"strong red graphic elements\"} layered over the image, including a horizontal red bar across the eyes, geometric shapes, thin lines, and framing boxes. Incorporate large, bold typography in the background and foreground. Use a modern sans-serif font with repeated faded text behind the subject (like a name pattern), and a strong motivational headline in bright red such as: “{argument name=\"headline\" default=\"WORK SMART NOT HARD\"}”. Design layout should feel like a premium sports or streetwear campaign poster. Keep the background minimal and textured grey. Add subtle branding-style elements like a hashtag (#AD) and small text like “GRAPHICS”. Color palette: black, white, grey, and vibrant red only. Style: clean, modern, aggressive, editorial, Nike-style campaign poster. Focus on sharp details, contrast, and composition balance.",
+    "title": "Streetwear Campaign Poster",
+    "description": "A high-contrast editorial poster prompt combining black and white photography with bold red typography and branding elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539308299_m0grg5_HHEcJcibQAEsSmU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17046,
+    "content": "A playful, surreal studio portrait of a {argument name=\"subject\" default=\"young woman\"} mid-jump against a solid {argument name=\"background color\" default=\"mustard-yellow\"} background. She wears a {argument name=\"clothing\" default=\"cozy yellow nike football jersey tshirt\"} , blue jeans, yellow socks, and green sneakers. Large over-ear headphones and round oval yellow sunglasses accent her look. She’s blowing a pink bubblegum bubble while accidentally spilling a coffee cup, frozen mid-air with dynamic motion. A fluffy white cat wearing tiny yellow glasses sits calmly on her shoulder. Bright, bold monochrome color palette, whimsical fashion editorial style, sharp focus, high-speed photography, soft studio lighting, ultra-detailed, modern aesthetic, 4k resolution.",
+    "title": "Surreal Studio Fashion Portrait",
+    "description": "A playful and surreal fashion editorial prompt featuring a woman mid-jump with dynamic motion and vibrant colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539311987_6jburl_HHEXE9NbsAAzSXX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17082,
+    "content": "A photo of a live-action Nanoblock-style mini-block creation with the theme of {argument name=\"motif\" default=\"character name or reference image\"}.\n\nRecreate the characteristics of the character in the reference image in a deformed way using fine blocks. Incorporate the hairstyle, hair color, eye color, ears, clothing color scheme, accessories, and iconic small items into the block representation. However, it should not look like an illustration, but like an actual small block toy that has been assembled.\n\nThe character is the size of a small figurine and is placed on a desk. The corners of the blocks, steps, unevenness, plastic gloss, and slight assembly gaps are visible. Place extra block parts, assembly instructions, a small transparent bag, and tweezers nearby.\n\nThe background is a simple indoor work desk. Natural light or soft studio lighting. Shallow depth of field, macro photography, realistic textures, product photo style. High definition, realistic, miniature feel, cute, collectible atmosphere.\n\n3:4.",
+    "title": "Custom Nanoblock Toy Creator",
+    "description": "A highly detailed prompt for generating realistic photos of Nanoblock-style mini figures based on specific characters, including a workshop desk background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539340706_uofj6i_HHEWl_RaUAAjSEK.jpg",
+      "https://cms-assets.youmind.com/media/1777539340544_4eh49z_HHEWl_JbgAAn9Hl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17190,
+    "content": "A clean, minimalist product still life for a beauty reel cover, shot in a vertical 9:16 composition. Place exactly 5 sunscreen and UV skincare products standing upright in a straight row on a pale off-white shelf against a warm ivory textured plaster wall. From left to right: 1) a glossy blue-to-gold gradient bottle with a rounded cap, 2) a matte white squeeze tube, 3) a slightly curved white squeeze tube with soft beige tinting and elegant black lettering, 4) a slim beige-pink tube with a metallic gold cap, 5) a white tube with blue labeling. Use soft natural sunlight coming from the left, creating delicate botanical leaf shadows on the upper left side of the wall and faint shadows behind the products. Keep the styling airy, premium, and understated, with lots of negative space above the products for cover text. Neutral cream, white, beige, and blue palette, realistic commercial photography, subtle texture, sharp focus on the packaging, gentle high-end skincare advertising mood.",
+    "title": "Minimal Sunscreen Product Cover",
+    "description": "This generates a polished vertical skincare product lineup photo suited for social media reel covers, beauty promotions, and clean lifestyle branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539414127_gf5dz6_HHES-xCaIAAxyDU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17017,
+    "content": "Create Instagram social media creatives for the Energy Drink brand {argument name=\"brand name\" default=\"SHAMUS\"}. Generate {argument name=\"post count\" default=\"4\"} Social media posters. featuring a {argument name=\"brand name\" default=\"SHAMUS\"} cans. {argument name=\"post count\" default=\"4\"} social media designs. {argument name=\"flavor count\" default=\"4\"} different flavours. Add a creative copy based on the product. The copy must be playful and energetic, use a playful font for this which matches the Vibe with strong layout variations. The logo must be Right cornner, balance the layout. high-end social media creative design. ultra-realistic. photorealism. strong branding, and visual consistency.",
+    "title": "Energy Drink Brand Instagram Creatives",
+    "description": "A comprehensive prompt for creating a set of professional social media posters for a beverage brand with varied flavors and high-end branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539296329_t4dy21_HHESYYdbAAAvokZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17137,
+    "content": "A vertical cyberpunk promotional poster for a custom sci-fi display typeface, set in a neon-drenched future city at sunset. The composition is dominated at the top by huge metallic 3D title text reading AI 超世代, with the English letters \"AI\" above the Chinese characters, all rendered in a heavy steel mecha-style black font with beveled edges, chrome reflections, deep gunmetal surfaces, electric blue inner glow, cyan rim lighting, and sharp industrial geometry. Below the title, in the foreground, a cute chibi robot mascot stands heroically in the center, white armored body with black joints, glossy black digital face screen, bright cyan glowing eyes with one eye winking, open smiling mouth, gold headphone-like ear discs, and a glowing triangular chest emblem, raising one fist triumphantly while stepping forward. Surrounding it are 6 supporting robot characters and drones: 1 cat-eared chibi robot at bottom left with pink paw pads and joyful glowing face, 1 rabbit-eared chibi robot at bottom right running forward, 1 boxy utility robot vehicle at far bottom right with a small digital face, 1 spherical drone at upper left, 1 spherical drone at upper right, and 1 larger flying robot at mid-left. The background is a dense futuristic city canyon with tall skyscrapers on both sides, elevated roads, holographic billboards, glowing signage, and atmospheric perspective fading into the bright center. Include 3 clearly visible billboard screens: 1 pink neon cat-themed billboard on the left, 1 blue holographic robot schematic billboard on the upper right, and 1 purple neon billboard on the lower right. The street is glossy and reflective with luminous circuit-like lane markings and cyan-magenta light streaks. Use a dramatic low-angle perspective, centered symmetrical poster layout, high contrast, vibrant cyan, magenta, purple, orange, and gold lighting, polished anime-meets-3D illustration style, cinematic sunset clouds, energetic, playful, futuristic, adorable yet epic tech-branding aesthetic.",
+    "title": "Cyberpunk AI Typeface Poster",
+    "description": "A vibrant futuristic poster featuring giant mecha-style title lettering and cute robot mascots, ideal for showcasing custom sci-fi typography or AI-themed branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539379544_38kmvk_HHENauwbYAADGHb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17172,
+    "content": "A premium vertical poster advertisement for a fictional sports gym brand, photographed in a realistic high-end fitness editorial style. Show a fit athletic adult woman with a toned, curvy physique in a modern gym, captured from upper thighs to head in a dynamic three-quarter pose while performing a cable machine exercise. She has {argument name=\"hair color\" default=\"golden blonde\"} hair tied in a high ponytail with loose strands, lightly glistening skin as if from sweat, and she wears a deep navy blue high-cut one-piece training bodysuit with thin straps. Her right hand grips a black cable handle close to her waist, with the cable extending diagonally down to the right; her left arm is bent and braced outward near the machine column. Use dramatic warm sunlight from the side mixed with cool gym ambient light, strong highlights on shoulders, chest, arms, and thighs, shallow depth of field, blurred weight machines in the background, and a luxurious, motivational commercial fitness atmosphere. Compose the layout like a Japanese gym poster with bold white Mincho-style vertical headline text in the upper left reading {argument name=\"headline text\" default=\"整える強さ。\"}, a thin blue horizontal line beneath it, and a smaller white subheadline below reading {argument name=\"subheadline text\" default=\"無理をしない。続ける。\"}. In the bottom left, place a minimalist geometric logo mark above the brand name {argument name=\"brand name\" default=\"NOVAFIT\"} in white uppercase sans serif, with the small tagline {argument name=\"tagline\" default=\"STRENGTH & BALANCE\"}. Clean premium typography, strong contrast, aspirational branding, practical ad-poster design, 4:5 vertical format.",
+    "title": "Premium Japanese Gym Poster",
+    "description": "This generates a polished vertical fitness advertisement poster for a fictional gym, suitable for branding mockups, campaign visuals, or premium commercial poster design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539401461_ipg9rz_HHEIdyubAAAl2hj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17184,
+    "content": "A polished anime-style corporate team illustration in a bright modern creative studio, featuring exactly 3 seated women shown from the waist up behind a worktable, arranged left to right as a team introduction poster. The overall mood is elegant, professional, soft, and slightly dreamy, with delicate linework, painterly shading, airy window light, muted pastel colors, and refined visual-novel/key-art rendering. On the left, a stylish digital artist named {argument name=\"character name\" default=\"Runa\"} with voluminous wavy lavender hair in a high ponytail with braided accents and loose strands, wearing a black camisole with lace trim, layered necklaces, and an oversized translucent lavender jacket slipping off the shoulders, holds a stylus in one hand beside a pen-display tablet showing a purple-toned anime illustration. In the center, a virtual singer character named {argument name=\"character name\" default=\"種守 詩乃\"} with very long straight silver-lilac hair, cool pale skin, and a calm expression, wears a black inner top under a glossy translucent jacket with belts and straps, plus delicate star-like hair accessories, posed with one hand near the collar. On the right, an editor/director named {argument name=\"character name\" default=\"橋本 推\"} with short ash-brown hair and a neat side part, wearing a white button-up shirt, dark cardigan, and lanyard, sits thoughtfully with one hand at the chin and the other holding a pen over documents. The office background includes tall bookshelves, binders, a softly glowing large window, a wall planning board with diagrams and notes, stacks of papers, notebooks, mugs, and desk clutter that feels actively used but organized. Add printed branding and editorial layout text integrated into the image like a recruitment or mission poster: top left header \"KAMINOOPS STUDIO\", below it \"クリエイターチーム\" and a short Japanese mission paragraph; top right header \"Our Mission\" with Japanese supporting text; 3 name-card panels aligned below the characters, one for each person, each including the role line, a short Japanese profile paragraph, and age and height details; and a bottom horizontal information band split into exactly 4 boxed sections, including a left title area about team connection, exactly 3 icon-based explanatory boxes in the middle, and a right box titled about team values with exactly 3 bullet points. Use a clean editorial composition with subtle borders and semi-transparent white panels for text, realistic desk perspective, high detail in fabric sheen and hair strands, and a premium Japanese studio brochure aesthetic.",
+    "title": "Anime Creative Team Studio Poster",
+    "description": "This prompt generates a polished anime-style studio recruitment or team-introduction poster with three professional women, editorial text panels, and a bright modern office setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539397186_2nggno_HHD8L6YaQAAeO2u.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17089,
+    "content": "Based on the character settings and illustrations, please create a package illustration for a {argument name=\"genre\" default=\"BL game\"} featuring {argument name=\"number of people\" default=\"three office workers\"}.\nimage 1: Character description\nimage 2: Character description\nimage 3: Character description\n*Do not use real people, voice actors, authors, or work names.\n*Consist entirely of fictional names and settings.\n*Do not suggest any connection with existing works.\n*Use simple and clear notation to prevent garbled text. It will harmonize characters based on images from three different output methods (SD types and niji7) into the same tone!",
+    "title": "BL Game Package Design",
+    "description": "A prompt designed to create a Boy's Love (BL) game package illustration featuring three office workers, ensuring style consistency from mixed image sources.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539349596_4pl4xr_HHD4PdzaIAEzKug.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17141,
+    "content": "A cinematic fashion photograph of a {argument name=\"subject\" default=\"young woman\"} standing on a wet dark rock ledge in front of a towering waterfall inside a rocky gorge. Full-body shot, wide horizontal composition, subject placed slightly right of center, with the waterfall occupying most of the left and center background as a huge curtain of white rushing water and mist. The scene feels moody, elegant, and realistic, with natural overcast lighting, cool gray tones in the environment, and subtle contrast against the warm skin tones. She has a slim athletic figure, long legs, and {argument name=\"hair style\" default=\"dark hair tied in a high messy ponytail\"}. Her face is turned slightly to the side for a composed editorial pose. She wears a {argument name=\"top color\" default=\"dark brown\"} asymmetrical one-shoulder ruched crop top, a {argument name=\"bottom style\" default=\"beige high-waisted wrap mini skirt with a thin belt and short built-in shorts\"}, and strappy high-heel sandals. Her skin and outfit are slightly wet from the spray. Pose with one leg extended forward, hips angled, one arm relaxed by her side, the other resting naturally, creating a confident luxury fashion-editorial silhouette. Background details include 1 large waterfall, 1 slick black rock wall on the right, and 1 wet reflective stone platform underfoot. Ultra-realistic photography, high detail, shallow depth of field but with the waterfall still recognizable, soft mist, water droplets, dramatic natural texture, premium magazine shoot aesthetic, muted earthy palette, no text, no extra people, no props.",
+    "title": "Fashion Portrait at a Waterfall",
+    "description": "This prompt generates a realistic editorial-style full-body fashion photo of a woman posing on wet rocks before a dramatic waterfall, ideal for cinematic portrait and luxury lifestyle imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539381763_9kj3g0_HHDzmVTaEAA2v2w.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17074,
+    "content": "Inspired by this bag of {argument name=\"inspiration source\" default=\"instant noodles\"}, design a set of {argument name=\"clothing type\" default=\"men's wear\"}.",
+    "title": "Noodle-Inspired Fashion Design",
+    "description": "A creative prompt that uses a specific reference image (instant noodles) as inspiration to design a men's clothing set.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539332047_e0trzr_HHDzJ2_bYAA9vDw.jpg",
+      "https://cms-assets.youmind.com/media/1777539332500_0ozlhs_HHDzJ8ibEAAaLb6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17023,
+    "content": "Luxury fashion advertisement poster, ultra-premium editorial style (Gucci aesthetic), soft warm beige gradient background with subtle shadows and depth. A confident elegant young woman posing naturally beside a minimal stool, wearing flowy high-waist wide-leg trousers (rich warm brown) and a silky cream blouse, soft curls, minimal gold jewelry, cinematic soft lighting, realistic skin texture, high-end fashion photography. Clean modern layout with strong hierarchy and spacing: Left side: Large vertical text “TROUSERS” in premium serif font (Didot / Bodoni style), high letter spacing, slightly faded brown tone. Small vertical subtext: “EFFORTLESS STYLE. PERFECT FIT.” in thin sans-serif, minimal and elegant. Right side product card: Rounded soft card showing zoomed-in waist detail (same outfit as model) Title: “HIGH WAIST” in serif font Subtext: Flattering Fit, All-Day Comfort in light sans-serif Soft shadow and subtle border Below: Color swatches (navy, beige, taupe, black), perfectly aligned, evenly spaced Sizes row (XS S M L) styled as premium pill buttons “S” filled others outlined Remove unnecessary text like heights, keep layout minimal and breathable. Overall look: High fashion magazine aesthetic Clean spacing, grid aligned Soft shadows, subtle gradients Ultra realistic, sharp, 4K, luxury branding feel",
+    "title": "High-End Trousers Advertising Poster",
+    "description": "A sophisticated fashion advertisement prompt focusing on high-waist trousers with a clean, modern layout and product detail cards.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539298948_bjz1vj_HHDxtGQbUAA0X_e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16867,
     "content": "Create a surreal lifestyle fashion advertisement poster for {argument name=\"brand name\" default=\"crocs\"}. Vertical composition, photorealistic, golden-hour outdoor lighting. A young woman sits relaxed on a grassy lakeside meadow filled with small white daisies, leaning against an enormous oversized foam clog in a pale sage green color. The giant shoe should dominate the scene like a playful sculpture, positioned behind her at a slight angle with the heel strap raised upright and visible round logo rivet on the side. Show realistic Crocs-style details: ventilation holes on top, textured molded foam surface, thick sole, front ports, and side perforations. The model wears matching light green clogs, white scrunched crew socks, a muted sage green cropped tank top, high-waisted cream patterned shorts, an open loose white shirt draped off her shoulders, and a simple necklace. She has dark hair in a messy bun and reclines with one knee bent, gazing upward in a carefree pose. Background: calm lake, distant green hills or low mountains, and a bright blue sky with large soft cumulus clouds. Use a clean editorial ad aesthetic with cheerful, airy summer vibes, shallow depth of field but enough clarity to keep both the model and giant clog sharp. Add centered white brand text at the top: large rounded lowercase logo reading {argument name=\"logo text\" default=\"crocs\"} with a small trademark symbol, and beneath it a white slogan line reading {argument name=\"tagline\" default=\"Come as you are. Comfort follows.\"}. Emphasize harmony between the model's outfit and the shoe color palette, aspirational comfort, whimsical scale contrast, and polished commercial photography.",
     "title": "Surreal Crocs Summer Ad Poster",
@@ -20,26 +428,344 @@
     "needReferenceImages": true
   },
   {
-    "id": 16835,
-    "content": "Design a set of {argument name=\"style\" default=\"cool-style\"} women's clothing inspired by {argument name=\"product\" default=\"this product\"}",
-    "title": "Fashion Design Inspired by Products",
-    "description": "A creative prompt for designing a set of cool-style women's clothing inspired by a specific product or item",
+    "id": 17018,
+    "content": "A high-quality, interactive Korean-style poster featuring a cheerful, expressive girl as the main character, hugging a bottled drink called {argument name=\"brand name\" default=\"[BRAND NAME]\"}. The style is cute, fun, and playful, inspired by K-pop ads, with soft lighting and slightly glossy textures. She has an exaggeratedly happy, \"ulzzang\" vibe expression and holds the refreshing-looking bottle close to the camera. The poster is adorned with floating playful stickers (hearts, stars, fruit bubbles) and dynamic elements like splashes and motion lines. UI-like labels like \"NEW,\" \"LIMITED,\" and badges enhance the interactive feel. The bottle itself has realistic condensation and glows under soft studio lighting, making it feel like a hero product. A large, catchy Korean-style headline reads, with supporting text for flavor and benefits below it, like. Aesthetic Korean words such as \"맛있다\" (tasty) and \"신상\" (new item) are scattered throughout. The vertical composition has layered depth, bright, youthful pastel colors (matching the flavor color), and a fun, energetic Gen Z appeal that feels like a viral Korean beverage campaign.",
+    "title": "Korean-Style Interactive Beverage Poster",
+    "description": "A colorful and energetic prompt for a K-pop inspired beverage ad, featuring playful stickers and dynamic product visuals.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777453152940_ytic3l_HHDUVVDaEAAuhTg.jpg",
-      "https://cms-assets.youmind.com/media/1777453153032_cb21x2_HHDUXjVasAAVcLR.jpg",
-      "https://cms-assets.youmind.com/media/1777453153069_1y9i1j_HHDUZX7bYAAvMVg.jpg",
-      "https://cms-assets.youmind.com/media/1777453154653_12x04p_HHDUa-yaoAA5ejz.jpg"
+      "https://cms-assets.youmind.com/media/1777539296879_f5zvsk_HHDtYJZWYAAmqrF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17004,
+    "content": "A cinematic fitness advertising campaign in a 3-panel collage layout (1:1), featuring a top wide hero shot and two smaller panels below. High-end editorial style with dramatic lighting, strong shadows, and minimal studio environment. Elite female fitness athlete with a strong, sculpted athletic physique. Wearing a {argument name=\"clothing color\" default=\"beige / sand-toned\"} performance sports bra and matching biker shorts, paired with premium training sneakers and mid-length athletic socks. Hair in a tight high ponytail, subtle sweat highlights for realism. Minimal industrial concrete studio with textured walls and a matte reflective floor. Warm directional lighting with cinematic contrast. Clean, luxury fitness aesthetic. TOP PANEL — HERO STATEMENT: Athlete seated confidently on a matte black training cube, one leg extended, one bent. A black medicine ball placed near her foot. Strong posture, looking off-frame with intensity. Typography (large, bold editorial): “{argument name=\"main headline\" default=\"DISCIPLINE BUILDS POWER\"}”. BOTTOM LEFT PANEL — PROFILE / PRESENCE: Close-up side profile, athlete standing or seated slightly turned. Focus on facial structure, posture, and muscle tone. Typography: “CONTROL. CONSISTENCY. CLARITY.” BOTTOM RIGHT PANEL — MENTAL FOCUS: Athlete seated on floor or low block, elbows resting on knees, hand near chin in a thoughtful pose. Medicine ball beside her. Typography: “STRENGTH STARTS WITHIN”. ultra realistic, high detail, 4k, cinematic lighting, soft shadows, global illumination, editorial photography, luxury fitness branding, depth of field, sharp typography",
+    "title": "Luxury Fitness Advertising Poster",
+    "description": "A comprehensive multi-panel collage prompt for a high-end fitness editorial campaign with industrial aesthetic and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539291501_gbq03p_HHDKW4AasAAYDj-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17012,
+    "content": "Generate a \"{argument name=\"subject\" default=\"cat\"}\" character promotional poster with a straight main visual composition. Each poster uses the upper and lower hierarchy: the most recognizable head, face outline, mask or outer outline of the figure is the large visual subject, forming a highly recognizable silhouette main shape; the middle and lower part is arranged with the complete figure as the second subject. Double exposure and collage narrative compositions inside and around the large outline, combining multiple scenes, images, small character relationships, auxiliary elements and environmental layers in clouds, ink, and whitening. The overall picture retains a large area of whiteness, and the edge is stained with ink and virtual broken, creating a real relationship and breath in the {argument name=\"style\" default=\"Oriental aesthetics\"}. Size: 3:4",
+    "title": "Oriental Aesthetic Poster Design",
+    "description": "A serialized poster design prompt using Oriental aesthetics, double exposure, and ink stains for a character silhouette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539294637_vf8deo_HHDgmKxXkAAs4Dy.jpg",
+      "https://cms-assets.youmind.com/media/1777539294610_9e89lm_HHDgl7YasAAwbfH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17005,
+    "content": "A cinematic tennis advertising campaign in a 3-panel collage layout (1:1), featuring a top wide hero shot and two smaller panels below. Ultra-premium sports editorial aesthetic with high contrast lighting, sharp shadows, and clean studio setup. Subject: Elite female tennis athlete with a strong, defined athletic build. Wearing a deep crimson performance crop top and structured white pleated skirt, paired with modern performance sneakers. Hair tied back in a dynamic ponytail. Sweat glow and subtle skin highlights for realism. Environment: Minimal off-white studio background with a glossy reflective floor. Subtle gradient lighting with soft falloff. Clean, distraction-free composition. --- 🔺 TOP PANEL — HERO ACTION Dynamic forehand swing captured mid-motion, tennis ball frozen in air. Powerful stance with visible muscle tension. Diagonal bold red graphic stripe cutting across the floor Subtle motion blur trails behind racket for energy Typography (large, editorial): “BUILT FOR THE BREAKPOINT” “BUILT FOR” → black brushstroke style “THE BREAKPOINT” → bold condensed red sans-serif Micro UI stats (minimal, right side): Precision 99.8% Reaction 100% Control 100% --- 🔻 BOTTOM LEFT PANEL — POWER POSE Athlete standing confidently with one foot resting on tennis racket, scattered tennis balls around. Typography: “OWN YOUR COURT” “OWN YOUR” → bold black “COURT” → expressive red brushstroke Subtext (small): Composure wins matches. --- 🔻 BOTTOM RIGHT PANEL — FOCUS MODE Athlete seated on a white cube, elbows on knees, intense forward gaze. Racket leaning beside. Subtle geometric line accents in background. Typography: “PRESSURE CREATES CHAMPIONS” “PRESSURE” → bold red “CREATES CHAMPIONS” → clean black sans-serif Small UI metrics (clean minimal): Focus 100% Discipline 100% Endurance 100% --- 🎨 Design Style Modern sports editorial (Nike / Apple hybrid aesthetic) Ultra-clean composition with strong negative space Color palette: Red (#FF2A2A), White, Black Sharp shadows + high contrast lighting Premium magazine layout Subtle reflections on floor Minimal but intentional UI overlays --- ⚡ Optional Enhancer ultra realistic, high detail, 4k, product design showcase, global illumination, soft shadows, cinematic lighting, depth of field, premium sports branding, sharp typography",
+    "title": "Premium Tennis Editorial Campaign",
+    "description": "A detailed sports branding prompt for a 3-panel tennis advertisement featuring high-contrast studio lighting and dynamic action shots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539291484_hmiy9x_HHDJ5ataAAADzOT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17043,
+    "content": "Create a dynamic high energy drink advertisement for \"{argument name=\"brand\" default=\"SURGE\"}\" brand. Person wearing: {argument name=\"color scheme\" default=\"Neon yellow and black\"} premium athletic sportswear, energy and power radiating. Pose: Mid explosive jump in air, fist raised powerfully, giant oversized energy drink can prop exploding with electric sparks and liquid splash dramatically around him. Background: Deep black background with electric blue and neon yellow lightning bolt effects, massive bold condensed typography \"{argument name=\"brand\" default=\"SURGE\"}\" in neon yellow filling background. Product: Energy drink can shown bottom left corner with flavor and stats visible. Tagline bottom center in bold neon yellow font: \"{argument name=\"tagline\" default=\"Fuel your unstoppable.\"}\" Top right watermark: \"Designed with GPT image 2\" Floor: Dark reflective floor with electric yellow neon light pools glowing beneath. Lighting: High energy electric strobe lighting with motion blur, ultra dynamic cinematic. Style: Monster Energy, Red Bull campaign level. Quality: Ultra HD 8K photorealistic, portrait 3:4 ratio.",
+    "title": "Energy Drink Advertising Poster",
+    "description": "A dynamic high-energy advertisement prompt for a drink brand, featuring athletic wear and explosive action elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539310477_mvjcgk_HHDeDSAbkAA4xc5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17216,
+    "content": "Create a bold Chinese promotional poster in a Mondrian-inspired, Fauvist, slightly cubist graphic style with thick black grid lines, flat primary-color blocks, and a clean white background. Vertical smartphone poster, highly structured layout, retail advertisement aesthetic, high contrast, crisp vector-like edges, playful but aggressive sales design. The headline area at the top center is a large white panel with big black Chinese text reading \"大会员 2026 首次招募\", and a circular yellow badge at the top right containing a simple black cartoon bear face icon. At the top left, include 3 abstract rectangular blocks stacked in a Mondrian composition: one red square, one white rectangle, and one blue vertical rectangle. On the left side create a tall countdown column with a red header labeled \"倒计时\", a huge rough-edged red number \"1\" in the center, a red \"天\" near the bottom, and a black footer strip with yellow text \"过期恢复原价\". In the main pricing panel to the right, show small black text \"原价 ¥2999/年\" with a strikethrough over 2999, then larger black text \"到手价\", then an oversized red price \"¥1299\" with \"/年\" in black, and a smaller black formula line below: \"= 领券立减 200 + 拼团立省 1500 + 赠礼价值 730\". Beneath that, place a full-width blue section bar labeled \"省钱攻略\". Under it, build a 3-column savings guide with exactly 3 numbered panels: panel 1 has a blue corner label \"1\", the text \"领券立减 200\", a blue button-like strip \"扫码领券\", a smaller line \"先领券，再拼团\", and a black-and-white QR code; panel 2 has a yellow corner label \"2\", the text \"拼团再减 1500\", and one small book or magazine cover thumbnail at the bottom; panel 3 has a red corner label \"3\", the text \"成团即得 ¥730 专属赠礼\", with smaller lines \"AI 内参 1 年（¥365）\" and \"实物大礼包（¥365）\", plus exactly 2 small gift thumbnails at the bottom. Add a white strip below the 3 columns with bold black text: \"平均每天 3.55，撬动全家 AI 学习力！\". In the lower middle section, place 2 host/profile blocks in the left column: the first shows a square avatar, the name \"howie\" in blue, and smaller black text \"领航\" plus \"武装 AI 新技能\" and \"向 AI 系统要价值\"; the second shows a square avatar, the name \"savage\" in orange-red, and smaller black text \"带你\" plus \"培养内驱力\" and \"共建学习型家庭\". To the right of these profile blocks, create a benefits list with exactly 4 horizontal rows, each with a colored icon on the left and black Chinese text on white: row 1 uses a blue TV or screen icon and text about full-year live companion sessions, replay access, transcripts, notes, and 24×7 AI knowledge support; row 2 uses a yellow book icon and text about 10 years of deep experience, learning OS, becoming OS, reading OS, variable OS, educating children OS, all in AI knowledge base, and long-term Q&A guidance; row 3 uses a blue people icon and text about member community, practical exchange, group community, and 1v1 consultation; row 4 uses a red people icon and text about a free family account so a teammate can study together. Near the bottom, add a yellow panel on the left with a waving full-body black cartoon bear mascot. Across the bottom center place a large blue call-to-action line \"扫码立刻拼团\" with smaller black decorative dashes and the subtitle \"锁定首发价\" beneath it. Put a large black-and-white QR code on the bottom right. Finish with a bottom bar split into 2 colored sections: left blue section with a white shield icon and white text \"价保承诺：180 天降价立即退差价\"; right red section with a white card/payment icon and white text \"轻松支付：花呗 12 期分期免息\". Use thick black borders around every block, asymmetrical geometric composition, minimal shading, poster-like typography hierarchy, Chinese e-commerce campaign design, energetic and colorful.",
+    "title": "Mondrian-Style Chinese Promo Poster",
+    "description": "This prompt generates a colorful geometric Chinese membership recruitment poster for marketing campaigns, sales promotions, and social-media operations graphics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539434148_1chnpe_HHDdt69bIAAUkuJ.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 16824,
-    "content": "Inspired by this product, design a set of women's clothing in a {argument name=\"style\" default=\"cool style\"}, with a {argument name=\"background\" default=\"black background\"} and an aspect ratio of {argument name=\"aspect ratio\" default=\"3:2\"}.",
-    "title": "Product-Inspired Fashion Design",
-    "description": "A prompt that uses a product (like a bottle of disinfectant) as inspiration to design a cool-style women's fashion outfit.",
+    "id": 17213,
+    "content": "Create a bold Chinese promotional poster in a chaotic Mondrian-meets-Fauvism-meets-Cubism graphic style, with thick black outlines, irregular geometric color blocks, and a high-contrast palette of red, blue, yellow, white, and black. The layout is a dense single-page vertical membership campaign poster with multiple tilted panels and sharp angular divisions, like cut-paper collage and retro commercial poster design. At the top center, place a huge white trapezoid panel with oversized black Chinese headline text: \"大会员\" on the first line and \"首次招募\" on the second line, with the year {argument name=\"year\" default=\"2026\"} in large bright blue numerals integrated into the headline. Along the left side, include 4 decorative icon/mascot elements: 1 circular bear-face logo in a yellow circle at the upper left, 1 blue-and-white clock icon below it, 1 half-body black-and-white bear mascot in the mid-left wearing a blue scarf and raising one arm, and 1 cropped bear mascot face at the bottom left. In the left-center, add a tall red countdown panel with white Chinese text \"倒计时仅剩\" at the top, an enormous yellow numeral \"1\" in the middle, and a large white \"天\" at the bottom. On the upper right, place a large white pricing panel showing the original price line \"原价 ¥2999/年\" with a strikethrough over 2999, then the discounted line \"到手价\" above a giant red price \"¥1299/年\". Beneath that, create a blue header strip labeled \"省钱攻略\" and divide the area into 3 vertical offer columns labeled 1, 2, and 3. Column 1 shows \"领券立减\" and a large blue \"200\" with a percent-style coupon icon below. Column 2 shows \"拼团再减\" and a large red \"1500\" with three simplified person icons in blue, yellow, and red below. Column 3 shows \"成团即得\" and a large red \"¥730\" with smaller black text \"专属赠礼\" and a gift box icon below. In the lower left, add a white benefits panel with a blue tab title \"核心权益\". Inside, place 2 small rectangular portrait thumbnails at the upper left, then to the right list 3 text rows: \"AI × 家庭教育 × 元学习\", a blue-highlighted name \"howie\" followed by black Chinese descriptive text, and a red-highlighted name \"savage\" followed by black Chinese descriptive text. Under these, include 4 bullet-like benefit rows with small blue icons: \"全年直播陪伴，会员无限期回看\", \"会员专享逐字稿 + 三级笔记\", \"All in One AI 知识库 24*7 答疑\", and \"免费送一个家庭账号，和队友一起学\". Across the lower middle, create a black horizontal strip with white text: \"AI 内参 1 年（¥365） + 实物大礼包（¥365）\". Below that strip, show 3 product images side by side: 1 magazine-style booklet cover, 1 orange notebook/book cover, and 1 blue book cover, plus 2 small round mascot badges near the products. At the bottom center, place a large blue call-to-action panel with big white Chinese text \"扫码立刻拼团\" and yellow subtitle text \"— 锁定首发价 —\", then a smaller line in white and yellow: \"平均每天 3.55，撬动全家 AI 学习力！\". At the bottom right, add a large black-and-white QR code in a white square. Along the very bottom, create 2 footer bars: on the left a blue strip with a shield icon and white text \"价保承诺：180 天降价立即退差价\", and on the right a red strip with a card/payment icon and white text \"轻松支付：花呗 12 期分期免息\". Use very heavy sans-serif Chinese typography, exaggerated scale contrast, dynamic asymmetrical composition, overlapping panels, and an energetic commercial poster feel for social media marketing.",
+    "title": "Cubist Chinese Membership Promo Poster",
+    "description": "This prompt generates a colorful geometric Chinese marketing poster for a membership launch, useful for social media promotions, campaign ads, and sales announcement graphics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777453146898_fr5eif_HHCczAQa0AErrcp.jpg",
-      "https://cms-assets.youmind.com/media/1777453146882_q155dg_HHCd47XbcAAw0md.jpg"
+      "https://cms-assets.youmind.com/media/1777539432160_7wm7ok_HHDdt68bUAARFRo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17042,
+    "content": "A cinematic surreal scene of a {argument name=\"object\" default=\"giant red energy drink bottle (Monster-style)\"} lying on a mossy stone ledge, pouring bright red liquid like a waterfall. Below, {argument name=\"subject\" default=\"an athletic man\"} crouches and drinks the liquid from his hands. He is wearing a {argument name=\"outfit\" default=\"modern Nike-style gym outfit\"} with glowing neon running shoes. The ground is wet with reflective puddles and ripples from the pouring liquid. Background features dramatic misty mountains and a moody, cloudy sky. A large glowing neon claw-style energy logo appears in the background like a branded advertisement. Ultra-realistic, high detail, shallow depth of field, cinematic lighting, reflections on water, dramatic color contrast (red vs dark tones), professional advertising photography style, 8K resolution.",
+    "title": "Cinematic Energy Drink Ad",
+    "description": "A surreal and cinematic prompt for a high-detail energy drink advertisement set in a misty mountain landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539309482_y2baq9_HHDcfGJbIAAn7UY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17204,
+    "content": "{\"type\":\"4-panel cinematic ad storyboard\",\"brand_style\":\"premium lifestyle beer commercial\",\"subject\":{\"product\":\"{argument name=\\\"product name\\\" default=\\\"Modelo Especial\\\"} beer bottle\",\"setting\":\"open-air coastal bar terrace at golden hour overlooking the ocean\",\"time_of_day\":\"sunset\",\"mood\":\"warm, social, aspirational, relaxed summer evening\"},\"visual_style\":{\"photorealism\":\"high-end cinematic realism\",\"lighting\":\"golden sunset backlight with warm practical string lights and soft interior bar glow\",\"color_palette\":\"amber, honey gold, warm brown wood, soft orange sky, muted blue sea\",\"camera\":\"shallow depth of field, natural lens blur, ad-style composition\"},\"layout\":{\"grid\":\"2x2 collage with thin white dividers\",\"count\":4,\"sections\":[{\"title\":\"panel 1\",\"position\":\"top-left\",\"count\":1,\"labels\":[\"young man sitting alone at a rustic wooden table, leaning his head on one hand, casual short-sleeve dark overshirt over white t-shirt, necklace, lowball glass with ice on the table, small black bowl, sunset ocean view behind him, bar shelves and stools in the background\"]},{\"title\":\"panel 2\",\"position\":\"top-right\",\"count\":3,\"labels\":[\"same seated man turns toward three friends approaching\",\"one man standing in a light open shirt and white tee\",\"two women beside him, one in a white camisole with jeans and one in a dark green satin dress, all entering from the right with the sunset behind them\"]},{\"title\":\"panel 3\",\"position\":\"bottom-left\",\"count\":3,\"labels\":[\"close social moment at the table\",\"main man smiling and raising a clear long-neck beer bottle\",\"partial friends visible in foreground and right edge, suggesting conversation and group connection\"]},{\"title\":\"panel 4\",\"position\":\"bottom-right\",\"count\":1,\"labels\":[\"hero product shot of a cold condensation-covered {argument name=\\\"product name\\\" default=\\\"Modelo Especial\\\"} bottle standing upright on the wooden table with the ocean sunset blurred in the background\"]}]},\"scene_details\":{\"environment_elements_count\":7,\"environment_elements\":[\"wooden pergola ceiling\",\"hanging string lights\",\"back bar shelves with bottles\",\"bar stools\",\"agave or tropical plants near the railing\",\"ocean horizon\",\"rustic wooden tables and chairs\"],\"people_count\":4,\"props_count\":5,\"props\":[\"lowball glass with ice\",\"small black snack bowl\",\"beer bottle in hand\",\"hero beer bottle on table\",\"tabletop candle or small light in the distant background\"]},\"branding\":{\"logo_overlay\":\"rounded white badge in the bottom-right corner containing {argument name=\\\"app name\\\" default=\\\"Pollo AI\\\"} and {argument name=\\\"model name\\\" default=\\\"GPT Image 2\\\"}\",\"ad_purpose\":\"visual sequence for a short beverage ad showing loneliness turning into a shared sunset social moment, ending on the product\"}}",
+    "title": "Sunset Beer Ad Storyboard",
+    "description": "A four-panel cinematic beverage ad collage showing a seaside sunset social scene that progresses from a solitary moment to friends arriving and ends with a premium product hero shot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539424055_4rk9ip_HHDb0FBWMAAVq8e.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17201,
+    "content": "{\"type\":\"four-panel cinematic beauty ad storyboard\",\"style\":\"luxury cosmetics campaign, warm editorial photography, soft amber vanity lighting, realistic high-end commercial look\",\"subject\":{\"gender\":\"woman\",\"age\":\"young adult\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"blonde\\\"}\",\"style\":\"straight, long, sleek, center-parted\"},\"wardrobe\":\"tailored black blazer mini dress, elegant and minimalist\"},\"layout\":{\"grid\":\"2x2 panels with thin white dividers\",\"panel_count\":4,\"panels\":[{\"position\":\"top-left\",\"scene\":\"dressing room entrance\",\"description\":\"rear view of the woman walking into a softly lit backstage dressing room, one hand on the door, illuminated vanity mirror with round bulbs on the right, clothing racks in shadow on both sides, moody warm ambience, full body visible from behind\"},{\"position\":\"top-right\",\"scene\":\"makeup application close-up\",\"description\":\"tight close-up at a vanity mirror as the woman applies eye makeup with a small brush or eyeliner tool, face partially turned in profile, warm bulbs reflected in the mirror creating creamy bokeh, black blazer visible\"},{\"position\":\"bottom-left\",\"scene\":\"stage reveal portrait\",\"description\":\"medium portrait of the woman standing confidently in front of a dark stage with bright cool spotlights aimed downward behind her, glamorous contrast between blue stage lights and black outfit, poised luxury campaign mood\"},{\"position\":\"bottom-right\",\"scene\":\"product still life\",\"description\":\"elegant vanity tabletop with {argument name=\\\"brand name\\\" default=\\\"GUERLAIN\\\"} makeup products arranged in a premium beauty display, 6 visible items total: 1 open lipstick, 1 small cream jar, 1 square perfume or cosmetic bottle, 1 black mascara tube, 1 white foundation bottle with gold cap, 1 makeup brush set consisting of 2 brushes; also include a pale cosmetic pouch with the brand name, a ribbed glass vase with soft flowers, glowing mirror bulbs, and a small gold jewelry box\"}]},\"branding\":{\"overlay_logo\":\"top-right corner small rounded badge reading 'Pollo AI' with 'GPT Image 2' beneath it\"},\"color_palette\":{\"tones\":[\"warm beige\",\"gold\",\"soft white\",\"black\",\"muted blush\"]},\"camera\":\"cinematic commercial photography, shallow depth of field, polished product-shot styling, soft skin lighting, premium fashion ad composition\"}",
+    "title": "Luxury Beauty Ad Storyboard",
+    "description": "A four-panel cinematic beauty campaign image showing backstage preparation, makeup application, stage presence, and a luxury cosmetics product display for brand or ad creative use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539421978_fe7r7d_HHDbknra8AAeSZP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17203,
+    "content": "{\"type\":\"four-panel lifestyle product ad collage\",\"subject\":{\"primary product\":\"minimalist black backpack\",\"product details\":\"structured rectangular tech backpack, matte fabric, clean front panel, top zipper, padded shoulder straps, subtle small logo tag near the lower front corner\",\"human model\":\"young adult man with light skin and messy blond hair, face intentionally obscured, wearing a cream oversized sweatshirt, light beige pants, and a dark wristwatch\"},\"layout\":{\"grid\":\"2x2 collage with thin white dividers\",\"panel count\":4,\"panels\":[{\"position\":\"top-left\",\"scene\":\"modern architectural courtyard outside a glass office or campus building\",\"composition\":\"full-body walking shot of the male model carrying the black backpack over one shoulder, one hand in pocket, bright natural sunlight, soft editorial shadows, greenery and reflective glass in background\"},{\"position\":\"top-right\",\"scene\":\"minimal modern office interior beside tall windows\",\"composition\":\"medium shot of the male model standing behind a desk and placing a slim laptop into the open black backpack\",\"objects count\":6,\"objects\":[\"black backpack\",\"closed laptop being inserted\",\"2 stacked books\",\"open notebook\",\"black desk lamp\",\"flat tablet or laptop on desk\"],\"branding\":\"small rounded white badge in the top-right corner containing the text {argument name=\\\"brand text\\\" default=\\\"Pollo AI\\\"} and below it {argument name=\\\"sub brand text\\\" default=\\\"GPT Image 2\\\"}\"},{\"position\":\"bottom-left\",\"scene\":\"warm sunlit workspace with glass walls and trees outside\",\"composition\":\"medium seated shot of the male model writing in a notebook at a wooden desk next to an open laptop, backpack resting on the table to the right\",\"objects count\":5,\"objects\":[\"open laptop\",\"desk lamp\",\"notebook\",\"stack of 2 books\",\"black backpack\"]},{\"position\":\"bottom-right\",\"scene\":\"clean studio product shot on a light gray background\",\"composition\":\"isolated three-quarter view of the backpack standing upright, straps visible, soft shadow beneath, premium ecommerce lighting\"}]},\"style\":{\"look\":\"premium ecommerce campaign, minimalist startup ad, polished lifestyle branding\",\"lighting\":\"soft natural daylight in lifestyle panels, even studio lighting in product panel\",\"color palette\":\"neutral beige, cream, black, gray, muted green\",\"camera\":\"photorealistic, shallow depth of field in lifestyle shots, sharp product detail\",\"aspect ratio\":\"16:9\"},\"customization\":{\"product\":\"{argument name=\\\"product type\\\" default=\\\"minimalist black backpack\\\"}\",\"product color\":\"{argument name=\\\"product color\\\" default=\\\"black\\\"}\",\"model outfit top\":\"{argument name=\\\"top clothing\\\" default=\\\"cream oversized sweatshirt\\\"}\"}}",
+    "title": "Four-Panel Backpack Lifestyle Ad",
+    "description": "A polished four-panel ecommerce ad collage showing a minimalist backpack in lifestyle and studio contexts, ideal for product marketing and social media campaigns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539423084_kqsmff_HHDbT3WaoAA1EKc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17032,
+    "content": "Create a clean, bright {argument name=\"product type\" default=\"skincare commercial\"} storyboard in a 16:9 layout with 9 panels. Use soft natural lighting, minimal aesthetic, and a fresh, airy mood with white and pastel tones. The {argument name=\"subject\" default=\"main character is a young woman with soft makeup and styled hair\"}, wearing light, elegant clothing. The setting is a modern, sunlit interior with large windows and a calm atmosphere. No text or subtitles anywhere.\nShow a clear story flow: she starts at her desk looking slightly tired or concerned, then a close-up of her face showing dry or dull skin. She discovers a clear skincare bottle and gently presents it. Show a close-up of the liquid pouring onto her hand, followed by her applying it to her face. After use, her skin looks hydrated, glowing, and smooth. Transition to her feeling confident and refreshed, walking in a bright, clean space with soft breeze and flowing elements. End with a calm product beauty shot on a minimal surface, then a final frame of her smiling softly at the camera while holding the product.\nFocus on natural expressions, glowing skin, and a transformation from dull to fresh. Include cinematic close-ups, soft focus, light reflections, and subtle sparkles to enhance the clean beauty feel. Keep everything elegant, minimal, and visually soothing with no branding text.",
+    "title": "Skincare Commercial Storyboard",
+    "description": "Generates a 9-panel storyboard for a skincare commercial, focusing on product use, transformation, and airy visual flow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539304388_y8mb2j_HHDUH6jbMAAqmOr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16835,
+    "content": "Inspired by this product, design a set of {argument name=\"style\" default=\"cool and refreshing style\"} women's clothing.",
+    "title": "Product-Inspired Summer Fashion",
+    "description": "Designs a summer-themed women's clothing collection based on the aesthetics of a specific physical product.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539336309_313y8z_HHDUVVDaEAAuhTg.jpg",
+      "https://cms-assets.youmind.com/media/1777539336111_qc0hgi_HHDUXjVasAAVcLR.jpg",
+      "https://cms-assets.youmind.com/media/1777539336068_fid4sa_HHDUZX7bYAAvMVg.jpg",
+      "https://cms-assets.youmind.com/media/1777539336907_i0npsm_HHDUa-yaoAA5ejz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17021,
+    "content": "A {argument name=\"shot type\" default=\"closup short\"} high-end lifestyle commercial photo of a young trendy person walking through a modern city street near a skatepark, confidently holding a sleek {argument name=\"brand name\" default=\"SHAMUS\"} energy drink can in one hand. The scene feels youthful, energetic, and fun, with an urban lifestyle vibe. The person is wearing stylish casual streetwear such as an oversized t-shirt, loose pants or denim, sneakers, and minimal accessories. Their pose should feel natural and candid, as if captured in motion while walking.",
+    "title": "Urban Streetwear Lifestyle Commercial",
+    "description": "A high-end commercial photography prompt capturing a young person with an energy drink in a modern urban skatepark setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539298146_v771t1_HHDMrpkbsAA-M29.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17036,
+    "content": "A dynamic sportswear advertisement featuring a {argument name=\"subject\" default=\"young athletic male model\"} captured mid-air in an explosive jump toward the camera. {argument name=\"angle\" default=\"Dramatic low-angle shot\"} with strong foreshortening, making the sneakers appear oversized and dominant in the foreground. The model wears a {argument name=\"outfit\" default=\"monochrome beige tracksuit (hoodie and joggers) with white socks\"}.\nFocus on ultra-detailed white running shoes with bold orange accents and textured mesh, sharp branding elements, and realistic materials. Dust and energy particles burst beneath the feet, creating a sense of motion and impact.\nBackground is a clean, vibrant orange gradient with subtle glow, minimal studio environment. Bold oversized typography faintly integrated in the background for a modern commercial look.\nHigh contrast studio lighting, crisp shadows, rim light outlining the subject, ultra-realistic textures, 8K resolution, professional product photography, Nike/Adidas campaign style",
+    "title": "Dynamic Sportswear Product Photography",
+    "description": "A commercial product advertisement prompt focusing on a mid-air jump and detailed sneaker photography with vibrant colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539306555_x0ovuk_HHDK2XRbwAAggkc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17120,
+    "content": "A whimsical vertical illustrated calendar page for {argument name=\"month\" default=\"May\"} {argument name=\"year\" default=\"2026\"}, in a soft pastel watercolor anime style on warm cream paper. The composition is split visually with lush spring nature on the left and a clean calendar layout on the upper right. Show a young chibi anime girl with a short black bob, straight bangs, large gray-brown eyes, and a gentle smile, wearing an oversized penguin kigurumi with a dark charcoal body, white belly, yellow beak hood, tiny yellow feet, and a metallic clasp at the neck. She stands near the lower center-left on a sunlit garden path, holding a bouquet of white lily-of-the-valley flowers tied with a pale pink ribbon in her left hand, while extending her right hand outward as if greeting spring. Surround her with blooming lily-of-the-valley plants, tiny white wildflowers, soft greenery, and dappled golden sunlight. In the upper left, include cascading purple wisteria vines hanging from above, with a rustic wooden fence partly visible behind the foliage. Add delicate whimsical floating details across the page: dotted flight trails, 3 small butterflies, 3 drifting green seed pods, 2 tiny musical notes, 1 swallow in flight, scattered pink petals, and tiny heart doodles. At the bottom right, include 1 small red ladybug on a curved leaf. The calendar area should feature the large handwritten-style month title, a small lily-of-the-valley illustration integrated near the title, minimalist weekday initials reading S M T W T F S, and a neat monthly grid for 31 days with Sundays tinted softly pink and the rest in muted gray. Also include a small Japanese month label \"5月\" near the calendar. Overall mood: dreamy, innocent, airy, springtime, storybook-like, elegant and cozy, with light beige negative space and subtle sketchy linework.",
+    "title": "Whimsical May Spring Calendar",
+    "description": "A soft watercolor anime-style monthly calendar illustration featuring a child in a penguin kigurumi surrounded by lily-of-the-valley and spring garden details, ideal for printable wallpaper or seasonal planner art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539370553_laubg6_HHDIR19aMAASSAR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17013,
+    "content": "Luxury high-fashion editorial collage, minimalist studio background with soft beige/grey gradient, cinematic soft lighting with subtle shadows, magazine-style composition, ultra-clean aesthetic\ntop main image:\nelegant woman (sharp features, bold red lips, sleek bob or tied hair), wearing an oversized white shirt dress styled as a mini outfit, paired with black thigh-high leather boots and a wide black belt, black fedora hat\nposed sitting on a wooden chair facing backward, legs extended wide in a powerful, confident stance, looking over shoulder toward camera\nstrong editorial expression, glossy skin highlights\nbold typography (left side):\n“CONFIDENCE IS SILENT.” in large modern bold serif/sans-serif\nbelow in elegant italic: “Discipline Makes It.”\nminimal branding mark below\nbottom split layout:\nleft panel:\nseated on a chair in a relaxed pose, one hand under chin, thoughtful expression\nsame outfit styling, softer posture\ntext:\n“FOCUS.\nFUEL.\nFINISH.”\nright panel:\nstanding full-body pose, strong posture, wearing black gloves and holding a sleek cane/stick, slightly angled stance\nbelt cinched at waist, shirt structured like a dress\ndramatic shadow falling on wall\ntext:\n“DISCIPLINE TODAY.\nFREEDOM TOMORROW.”\nstyle details:\nhigh-fashion magazine editorial, Vogue-style composition, neutral tones (beige, white, black), sharp contrast lighting, minimal set design, luxury styling, clean typography hierarchy, 1:1 collage layout, ultra-detailed, photorealistic",
+    "title": "Fashion Editorial Collage",
+    "description": "A magazine-style fashion collage prompt featuring elegant styling, clean typography, and minimalist studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539295085_x9qjxj_HHDGVZUbEAAFrjN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17159,
+    "content": "{\"type\":\"anime character reference sheet poster\",\"subject\":\"personified cloud platform mascot\",\"theme\":\"Microsoft Azure anthropomorphized as a stylish anime girl\",\"brand\":{\"primary_name\":\"Microsoft Azure\",\"subtitle\":\"— Microsoft Azure — (マイクロソフト・アジュール)\",\"headline\":\"クラウドで、あらゆる未来を支える存在。\"},\"character\":{\"gender_presentation\":\"female\",\"age_appearance\":\"late teens to young adult\",\"build\":\"slim\",\"height_impression\":\"tall and elegant\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"azure blue\\\"}\",\"style\":\"very long wavy hair with layered strands, side bangs, a small ahoge curl on top, translucent geometric hair ornament on one side\"},\"face\":{\"style\":\"soft anime features, blue eyes, gentle expression\"},\"outfit\":{\"core_palette\":[\"azure blue\",\"white\",\"ice blue\",\"navy\",\"gray\"],\"pieces\":[\"white oversized techwear-style coat with translucent gradient panels\",\"navy pleated skirt with bright blue Azure logo accent near the hem\",\"white dress shirt\",\"blue necktie with geometric facets\",\"black waist belt with metallic buckle\",\"asymmetrical flowing crystal-like fabric tails\",\"white and blue high-heeled ankle boots with futuristic paneling\"],\"materials\":\"glossy fabric, translucent plastic-like layers, holographic crystal textures, clean corporate fashion details\",\"motifs\":\"clouds, data, network nodes, security symbols, AI brain icon, geometric polygons, Azure logo\"},\"pose\":\"confident welcoming stance, one hand extended toward the viewer and the other raised lightly near the face\",\"full_body_left_panel\":true},\"layout\":{\"background\":\"clean white presentation board with pale blue accents, light clouds, faint city skyline silhouette near the bottom left\",\"sections\":[{\"title\":\"TURNAROUND\",\"position\":\"upper center-right\",\"count\":3,\"labels\":[\"FRONT\",\"SIDE\",\"BACK\"]},{\"title\":\"COSTUME DETAIL\",\"position\":\"upper right\",\"count\":3,\"labels\":[\"Azure ロゴモチーフ\",\"クラウドデータ表現\",\"スケーラビリティ\"]},{\"title\":\"EXPRESSION\",\"position\":\"middle right\",\"count\":5,\"labels\":[\"通常\",\"笑顔\",\"考えごと\",\"驚き\",\"やさしい\"]},{\"title\":\"COLOR PALETTE\",\"position\":\"lower left\",\"count\":6,\"labels\":[\"#0078D4\",\"#50E6FF\",\"#C7E6FF\",\"#FFFFFF\",\"#1A2A4A\",\"#5FA7CA\"]},{\"title\":\"ICONIC ELEMENTS\",\"position\":\"lower left\",\"count\":5,\"labels\":[\"クラウド\",\"データ\",\"ネットワーク\",\"セキュリティ\",\"AI/インテリジェンス\"]},{\"title\":\"MOTIF EXPLANATION\",\"position\":\"lower center\",\"count\":5,\"labels\":[\"クラウド\",\"グローバルネットワーク\",\"スケーラビリティ\",\"セキュリティ\",\"AI / インテリジェンス\"]},{\"title\":\"SD CHARACTER\",\"position\":\"lower right\",\"count\":1,\"labels\":[\"chibi mascot\"]},{\"title\":\"DATA\",\"position\":\"lower left of main portrait\",\"count\":6,\"labels\":[\"名前：Azure（アジュール）\",\"職業：雲、データ、接続の管理者\",\"性格：誠実さと知性\",\"特徴：知的で穏やか、信頼できるお姉さん\",\"好きなこと：新しい挑戦、みんなの可能性を支えること\",\"モチーフ：雲、波、鍵、データ、ネットワーク\"]}],\"centerpiece\":\"large full-body hero illustration on the left, surrounded by technical design notes and small diagram panels\"},\"style\":{\"rendering\":\"high-quality polished anime concept art\",\"composition\":\"official character design sheet, balanced editorial infographic layout\",\"linework\":\"clean refined line art\",\"shading\":\"soft cel shading with luminous highlights\",\"color_feel\":\"bright cool blues and whites, fresh and futuristic\",\"branding\":\"sleek corporate identity mixed with fantasy-tech fashion\"},\"text_elements\":{\"footer_slogan\":\"つなぐ。支える。広げる。ともに、未来へ。\",\"small_quote\":\"『大丈夫！Azure が、しっかり支えるよっ！』\"},\"image_size\":\"landscape, 16:10\"}",
+    "title": "Azure Anime Mascot Reference Sheet",
+    "description": "A polished anime-style character design board depicting Microsoft Azure as a blue-and-white cloud platform girl, suitable for mascot concepts, branding art, and reference sheets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539392051_wgdq3l_HHDCw-5agAAvFyW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17045,
+    "content": "Cinematic luxury fitness editorial, {argument name=\"setting\" default=\"industrial concrete gym\"} setting with raw textured walls, dramatic directional lighting creating strong shadows, high-end sports campaign aesthetic top main image: athletic woman in white fitted t-shirt and white sports shorts, toned physique, confident pose leaning against a giant rugged tractor tire, one leg bent resting on the tire, white crew socks and chunky trainers, glossy skin highlights, strong jawline, focused expression bold typography on left side: “{argument name=\"headline\" default=\"STRENGTH IS EARNED. DISCIPLINE KEEPS IT.\"}\" in large modern sans-serif, off-white/beige color, minimal branding logo below with small text “BUILT ON DISCIPLINE. DRIVEN TO DOMINATE.” bottom split layout: left panel: dynamic action pose using heavy battle ropes, low squat stance, intense expression, rope motion blur, text “{argument name=\"sidebar text\" default=\"FOCUS. FUEL. FINISH.\"}\" minimal branding right panel: relaxed standing pose holding a matte black medicine ball, slightly leaning on one leg, confident look away from camera, text “DISCIPLINE DRIVES DOMINANCE.” overall style: ultra-clean composition, premium editorial fitness campaign, high contrast lighting, sharp details, subtle reflections on floor, cohesive neutral color palette (white, beige, concrete gray, black), 1:1 aspect ratio, magazine-quality layout",
+    "title": "Luxury Fitness Editorial Layout",
+    "description": "An industrial gym editorial layout with high-contrast lighting and bold motivational typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539310810_mwg9hd_HHC8Cx_bcAAP-ZU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17113,
+    "content": "A vertically oriented mystical card back design centered on a plain light gray background, shown as a single ornate rectangular card with rounded corners and a thick dark charcoal-black beveled border. The card face is an aged smoky gradient from deep gray at the edges to a soft pale silver glow in the center, with a dusty antique texture, faint scratches, subtle speckling, and a starfield-like scatter of tiny light flecks. Add an elegant symmetrical art nouveau and celestial frame in muted gold linework hugging the inner border. Place 4 circular compass-like medallions in the corners, one in each corner, with delicate engraved star motifs inside. Add 2 large partial circular astrolabe-like ornaments emerging from the lower left and lower right corners. Include fine ornamental curls and filigree in all 4 corners. Scatter exactly 9 visible bright star glints across the card face, with warm golden-white four-pointed sparkles of varied size. Add thin faint radiating guide lines converging toward the center and lower center, plus 2 small diamond-shaped star symbols aligned vertically near the top center and lower center. Keep the composition perfectly symmetrical, empty in the middle for title placement, luxurious, magical, vintage, and minimal. High detail, soft glow, refined metallic accents, fantasy tarot or oracle card back aesthetic, clean studio presentation.",
+    "title": "Ornate Celestial Card Back",
+    "description": "This prompt generates a vintage fantasy tarot-style card back with gold celestial ornamentation, useful for card game assets, oracle decks, and magical branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539364586_c2r3n9_HHC4nGJasAAJPDG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17029,
+    "content": "An American fashion magazine collage layout featuring {argument name=\"model name\" default=\"Karina\"} on a clean textured white background with subtle grid lines. The bold headline at the top-left reads “{argument name=\"brand name\" default=\"ZARA\"}’S 7-DAY OUTFIT GUIDE” in black and pink fonts, accented with playful star doodles. Beneath it, a small subheading in English reads: “Zara’s weekly style picks ❤️”.\n\nOn the right side, a large high-resolution portrait shows Zara in a black sequined strap dress, looking straight at the camera with her hand resting on her chin. The top-right corner includes handwritten-style notes and hashtags like #ZaraStyle #DailyLooks, surrounded by small heart and star doodles.\n\nThe center features seven “polaroid-style” photos arranged in two rows, each labeled from MONDAY to SUNDAY. Each image includes short, aesthetic English captions with casual handwritten notes and tiny arrows or heart doodles:\n\nMONDAY: A relaxed “casual vibe” with a navy cap and cream sweatshirt, holding coffee. (“Keep Mondays comfy and easy.”)\n\nTUESDAY: A bold “street style” look in a black nylon jacket. (“Turn up the street vibe.”)\n\nWEDNESDAY: A polished “office look” with a gray blazer and glasses, holding a mug. (“Smart and confident midweek energy.”)\n\nTHURSDAY: A soft, feminine outfit with a light blue cardigan. (“Light, soft, and effortlessly pretty.”)\n\nFRIDAY: A sleek “chic & cool” outfit with a black leather jacket. (“All-black, all confidence.”)\n\nSATURDAY: A romantic “date night” look with wavy hair and an off-shoulder white top. (“Cute, flirty weekend mood.”)\n\nSUNDAY: A cozy “relax & unwind” outfit in a cream knit. (“Slow down and stay comfy.”)\n\nAt the bottom-left, a black label with “{argument name=\"brand name\" default=\"ZARA\"}” is paired with a short English blurb about her fashion influence. Below that, a “STYLE TIPS” section lists three quick tips in simple English. The bottom edge includes a barcode graphic and the line: “Zara inspo for your everyday style.”",
+    "title": "Fashion Magazine Collage Guide",
+    "description": "A complex collage layout prompt for a fashion magazine, featuring multiple outfit panels, labels, and handwritten notes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539302832_uucakr_HHCxHLJaEAAP1oS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17154,
+    "content": "Create a warm, playful Japanese landing page for a children's clay toy brand, designed entirely in a handmade soft clay diorama style. The whole interface should look sculpted from pastel modeling clay with rounded edges, slight finger-pressed imperfections, matte texture, soft shadows, and a cozy cream background. At the top, show a pill-shaped navigation bar with a small clay house logo and the brand name \"ねんどあそび\", followed by 5 navigation items: \"商品一覧\", \"セット内容\", \"遊び方\", \"お客様の声\", \"よくある質問\", plus a round cart icon on the far right. In the hero section, place a large dark-brown clay headline on the left reading \"こねて、つくって、あそぼう。\" and a smaller supporting sentence beneath it reading \"手ざわりが楽しい、やさしい粘土のおもちゃセット。\" Add 2 rounded clay call-to-action buttons below: \"商品を見る\" and \"ギフトにする\" with a small gift icon. On the right side of the hero area, arrange 12 clay toy illustrations: a rainbow with clouds, a lion, an elephant, a block tower with red roof, a green circular badge reading \"対象年齢 3+\", a beige oval badge reading \"安全素材\", a white rabbit holding a carrot, a tree, a yellow ball, a blue toy car, a pink donut, and a strawberry, plus a small red star near the lower right. Below, create a 3-card benefits row, each card made from off-white clay with icon, title, and short Japanese description. Card 1 title: \"やわらか素材\" with a hand holding clay icon. Card 2 title: \"くり返し遊べる\" with a circular arrow icon. Card 3 title: \"想像力を育てる\" with a lightbulb icon. Under that, add a centered section title \"人気のセットラインナップ\" with 4 small colored dots around it. Then show 3 product cards. Card 1 has a blue badge \"人気No.1\", shows 4 animal figures: lion, elephant, rabbit, giraffe, and includes the title \"どうぶつセット\" and price \"¥2,980\" with a teal button \"詳しく見る\". Card 2 has an orange badge \"おすすめ\", shows 7 snack items: donut, cake slice, strawberry shortcake, pink ice cream cone, cookie, candy pieces, and small leaves, and includes the title \"おやつセット\" and price \"¥2,680\" with an orange button \"詳しく見る\". Card 3 has a blue badge \"NEW\", shows 4 vehicle toys: red car, airplane, police car, excavator, and includes the title \"のりものセット\" and price \"¥3,200\" with a navy button \"詳しく見る\". Add a horizontal reassurance strip with 3 items: a heart icon with text about parent-child fun, a gift icon with text about gift popularity, and a shield icon with text about safety and安心・安全. At the bottom, create a large coral clay banner with the headline \"お気に入りのセットを見つけよう\" and a cream button reading \"今すぐチェック\". Finally add a slim footer bar with 4 compact items and icons: \"5,000円以上で送料無料\", \"最短当日発送\", \"30日間返品保証\", and \"サポート対応\". Use a balanced, grid-based web layout, front-facing view, soft natural lighting, subtle shadows, highly polished product-design mockup quality, charming handcrafted claymation aesthetic, and a premium yet child-friendly feel.",
+    "title": "Clay Toy Landing Page UI",
+    "description": "A handcrafted clay-style Japanese e-commerce landing page mockup for a children's toy brand, ideal for concept design, playful UI exploration, and ad-style product presentation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539388665_1n0zsz_HHCrUR-a4AA8-hg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17183,
+    "content": "Create a polished Japanese summer fashion advertisement poster in a square 1:1 layout, bright airy coastal lifestyle photography with a luxury catalog feel. Show a young woman from the waist up standing on a tropical beach with turquoise ocean, pale sand, soft sky, and slightly blurred palm leaves in the upper right background. She wears a wide-brim natural straw sun hat with a blue ribbon band, long straight dark hair, and a loose blue-and-white tie-dye top. Her face is obscured by a centered soft rectangular blur block. One hand lightly touches the brim of the hat. Add beachy hair accessories hanging from both sides of the hat and hair: strings with shells, beads, tassels, and round ornaments, including one long white-and-blue braided strand on the right side. She wears 4 visible jewelry items: a silver heart pendant necklace, a stack of beaded and metallic bracelets on one wrist, 1 shell drop earring on the left side, and 1 shell drop earring on the right side. Use soft natural sunlight, clean high-end product-ad styling, gentle skin tones, and refreshing summer blue color grading.\n\nDesign the image as a commercial poster with Japanese text and product callouts integrated around the model. In the upper left, place the handwritten English phrase {argument name=\"tagline\" default=\"Summer Breeze\"} in thin elegant white script. Below it, add a large Japanese headline in dark blue Mincho-style serif: {argument name=\"headline text\" default=\"夏をまとう、私らしい輝き。\"}. Under that, add two lines of smaller Japanese body copy in dark gray: \"海風に揺れるアクセサリーで、\" and \"いつものコーデを特別に。\".\n\nOn the left-middle, create a semi-transparent white rounded panel titled \"— おすすめアイテム —\" containing exactly 3 product cards arranged horizontally. Card 1 shows a silver heart necklace and the label \"Ocean Heart Necklace\" with price \"¥2,980\". Card 2 shows shell drop earrings and the label \"Shell Drop Pierce\" with price \"¥2,480\". Card 3 shows a natural bead bracelet and the label \"Natural Beads Bracelet\" with price \"¥1,980\".\n\nIn the lower left, add a blue circular discount badge with white Japanese text \"期間限定\" and large text \"10% OFF\". Overlapping it, place a white coupon pill with a small blue ribbon tab containing \"クーポンコード\" and the large code {argument name=\"coupon code\" default=\"SUMMER10\"}, plus small text \"有効期限：2024.8.31まで\".\n\nAt the top right, place a translucent aqua-blue circle badge with elegant light text reading \"New Collection 2024\". In the bottom left, add the brand logo text {argument name=\"brand name\" default=\"LUMIERE\"} in large serif capitals with smaller spaced text \"ACCESSORY\" beneath it. In the bottom right, place a large white rounded call-to-action button with a teal outline shopping cart icon and Japanese text {argument name=\"button text\" default=\"今すぐチェック\"}, followed by a right-pointing chevron. Keep all typography refined and balanced, with a premium Japanese fashion e-commerce promotional layout.",
+    "title": "Japanese Summer Accessory Ad Poster",
+    "description": "A premium beach-themed Japanese fashion advertisement poster for promoting a summer accessory collection, coupon campaign, and featured products.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539409157_5huzr7_HHCjpoUbQAAFpAG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17136,
+    "content": "A cinematic ultra-wide panoramic scene inside a modern multi-story event atrium at night, photographed like a 360-degree conference showcase with dramatic warm low-key lighting and glossy dark architectural surfaces. In the center foreground, a professional woman in a brown blazer and dark trousers stands confidently and points toward a large flat-screen display on a tripod; the screen shows a twilight city skyline over water. Behind the display is a tall illuminated backdrop with abstract flowing white light ribbons and faint constellation-like gold sparkles. The venue is filled with a seated audience arranged in rows across the background, watching the presentation. On the left foreground, 1 woman in a gray business suit stands beside a round table covered with paperwork, clipboards, a pen, and a small service bell, as if handling registration or event administration. On the right foreground, there are 4 women gathered around two small round tables demonstrating products and hospitality items: 1 athletic woman in a fitted top holds a VR headset, 1 casually dressed woman in a light hoodie holds a controller, 1 woman in a cream cardigan works with cups and utensils, and 1 woman in a light dress stands nearby holding a phone or small object. The right-side tables contain exactly 11 visible items of note: 1 glowing glass orb lamp, 2 VR headsets, 1 rectangular product box, 1 metallic thermos or coffee pot, and 6 white teacups arranged in a row. The scene should feel like an upscale tech lifestyle launch, blending business presentation, immersive gadgets, and cafe service in one space. Use realistic human proportions, documentary-style staging, polished corporate event photography, subtle reflections on the floor, deep depth, and a seamless extra-wide panorama composition.",
+    "title": "Panoramic Tech Event Atrium Scene",
+    "description": "This prompt generates a cinematic ultra-wide corporate showcase scene in a modern atrium, useful for illustrating a tech launch, immersive demo event, or startup presentation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539379327_w4jghe_HHCiAB4bwAA48Q3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17041,
+    "content": "Fashion sports editorial triptych, three-panel collage composition. One large main image on top, with two smaller images placed side by side at the bottom. {argument name=\"subject\" default=\"The boxer\"} (based on the reference image) is shown in three different poses, lazily leaning against a {argument name=\"prop\" default=\"monumental, sculptural vintage red boxing glove\"}. Outfit: {argument name=\"outfit\" default=\"beige high-performance athletic set\"}, with hand wraps and boxing boots. Top panel: relaxed reclining pose Bottom left: seated pose with one knee raised Bottom right: forward-leaning power stance Behind each panel, oversized monumental typography reads “POWER” in bold, deep monochromatic red. Environment: monochrome dark red studio setting with a glossy reflective floor. Lighting: dramatic, soft, luxurious lighting. Style: ultra-clean advertising aesthetic, photorealistic high-fashion sports campaign, cinematic composition, bold negative space, premium athletic brand style. Aspect ratio: 1:1",
+    "title": "Fashion Sports Editorial Triptych",
+    "description": "A complex collage prompt for a high-fashion sports campaign, using monochromatic colors and dramatic layout based on a reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539308425_98pjzw_HHCfvXVaAAAve70.jpg",
+      "https://cms-assets.youmind.com/media/1777539308327_kpu1wo_HHCfvVQbgAAmEs-.jpg",
+      "https://cms-assets.youmind.com/media/1777539308332_36nbbd_HHCfvbGb0AEzWh6.jpg",
+      "https://cms-assets.youmind.com/media/1777539309097_9z3caq_HHCfvcKbkAA4vxP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 16993,
+    "content": "A {argument name=\"subject\" default=\"graceful ballerina\"} kneeling elegantly on a pure white seamless studio backdrop, her eyes gently closed in serene concentration, head slightly tilted. She has a sleek, tight ballet bun with no loose strands, flawless skin with subtle natural makeup. She wears a form-fitting {argument name=\"clothing\" default=\"black spaghetti-strap leotard with delicate thin straps, semi-sheer fishnet tights\"} that accentuate her long legs, and beautiful pale pink satin pointe shoes with long matching ribbons gracefully wrapped and tied around her ankles. In her hands she holds a large piece of {argument name=\"prop\" default=\"flowing black sheer chiffon fabric\"} captured mid-motion, the fabric swirling and draping dynamically around her body and arms as if dancing in the air. Soft directional lighting from the upper left creates gentle highlights and soft shadows that sculpt her form beautifully, high-contrast editorial lighting with clean gradients. Elegant and refined kneeling pose, one knee down, the other leg elegantly bent, toes perfectly pointed in pointe shoes. Minimal and modern high-fashion dance aesthetic, clean studio setting with no distractions, pure white background. Cinematic composition, sharp focus on the dancer, shallow depth of field, impeccable anatomy, delicate hands and fingers, ethereal and powerful mood, vogue-style editorial portrait, fashion photography by Annie Leibovitz and Mario Testino, 8k ultra-detailed, photorealistic, masterpiece, best quality",
+    "title": "Editorial Fashion Ballerina",
+    "description": "An elegant high-fashion dance portrait of a ballerina with high-contrast studio lighting and dynamic fabric motion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539301487_y5gpw6_HHCfAXobkAAVGCU.jpg",
+      "https://cms-assets.youmind.com/media/1777539301420_7zgbh9_HHCfAXxaoAAgKTJ.jpg",
+      "https://cms-assets.youmind.com/media/1777539301417_0rusg6_HHCfAZhawAAW5gx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17093,
+    "content": "A dark museum space with {argument name=\"subject\" default=\"Jomon pottery\"} illuminated by a spotlight. The vessel shape is a {argument name=\"container\" default=\"Cup Noodle container\"}, featuring {argument name=\"pattern\" default=\"Jomon patterns\"} and brand-style reliefs on the surface. Includes a stone pedestal, glass case, and information panel; high-definition realistic photo with cinematic lighting.",
+    "title": "Jomon Pottery Museum Exhibit Mashup",
+    "description": "A creative high-fidelity prompt that fuses historical Japanese pottery with modern container shapes, set in a cinematic museum atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539353029_epls2y_HHCeN2ebQAAo1K0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 16824,
+    "content": "Inspired by this product, design a set of {argument name=\"style\" default=\"cool and refreshing style\"} women's clothing, {argument name=\"background\" default=\"black background\"}, 3:2 aspect ratio.",
+    "title": "Iodine Bottle Inspired Fashion",
+    "description": "A creative fashion design prompt that uses a common household iodine disinfectant bottle as the stylistic anchor for designing cool-style women's wear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539336920_jk1fp5_HHCczAQa0AErrcp.jpg",
+      "https://cms-assets.youmind.com/media/1777539337364_09l70k_HHCd47XbcAAw0md.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17164,
+    "content": "{\"type\":\"medical aesthetic before-and-after comparison poster\",\"style\":\"photorealistic high-definition cosmetic surgery analysis blueprint, premium clinic advertising look\",\"subject\":{\"gender_presentation\":\"female\",\"age_appearance\":\"young adult\",\"ethnicity\":\"East Asian\",\"pose\":\"front-facing bust portrait, shoulders visible, same angle and same neutral expression on both sides\",\"hair\":{\"color\":\"dark brown to black\",\"style\":\"center-parted hair pulled back into a loose bun with a few flyaways\"},\"clothing\":\"white thin-strap camisole\",\"identity_masking\":\"large rectangular mosaic blur covering the full face area in both panels\"},\"composition\":{\"aspect_ratio\":\"16:9 horizontal\",\"background\":\"clean light gray studio background\",\"divider\":\"1 vertical white dividing line centered between the two panels\",\"panels\":[{\"title\":\"术前分析\",\"position\":\"left\",\"count\":1,\"image\":\"same woman with slightly rougher, shinier, less refined appearance\",\"annotations\":{\"color\":\"red\",\"count\":19,\"items\":[\"整理碎发\",\"调整眉形线条\",\"优化眼部轮廓\",\"淡化黑眼圈\",\"改善眼袋浮肿\",\"提升中面部饱满度\",\"淡化法令纹\",\"改善面部对称感\",\"清晰下颌线\",\"收窄下面部轮廓\",\"增加头发自然蓬松感\",\"细化皮肤纹理\",\"减少面部油光\",\"均匀肤色\",\"改善面部泛红\",\"抬高鼻梁\",\"缩小鼻头\",\"收窄鼻翼\",\"轻微提亮牙齿\"]},\"extra_notes\":{\"count\":3,\"items\":[\"优化下巴比例\",\"平衡整体光线\",\"柔化背景\"]}},{\"title\":\"术后效果\",\"position\":\"right\",\"count\":1,\"image\":\"same woman, same lighting and same framing, but cleaner and more polished, smoother skin, subtly lifted features, more refined contour and nose, brighter overall complexion, no annotation arrows\"}]},\"rendering\":{\"lighting\":\"soft even studio lighting\",\"detail_level\":\"sharp skin texture but naturally retouched\",\"camera\":\"85mm portrait lens look, straight-on, chest-up crop\"}}",
+    "title": "Aesthetic Surgery Before-After Poster",
+    "description": "This prompt generates a photorealistic two-panel cosmetic enhancement comparison image for medical beauty advertising or treatment visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539395007_f2v79y_HHCbKmxa0AAV_l8.jpg",
+      "https://cms-assets.youmind.com/media/1777539395102_2ucr4n_HHCbKxpa4AAJ20p.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17083,
+    "content": "Design a modern {argument name=\"restaurant type\" default=\"Mexican\"} restaurant menu. Include sections for Tacos, Burritos, and Beverages, accompanied by realistic images. Use {argument name=\"color scheme\" default=\"warm earth tones\"}, clean serif fonts, and a rough-textured background.",
+    "title": "Modern Mexican Restaurant Menu Design",
+    "description": "Generates a professional, print-ready modern Mexican restaurant menu with realistic imagery and stylized typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539342104_qq1h3k_HHCUTUDaUAA7-vZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17033,
+    "content": "Avant-garde athletic fashion campaign set in a pristine studio environment, featuring an {argument name=\"prop\" default=\"oversized tennis racket transformed into a monumental sculptural element\"}. A {argument name=\"subject\" default=\"female athlete (same face and identity as the reference)\"} stands confidently beside it, one foot placed on the frame of the racket in a poised, dominant stance. Her outfit is elevated luxury sportswear, with a skirt that extends cleanly to the knees, maintaining elegance and movement control. Behind her, the word “{argument name=\"text\" default=\"PRECISION\"}” appears in large, striking typography, integrated seamlessly into the scene. The setting is a crisp white backdrop with a glossy, court-inspired reflective floor. Lighting is cinematic and sculptural, emphasizing form, texture, and contrast. Ultra-minimal, high-fashion editorial composition, square 1:1 framing.",
+    "title": "Avant-Garde Athletic Fashion Campaign",
+    "description": "A high-fashion luxury sportswear campaign prompt featuring a monumental tennis racket sculpture and a dominant female model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539305411_1jt83g_HHCS1zOaEAAN3B2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17078,
+    "content": "Inspired by this product, design a set of women's clothing in a {argument name=\"style\" default=\"cool and refreshing style\"}.",
+    "title": "Product-Inspired Fashion Design",
+    "description": "Transforms a basic consumer product into inspiration for a themed clothing line, such as designing cool-style women's wear based on a rice package.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539334453_pllk3u_HHCEJpLaIAAfn3Q.jpg",
+      "https://cms-assets.youmind.com/media/1777539334343_9dde3j_HHCEMb4a8AAU9oU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17119,
+    "content": "Using the provided reference image, transform the ancient clay figurine into a high-end fashion editorial moodboard for a couture collection inspired directly by its form and surface language. Keep the figurine visible on the board as the source artifact, then add 4 fashion looks derived from it: 1 central full-body hero look and 3 smaller collection looks below, each translating the figure’s triangular headpiece, broad sculptural shoulders, rounded lower silhouette, and spiral/incised patterns into avant-garde garments and accessories. Present the result as a clean luxury brand presentation board with an editorial layout on a light background, mixing product-fashion photography and material research. Include a headline reading “JOMON FUTURES” with the subhead “14,000 YEARS OF BEAUTY. REIMAGINED.” Add a short brand-style paragraph about an ultra-luxury haute couture collection inspired by the Jomon Dogu. Include 8 square close-up design-language panels extracted from the artifact’s carved motifs. Add a “MATERIALS & TEXTURES” column with 6 swatches and labels: sculpted leather, raw clay silk, metallic clay weave, hand-beaded ceramic, organic wool felt, aged bronze hardware. Add a “COLOR PALETTE” row with 4 circular swatches in earthy clay, deep brown, warm ivory, and charcoal. Add an “ACCESSORIES & DETAIL” section with exactly 6 accessory items: ceramic & stone earrings, sculptural clay-leather bag, hand-built clay cuff, Jomon spiral brooch, bronze-clay necklace, sculpted strappy heels. Add a bottom “DETAIL CRAFTSMANSHIP” strip with 5 close-up panels: hand-embossed spirals, raised clay appliqué, ceramic bead embellishment, sculpted shoulder architecture, organic texture contrast. Overall aesthetic: museum artifact meets Paris haute couture, earthy and luxurious, highly detailed, premium fashion campaign board, elegant typography, realistic garments, tactile materials, and a refined editorial presentation.",
+    "title": "Jomon Dogu Couture Moodboard",
+    "description": "This prompt turns an artifact reference image into a luxury fashion concept board, useful for creating haute couture editorial presentations inspired by historical objects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539369635_lxg9oa_HHB_umsawAAMqAB.jpg"
     ],
     "needReferenceImages": true
   },
@@ -247,7 +973,6 @@
     "title": "Fashion Design from Product Inspiration",
     "description": "A prompt that uses an existing product as a reference to design a matching clothing set.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777453140106_i8jxk7_HG_bVZ2bkAAwbvr.jpg",
       "https://cms-assets.youmind.com/media/1777453140125_22se5x_HG_bW-rbwAAk-2q.jpg"
     ],
     "needReferenceImages": true
@@ -318,7 +1043,6 @@
     "title": "Furniture Assembly Manual Generator",
     "description": "A Japanese prompt that takes a photo of furniture and generates a minimal assembly manual with exploded views and numbered steps.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777453156882_6c7sch_HG-271CaoAANBdw.png",
       "https://cms-assets.youmind.com/media/1777453157091_6v15o6_HG-283absAA23mw.jpg"
     ],
     "needReferenceImages": true
@@ -1689,7 +2413,6 @@
     "title": "Chuunibyou Style Merch Poster",
     "description": "A creative prompt for designing elegant business card and merchandise posters with a 'chuunibyou' (edgy) director/designer aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777280778225_s2vrm1_HG0pNxXagAEHGkj.jpg",
       "https://cms-assets.youmind.com/media/1777280778243_26yy3y_HG0pNxJbEAAptVQ.jpg"
     ],
     "needReferenceImages": true
@@ -1983,7 +2706,6 @@
     "title": "Food Image Professional Retouching Prompt",
     "description": "A prompt that takes a photo of an empty or used plate and instructs GPT-Image-2 to recreate it as a professional marketing photo for a restaurant menu.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777280784144_jbzqq2_HGy5ZsBbwAAxbRx.jpg",
       "https://cms-assets.youmind.com/media/1777280784185_yql595_HGy5ZsBagAALtIB.jpg"
     ],
     "needReferenceImages": true
@@ -2238,7 +2960,6 @@
     "title": "Hyper-Realistic Commercial Advertisement",
     "description": "A high-fashion commercial advertisement prompt that utilizes a subject reference to create a polished, Vogue-style editorial poster.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777193321814_7s84nx_HGwylAja0AEPQzw.jpg",
       "https://cms-assets.youmind.com/media/1777193321838_j2ym8d_HGwylBubQAAmYWh.jpg"
     ],
     "needReferenceImages": true
@@ -2781,7 +3502,6 @@
     "title": "Elegant Cosmetic Poster Prompt",
     "description": "A prompt focused on generating high-end lipstick product posters with specific aesthetic requirements and style consistency.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777193330683_hd4bt5_HGup03_akAAU96r.jpg",
       "https://cms-assets.youmind.com/media/1777193330624_4vj51g_HGup3aFaUAAlCww.jpg"
     ],
     "needReferenceImages": true
@@ -3266,8 +3986,7 @@
     "title": "Lipstick Product Poster Prompt",
     "description": "A prompt for generating an aesthetic lipstick product poster in Simplified Chinese, using a reference style.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777106767249_2yl0u1_HGrjuANaUAACrt-.jpg",
-      "https://cms-assets.youmind.com/media/1777106767170_mpgwmb_HGrj25cbMAAHxER.jpg"
+      "https://cms-assets.youmind.com/media/1777106767249_2yl0u1_HGrjuANaUAACrt-.jpg"
     ],
     "needReferenceImages": true
   },
@@ -3399,9 +4118,7 @@
     "title": "Professional Food Photography Enhancement",
     "description": "Transforms a casual mobile photo of food into a high-end restaurant-style advertisement with cinematic lighting and custom artistic text.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777106779458_q80fv2_HGq0-JpbwAAbRZQ.jpg",
       "https://cms-assets.youmind.com/media/1777106779510_vv3epp_HGq0-LXa0AAnNNj.jpg",
-      "https://cms-assets.youmind.com/media/1777106779470_r6iw22_HGq0-Mza4AECI_9.jpg",
       "https://cms-assets.youmind.com/media/1777106780158_ev1lss_HGq0-LiaEAAP0om.jpg"
     ],
     "needReferenceImages": true
@@ -3512,7 +4229,6 @@
     "title": "Industrial Design Presentation Sheet",
     "description": "A complex layout prompt for an industrial design sheet showcasing a product from multiple angles in a grid system.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777106742882_fs7oay_HGqir7sWYAEy2hN.jpg",
       "https://cms-assets.youmind.com/media/1777106742867_7bg8xn_HGqisAEXwAArwMV.jpg"
     ],
     "needReferenceImages": true
@@ -3782,7 +4498,6 @@
     "title": "Fashion Magazine Weekly Outfit Prompt",
     "description": "A prompt designed to generate a fashion magazine-style spread showcasing various coordinated outfits for a specific character.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777106778560_rc9ea2_HGpG2OAbQAA2PqO.jpg",
       "https://cms-assets.youmind.com/media/1777106778601_uvdgl1_HGpHErAbwAAM9zF.jpg"
     ],
     "needReferenceImages": true
@@ -4291,7 +5006,6 @@
     "title": "Hyper-realistic Surreal Poster Design Prompt",
     "description": "A detailed prompt for creating a cinematic, photorealistic poster that blends reality with surreal concepts, featuring deep customization for branding and visual elements.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777022522465_zbv93f_HGludrOa0AAgHQI.jpg",
       "https://cms-assets.youmind.com/media/1777022522654_ekvmhw_HGluebEa8AADALg.jpg"
     ],
     "needReferenceImages": true
@@ -5053,7 +5767,6 @@
     "title": "3D Product Box Dieline Visualization",
     "description": "A detailed prompt for transforming flat dieline artwork into a professional 3D box rendering in a premium studio setting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776936732034_wimrbu_HGhuxSqXkAAi_Jt.jpg",
       "https://cms-assets.youmind.com/media/1776936732058_klkujo_HGhuzLQW4AArkzd.jpg"
     ],
     "needReferenceImages": true
@@ -5468,7 +6181,6 @@
     "title": "Vintage Cookbook Illustration",
     "description": "Transforms a food photo into a hand-drawn vintage cookbook recipe page, complete with labels, textured shading, and handwritten notes.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776936738325_6yngv6_HGgYrVLXsAAXS0K.jpg",
       "https://cms-assets.youmind.com/media/1776936738361_wfhtpo_HGgYrVRXYAAqhuo.jpg"
     ],
     "needReferenceImages": true
@@ -7717,7 +8429,8 @@
     "title": "Wireframe to Corporate Web Banner",
     "description": "Transforms a rough hand-drawn wireframe into a polished, professional web banner ad with photorealistic subjects, vector graphics, and customizable Japanese copy.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776668127272_42g2zj_HGPKuWtbMAAME76.jpg"
+      "https://cms-assets.youmind.com/media/1776668127272_42g2zj_HGPKuWtbMAAME76.jpg",
+      "https://cms-assets.youmind.com/media/1776668127301_nl3j7w_HGPKtdubcAEsbmU.jpg"
     ],
     "needReferenceImages": true
   },
@@ -7737,7 +8450,6 @@
     "title": "KAWAISALES Ad Design",
     "description": "A professional advertisement generation prompt that uses a handwritten layout as a reference to create a modern sales tool promotional image.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776699407142_jef2m5_HGO6vCEaoAAe81u.jpg",
       "https://cms-assets.youmind.com/media/1776699408614_m8ns8x_HGO6xeKaQAAlpul.jpg"
     ],
     "needReferenceImages": true

@@ -1,27 +1,53 @@
 [
   {
-    "id": 16835,
-    "content": "Design a set of {argument name=\"style\" default=\"cool-style\"} women's clothing inspired by {argument name=\"product\" default=\"this product\"}",
-    "title": "Fashion Design Inspired by Products",
-    "description": "A creative prompt for designing a set of cool-style women's clothing inspired by a specific product or item",
+    "id": 17104,
+    "content": "{\n  \"type\": \"fashion outfit infographic\",\n  \"aspect_ratio\": \"4:5\",\n  \"style\": \"clean editorial product board, Korean street fashion aesthetic, bright soft natural light, muted beige and powder blue palette, minimalist indoor setting\",\n  \"title_text\": \"{argument name=\\\"headline text\\\" default=\\\"OOTD\\\"}\",\n  \"layout\": {\n    \"background\": \"warm off-white with subtle beige interior architecture\",\n    \"split\": \"left model portrait, right vertical product stack\",\n    \"sections\": [\n      {\n        \"title\": \"model look\",\n        \"position\": \"left\",\n        \"count\": 1,\n        \"labels\": [\"full-body outfit shot\"]\n      },\n      {\n        \"title\": \"product cards\",\n        \"position\": \"right\",\n        \"count\": 4,\n        \"labels\": [\"Strawberry Tee\", \"Wide-Leg Jeans\", \"Mini Crossbody Bag\", \"Platform Sneakers\"]\n      }\n    ]\n  },\n  \"scene\": {\n    \"setting\": \"minimal indoor studio corner with soft beige walls, light cream floor, gentle sunlight and shadows, potted olive tree on the far left\",\n    \"decor\": {\n      \"count\": 4,\n      \"items\": [\"small hanger icon at top left\", \"small shopping bag icon at top right\", \"three pagination dots at bottom right\", \"tiny shopping bag icon at bottom left\"]\n    }\n  },\n  \"subject\": {\n    \"type\": \"young woman\",\n    \"pose\": \"standing relaxed, facing forward, one arm down holding a small bag, feet slightly apart\",\n    \"hair\": \"{argument name=\\\"hair style\\\" default=\\\"dark brown shoulder-length loose waves with a center part\\\"}\",\n    \"face\": \"de-emphasized facial detail, soft fashion editorial look\",\n    \"outfit\": {\n      \"count\": 4,\n      \"pieces\": [\n        \"oversized white t-shirt with a small lavender strawberry chest graphic\",\n        \"light-wash high-waisted wide-leg denim jeans\",\n        \"white mini structured crossbody bag with gold hardware\",\n        \"white platform sneakers\"\n      ]\n    }\n  },\n  \"product_cards\": [\n    {\n      \"name\": \"{argument name=\\\"shirt label\\\" default=\\\"Strawberry Tee\\\"}\",\n      \"price\": \"$35\",\n      \"image\": \"close-up of white tee neckline and chest area showing the small purple strawberry graphic\",\n      \"card_style\": \"rounded white card with thin warm-gold outline, left image panel and right serif text\"\n    },\n    {\n      \"name\": \"Wide-Leg Jeans\",\n      \"price\": \"$75\",\n      \"image\": \"cropped close-up of pale blue jeans waist and upper leg\",\n      \"card_style\": \"rounded white card with thin warm-gold outline, left image panel and right serif text\"\n    },\n    {\n      \"name\": \"Mini Crossbody Bag\",\n      \"price\": \"$450\",\n      \"image\": \"close-up of white structured mini bag with top handle, shoulder strap, and gold clasp\",\n      \"card_style\": \"rounded white card with thin warm-gold outline, left image panel and right serif text\"\n    },\n    {\n      \"name\": \"{argument name=\\\"shoe label\\\" default=\\\"Platform Sneakers\\\"}\",\n      \"price\": \"$110\",\n      \"image\": \"close-up of white low-top platform sneakers angled slightly to the side\",\n      \"card_style\": \"rounded white card with thin warm-gold outline, left image panel and right serif text\"\n    }\n  ],\n  \"typography\": {\n    \"headline\": \"large pastel blue bubble letters centered across the top\",\n    \"product_text\": \"elegant black serif typography with stacked names and prices\"\n  },\n  \"rendering\": {\n    \"quality\": \"high-resolution polished fashion graphic\",\n    \"composition\": \"balanced and airy with generous margins, catalog-style clarity\"\n  }\n}",
+    "title": "OOTD Fashion Infographic",
+    "description": "A clean 4:5 fashion editorial infographic showing a full-body outfit on the left and four labeled product cards with prices on the right, ideal for social media style boards and shopping posts.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777453152940_ytic3l_HHDUVVDaEAAuhTg.jpg",
-      "https://cms-assets.youmind.com/media/1777453153032_cb21x2_HHDUXjVasAAVcLR.jpg",
-      "https://cms-assets.youmind.com/media/1777453153069_1y9i1j_HHDUZX7bYAAvMVg.jpg",
-      "https://cms-assets.youmind.com/media/1777453154653_12x04p_HHDUa-yaoAA5ejz.jpg"
+      "https://cms-assets.youmind.com/media/1777539358981_1s5enr_HHF1IIKawAAQ6aJ.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 16824,
-    "content": "Inspired by this product, design a set of women's clothing in a {argument name=\"style\" default=\"cool style\"}, with a {argument name=\"background\" default=\"black background\"} and an aspect ratio of {argument name=\"aspect ratio\" default=\"3:2\"}.",
-    "title": "Product-Inspired Fashion Design",
-    "description": "A prompt that uses a product (like a bottle of disinfectant) as inspiration to design a cool-style women's fashion outfit.",
+    "id": 17008,
+    "content": "Minimalist commercial ad featuring oversized {argument name=\"brand\" default=\"KFC\"} bucket, ultra-clean design. A young woman in all-white outfit leans casually against the giant bucket, relaxed confident pose, eyes closed, also holding a piece of fried chicken. Soft gradient {argument name=\"background color\" default=\"blue\"} background with large bold white “KFC” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “{argument name=\"tagline\" default=\"Crispy, juicy, irresistible.\"}”",
+    "title": "Minimalist KFC Commercial Advertisement",
+    "description": "A high-end fashion and product photography style prompt for a minimalist KFC advertisement with a clean, modern aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777453146898_fr5eif_HHCczAQa0AErrcp.jpg",
-      "https://cms-assets.youmind.com/media/1777453146882_q155dg_HHCd47XbcAAw0md.jpg"
+      "https://cms-assets.youmind.com/media/1777539292838_jcz0ft_HHFiy-YakAI8hxE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17135,
+    "content": "Create a premium e-commerce product advertisement in a clean botanical skincare style, featuring an open gift box of {argument name=\"product name\" default=\"MONSTER 皮肤精华\"} centered on a light stone tabletop. The packaging is pale sage green and off-white with a minimalist luxury aesthetic, soft matte finish, and delicate watercolor leaf illustrations inside the lid and on the sachets. The box lid is open upright, showing elegant typography: the large brand line {argument name=\"brand text\" default=\"MONSTER 皮肤精华\"}, a secondary line {argument name=\"headline text\" default=\"7天舒缓肌肤\"}, smaller Chinese copy beneath, and 3 small circular feature icons aligned horizontally in the center area. Inside the box, show exactly 4 flat sheet-mask sachets stacked on the left and exactly 5 slim glass serum ampoules standing in a row on the right, each with silver caps and vertical label text. On the front lip of the box, print the same product branding in small refined type. On the right side of the composition, place exactly 3 vertically stacked line-art benefit icons with bilingual labels: a leaf icon with {argument name=\"benefit one\" default=\"舒缓修护\"} and the English subtitle \"SOOTHING REPAIR\", wavy water lines with {argument name=\"benefit two\" default=\"水润保湿\"} and the English subtitle \"HYDRATING\", and a balance scale icon with the Chinese label \"平衡肌肤\" and the English subtitle \"BALANCE\". Surround the scene with a serene natural spa environment: soft-focus green branches entering from the upper left and upper right edges, moss-covered stones on both sides, subtle leaves in the foreground, and diffused daylight on a warm ivory background. Use a balanced front-facing composition, gentle shadows, high-end commercial lighting, crisp packaging detail, muted green palette, and a calm, trustworthy, premium skincare advertisement look.",
+    "title": "Botanical Skincare Gift Box Ad",
+    "description": "This prompt generates a polished e-commerce skincare product hero image with an open gift box, botanical styling, and premium spa-like branding for commercial advertising.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539379395_iasohm_HHEo8Una8AAN4CH.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 17023,
+    "content": "Luxury fashion advertisement poster, ultra-premium editorial style (Gucci aesthetic), soft warm beige gradient background with subtle shadows and depth. A confident elegant young woman posing naturally beside a minimal stool, wearing flowy high-waist wide-leg trousers (rich warm brown) and a silky cream blouse, soft curls, minimal gold jewelry, cinematic soft lighting, realistic skin texture, high-end fashion photography. Clean modern layout with strong hierarchy and spacing: Left side: Large vertical text “TROUSERS” in premium serif font (Didot / Bodoni style), high letter spacing, slightly faded brown tone. Small vertical subtext: “EFFORTLESS STYLE. PERFECT FIT.” in thin sans-serif, minimal and elegant. Right side product card: Rounded soft card showing zoomed-in waist detail (same outfit as model) Title: “HIGH WAIST” in serif font Subtext: Flattering Fit, All-Day Comfort in light sans-serif Soft shadow and subtle border Below: Color swatches (navy, beige, taupe, black), perfectly aligned, evenly spaced Sizes row (XS S M L) styled as premium pill buttons “S” filled others outlined Remove unnecessary text like heights, keep layout minimal and breathable. Overall look: High fashion magazine aesthetic Clean spacing, grid aligned Soft shadows, subtle gradients Ultra realistic, sharp, 4K, luxury branding feel",
+    "title": "High-End Trousers Advertising Poster",
+    "description": "A sophisticated fashion advertisement prompt focusing on high-waist trousers with a clean, modern layout and product detail cards.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539298948_bjz1vj_HHDxtGQbUAA0X_e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17027,
+    "content": "High-impact e-commerce infographic for \"{argument name=\"product name\" default=\"Apple MacBook Air M3\"}\" laptop.\nAspect Ratio: 1:1 square composition.\nForeground:\nAn extreme close-up of a hand holding an open, ultra-slim silver MacBook toward the camera. The Apple logo is visible on the back of the display. The screen is slightly angled, showing a vibrant gradient wallpaper. The hand and laptop edges have a subtle macro-lens blur to create depth and realism.\nCentral Subject (Mid-ground):\nA {argument name=\"model description\" default=\"smiling young woman with freckles and wavy pastel-pink hair\"}. She is wearing a vibrant {argument name=\"outfit\" default=\"lime-green knit beanie and a psychedelic black-and-white striped long-sleeve shirt\"}. She stands confidently, slightly behind the MacBook, looking toward the camera, as if presenting the product.\nBackground & Lighting:\nA clean studio backdrop with a soft light-gray gradient. Add diagonal rainbow prism lens flares and soft light leaks for a premium Apple-style aesthetic. Multiple blurred MacBooks float in the background at different angles, creating depth and motion. Lighting is soft, diffused, and professional, highlighting the metallic finish of the laptop.\nTypography & Layout (Clean Sans-Serif, White):\nTop Center (Background): Massive bold text: “MACBOOK” (placed behind the model, partially obscured)\nTop Right: “Apple MacBook Air M3”\nMid-Left: “Supercharged performance with M3 chip”\nMid-Right: Large bold “18” with text “hours of battery life.”\nBottom-Right: Large bold “1” with text “year warranty.”\nBottom-Left (Optional Badge): “M3 chip. Blazing fast. Power efficient.”\n\nStyle:\n8K resolution, ultra-clean commercial product photography, vibrant yet minimal color palette, shallow depth of field, sharp focus on the MacBook, premium Apple-inspired advertising aesthetic, glossy metallic reflections, modern tech branding.",
+    "title": "E-commerce Tech Infographic",
+    "description": "A professional advertising prompt for a laptop infographic, featuring a model, product close-ups, and clean marketing typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539301444_lk7nlo_HHDXmw_awAEIUOI.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 16887,
@@ -217,7 +243,6 @@
     "title": "Food Image Professional Retouching Prompt",
     "description": "A prompt that takes a photo of an empty or used plate and instructs GPT-Image-2 to recreate it as a professional marketing photo for a restaurant menu.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777280784144_jbzqq2_HGy5ZsBbwAAxbRx.jpg",
       "https://cms-assets.youmind.com/media/1777280784185_yql595_HGy5ZsBagAALtIB.jpg"
     ],
     "needReferenceImages": true
@@ -333,7 +358,6 @@
     "title": "Elegant Cosmetic Poster Prompt",
     "description": "A prompt focused on generating high-end lipstick product posters with specific aesthetic requirements and style consistency.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777193330683_hd4bt5_HGup03_akAAU96r.jpg",
       "https://cms-assets.youmind.com/media/1777193330624_4vj51g_HGup3aFaUAAlCww.jpg"
     ],
     "needReferenceImages": true
@@ -415,7 +439,6 @@
     "title": "Industrial Design Presentation Sheet",
     "description": "A complex layout prompt for an industrial design sheet showcasing a product from multiple angles in a grid system.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777106742882_fs7oay_HGqir7sWYAEy2hN.jpg",
       "https://cms-assets.youmind.com/media/1777106742867_7bg8xn_HGqisAEXwAArwMV.jpg"
     ],
     "needReferenceImages": true
@@ -640,7 +663,6 @@
     "title": "3D Product Box Dieline Visualization",
     "description": "A detailed prompt for transforming flat dieline artwork into a professional 3D box rendering in a premium studio setting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776936732034_wimrbu_HGhuxSqXkAAi_Jt.jpg",
       "https://cms-assets.youmind.com/media/1776936732058_klkujo_HGhuzLQW4AArkzd.jpg"
     ],
     "needReferenceImages": true

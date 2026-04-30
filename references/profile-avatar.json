@@ -1,5 +1,84 @@
 [
   {
+    "id": 17219,
+    "content": "Using the provided reference image, replace the man with the referenced character while preserving the same standing pose, framing, and realistic photographic look. Transform the scene into an outdoor historical setting with a shallow-depth-of-field forest or garden background. Dress the character in an elaborate dark 18th-century aristocratic outfit: 1 tricorn hat, 1 embroidered long coat, 1 fitted waistcoat with a row of buttons, 1 high-neck cravat, and 2 white ruffled cuffs. Keep the character centered and full of presence, with cinematic lighting and a softly blurred background that includes 1 distant blurred figure on the right.",
+    "title": "Character Swap Into Period Portrait",
+    "description": "This prompt replaces the person in a reference photo with a supplied character and restyles the image as a cinematic historical portrait for character consistency tests.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539432008_xn0ndg_HHGSEtObQAAVZ_C.jpg",
+      "https://cms-assets.youmind.com/media/1777539432042_smlo7e_HHGSIJgbUAA5ZtG.jpg",
+      "https://cms-assets.youmind.com/media/1777539432076_wquwv8_HHGSKlDaoAAo7PX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17053,
+    "content": "A highly detailed, hand-drawn illustration in a technical style of a {argument name=\"subject\" default=\"young man looking upward\"} with a hopeful and at the same time intense expression. His face is elaborated with fine cross-hatching that particularly emphasizes the facial structure and the emotional impact. The hair appears tousled and dynamic, with individual strands depicted in an ink-like sketch style.The portrait is surrounded by {argument name=\"details\" default=\"golden geometric patterns, celestial rings, and constellation-like lines\"}, creating a fusion of scientific precision and spiritual atmosphere.Ratio 9:16",
+    "title": "Technical Ink Sketch Portrait",
+    "description": "A hand-drawn illustration prompt combining scientific precision with spiritual geometric patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539315718_sza0wr_HHFWbWybAAArJgU.jpg",
+      "https://cms-assets.youmind.com/media/1777539315750_nqvzeg_HHFWbYjaEAAXtx5.jpg",
+      "https://cms-assets.youmind.com/media/1777539315792_os3dbm_HHFWb4-bUAAz13r.jpg",
+      "https://cms-assets.youmind.com/media/1777539316866_ja0n1k_HHFWb5FaYAA7Wun.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17014,
+    "content": "A warm, cozy bedroom selfie taken from a high angle. A {argument name=\"subject description\" default=\"red-haired woman with freckles and glasses\"} reclines on a bed with {argument name=\"pillow pattern\" default=\"dragonfly-patterned\"} pillows and a {argument name=\"blanket texture\" default=\"textured\"} blanket, wearing a soft lavender sleeveless top. She poses casually with a playful expression, one finger near her lips. A bedside table with a glowing lamp, teapot, and remote control adds to the relaxed, intimate home atmosphere. Soft warm lighting and natural shadows create a calm nighttime mood.",
+    "title": "Cozy Bedroom High-Angle Selfie",
+    "description": "A warm and intimate bedroom selfie prompt focusing on soft lighting and realistic lifestyle details, featuring a subject relaxing on a bed.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539295256_rx5xus_HHFJSX3akAAOYKm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17006,
+    "content": "A sunlit indoor portrait of a {argument name=\"hair color\" default=\"blonde woman\"} relaxing on a soft carpet beside a light-colored couch. She wears a {argument name=\"outfit\" default=\"matching blue lounge set with small pink details\"}, smiling and winking playfully at the camera. Warm natural sunlight streams in, casting soft shadows across her face and body. A {argument name=\"prop\" default=\"bowl of popcorn\"} sits nearby, adding a casual, cozy vibe. The setting feels relaxed and intimate, with neutral tones and soft textures.",
+    "title": "Cozy Indoor Portrait",
+    "description": "A sunlit lifestyle photography prompt featuring a relaxed subject in a cozy indoor setting with warm lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539290777_n4zo9e_HHFIAoEaUAAW1cr.jpg",
+      "https://cms-assets.youmind.com/media/1777539291449_6h6kba_HHFIAoBawAAfyGb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17090,
+    "content": "Based on this photo, please create a professional ID photo that is clean, elegant, and reliable for job applications or various registrations. The hairstyle should be neat and natural, and the subject should be wearing {argument name=\"clothing\" default=\"a black suit jacket with a simple white crew-neck blouse\"}. The background should be {argument name=\"background color\" default=\"plain white\"}, with bright, even studio lighting. Skin tones should be natural and clear, and the image finished in high resolution. The composition should be a front view facing forward, clearly showing from the shoulders up. The expression should be calm and neutral, conveying friendliness and intelligence. Overall, make it a minimal, sophisticated, natural, and professional ID photo.",
+    "title": "Professional ID Photo Generator",
+    "description": "A prompt that converts a casual photo into a professional ID or application photo with clean studio lighting, formal attire, and a neutral expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539351175_xlqa2a_HHE96VEasAAfnuw.jpg",
+      "https://cms-assets.youmind.com/media/1777539351174_f31aq6_HHE98Y6bwAAVBX1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17052,
+    "content": "Imagine : use the subject from uploaded image as base main subject foundation, perserve facial detail and body figure shape . ignore any other unrelated element. follow this prompt : A breathtaking, high-angle cinematic photograph captured with a tilt-shift lens at an almost top-down perspective, utilizing a dramatic canted Dutch tilt to evoke a sense of ethereal disorientation and intimate vulnerability. The central figure is the main subject in a photogenic, soulful gesture, her head tilted back as she gazes directly into the lens with wide, luminous eyes that exhibit sharp catchlights and deep emotional resonance. Her {argument name=\"hair style\" default=\"short, raven-black hair\"} is intricately detailed, with individual strands catching the light, adorned with delicate silver clips and pins that create micro-reflections. She is dressed in a {argument name=\"outfit\" default=\"textured white off-the-shoulder knit sweater with black ribbon accents\"}, layered over a thin-strapped camisole; the fabric displays realistic subsurface scattering and soft rim-lighting that defines its woven silhouette. Multiple silver necklaces, including a cross pendant, rest against her collarbone, highlighting the delicate anatomy of her neck and shoulders. The entire scene is bathed in a {argument name=\"aesthetic\" default=\"dreamy, analog aesthetic\"}, characterized by a soft Pro-Mist filter that creates misty highlights and a radiant glow around the subject's form. Dappled sunlight filters through an overhead canopy, casting intricate, organic patterns of high-contrast light and shadow across her face and clothing, while a warm, soft light leak bleeds in from the periphery. The foreground is intentionally obscured by a soft-focus blur of surrounding figures in a crowded environment, utilizing a shallow depth of field to isolate the subject. The background dissolves into a beautiful, creamy bokeh of cool cerulean, ivory, and muted earth tones, suggesting a sun-drenched outdoor plaza. Technical photography details include a subtle film grain consistent with high-ISO analog stock, visible chromatic aberration at the frame's edges, and a prismatic lens flare that streaks across the composition, adding to the nostalgic, disposable visual aesthetic. The color palette is a sophisticated balance of cool environmental tones and warm, glowing skin textures, unified by a matte finish and rich ambient occlusion in the folds of the garments. The composition adheres to a dynamic central focus, where the subject’s gaze serves as the primary anchor amidst the chaotic, blurred movement of the midground and background elements. aspect ratio 3:4",
+    "title": "Tilt-Shift Analog Aesthetic Portrait",
+    "description": "A detailed cinematic photograph prompt using tilt-shift lenses and analog filters for an ethereal look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539316028_us9lzp_HHEXo39a8AAhc-F.jpg",
+      "https://cms-assets.youmind.com/media/1777539316023_a2xv2h_HHEXo3sbQAACT7b.jpg",
+      "https://cms-assets.youmind.com/media/1777539316026_ggqcei_HHEXo3sacAAMs3n.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17040,
+    "content": "A high-end studio portrait of a {argument name=\"subject\" default=\"young man\"} with sharp facial features, styled hair, and a well-groomed beard. He is wearing a {argument name=\"clothing\" default=\"black hoodie\"} and layered silver chain necklaces, slightly holding the hood with one hand. He looks directly into the camera with a confident, subtle smile. Background is a {argument name=\"background\" default=\"solid bold red color\"}, clean and minimal, creating strong contrast with the black outfit. Soft, even studio lighting with slight rim light to define the face and hair. Ultra-realistic skin texture, sharp focus on eyes, 85mm lens look, shallow depth of field, professional photography, 8K resolution.",
+    "title": "High-End Studio Male Portrait",
+    "description": "A professional photography prompt for a sharp studio portrait with bold contrast and realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539308137_97m49j_HHD-lFKacAElKFh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 16851,
     "content": "A dramatic cyberpunk anime close-up portrait of a white-haired young man in side profile facing right, with spiky silver hair, pale skin, and a black blindfold covering his eyes. He wears a high-collar dark coat and stands in a neon-lit futuristic city at night. Bright electric-blue glowing text is projected across the side of his face, reading exactly {argument name=\"face text\" default=\"GPT IMAGE 2\"} in three stacked lines. The mood is cool, mysterious, and high-energy, with deep black shadows, saturated blue and violet lighting, reflective highlights on the skin and hair, and a cinematic anime look reminiscent of modern supernatural action series. The background is a blurred urban street with dense vertical neon signs and holographic billboards; include 1 large vertical sign on the right with Japanese characters, plus at least 6 additional smaller glowing signs scattered in the distance. Use strong rim lighting, soft bloom, shallow depth of field, high contrast, ultra-detailed digital illustration, and a sleek sci-fi atmosphere.",
     "title": "Cyberpunk Anime Portrait with Neon Face Text",
@@ -8,6 +87,90 @@
       "https://cms-assets.youmind.com/media/1777453164993_mt5b69_HHDoWfeaUAEA6Vt.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 17035,
+    "content": "A high-detail, {argument name=\"perspective\" default=\"symmetrical front-facing portrait\"} of a man, rendered in a {argument name=\"style\" default=\"futuristic low-poly geometric art style\"}. The entire head is constructed from sharp, angular facets and triangular planes with a {argument name=\"material\" default=\"polished chrome and brushed silver\"} finish. The facial features—including a sharp beard, mustache, and textured hair—are meticulously defined by these geometric shards.The surface is highly reflective, capturing soft studio lighting with subtle blue and amber highlights. The eyes are realistic and piercing, set within the metallic structure. Background is a clean, neutral slate gray. 8k resolution, cinematic lighting, industrial design aesthetic, photorealistic metallic shaders, sharp edges, Ray Tracing.",
+    "title": "Futuristic Low-Poly Metallic Portrait",
+    "description": "A highly detailed prompt for a geometric, low-poly portrait of a man with reflective chrome and silver surfaces.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539304988_1oimj6_HHDR4Vca4AANJyT.jpg",
+      "https://cms-assets.youmind.com/media/1777539305071_9h10ms_HHDR4XXaQAAG4BL.jpg",
+      "https://cms-assets.youmind.com/media/1777539304977_f0eor8_HHDR4eJaoAAp_RZ.jpg",
+      "https://cms-assets.youmind.com/media/1777539305665_el2mx3_HHDR4iaaAAABEEr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17117,
+    "content": "A hyper-realistic smartphone gym mirror selfie of a fit young woman standing in the foreground of a modern upscale gym, vertical composition, dating-app style candid realism. She is taking the photo herself with her phone covering most of her face, creating an authentic mirror-selfie look. She has long, straight {argument name=\"hair color\" default=\"dark brown\"} hair falling past her chest, a slim curvy athletic figure, and wears a tight sleeveless black one-piece workout outfit with a deep scoop neckline and subtle ribbed texture on the legs. On one hand she wears a bright {argument name=\"glove color\" default=\"hot pink\"} and black fingerless lifting glove, and in the other hand she loosely holds a black jacket. Her phone has a dark rose or burgundy case. The scene is inside a sleek contemporary gym with cool blue ambient lighting, large wall mirrors, black rubber flooring, and 4 glowing geometric rectangular LED ceiling light fixtures visible overhead. Include weight machines and squat racks on the left and center background, 1 flat workout bench on the right foreground, and 1 dumbbell on the floor at bottom right. Show exactly 4 background gym-goers reflected or visible in the distance, slightly out of focus, to enhance realism. Lighting is crisp mixed white and blue neon, with sharp detail on the subject and mildly blurred background. The overall mood is polished, attractive, believable, and highly photorealistic, like a premium fitness mirror selfie shot on an iPhone in a real gym.",
+    "title": "Hyper-Realistic Gym Mirror Selfie",
+    "description": "This generates a highly believable dating-app style gym mirror selfie with premium modern gym lighting and natural smartphone realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539367192_8d5sun_HHDMtmFaUAEflOX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17149,
+    "content": "A warm, cheerful watercolor-style family selfie at a shallow riverside on a sunny day, painted with soft washes, delicate paper texture, and gently blended pastel tones. Three people are visible. In the left foreground, a smiling mother leans very close to the camera, filling much of the frame with a friendly face, wearing a dark baseball cap and showing soft pink cheeks, natural makeup, and short reddish-brown hair peeking out. In the upper center, a father stands slightly behind her in the water, smiling directly at the camera, with short dark hair, faint facial hair, a dark long-sleeve rash guard, and one hand raised in a peace sign. On the right, a small child in a pale woven sunhat and coral-pink dress leans in toward the camera and makes peace signs with both hands; the child’s face is obscured by a simple square censor block in a flat tan color. The background shows 1 blue sky with fluffy white clouds, 1 line of green trees, and sunlit shallow water with gentle reflections. Composition like an affectionate vacation snapshot taken at arm’s length, slightly wide-angle perspective, bright natural light, wholesome family outing mood, polished and flattering portrait treatment, soft glowing skin, subtle blush, clean details, and a hand-painted illustration finish.",
+    "title": "Watercolor Family Riverside Selfie",
+    "description": "This prompt generates a bright watercolor-style family vacation selfie, ideal for turning a casual outdoor family photo into a soft, flattering illustrated portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539386122_qekmpm_HHDB9mjaMAAxNj_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17028,
+    "content": "A stylized digital illustration of a young woman with {argument name=\"hair style\" default=\"short messy bright yellow bob hair\"}, soft freckles, natural makeup, and hoop earrings, wearing a full sleeves yellow top. The portrait is designed as a {argument name=\"theme\" default=\"surreal jigsaw puzzle composition\"}, where her face and upper body are divided into puzzle pieces. Some puzzle pieces contain artistic elements like a realistic green eye, a bird illustration, abstract textures, and geometric color blocks. Clean smooth skin, sharp facial features, glossy lips, symmetrical composition, soft lighting, {argument name=\"background\" default=\"pastel pink background\"}. Ultra-detailed, high resolution, modern editorial art style, minimal shadows, crisp outlines, aesthetic and balanced composition.",
+    "title": "Surreal Jigsaw Portrait Illustration",
+    "description": "A creative digital illustration of a woman's portrait designed as a jigsaw puzzle, incorporating abstract textures and birds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539302464_4d38fg_HHC-2M1aMAAoE4a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17050,
+    "content": "Side profile portrait of a {argument name=\"subject\" default=\"young man with messy hair and round glasses\"}, minimalist black silhouette style, facing left, dramatic lighting, {argument name=\"background color\" default=\"bright yellow\"} background, dynamic {argument name=\"accent style\" default=\"black ink splashes and paint streaks\"} exploding from the head and shoulders, abstract motion effect, modern digital illustration, high contrast black and yellow color palette, cinematic composition, sharp details, graphic novel style, paint splatter art, ultra clean background, 4k.",
+    "title": "Graphic Novel Ink Splatter Portrait",
+    "description": "A minimalist black silhouette portrait prompt with dynamic ink splashes and high contrast colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539314695_7cunky_HHC1ET9bYAAszII.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17148,
+    "content": "Using REFERENCE_1 as the base scene, naturally insert the woman from REFERENCE_0 into the busy Shibuya Scramble Crossing crowd as a photorealistic passerby. Match the lighting, perspective, lens feel, scale, and street-photo realism of REFERENCE_1, and keep her outfit, bag, and overall appearance consistent with REFERENCE_0. Place her in the foreground slightly left of center, standing among the pedestrians and facing slightly to the left with a relaxed casual posture, as if she was originally photographed there. Integrate her with realistic shadows, color matching, edge blending, and partial crowd occlusion so she does not look pasted in. Preserve the existing city background, signage, and crowd composition from REFERENCE_1.",
+    "title": "Insert Reference Person Into Shibuya Scene",
+    "description": "This prompt composites a person from a reference turnaround image into a real urban crowd photo for natural-looking photorealistic scene integration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539385309_6iewkb_HHChYwNaYAAwHF5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17111,
+    "content": "A cinematic, photorealistic modern portrait of {argument name=\"character name\" default=\"Esther\"} reimagined in the present day, seated at a large worktable and leaning forward while sketching or annotating papers with a black pen. She has long, voluminous dark curly hair, medium olive-brown skin, and wears a soft light beige cardigan over a neutral tank top, layered delicate necklaces, and a simple ring. Her pose is candid and focused, with one hand writing and the other resting across a spread of maps, drawings, and printed pages on the table. Frame the image as a medium close-up from slightly above table height, centered on her upper body and hands. Use warm natural indoor lighting, shallow depth of field, and a softly blurred creative studio or workshop background with earthy brown and amber tones, giving the scene an intimate, thoughtful, contemporary storytelling mood. Emphasize realism, tactile skin and fabric texture, natural curls, documentary-style photography, subtle color grading, and a serious yet calm expression.",
+    "title": "Modern Esther Writing at a Worktable",
+    "description": "A warm, cinematic photoreal portrait of a modern-day Esther figure sketching at a cluttered table, ideal for character reimaginings and contemporary biblical-inspired storytelling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539363407_sw6alf_HHCRrAZbcAAjDjc.jpg",
+      "https://cms-assets.youmind.com/media/1777539363433_c0xo8l_HHCRxyxbcAAHgKX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17081,
+    "content": "Try to anthropomorphize and embody my {argument name=\"subject\" default=\"Chappy\"} as a beautiful girl.",
+    "title": "Character Anthropomorphism Prompt",
+    "description": "A creative prompt designed to personify a character or pet into a beautiful girl based on conversation context.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777539340331_6bei65_HHCD5S_akAAROpG.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 16936,
@@ -369,7 +532,6 @@
     "title": "Pixar Style Identity Preservation",
     "description": "A highly technical prompt for transforming a reference photo of a child into a 3D Pixar-style portrait while maintaining exact facial identity and pose.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777367251427_spjra7_HG4YQuMbQAApcgq.jpg",
       "https://cms-assets.youmind.com/media/1777367252774_mlzvjz_HG4YQuAacAAAnDB.jpg"
     ],
     "needReferenceImages": true
@@ -502,7 +664,6 @@
     "title": "HD Photo Restoration Prompt",
     "description": "An image restoration prompt for GPT Image 2, designed to transform old or damaged photographs into high-definition professional portraits while maintaining natural features.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777280769496_2mntxc_HG09PqabUAAH2qO.jpg",
       "https://cms-assets.youmind.com/media/1777280769481_w6fb6j_HG09P1ta0AA0GBd.jpg"
     ],
     "needReferenceImages": true
@@ -829,7 +990,6 @@
     "title": "High-Quality Portrait Restoration",
     "description": "A prompt designed to transform an old photo into a sharp, professional portrait with realistic colors and modern camera quality.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777193311278_fyewbw_HGt5rHnbQAAofA_.jpg",
       "https://cms-assets.youmind.com/media/1777193311311_3ol7v3_HGt5rLRa0AAgfcw.jpg"
     ],
     "needReferenceImages": true
@@ -1787,7 +1947,6 @@
     "title": "Social Media Pet Avatar Creator",
     "description": "A natural language prompt to transform a reference photo of a pet into a trendy social media profile picture.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776936756887_qrngof_HGfPrbDaIAAT9pQ.jpg",
       "https://cms-assets.youmind.com/media/1776936756942_3vic61_HGfPt-SbkAEQu69.jpg"
     ],
     "needReferenceImages": true
