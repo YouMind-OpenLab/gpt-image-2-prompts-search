@@ -1,5 +1,36 @@
 [
   {
+    "id": 17584,
+    "content": "Digital lines and coloring, using {argument name=\"painting style\" default=\"thick painting\"}. {argument name=\"aesthetic\" default=\"Simple and smooth lines and coloring\"}. The entire screen should be simple. It must not be cluttered. Use a deformation where the lips do not stand out much. No text.",
+    "title": "Simple Digital Thick Painting",
+    "description": "A prompt focusing on smooth digital painting techniques with a simplified aesthetic and minimal facial details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711061356_kawjlq_HHNkUb-asAErqhx.jpg",
+      "https://cms-assets.youmind.com/media/1777711061446_mzo3yr_HHNkV48bMAAuM6c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17585,
+    "content": "Please make this look like a {argument name=\"author\" default=\"kindergarten child\"} drew it with {argument name=\"art tools\" default=\"colored pencils\"}. Don't make it a clean drawing. Don't make it a good drawing. Don't make it cute. Please make it look like a genuinely poorly drawn picture by a child. It was drawn on white paper with colored pencils. I looked at the original picture and tried to copy it, but I couldn't do it well at all. The lines are wiggly. There are almost no straight lines. I traced them many times, so the lines are thick. The lines cut off in strange places. The shapes aren't proper. The sizes are inconsistent. Big parts are too big, small parts are too small. Eyes, mouth, body, etc., are in slightly weird places. The positions are slightly off. Something is just a bit wrong. The colors are outside the lines. There are uncolored spots. There are heavily colored areas and light areas. There are marks from scrubbing hard with the pencils. Don't make it a proper illustration. Don't clean it up digitally. Don't make the lines neat. Don't fix the shapes. Don't balance it well. It's a bit bad. It's quite bad. But the child worked hard on it. Please make it look like a child is showing it to you saying, 'Look, I did it!' The background is just plain white paper. Make the expression look childlike too.",
+    "title": "Childlike Colored Pencil Drawing",
+    "description": "A highly descriptive prompt designed to mimic the imperfect, charming style of a kindergarten child's colored pencil drawing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711061208_adg5xo_HHNO8KfbMAEJ-1Z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17587,
+    "content": "{argument name=\"situation\" default=\"Two people walking while being blown by a gentle breeze\"} {argument name=\"discovery\" default=\"a cafe found by chance\"}",
+    "title": "Walk in the Breeze to a Cafe",
+    "description": "A short, poetic prompt for a serene image of two people walking through a gentle breeze and discovering a coffee shop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711063079_byl204_HHMzarwaEAAc0Y1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 17059,
     "content": "Editorial 3x3 photo grid in a clean {argument name=\"studio style\" default=\"soft beige studio\"}. Character (matches reference 100%) wearing {argument name=\"outfit\" default=\"lightweight dark navy shirt, ivory trousers\"}, barefoot for raw simplicity. Lighting: large diffused key light directly front-right, silver reflector left, subtle rim from top. Shots to include: 1. extreme close-up of lips + cheekbone with blurred hand partially covering (85mm, f/1.8, razor-thin DOF); 2. tight crop on eyes looking into lens with reflection of light strip visible (85mm, f/2.0); 3. black & white close portrait resting chin on fist, face filling frame (50mm, f/2.2); 4. over-shoulder shot, blurred foreground fabric curtain framing half face (85mm, f/2.0); 5. very close frontal with hands overlapping face, light streak across eyes (50mm, f/2.5); 6. tight angled portrait showing hair falling into eyes, soft-focus background (85mm, f/2.2); 7. crop of hands touching jawline, eyes cropped out (50mm, f/3.2, detail-focused); 8. half-body seated sideways on low cube, head turned sharply away, blurred foreground (35mm, f/ 4.5); 9. intense close-up of profile with single tear-like water droplet, cinematic light slice across (85mm, f/ 1.9). Angles: mostly tight headshots with slight high/low tilts, maintaining variation. Capture RAW, professional muted grade, smooth tonal contrast, subtle cinematic grain. Mood: intimate, introspective, character-led editorial minimalism with delicate use of fabric as prop.",
     "title": "Editorial Portrait Photo Grid",

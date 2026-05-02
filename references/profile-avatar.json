@@ -1,31 +1,246 @@
 [
   {
-    "id": 17380,
-    "content": "Using the provided reference photo, redraw the exact same hiking selfie as a loose hand-drawn sketch illustration. Keep the same composition, camera angle, two hikers, pose, backpacks, clothing colors, cap, rock, grassy hillside, tree line, and snowy mountain placement, but simplify the scene into rough black outlines with marker-and-crayon style coloring, visible scribbled strokes, uneven fills, and a playful childlike travel-journal look. Reduce photorealistic detail, leave large parts of the background as clean white negative space, and make it feel like a quickly colored storybook doodle while preserving the recognizable layout of the original photo.",
-    "title": "Hiking Photo to Scribble Sketch",
-    "description": "This prompt turns a reference hiking photo into a loose crayon-and-marker style sketch while keeping the original composition and major visual elements.",
+    "id": 17566,
+    "content": "Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a {argument name=\"background color\" default=\"white\"} background, and make it look like it was drawn in {argument name=\"software\" default=\"MS Paint\"} with a {argument name=\"input device\" default=\"mouse\"}. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.",
+    "title": "Clumsy MS Paint Redraw",
+    "description": "A creative and humorous prompt that forces the AI to redraw an image in a low-quality, MS Paint style with a mouse-drawn feel.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777625710491_pdy349_HHN_vdqXEAATgUe.jpg"
+      "https://cms-assets.youmind.com/media/1777711050705_6srvjh_HHQTgOWW8AAIMz2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17636,
+    "content": "A serene golden-hour ancient Chinese riverside portrait of {argument name=\"character name\" default=\"a graceful young woman\"} standing beneath a massive old willow tree with long hanging branches, wearing an elegant flowing Hanfu in layered coral red, peach, and blush pink silk with delicate floral embroidery, translucent outer sleeves, and long ribbon sashes drifting in the breeze. She holds 1 traditional oil-paper parasol behind her shoulder, pale rose-pink with visible bamboo spokes, creating a halo-like shape around her head. Her hair is styled in an ornate updo with floral hairpins and small blossoms. Compose the scene in a vertical full-body frame, the woman slightly right of center, the thick textured willow trunk dominating the left side, warm sunset light low on the horizon over a calm lake, shimmering reflections on the water, distant mountains, and 1 small pavilion settlement on the far shore. Add wildflowers and soft grasses in the foreground, gentle wind movement in the fabric and willow leaves, dreamy atmospheric haze, volumetric sun rays, romantic painterly realism, ultra-detailed textures, soft cinematic glow, warm amber and pastel palette, ethereal historical fantasy mood.",
+    "title": "Hanfu Sunset by Willow Lake",
+    "description": "This generates a romantic vertical portrait of a woman in flowing Hanfu under a willow tree at sunset, ideal for historical fantasy and elegant East Asian-inspired character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711090340_zu0e6i_HHR-m-ybAAESQ-7.jpg",
+      "https://cms-assets.youmind.com/media/1777711089014_p7y3pc_HHR-pd6bMAEczxe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17649,
+    "content": "A clean, high-impact anime parody illustration of a chubby emperor penguin styled as an overpowered naval commander, centered in the frame and shown from the waist up. The penguin wears 1 bright red fast-food baseball cap with a yellow McDonald's-style golden arches logo, 1 pair of glossy black round sunglasses, 1 enormous crescent-shaped white mustache curving dramatically across its face, and 1 white military admiral coat draped over the shoulders with deep red epaulets, rich gold fringe, black lining, and gold trim. The penguin’s chest has exactly 3 visible scar marks: 1 long diagonal scar and 2 shorter crossing scars. Its beak is small and orange, expression calm and intimidating, with a comedic deadpan look. Background: a huge white stone fortress wall inspired by anime marine headquarters, with giant black calligraphy characters painted across the facade, two visible white flags marked “MARINE,” damaged battlements, smoke plumes, sparks, rubble, and rough blue ocean waves crashing in the foreground. Bright blue sky with scattered clouds behind the fortress. Composition is symmetrical and poster-like, with the penguin dominating the foreground. Style: crisp cel-shaded anime, bold black outlines, saturated colors, polished meme-quality character design, dramatic yet humorous crossover energy, highly readable silhouette, square composition.",
+    "title": "Anime Penguin Admiral Parody",
+    "description": "A humorous anime-style penguin commander portrait set in front of a battle-damaged marine fortress, ideal for meme art, parody posters, and bold character illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711096482_0zwrtm_HHR5g1jakAAmYdb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17519,
+    "content": "A cinematic, moody portrait of a {argument name=\"subject description\" default=\"stylish women in dark brown with high neck suit and oval sunglasses\"}, smoking a thin medium cigar while holding a {argument name=\"prop\" default=\"burning playing card in his hand king of hearts\"}, dramatic fire and smoke swirling in the air, low-key lighting, warm orange fire glow illuminating her face, {argument name=\"background\" default=\"dark blurred background\"}, shallow depth of field, ultra-realistic, high contrast, cinematic photography, 35mm lens look, soft bokeh, detailed skin texture, sharp focus, professional lighting, dark noir atmosphere",
+    "title": "Moody Noir Portrait",
+    "description": "A professional photography prompt for a cinematic noir-style portrait featuring dramatic fire glow, smoke, and a stylish subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711023770_jhju5c_HHP6hHfbcAApPld.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17569,
+    "content": "Please redraw this attached image in {argument name=\"style\" default=\"the most clumsy, scrawled, and absolutely eyesore way possible\"}. Use a pure white background and make it look like it was drawn in Microsoft Paint using a mouse. It should be somewhat similar to the original but not quite—appearing linked yet with a puzzling sense of awkwardness. The image should have a low-quality, pixel-by-pixel grainy texture to fully reflect how ridiculously ugly it is. Whatever, just draw it however you want.",
+    "title": "Bad MS Paint Redraw",
+    "description": "Intentionally generates a 'bad' redraw of an image using a clumsy, Microsoft Paint-style aesthetic with pixelated textures and mouse-drawn vibes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711053537_leayax_HHP4ShoasAA3SYe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17529,
+    "content": "Cinematic urban street portrait of a stylish young woman sitting casually, wearing a {argument name=\"hat type\" default=\"mustard yellow beanie\"}, round glasses, oversized black hoodie, and ripped blue jeans, soft natural lighting, shallow depth of field, graffiti wall background with vibrant colors blurred (bokeh effect), centered composition, direct eye contact, calm confident expression, detailed facial features, natural skin texture, soft color grading with warm tones, streetwear aesthetic, editorial photography style, 85mm lens, ultra-realistic, 4K",
+    "title": "Urban Street Fashion Portrait",
+    "description": "A clean prompt for an urban street portrait featuring a stylized subject with bokeh graffiti background and soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711028348_5dcyqb_HHP12r3agAIycrY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17721,
+    "content": "A simple childlike digital doodle on a plain white background, centered and isolated, showing a cute cartoon monkey standing upright and facing forward. The monkey has a round beige face, brown fur outline, two round ears, small black dot eyes, and a thick wavy black smile. It wears a gray ushanka-style winter hat with brown ear flaps, and on the front of the hat there is a yellow circular patch with a red Bitcoin symbol. The monkey is dressed in a bright purple open jacket over a white shirt, with a gold chain necklace holding a round gold medallion marked with a black Bitcoin symbol. One arm is extended outward holding a purple handheld game console with a green screen and black control buttons; the other arm hangs to the side. The legs are short and simple with beige feet. Render it in a rough MS Paint style with uneven hand-drawn lines, flat colors, scribbly fills, playful proportions, and a naive internet-meme aesthetic, like a viral GPT Image 2 crayon sketch.",
+    "title": "Bitcoin Monkey MS Paint Doodle",
+    "description": "A rough hand-drawn cartoon monkey wearing Bitcoin-themed accessories and holding a handheld game console, ideal for meme art or viral doodle-style social posts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711132503_cewwk2_HHPy546XkAAUXlN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17738,
+    "content": "A candid photorealistic night beach portrait of a young woman standing on wet sand near the shoreline, framed from mid-thigh up, facing the camera with a relaxed posture and one arm hanging naturally at her side. She has long straight dark brown hair parted near the center, smooth light-to-medium skin, and wears a fitted strapless bodycon dress with a soft vintage floral print in muted cream, pale yellow, sage green, and dusty blue. Add a delicate gold necklace with a small round pendant and subtle rings on her fingers. The scene is lit with direct on-camera flash, creating sharp realistic highlights on the skin, a crisp subject against a very dark background, and a visible band of foamy ocean waves behind her. The beach and sea should look natural and dim, with the horizon fading into black night sky. Smartphone snapshot aesthetic, realistic skin texture, slight flash harshness, casual social-photo composition, shallow ambient detail, centered subject, authentic nightlife beach vibe.",
+    "title": "Flash Night Beach Portrait",
+    "description": "A photorealistic smartphone-style beach portrait at night, ideal for generating casual social media photos that look naturally shot with flash.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711140687_wgwd7t_HHPvMTUXkAIBv4D.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17737,
+    "content": "A photorealistic full-length mirror selfie of a slim young woman standing indoors in a warm, upscale apartment living room hallway. She is wearing a fitted ivory-white one-shoulder bodycon midi dress with soft ruched gathering through the waist and hips, elegant minimal styling, and a sleek date-night look. Her hair is straight, dark brown, shoulder length, parted near the center, falling naturally over both sides. She holds a smartphone up in her right hand, partially covering her face, with a black phone case decorated with red cloud motifs. Her left arm rests naturally at her side, with a silver bangle bracelet and delicate rings visible. The composition is vertical, realistic, and casually luxurious, like a genuine personal outfit selfie taken in a wall mirror. The setting includes 1 beige fabric sofa on the right, 1 patterned throw pillow in taupe and cream on the sofa, and 1 small brown leather top-handle handbag placed on the seat cushion. Behind her is a textured bronze-brown accent wall; on the left is a dim hallway with 3 framed wall artworks, dark doorways, cream walls, and polished light tile floors. Use warm indoor ambient lighting, soft shadows, subtle phone-camera realism, natural skin texture, realistic reflections, clean apartment styling, centered subject with the upper body and dress as the focus, and an understated luxury aesthetic.",
+    "title": "Luxury Apartment Mirror Selfie",
+    "description": "A photorealistic mirror-selfie scene showing a woman in an elegant white one-shoulder dress, ideal for fashion, dating-profile, or lifestyle AI photo generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711140722_lvbebq_HHPvSKfXUAAmhif.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17736,
+    "content": "A photorealistic travel selfie shot from a low angle directly beneath the Eiffel Tower in Paris on a bright cloudless day, with the tower rising dramatically overhead and centered in perfect vertical symmetry against a vivid blue sky. In the foreground, a young woman with {argument name=\"hair color\" default=\"medium brown\"} shoulder-length straight hair stands very close to the camera, holding the phone slightly below chest level for an upward-facing selfie perspective. Her face is mostly neutral and relaxed, with a casual candid vacation-photo feel. She wears a fitted ribbed strapless tube top in {argument name=\"top color\" default=\"light pink\"}, high-waisted {argument name=\"bottom color\" default=\"white\"} jeans, and 2 thin layered silver necklaces. Her skin is warmly lit by strong midday sunlight, with crisp natural shadows from the tower structure and subtle highlights on her shoulders and collarbone. Frame the subject from mid-thigh to head, with one arm extended toward the camera in a natural selfie pose. Emphasize realistic smartphone photography, sharp architectural detail in the iron lattice beneath the Eiffel Tower, authentic tourist snapshot composition, natural body proportions, clean summer styling, and high-detail photorealism. Make it look like a real handheld vacation selfie of {argument name=\"character name\" default=\"a stylish young woman\"} in {argument name=\"location\" default=\"Paris\"}, not a studio image.",
+    "title": "Eiffel Tower Low-Angle Selfie",
+    "description": "A realistic summer travel selfie prompt for generating a casual tourist photo beneath the Eiffel Tower with strong sunlight and a stylish outfit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711139315_3atn54_HHPuwhrXwAALDZ2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17544,
+    "content": "A beautiful {argument name=\"subject\" default=\"young woman\"} in her early 20s, with the same facial features, skin tone, and overall appearance as the provided reference image, works as a {argument name=\"occupation\" default=\"convenience store cashier\"}. She is wearing a typical {argument name=\"store brand\" default=\"Seven Eleven\"} uniform (white shirt with green, red, and orange accents, name tag reading “MEEM,” hair neatly tied back consistent with her look in the reference).\n\nShe stands behind the cashier counter, serving a customer with a friendly, natural expression that matches her personality and facial structure from the reference. On the counter, there is a POS machine, a barcode scanner, and small items such as candy and drinks.\n\nCandid moment: the photo is taken discreetly using a smartphone from a customer’s point of view, with slight foreground blur, imperfect framing, and an unposed, spontaneous feel. The composition should preserve her exact likeness from the reference without distortion.\n\nLighting: bright, evenly distributed convenience store neon lighting, maintaining realistic skin tones and true-to-reference color accuracy.\n\nEnvironment: a modern convenience store interior with neatly arranged shelves of products behind the cashier, creating a clean, organized, and well-lit atmosphere.\n\nPhotography style: ultra-photorealistic candid photography, shallow depth of field, natural textures, high detail, slight motion blur for realism, subtle smartphone camera noise, 4K quality.\n\nOptional variations:\n\n* slightly tilted angle\n* reflections on glass display\n* soft motion as she hands a receipt or change\n* gentle, natural smile consistent with the reference",
+    "title": "Candid Convenience Store Portrait",
+    "description": "A hyper-realistic candid portrait prompt for a convenience store cashier based on a reference image, emphasizing realism and natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711034958_8ikqg8_HHPlYPAasAAwxQS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17622,
+    "content": "Using the provided reference image, recreate the same composition and recognizable silhouette as a very crude childlike MS Paint doodle. Keep the side-profile pose, blue headwrap, long pale yellow scarf, pearl earring, and brown garment, but simplify everything into rough black outlines, messy scribbled color fills, uneven proportions, and intentionally low-skill hand-drawn marks on a plain white background. Make it look like a quick amateur digital sketch with flat colors and no painterly shading.",
+    "title": "MS Paint Doodle Remake",
+    "description": "This prompt turns a classical portrait reference into a crude MS Paint-style sketch, useful for meme edits and intentionally low-effort redraws.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711082349_wd59av_HHPNovebYAAjIEY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17713,
+    "content": "A crude childlike digital doodle made in a simple paint program on a white background, showing a close-up selfie-style scene with 1 main person in the lower left and center. The person has messy medium brown hair, a dark blue jacket over a pale skin-toned neck and chest, and oversized ski goggles or visor glasses with a bright rainbow lens band arcing across the eyes in red, orange, yellow, green, blue, and purple. The face is largely obscured by a large square beige blur or censor block centered over the middle of the head and upper torso. One pale hand is raised near the bottom center as if giving a thumbs-up or holding something close to the camera. Around the figure are simple black-outline background doodles: 2 small cloud shapes near the top, 1 large angled airplane or rocket-like shape in the upper right, 1 gray rounded standing object to the right of the person that resembles a rock, backpack, or bundled figure, and 1 tall white rectangular object at the far right with a yellow sun drawn near the top and blue zigzag scribbles below. Use rough uneven hand-drawn lines, messy coloring outside the lines, minimal shading, a naive children's drawing aesthetic, and low-detail playful composition.",
+    "title": "Childlike Rainbow Goggles Doodle",
+    "description": "This generates a messy MS Paint-style childlike drawing of a person with rainbow goggles surrounded by simple doodled objects, useful for naive art or intentionally crude illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711128281_nymu80_HHH2AHdbUAAO62M.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17711,
+    "content": "A candid close-up selfie inside a small helicopter cabin, shot from the front-facing phone camera, with one adult passenger seated on the left side of the frame. The person’s face is obscured by a large rectangular privacy blur block centered over the face, while reflective rainbow-tinted wraparound sunglasses remain visible above it. The subject has short dark hair and wears a dark jacket, holding one hand near the chest as if gripping a strap or collar. The helicopter interior is dark and enclosed, with a black ceiling, circular air vents overhead, curved cabin framing, visible wiring near the center roofline, and an empty black leather passenger seat on the right. A bright rounded window on the far right reveals sunlit blue water outside and a distant shoreline or low city skyline. Warm golden-hour light streams through the window, creating strong contrast, orange highlights on the cabin surfaces, and a moody cinematic travel-photo look. Realistic smartphone photography, slightly grainy low-light exposure, tight framing, natural perspective, casual authentic vacation helicopter ride atmosphere.",
+    "title": "Helicopter Cabin Selfie at Sunset",
+    "description": "Generates a realistic candid smartphone selfie inside a helicopter cabin with warm sunset light and ocean visible through the window, ideal for travel-style social media imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711127601_9lzkvk_HHH2AHeakAA8Z3v.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17626,
+    "content": "A centered close-up 3D stylized portrait of a young man against a smooth vivid crimson-red studio background, rendered like a polished animated character with realistic lighting and soft subsurface skin shading. He has thick glossy black hair styled in a neat side-parted pompadour with sculpted waves, visible ears, and thin gold round eyeglass frames peeking out at the sides. Show only the head and a little of the upper shoulders, cropped tightly so the hairstyle fills the top of the frame. The character wears a dark top barely visible at the bottom edge. Use a symmetrical front-facing composition, ultra-clean background, high contrast, soft rim lighting, and premium 3D illustration quality similar to a modern animated profile avatar. The face should be fully visible and detailed, with a neutral expression, but keep the overall design minimal and iconic.",
+    "title": "3D Male Avatar on Red",
+    "description": "A polished 3D close-up male avatar portrait on a bold red background, ideal for profile images, branding, or social media character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711084625_26ict4_HHO3vWKXgAEIowE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17608,
+    "content": "Using the provided reference image, recreate the same two foreground people in the same selfie composition, preserving their clothing, hairstyle silhouettes, hand gesture, and relative positions, but transform the photo into a crude hand-drawn digital doodle. Make it look like a simple MS Paint cartoon with thick black outlines, flat fills, intentionally rough proportions, minimal detail, and a plain light gray background. Remove the waterfront, sky, and all background people so only the 2 main subjects remain. Keep the face areas anonymized as large blurred rectangular blocks.",
+    "title": "MS Paint Selfie Doodle",
+    "description": "This prompt turns a reference selfie into a funny minimalist MS Paint-style cartoon while keeping the main subjects and pose recognizable.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711075047_po8rqq_HHO2AhUXkAA2Rin.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17557,
+    "content": "Photorealistic candid image of a {argument name=\"subject\" default=\"young Japanese female cashier\"} (early 20s) working in a {argument name=\"location\" default=\"convenience store\"}, wearing a typical uniform (white shirt with green, red, and orange accents, name tag “{argument name=\"name\" default=\"Aiko\"}”, hair neatly tied back). She stands behind the counter, serving a customer with a natural, friendly expression. Shot from a customer’s smartphone POV—slight foreground blur, imperfect framing, unposed feel. On the counter: POS terminal, barcode scanner, small items like snacks and drinks. Bright, even convenience store lighting; clean interior with neatly stocked shelves in the background. Shallow depth of field, realistic skin tones, high detail, subtle motion blur, 4K quality. Optional: slight tilt, camera noise, glass reflections, handing receipt or change.",
+    "title": "Photorealistic Convenience Store Cashier",
+    "description": "A detailed prompt for generating a realistic, candid smartphone-style photo of a Japanese convenience store worker serving a customer.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711039876_rn6qem_HHOrE1kbIAAU6OM.jpg",
+      "https://cms-assets.youmind.com/media/1777711041434_focx8h_HHOrEsIbkAA63E2.jpg",
+      "https://cms-assets.youmind.com/media/1777711039778_qxe597_HHOrE55bMAIFv-4.jpg",
+      "https://cms-assets.youmind.com/media/1777711040670_e0sayy_HHOrE_maEAASZQT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17599,
+    "content": "Create a portrait-sized mobile phone wallpaper about the {argument name=\"series\" default=\"Naruto\"} manga series, but focusing on the character {argument name=\"character name\" default=\"character name\"}, in the wallpaper this character poses with high charisma with various action poses in fighting in the wallpaper, create a color pattern that describes the figure of this character, create a wallpaper with cool visuals, and premium quality, avoid visuals that look stiff, monotonous, and standard 8K resolution",
+    "title": "Anime Character Mobile Wallpaper",
+    "description": "Creates a high-quality, charismatic mobile wallpaper for specific manga characters with dynamic action poses and 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711069801_zwcg8k_HHOqFViXQAAvzWy.jpg",
+      "https://cms-assets.youmind.com/media/1777711069598_6ye04c_HHOqFViWwAAg0Gm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17620,
+    "content": "A crude childlike digital doodle portrait on a plain light gray background, centered and cropped from the chest up. Show a goofy adult man with a scruffy light blond beard and messy dark hair mostly covered by a ribbed gray knit beanie. Add a small orange circular badge pinned on the right side of the beanie with the white number \"10\" inside. He wears oversized black sunglasses with thick frames, hiding the eyes completely. His face has an exaggerated huge toothy grin with oversized square white teeth filling most of the lower face, drawn in a clumsy uneven way with a few tiny red marks at the gum line. The nose is simple and cartoonish, and one ear sticks out prominently on the left side. Dress him in a bulky black jacket over an off-white or cream sweater. Use intentionally messy, amateur, nephew-level drawing quality: jagged black outlines, rough scribbles, uneven proportions, naive anatomy, minimal shading, haphazard fill colors, and a hand-drawn MS Paint or cheap tablet sketch feel. Keep the composition simple, humorous, and slightly ugly in a charming way, like a badly drawn viral meme avatar.",
+    "title": "Bad MS Paint Meme Portrait",
+    "description": "A deliberately crude cartoon portrait of a bearded man in sunglasses and a beanie, useful for generating funny amateur-looking viral meme art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711081039_jcxaoc_HHOd5VYXYAA90E2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17571,
+    "content": "ChatGPT, if you were a {argument name=\"gender\" default=\"woman\"}, please show me what you look like with an image, using a random iPhone selfie perspective.",
+    "title": "AI Personification Selfie",
+    "description": "A prompt for generating a personification of ChatGPT as a woman using a casual iPhone selfie perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711054281_1khx58_HHOQpHLbsAAgQ48.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17735,
+    "content": "A deliberately clumsy, childlike digital doodle of a happy cat named {argument name=\"character name\" default=\"Shiro\"}, drawn in a chaotic scribbly meme style on a plain white background. The cat is centered and shown in a playful mid-leap stretch, facing right, with a simple rounded white body, short legs, oversized paws, a curved upright tail, triangular ears with pale pink inner ear coloring, closed smiling eyes, a tiny pink nose, black whiskers, and a simple cartoon mouth. Give the cat a bright red collar with a round yellow name tag that reads {argument name=\"tag text\" default=\"SHIRO\"} in hand-drawn black letters. Use intentionally imperfect black outlines, uneven proportions, and a naive hand-drawn look as if made quickly in a paint app. Behind the cat, add a large circular tornado of messy scribbles made of many overlapping strokes in {argument name=\"main swirl color\" default=\"bright green\"} and {argument name=\"secondary swirl color\" default=\"lime green\"}, with scattered white oval gaps and exactly 6 short curved red accent strokes embedded around the swirl. The overall feeling is cute, goofy, chaotic, and playful, like a viral clumsy redraw trend, with flat color fills, no shading, and rough freehand brush lines.",
+    "title": "Clumsy Scribble Cat Doodle",
+    "description": "A goofy hand-drawn cat illustration with a chaotic green scribble vortex, ideal for meme-style character redraws and playful social posts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711139210_yg5ced_HHOQiyrWYAAZ3ru.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17641,
+    "content": "Using REFERENCE_0, recreate the same selfie composition as a simplified hand-drawn doodle portrait. Keep the person’s pose, clothing, cap, sunglasses, and the raised beer glass in the same positions, but transform everything into a rough sketch style with bold black outlines, loose scribbled fill, and flat minimal color on a plain white background. Remove the outdoor scenery entirely. Keep the beer logo simplified and change the visible text on the glass to the single vertical word {argument name=\"glass text\" default=\"BEER\"}. Make the beer a bright saturated yellow, render the shirt in white and the overshirt and cap in vivid blue, and keep the face area blank/obscured as in the reference-driven result.",
+    "title": "Doodle Beer Selfie Portrait",
+    "description": "This prompt turns a reference selfie into a simple scribbled cartoon portrait with a clean white background, ideal for viral social avatar edits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711093226_ws15nx_HHOF-gYWQAE0eaJ.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 17328,
-    "content": "Based on the uploaded personal photo, generate a realistic premium studio sporty creator portrait of the same person. Preserve the person’s real identity above all else. Strictly keep the face recognizable, including face shape, facial proportions, eyes, nose, lips, skin tone, and overall likeness. The result must clearly look like the same person, not a different person and not a synthetic AI face. Do not preserve the original facial expression if it looks like an ID photo, a stiff neutral face, an awkward smile, or weak eye contact. Replace it with a refined sporty portrait expression: calm, confident, softly serious, self-possessed, and quietly strong. The eyes should have direct eye contact with the camera, with a steady focused gaze and subtle intensity. The mouth should remain relaxed and closed, without a smile. The overall facial expression should project confidence through restraint, discipline, and composure. Create a clean, healthy, feminine, athletic, premium sporty creator portrait. Hair and grooming: Keep the hairstyle believable for the person. Preserve recognizable hair length, hairline, fringe or bangs if present, overall hair color, and facial framing. If the person has short hair, keep it short in a polished sporty way. If the person has longer hair, light styling or a neat sporty arrangement is allowed. A few soft natural strands around the face are welcome if suitable. Use a natural no-makeup makeup look, fresh healthy skin, subtly defined eyes, natural brows, and soft neutral lips. Outfit: A {argument name=\"outfit color\" default=\"burgundy\"} {argument name=\"top style\" default=\"sporty crop top\"}, paired with high-waisted black fitted pants or sleek black athletic-casual trousers. Keep the styling clean, minimal, sporty-feminine, tasteful, and not exaggerated. Show realistic fabric texture and natural folds. No distracting accessories. Pose: Standing naturally and confidently, with the upper body slightly angled rather than perfectly flat to the camera. One hand lightly touching or resting near the waistband, the other relaxed naturally or near a pocket. Relaxed shoulders, elegant posture, natural sporty portrait body language. Lighting and photography: Use realistic professional studio portrait photography. Soft frontal key light slightly above eye level, subtle shaping on the face and upper body, gentle contour through light rather than harsh shadows, visible catchlights in the eyes, realistic skin texture, refined tonal contrast, gentle subject separation from the background, and a premium polished studio finish. The lighting should feel dimensional and elevated, not flat like an ID photo and not overly dramatic like a fashion campaign. Background: {argument name=\"background style\" default=\"Dark charcoal gray seamless studio background\"} with a subtle soft gradient and slight vignette. Clean, minimal, premium studio atmosphere. Composition: Vertical portrait, half-body to three-quarter-body compositio",
+    "content": "Based on the uploaded personal photo, generate a realistic premium studio {argument name=\"portrait style\" default=\"sporty creator\"} portrait of the same person. Preserve the person’s real identity above all else. Strictly keep the face recognizable, including face shape, facial proportions, eyes, nose, lips, skin tone, and overall likeness. The result must clearly look like the same person, not a different person and not a synthetic AI face. Do not preserve the original facial expression if it looks like an ID photo, a stiff neutral face, an awkward smile, or weak eye contact. Replace it with a refined sporty portrait expression: calm, confident, softly serious, self-possessed, and quietly strong. The eyes should have direct eye contact with the camera, with a steady focused gaze and subtle intensity. The mouth should remain relaxed and closed, without a smile. The overall facial expression should project confidence through restraint, discipline, and composure. Create a clean, healthy, feminine, athletic, premium sporty creator portrait. Hair and grooming: Keep the hairstyle believable for the person. Preserve recognizable hair length, hairline, fringe or bangs if present, overall hair color, and facial framing. If the person has short hair, keep it short in a polished sporty way. If the person has longer hair, light styling or a neat sporty arrangement is allowed. A few soft natural strands around the face are welcome if suitable. Use a natural no-makeup makeup look, fresh healthy skin, subtly defined eyes, natural brows, and soft neutral lips. Outfit: A fitted {argument name=\"outfit color\" default=\"burgundy\"} sporty top or fitted short-sleeve crop top, paired with high-waisted black fitted pants or sleek black athletic-casual trousers. Keep the styling clean, minimal, sporty-feminine, tasteful, and not exaggerated. Show realistic fabric texture and natural folds. No distracting accessories. Pose: Standing naturally and confidently, with the upper body slightly angled rather than perfectly flat to the camera. One hand lightly touching or resting near the waistband, the other relaxed naturally or near a pocket. Relaxed shoulders, elegant posture, natural sporty portrait body language. Lighting and photography: Use realistic professional studio portrait photography. Soft frontal key light slightly above eye level, subtle shaping on the face and upper body, gentle contour through light rather than harsh shadows, visible catchlights in the eyes, realistic skin texture, refined tonal contrast, gentle subject separation from the background, and a premium polished studio finish. The lighting should feel dimensional and elevated, not flat like an ID photo and not overly dramatic like a fashion campaign. Background: {argument name=\"background style\" default=\"dark charcoal gray\"} seamless studio background with a subtle soft gradient and slight vignette. Clean, minimal, premium studio atmosphere. Composition: Vertical portrait, half-body to three-quarter-body compositio",
     "title": "Premium Sporty Creator Portrait",
-    "description": "A professional-grade prompt to transform a personal photo into a high-quality studio athletic portrait while strictly maintaining identity.",
+    "description": "A comprehensive prompt designed to transform a personal photo into a high-end, realistic athletic studio portrait while strictly maintaining the subject's identity and facial features.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777625680632_mad1p0_HHN9LFdWkAAW9Di.jpg"
+      "https://cms-assets.youmind.com/media/1777711043295_0bv6xe_HHN9LFdWkAAW9Di.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 17384,
-    "content": "A deliberately rough hand-drawn digital sketch of a {argument name=\"animal\" default=\"tabby cat\"}, centered on a plain white background, drawn as if with a computer mouse in a basic paint program. Front-facing seated pose, symmetrical composition, head large and body simplified, with closed smiling eyes, a tiny pink triangular nose, a small black mouth, long gray whiskers, pink inner ears, and orange tabby stripes on the forehead, cheeks, chest, legs, and sides. Use thin uneven outlines in golden orange with jittery wobbly strokes, messy scribbled fur texture, imperfect proportions, and low-effort amateur doodle energy. The image should look cute but clumsy, like casual mouse handwriting art, with 1 cat, 2 ears, 2 closed eyes, 1 nose, 1 mouth, and 6 whiskers visible. Minimalist composition, no props, no shadow, no scenery, clean white canvas, simple flat colors, playful awkward charm.",
-    "title": "Rough Mouse-Drawn Tabby Cat",
-    "description": "This prompt generates a cute but intentionally clumsy MS Paint-style cat doodle, useful for viral meme images, casual social posts, or playful low-effort illustration aesthetics.",
+    "content": "Using the provided reference image, redraw the same cat as a deliberately clumsy computer-mouse doodle in a simple MS Paint style. Keep the original centered composition and plain light background, but transform the realistic photo into rough hand-drawn line art with visible wobbly strokes, minimal detail, and an amateur low-effort look. Use thin orange outlines for the head, ears, fur stripes, chest fluff, and body edges; pink scribbled inner ears and nose; black curved closed-eye lines and mouth; and light gray whiskers. Preserve the sleepy closed-eye expression and front-facing pose, but make the drawing look awkward, naive, and slightly messy, like a quick bad sketch traced from the photo.",
+    "title": "Bad MS Paint Cat Redraw",
+    "description": "This prompt turns a reference cat photo into a rough, intentionally low-skill mouse-drawn MS Paint doodle for meme-style edits and playful image transformations.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777625712265_ppvogn_HHNUWweboAAer0n.jpg"
+      "https://cms-assets.youmind.com/media/1777711087043_2iusyk_HHNUWweboAAer0n.jpg"
     ],
     "needReferenceImages": true
   },
@@ -38,6 +253,68 @@
       "https://cms-assets.youmind.com/media/1777625699063_2080hu_HHNTY-naQAA6DCw.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 17677,
+    "content": "Using REFERENCE_0 as the character base, redraw the same original character as a polished modern anime illustration instead of a rough sketch. Keep the core design intact: white hair, black curved horns, red accent strand near the ear, white shirt, red tie with a small gold mark near the tip, black harness straps, brown belt, black pants, gold waist chain, cape-like dark outer panels, choker, dangling cross earring, and the same confident pose with one hand behind the head. Upgrade everything to high-detail, glossy rendering with clean linework, dramatic lighting, rich fabric folds, shiny black leather textures, and a more mature, stylish proportions. Place the character in a dark nighttime stone-column setting with cool rim light and a slightly low-angle, close-up half-body composition. Make it feel like a high-end character repaint of an old original drawing.",
+    "title": "Anime Redraw of Original Horned Character",
+    "description": "This prompt repaints a rough original character sketch into a refined, high-detail anime illustration while preserving the core outfit and pose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711111843_uv1cid_HHNEYuqaAAE5bj_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17551,
+    "content": "A modern digital portrait depicting a {argument name=\"subject\" default=\"young man\"}. Using the submitted reference image strictly for facial identity, it preserves the exact facial features, precise facial structure, and natural realism of the person. The subject has a cheerful, confident smile and wears {argument name=\"accessory\" default=\"stylish glasses\"}, shown in multiple poses.\nThe central portrait is large, sharp, and highly detailed, illuminated with warm, soft lighting that enhances the facial contours and skin tone. In the background, a semi-transparent profile of the same person blends smoothly into an abstract composition of expressive {argument name=\"background style\" default=\"red brushstrokes\"}.\nIn the foreground, two smaller versions of the man are included: one standing in casual clothing with a confident posture, and another seated with legs crossed in a thoughtful, pensive pose. The outfits are youthful and casual, featuring light-colored shirts and jeans.\nThe background combines clean white space with textured elements and bold red brushstrokes, creating a striking and artistic contrast. The overall composition follows a modern poster-style aesthetic, with subtle glow effects, smooth transitions, and a polished, high-end digital art finish.",
+    "title": "Artistic Identity Portrait",
+    "description": "A modern digital portrait prompt that combines a primary realistic subject with abstract brushstroke elements and secondary poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711038199_a1dys6_HHNERE-aYAAqDEK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17546,
+    "content": "A soft, natural portrait of a {argument name=\"subject\" default=\"young woman\"} sitting in a {argument name=\"environment\" default=\"lush green field filled with small white daisies\"}. She is looking up toward the camera with {argument name=\"eye details\" default=\"large, bright blue eyes\"} and a gentle, calm expression. Her long brown hair falls naturally around her shoulders. She rests her chin on her hands, elbows tucked in, creating a relaxed, intimate pose. She wears a loose, off-shoulder beige sweater that slightly slips down, revealing a light blue strap underneath. The lighting is natural daylight, soft and even, with no harsh shadows. The perspective is slightly top-down, giving a dreamy, whimsical feel. The background is densely covered with daisies and green grass, creating a vibrant, fresh spring atmosphere. High detail, shallow depth of field, soft focus, photorealistic, cinematic color grading.",
+    "title": "Girl in Daisy Meadow Portrait",
+    "description": "A soft, whimsically-styled portrait prompt of a woman sitting in a field of daisies with natural daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711035328_75fd0h_HHM77VVaEAAyDdu.jpg",
+      "https://cms-assets.youmind.com/media/1777711035420_lr78ld_HHM77UnbwAAsw1o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17637,
+    "content": "A minimalist black-and-white manga-style bust portrait of an androgynous young person in side profile facing left, drawn as a high-contrast silhouette with thick black shapes and clean white negative-space highlights on a plain white background. The character has short, messy, layered hair with jagged strands, a slightly tousled crown, and a few sharp white highlight streaks cutting through the dark hair. Show one visible ear with a small dark dangling earring. The face is intentionally hidden by a large vertically oriented blurred gray rectangle centered over the head and upper neck area, censoring all facial features. Keep the neck long and slender, with the head slightly tilted, and dress the figure in a loose dark top or sweater with broad shoulders and simplified folds. Use rough pixelated edges as if the image were enlarged from low-resolution manga art, with stark graphic contrast, no shading except the smooth blur in the censor block, and a quiet, moody, anonymous aesthetic.",
+    "title": "Censored Monochrome Manga Profile",
+    "description": "This generates a stark black-and-white anime portrait with a blurred censor block over the face, ideal for moody avatar art or minimalist editorial-style character imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711090775_towxqw_HHM1tEzbIAAOBeq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17634,
+    "content": "A minimalist high-contrast black-and-white vector portrait of a young man from the shoulders up, shown in a three-quarter side profile facing left, with the face intentionally omitted or left blank as a clean negative space silhouette. He has thick tousled medium-length hair with layered volume, messy side-swept bangs, and sharp white highlight streaks across the black hair; one ear is clearly visible on the right side, and the jawline, neck, and collar are stylized with smooth graphic curves. He wears a dark simple crew-neck top or jacket rendered as a bold black shape with a few crisp white accent lines. The composition is centered and tightly cropped, with a plain light gray to off-white background, no text, no props, no extra objects, and no facial features. Use a sleek modern logo-like anime-meets-editorial silhouette style, clean vector edges, minimal shading, dramatic negative space, poster design aesthetics, and a square format.",
+    "title": "Minimalist Black White Male Silhouette",
+    "description": "A clean monochrome vector-style portrait of a young man with tousled hair, ideal for logo art, avatar design, or modern poster aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711089118_lqxt2l_HHM1q7UacAIV1q4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17522,
+    "content": "A hyper-realistic close-up portrait of a {argument name=\"subject\" default=\"young woman (use my face)\"} with warm, soft indoor lighting. The composition is a half-body shot (chest to head), with a slightly low and tilted camera angle, creating a casual, selfie-like feel. The main focus is on the face and hair. The face features bright, glass-like skin with realistic texture (no over-smoothing). Brown eyes with a {argument name=\"expression\" default=\"calm, slightly melancholic expression\"}, looking directly at the camera. Lips are natural pink with a berry tint in the inner area, slightly parted with a soft, moist finish. Makeup is a natural “no-makeup” look. Hair MUST be highly accurate: {argument name=\"hair style\" default=\"Short hair above the shoulders (short bob), with an uneven, choppy cut and soft layers\"}. Natural dark brown color with subtle warm undertones. The texture looks soft and slightly messy, not overly neat. The front has long bangs, parted asymmetrically, with some strands falling over parts of the eyes and cheeks. Fine strands are scattered around the face, creating an effortless and natural effect. The ends of the hair curve slightly inward and outward irregularly, giving light volume and an airy feel. The hair is not too voluminous but has natural movement, as if gently blown by a breeze.",
+    "title": "Hyper-Realistic Selfie Portrait",
+    "description": "A highly detailed portrait prompt focusing on realistic skin textures, specific hair styling, and a casual selfie composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777711025307_5bjr2k_HHM1J3PbYAA-_YP.jpg",
+      "https://cms-assets.youmind.com/media/1777711025491_2mxgrb_HHM1J3jbAAA3NHd.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 17468,
