@@ -1,32 +1,335 @@
 [
   {
-    "id": 17566,
-    "content": "Redraw the attached image in the most clumsy, scribbly, and utterly pathetic way possible. Use a {argument name=\"background color\" default=\"white\"} background, and make it look like it was drawn in {argument name=\"software\" default=\"MS Paint\"} with a {argument name=\"input device\" default=\"mouse\"}. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.",
-    "title": "Clumsy MS Paint Redraw",
-    "description": "A creative and humorous prompt that forces the AI to redraw an image in a low-quality, MS Paint style with a mouse-drawn feel.",
+    "id": 17963,
+    "content": "{\"type\":\"LINE sticker sheet illustration\",\"format\":\"single square canvas showing 9 separate sticker designs in a clean 3 by 3 grid\",\"style\":\"cute hand-drawn anime/manga style, simple black outlines, soft flat colors, white background, friendly casual everyday feel, consistent character across all stickers, each sticker has bold handwritten Japanese text above it\",\"character\":{\"description\":\"young girl character, shoulder-length light brown bob haircut with bangs, round face, small dot eyes, rosy cheeks, white short-sleeve T-shirt, blue jeans or blue skirt visible at the waist\",\"hair color\":\"{argument name=\\\"hair color\\\" default=\\\"light brown\\\"}\",\"shirt\":\"{argument name=\\\"shirt color\\\" default=\\\"white\\\"}\",\"expression style\":\"simple cute chibi-like facial features with warm blush\"},\"layout\":{\"background\":\"plain white with generous spacing between stickers\",\"grid\":{\"rows\":3,\"columns\":3,\"total stickers\":9},\"stickers\":[{\"position\":\"top left\",\"label\":\"ただいま\",\"meaning\":\"I'm home\",\"pose\":\"front-facing half-body smile, relaxed arms down, small orange emphasis marks beside the character\"},{\"position\":\"top center\",\"label\":\"おかえり\",\"meaning\":\"Welcome back\",\"pose\":\"front-facing character waving one hand, cheerful greeting, orange emphasis marks near the raised hand\"},{\"position\":\"top right\",\"label\":\"お先に失礼します\",\"meaning\":\"Excuse me for leaving first\",\"pose\":\"polite bow with eyes closed, hands together in front, small blue motion marks beside the head\"},{\"position\":\"middle left\",\"label\":\"またね\",\"meaning\":\"See you\",\"pose\":\"big closed-eye smile, one hand raised waving, orange emphasis marks near the hand\"},{\"position\":\"middle center\",\"label\":\"おやすみ\",\"meaning\":\"Good night\",\"pose\":\"sleepy peaceful face with eyes closed, hands clasped against cheek, yellow crescent moon and two yellow stars to the right\"},{\"position\":\"middle right\",\"label\":\"ねむい…\",\"meaning\":\"Sleepy...\",\"pose\":\"yawning with one hand covering mouth, eyes half closed, two blue sleep bubbles near the head\"},{\"position\":\"bottom left\",\"label\":\"ごめんね\",\"meaning\":\"Sorry\",\"pose\":\"worried apologetic expression, hands clasped in front of chest, blue sweat marks beside the head\"},{\"position\":\"bottom center\",\"label\":\"ＯＫです\",\"meaning\":\"OK\",\"pose\":\"smiling wink, one hand making an OK sign, small green emphasis marks beside the raised hand\"},{\"position\":\"bottom right\",\"label\":\"助かります！\",\"meaning\":\"That helps!\",\"pose\":\"grateful expression, hands clasped at chest, red emphasis marks on both sides of the head\"}]},\"text\":{\"font\":\"bold rounded handwritten Japanese lettering, black, placed above each character\",\"labels\":\"use exactly these 9 Japanese phrases: ただいま, おかえり, お先に失礼します, またね, おやすみ, ねむい…, ごめんね, ＯＫです, 助かります！\",\"custom phrase set\":\"{argument name=\\\"sticker phrases\\\" default=\\\"ただいま / おかえり / お先に失礼します / またね / おやすみ / ねむい… / ごめんね / ＯＫです / 助かります！\\\"}\"},\"composition notes\":\"keep every sticker separate and evenly spaced, consistent character proportions and outfit across all 9 poses, no shadows or complex background, suitable as a cute Japanese LINE sticker pack preview\",\"rendering\":\"high-resolution clean digital illustration, crisp readable text, soft warm colors, minimal props\"}",
+    "title": "Cute Japanese LINE Sticker Sheet",
+    "description": "Generates a 3-by-3 sheet of cute anime-style Japanese LINE stickers featuring one character with everyday greeting phrases and poses.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777711050705_6srvjh_HHQTgOWW8AAIMz2.jpg"
+      "https://cms-assets.youmind.com/media/1777797639483_pdrjkq_HHWea0hbMAAvIhC.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 17636,
-    "content": "A serene golden-hour ancient Chinese riverside portrait of {argument name=\"character name\" default=\"a graceful young woman\"} standing beneath a massive old willow tree with long hanging branches, wearing an elegant flowing Hanfu in layered coral red, peach, and blush pink silk with delicate floral embroidery, translucent outer sleeves, and long ribbon sashes drifting in the breeze. She holds 1 traditional oil-paper parasol behind her shoulder, pale rose-pink with visible bamboo spokes, creating a halo-like shape around her head. Her hair is styled in an ornate updo with floral hairpins and small blossoms. Compose the scene in a vertical full-body frame, the woman slightly right of center, the thick textured willow trunk dominating the left side, warm sunset light low on the horizon over a calm lake, shimmering reflections on the water, distant mountains, and 1 small pavilion settlement on the far shore. Add wildflowers and soft grasses in the foreground, gentle wind movement in the fabric and willow leaves, dreamy atmospheric haze, volumetric sun rays, romantic painterly realism, ultra-detailed textures, soft cinematic glow, warm amber and pastel palette, ethereal historical fantasy mood.",
-    "title": "Hanfu Sunset by Willow Lake",
-    "description": "This generates a romantic vertical portrait of a woman in flowing Hanfu under a willow tree at sunset, ideal for historical fantasy and elegant East Asian-inspired character art.",
+    "id": 17962,
+    "content": "{\"type\":\"LINE sticker sheet illustration\",\"style\":\"cute clean Japanese sticker art, simple hand-drawn anime style, thick black outlines, soft watercolor-like coloring, white background, square canvas\",\"layout\":{\"grid\":\"3 columns by 3 rows\",\"count\":9,\"spacing\":\"even spacing with each sticker separated clearly\",\"text\":\"large handwritten black Japanese greeting text above each character, rounded brush lettering\",\"stickers\":[{\"position\":\"top left\",\"label\":\"おはよう\",\"description\":\"smiling young girl waving with her right hand, orange emphasis marks beside the wave\"},{\"position\":\"top center\",\"label\":\"こんにちは\",\"description\":\"young girl waving with one hand; face is covered by a soft square blur censor block\"},{\"position\":\"top right\",\"label\":\"おつかれさま\",\"description\":\"young girl smiling gently with eyes closed, hands clasped in front of her chest, yellow emphasis marks at the side\"},{\"position\":\"middle left\",\"label\":\"おねがいします\",\"description\":\"young girl bowing politely with eyes closed, hands held in front, blue motion marks beside her head\"},{\"position\":\"middle center\",\"label\":\"はーい\",\"description\":\"cheerful young girl raising one arm high, mouth open in a happy smile, yellow emphasis marks\"},{\"position\":\"middle right\",\"label\":\"了解です\",\"description\":\"young girl giving a salute with one hand, winking, small green emphasis marks\"},{\"position\":\"bottom left\",\"label\":\"ありがとう\",\"description\":\"young girl smiling brightly with eyes closed, hands clasped gratefully, pink emphasis marks\"},{\"position\":\"bottom center\",\"label\":\"どういたしまして\",\"description\":\"young girl placing one hand on her chest; face is covered by a soft square blur censor block\"},{\"position\":\"bottom right\",\"label\":\"すみません\",\"description\":\"young girl looking worried and apologetic with hands pressed together, small blue sweat drops beside her head\"}]},\"character\":{\"gender\":\"young girl\",\"age\":\"childlike to early teen\",\"hair\":\"{argument name=\\\"hair color\\\" default=\\\"light brown\\\"} short bob haircut with straight bangs and small side locks\",\"face\":\"round cute face, rosy cheeks, simple dot eyes or closed smiling eyes depending on pose\",\"outfit\":\"{argument name=\\\"outfit\\\" default=\\\"plain white short-sleeve T-shirt and blue jeans\\\"}\"},\"customization\":{\"sticker theme\":\"{argument name=\\\"sticker theme\\\" default=\\\"Japanese everyday greetings for LINE stickers\\\"}\",\"character name\":\"{argument name=\\\"character name\\\" default=\\\"friendly bob-haired girl\\\"}\",\"background color\":\"{argument name=\\\"background color\\\" default=\\\"white\\\"}\"},\"rendering\":\"high-resolution flat illustration, clean sticker-ready composition, no shadows, no borders, consistent character design across all 9 poses, expressive gestures, minimal colored accent marks\"}",
+    "title": "Nine Japanese LINE Greeting Stickers",
+    "description": "Generates a cute 3x3 LINE sticker sheet featuring one anime-style girl with Japanese everyday greeting captions and expressive poses.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777711090340_zu0e6i_HHR-m-ybAAESQ-7.jpg",
-      "https://cms-assets.youmind.com/media/1777711089014_p7y3pc_HHR-pd6bMAEczxe.jpg"
+      "https://cms-assets.youmind.com/media/1777797639145_0lo50n_HHWea0eacAA4fZg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17961,
+    "content": "{\"type\":\"LINE sticker sheet / emoji sticker set\",\"style\":\"cute hand-drawn anime chibi, clean black outlines, soft flat colors, simple white background, rounded friendly proportions, transparent-sticker feel, handwritten Japanese captions in thick black brush lettering\",\"character\":{\"description\":\"same young girl in every sticker, short light-brown bob haircut with side-swept bangs, pale skin, black dot eyes, small expressive mouth, rosy cheeks\",\"outfit\":\"plain white short-sleeve T-shirt, blue jeans or blue skirt depending on pose, simple white sneakers when full body is visible\",\"hair color\":\"{argument name=\\\"hair color\\\" default=\\\"light brown\\\"}\"},\"layout\":{\"format\":\"3 by 3 grid of nine separate sticker illustrations, evenly spaced on a white canvas, each sticker has its caption above the character\",\"count\":9,\"stickers\":[{\"position\":\"top left\",\"caption\":\"{argument name=\\\"sticker text 1\\\" default=\\\"大丈夫？\\\"}\",\"pose\":\"worried girl clasping both hands at her chest, eyebrows raised, small sweat drop beside her face\"},{\"position\":\"top center\",\"caption\":\"{argument name=\\\"sticker text 2\\\" default=\\\"いいね！\\\"}\",\"pose\":\"girl giving a thumbs-up with her right hand, orange emphasis marks beside the thumb, cheerful approval pose\"},{\"position\":\"top right\",\"caption\":\"{argument name=\\\"sticker text 3\\\" default=\\\"わかる…\\\"}\",\"pose\":\"girl smiling gently with eyes closed, one hand on cheek and the other arm folded, blue sympathetic motion marks near her head\"},{\"position\":\"middle left\",\"caption\":\"たしかに\",\"pose\":\"girl standing calmly with eyes closed and arms crossed, small green nodding marks beside her\"},{\"position\":\"middle center\",\"caption\":\"なるほど\",\"pose\":\"girl with surprised open mouth raising one index finger, orange exclamation mark near the finger\"},{\"position\":\"middle right\",\"caption\":\"ほんと？\",\"pose\":\"girl looking curious with hands clasped under her chin, red question mark beside her head\"},{\"position\":\"bottom left\",\"caption\":\"今向かってます\",\"pose\":\"full-body running girl moving to the right, arms pumping, blue motion lines behind her, white sneakers visible\"},{\"position\":\"bottom center\",\"caption\":\"確認します\",\"pose\":\"girl thinking with one hand on chin and the other arm folded, slightly concerned expression, blue emphasis marks\"},{\"position\":\"bottom right\",\"caption\":\"よろしくです\",\"pose\":\"girl bowing politely with eyes closed, hands together in front, orange polite emphasis marks on both sides\"}]},\"composition\":\"each character is centered below its caption, no borders or panels, ample whitespace, consistent scale except bottom-left running pose is full body, crisp sticker-ready artwork\",\"rendering\":\"high-resolution square image, cute Japanese messaging-sticker aesthetic, minimal shading, no complex background\"}",
+    "title": "Cute Japanese LINE Sticker Sheet",
+    "description": "Generates a 3x3 set of cute anime-style Japanese messaging stickers featuring one recurring girl character for LINE or chat sticker concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797638400_vzk7fn_HHWea0ebYAAi8PB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17803,
+    "content": "crayon style illustration of a {argument name=\"subject\" default=\"social media profile scene\"}, drawn like a {argument name=\"age style\" default=\"10-year-old child\"}, simple shapes, imperfect lines, hand-drawn, naive art style, bright playful crayon colors, white paper background, soft cute innocent aesthetic, whimsical doodles, stars, clouds, candy, castles, towers, hearts, colorful decorations, childlike imagination, messy coloring, textured crayon strokes, sketchy outlines, pastel + vibrant mix, dreamy playful composition.",
+    "title": "Crayon Style Child Illustration",
+    "description": "A whimsical prompt that creates a hand-drawn social media profile scene in a naive crayon style, mimicking the imagination and imperfect lines of a 10-year-old child.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797553211_23vj3w_HHU0M-UbQAAHdUX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17981,
+    "content": "Create a deliberately crude MS Paint / low-resolution pixel doodle on a plain white background, centered composition. Draw a cartoon bust of a mysterious king-like ninja character with messy spiky {argument name=\"hair color\" default=\"black\"} hair, pale beige skin, narrow rectangular sleepy eyes with black outlines, and a face mostly covered by a thick black mask or beard shape. He wears a rough dark {argument name=\"cloak color\" default=\"green\"} cloak with jagged edges and white scratchy highlights. A large diagonal sword or katana handle crosses from the lower left of the body up to the right shoulder, with a dark green grip, black blade or strap, and small gray guard. Floating above his head is an oversized jagged {argument name=\"crown color\" default=\"yellow\"} crown with black outline and white base, tilted slightly left, drawn with scribbly yellow fill. To the upper right, add exactly 1 rounded speech bubble with a black outline and small tail pointing toward the character; inside it write the hand-drawn text {argument name=\"speech bubble text\" default=\"when 2026?\"}. Use thick uneven black pixelated outlines, rough hand-sketched strokes, minimal colors, intentionally messy proportions, childlike digital drawing style, no shading beyond scribbles, no background details.",
+    "title": "Crude Pixel King Ninja Doodle",
+    "description": "Generates a rough MS Paint-style cartoon avatar of a crowned masked character with a sword and speech bubble.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797648236_0v0kbe_HHUv5vwW8AAqOWW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17978,
+    "content": "Create a simple low-resolution pixel art illustration on a plain white background, centered on a chibi-style ninja or masked warrior with messy black spiky hair, round black eyes, pale skin, and a black face covering. The character wears a dark green robe or cloak and carries a katana diagonally across the back, with a green handle and white guard visible over the right shoulder. Above the character floats a chunky yellow pixel crown with black outline and tiny white shine marks, tilted slightly. To the upper right, add a hand-drawn comic speech bubble outlined in black containing the text {argument name=\"speech bubble text\" default=\"When 2026?\"} in uneven handwritten black lettering. Use a deliberately rough, viral meme-like aesthetic with thick black pixel outlines, jagged edges, scattered tiny black specks, minimal shading, and a cropped square composition where the lower body is cut off at the bottom. The character should feel cute but mysterious, like a crowned pixel ninja asking a question.",
+    "title": "Crowned Pixel Ninja Meme",
+    "description": "Generates a rough chibi pixel-art ninja with a floating crown and customizable speech bubble for meme-style social posts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797646741_v6kwlr_HHUv5sBXgAEmk5D.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17888,
+    "content": "Create a single full-body chibi codex avatar mascot on a clean white background with faint icy blue paint splatters and a soft frozen-ground shadow. The character is a small futuristic robot in an oversized dark navy-black hooded parka and chunky boots, rendered as a high-detail 3D digital illustration with painterly texture, glossy sci-fi materials, cyan rim lighting, and a cold arctic color palette. The hood is round and helmet-like, framing a black rounded-rectangle visor face with two sleepy half-lidded glowing cyan eyes and no mouth, giving a calm unimpressed expression. Add exactly 7 translucent jagged ice crystals protruding from the top and sides of the hood, with the tallest crystal at the center top, glowing electric blue edges, frosty refractions, and snow-like speckles. Put exactly 2 glowing atom emblems on the suit: one large cyan atom symbol on the left side of the hood and one smaller atom symbol on the chest/left shoulder area. The torso armor is puffy and segmented with cyan circuit-like accents, small luminous panels, scuffs, scratches, and the glowing chest text {argument name=\"chest text\" default=\"DL\"}. In the character’s left hand, show exactly 5 stacked translucent glowing cyan crystalline data sheets or code pages fanned together; in the right hand, show exactly 1 open miniature laptop angled toward the viewer, with a cyan-on-black screen filled with tiny unreadable code lines. Use a centered composition, cute proportions with a large head and short limbs, dramatic icy blue highlights, detailed snow/ice texture on the ground, and a premium mascot-avatar look suitable for a developer profile picture. Customize the avatar as {argument name=\"avatar theme\" default=\"ice codex robot\"}, with {argument name=\"primary color\" default=\"deep navy blue\"} armor and {argument name=\"glow color\" default=\"cyan blue\"} lighting.",
+    "title": "Ice Codex Robot Avatar",
+    "description": "Generates a cute futuristic icy robot developer avatar for profile pictures, mascot art, or coding-themed branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797601864_8vn4xo_HHUri2-XcAAMXHU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17870,
+    "content": "Create an illustration of the ‘me’ you imagine, in a {argument name=\"art style\" default=\"Japanese-style illustration style\"}, with {argument name=\"traits\" default=\"distinctive character traits\"}, natural emotional expressions, a {argument name=\"composition\" default=\"half-length composition\"}, a dynamic pose, exquisite clothing details, a hand-drawn doodle style, splashed ink brushstrokes, free-flowing lines, a blend of pastel and ink colours, a manga sketch texture, a simple white background, and embellished with stylised elements around the edges, strong atmosphere, high detail, high quality.",
+    "title": "Manga Sketch Doodle Portrait",
+    "description": "A creative prompt for generating Japanese-style manga sketches with a hand-drawn doodle aesthetic, featuring ink brushstrokes and pastel colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797590801_g8si6b_HHUjL0_aoAAEwhf.jpg",
+      "https://cms-assets.youmind.com/media/1777797590792_kmmbqz_HHUjMKYbsAE0RKz.jpg",
+      "https://cms-assets.youmind.com/media/1777797590755_a1imsn_HHUjMftawAAoIm3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17797,
+    "content": "Subject: A sharp, high-contrast side-profile portrait of a handsome {argument name=\"subject\" default=\"man\"} with a defined jawline, short stubble, and {argument name=\"hair style\" default=\"voluminous, textured dark hair\"} styled upwards.\n\nStyle & Composition: A fusion of realistic photography and abstract digital glitch art. The subject is rendered in stark black and white, set against a clean, minimalist white background.\n\nColor Palette: Strictly monochromatic (deep blacks and bright whites) with aggressive, vibrant splashes of {argument name=\"accent color\" default=\"crimson red\"}.\n\nGraphic Elements: > * Glitch Effect: The back of the head and the lower torso dissolve into abstract geometric shards, pixel sorting, and \"glitchy\" red brushstrokes.\n\nTexture: Gritty, ink-wash textures and distressed digital overlays that suggest a modern noir or cyberpunk editorial feel.\n\nLighting & Technicals: > * Lighting: Intense side-lighting (Chiaroscuro) creating deep shadows on the face to highlight bone structure.\n\nDetails: Hyper-realistic skin texture, individual hair strands visible, high-grain film aesthetic.\n\nFraming: Vertical aspect ratio, close-up profile shot.\n\nAspect ratio is 9:16",
+    "title": "Cyberpunk Glitch Profile Portrait",
+    "description": "A sophisticated prompt blending realistic photography with abstract digital glitch art for a high-contrast monochromatic look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797550390_cop27v_HHUdIYZaMAAO7ON.jpg",
+      "https://cms-assets.youmind.com/media/1777797550436_2m7tlz_HHUdJAlaYAAIXEl.jpg",
+      "https://cms-assets.youmind.com/media/1777797550439_wb8r4f_HHUdJxnaEAAeOPB.jpg",
+      "https://cms-assets.youmind.com/media/1777797551100_g1r6d2_HHUdKkIboAEgKVZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17976,
+    "content": "{\"type\":\"photorealistic vertical smartphone portrait with augmented reality music widgets\",\"scene\":{\"setting\":\"modern cafe interior beside a large window, warm ceiling lights, wooden counter, blurred greenery outside, shallow depth of field\",\"camera\":\"close-up wide-angle phone photo, vertical 9:16 composition, realistic lens distortion, subject centered, hands very close to camera\",\"mood\":\"stylish playful social-media snapshot\"},\"subject\":{\"description\":\"young woman seated indoors, long dark hair, black blazer over a light cropped top and black pleated skirt, hoop earrings, glossy pale manicure\",\"pose\":\"one hand raised near the forehead making a peace sign, the other hand thrust toward the lens with fingers spread wide, palm dominating the foreground\",\"face\":\"face intentionally obscured by a solid square privacy block in muted brown, centered over the face\",\"outfit color\":\"{argument name=\"outfit color\" default=\"black\"}\"},\"augmented reality overlays\":{\"style\":\"floating translucent rounded-rectangle music player cards in soft white with pale pink tint, thin red progress bars, small album art thumbnails, heart icons, previous/play-pause/next controls, subtle glow and glassmorphism shadows\",\"count\":4,\"cards\":[{\"position\":\"upper left\",\"track title\":\"{argument name=\"first song title\" default=\"IRIS OUT\"}\",\"artist\":\"米津玄師\",\"time\":\"1:29 / 4:54\",\"thumbnail\":\"dark blue album art\",\"state\":\"pause button shown in red circle, heart icon at right\"},{\"position\":\"upper right\",\"track title\":\"革命道中\",\"artist\":\"アイナ・ジ・エンド\",\"time\":\"0:58 / 3:31\",\"thumbnail\":\"red anime-style album art\",\"state\":\"pause button shown in red circle, heart icon at right\"},{\"position\":\"lower left\",\"track title\":\"AIZO\",\"artist\":\"King Gnu\",\"time\":\"2:18 / 4:28\",\"thumbnail\":\"dark concert-like album art\",\"state\":\"pause button shown in red circle, heart icon at right\"},{\"position\":\"lower right\",\"track title\":\"{argument name=\"fourth song title\" default=\"JANE DOE\"}\",\"artist\":\"KENSHI YONEZU, HIKARU UTADA\",\"time\":\"1:33 / 4:56\",\"thumbnail\":\"minimal pale album art\",\"state\":\"pause button shown in red circle, heart icon at right\"}]},\"composition\":{\"overlay placement\":\"cards float around the subject's hands as if pinned in 3D space, partially overlapping the cafe background but not covering the foreground palm\",\"lighting\":\"warm natural window light mixed with indoor amber light, soft highlights on skin and nails\",\"rendering\":\"high-resolution photorealism, realistic skin texture, bokeh background, crisp UI overlays, social media candid aesthetic\"},\"negative prompts\":\"no extra fingers, no warped hands, no unreadable UI except tiny artist text, no cartoon style, no heavy filters, no watermark\"}",
+    "title": "AR Music Cards Cafe Portrait",
+    "description": "Generates a photorealistic vertical cafe portrait with a woman posing behind floating glassmorphism music player widgets for a stylish social media visual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797645415_3ples7_HHUbOWpaUAA0iJM.jpg",
+      "https://cms-assets.youmind.com/media/1777797645422_xlwmjf_HHUbOX-acAAecPq.jpg",
+      "https://cms-assets.youmind.com/media/1777797645441_4zpxti_HHUbOXXbgAAfTe9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17898,
+    "content": "Using the provided reference image as the Sims 4 character base, transform it into a realistic {argument name=\"photo style\" default=\"CCD digital camera flash photo\"} rather than a game screenshot. Repose the character as a close-up arm’s-length selfie, wearing a {argument name=\"outfit\" default=\"plain white sweatshirt\"}, with one arm extended toward the camera and the other hand giving a thumbs-up. Change the setting to a {argument name=\"new setting\" default=\"nighttime amusement park or carnival\"} with strong on-camera flash, slightly harsh highlights, low-light noise, mild blur, and nostalgic compact-camera colors. Add a festive background with red carpet walkways, striped carnival booths, glowing marquee bulbs, string lights, trees, and exactly 6 visible balloons: 4 on the left side in purple, green, green, and yellow, and 2 on the right side in blue and red. Keep the overall face-obscuring square censorship from the reference, but make the image look like an authentic casual snapshot rather than a rendered scene.",
+    "title": "Sims 4 to CCD Carnival Selfie",
+    "description": "Transforms a Sims 4 screenshot into a realistic flash-lit CCD-style amusement park selfie for nostalgic social photo edits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797606975_erimn0_HHUTYQ8acAAUmEd.jpg",
+      "https://cms-assets.youmind.com/media/1777797606770_qrz6tr_HHUTYSVaAAAvPul.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17892,
+    "content": "{\"type\":\"scrapbook-style fashion mirror selfie with chibi character overlays\",\"scene\":\"A vertical full-length mirror selfie inside a softly lit minimalist clothing boutique, warm beige and cream tones, polished concrete floor, clothing racks on the right, folded clothes and a black handbag on wooden shelves on the left, tall indoor plants, track lights on the ceiling, elegant lifestyle shopping atmosphere.\",\"main_subject\":{\"description\":\"A fashionable young woman taking a mirror selfie with her phone held in front of her face, standing relaxed in the center of the mirror.\",\"outfit\":{\"cardigan\":\"{argument name=\\\"cardigan color\\\" default=\\\"heather gray oversized knit cardigan\\\"}\",\"top\":\"black fitted camisole or ribbed tank top\",\"jeans\":\"{argument name=\\\"jeans style\\\" default=\\\"high-waisted wide-leg light blue jeans\\\"}\",\"shoes\":\"black pointed flats\",\"bags\":\"two cream canvas tote bags, one on the shoulder and one held by hand, plus a small black crossbody bag\"},\"hair\":\"{argument name=\\\"hair style\\\" default=\\\"long wavy black hair\\\"}\",\"face\":\"softly anonymized or obscured for privacy, realistic body proportions\"},\"chibi_overlays\":{\"style\":\"cute anime chibi mini versions of the main subject, oversized head, glossy black wavy hair, round glasses on some variants, same gray cardigan and blue jeans outfit, blended into the photo like hand-drawn scrapbook stickers with soft shadows\",\"count\":5,\"poses\":[{\"position\":\"mid-left on the shelf\",\"description\":\"one sleepy chibi resting her head on folded clothes, leaning on the wooden shelf\"},{\"position\":\"upper-right floating near the subject's head\",\"description\":\"one joyful chibi jumping in the air with arms raised and one leg bent\"},{\"position\":\"right side behind clothing rack\",\"description\":\"one shy chibi peeking from behind hanging clothes, smiling with round glasses\"},{\"position\":\"bottom-left on the floor\",\"description\":\"one curled-up chibi sitting cross-legged with sleeves covering her hands\"},{\"position\":\"bottom-right near the shopping bag\",\"description\":\"one seated chibi holding a small drink or phone, surrounded by hearts\"}]},\"scrapbook_details\":{\"doodles\":\"white hand-drawn hearts, sparkles, motion marks, and tiny decorative lines placed around the main subject and chibis\",\"text_elements\":{\"count\":4,\"labels\":[\"NEW ARRIVAL on a wall poster\",\"Arles on the canvas tote bag\",\"depound beneath the tote text and poster\",\"Simplicity is the ultimate sophistication. Leonardo da Vinci on a framed sign\"]},\"mood\":\"cozy, fashionable, playful, diary-like, premium lifestyle scrapbook aesthetic\"},\"composition\":{\"camera\":\"smartphone mirror selfie, straight-on full-body framing, vertical 3:4 aspect ratio\",\"lighting\":\"warm indoor boutique lighting, soft highlights, gentle shadows\",\"quality\":\"photorealistic background with clean high-resolution anime chibi overlays, seamless integration, no clutter, polished social-media-ready image\"},\"custom_text\":\"Optional handwritten caption in the scrapbook style: {argument name=\\\"handwritten caption\\\" default=\\\"shopping day\\\"}\"}",
+    "title": "Chibi Boutique Mirror Selfie",
+    "description": "Generates a stylish boutique mirror selfie transformed into a scrapbook diary scene with five cute chibi versions of the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797603548_pt5zsi_HHUJ7mibUAA-TUM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17932,
+    "content": "Using the provided reference image as the dog reference, recreate the same Shih Tzu as a clean, natural color photograph. Remove the telephone-card border, printed numbers, text, scratches, discoloration, and any overlay/censor block. Replace the original card/photo background with a sunny outdoor park setting: the dog lying on vivid green grass, with softly blurred trees and warm sunlight in the distance. Keep the dog centered and front-facing in a similar lying pose, preserving the black-and-white coat pattern and the two black hair bows. Improve the image quality to look like a sharp modern pet portrait with realistic fur detail, natural lighting, and shallow depth of field.",
+    "title": "Shih Tzu Park Photo Restoration",
+    "description": "Transforms an old telephone-card dog image into a clean modern pet portrait on grass in a sunny park.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797624462_tpffmb_HHUHe_Fa4AAMkBo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17954,
+    "content": "A photorealistic vertical portrait of a {argument name=\"subject\" default=\"young East Asian male office worker\"} seated at a modern office desk, looking calmly and directly at the camera with a soft neutral expression. He has {argument name=\"hair style\" default=\"medium-length layered dark brown hair, slightly wet textured, parted with loose bangs\"}, smooth pale skin, delicate facial features, and a fashionable clean appearance. He wears a {argument name=\"outfit\" default=\"oversized black blazer over a plain white T-shirt\"} with a blue lanyard and visible employee ID badge hanging at his chest. His hands rest on the keyboard of a space gray laptop with a black Apple logo on the left side of the desk. On the desk are exactly 3 visible objects besides the laptop: a black smartphone lying face-up near the center front, a white spiral notebook on the right, and a black pen placed diagonally on the notebook. The setting is a bright glass-walled corporate office with blurred desks, windows, partitions, and cool daylight in the background, shallow depth of field, realistic reflections, muted gray-blue color palette, soft diffused lighting, high-end editorial photography style, 85mm lens look, natural skin texture, crisp focus on the face, vertical 2:3 composition, professional yet stylish atmosphere.",
+    "title": "Stylish Office Worker Portrait",
+    "description": "Generates a photorealistic vertical corporate portrait of a fashionable young office worker seated at a laptop in a modern glass-walled workplace.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797635458_j6r539_HHUE7SHb0AAM3M-.jpg",
+      "https://cms-assets.youmind.com/media/1777797633951_ec2ypf_HHUE7SGakAA1xQY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17934,
+    "content": "Create a cute chibi anime sticker illustration of {argument name=\"character name\" default=\"a sleepy angel girl\"} floating against a flat bright {argument name=\"background color\" default=\"sky blue\"} background. The character has pale skin, half-lidded teal eyes, a tiny neutral mouth, and long {argument name=\"hair color\" default=\"pale blonde\"} twin tails with blunt bangs and face-framing locks, tied with exactly 2 large black ribbon bows. Above her head is 1 thick golden dripping halo, with exactly 3 small golden sparkle stars around it. She has exactly 2 small white feathered angel wings behind her. Dress her in an oversized {argument name=\"jacket color\" default=\"teal green\"} zip-up track jacket with a high collar, silver zipper, and two white stripes down the sleeves, paired with a short black pleated skirt. Pose her seated and floating in midair with one knee raised and the other leg dangling, slightly slouched with a bored, sleepy expression. She wears white knee socks with black horizontal stripes near the top and white sneakers with {argument name=\"shoelace color\" default=\"yellow\"} laces. Use a clean kawaii digital art style with thick black outlines, rounded simplified shapes, soft flat colors, minimal shading, no text, centered composition, full body visible, playful mascot-like proportions.",
+    "title": "Sleepy Chibi Angel Girl",
+    "description": "Generates a cute floating chibi angel girl sticker illustration with twin tails, halo, wings, and sporty streetwear.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797625824_qgylcq_HHTt3kgaEAEhE_2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17933,
+    "content": "Create a vivid anime-style illustration on a pure black background featuring one floating angelic teenage girl with {argument name=\"hair color\" default=\"pastel pink\"} bob-cut hair, blunt bangs, soft pink eyes, and a shy, slightly pouty expression. She wears a {argument name=\"jacket color\" default=\"bubblegum pink\"} zip-up track jacket with white sleeve stripes, a short white pleated skirt, thigh-high white socks with two pink stripes near the top, and chunky pastel pink lace-up platform sneakers. Pose her seated in midair with one knee raised, the other leg bent downward, one hand near her mouth and the other extended outward. Add exactly two white feathered wings behind her and exactly one melting cream-pink halo above her head, with glossy drips. Surround her with a dreamy neon space-candy aura: exactly one small ringed planet near the lower left, exactly three prominent dripping yellow-pink star charms, exactly two puffy pink-purple cloud blobs, and flowing pastel ribbon trails in pink, mint, cyan, and lavender curling around her body. Use saturated kawaii cyber-pop colors, thick clean anime linework, iridescent chromatic aberration outlines in green and magenta, glossy highlights, tiny scattered sparkles, and a sticker-like composition with high contrast against the black background. The overall mood should be cute, celestial, magical, and slightly surreal, like a pastel angel floating through a candy-colored galaxy.",
+    "title": "Pastel Neon Angel Girl",
+    "description": "Generates a vibrant kawaii anime illustration of a floating pastel angel girl surrounded by candy-colored cosmic effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797625576_jzhrsv_HHTt3kgbUAAgT_8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17836,
+    "content": "32K ultra high definition, night scene, long flowing hair, partially covering a beautiful {argument name=\"mood\" default=\"sorrowful\"} face, slightly tipsy feeling, delicate and natural expression, dark-toned background, {argument name=\"lighting\" default=\"soft hair rim light\"}, clear facial details, smooth elegant lines, close-up portrait, masterpiece, premium aesthetic, mysterious atmosphere, tears on the face, glossy tearful eyes.",
+    "title": "Sorrowful Night Cinematic Portrait",
+    "description": "A cinematic close-up prompt focused on lighting and texture to convey a mysterious and sorrowful atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797572084_zgyxlv_HHTsHVyXMAAdrlS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17979,
+    "content": "Create a realistic vertical portrait photograph of a {argument name=\"subject\" default=\"Japanese high school girl\"} standing in a warm sunlit classroom after school, wearing a traditional navy sailor-style school uniform with white striped collar and cuffs, a bright red neckerchief, and a dark pleated skirt. She has long dark hair styled into two neat braids falling over her shoulders, stands slightly angled with her hands held behind her back, and her face is fully covered by a plain rectangular censor block in a natural skin-tone brown. The classroom has wooden desks and chairs around her, notebooks on the desks, a polished wooden floor, cream curtains, and golden late-afternoon sunlight streaming through tall windows on the left. Behind her is a green chalkboard with handwritten Japanese chalk text reading {argument name=\"chalkboard quote\" default=\"青春とは、心の若さである。 by サミュエル・ウルマン\"}. Use photorealistic detail, soft cinematic lighting, shallow depth of field, nostalgic Japanese school atmosphere, warm color grading, 3:4 vertical composition, subject centered from mid-thigh upward, SFW.",
+    "title": "Sunlit Japanese Classroom Sailor Uniform Portrait",
+    "description": "Generates a photorealistic after-school classroom portrait of a braided student in a sailor uniform with a warm nostalgic mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797646246_rnxkbs_HHTihVQaYAA14W6.jpg",
+      "https://cms-assets.youmind.com/media/1777797646462_w82lbv_HHTihVMasAArcsE.jpg",
+      "https://cms-assets.youmind.com/media/1777797646611_i323u7_HHTihVPbAAAaqNA.jpg",
+      "https://cms-assets.youmind.com/media/1777797647222_hweo0u_HHTihVabMAAQE1q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17821,
+    "content": "In 8K Cinematic Transform the reference image into a {argument name=\"theme\" default=\"cozy scrapbook-style\"} composition, strictly preserving subject, identity, pose, lighting, and background. Add multiple mini {argument name=\"character style\" default=\"chibi/doll\"} versions of the same person (matching face, hair, outfit), placed naturally and doing varied activities. Overlay handwritten doodles (hearts, arrows, stars, captions). Use {argument name=\"color tone\" default=\"soft pastel\"} tone. Keep it rich yet clean, warm, dreamy, Instagram-style. Final must enhance the SAME image, not recreate it",
+    "title": "Cozy Scrapbook Image Transformation",
+    "description": "Transforms a reference photo into a warm, scrapbook-style composition with chibi versions of the subject and handwritten doodles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797562444_uyhvz4_HHTQxIRa0AAqXL4.jpg",
+      "https://cms-assets.youmind.com/media/1777797562492_yrtqsa_HHTQxIGboAAVutR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17806,
+    "content": "Chibi Avatar Scrapbook Photo Prompt (Based on Uploaded Female Portrait)\n\nUse the uploaded image of a young woman as the base. Do NOT add any new person. Transform the existing subject into a chibi scrapbook-style composition while fully preserving her real identity, face, hairstyle, {argument name=\"hair color\" default=\"long soft brown hair\"}, natural makeup, {argument name=\"outfit tone\" default=\"black outfit\"}, pose, lighting, and cozy indoor aesthetic.\n\n[Theme Detection]\nThe scene reflects a {argument name=\"mood\" default=\"cozy lifestyle / selfie / workspace vibe\"} with soft lighting, aesthetic room elements, a motivational neon sign, and a laptop desk setup. Maintain a calm, stylish, slightly productive lifestyle mood throughout.\n\n[Chibi Avatars]\nAdd 5–8 chibi mini versions of the SAME girl:\n- same long soft brown hair (slight waves)\n- same outfit tone (black top)\n- same gentle, confident expression\n\nStyle:\n- kawaii chibi sticker style\n- big head, small body proportions\n- expressive cute eyes\n- soft pastel shading\n- clean, high-quality sticker finish\n\n[Chibi Actions – no repetition]\n- holding coffee \n- working on laptop \n- taking selfie \n- relaxed leaning pose\n- peace sign \n- thinking pose \n- stretching / chill pose\n- smiling & waving \n\n[Sticker Placement]\n- Place chibi avatars around edges and empty areas only\n- Do NOT cover the main face or body\n- Add white outline + soft drop shadow\n- Slight floating sticker effect\n\n[Doodles]\nAdd subtle scrapbook-style doodles:\n- hearts, sparkles, stars, arrows\n- aesthetic lines and circles\n- soft glowing accents\n\nColor palette:\nwhite + warm yellow + soft pink (matching neon vibe)\n\n[Handwritten Text]\nAdd 5–8 short aesthetic phrases:\n- \"just me \"\n- \"soft life\"\n- \"stay cozy\"\n- \"little moments\"\n- \"focus mode\"\n- \"good vibes only\"\n- \"create & grow\"\n- \"be you \"\n\nStyle:\n- handwritten font\n- white text with soft glow\n- selective highlights in pink/yellow\n\n[Composition]\n- Center focus: real girl (unchanged)\n- Surround with chibi stickers + doodles + text\n- Keep layout balanced, clean, not cluttered\n\n[Style Keywords]\nrealistic photo + chibi stickers, kawaii aesthetic, cozy lifestyle, warm lighting, scrapbook diary, soft glow, high detail, Instagram aesthetic\n\n[Final Output]\nA polished, high-quality, social-media-ready scrapbook image combining:\nrealistic subject + cute chibi extensions + aesthetic doodles\n\n[Avoid]\n- altering facial identity\n- over-beautifying or AI face distortion\n- cluttered composition\n- unrelated/random elements\n- covering the subject",
+    "title": "Chibi Avatar Scrapbook Photo",
+    "description": "A creative prompt that transforms a portrait into a scrapbook composition by adding multiple chibi versions of the subject with aesthetic doodles and handwritten text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797554395_6ot8az_HHTDH6gbwAAcjcz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17928,
+    "content": "Create a dramatic square-format anime illustration of a pale elven cyborg girl in extreme close-up, shown from the shoulders up against a deep black abstract ink background. She has {argument name=\"hair color\" default=\"very light icy blue-white\"} messy shoulder-length hair with many loose strands, heavy black ink linework, and one long sharp pointed elf ear extending horizontally to the left, with small mechanical details near the ear. Her face is intentionally obscured by a large vertical rounded-rectangle censor block in flat {argument name=\"censor block color\" default=\"cool light gray\"}, centered over the entire face from the forehead down past the chin, hiding all facial features. Her neck, collarbone, and upper chest are exposed and transformed into intricate black biomechanical circuitry, cables, armor-like fragments, and organic machine patterns over pale skin. Use a high-contrast monochrome manga style with icy blue highlights, scratchy brush strokes, splattered ink, rough hand-drawn contours, dense black shadows, and a gritty cyberpunk dark-fantasy mood. The composition should crop tightly around the head and shoulders, with the elf ear and hair filling the frame, no text, no border, no additional characters.",
+    "title": "Censored Elf Cyborg Portrait",
+    "description": "Generates a high-contrast manga-style close-up of an elven cyborg girl with a deliberately obscured face for dark fantasy or cyberpunk character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797622882_a5opgy_HHSkQGIbkAA6IXH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17793,
+    "content": "Editorial portrait photography arranged in a 2x2 grid layout featuring the same {argument name=\"subject\" default=\"man\"} with {argument name=\"accessory\" default=\"round tortoiseshell glasses\"}, natural look, light beard, {argument name=\"background\" default=\"soft neutral background\"}.\nTop-left: front-facing portrait with direct eye contact, calm expression.\nTop-right: extreme macro close-up of eye behind glasses, ultra-detailed iris and skin texture.\nBottom-left: slightly lower angle portrait, subtle expression, soft shadows.\nBottom-right: side profile portrait, natural pose, looking away.\nSoft diffused natural lighting, warm neutral tones, shallow depth of field, ultra-realistic skin texture with visible pores and freckles, minimal retouching, 85mm lens, high-end editorial photography style, clean composition, 4K",
+    "title": "Editorial Portrait 2x2 Grid",
+    "description": "A detailed prompt for creating a high-end editorial photography grid featuring consistent character details and varied angles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797549287_vie5ck_HHSW6WjbMAAxZvx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 17864,
+    "content": "Redraw the attached image with the world's most pathetic lines, like a {argument name=\"style\" default=\"scribble\"}. The background should be {argument name=\"background color\" default=\"white\"}, looking like it was drawn with a mouse in MS Paint—feeling like it's right but not quite, resembling the original but not really, giving a vague vibe where you can't tell if it's okay or not. Proudly show off the patheticness with visible pixels. Whatever, just draw it however you want.",
+    "title": "Purposefully Bad MS Paint Redraw",
+    "description": "A prompt that instructs the AI to redraw an attached image in the worst possible way, mimicking a sloppy MS Paint mouse drawing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797587498_16yyqm_HHSWW9Ca0AA05_2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17804,
+    "content": "Create a high-quality, studio-style split portrait composition with two stacked sections (top and bottom).\nLayout:\nVertical split (top half + bottom half)\nClean, minimal aesthetic\nNo text, no watermark, no overlay\nSubtle grain or dust texture on background\nSoft, cinematic lighting\n\nTOP SECTION:\nUse [REFERENCE IMAGE 1 – FACE ONLY]\nReplace only the face, keep original pose and expression (wide smile, joyful, slightly playful)\nShort messy hair look\nOutfit: {argument name=\"top outfit\" default=\"black blazer over a casual inner shirt\"}\n{argument name=\"background\" default=\"Neutral grey studio background\"}\nNatural skin tones, realistic blending\n\nBOTTOM SECTION:\nUse [REFERENCE IMAGE 2 – FACE ONLY]\nReplace only the face, keep original pose (hand on cheek, looking sideways, thoughtful expression)\nLong, soft styled hair\nOutfit: {argument name=\"bottom outfit\" default=\"elegant black blazer with subtle details (bow or ribbon)\"}\nSame neutral grey studio background\nMaintain soft feminine lighting\nImportant:\nFace swap must look natural and seamless\nMatch lighting, skin tone, and color grading across both sections\nKeep original body, pose, and composition unchanged\nHigh realism, sharp focus, premium editorial photography style\nStyle keywords: ultra realistic, studio portrait, soft lighting, editorial fashion, 85mm lens, shallow depth of field, cinematic tone, high detail",
+    "title": "Split Portrait Editorial Photography",
+    "description": "A complex studio-style portrait prompt that creates a vertical split composition, ideal for seamless face-swapping and professional editorial photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797553529_u7qrm9_HHSUOCVaYAEijMJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17886,
+    "content": "Create an ultra-realistic vertical iPhone mirror selfie of {argument name=\"subject\" default=\"a young woman\"} seated casually on a beige modern sofa in a warm, softly lit living room. The composition is waist-up with the lower body almost entirely cropped out, shot through a tall wooden-framed mirror on the left edge of the image. She wears a fitted {argument name=\"top color\" default=\"light blue\"} half-sleeve crew-neck top with subtle fabric wrinkles, a delicate gold necklace, small gold hoop earrings, and natural pale pink manicured nails. Her {argument name=\"hair color\" default=\"dark brown\"} hair is tied back in a neat low ponytail with a few loose strands around the face. She holds a beige/silver iPhone with three rear cameras in her right hand at chest height, angled slightly outward, partially covering the right side of her face. Add a solid rectangular {argument name=\"face censor color\" default=\"warm brown\"} block over the center of her face, obscuring facial identity. The room has beige walls, a window behind her with daylight and blinds, a framed picture on the wall to the right, a second mirror or framed object in the background, wooden textures, and a clean cozy lived-in interior. Use soft natural indoor daylight with warm color grading, gentle shadows, shallow depth of field, slight mirror reflection imperfections, subtle grain, realistic skin texture, and an authentic casual front-camera selfie look.",
+    "title": "Realistic iPhone Mirror Selfie",
+    "description": "Generates a warm indoor waist-up iPhone mirror selfie of a seated woman on a sofa with realistic lighting and a censored face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797600198_jdstux_HHSNMBwboAATsH6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17883,
+    "content": "Ultra-realistic iPhone mirror selfie of {argument name=\"subject\" default=\"a young woman\"} seated casually on a gray modern sofa in a warm, softly lit indoor living room. Mid-body vertical composition with a waist-up focus; only the top of the soft beige drawstring shorts is visible and the legs are cropped out. She holds a silver triple-camera iPhone in her right hand at chest-to-face level, angled slightly outward, partially covering the side of her face. Her head is turned slightly toward the phone in a natural candid selfie pose, with relaxed shoulders and a soft profile. She wears {argument name=\"top\" default=\"a fitted white ribbed half-sleeve crew-neck top\"} and soft beige lounge shorts. Her {argument name=\"hair style\" default=\"dark brown hair is tied back in a high ponytail\"}, with loose face-framing strands and natural texture. Add small gold hoop earrings, a delicate gold necklace with a tiny pendant, and a thin gold bracelet. The face should be intentionally obscured by {argument name=\"face covering\" default=\"a centered opaque square color block over the face\"}, while preserving realistic skin tone on the neck and body. Background: a wooden-framed mirror with a vertical wooden divider behind her, gray sofa cushions, warm lamp glow from the left, neutral plaster wall, a white picture frame and a black framed photo on the right. Use warm cinematic indoor color grading, subtle shadows, natural skin texture, slight mirror reflection imperfections, shallow depth of field, faint iPhone front-camera grain, realistic proportions, casual social-media selfie aesthetic, no over-smoothing, no glamour studio lighting.",
+    "title": "Warm iPhone Mirror Selfie",
+    "description": "Creates a realistic warm-toned iPhone mirror selfie of a casually seated young woman on a sofa, suitable for lifestyle or social media portrait generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797599253_u1xy2e_HHSNMBqaEAAE4s8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17851,
+    "content": "[Men's Version Prompt] Based on the front-facing photo I uploaded, generate a professional men's studio business portrait. Please strictly preserve the authentic identity features of the person in the photo, including face shape, facial feature proportions, eyebrow and eye structure, nose, lips, jawline, skin tone, perceived age, facial texture, hairline, and hairstyle. Do not turn the person into someone else, do not over-rejuvenate, do not over-smooth the skin, and do not generate a fake AI face. The final result must look like a high-quality professional portrait of the same individual. The visual style should refer to high-end corporate executive headshots, LinkedIn business portraits, and management photos on official company websites. The person faces the camera, using a classic head-and-shoulders portrait composition, capturing from the chest to the head. The posture is natural and upright, with shoulders relaxed but conveying a sense of power. Eyes look directly into the camera, with a confident, steady, and approachable expression featuring a restrained smile, presenting a professional, reliable, and authoritative aura. Please replace the clothing with a well-tailored dark gray textured suit, a crisp white shirt inside, and a high-quality navy blue tie. The suit should be well-fitting, smooth, with a business texture; the collar, shoulder lines, and tie knot should be clear and natural. Avoid exaggerated luxury or looking like wedding or studio art photos. Use soft, flattering professional studio lighting. The main light shines from the front-side, creating natural light and shadow levels on the face, with slight catchlights in the eyes and realistic skin texture. The overall look is clean and high-end. Avoid harsh hard light, overexposure, greasy reflections, and heavy shadows. The background is a smooth, blurred gradient from medium gray to warm taupe, simple, clean, without clutter, text, or logos. The background is only used to set off the subject and should not distract. Photo requirements: realistic photographic feel, commercial portrait photography, high resolution, clear details, natural skin tone, high-end texture, stable composition, subject centered, coordinated head-to-shoulder ratio. Aspect ratio 3:4. [Women's Version Prompt] Based on the front-facing photo I uploaded, generate a professional women's studio business portrait. Please strictly preserve the authentic identity features of the person in the photo, including face shape, facial feature proportions, eyebrow and eye structure, nose, lips, jawline, skin tone, perceived age, facial texture, hairline, and hairstyle. Do not turn the person into someone else, do not over-rejuvenate, do not over-beautify, and do not generate a fake AI face. The final result must look like a high-quality professional portrait of the same individual. The visual style should refer to high-end professional female headshots, LinkedIn business portraits, team introduction photos on company websites, and professional portraits of entrepreneurs. The person faces the camera, using a classic head-and-shoulders portrait composition, capturing from the chest to the head. The posture is natural and upright, shoulders relaxed, neck lines clean, eyes looking directly into the camera. The expression is confident, gentle, and steady, with a restrained smile, presenting a professional, reliable, approachable, and discerning female professional aura. Please replace the clothing with a well-tailored dark professional blazer, which can be black, dark gray, or navy blue, with a simple white shirt, light-colored silk shirt, or a clean solid-colored inner layer. The overall styling should be high-end, clean, and sharp; avoid being overly sexy, avoid exaggerated fashion, and do not look like internet celebrity photos or studio art portraits. The blazer's shoulder lines, collar, fabric texture, and layering should be clear and natural. Please keep the hair and makeup natural and authentic, suitable for formal professional settings. Makeup should be clean, elegant, and healthy-looking, preserving the original facial features; avoid heavy makeup and do not significantly change the shape of eyebrows, eyes, or lips. The hairstyle can be slightly neatened based on the original hairstyle features, making the hair look voluminous, clean, and shiny, suitable for a business portrait. Use soft, flattering professional studio lighting. The main light shines from the front-side, creating natural light and shadow levels on the face, with slight catchlights in the eyes and realistic skin texture. The overall look is clean and high-end. Avoid harsh hard light, overexposure, greasy reflections, and heavy shadows. The background is a smooth, blurred gradient from medium gray to warm taupe, simple, clean, without clutter, text, or logos. The background is only used to set off the subject and should not distract. Photo requirements: realistic photographic feel, commercial portrait photography, high resolution, clear details, natural skin tone, high-end texture, stable composition, subject centered, coordinated head-to-shoulder ratio. Aspect ratio 3:4.",
+    "title": "Executive Professional Studio Portrait",
+    "description": "A comprehensive prompt for generating high-quality LinkedIn-style business portraits for professionals while strictly preserving their facial identity and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797577951_7idwpa_HHSFVtjXEAA9Tm0.jpg",
+      "https://cms-assets.youmind.com/media/1777797578003_mtpin1_HHSFWTQWQAAuxyE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17826,
+    "content": "Ultra-realistic iPhone mirror selfie inside a {argument name=\"setting\" default=\"sleek, dimly lit modern elevator\"}, with the subject’s facial identity matching exactly the provided reference image. Full-body framing captured through the mirror, slightly wide perspective without distortion. The young woman stands at a subtle angle facing left, her head turned into a clean, defined side profile, lips gently pursed.\n\nShe holds her phone at chest level in her right hand, elbow slightly flared outward in a natural pose. In her left hand, she loosely carries an open {argument name=\"accessory\" default=\"paperback book resting against a deep burgundy skirt\"}. Her hair is styled in a {argument name=\"hair style\" default=\"neat, slick low ponytail\"}. She wears thin, transparent eyeglasses and white wired earbuds, with the cable draping down across her torso.\n\nOutfit includes an oversized dark charcoal coat with broad sleeves layered over a grey hoodie and a black graphic sweatshirt. Accessories include chunky silver rings and a black quilted shoulder bag hanging from her left shoulder.\n\nEnvironment details: dark matte elevator walls, stainless steel doors behind her, illuminated rectangular ceiling panels, vertical side light strips, and a control panel with buttons on the right wall. A metal mirror rail runs along the lower edge.\n\nLighting is cool and realistic, with accurate reflections, visible natural skin texture, and no beauty filters or smoothing effects. Clean, authentic iPhone mirror aesthetic.",
+    "title": "Modern Elevator Mirror Selfie",
+    "description": "A hyper-realistic iPhone mirror selfie prompt set in a dimly lit, sleek modern elevator with authentic skin textures and cool lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797565947_vtk7o2_HHSDGS7b0AEDnHR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17916,
+    "content": "Create a realistic, front-facing waist-up portrait photo of a {argument name=\"profession\" default=\"female nurse or clinician\"} standing against a plain off-white textured wall. The subject wears {argument name=\"scrub color\" default=\"burgundy\"} V-neck medical scrubs with short sleeves, a small chest pocket on the viewer's right, and a metal snap detail near the collar. A detailed stethoscope hangs naturally around the neck, with black tubing, silver metal binaurals, gray eartips resting near the pocket, and the round chest piece visible on the viewer's left side. The person has medium brown hair tied back with a few loose strands near the ears, neutral upright posture, shoulders squared, centered composition, cropped from just above the head to mid-torso. The face is intentionally covered by a large square skin-tone privacy mosaic block, hiding all facial features while leaving the hair, ears, neck, clothing, and stethoscope visible. Use soft even indoor lighting, sharp photographic detail, natural colors, minimal background distractions, and a clean clinical profile-photo style.",
+    "title": "Nurse Portrait With Stethoscope",
+    "description": "Generates a realistic anonymized medical staff portrait suitable for clinical profile imagery or healthcare-themed examples.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797617648_we8cx4_HHR5swZbEAAN87C.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 17649,
-    "content": "A clean, high-impact anime parody illustration of a chubby emperor penguin styled as an overpowered naval commander, centered in the frame and shown from the waist up. The penguin wears 1 bright red fast-food baseball cap with a yellow McDonald's-style golden arches logo, 1 pair of glossy black round sunglasses, 1 enormous crescent-shaped white mustache curving dramatically across its face, and 1 white military admiral coat draped over the shoulders with deep red epaulets, rich gold fringe, black lining, and gold trim. The penguin’s chest has exactly 3 visible scar marks: 1 long diagonal scar and 2 shorter crossing scars. Its beak is small and orange, expression calm and intimidating, with a comedic deadpan look. Background: a huge white stone fortress wall inspired by anime marine headquarters, with giant black calligraphy characters painted across the facade, two visible white flags marked “MARINE,” damaged battlements, smoke plumes, sparks, rubble, and rough blue ocean waves crashing in the foreground. Bright blue sky with scattered clouds behind the fortress. Composition is symmetrical and poster-like, with the penguin dominating the foreground. Style: crisp cel-shaded anime, bold black outlines, saturated colors, polished meme-quality character design, dramatic yet humorous crossover energy, highly readable silhouette, square composition.",
-    "title": "Anime Penguin Admiral Parody",
-    "description": "A humorous anime-style penguin commander portrait set in front of a battle-damaged marine fortress, ideal for meme art, parody posters, and bold character illustrations.",
+    "content": "Create a square anime-style parody illustration of {argument name=\"character description\" default=\"a chubby black-and-white penguin pirate admiral\"} standing heroically in the foreground, centered and cropped from the waist up. The character wears one bright red baseball cap with a yellow {argument name=\"cap logo\" default=\"McDonald's golden arches\"} on the front, one pair of glossy black round sunglasses, one huge curved white crescent moustache stretching far past both cheeks, and one open white naval coat with red lining, black trim, gold edging, and exactly two ornate gold epaulettes with fringe. The penguin has a tiny orange beak, a confident stoic expression, and exactly three visible scars on its white belly: one long diagonal thorny scar and two smaller cross-shaped scars. Behind the character, depict a colossal gray stone fortress inspired by a Marine headquarters from a shonen pirate anime, with large dark Japanese-style calligraphy on the wall, tall towers, battlements, and exactly two white flags marked with a blue marine emblem. The background is chaotic and cinematic: crashing ocean waves, shattered debris, rocky ruins, smoke columns on both sides, scattered orange embers, and a bright blue sky with a few clouds. Use crisp cel-shaded anime line art, bold outlines, saturated colors, dramatic low-angle composition, high detail, epic battle atmosphere, clean character silhouette, and a playful crossover tone.",
+    "title": "Penguin Pirate Admiral Parody",
+    "description": "Generates a bold anime crossover-style illustration of a penguin admiral in a dramatic marine fortress battle scene.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777711096482_0zwrtm_HHR5g1jakAAmYdb.jpg"
+      "https://cms-assets.youmind.com/media/1777797611490_reefqr_HHR5g1jakAAmYdb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17937,
+    "content": "Using REFERENCE_1 as the source, isolate the lower accidental selfie photo and turn it into the final standalone image: remove the ChatGPT interface, text bubble, download icon, and input bar completely, then uncrop/extend the snapshot so it fills the frame as a vertical iPhone-style photo. Follow the intent described in REFERENCE_0: make it look like an ordinary, slightly failed, unplanned selfie taken while pulling a phone from a pocket, with a careless low angle, messy composition, slight motion blur, uneven lighting, mild overexposure from the room lights, and a very realistic casual phone-camera feel. Keep the same indoor room, ceiling light, wall lamp, and subject from the lower photo, but show more of the face, neck, dark shirt, and a thin chain necklace, with a blurry finger partially covering the lower-left foreground. Avoid making it look posed, polished, cinematic, or intentionally composed.",
+    "title": "Accidental iPhone Selfie Extraction",
+    "description": "Generates a standalone realistic failed selfie by extracting and extending the lower photo from a ChatGPT screenshot while removing all UI elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797627157_geey34_HHRxMGjbQAAd64B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 17964,
+    "content": "Create a vibrant anime close-up portrait of {argument name=\"character name\" default=\"Kasane Teto\"}, a mischievous young virtual singer with vivid {argument name=\"hair color\" default=\"hot pink\"} hair styled into two large glossy drill-twin-tails on both sides, short layered bangs, and loose side strands. She has large pink-red eyes with golden highlights, long black lashes, faint blush, and a playful toothy grin. Pose her leaning toward the viewer in strong perspective, one arm thrust forward with her index finger pointing directly at the camera, the other hand touching her cheek with pink manicured nails. Dress her in a dark navy sleeveless collared shirt with bright magenta piping, magenta buttons, a front placket, and a small chest pocket, with a detached dark navy sleeve visible on one arm. Use a cute pop-idol anime illustration style with clean ink lines, glossy cel shading, soft skin tones, and a thick white sticker-like outline around the character. Set the background to a flat pastel {argument name=\"background color\" default=\"pink\"} with decorative white doodles: exactly 3 outlined stars, 7 four-point sparkles, and 3 short radiating accent lines near the upper right. Make the composition energetic, centered, cropped from the torso upward, with the pointing hand exaggerated large in the foreground and the face framed by the twin drills.",
+    "title": "Kasane Teto Pop Idol Portrait",
+    "description": "Generates a cute energetic anime portrait of Kasane Teto with drill twin-tails, a pointing pose, and a pink sticker-style background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777797639638_7xytak_HHRn5wJbcAAJ73a.jpg"
     ],
     "needReferenceImages": true
   },
