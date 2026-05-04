@@ -1,5 +1,90 @@
 [
   {
+    "id": 18244,
+    "content": "Create an ultra-realistic cinematic night street scene in {argument name=\"city\" default=\"Tokyo\"}, showing a narrow rainy alley lined with ramen shops and dense vertical neon signs. The camera is at street level with a wide-angle documentary feel, looking down the wet pavement where blue, red, and white neon reflections stretch across puddles. In the right foreground, an open-air ramen counter glows with warm amber light and heavy steam; a chef in a dark work shirt with tattooed forearms lifts noodles from a boiling pot with chopsticks, his face obscured by a soft rectangular anonymizing blur. Hang exactly two prominent red paper lanterns over the stall, both with bold black Japanese text {argument name=\"lantern text\" default=\"ラーメン\"}. Add stainless pots, stacked bowls, chopsticks, condiment bottles, hanging lamps, dark noren curtains, and a tall black wooden signboard with large gold Japanese calligraphy beside the counter. The background alley should contain distant silhouettes of pedestrians, countless small illuminated storefront signs, rain streaks, mist, and atmospheric steam drifting through the scene. Style: photorealistic but clearly AI-generated, high dynamic range, moody cyberpunk-noir color palette, wet asphalt, volumetric lighting, sharp foreground detail, deep perspective, 16:9 composition, dramatic contrast, shot as if with a 24mm lens at night after rainfall.",
+    "title": "Rainy Tokyo Ramen Alley",
+    "description": "Generates a cinematic photorealistic rainy Tokyo ramen alley with neon reflections, steam, lanterns, and a chef cooking noodles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884867242_ud8ypy_HHUSno_WUAAjVS0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18089,
+    "content": "{argument name=\"character\" default=\"Mahiro from Onimai\"} playing the {argument name=\"console\" default=\"Switch\"}",
+    "title": "Anime Character Playing Video Games",
+    "description": "Generates an illustration of Mahiro from Onimai engaged in playing a handheld gaming console.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884784558_zo8wr9_HHZQqGhWwAA7K2D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18100,
+    "content": "A hyper-realistic cinematic scene of a {argument name=\"subject\" default=\"man\"} standing inside a futuristic glass skyscraper city floating above the clouds. The environment is built entirely from transparent glass architecture, with massive reflective towers, bridges, and layered sky platforms stretching into the horizon. Soft natural daylight fills the scene, creating elegant reflections and refractions across every surface. The man stands calmly near a glass railing, looking out over the endless floating city below him. His posture is relaxed yet powerful, wearing a modern minimal outfit with clean lines and neutral tones, blending perfectly with the futuristic environment. Style: ultra-detailed, cinematic lighting, {argument name=\"style\" default=\"minimal sci-fi aesthetic\"}, high-end architectural visualization, shallow depth of field, 35mm film look, realistic skin texture, clean composition, futuristic luxury atmosphere.",
+    "title": "Futuristic Glass Skyscraper City",
+    "description": "A prompt for generating a hyper-realistic cinematic scene of a modern glass skyscraper city floating above the clouds, featuring elegant reflections and a minimal sci-fi aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884790553_kanfl1_HHY6v1dWMAE0YN1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18091,
+    "content": "Draw a student doodling on the attached photo. The handwriting is messy and crude, with rough and disorganized script. Also draw clumsy and cute sketches on the person's face.",
+    "title": "Cute Student Photo Doodle",
+    "description": "A refined version of the viral textbook doodle prompt, adjusted to produce cuter sketches while maintaining the characteristic messy handwriting effect on a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884785843_g0z2q8_HHY6o6_boAALNIo.jpg",
+      "https://cms-assets.youmind.com/media/1777884785814_0z1aax_HHY6pPSaAAAdq2K.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18090,
+    "content": "Draw a student doodling on the attached photo. The handwriting should be messy and crude, with a rough and disorganized script. Draw doodles on the person's face, along with clumsy and poor sketches.",
+    "title": "Textbook Doodle Drawing Effect",
+    "description": "A viral prompt for GPT Image 2 that creates a nostalgic textbook doodle effect by adding messy, hand-drawn scribbles and rough sketches onto an existing photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884784980_s7h4le_HHYJANFaMAAQ9Eh.jpg",
+      "https://cms-assets.youmind.com/media/1777884784898_dlv328_HHYJCzPaQAAUnsF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18088,
+    "content": "A magnificent style that reaches the pinnacle of Rimpa decorativeness. Bold use of gold and silver clouds, with flowing patterns of water and flowers. Emphasizes flat, decorative beauty. Vivid colors with gold and silver foil expressions. Faithfully maintains the composition and characters of the original illustration.",
+    "title": "Rimpa Style Decorative Art",
+    "description": "A prompt to apply the ornate Rimpa school aesthetic to an image, featuring gold and silver clouds, flowing flower patterns, and flat decorative beauty while maintaining original character composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884782517_7cab5k_HHX-NnWaYAACXnw.jpg",
+      "https://cms-assets.youmind.com/media/1777884782538_ei6npk_HHX-OKkbAAEUVRr.jpg",
+      "https://cms-assets.youmind.com/media/1777884782587_ncj53y_HHX-OzvaIAAtCTk.jpg",
+      "https://cms-assets.youmind.com/media/1777884783272_gfgf0u_HHX-PVJbgAAe81B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18099,
+    "content": "Create a dark, cinematic surreal photo-illustration of a person in left profile, mostly hidden in shadow, exhaling a long horizontal plume of smoke across the frame. The upper-left face area is obscured by a large flat opaque rectangle in {argument name=\"censor block color\" default=\"dark warm brown\"}, covering the eyes and upper face like an intentional privacy mask. The subject has {argument name=\"hair color\" default=\"dark brown\"} loose hair strands visible near the neck and jaw, with only the lower cheek, neck, and hair edge softly lit. The smoke is the main focus: dense, translucent, swirling gray-beige vapor stretching from the mouth toward the right side, with delicate turbulent curls and layered mist. Inside the smoke, embed a faint dreamlike miniature memory scene: silhouettes of people sitting together, a child or rider on a bicycle, trees, and a distant suburban house, all ghostly and semi-transparent as if formed from smoke. The background is an out-of-focus dim interior with vertical curtain or window shapes in muted olive, charcoal, and brown tones, with a narrow cool beam of light falling from above near the center-right. Use moody low-key lighting, shallow depth of field, soft grain, realistic smoke simulation, muted sepia color grading, and a contemplative atmosphere suggesting memories leaving the body as breath. Landscape composition, 3:2 aspect ratio, no readable text.",
+    "title": "Smoke Memory Portrait",
+    "description": "A moody surreal portrait of a shadowed person exhaling smoke that contains a faint miniature memory scene, useful for cinematic conceptual art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884790110_ep6pq0_HHXIIEEa8AACpyA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18095,
+    "content": "Redraw the attached image in the most {argument name=\"style\" default=\"clumsy, scribbly, and utterly pathetic way possible\"}. Use a {argument name=\"background\" default=\"white background\"}, and make it look like it was drawn in {argument name=\"tool\" default=\"MS Paint\"} with a mouse. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.",
+    "title": "Clumsy MS Paint Mouse Redraw",
+    "description": "A humorous prompt to redraw a reference image in a deliberately low-quality, scribbly MS Paint style as if drawn with a computer mouse.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884788477_3nn4z6_HHWliaTbEAAo-hf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 17891,
     "content": "Create a grand romantic realist oil painting of an alpine wilderness at {argument name=\"time of day\" default=\"golden sunset\"}, with a vast calm mountain lake in the foreground reflecting the sky, pine forests, rocky shores, and towering snow-covered peaks. The central peak is majestic and sharply lit with warm orange sunlight, surrounded by rugged cliffs and distant glaciers fading into atmospheric mist. The sun sits low near the right horizon, casting glowing amber light across the water and illuminating scattered clouds in a dramatic blue-and-gold sky. Dense evergreen trees frame both sides of the composition, especially a dark forest wall on the right and steep rocky cliffs on the left. Add subtle details: mist rising from the lake, scattered foreground rocks and driftwood, warm reflections rippling on the water, and exactly 2 deer standing near the right shoreline. Use {argument name=\"painting style\" default=\"19th-century Hudson River School romantic landscape\"}, highly detailed brushwork, luminous atmosphere, epic scale, serene mood, rich warm color palette, naturalistic lighting, no text, no borders.",
     "title": "Sunset Alpine Lake Oil Painting",

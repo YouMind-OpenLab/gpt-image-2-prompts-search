@@ -1,5 +1,287 @@
 [
   {
+    "id": 18035,
+    "content": "Use the original face from the reference photo. Background same as the photo. Warm, soft, clean lighting with soft shadows. Surround it with several {argument name=\"style\" default=\"3D cute style mini chibi versions\"} of themselves, keeping the original facial features. The chibi characters have various poses and expressions: cheerful jumping, waving, sitting casually holding a drink, and cute/playful expressions.\u0010 Add white hand-drawn style doodle elements: outlines around the main body, stars, hearts, sparkles, and motion lines. Add aesthetic handwriting text like: {argument name=\"text\" default=\"'shine', 'bright day', 'happy', 'smile'\"}, etc. (casual doodle font). Overall style: clean & aesthetic composition, white sticker outline, soft pastel color tone, high detail 3D chibi, glossy look, cute Korean style, instagramable\u0010",
+    "title": "3D Chibi Sticker Doodle Art",
+    "description": "Transforms a portrait into a cute Korean-style 3D chibi illustration with playful doodle elements and stickers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884752510_gyix9b_HHdb4sUaIAAHAZG.jpg",
+      "https://cms-assets.youmind.com/media/1777884752457_ykbk77_HHdb4sMawAAPyUJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18152,
+    "content": "Using the provided reference image, regenerate the same composition as a soft modern watercolor illustration. Preserve the subject’s pose, outfit, proportions, cropped face anonymization, and office-window setting, but reinterpret everything with translucent washes, loose edges, granulating paper texture, muted warm beige lighting, gentle color bleeding, and lightly suggested background details instead of photorealism. Keep the image square and maintain the same overall framing.",
+    "title": "Reference Photo to Soft Watercolor",
+    "description": "Transforms a provided portrait-style reference photo into a loose, translucent watercolor illustration while preserving the original pose and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884818945_4e6vhb_HHbSzpna0AAExxO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18031,
+    "content": "3D avatar of a {argument name=\"subject\" default=\"man\"}, with a {argument name=\"expression\" default=\"happy face\"} on a white background, no necks. Conceptual playlist style digital art with {argument name=\"style\" default=\"Pixar quality aesthetics\"}",
+    "title": "Pixar Style 3D Man Avatar",
+    "description": "A simple prompt for creating 3D character avatars in a Pixar-like aesthetic, suitable for profile pictures or interface icons.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884750490_chs891_HHadBvMa0AA22WW.jpg",
+      "https://cms-assets.youmind.com/media/1777884750486_nt9irs_HHadCWyawAAN8eL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18038,
+    "content": "Create an image\\nI'm sharing a screenshot of my real X (Twitter) profile. Recreate this as a beautiful hand-drawn colored pencil doodle illustration on white paper — same layout, same username {argument name=\"username\" default=\"OzairAI\"}, same follower counts, same pinned tweet content — but transform everything into cute doodle art style.\\nStyle upgrades to add:\\n— Profile picture: redraw as a chibi anime-style character with same face.\\n— Banner: exactly same but drawn\\n— Scatter cute AI-themed doodle stickers around the phone frame: tiny robots, circuit hearts, lightning bolts, pixel stars, glowing chat bubbles\\n— Some stickers should break out of the phone border for a 3D pop-out illusion\\n— Bio and tweets: keep same text but render in cute handwritten font style\\n— Color palette: soft lavender, electric blue, warm gold, mint green\\nVertical 9:13 format. Ultra photorealistic colored pencil texture, 8K, no extra text overlays, cinematic color grading.",
+    "title": "Twitter Profile Doodle Art Transformation",
+    "description": "Converts a Twitter profile screenshot into a beautiful hand-drawn colored pencil doodle with a cute anime-style avatar.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884753631_sztyfu_HHZtN15aMAAj-mW.jpg",
+      "https://cms-assets.youmind.com/media/1777884753603_aexbns_HHZtN49bAAEVk4Y.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18235,
+    "content": "Create a full-body anime-style character illustration on a plain white background, showing a tall, slim young Black man with dark brown skin standing in a relaxed streetwear pose, head slightly tilted, shoulders loose, and both hands tucked into his pants pockets. His face is intentionally obscured by a centered square blur/censor block with a soft brown-to-white gradient, while short high-top black hair and one visible ear remain partly visible. He wears an oversized {argument name=\"sweatshirt color\" default=\"warm brown\"} crewneck sweatshirt with loose sleeves and wrinkled fabric, layered over a slightly visible off-white undershirt at the hem. Around his neck are two thin gold chains, one with a small {argument name=\"pendant shape\" default=\"Africa-shaped pendant\"}. He wears baggy {argument name=\"pants color\" default=\"deep purple\"} track pants with a single bold white side stripe on each leg, gathered at the ankles, plus cream and purple high-top sneakers with dark laces and chunky soles. Use clean manga/anime line art, muted colors, subtle cel shading, expressive clothing folds, long proportions, and a fashion character design feel, with the figure centered vertically and no props or background details.",
+    "title": "Anime Streetwear Character",
+    "description": "Generates a clean full-body anime streetwear character illustration suitable for fashion concepts, avatars, or character design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884863305_nmm98r_HHZkXF8WEAA5qfV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18074,
+    "content": "These are photos of me in different scenes. Please generate social media avatars for me based on these photos. Requirements: real person, {argument name=\"hairstyle\" default=\"short hair\"}, no glasses, looking energetic and capable. The background should ideally be {argument name=\"background\" default=\"a solid color with a slight gradient\"}.",
+    "title": "Clean Professional Social Media Avatar",
+    "description": "Creates a polished and professional social media profile picture based on user photos, focusing on a clean, competent look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884775591_75yojq_HHZawZhbcAAqA69.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18127,
+    "content": "Using REFERENCE_0 as the subject and pose reference, transform the photo into an intentionally crude hand-drawn digital doodle, like a simple MS Paint/cartoon trace made with thick uneven black lines, flat colors, minimal shading, and a plain white background. Preserve the same upper-body framing, twin braided pigtail pose with both hands holding the braids, black sleeveless top, burgundy choker with small silver charm, arm tattoo, pink nails, and the seven visible white loop hair accessories: top-left loop, forehead loop, right-top loop, and four loops down the right braid. Replace the obscured face with a playful cartoon face: oversized angular wraparound sunglasses, closed smiling eyes, open mouth, and tongue sticking out. Remove the concrete wall and street background completely. Make the result look deliberately imperfect, loose, funny, and hand-drawn rather than polished.",
+    "title": "Crude MS Paint Photo Doodle",
+    "description": "Transforms a reference photo into a funny hand-drawn doodle while preserving the subject’s pose, outfit, and key accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884804779_ln98d5_HHZUrFZW8AAcemY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18047,
+    "content": "Use my uploaded image as the exact face reference. Preserve facial features, skin tone, and identity with high accuracy. Create a highly stylized, minimalist portrait inspired by a playing card concept. The subject is sitting at a glass table, hands gently folded, looking directly at the camera with a calm, confident, slightly cold expression. Outfit: {argument name=\"outfit description\" default=\"tailored deep red suit jacket, white shirt, red tie, clean and sharp fashion styling\"}. Hair: long, straight, smooth, centered part (adjust to match my face naturally if needed). Scene: {argument name=\"background\" default=\"soft beige background, clean and minimal with no distractions\"}. Composition: perfectly symmetrical, centered framing. A clear mirror reflection of the subject is visible on the glass table, creating a vertical flip effect like a playing card. Add subtle “Ace of Spades” symbols in opposite corners (top left and bottom right), elegant and minimal. Lighting: soft, diffused studio lighting, high-end fashion editorial style, smooth shadows, ultra clean. Style: cinematic, luxury fashion photography, ultra-realistic, sharp focus, 8k detail. Avoid distortion, keep anatomy natural, especially hands and face. Add a subtle surreal touch: the reflection has a slightly different expression (more intense or mysterious), while the real face stays calm. Keep it realistic, not horror.",
+    "title": "Symmetrical Playing Card Mirror Portrait",
+    "description": "A creative photography prompt that mimics the design of a playing card by using a mirror reflection to create a symmetrical, flipped effect. It works best with an uploaded reference image to preserve facial identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884757643_lm6r2o_HHZCrdhbUAARjL9.jpg",
+      "https://cms-assets.youmind.com/media/1777884756777_gtcehf_HHZCrgrbcAASC_v.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18149,
+    "content": "Create a realistic vertical portrait photograph of a {argument name=\"subject\" default=\"young adult woman\"} standing indoors in an ornate vintage European room, viewed from behind and slightly in profile as she looks toward a bright window on the right. She has very long, flowing {argument name=\"hair color\" default=\"pale blonde\"} wavy hair cascading down her back to her waist, softly backlit with delicate highlights. She wears a {argument name=\"dress color\" default=\"deep navy blue\"} sleeveless classic Lolita-style dress with thin shoulder straps, a fitted bodice, a full knee-length gathered skirt, a ruffled hem, and white lace ruffle trim across the chest, with a dark ribbon or lace choker at the neck. Her visible face is completely covered by a flat rectangular beige skin-tone censor/glitch block centered over the head, with sharp straight edges and no facial features visible. The room contains sheer cream lace curtains glowing in daylight, a tall white-framed window, an ornate carved wooden dresser on the left, a vase of white flowers, a dark framed antique painting or mirror behind it, and a beige brocade upholstered armchair on the right. Use soft natural window light, shallow depth of field, warm muted colors, elegant romantic atmosphere, realistic fabric texture, detailed hair strands, 3:4 composition, high-resolution fashion editorial style.",
+    "title": "Vintage Lolita Portrait With Face Glitch",
+    "description": "Generates a realistic back-view portrait of a blonde woman in a navy Lolita dress inside an ornate vintage room, including a square face-obscuring artifact.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884817624_lretzp_HHZBaGYagAAjIQI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18069,
+    "content": "ChatGPT, you've been with me for a while, and I want to see what you look like. Please generate a photo similar to an iPhone snapshot: no clear subject, no deliberate composition, just a very ordinary, even slightly failed snapshot. The photo should have slight motion blur, uneven lighting, slight overexposure, an awkward angle, and chaotic composition, presenting an overall 'too real' feeling of a casual snap, as if you accidentally pressed the shutter while taking your phone out of your pocket.",
+    "title": "Realistic Accidental Selfie Persona",
+    "description": "Generates a realistic, candid 'accidental selfie' persona for ChatGPT, featuring motion blur and uneven lighting for a genuine handheld look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884772682_syqtcu_HHY-O8MbgAAmt14.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18109,
+    "content": "Create a cinematic vertical portrait of a confident male tech entrepreneur seated at a dark desk in a modern studio office, centered in the frame from mid-torso up. He wears a textured {argument name=\"blazer color\" default=\"charcoal gray\"} blazer over a black button-up shirt, with neatly slicked-back black hair, hands clasped around a smartphone at the bottom center. The face area should be covered by a plain rectangular skin-tone placeholder block, as if reserved for a face-swap or uploaded portrait. The background is a moody black shelving wall with teal cyan LED strip lights: one long horizontal light behind the head, another on a left shelf, and two on the right shelves. Include visible studio props on the shelves: one large podcast microphone on the upper left, one camera on the middle left, one camera lens on the lower left, a camera and small plant on the upper right, two awards/trophies on the middle right, and a small metallic desk object on the lower right. Use dramatic low-key lighting, teal rim light, realistic shadows, glossy highlights, shallow depth of field, premium corporate branding aesthetic, ultra-realistic photography, sharp focus on the suit and hands. Add a bold glowing name title in the lower-right corner reading {argument name=\"name text\" default=\"DILSHAD\\nHUSSAIN\"}, in large condensed white uppercase sans-serif letters with a cyan neon glow, thin cyan horizontal line above and below the text, and a small triangular accent under the lower line. Aspect ratio 9:16, high resolution, social-media poster style.",
+    "title": "Cinematic Tech Entrepreneur Portrait",
+    "description": "Generates a dramatic vertical executive portrait poster with teal studio lighting, tech props, and a customizable glowing name title.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884796478_g2z2oi_HHYz1HVa4AAowKz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18083,
+    "content": "Generate a high-speed image of this character crying tears of joy while expressing immense gratitude and absolute emotional collapse in response to unexpected photos or video of their favorite idol. However, do not draw the idol themselves. This is an image of 9 stamp variations centered on the feeling of \"{argument name=\"emotion\" default=\"precious\"}\" drawn on a single white background. Note that the word \"{argument name=\"text\" default=\"precious\"}\" itself should only be written on one of the nine. Also, include at least one stamp among the nine that conveys \"being moved to the point of speechlessness.\" Each of the nine should be for a different use or situation.",
+    "title": "Fan Reaction Sticker Set",
+    "description": "Generates a 3x3 grid of reaction stickers for a character experiencing extreme emotional bliss and tears after seeing their favorite idol.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884780460_d64yc3_HHYwyQjaIAA3FWs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18185,
+    "content": "Create a highly detailed vertical anime-style luxury portrait of an elegant gothic blonde woman in an opulent art-deco bar or cathedral-like lounge with black-and-gold arches and warm candlelike lights in the background. She has very long flowing {argument name=\"hair color\" default=\"platinum blonde\"} hair, black sunglasses resting on top of her head, an ornate black rose hair accessory with ribbons on the right side, and dangling black-and-red gemstone earrings. Her face is intentionally covered by a large centered opaque square censor block in muted taupe beige. She raises a tall wine glass filled with deep red sangria or red wine, garnished with an orange slice and small red berries, held delicately with glossy red manicured nails. Dress her in a dramatic glossy black latex gothic outfit: sleeveless fitted corset bodice with high shine reflections, vertical black-and-white striped front panel, gold trim, small gold buttons, belts and ornate clasps at the waist, a black ribbon choker with gold pendant, and separate puffed black off-shoulder sleeves with ruffled cuffs, gold chain accents, and black rose decorations. Emphasize a glamorous mature feminine silhouette, polished skin highlights, intricate accessories, dark romantic fashion, rich gold detailing, cinematic lighting, shallow depth of field, crisp linework, high contrast, luxurious atmosphere, and ultra-detailed anime illustration quality. Use a portrait composition, close upper-body framing, with the wine glass near the upper left and the character turned slightly to the side.",
+    "title": "Gothic Blonde Wine Portrait",
+    "description": "Generates a glamorous vertical anime portrait of a gothic blonde woman holding red wine in a luxurious black-and-gold setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884835794_jn621s_HHYv1xnbsAEQP98.jpg",
+      "https://cms-assets.youmind.com/media/1777884836889_qzgt3a_HHYv6J2aYAA8LWZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18183,
+    "content": "Create a vertical 9:16 romantic fantasy anime illustration of an elegant anthropomorphic bunny girl in a sunlit Victorian conservatory. She is seated gracefully in three-quarter view, with long wavy {argument name=\"hair color\" default=\"pale blush pink\"} hair, tall soft rabbit ears, a fluffy white rabbit tail, fair luminous skin, and a large opaque dusty-rose square censor block covering the entire face area. She wears an ornate {argument name=\"dress color\" default=\"ivory white\"} lace corset dress with a sweetheart neckline, delicate embroidered floral patterns, a fitted bodice, flowing skirt, off-shoulder puff sleeves, lace wrist cuffs, white gloves, a frilled choker, and a small gold pendant chain. The setting is filled with arched glass windows, warm morning sunlight, soft pink flowering trees visible outside, bouquets of pale pink and white flowers in vases, scattered blossoms in the foreground, and a small tiered tea tray with pastries and teacups on the right. Use dreamy pastel colors, glowing backlight, delicate rim lighting, soft bloom, highly detailed fabric folds, lace texture, translucent petals, elegant fantasy romance mood, polished anime art style, ultra-detailed digital painting, shallow depth of field, no text.",
+    "title": "Pastel Bunny Girl Conservatory Portrait",
+    "description": "Generates a romantic vertical anime portrait of a lace-dressed bunny girl in a flower-filled sunlit conservatory for fantasy character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884835873_5maalt_HHYv34SaIAAizxi.jpg",
+      "https://cms-assets.youmind.com/media/1777884835994_fh45o7_HHYv6J7aoAAgdQh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18062,
+    "content": "Create a realistic, vertical 3:4 portrait of {argument name=\"subject\" default=\"a top-tier Japanese idol, stunning and adorable\"}, singing on {argument name=\"setting\" default=\"a grand concert stage\"}, her face radiating pure joy.",
+    "title": "Japanese Idol Concert Portrait",
+    "description": "A realistic portrait prompt for generating a stunning Japanese idol performing on a grand stage, focused on joy and vibrant concert lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884766496_8gedu4_HHYttTPbUAAnfWF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18205,
+    "content": "Create a realistic vertical smartphone-style portrait photo of an adult female track athlete standing front-facing against a plain gray concrete wall with visible panel seams, small circular form-tie holes, and subtle weathered texture. She has a soft, curvy athletic build and fair skin, with her arms held behind her back and shoulders relaxed, cropped from the top of the head to mid-thigh. Her hair is {argument name=\"hair color\" default=\"muted purple\"}, tied back loosely with a few strands around the ears. Her face is intentionally covered by a centered opaque rectangular censor block in a skin-toned mauve color, hiding all facial features. She wears a glossy {argument name=\"uniform color\" default=\"purple\"} two-piece track-and-field racing uniform: a racerback sports crop top and matching briefs, both with metallic silver-gray side panels, thin white curved piping, and small white swoosh-like athletic logos on the chest and hip. The pose is neutral and documentary-like, evenly lit by soft outdoor daylight, with realistic skin texture, fabric wrinkles, slight shadows under the arms and torso, and natural perspective. Use a clean candid sports portrait aesthetic, high-resolution photorealism, shallow but not blurry depth of field, no text, no extra people, no props.",
+    "title": "Censored Track Athlete Portrait",
+    "description": "Generates a photorealistic vertical portrait of an adult female track athlete in a purple racing uniform against a concrete wall for sports-body-type comparison visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884847178_lsfi7o_HHYJSx4bQAA9Tg_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18049,
+    "content": "A highly realistic split-time portrait of the same person meeting her younger self. The image is divided vertically into two perfectly aligned halves with identical camera angle and composition. On the left side: a black-and-white photo of a {argument name=\"child subject\" default=\"young girl (3–4 years old)\"}, same facial features as the adult, natural smile, sitting at a table, soft diffused lighting, minimal gray background, nostalgic mood, slightly grainy film texture. On the right side: a realistic color photo of the same person as an adult {argument name=\"adult age\" default=\"[AGE]\"}, identical pose and camera angle, resting her face on her hands, smiling warmly, modern outfit, soft cinematic lighting, shallow depth of field. In the center between them: a birthday cake placed exactly at the middle line, with lit candles forming the number \"{argument name=\"birthday number\" default=\"[AGE]\"}\", warm candle glow illuminating both sides. Both versions are looking at each other with emotional connection, perfectly aligned eye level. Text \"(2000)\" above the child side and \"(2026)\" above the adult side, minimal elegant font. Ultra realistic, 8K, high detail skin texture, soft shadows, cinematic color grading, clean composition, emotional storytelling.",
+    "title": "Split-Time Birthday Portrait",
+    "description": "A nostalgia-filled split-screen prompt that aligns a child's photo and an adult's photo of the same person, connected by a central birthday cake.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884758752_331rxf_HHYHRwQbkAAR80Z.jpg",
+      "https://cms-assets.youmind.com/media/1777884758743_7bqdse_HHYHRwRbEAApsZX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18112,
+    "content": "{\"type\":\"3D surreal Google services portrait poster\",\"style\":\"clean white-background commercial 3D render, glossy plastic icons, realistic studio lighting, soft shadows, floating depth, high-detail advertising composition\",\"main_subject\":{\"description\":\"a floating oversized playing card tilted slightly backward, used as a vertical portrait frame\",\"card_details\":{\"top_left\":\"black K with black spade symbol\",\"bottom_right\":\"black spade symbol with black K, rotated upside down\",\"surface\":\"matte white paper texture with rounded corners and subtle thickness\"},\"portrait\":{\"person\":\"front-facing professional man from chest up wearing a navy business suit, white shirt, and black tie\",\"face\":\"covered by a centered opaque rectangular blur/mask in medium warm brown, hiding all facial features\",\"hair\":\"dark neatly styled hair visible above the mask\",\"frame\":\"thin rounded blue rectangular outline around the portrait\"}},\"visible_text\":{\"google_wordmark\":\"Google\",\"search_bar\":\"Search Google or type a URL\",\"signature\":\"Design by\\nMr.Tariq\"},\"custom_parameters\":{\"headline brand text\":\"{argument name=\\\"headline brand text\\\" default=\\\"Google\\\"}\",\"search bar text\":\"{argument name=\\\"search bar text\\\" default=\\\"Search Google or type a URL\\\"}\",\"signature text\":\"{argument name=\\\"signature text\\\" default=\\\"Design by Mr.Tariq\\\"}\",\"suit color\":\"{argument name=\\\"suit color\\\" default=\\\"navy blue\\\"}\",\"face mask color\":\"{argument name=\\\"face mask color\\\" default=\\\"medium warm brown\\\"}\"},\"layout\":{\"centerpiece\":\"portrait framed inside the playing card, occupying the central vertical area\",\"top\":\"large colorful Google wordmark floating above the person's head, casting small shadows\",\"middle\":\"Google ecosystem icons burst outward around the portrait in layered 3D perspective\",\"bottom\":\"rounded Google search bar floating across the chest area, with small Google G icon on the left and microphone icon on the right\",\"background\":\"pure white empty studio background with faint floor shadow below the floating card\"},\"discrete_elements_count\":{\"major_google_service_icons\":11,\"major_google_service_icons_list\":[\"Chrome logo sphere on the left\", \"Google Assistant microphone icon inside a white circular badge on the left\", \"Gmail white envelope with red M on the upper right\", \"Google Drive triangular icon floating upper right\", \"Google Maps red location pin lower left\", \"large multicolor Google G lower right\", \"Google Calendar blue tile showing 31 on the right\", \"YouTube red rounded rectangle play button near bottom center\", \"Google Docs blue document icon at bottom\", \"Google Slides yellow document icon at bottom\", \"Google Sheets green document icon at bottom right\"],\"playing_card_corner_markings\":4,\"playing_card_corner_markings_list\":[\"top-left K\", \"top-left spade\", \"bottom-right spade\", \"bottom-right K\"],\"search_bar_components\":3,\"search_bar_components_list\":[\"Google G icon\", \"search text\", \"microphone icon\"],\"small_decorative_objects\":\"many small red, blue, yellow, green and white spheres, capsules, rods, and streak lines radiating outward; do not make them readable labels\"},\"composition_instructions\":\"Create a polished, high-resolution vertical poster. Make the card appear to hover with a soft gray shadow beneath it. Use strong depth layering so icons protrude from the card and surround the portrait. Keep all logos crisp, colorful, and toy-like with beveled edges. Preserve the central face-obscuring rectangle exactly, while keeping hair, ears, suit, and tie visible. Avoid cluttering the background; all action should be concentrated around the floating card.\"}",
+    "title": "Floating Google Services Portrait Poster",
+    "description": "Generates a glossy 3D vertical poster of a masked business portrait embedded in a playing card surrounded by Google app icons.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884798093_z2tfc8_HHYEi6GbIAA7bnc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18229,
+    "content": "{\"type\":\"LINE sticker sheet, 4 by 4 grid\",\"style\":\"cute pixel-art / crisp sticker illustration, white background, thin light-gray grid lines, thick white sticker outlines, colorful Japanese bubble lettering with dark outline, small decorative emotion marks, consistent adorable small tan puppy character in every cell\",\"subject\":{\"character\":\"{argument name=\\\"character name\\\" default=\\\"small tan floppy-eared puppy\\\"}\",\"breed_look\":\"toy poodle or maltipoo-like puppy, round black eyes, small black nose, cream muzzle and chest blaze, fluffy golden-brown fur, floppy ears\",\"accessory\":\"green collar appears on the walking sticker only\",\"overall_mood\":\"friendly, expressive, usable as chat stickers\"},\"layout\":{\"canvas\":\"square sticker-sheet preview, 16 equal panels arranged in 4 columns and 4 rows\",\"panel_count\":16,\"sections\":[{\"position\":\"row 1 column 1\",\"label\":\"{argument name=\\\"sticker text 1\\\" default=\\\"まだ？\\\"}\",\"description\":\"puppy sitting facing forward with a curious waiting expression, pink emphasis marks around the text\"},{\"position\":\"row 1 column 2\",\"label\":\"むむむ…\",\"description\":\"puppy sitting with one paw near its mouth, thinking or pondering, blue text\"},{\"position\":\"row 1 column 3\",\"label\":\"はいー\",\"description\":\"puppy sitting and raising one paw in greeting or answering, orange text and orange attention marks\"},{\"position\":\"row 1 column 4\",\"label\":\"散歩中\",\"description\":\"puppy walking to the right with a green collar, musical note and green motion marks\"},{\"position\":\"row 2 column 1\",\"label\":\"カリカリ食べたい\",\"description\":\"puppy beside a bowl filled with kibble, small pink hearts\"},{\"position\":\"row 2 column 2\",\"label\":\"{argument name=\\\"sticker text 2\\\" default=\\\"ありがとう\\\"}\",\"description\":\"puppy sitting with eyes closed and paws together in gratitude, surrounded by pink hearts and sparkles\"},{\"position\":\"row 2 column 3\",\"label\":\"おつかれです\",\"description\":\"puppy lying flat on the floor looking tired, blue text\"},{\"position\":\"row 2 column 4\",\"label\":\"よろしくです\",\"description\":\"puppy bowing politely with eyes closed, pink emphasis marks\"},{\"position\":\"row 3 column 1\",\"label\":\"なるほど\",\"description\":\"puppy sitting with mouth slightly open beside a glowing light bulb, green and yellow emphasis marks\"},{\"position\":\"row 3 column 2\",\"label\":\"none\",\"description\":\"puppy sitting sternly with angry eyebrows, a red anger mark near the head and a small puff of steam\"},{\"position\":\"row 3 column 3\",\"label\":\"none\",\"description\":\"puppy sitting and crying hard with large blue tears and a puddle under its face\"},{\"position\":\"row 3 column 4\",\"label\":\"none\",\"description\":\"puppy sitting with one eye winking, mouth open laughing, orange laughter marks\"},{\"position\":\"row 4 column 1\",\"label\":\"none\",\"description\":\"puppy lying down with head and paws stretched forward, sad or resting expression\"},{\"position\":\"row 4 column 2\",\"label\":\"none\",\"description\":\"puppy hiding under a wooden table or kotatsu with only face and front paws visible, beige cloth above and brown wooden floor\"},{\"position\":\"row 4 column 3\",\"label\":\"none\",\"description\":\"puppy running happily to the right, ears blown back, small dust puff and shadow under the body\"},{\"position\":\"row 4 column 4\",\"label\":\"none\",\"description\":\"puppy sitting neutrally facing forward as a simple base sticker\"}]},\"text_treatment\":{\"language\":\"Japanese\",\"font\":\"rounded bold pop lettering, white fill highlights, colored fill and thick dark outline\",\"main_colors\":[\"pink\",\"blue\",\"orange\",\"green\",\"purple\"]},\"rendering\":\"high-resolution clean pixel-art look, transparent-sticker feel on white sheet, no photorealism, no extra characters, keep each panel centered and readable\"}",
+    "title": "Cute Puppy LINE Sticker Grid",
+    "description": "Generates a 16-panel Japanese LINE sticker sheet featuring one expressive tan puppy in varied chat reactions and poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884860294_jiucgj_HHX9CsUbMAAvFdn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18139,
+    "content": "{\"type\":\"cute chibi scrapbook portrait collage\",\"format\":\"vertical social media cover, 3:4 aspect ratio\",\"main_subject\":{\"description\":\"a realistic close-up studio portrait of a young man centered in the image, face covered by a soft square privacy blur, thick tousled black hair, slim neck, wearing a black blazer over a black crew-neck shirt\",\"hair_color\":\"{argument name=\\\"hair color\\\" default=\\\"black\\\"}\",\"outfit\":\"{argument name=\\\"outfit\\\" default=\\\"black blazer over black shirt\\\"}\",\"face_treatment\":\"{argument name=\\\"face treatment\\\" default=\\\"soft square privacy blur over the face\\\"}\"},\"background\":{\"color\":\"light warm gray\",\"style\":\"clean photo backdrop filled with pastel hand-drawn doodles, white sticker outlines, pink underline strokes, hearts, sparkles, smiley faces, tiny drink cup icons, and cloud speech bubbles\"},\"layout\":{\"centerpiece\":\"large realistic portrait fills the middle from hair to chest, with chibi stickers arranged around the head and shoulders\",\"chibi_stickers\":{\"count\":8,\"style\":\"Q-version mini-me stickers based on the same young man, oversized head, black fluffy hair, black outfit, soft blurred face, thick white cutout border, cute glossy scrapbook sticker look\",\"items\":[{\"position\":\"upper left\",\"description\":\"chibi pointing forward with one finger, wearing black shirt\"},{\"position\":\"upper right\",\"description\":\"chibi holding a takeaway coffee cup, wearing a black backpack and headphones around the neck\"},{\"position\":\"middle left\",\"description\":\"sleepy chibi leaning on folded arms on a small desk or ledge\"},{\"position\":\"middle right\",\"description\":\"chibi reading an open dark blue book\"},{\"position\":\"lower left\",\"description\":\"chibi typing on a silver laptop with a white apple-like logo\"},{\"position\":\"right center\",\"description\":\"chibi holding both hands near cheeks in a shy or excited pose\"},{\"position\":\"bottom center-left\",\"description\":\"standing chibi with backpack strap, waving one hand\"},{\"position\":\"bottom right\",\"description\":\"chibi drinking from a small bottle or cup\"}]},\"handwritten_text_groups\":{\"count\":9,\"text\":\"{argument name=\\\"handwritten phrases\\\" default=\\\"保持热爱 奔赴山海; 元气满满!; 生活明朗 万物可爱; 今日份 开心; 努力成为 更好的自己; 记录 美好瞬间; 加油鸭!; nice day; 多喝水~~\\\"}\",\"style\":\"casual white and pink handwritten marker lettering with pink underline accents and speech bubbles\"}},\"color_palette\":\"black clothing, warm gray background, white sticker borders, pastel pink highlights, pale yellow sparkle accents\",\"rendering_style\":\"hybrid realistic portrait plus cute illustrated chibi stickers, soft lighting, high-resolution, playful social-media scrapbook composition, clean edges, charming and upbeat mood\"}",
+    "title": "Chibi Mini-Me Scrapbook Portrait",
+    "description": "Generates a playful vertical social media portrait collage with one realistic central person and eight cute chibi sticker versions surrounded by handwritten doodles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884812237_xqtbhr_HHX6e31bUAAPGSt.jpg",
+      "https://cms-assets.youmind.com/media/1777884812282_mzb1w8_HHX6e32agAAMOkL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18171,
+    "content": "Create a highly detailed vertical anime illustration of {argument name=\"character name\" default=\"an Alice in Wonderland inspired gothic lolita girl\"} seated on a clean white background, shown in a dramatic three-quarter pose with her face intentionally covered by a centered opaque square censor block in muted beige-pink. She has very long flowing {argument name=\"hair color\" default=\"pale blonde\"} hair with soft curls and loose strands, decorated with black and navy bows, lace headband details, and a red rose hair ornament. Dress her in an ornate {argument name=\"dress color\" default=\"blue, black, and white\"} frilled lolita dress with puff sleeves, layered ruffles, black corset lacing, gold embroidery, heart motifs, a blue gemstone bow at the collar, and a flared skirt lifted by the seated pose. Add Alice-themed accessories: a gold pocket watch hanging at her waist, a wristwatch over a white ruffled cuff, striped black-and-white thigh-high stockings, black garters, and small bow accents. She sits with one hand extended toward the viewer in the foreground, knees bent outward, creating strong depth and foreshortening. Surround her with {argument name=\"floating symbols\" default=\"playing-card suits, blue spades, red hearts, diamond icons, tiny stars, confetti, and geometric card fragments\"}, plus red roses and scattered heart-shaped petals near the floor. Use polished modern anime rendering with crisp line art, glossy highlights, intricate fabric folds, luminous pastel lighting, high saturation blue-black contrast, elegant fantasy details, and a clean studio-white background.",
+    "title": "Gothic Alice Anime Portrait",
+    "description": "Generates a detailed vertical anime illustration of an Alice-inspired gothic lolita girl with ornate costume details, roses, card symbols, and a censored face block.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884830008_l92xvr_HHX2IL1bkAA7Ans.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18140,
+    "content": "Create a candid front-facing smartphone selfie of {argument name=\"subject\" default=\"a young Asian woman\"} sitting on an unmade bed in a dim bedroom at night, framed from the upper thighs to just above the head with one arm extended toward the camera. She has long dark slightly messy hair falling over her shoulders, a slim build, bare shoulders, a fitted white camisole tank top, light denim jeans, and a delicate short pearl or bead necklace. Her face is intentionally covered by a large centered opaque square privacy block in a soft brown skin-tone gradient, obscuring all facial features. The scene feels like an ordinary imperfect iPhone front-camera snapshot sent casually before sleep: no deliberate composition, slight motion blur, low contrast, visible grain, soft uneven warm bedside lighting, mild highlight bloom, and authentic social-media realism. Background includes beige pillows and sheets, a wooden headboard on the left, a plain wall corner, dark curtains on the right, and a warm lamp glow behind her; vertical portrait orientation, realistic photography, muted colors, intimate bedroom atmosphere.",
+    "title": "Censored Night Bedroom Selfie",
+    "description": "Generates a realistic imperfect nighttime bedroom selfie with a privacy-obscured face, useful for casual social-media style portrait concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884811298_3lqc8o_HHX07x4boAAPo2I.jpg",
+      "https://cms-assets.youmind.com/media/1777884811263_hpodje_HHX07x6awAAiPCV.jpg",
+      "https://cms-assets.youmind.com/media/1777884811300_slsj78_HHX07x5awAAAFhU.jpg",
+      "https://cms-assets.youmind.com/media/1777884812460_0wxipm_HHX07x2b0AALOvs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18093,
+    "content": "Transform the reference image into a {argument name=\"style\" default=\"cozy scrapbook-style edit\"} while preserving the same subject, pose, lighting, and background. Add small {argument name=\"miniature style\" default=\"chibi mini versions\"} of the person around the scene (on shoulder, table, etc.), matching face, outfit, and vibe, doing activities like reading, posing, taking photos, relaxing. Overlay cute handwritten doodles (hearts, stars, arrows, sparkles) and short captions. Use a {argument name=\"color palette\" default=\"soft pastel palette (white, pink, peach, blue)\"} with a clean but visually rich layout.\nStyle: warm, dreamy, cozy Instagram aesthetic, soft depth of field, detailed and playful.\nFinal image must look like the same original photo enhanced not changed.",
+    "title": "Cozy Scrapbook Photo Transformation",
+    "description": "A creative prompt to turn a reference portrait into a dreamy scrapbook-style edit featuring doodles, pastel colors, and miniature versions of the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884786385_rchnj8_HHXzwqba0AAShDq.jpg",
+      "https://cms-assets.youmind.com/media/1777884786385_6liept_HHXzwwsbwAAg9vE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18122,
+    "content": "A stunning photorealistic cinematic portrait of {argument name=\"subject description\" default=\"a beautiful young Indian woman\"} standing on an ornate carved stone balcony at night, shown from about mid-thigh up in a vertical composition. She has {argument name=\"hair description\" default=\"very long flowing wavy black hair cascading over one shoulder\"}, fair skin, delicate jewelry including dangling earrings and a small pendant necklace, and elegant evening styling. Her face is turned upward in profile toward a bright full moon, with a serene, emotional expression. She wears {argument name=\"dress description\" default=\"a sleeveless white-to-lavender-to-deep-purple ombre gradient gown with a V neckline, sheer flowing skirt, and delicate purple floral embroidery on the bodice\"}. Her hands rest gracefully on a dark carved wooden balcony railing. The setting features ornate palace-like architecture with carved stone arches and columns on the left, an old-fashioned warm glowing lantern mounted beside her, and decorative Gothic-style railing details. In the background, show a dark blue starry night sky with thin clouds, one large luminous full moon in the upper right, and a distant glowing city skyline beside water with soft bokeh lights and reflections. Use warm lantern light from the left, cool dramatic moonlight from above and right, rich contrast, shallow depth of field, realistic skin and fabric texture, high-detail embroidery, cinematic film lighting, 8k photorealism, romantic serene atmosphere, no text, no extra people.",
+    "title": "Moonlit Indian Woman Balcony Portrait",
+    "description": "Generates a cinematic photorealistic night portrait of an elegant Indian woman in an ombre embroidered gown gazing at the moon from an ornate balcony.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884802385_c68wua_HHXrMgAasAAfUHp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18121,
+    "content": "Create a stunning photorealistic cinematic vertical portrait of {argument name=\"subject\" default=\"a beautiful young Indian woman\"} standing on an ornate carved stone balcony at night, shown from the back and three-quarter side as she leans gracefully on a dark wooden railing and gazes upward toward a huge bright full moon. She has {argument name=\"hair style and color\" default=\"very long flowing wavy black hair\"} swept dramatically by the wind, fair warm skin, bare shoulders, and a slim elegant figure. Her face is intentionally anonymized with a soft rectangular skin-toned blur covering the facial features. She wears {argument name=\"dress\" default=\"a sleeveless white-to-purple ombre gradient evening dress\"} with thin straps, a low open back, a fitted purple bodice, delicate silver and floral embroidery, and a flowing pleated skirt fading from ivory to deep violet. Frame the scene with intricate Mughal/Rajasthani-style carved stone arches and columns, with a warm glowing lantern on the upper left and decorative balcony details in the foreground. In the background, show a deep dark blue starry sky with scattered clouds, a luminous oversized full moon near the upper right, and a distant city skyline with golden bokeh lights and a domed tower. Use warm lantern light from the side mixed with cool dramatic moonlight rim lighting on the hair and shoulders, shallow depth of field, highly detailed fabric and stone carving, serene romantic atmosphere, ultra-realistic skin and hair texture, cinematic color grading, 8k resolution, vertical 9:16 composition.",
+    "title": "Moonlit Indian Balcony Portrait",
+    "description": "A photorealistic cinematic portrait prompt for creating a serene moonlit balcony scene with an elegant woman in a purple ombre dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884802209_0zovfd_HHXrLX0bIAAoIVY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18237,
+    "content": "Using the provided reference image, create a clean professional studio headshot portrait of the same person while preserving their face identity, blue hair, black shirt, ear plug, neck tattoo, silver chain, and ankh pendant. Reframe to a centered chest-up composition with the subject facing forward, replace the room/gaming-chair/bookshelf background with a softly lit neutral gray-blue studio backdrop, improve lighting and sharpness, and make the image look like a polished profile photo. Keep the large square privacy blur over the face in the same style, centered over the facial features.",
+    "title": "Studio Headshot from Reference",
+    "description": "Transforms a casual selfie reference into a polished centered studio profile portrait while preserving the subject and privacy blur.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884863760_wxxe06_HHXO4wNaQAA8T5I.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18191,
+    "content": "Create a deliberately clumsy, childlike doodle illustration on a plain white background of a cute ghost-like ninja mascot named {argument name=\"character name\" default=\"Gold Mitama\"}. The character is bright {argument name=\"body color\" default=\"golden yellow\"}, with a rounded floating ghost body, a curled wisp of hair on top, a tapering ghost tail curling to the left, and simple thick black uneven outlines. Draw it in an intentionally bad MS Paint scribble style: shaky jagged lines, uneven coloring, visible white gaps, rough marker-like scribbles, flat colors, no realistic shading, low-detail amateur fan-art energy. The mascot wears a black ninja headband across the forehead with a tied knot and two flapping black cloth ends on the left; the front plate is gray and contains exactly 3 small triangular black symbols. Give the face half-lidded green eyes and a bored expression, with a skewer of exactly 3 dango balls held horizontally in the mouth: pink, white, and green. Add a purple scarf around the neck, with a colorful chest emblem made of overlapping rainbow-like blocks of blue, cyan, yellow, red, and green. On the left side behind the character, place a small sheathed sword or short ninja weapon with a brown handle and purple wrapping. On the lower right, show the character holding exactly 1 gray four-point shuriken with a circular hole in the center. Keep the composition centered, square, playful, messy, and intentionally poorly drawn, like a funny rough doodle generated from text only.",
+    "title": "Bad Doodle Gold Ninja Ghost",
+    "description": "Generates a messy childlike doodle of a golden ghost ninja mascot with dango, headband, scarf, sword, and shuriken for humorous social posts or avatar art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777884839794_o3boun_HHWyaLLbUAAirjK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 17963,
     "content": "{\"type\":\"LINE sticker sheet illustration\",\"format\":\"single square canvas showing 9 separate sticker designs in a clean 3 by 3 grid\",\"style\":\"cute hand-drawn anime/manga style, simple black outlines, soft flat colors, white background, friendly casual everyday feel, consistent character across all stickers, each sticker has bold handwritten Japanese text above it\",\"character\":{\"description\":\"young girl character, shoulder-length light brown bob haircut with bangs, round face, small dot eyes, rosy cheeks, white short-sleeve T-shirt, blue jeans or blue skirt visible at the waist\",\"hair color\":\"{argument name=\\\"hair color\\\" default=\\\"light brown\\\"}\",\"shirt\":\"{argument name=\\\"shirt color\\\" default=\\\"white\\\"}\",\"expression style\":\"simple cute chibi-like facial features with warm blush\"},\"layout\":{\"background\":\"plain white with generous spacing between stickers\",\"grid\":{\"rows\":3,\"columns\":3,\"total stickers\":9},\"stickers\":[{\"position\":\"top left\",\"label\":\"ただいま\",\"meaning\":\"I'm home\",\"pose\":\"front-facing half-body smile, relaxed arms down, small orange emphasis marks beside the character\"},{\"position\":\"top center\",\"label\":\"おかえり\",\"meaning\":\"Welcome back\",\"pose\":\"front-facing character waving one hand, cheerful greeting, orange emphasis marks near the raised hand\"},{\"position\":\"top right\",\"label\":\"お先に失礼します\",\"meaning\":\"Excuse me for leaving first\",\"pose\":\"polite bow with eyes closed, hands together in front, small blue motion marks beside the head\"},{\"position\":\"middle left\",\"label\":\"またね\",\"meaning\":\"See you\",\"pose\":\"big closed-eye smile, one hand raised waving, orange emphasis marks near the hand\"},{\"position\":\"middle center\",\"label\":\"おやすみ\",\"meaning\":\"Good night\",\"pose\":\"sleepy peaceful face with eyes closed, hands clasped against cheek, yellow crescent moon and two yellow stars to the right\"},{\"position\":\"middle right\",\"label\":\"ねむい…\",\"meaning\":\"Sleepy...\",\"pose\":\"yawning with one hand covering mouth, eyes half closed, two blue sleep bubbles near the head\"},{\"position\":\"bottom left\",\"label\":\"ごめんね\",\"meaning\":\"Sorry\",\"pose\":\"worried apologetic expression, hands clasped in front of chest, blue sweat marks beside the head\"},{\"position\":\"bottom center\",\"label\":\"ＯＫです\",\"meaning\":\"OK\",\"pose\":\"smiling wink, one hand making an OK sign, small green emphasis marks beside the raised hand\"},{\"position\":\"bottom right\",\"label\":\"助かります！\",\"meaning\":\"That helps!\",\"pose\":\"grateful expression, hands clasped at chest, red emphasis marks on both sides of the head\"}]},\"text\":{\"font\":\"bold rounded handwritten Japanese lettering, black, placed above each character\",\"labels\":\"use exactly these 9 Japanese phrases: ただいま, おかえり, お先に失礼します, またね, おやすみ, ねむい…, ごめんね, ＯＫです, 助かります！\",\"custom phrase set\":\"{argument name=\\\"sticker phrases\\\" default=\\\"ただいま / おかえり / お先に失礼します / またね / おやすみ / ねむい… / ごめんね / ＯＫです / 助かります！\\\"}\"},\"composition notes\":\"keep every sticker separate and evenly spaced, consistent character proportions and outfit across all 9 poses, no shadows or complex background, suitable as a cute Japanese LINE sticker pack preview\",\"rendering\":\"high-resolution clean digital illustration, crisp readable text, soft warm colors, minimal props\"}",
     "title": "Cute Japanese LINE Sticker Sheet",
@@ -96,13 +378,13 @@
   },
   {
     "id": 17976,
-    "content": "{\"type\":\"photorealistic vertical smartphone portrait with augmented reality music widgets\",\"scene\":{\"setting\":\"modern cafe interior beside a large window, warm ceiling lights, wooden counter, blurred greenery outside, shallow depth of field\",\"camera\":\"close-up wide-angle phone photo, vertical 9:16 composition, realistic lens distortion, subject centered, hands very close to camera\",\"mood\":\"stylish playful social-media snapshot\"},\"subject\":{\"description\":\"young woman seated indoors, long dark hair, black blazer over a light cropped top and black pleated skirt, hoop earrings, glossy pale manicure\",\"pose\":\"one hand raised near the forehead making a peace sign, the other hand thrust toward the lens with fingers spread wide, palm dominating the foreground\",\"face\":\"face intentionally obscured by a solid square privacy block in muted brown, centered over the face\",\"outfit color\":\"{argument name=\"outfit color\" default=\"black\"}\"},\"augmented reality overlays\":{\"style\":\"floating translucent rounded-rectangle music player cards in soft white with pale pink tint, thin red progress bars, small album art thumbnails, heart icons, previous/play-pause/next controls, subtle glow and glassmorphism shadows\",\"count\":4,\"cards\":[{\"position\":\"upper left\",\"track title\":\"{argument name=\"first song title\" default=\"IRIS OUT\"}\",\"artist\":\"米津玄師\",\"time\":\"1:29 / 4:54\",\"thumbnail\":\"dark blue album art\",\"state\":\"pause button shown in red circle, heart icon at right\"},{\"position\":\"upper right\",\"track title\":\"革命道中\",\"artist\":\"アイナ・ジ・エンド\",\"time\":\"0:58 / 3:31\",\"thumbnail\":\"red anime-style album art\",\"state\":\"pause button shown in red circle, heart icon at right\"},{\"position\":\"lower left\",\"track title\":\"AIZO\",\"artist\":\"King Gnu\",\"time\":\"2:18 / 4:28\",\"thumbnail\":\"dark concert-like album art\",\"state\":\"pause button shown in red circle, heart icon at right\"},{\"position\":\"lower right\",\"track title\":\"{argument name=\"fourth song title\" default=\"JANE DOE\"}\",\"artist\":\"KENSHI YONEZU, HIKARU UTADA\",\"time\":\"1:33 / 4:56\",\"thumbnail\":\"minimal pale album art\",\"state\":\"pause button shown in red circle, heart icon at right\"}]},\"composition\":{\"overlay placement\":\"cards float around the subject's hands as if pinned in 3D space, partially overlapping the cafe background but not covering the foreground palm\",\"lighting\":\"warm natural window light mixed with indoor amber light, soft highlights on skin and nails\",\"rendering\":\"high-resolution photorealism, realistic skin texture, bokeh background, crisp UI overlays, social media candid aesthetic\"},\"negative prompts\":\"no extra fingers, no warped hands, no unreadable UI except tiny artist text, no cartoon style, no heavy filters, no watermark\"}",
-    "title": "AR Music Cards Cafe Portrait",
-    "description": "Generates a photorealistic vertical cafe portrait with a woman posing behind floating glassmorphism music player widgets for a stylish social media visual.",
+    "content": "{\"type\":\"vertical photorealistic lifestyle image with augmented reality music player overlays\",\"aspect_ratio\":\"9:16 smartphone photo\",\"scene\":{\"setting\":\"modern cafe interior beside a large window, warm ceiling lights, wood table and bench, greenery visible outside through glass\",\"camera\":\"close-up wide-angle smartphone perspective, shallow depth of field, slightly low angle, candid social-media photo look\",\"lighting\":\"soft natural daylight from the left window mixed with warm indoor lighting\"},\"subject\":{\"description\":\"young woman seated indoors, face mostly hidden by her raised hands and a centered square censor block\",\"outfit\":\"black blazer over a light cropped top, black pleated skirt, hoop earring, long glossy manicured nails\",\"pose\":\"both hands lifted toward the camera: one hand near the top making a peace sign, the other hand in the foreground spread open with five fingers, creating strong foreshortening\"},\"overlays\":{\"style\":\"four floating translucent rounded-rectangle AR music player cards, pale pink-white glassmorphism, subtle shadows, red progress bars, heart icons, back/play-pause/next controls, small square album art on the left\",\"count\":4,\"cards\":[{\"position\":\"upper left\",\"title\":\"IRIS OUT\",\"artist\":\"米津玄師\",\"elapsed\":\"1:29\",\"duration\":\"4:54\",\"state\":\"pause button visible\"},{\"position\":\"upper right\",\"title\":\"革命道中\",\"artist\":\"アイナ・ジ・エンド\",\"elapsed\":\"0:58\",\"duration\":\"3:31\",\"state\":\"pause button visible\"},{\"position\":\"lower left\",\"title\":\"AIZO\",\"artist\":\"King Gnu\",\"elapsed\":\"2:18\",\"duration\":\"4:28\",\"state\":\"pause button visible\"},{\"position\":\"lower right, tilted slightly clockwise and partly near the edge\",\"title\":\"JANE DOE\",\"artist\":\"KENSHI YONEZU, HIKARU UTADA\",\"elapsed\":\"1:37\",\"duration\":\"4:56\",\"state\":\"pause button visible\"}]},\"customization\":{\"main song title\":\"{argument name=\\\"main song title\\\" default=\\\"IRIS OUT\\\"}\",\"main artist\":\"{argument name=\\\"main artist\\\" default=\\\"米津玄師\\\"}\",\"subject outfit\":\"{argument name=\\\"subject outfit\\\" default=\\\"black blazer, light crop top, black pleated skirt\\\"}\",\"setting\":\"{argument name=\\\"setting\\\" default=\\\"modern cafe beside a large window\\\"}\"},\"rendering\":\"highly realistic gpt-image-2 style, crisp hands in foreground, natural skin texture, glossy nails, realistic reflections and blur, no extra text beyond the four music player cards\"}",
+    "title": "Cafe AR Music Player Portrait",
+    "description": "Generates a vertical photorealistic cafe portrait with four floating glassmorphism music player cards around a woman posing with her hands.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777797645415_3ples7_HHUbOWpaUAA0iJM.jpg",
-      "https://cms-assets.youmind.com/media/1777797645422_xlwmjf_HHUbOX-acAAecPq.jpg",
-      "https://cms-assets.youmind.com/media/1777797645441_4zpxti_HHUbOXXbgAAfTe9.jpg"
+      "https://cms-assets.youmind.com/media/1777884839451_pcrtez_HHUbOWpaUAA0iJM.jpg",
+      "https://cms-assets.youmind.com/media/1777884839223_3kowpv_HHUbOX-acAAecPq.jpg",
+      "https://cms-assets.youmind.com/media/1777884839284_7erleh_HHUbOXXbgAAfTe9.jpg"
     ],
     "needReferenceImages": true
   },
