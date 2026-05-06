@@ -1,5 +1,55 @@
 [
   {
+    "id": 18464,
+    "content": "{\"type\":\"editorial product prompt template collage for GPT image 2.0\",\"canvas\":\"square 1:1 white studio background with soft rounded rectangular image panels, clean luxury fashion advertising layout, lots of white space\",\"header\":{\"text\":\"{argument name=\\\"headline text\\\" default=\\\"GPT image 2.0\\\"}\",\"subtext\":\"{argument name=\\\"subtitle text\\\" default=\\\"Prompt Template\\\"}\",\"position\":\"top left\",\"style\":\"elegant black serif headline with small handwritten italic subtitle\"},\"concept\":\"Create a high-fashion studio collage where oversized cosmetic and lifestyle products are held close to the camera by a hand, with stylish full-body fashion models posed behind or beside them. Faces should be intentionally obscured or softly blurred for privacy. Use realistic photography, crisp product text rendering, dramatic wide-angle perspective, glossy commercial lighting, and playful dynamic poses.\",\"layout\":{\"total_panels\":6,\"panels\":[{\"position\":\"top left\",\"shape\":\"rounded rectangle\",\"product\":\"large transparent pink lip gloss tube held toward camera\",\"model\":\"woman in glossy red cargo jumpsuit and pink top, low angle pose, pink platform heels, red jacket draped open\",\"mood\":\"bold beauty editorial\"},{\"position\":\"top center\",\"shape\":\"rounded rectangle\",\"product\":\"frosted glass SK-II skincare bottle with silver cap held close to lens\",\"model\":\"woman in hot pink top and red wide-leg pants stepping sideways in red heels\",\"mood\":\"premium skincare fashion\"},{\"position\":\"top right\",\"shape\":\"rounded rectangle\",\"product\":\"red Chanel nail polish bottle held in manicured hand with coral nails\",\"model\":\"woman in teal cropped jacket, coral tulle skirt, black heels, carrying a small dark handbag\",\"mood\":\"chic cosmetics street-style editorial\"},{\"position\":\"bottom left large\",\"shape\":\"large rounded rectangle spanning lower left\",\"product\":\"oversized CeraVe Hydrating Cleanser pump bottle held close to lens, readable green and blue label\",\"model\":\"woman seated in relaxed pose wearing white crop top, bright blue jacket, green loose pants, white sneakers\",\"mood\":\"fresh clean skincare campaign\"},{\"position\":\"middle right\",\"shape\":\"rounded rectangle\",\"product\":\"red Anua niacinamide serum dropper bottle held close to lens\",\"model\":\"woman in teal flowing blouse and coral skirt leaning dynamically behind product\",\"mood\":\"glowing serum beauty ad\"},{\"position\":\"bottom right\",\"shape\":\"rounded rectangle\",\"product\":\"white Nike Air Force 1 sneaker with black swoosh held forward\",\"model\":\"woman wearing cream cropped jacket, white crop top, black-and-cream pleated skirt\",\"mood\":\"sport-luxury fashion product shot\"}]},\"product_customization\":{\"primary product brand\":\"{argument name=\\\"primary product brand\\\" default=\\\"CeraVe\\\"}\",\"fashion palette\":\"{argument name=\\\"fashion color palette\\\" default=\\\"red, coral, teal, green, white, black\\\"}\",\"model style\":\"{argument name=\\\"model style\\\" default=\\\"diverse high-fashion female models with blurred faces\\\"}\"},\"visual_style\":\"hyper-realistic commercial product photography, studio flash, clean white seamless background, sharp products, slightly motion-filled model poses, wide-angle close-up hands, editorial magazine collage, rounded cards, subtle shadows, accurate readable packaging typography, premium social media template aesthetic\",\"quality\":\"ultra detailed, photorealistic, high resolution, polished advertising composition\"}",
+    "title": "Fashion Product Collage Template",
+    "description": "Generates a square editorial collage combining six close-up product advertisements with dynamic fashion model poses for beauty, skincare, and lifestyle campaigns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777971085663_mwu667_HHfCx8-WsAEVOmx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18318,
+    "content": "Minimalist commercial ad featuring {argument name=\"product\" default=\"oversized white perfume bottle\"}, ultra-clean design. A young woman in all-white outfit leans casually against the giant bottle, relaxed confident pose, eyes closed, holding the same perfume bottle in her hand. Soft gradient blue background with large bold white “{argument name=\"brand\" default=\"CHANEL\"}” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “{argument name=\"tagline\" default=\"Elegance in every drop\"}.”",
+    "title": "Minimalist Perfume Commercial",
+    "description": "A clean and minimalist commercial advertisement prompt for luxury perfume branding with professional studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777971005892_vdwm77_HHfBG6eboAAkdDF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18325,
+    "content": "A premium underwater commercial photoshoot featuring a sleek {argument name=\"product\" default=\"Galaxy S Series smartphone\"} as the hero product, held in the foreground in a selfie position and captured in sharp focus, with realistic water droplets and reflections enhancing its metallic finish and camera lenses. In the mid-ground, a {argument name=\"person\" default=\"woman\"} floats naturally in clear tropical blue water with a relaxed, cheerful expression, her hair gently flowing with the movement, while the focus remains primarily on the product. In the background, a playful {argument name=\"background animal\" default=\"dolphin\"} swims slightly out of focus, adding a sense of motion and liveliness. Sunlight streams from above, creating soft underwater rays and natural caustic patterns, with small air bubbles rising organically and a clean blue gradient environment keeping distractions minimal for a premium advertisement look. The style is ultra-photorealistic commercial product photography in 8K with HDR lighting, using a wide-angle perspective and shallow depth of field, capturing a mood that feels fresh, clean, premium, and adventurous, with the product in crisp foreground focus and supporting elements softly blurred.",
+    "title": "Underwater Smartphone Product Shoot",
+    "description": "A high-end underwater commercial photography prompt featuring a smartphone with realistic water caustic patterns and atmospheric lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777971012252_84sqpf_HHeuRXva4AEkmOC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18301,
+    "content": "Ultra realistic 4K commercial product photography of a premium beverage can named “{argument name=\"beverage name\" default=\"KESAR BADAM\"}”, centered and slightly tilted, covered in condensation droplets. The can features a {argument name=\"label style\" default=\"creamy beige and sky blue label design\"} with bold playful typography. A circular logo at the center of the can contains a portrait of a stylish young man standing and holding kesar badam in hand towards the camera , used as the brand identity mark. Surrounding the can are dynamic splashes of thick creamy milk and red saffron mixed with golden saffron liquid, forming dramatic fluid shapes in motion. Floating ingredients include {argument name=\"ingredients\" default=\"whole nuts and almonds, sliced almonds, cashews, saffron threads\"}, and golden droplets with icy suspended mid air. The background is dim green with warm yellow highlights, creating a rich, cinematic contrast. Studio lighting with strong rim light and glossy reflections enhances the metallic texture of the can. Depth of field is shallow, keeping the can sharp and the splashes slightly blurred for realism. Highly detailed textures, hyper realistic liquid physics, premium advertising style, sharp focus, high contrast, vibrant warm tones, professional food and beverage product shoot.",
+    "title": "Kesar Badam Beverage Photography",
+    "description": "A high-end commercial product photography prompt for a premium beverage can featuring dynamic milk and saffron splashes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777970996990_3j979d_HHeIjSnboAA-nwd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18332,
+    "content": "Minimalist commercial ad featuring {argument name=\"product\" default=\"oversized BLACK smartwatch\"}, ultra-clean design. A young Man in {argument name=\"outfit\" default=\"all-white and yellow outfit\"} leans casually against the giant watch, relaxed confident pose, eyes open in excitement expression , also wearing the same smartwatch on his wrist. Soft gradient blue background with large bold white “SMASUNG” text behind. Glossy reflective floor, soft studio lighting, modern high-end fashion/product photography. Small top-right text “Designed by Shamus”. Bottom center tagline in small white font: “{argument name=\"tagline\" default=\"TIME IS TIDE.\"}”",
+    "title": "Minimalist Smartwatch Commercial Ad",
+    "description": "A clean, high-end product photography prompt for a smartwatch advertisement featuring a modern fashion aesthetic and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777971015653_6gc6bx_HHc6fLCbcAAikP-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 18172,
     "content": "Create a photorealistic lifestyle image of a cute compact hatchback car in {argument name=\"car color\" default=\"pale mint green\"} parked in a seaside parking lot on a bright sunny day. The car is shown in full side view, facing right, with the front passenger door open to reveal a warm beige leather interior with wood-toned trim and a rounded modern dashboard. A young blonde woman stands casually in front of the open door, one hand on her hip, wearing a light mint cardigan over a short white floral summer romper and brown sandals; her face is softly anonymized and featureless. The setting is a clean asphalt coastal parking area with white painted parking lines, several other parked cars in the background, tropical plants and palms at the edges, and a vivid turquoise ocean beyond the road. Add distant green mountains and small islands across the horizon under a clear pale blue sky with a few soft clouds. Use a cheerful, cute, aspirational travel aesthetic, realistic reflections on the glossy car paint, crisp daylight shadows, wide-angle composition, high detail, natural colors, and the feeling of wanting a beloved custom-colored car for a beach trip.",
     "title": "Mint Green Coastal Car Portrait",

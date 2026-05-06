@@ -1,5 +1,15 @@
 [
   {
+    "id": 18366,
+    "content": "{argument name=\"instruction\" default=\"Redesign this image professionally\"}",
+    "title": "Professional Image Redesign",
+    "description": "A simple and effective command for professionally redesigning an existing image using GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1777971037349_9rcd3u_HHcE1jRbEAAF482.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18244,
     "content": "Create an ultra-realistic cinematic night street scene in {argument name=\"city\" default=\"Tokyo\"}, showing a narrow rainy alley lined with ramen shops and dense vertical neon signs. The camera is at street level with a wide-angle documentary feel, looking down the wet pavement where blue, red, and white neon reflections stretch across puddles. In the right foreground, an open-air ramen counter glows with warm amber light and heavy steam; a chef in a dark work shirt with tattooed forearms lifts noodles from a boiling pot with chopsticks, his face obscured by a soft rectangular anonymizing blur. Hang exactly two prominent red paper lanterns over the stall, both with bold black Japanese text {argument name=\"lantern text\" default=\"ラーメン\"}. Add stainless pots, stacked bowls, chopsticks, condiment bottles, hanging lamps, dark noren curtains, and a tall black wooden signboard with large gold Japanese calligraphy beside the counter. The background alley should contain distant silhouettes of pedestrians, countless small illuminated storefront signs, rain streaks, mist, and atmospheric steam drifting through the scene. Style: photorealistic but clearly AI-generated, high dynamic range, moody cyberpunk-noir color palette, wet asphalt, volumetric lighting, sharp foreground detail, deep perspective, 16:9 composition, dramatic contrast, shot as if with a 24mm lens at night after rainfall.",
     "title": "Rainy Tokyo Ramen Alley",
@@ -153,7 +163,7 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1777539318771_ucn3q3_HHFb1AQa0AAXGzm.jpg"
     ],
-    "needReferenceImages": false
+    "needReferenceImages": true
   },
   {
     "id": 17056,
