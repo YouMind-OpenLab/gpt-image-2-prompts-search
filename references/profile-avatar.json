@@ -1,5 +1,217 @@
 [
   {
+    "id": 18688,
+    "content": "Create a highly detailed vertical fashion portrait of a glamorous anime-idol inspired woman on a dark concert stage, framed from the waist up. She has {argument name=\"hair color\" default=\"platinum blonde\"} hair in huge high twin ponytails with soft curled ends, straight bangs, and braided side details, topped with an oversized fluffy white bow decorated with black satin stripes and gold trim. Her face is intentionally obscured by a centered opaque muted gray-beige square censor block, covering the area from forehead to chin. Dress her in a luxurious white cropped military-style jacket with black-and-gold striped cuffs, collar, and shoulder trim, gold rope braids, gold chains, and ornate epaulet details. Under the jacket she wears a glossy black lace-up corset crop top with white fur trim at the neckline, plus a black choker with a gold ring, layered gold necklaces, dangling gold geometric earrings, and white gloves; one gloved hand is raised near the choker while the other rests at the hip. Use dramatic backstage spotlighting with bright circular lights in the upper corners, cool blue-gray haze, strong rim light on the hair, shallow depth of field, ultra-polished cosplay photography, crisp fabric and hair texture, high contrast, elegant black white and gold color palette, rounded image corners, no visible text.",
+    "title": "Luxury Idol Cosplay Portrait",
+    "description": "Generates a dramatic waist-up cosplay fashion portrait with twin ponytails, ornate white-black-gold styling, and a censored face block for avatar or character concept use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143958730_3fiapu_HHs4c_PaQAA1Ar6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18689,
+    "content": "Create a photorealistic close-up concert portrait of a glamorous male idol performer, framed from chest to head against a dark navy stage background filled with falling gold and white confetti. The performer has {argument name=\"hair color\" default=\"platinum blond with subtle golden streaks\"} shaggy layered hair and wears a white military-prince stage uniform with black and metallic gold trim, ornate epaulettes, star-shaped brooches, chains, pins, and sparkling embellishments over a black shirt and white tie. Add a white beret with black-and-gold decorative bands tilted on the head, dangling gold earrings, and rings on the hand. Pose him dramatically with one arm reaching toward the camera in strong foreground perspective, fingers slightly blurred from shallow depth of field, while the torso and costume remain crisp and luxurious. Place a large opaque beige square over the center of the face, completely obscuring facial features. Use high-fashion K-pop concert photography style, realistic lighting, glossy fabric highlights, cinematic shallow depth of field, celebratory atmosphere, vertical 4:5 composition.",
+    "title": "Masked Idol Concert Portrait",
+    "description": "Generates a photorealistic K-pop-style stage portrait with an ornate white-and-gold prince costume, confetti, and a face-obscuring square for anonymized idol imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143958757_qk4non_HHs4dBFbUAAXS_s.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18677,
+    "content": "Create a dynamic 3D anime chibi character poster on a clean teal background, viewed from a high overhead three-quarter angle with strong studio lighting and a soft cast shadow. Show one cute demon-girl character named {argument name=\"character name\" default=\"かなえちゃん\"}: a small chibi body with an oversized head, glossy black twin ponytails whipping outward in long flowing arcs, two curved turquoise segmented horns, bright golden eyes, tiny fangs, round black sunglasses worn low on her face, and a playful confident smile. She wears a black satin sukajan-style bomber jacket with ornate embroidered golden dragon artwork across the back and sleeves, a short black pleated skirt, teal dragon-scale thigh-high stockings, dark shoes, and a thin reptilian tail with teal scales curling behind her. The pose should have her turned back over her shoulder toward the viewer, arms tucked near her chest, giving a cool mischievous idol-mascot feeling. At the bottom foreground, add one large piece of thick extruded Japanese 3D text reading {argument name=\"headline text\" default=\"かなえちゃん\"}, in warm cream lettering with dark navy sides and a strong perspective shadow, angled upward across the lower edge. Use crisp cel-shaded anime rendering mixed with polished toy-like 3D depth, high detail in hair highlights, horn texture, dragon embroidery, and scale patterns, with a vivid turquoise color palette and no extra background objects.",
+    "title": "Cool Chibi Demon Girl Poster",
+    "description": "Generates a high-angle 3D anime chibi mascot poster with Japanese extruded name text, ideal for original character branding or social media art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143950222_qlz95h_HHqfyKUaMAAE9Wc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18611,
+    "content": "Create a cinematic close-up portrait of {argument name=\"subject\" default=\"a mysterious adult man\"} in a dark winter setting, framed tightly from the shoulders up. He has wet, dark hair, a visible right ear, and a small glimpse of eyeglasses on the left side, but his face is completely covered by a large centered vertical dark charcoal rectangle, like an intentional anonymous censor block. He wears a heavy dark coat with a thick fur-lined hood or collar covered in frost and snow crystals. The atmosphere is cold, blue-toned, and moody, with falling snow particles, soft bokeh lights in the blurred background, and dramatic low-key lighting that highlights icy textures on the hair and fur. Use a realistic cinematic photography style, shallow depth of field, high detail, cool teal-blue color grading, subtle film grain, and a suspenseful noir mood. The image should be landscape-oriented, with the subject filling most of the frame and the rectangular face-obscuring block occupying the center.",
+    "title": "Anonymous Winter Noir Portrait",
+    "description": "Generates a cinematic close-up of a snow-covered anonymous figure with a dark face-censor block for thriller, mystery, or editorial visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143915880_ap37pk_HHp7UWyXcAAp35M.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18570,
+    "content": "Analyze the uploaded image, preserving the main subject, composition, and lighting of the original. Do not change the identity or facial structure of the protagonist. Add some {argument name=\"doodle elements\" default=\"fun hand-drawn doodle elements\"} that directly interact with the subject of the photo. These doodles can mimic, follow, or exaggerate existing shapes, poses, or movements—such as outlining poses, extending arms or legs, adding dynamic lines, or creating imaginative elements that 'interact' with the subject; be bold with the imagination.\n\nTransform the entire image into a {argument name=\"illustration style\" default=\"cute cartoon-style illustration\"} with a lovable doodle aesthetic. Maintain the original scene and character details while applying a vivid, soft, and playful cartoon look.",
+    "title": "Cartoon Doodle Transformation",
+    "description": "A multi-step instruction for gpt-image-2 to transform a photo into a cute cartoon illustration with imaginative hand-drawn doodles while preserving the original subject's identity and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143889276_mf6qwp_HHpzdw2WYAAfedY.jpg",
+      "https://cms-assets.youmind.com/media/1778143889318_79epv1_HHpzf0WWMAMTeUn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18686,
+    "content": "Create a photorealistic full-body fashion cosplay portrait of {argument name=\"character name\" default=\"Nico Robin\"} as an elegant adult woman standing in a dark antique library. She has very long {argument name=\"hair color\" default=\"black\"} wavy hair, sunglasses resting on top of her head, a confident relaxed posture, and is holding one open antique book with both hands as if reading. Her outfit is a deep navy cropped short-sleeve blouse with a wide popped collar, white trim, a small compass-like emblem on the chest, a plunging neckline, and a tied rose-pink sarong skirt with fringe and a high side slit revealing one leg, paired with glossy pink pointed high heels. The setting is a richly decorated old-world study with wooden bookshelves, framed classical paintings, an ornate chandelier overhead, a carved round wooden table, one upholstered chair, and warm candlelight; include exactly three visible lit candles on the table and one warm lamp or candle glow in the right background. Use moody cinematic lighting, warm amber highlights, deep shadows, shallow depth of field, luxurious vintage atmosphere, realistic skin texture, editorial photography composition, vertical 9:16 framing, full body visible from head to shoes, high detail, elegant and sensual but tasteful.",
+    "title": "Nico Robin Library Cosplay Portrait",
+    "description": "Generates a cinematic photorealistic full-body cosplay portrait of Nico Robin in a candlelit antique library for fashion or character-inspired imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143955567_fmhcc6_HHpawPMbQAE0YSw.jpg",
+      "https://cms-assets.youmind.com/media/1778143956463_zxl8ot_HHpawNabgAAIo7s.jpg",
+      "https://cms-assets.youmind.com/media/1778143955566_lzjxvc_HHpawPNawAEya50.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18568,
+    "content": "Analyze the uploaded image and preserve the original subject, composition, and lighting. Do not alter the identity or structure of the main subject. Add playful, hand-drawn doodles that interact directly with the subject in the image. The doodles should mimic, follow, or exaggerate the shapes, gestures, or motion present—such as outlining poses, extending limbs, adding motion lines, or creating imaginative elements that “respond” to the subject. Please make/turn the whole picture into {argument name=\"output style\" default=\"cartoon and cute doodle\"}.",
+    "title": "Interactive Hand-Drawn Doodle Art",
+    "description": "Transforms an uploaded image by adding playful doodles that interact with the original subject's pose and gestures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143887156_u6ytra_HHo9JiXXcAUOb0q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18561,
+    "content": "A highly stylized 3D cartoon character of a {argument name=\"athlete\" default=\"young professional footballer\"}, standing in a powerful confident pose with arms folded and one foot slightly forward. He is wearing a modern {argument name=\"jersey colors\" default=\"blue and red gradient\"} soccer jersey with subtle patterns, matching athletic shorts, long fitted socks, and premium cleats. The character has smooth warm brown skin, a slightly oversized head with Pixar-style proportions, large expressive eyes, defined eyebrows, and short textured curly hair with golden highlights. Facial expression is calm, confident, with a slight smirk. Body posture shows attitude and dominance, slightly leaning to one side. Ultra-detailed Pixar-quality 3D rendering, octane render, soft cinematic studio lighting with rim light glow, realistic shadows, glossy fabric textures, and high contrast reflections. Background is a clean solid vibrant {argument name=\"background\" default=\"red\"} with subtle gradient and soft vignette. Character is perfectly centered, full-body visible, shallow depth of field, ultra HD 8K resolution, professional character design, animated movie style.",
+    "title": "Stylized 3D Footballer Avatar",
+    "description": "Generates a Pixar-quality 3D cartoon character of a professional soccer player with realistic fabric textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143883503_nexu3r_HHpB02KaIAABiH8.jpg",
+      "https://cms-assets.youmind.com/media/1778143883485_e4l62n_HHpB07RakAA-UOP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18563,
+    "content": "Create a hyper-realistic image in vertical format 9:16. Show a young girl with the appearance of {argument name=\"physical description\" default=\"[your face or physical description]\"} and wearing. He is sitting in a relaxed way on a large 3D logo of {argument name=\"social platform\" default=\"Instagram\"} in vibrant colours. Wear modern urban clothing: Coloured hoodie [Red colour] with the '{argument name=\"custom logo\" default=\"[liam wedding videos]\"}' logo, jogger pants [pants colour] and sneakers [shoe colour]. In the background, a large profile card of [social network] identical to a real profile appears, with realistic details: name '[Fatima Batool]; user '@[Fati_092], [48570] Followers, [646] following and [Other data]. The background should be clear, minimalist style, soft lighting, professional, fresh and youthful look, ideal as a social network cover.",
+    "title": "3D Social Media Profile Card",
+    "description": "A hyper-realistic prompt for creating a 3D social media cover image featuring a character sitting on a platform logo with a floating profile card.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143884061_bgsg78_HHm62IUa0AA0oge.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18662,
+    "content": "Create a cinematic, photorealistic vertical character design portrait of {argument name=\"character name\" default=\"SUZUNE\"}, a futuristic female warrior standing in profile inside a towering industrial sci-fi megastructure. She wears a weathered {argument name=\"helmet color\" default=\"yellow\"} construction-style combat helmet with cat-ear-like protrusions, mechanical ear modules, small decals including a white flower, and worn black lettering. Her messy blonde hair is tied into a high ponytail spilling from the back of the helmet. The face is intentionally hidden by a plain opaque brown square censor block centered over the facial area. Her outfit is a black-and-gold mechanical Japanese-inspired battle kimono: glossy black lacquer armor, metallic gold floral patterns, cropped armored bodice, layered asymmetrical skirt panels, exposed waist, thigh straps, black gloves, and heavy cybernetic shoulder armor with circular mechanical joints. The material finish should feel real and tactile, with scratches, grime, chipped paint, rain-speckled shine, and hard reflective surfaces. Pose her in a confident side-facing stance, head slightly lowered, body angled left, one arm relaxed at her side. The background is a massive futuristic city-factory interior filled with suspended machinery, vertical steel beams, cranes, cables, gantries, orange-black industrial modules, dust, haze, and shafts of cold daylight cutting through high windows. Use dramatic low-angle composition, high contrast, moody cinematic lighting, shallow depth of field, ultra-detailed textures, realistic live-action styling, and a strong presence that would stand out in a futuristic city. Color palette: black, worn gold, yellow helmet accents, smoky gray industrial shadows, subtle warm orange lights. Aspect ratio 2:3, full-body to three-quarter character framing, premium game cinematic concept art realism.",
+    "title": "Futuristic Mecha Kimono Warrior",
+    "description": "Generates a photorealistic sci-fi character concept of a helmeted mecha-kimono warrior in a massive industrial future-city setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143941037_y55nkq_HHoSMU_bYAAK15t.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18579,
+    "content": "Analyze the ChatGPT I usually use and create a diagnosis card-style image. \n\nPlease visually represent the following items:\n- Type Name\n- Areas of Expertise\n- Speaking Characteristics\n- Recommended Consultations\n- Hidden Habits\n\nPlease let the AI come up with the type name.\n\nThe design should have an atmosphere that combines fortune-telling cards, profile cards, and AI diagnosis reports. \nJapanese language only. \nAspect ratio is 3:2.",
+    "title": "ChatGPT Analysis Diagnosis Card",
+    "description": "A comprehensive prompt that analyzes your ChatGPT conversation history to generate a stylized 'Diagnosis Card' featuring your AI personality, strengths, and habits in a 3:2 aspect ratio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143897561_v039to_HHn6jVxaMAAecUp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18562,
+    "content": "Ultra-detailed 3D caricature toy-style portrait of {argument name=\"subject\" default=\"Cristiano Ronaldo\"} standing confidently with arms crossed, oversized head and compact athletic body proportions, stylized collectible figure aesthetic, highly polished skin texture, sharp jawline, thick eyebrows, short slicked-back black hair with clean fade haircut, diamond stud earrings, confident smirk expression. Full-body pose, wearing a bright {argument name=\"team colors\" default=\"yellow Al Nassr\"} football kit with blue accents, captain armband, detailed jersey fabric texture, matching yellow shorts and socks, silver football boots with realistic reflections. Character standing centered against a clean solid vibrant {argument name=\"background color\" default=\"red\"} studio background, dramatic studio lighting with soft shadows under feet, glossy high-end render quality, Pixar-style realism mixed with premium collectible vinyl figure design, ultra-sharp details, realistic materials, cinematic rendering, vibrant colors, symmetrical composition, toy photography aesthetic, 8k. Style references: stylized sports mascot figure, premium football collectible statue, exaggerated proportions, cute but realistic facial rendering, ultra-clean commercial render. Camera: full-body front low-angle shot, 85mm lens look, shallow depth of field, centered composition. Negative prompt: blurry, low quality, extra limbs, distorted anatomy, realistic human proportions, messy background, text, watermark, duplicate body parts, bad hands, flat lighting.",
+    "title": "Cristiano Ronaldo 3D Toy Caricature",
+    "description": "A detailed prompt for creating a stylized 3D collectible figure of Cristiano Ronaldo in his football kit with Pixar-style rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143883326_1rq5ft_HHn3LsrWsAMEqI2.jpg",
+      "https://cms-assets.youmind.com/media/1778143883304_we8m0n_HHn3LskXgAUJiK1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18574,
+    "content": "Based on the uploaded photo, generate a high-quality \"Q-version Clone Sticker Diary Photo.\"\n\n[Subject Positioning] A model shooting scene with a real-life model as the central subject, presenting a high-resolution social media lifestyle diary style. The image should be exquisite and playful, with a balanced layout and a rich yet uncluttered visual feel.\n\n[Q-version Clone Design] Add {argument name=\"number of clones\" default=\"5-8\"} Q-version mini clones around the subject, using a cute sticker style with \"large heads and small bodies + large expressive eyes + clean digital art style.\" Each clone must maintain high similarity to the real person—hairstyles, clothing, and colors must be identical—but they should be designed with different photography-related poses and expressions (such as hands on hips, wearing a hat, jumping, back view, lying down, etc.), ensuring all poses are distinct and fit the shooting context.\n\n[Visual Effects] Each Q-version character should be rendered as a sticker with a white outline, soft shadows, and a slight floating effect, arranged around the subject and the edges of the frame, avoiding obstruction of the face or key body parts.\n\n[Doodle Elements] Add light hand-drawn doodles (hearts, sparkles, arrows, dynamic lines, circles) using a white base with light pink accents, maintaining a simple scrapbook diary style that blends naturally with the overall image.\n\n[Text Design] Include {argument name=\"phrases\" default=\"5-8 short handwritten-style English phrases fitting the shooting atmosphere\"}. The text should be primarily white with slight pink highlights and small decorative symbols (like stars or wavy lines), positioned to coordinate with the doodles without obstructing the subject.\n\n[Composition Requirements] The real-life subject is centered, with Q-version stickers and doodle elements radiating around them, forming a balanced \"subject-centered, element-surrounded\" layout. The overall look is an exquisite and playful high-resolution social media lifestyle diary style, visually rich but without clutter.",
+    "title": "Q-Style Sticker Diary Clone",
+    "description": "A creative gpt-image-2 prompt that generates high-resolution 'Q-style' mini clone stickers of a human subject, arranged in a lifestyle diary layout with doodles and phrases.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143892763_mzwun9_HHnwLI4asAA6CdZ.jpg",
+      "https://cms-assets.youmind.com/media/1778143892745_s98qjr_HHnwLTTaQAApGP0.jpg",
+      "https://cms-assets.youmind.com/media/1778143893000_v4jkp9_HHnyrxZaQAAvJvH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18557,
+    "content": "Transform this image (Uploaded) into a soft, atmospheric cloud composition while preserving the {argument name=\"subject\" default=\"subject’s recognizable facial features\"}, expression, and identity.\nThe face should appear subtly formed from clouds, blending naturally into a {argument name=\"background\" default=\"bright blue sky\"} background. Use soft, diffused lighting with gentle highlights and airy shadows to create depth and realism.\nEnsure the transformation is symbolic rather than literal ,avoid hard edges, skin texture, or sharp details. The subject should feel like it is emerging from or dissolving into the clouds.\nMaintain facial proportions, eyes, smile, and key features clearly visible through the cloud structure.\nStyle: dreamy, ethereal, surreal, cinematic\nLighting: natural sunlight, soft glow, volumetric light\nColor palette: sky blue, white, soft gradients\nMood: {argument name=\"mood\" default=\"peaceful, uplifting, inspirational\"}\nAdd subtle cloud layers around and within the face for a seamless blend. Background should be a clean blue sky with soft cloud gradients.\nHigh resolution, ultra-realistic cloud texture, smooth blending, no text, no watermark.",
+    "title": "Ethereal Cloud Portrait Transformation",
+    "description": "A prompt designed to transform an uploaded portrait into a soft, surreal cloud composition while maintaining facial identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143880158_ar53h0_HHnawwkWoAMmm94.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18541,
+    "content": "Ultra-realistic 16:9 close-up studio photograph of a {argument name=\"document type\" default=\"German citizenship identity card\"} placed on a clean light grey or white background. The card is horizontally aligned, centered in frame, captured in sharp focus with soft diffused studio lighting. The design follows an official European government-issued ID aesthetic with structured layout, clean typography, and advanced anti-counterfeit detailing. The top header reads: “BUNDESREPUBLIK DEUTSCHLAND” with a secondary title “BÜRGERSCHAFTSAUSWEIS / CITIZENSHIP CARD.” Top-left includes the German national flag. Top-right features the German federal eagle emblem (Bundesadler). The card contains a passport-style portrait of a {argument name=\"portrait subject\" default=\"young German woman\"}: – Fair European skin tone with subtle natural freckles – Shoulder-length {argument name=\"hair style\" default=\"dark blonde hair with soft waves\"}, center-parted – Blue-green eyes, neutral facial expression, direct gaze – Minimal makeup, realistic skin texture – Wearing a dark navy or black blazer with subtle gold jewelry. Personal identity details displayed in multilingual European format (German / English / French): – Name / Surname / Nom: MÜLLER – Vornamen / Given names / Prénoms: LENA MARIE – Geburtstag / Date of birth / Date de naissance: 14.08.1992 – Geburtsort / Place of birth / Lieu de naissance: MÜNCHEN – Staatsangehörigkeit / Nationality / Nationalité: DEUTSCH – Ausweisnummer / Document No. / No. du document: D123456789 – Ausstellungsdatum / Date of issue / Date de délivrance: 20.05.2024 – Gültig bis / Date of expiry / Date d’expiration: 20.05.2034 – Geschlecht / Sex / Sexe: F – Height: 168 cm. Security and design features include: – Intricate guilloche patterns covering the entire card surface – Fine-line engraving textures similar to Euro banknote printing – Microprinted text layers and anti-counterfeit linework – Holographic security patch with iridescent reflections – Circular EU-style hologram with embedded “D” symbol – Subtle outline map of Germany integrated into background – Large engraved illustration of the Brandenburg Gate on the right side – Machine-readable zone strip at bottom edge – Signature at bottom: “Lena M. Müller”. Additional design accents: – Soft black, red, and gold gradient tones inspired by the German flag – Layered polycarbonate texture with transparent security overlays – Minimal, clean European Union identity card styling. Material appearance: laminated polycarbonate card with slight gloss, realistic reflections, holographic foil effects, and embossed microtexture. Lighting is soft and evenly diffused, emphasizing security details, engraved patterns, and realistic print texture. No hand visible. Clean, minimal, professional composition. Style: ultra-detailed, photorealistic, 8K resolution, macro clarity, professional product photography, documentary realism.",
+    "title": "German Citizenship Identity Card Mockup",
+    "description": "A meticulous prompt for generating an ultra-realistic mockup of a German identity card, complete with security holograms, official typography, and portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143870555_tpjqat_HHnJ58daQAAzEkZ.jpg",
+      "https://cms-assets.youmind.com/media/1778143870526_x8g5p7_HHnJ8TmakAAXjjm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18558,
+    "content": "3D animated Pixar-style cartoon girl, warm cinematic lighting, soft brown gradient background with large empty negative space above, centered composition, cute {argument name=\"subject\" default=\"young girl\"} with {argument name=\"hair style\" default=\"short fluffy curly ginger hair\"}, oversized expressive eyes, tiny nose, soft smile, dreamy upward gaze, {argument name=\"clothing\" default=\"cozy cream knitted oversized cardigan with textured wool detail\"}, white inner top, blue denim jeans, hands inside pockets, soft glowing skin, realistic hair strands, detailed fabric texture, warm golden-hour tones, shallow depth of field, ultra aesthetic, wholesome mood, high detail, clean render, studio-quality lighting, subtle shadows, vertical portrait composition, minimal background, Disney/Pixar inspired character design, ultra sharp, 4k render, soft ambient light, adorable expression, cinematic color grading, highly detailed 3D illustration.",
+    "title": "Pixar Style Curly Haired Girl",
+    "description": "A high-quality 3D illustration prompt for a wholesome Pixar-inspired character with curly hair in a cozy setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143880687_d55d4x_HHnBZFLakAADsg3.jpg",
+      "https://cms-assets.youmind.com/media/1778143880644_3a467c_HHnBaw3bwAANYT0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18702,
+    "content": "Create a cinematic photorealistic scene of {argument name=\"subject\" default=\"a successful businessman\"} sitting alone in a sleek black leather lounge chair inside a luxurious high-rise penthouse office at night. He wears a {argument name=\"suit color\" default=\"deep navy tailored suit\"}, dark dress shirt, polished black shoes, and a wristwatch, seated with legs crossed while holding a phone to his ear in a calm, focused pose. His face is softly obscured and anonymous. Floor-to-ceiling windows dominate the left side, revealing a dramatic nighttime {argument name=\"city skyline\" default=\"New York City skyline with the Empire State Building brightly lit\"} under a dark blue stormy sky. A small round glass side table with a tumbler of water sits beside him. The interior is dark, modern, and expensive, with glossy black marble floors reflecting the city lights, recessed ceiling spotlights, a sofa in the background, illuminated shelving, and a large moody abstract wall artwork. Use low-key lighting, deep blue and charcoal tones, crisp reflections, high contrast, realistic architectural photography, executive luxury atmosphere, quiet success, solitude, ambition, 16:9 square-cropped composition, ultra-detailed, GPT Image 2 photorealism.",
+    "title": "Luxury Penthouse Executive at Night",
+    "description": "Generates a cinematic photorealistic image of an anonymous executive in a dark luxury penthouse overlooking a city skyline at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143966510_o6vir3_HHme32xaAAAnuaV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18552,
+    "content": "A stylized 3D cartoon character of a young football player, standing confidently with arms crossed, wearing a {argument name=\"jersey colors\" default=\"blue and red striped\"} soccer jersey and matching shorts, knee-high socks, and cleats. The character has a large head with exaggerated proportions, smooth brown skin, big expressive eyes, sharp eyebrows, and {argument name=\"hair style\" default=\"short curly hair with blonde highlights\"}. The pose is confident and slightly tilted, with a subtle smile. Highly detailed Pixar-style rendering, soft studio lighting, glossy textures, vibrant colors, clean shadows. Full-body centered composition on a {argument name=\"background color\" default=\"solid bright red\"} background, ultra high resolution, cinematic depth, professional 3D character design.",
+    "title": "3D Stylized Soccer Player",
+    "description": "A prompt for a Pixar-style 3D cartoon character of a young soccer player, featuring high-quality textures and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143876871_4wq0wz_HHmdUc3a4AA3IO4.jpg",
+      "https://cms-assets.youmind.com/media/1778143876946_qk8832_HHmdUdJbcAAH2Kc.jpg",
+      "https://cms-assets.youmind.com/media/1778143876880_urcde0_HHmdUdYbwAAjMJK.jpg",
+      "https://cms-assets.youmind.com/media/1778143877463_hwf1yf_HHmdUcib0AAILhg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 18691,
+    "content": "Ultra-realistic cinematic vertical photo of {argument name=\"character description\" default=\"a young Korean woman\"} lying on her side in a lush field of white daisies and tall green grass during golden hour. She wears {argument name=\"dress description\" default=\"a soft light gray sleeveless dress with delicate ruffled neckline and a gently flowing skirt\"}. Her long straight dark brown hair is spread naturally through the grass and slightly lifted by the breeze. Her body is curled in a relaxed pose, one arm bent near her head and the other resting in front of her, with bare legs partly visible among the flowers. The face is intentionally obscured by a centered soft-edged square blur in warm brown skin tones, hiding all facial details while leaving the hair, neck, shoulders, and body visible. Shoot from above at a slight angle with an intimate close composition, surrounded by countless white daisy petals with yellow centers and tall stems in the foreground and background. Use warm natural sunlight, soft highlights on skin and fabric, gentle shadows from grass and flowers, dreamy shallow depth of field, creamy bokeh, realistic film photography style, natural color grading, soft contrast, 85mm lens look, f/1.8, high detail, 4k, ultra realistic.",
+    "title": "Daisy Field Cinematic Portrait",
+    "description": "Creates an ultra-realistic golden-hour portrait of a woman lying in a daisy meadow with a soft blurred face, useful for cinematic lifestyle or fashion imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143960161_uki1z9_HHmVsVQbsAATUxW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 18690,
+    "content": "Ultra-realistic cinematic portrait photo of {argument name=\"subject\" default=\"a young Korean woman\"} lying on her side in a lush field of white daisies and tall green grass. She wears {argument name=\"dress color and style\" default=\"a soft light gray dress with delicate ruffles and sheer long sleeves\"}, the fabric gently wrinkled and flowing naturally over her curled body. Compose her in a relaxed, intimate pose with one arm folded near her face, body slightly curled, long straight {argument name=\"hair color\" default=\"dark brown hair\"} spread across the grass and lightly tousled by the breeze. Shot close from above at a slight angle, with daisies in the foreground and background, some flowers softly crossing the frame for depth. Use {argument name=\"lighting\" default=\"golden hour natural sunlight\"} with warm soft tones, realistic highlights on hair and fabric, gentle shadows, dreamy ethereal atmosphere, shallow depth of field, creamy bokeh, film photography color grading, soft contrast, high detail, 85mm lens, f/1.8, 4k, ultra realistic. The face should look natural and highly detailed with realistic skin texture and calm peaceful expression, looking softly toward the camera. Avoid artificial smoothing, plastic skin, over-sharpening, distorted hands, extra limbs, harsh flash, cartoon style, and unrealistic colors.",
+    "title": "Golden Hour Daisy Field Portrait",
+    "description": "Creates an ultra-realistic cinematic portrait of a young woman lying in a sunlit daisy field, ideal for dreamy lifestyle or fashion photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778143959612_nhj9xq_HHmVsJcbMAAvxJf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18346,
     "content": "Based on 1-3 clear personal photos uploaded by the user, generate a 3x3 grid photo puzzle with the theme \"{argument name=\"photo theme\" default=\"Summer Grape Girl Photo Series\"}\".\n\nStrictly preserve the subject's real identity characteristics, including face shape, facial proportions, eye/brow structure, nose, lips, skin tone, age, hairstyle features, and overall temperament. The person in all nine images must clearly look like the same real girl; she must not become a stranger, look Westernized, look like a generic influencer, be over-beautified, or have an AI-generated face.\n\nThe overall theme is a fresh and natural everyday girl's portrait. The character wears a {argument name=\"clothing description\" default=\"creamy white or off-white soft dress / slip dress\"} and a {argument name=\"accessory\" default=\"purple vintage floral headscarf\"}. The overall look is clean, natural, and daily, with a summer girl vibe. Accessories are simple, like small earrings, but not overly ornate.\n\nSet the scene as a summer picnic portrait in an outdoor meadow, under tree shadows, or by a vineyard. Include elements like purple grapes, grape clusters, woven baskets, glass bottles, picnic blankets, and light-colored tableware to create a natural lifestyle feel. Sunlight filters through leaves, creating soft dappled shadows, with a naturally blurred background.\n\nDesign the final image as a 3x3 grid with white borders. All nine small photos must feature the same person, same outfit, and same scene, but each must be distinctly different: different expressions, different facial angles, different poses, different camera positions, and different compositions (wide vs. close-up). Do not just have nine slight variations of the same angle.\n\nThe nine photos can show: holding grapes and smiling, lying on the grass looking at the camera, holding a grape to the mouth, organizing the basket, sitting still facing forward, a close-up of a grape against the cheek, a candid turning shot, smelling the grapes with eyes closed, and lying on the grass holding the basket. Expressions should be varied, including quiet, playful, gentle, smiling with eyes closed, naturally daydreaming, and candid laughter.\n\nThe style is Fujifilm camera texture, Japanese film photography style, realistic shooting feel, soft natural light, shallow depth of field, slight film grain, and fresh natural tones. Purple grapes should be the visual focus. The image is clean, durable, and has a sense of life and youth.\n\nAvoid: Western faces, influencer faces, over-beautification, plastic skin, fake faces, repetitive expressions, repetitive angles, hand deformities, distorted props, messy backgrounds, studio style, illustration style, or CG feel.",
     "title": "Summer Grape Girl Photo Series",
