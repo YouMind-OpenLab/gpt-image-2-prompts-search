@@ -1,5 +1,198 @@
 [
   {
+    "id": 19006,
+    "content": "Enhance the innocent and whimsical feel by subtly exaggerating proportions while keeping all elements recognizable, and maintain soft, friendly, joyful expressions. Preserve the core composition and identifiable elements of the original image, but reinterpret everything in a {argument name=\"style\" default=\"simplified, cartoonish crayon style\"}.",
+    "title": "Crayon Style Image Transformation",
+    "description": "A prompt that transforms existing images into a simplified, whimsical crayon-style cartoon while preserving the core composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315752589_iku48r_HH11NJabsAAB6mE.jpg",
+      "https://cms-assets.youmind.com/media/1778315752074_7m49gs_HH11NI6a0AAc9ru.jpg",
+      "https://cms-assets.youmind.com/media/1778315752471_32wpot_HH11NJ7bAAAMrg6.jpg",
+      "https://cms-assets.youmind.com/media/1778315753163_pc1w1u_HH11NJpakAAmX2A.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19033,
+    "content": "A hyper-realistic graphite pencil sketch in progress of a {argument name=\"subject\" default=\"beautiful young girl with short messy bob hair, freckles, hoop earrings, and a soft closed-eye smile\"}, resting her cheek on her hand. The sketch is placed on a {argument name=\"surface\" default=\"white drawing sheet\"} with pencils and art tools scattered around. A smartphone beside the drawing displays the same girl as the reference image. An artist’s hand is drawing the portrait with a pencil. Monochrome black-and-white aesthetic, ultra detailed shading, realistic skin texture, soft lighting, cozy artistic workspace, {argument name=\"angle\" default=\"top-down angle\"}, masterpiece sketch art, highly detailed graphite strokes, emotional and calming vibe.",
+    "title": "Hyper-Realistic Graphite Sketch Portrait",
+    "description": "A detailed prompt for generating a realistic pencil sketch of a girl featuring artistic workspace elements and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315769679_rikfxw_HH1eF3xbMAAAkkm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19147,
+    "content": "Create a highly detailed photorealistic macro photograph of an ornate hand embroidery artwork in a round wooden embroidery hoop lying on a rustic wooden craft table. The embroidered design is a tarot-card-inspired portrait of {argument name=\"animal subject\" default=\"a pink galah cockatoo\"} as {argument name=\"tarot title\" default=\"THE EMPRESS\"}: the bird sits regally on a plush red-and-gold throne, wearing a jeweled gold crown topped with red, yellow, and white feathers, a delicate necklace with a red gemstone, and holding a golden scepter. The tapestry has a warm antique-gold background with stitched clouds, rolling fields of wheat, distant green hills, a small blue river, floral bouquets beside the throne, ornate filigree borders, the Roman numeral {argument name=\"roman numeral\" default=\"III\"} at the top, and a bottom banner reading {argument name=\"banner text\" default=\"THE EMPRESS\"}. Include one heart-shaped shield at the lower front of the throne with a Venus symbol embroidered in gold. The embroidery should look tangible and dimensional, with visible satin stitch, chain stitch, French knots, metallic gold thread, raised thread texture, and tiny variations in fiber direction. Surround the hoop with real craft supplies: a cardboard tray at upper left holding 12 visible embroidery floss bobbins in red, pink, yellow, white, olive green, dark green, gray, black, brown, rust, tan, and cream; 3 loose skeins of floss at lower left in peach, coral pink, and green; 1 paper color chart at the top with 6 heart-shaped stitched swatches labeled 742, 744, 745, 783, 780, and 3853; 1 pair of vintage gold scissors at upper right; 1 metal thimble; 1 small round brass bowl containing a pincushion; and a few stray golden and peach threads near the lower right edge. Use warm natural window light, shallow depth of field, crisp focus on the hoop, cozy artisan workspace mood, muted earthy colors, ultra-realistic textile detail, no digital illustration look.",
+    "title": "Embroidered Empress Tarot Cockatoo",
+    "description": "A photorealistic craft-table scene featuring an ornate embroidered tarot card portrait, useful for generating whimsical textile art concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315826975_wdopbm_HH1dJwZasAAyRRV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19016,
+    "content": "photorealistic. {argument name=\"character\" default=\"[character]\"}. sitting at {argument name=\"environment\" default=\"[environment]\"}. expression of complete existential exhaustion. staring at {argument name=\"frustration object\" default=\"[frustration object]\"}. warm lighting. 9:16 vertical.",
+    "title": "Existential Exhaustion Photorealistic Portrait",
+    "description": "A conceptual prompt for generating photorealistic vertical images of characters expressing extreme existential exhaustion in specific environments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315758811_qwcsq6_HH1TZMaXkAgHkGN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19026,
+    "content": "A {argument name=\"mood\" default=\"[MOOD]\"} macro photograph of a {argument name=\"subject\" default=\"[TINY SUBJECT]\"} in a {argument name=\"environment\" default=\"[ENVIRONMENT made to look gigantic]\"}, with [LIGHTING] creating a sense of [EMOTIONAL QUALITY], shot with a [LENS TYPE] and a color palette of [COLOR PALETTE].",
+    "title": "Macro Photography Prompt Template",
+    "description": "A customizable template for macro photography focusing on mood, subject, and oversized environmental elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315761653_tsbi3c_HH0FB54WEAEZLr2.jpg",
+      "https://cms-assets.youmind.com/media/1778315761660_jerxlb_HH0FZIOW4AYLGsE.jpg",
+      "https://cms-assets.youmind.com/media/1778315761625_xa5z9z_HH0FdLHXcAAKVv3.jpg",
+      "https://cms-assets.youmind.com/media/1778315762586_u6awac_HH0FkshWwAACfj8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19042,
+    "content": "Please transform the entire image into a single {argument name=\"illustration style\" default=\"Decorative Folk Flat Illustration\"} with {argument name=\"elements\" default=\"Doodle elements\"}. Use a {argument name=\"color palette\" default=\"bold and playful color palette\"}, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical.",
+    "title": "Decorative Folk Flat Illustration",
+    "description": "Transforms any image into a whimsical folk art illustration with doodle elements and clean, flat shapes for a handmade feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315773707_f2pcev_HH0CCFpaUAA0W3I.jpg",
+      "https://cms-assets.youmind.com/media/1778315773761_cizpzd_HH0CCFnbwAAYWpL.jpg",
+      "https://cms-assets.youmind.com/media/1778315773737_m2a64e_HH0CCNhaEAI2W2n.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19047,
+    "content": "The Penrose impossible triangle built as a real concrete structure, aerial view, an architect standing on it casting a real shadow, extreme photorealism, no trace of digital manipulation.",
+    "title": "Penrose Impossible Triangle Structure",
+    "description": "A prompt to generate a photorealistic Penrose impossible triangle built as a real concrete structure, viewed from an aerial perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315777998_aoa5ky_HHz2Ze_a0AI7r51.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19075,
+    "content": "a {argument name=\"style\" default=\"strange image\"} of {argument name=\"subject\" default=\"Doki Doki Literature Club\"}",
+    "title": "Strange Doki Doki Literature Club Scene",
+    "description": "A prompt for generating surreal or unusual fan art based on the Doki Doki Literature Club visual novel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315795012_1cwyql_HHz0gQCWgAAq-e-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19146,
+    "content": "Create a melancholic monochrome watercolor illustration on textured off-white paper: a fragile young marionette woman seated front-facing with her knees together, torso visible from thighs to head, suspended by exactly six thin vertical puppet strings, three on the left side and three on the right side, extending beyond the top edge. She wears a tattered, lace-like sleeveless dress in {argument name=\"dress color\" default=\"washed charcoal gray\"}, with torn floral ruffles around the shoulders, neckline, waist, and skirt hem. Her posture is limp and resigned, shoulders slightly slumped, arms hanging down close to her sides as if controlled by strings. Give her {argument name=\"hair color\" default=\"soft ash gray\"} messy short hair gathered loosely into a tousled side bun, with loose strands and indistinct watercolor edges. Cover the face with a flat opaque {argument name=\"face censor color\" default=\"medium gray\"} square, centered over the facial area, creating an anonymous and unsettling mood. Use delicate ink-like pencil lines for the strings and silhouette, layered gray washes, granulating pigment, blooms, paper stains, dripping watercolor trails, and splattered textures around the body. The background should remain mostly blank white with pale gray wash clouds and vertical drips, emphasizing isolation, control, and the feeling of a marionette who thought she was free. No readable text, no frame, no bright colors, no photorealism.",
+    "title": "Melancholic Marionette Watercolor",
+    "description": "Generates a grayscale watercolor illustration of a faceless suspended marionette girl for poetic, dark, emotional concept art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315825747_d4mpx8_HHzRlvAbIAAEfmG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19143,
+    "content": "A cinematic ultra-detailed science fiction alien landscape at twilight on a distant planet: a gigantic sleek futuristic spaceship floats low across the sky from left to right above a mirror-still lake, its elongated dark metallic hull covered in intricate layered armor plates, vents, windows, exposed mechanical ribs, glowing blue and violet lights, and luminous engine details. The lake below reflects the entire spacecraft, the pastel sky, and a huge pink-purple ringed planet dominating the upper right, with two small moons nearby and a star-filled nebula sky in teal, indigo, lavender, and magenta. The foreground is a rocky alien shoreline covered with dense bioluminescent extraterrestrial plants: purple grasses, blue moss, glowing spherical flower tips, tiny luminous blossoms, and crystalline shrubs. In the middle distance, high cliffs stretch across the horizon with multiple thin waterfalls dropping into misty basins, low fog drifting over the water, and layered mountains fading into the distance. Lighting is dreamy but photorealistic, with soft sunrise/sunset colors, crisp reflections, volumetric mist, high dynamic range, extreme environmental detail, wide-angle composition, epic scale, 16:9 aspect ratio, no text, no people. Customize the scene with a {argument name=\"spaceship color\" default=\"dark gunmetal with blue and violet lights\"}, {argument name=\"planet color\" default=\"pink-purple\"}, {argument name=\"alien plant color palette\" default=\"purple, blue, lavender, and cyan bioluminescence\"}, {argument name=\"time of day\" default=\"twilight\"}, and {argument name=\"overall style\" default=\"cinematic photorealistic space opera concept art\"}.",
+    "title": "Alien Lake Spaceship Vista",
+    "description": "Generates an epic photorealistic sci-fi world with a massive spacecraft, ringed planet, reflective lake, waterfalls, and glowing alien flora.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315824394_ah8d6p_HHzCzkmaoAItogs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19005,
+    "content": "Swinging in a {argument name=\"setting\" default=\"dreamy garden\"}, like a {argument name=\"character\" default=\"princess from a fairytale\"}",
+    "title": "Dreamy Garden Princess Portrait",
+    "description": "A whimsical prompt for creating a fairytale-inspired portrait of a princess swinging in a dreamy spring garden.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315752689_6n6mdq_HHy4mMUWQAgBln5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19068,
+    "content": "Please transform this illustration into a mysterious and fantastical luminous style. Using the 【glow color: {argument name=\"glow color\" default=\"rainbow\"}】, ensure that only the outlines of the character, clothing lines, accessory details, and hair flow glow intensely with beautiful light. The lines should glow softly from within like gentle neon light, slowly emerging while scattering slight particles of light to softly illuminate the surroundings. Instead of lighting up surfaces, only the lines should be the main glowing elements, keeping other parts (skin, hair, clothing surfaces) extremely subdued. The glowing lines should create high contrast against a dark background, emphasizing the gentle spread of the {argument name=\"glow color\" default=\"rainbow\"} light spectrum. The overall atmosphere should be cool and mysterious, creating a breathtakingly beautiful silhouette where only the magical {argument name=\"glow color\" default=\"rainbow\"} outlines are visible. Maintain the original composition and features exactly.",
+    "title": "Mystical Luminous Outline Style",
+    "description": "A detailed instruction to transform an existing illustration into a mystical glowing style where only the outlines emit soft neon light against a dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315790649_9cv7xn_HHygR1tagAAM-7s.jpg",
+      "https://cms-assets.youmind.com/media/1778315790681_bwjsmq_HHygSv0bUAAghal.jpg",
+      "https://cms-assets.youmind.com/media/1778315790736_vs51nr_HHygULvboAABS4u.jpg",
+      "https://cms-assets.youmind.com/media/1778315791364_lqze5a_HHygVPraoAAVhNy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19036,
+    "content": "An {argument name=\"subject\" default=\"elderly man\"} dissolving into {argument name=\"transformation\" default=\"thousands of migrating birds\"}, the flock silhouette precisely forming his youthful outline, {argument name=\"lighting\" default=\"cinematic backlit dusk\"}",
+    "title": "Elderly Man Dissolving Into Birds",
+    "description": "A poetic and cinematic prompt for a surreal scene where an old man transforms into a flock of birds at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315771919_dsqopu_HHxdAWCagAATiMh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19064,
+    "content": "Create a high-end art piece in the style of Dunhuang murals centered on [{argument name=\"core character\" default=\"Water Moon Guanyin\"}]. The composition uses a circular light halo moon wheel center, with the main character as the sole visual core, expressing a sacred moment of seated relaxation overlooking clear water. The atmosphere should be ethereal, quiet, and complete, with museum-level aesthetics and cultural depth.\nCharacter requirements:\nThe subject should present an elegant, majestic, and divine temperament with a dignified face, not a common ancient-style beauty. Intricate gold hair crowns, pearl chains, and jewelry are worn. Clothing is luxurious with smooth lines and rhythmic flying celestial qualities.\nGold structure requirements:\nStrengthen structural gold usage to form a clear luxurious order. Use gold tracing, liquid gold, and gold leaf on crowns, clothing edges, and embroidery. Sacred elements like halos, lotus petals, and borders should have visible but restrained high-end gold decoration, presenting a 'worn but luxurious' texture.\nColor requirements:\nColors include ochre red, cinnabar, stone green, stone blue, and ivory white, supplemented by refined gold. The tone is rich, thick, and elegant.\nDecorative elements:\nIntegrate flying celestials, lotuses, auspicious clouds, and classical border decorations. Keep accompanying figures minimal (e.g., Sudhana) to maintain focus on the main subject.\nTexture requirements:\nEmphasize old grotto mural and mineral pigment textures, with visible cracks, weathering, and historal patina, while retaining the luster of gold leaf for a high-end artistic feel.",
+    "title": "Dunhuang Mural Water Moon Guanyin",
+    "description": "A majestic prompt for creating museum-grade art in Dunhuang mural style featuring the Water Moon Guanyin with intricate gold details and mineral textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315788547_mb3bu1_HHwqlCTaMAACiw3.jpg",
+      "https://cms-assets.youmind.com/media/1778315788546_qj4psg_HHwqlCTbYAACZXc.jpg",
+      "https://cms-assets.youmind.com/media/1778315788578_nh5ngi_HHwqTZWaQAAupg-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19056,
+    "content": "A young Oriental fortune teller with a powerful queen-like presence, {argument name=\"age\" default=\"25\"} years old, with long straight black hair accented by red highlights, wearing luxurious {argument name=\"clothing color\" default=\"deep red and black-gold\"} Hanfu, with a cold and elegant makeup look. She sits at a dark, throne-like ancient table, her left hand holding a {argument name=\"glowing object\" default=\"blood-red glowing crystal ball\"} (with surging dark red energy inside), and her right hand holding a dark gold Ziwei astrological plate. The background features thick red and black smoke, floating blood-colored star charts, and dramatic red light, conveying a strong sense of pressure and mystery, cinematic lighting, surrealism, 8K, Cinematic --ar 16:9 --stylize 280 --v 6",
+    "title": "Dark Queen Oriental Diviner Portrait",
+    "description": "A cinematic, dark fantasy prompt for a young Oriental fortune teller with a queen-like presence, set in a dramatic red and black atmospheric environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315784334_aylzzu_HHwlYPHakAAX9QR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19063,
+    "content": "An extremely beautiful and cool Oriental fairy fortune teller, 25 years old, with long straight black hair falling like a waterfall, wearing a {argument name=\"clothing style\" default=\"pure white gauze Hanfu\"} merged with light and ethereal elements, with faint gold stars embroidered on the cuffs and hem. Elegantly sitting in an ancient pavilion surrounded by clouds, her left hand holding a glowing white crystal ball, and her right hand holding a light gold Zi Wei Dou Shu compass. The background is a dreamy white galaxy, floating clouds, and soft petals, ultimate cool and high-end feel, cinematic lighting, surrealism, 8K, Cinematic lighting, ethereal atmosphere --ar 16:9 --stylize 200 --v 6",
+    "title": "Pure White Fairy Fortune Teller",
+    "description": "An ethereal prompt for an oriental fairy-like fortune teller in white Hanfu surrounded by floating clouds and petals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315788299_6lw3uf_HHwlL9TbkAEcIsl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19062,
+    "content": "An extremely beautiful and sexy oriental fortune teller, about 25 years old, with a charming yet high-end temperament. Long straight black hair with slight curls and luster, wearing a {argument name=\"clothing color\" default=\"deep purple\"} low-cut off-the-shoulder luxury Hanfu that perfectly outlines her body curves, adorned with gold accessories. Elegantly sitting on the edge of an ancient table, her left hand lightly touching a glowing purple crystal ball, and her right hand holding a Zi Wei Dou Shu compass, tilting her head with a seductive gaze. The background is a dreamy purple nebula with soft neon halos, dramatic light and shadow highlighting her body and face, cinematic quality, surrealism, 8K, Cinematic lighting, high-end enchanting atmosphere --ar 16:9 --stylize 250 --v 6",
+    "title": "Seductive Oriental Fortune Teller",
+    "description": "A prompt for a glamorous 25-year-old oriental fortune teller in luxurious purple Hanfu with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315787482_op4vic_HHwk4SsakAE47B1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19155,
+    "content": "Create a dark, highly detailed gothic anime illustration of {argument name=\"character count\" default=\"two\"} androgynous punk-lolita characters seated close together in an ornate candlelit Victorian room. The left character is a tall slim demon-like young man with messy {argument name=\"male hair color\" default=\"black\"} hair, pale skin, exposed chest and abs under sheer black lace, layered chokers and necklaces with cross and pentagram pendants, many rings, black leather pants with zippers, belts, chains, buckles, and a deep navy-black fur-trimmed jacket; one large black bat wing rises behind his left shoulder. The right character is a petite gothic lolita girl leaning against him, with long wavy {argument name=\"female hair color\" default=\"dark brown\"} hair braided and decorated with many tiny pink bows and heart clips, wearing a black lace bodice, pink ribbons, layered pink-and-black tutu skirt, fishnet stockings, strapped platform boots, chains, star charms, and an oversized pale pink fur-trimmed coat; one pale feathered angel wing is visible behind her right shoulder. Count exactly two visible wings total: one black bat wing on the left character and one pale feathered wing on the right character. Their faces are intentionally hidden by soft-edged opaque brown rectangular censor blocks, one larger rectangle over the taller character’s face and one smaller rectangle over the girl’s face. Use a moody romantic composition, close cropped vertical portrait, bodies intertwined, luxurious gothic accessories, lace textures, metallic chains, leather straps, fur, bows, crosses, pentagrams, hearts, and star charms. Background: dim antique interior with gilded picture frames, dark wallpaper, and a few tall candles glowing on the right. Lighting is low-key and cinematic, with warm candle highlights and cool purple-black shadows, ultra-detailed digital painting, dramatic dark fantasy fashion editorial atmosphere, {argument name=\"color palette\" default=\"black, midnight blue, dusty pink, mauve, and candlelit gold\"}.",
+    "title": "Gothic Angel Demon Couple",
+    "description": "Generates a dark fantasy gothic fashion portrait of two winged punk-lolita characters in a candlelit Victorian setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778315829528_f1grfs_HHwe8e-aQAAShNA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 18946,
     "content": "{\"type\":\"dense 16-bit JRPG pixel-art battle scene\",\"style\":\"Romancing SaGa-inspired fantasy battle screen, ornate retro pixel art, high-detail sprite work, dark whimsical toy-box atmosphere, dramatic stage lighting, no modern UI, no text boxes, wide 3:2 composition\",\"setting\":\"a chaotic indoor toy circus packed from edge to edge with antique toys, carnival props, ghosts, robots, monsters, and circus decorations; the background is a red-and-gold striped circus tent stage with purple curtains, warm string lights, bunting, hanging baubles, and shelves overflowing with toys\",\"theme\":\"{argument name=\\\"scene theme\\\" default=\\\"chaos, toys, circus\\\"}\",\"centerpiece\":\"a ringmaster toy stands on a small star-trimmed stage at the center, wearing a black top hat, red tailcoat, white gloves, green bow tie, and holding both arms open as if commanding the battle\",\"player_party\":{\"position\":\"bottom foreground, backs facing the viewer in classic JRPG battle formation\",\"count\":6,\"members\":[\"green-caped swordsman with long teal hair on the far left\",\"blond spiky-haired warrior in blue and gold\",\"purple-haired robed mage in a violet cloak\",\"brown-armored central adventurer holding a short sword\",\"long-blond-haired white-and-gold fighter\",\"blue-haired warrior in a dark blue coat on the far right\"]},\"enemy_and_toy_crowd\":{\"position\":\"middle and background facing the party\",\"count_key_visible_elements\":34,\"elements\":[\"top-left red toy airplane\",\"small silver rocket or space capsule\",\"large brown teddy bear near upper left\",\"white ballerina doll\",\"striped big-top circus tent\",\"central ringmaster toy\",\"round clock-face toy\",\"clown doll in rainbow outfit\",\"UFO with green tractor beam\",\"two white sheet ghosts\",\"small wooden puppet figures on platforms\",\"large green dinosaur with open jaws wearing a tiny party hat\",\"blue boxy robot at lower left\",\"pink plush rabbit\",\"three nested matryoshka dolls\",\"gray toy elephant with circus blanket\",\"roaring lion\",\"large silver robot on the right\",\"giraffe toy on the far right\",\"white-and-black spotted horse or cow toy\",\"gold brass tuba\",\"small skull mask or skull toy near lower right\",\"red sign reading TOY CIRCUS\",\"green jack-in-the-box sign reading JACK IN THE BOX\",\"springs and gears\",\"clockwork dolls\",\"toy soldiers\",\"balloons and ornaments\",\"small drum\",\"stacked toy blocks\",\"cymbals and brass instruments\",\"small stuffed bears\",\"rag dolls\",\"scattered balls and marbles\"]},\"occlusion_patches\":{\"count\":8,\"description\":\"eight soft brown square censor-like patches obscure selected toy faces: upper-left airplane rider, upper-left ballerina, left clown, center teddy bear, alien inside the UFO, mid-right doll, lower-right small character, and lower-center red-hooded doll\"},\"lighting\":\"warm golden carnival bulbs mixed with eerie blue shadows and a green UFO beam, high contrast, sparkling highlights on metal toys\",\"color_palette\":\"deep browns, burgundy, gold, purple, teal, clown primary colors, aged brass and toy-paint patina\",\"mood\":\"playful but ominous, overcrowded, magical, chaotic battle about to begin\",\"rendering\":\"crisp pixel-art mosaic texture, tiny detailed sprites, dense object placement, nostalgic Super Famicom RPG aesthetics, cinematic wide shot\",\"text_to_include\":[\"TOY CIRCUS\",\"JACK IN THE BOX\"],\"negative_prompt\":\"photorealism, smooth vector art, modern 3D render, empty background, minimal composition, UI menus, dialogue boxes, realistic humans, low detail\"}",
     "title": "Toy Circus JRPG Battle",
