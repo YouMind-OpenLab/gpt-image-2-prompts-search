@@ -10,13 +10,110 @@
     "needReferenceImages": true
   },
   {
-    "id": 19051,
-    "content": "An adult {argument name=\"character type\" default=\"oriental fantasy\"} female character in a 3D CG style. A close-up half-body portrait composition where she is sitting on a {argument name=\"furniture\" default=\"soft sofa\"}, with the camera at a slightly high angle looking down. She is leaning forward slightly towards the lens, in a natural, quiet, and slightly lazy pose with a soft and elegant aura.\n\nShe has a delicate and beautiful face, fair and fine skin, three-dimensional but soft features, and clear, charming ice-blue eyes with fine highlights. Her long silver hair is soft and fluffy, with side-swept bangs naturally falling and partially covering one eye, styled in a loose thick braid draped over her shoulder with silk-like luster.\n\nShe wears a {argument name=\"clothing\" default=\"white sleeveless high-neck knit sweater\"} made of thick, soft cable-knit material that fits her curves, showing an elegant silhouette. Her shoulders are exposed, paired with black knit long sleeves for a strong contrast. The overall outfit is simple, soft, and has a strong winter feel.\n\nThe scene is a private indoor space with a blurred background, featuring soft grey fabrics and warm indoor lighting. The overall style is high-quality 3D CG character rendering with a semi-realistic aesthetic, featuring exquisite modeling, realistic skin subsurface scattering, delicate hair rendering, movie-level soft light, and high-end 3D character portrait quality.",
-    "title": "3D CG Fantasy Woman Portrait",
-    "description": "A detailed high-end 3D CG prompt for an oriental fantasy character sitting on a sofa, with silver hair and cinematic soft lighting.",
+    "id": 19348,
+    "content": "{\"type\":\"anime character reference sheet\",\"title_text\":\"{argument name=\\\"character name\\\" default=\\\"ALVINA\\\"}\",\"canvas\":\"wide horizontal white background with clean spacious margins, elegant fantasy design-sheet presentation, thin dark burgundy divider lines and small ornamental fleur-de-lis accents\",\"style\":\"delicate Japanese anime concept art, soft watercolor shading, fine ink linework, pale warm lighting, refined character-design turnaround sheet\",\"character\":{\"gender_age\":\"young petite girl, childlike proportions\",\"hair\":{\"color\":\"{argument name=\\\"hair color\\\" default=\\\"very pale silver-white with pink underside tips\\\"}\",\"style\":\"short tousled bob reaching the neck, wispy bangs, layered loose strands, red flower hair clip on the left side\"},\"face\":\"facial features intentionally hidden by a soft opaque pale beige square censor block in every portrait and expression crop\",\"skin\":\"fair skin\",\"accessories\":\"small necklace with tiny pendant, simple bracelets, red flower hair ornament\",\"outfit\":\"{argument name=\\\"outfit description\\\" default=\\\"off-shoulder white midi dress with ruffled neckline, thin shoulder straps, loose bell sleeves, gathered waist, narrow brown belt, and soft vertical folds\\\"}\",\"footwear\":\"brown strappy platform sandals with ankle straps\"},\"layout\":{\"top_center\":\"large serif uppercase name ALVINA in dark burgundy, with a thin horizontal line and small ornament beneath\",\"main_turnaround\":{\"position\":\"left and center across the page\",\"count\":3,\"views\":[{\"label\":\"FRONT\",\"position\":\"left\",\"description\":\"full-body front view, standing neutrally with arms relaxed, dress hanging straight to mid-calf\"},{\"label\":\"BACK\",\"position\":\"center\",\"description\":\"full-body back view, showing shoulder straps, back of ruffled neckline, brown belt, bob haircut with pink tips, and sandal backs\"},{\"label\":\"SIDE\",\"position\":\"right of center\",\"description\":\"full-body side profile facing right, showing the flower clip, side silhouette of the dress, and platform sandals\"}]},\"expression_column\":{\"position\":\"far right vertical column\",\"count\":3,\"crops\":[{\"label\":\"SMILE\",\"description\":\"upper-body bust crop with the same outfit and hair ornament, face covered by beige square mask\"},{\"label\":\"ANGRY\",\"description\":\"upper-body bust crop repeated below, labeled angry, face covered by beige square mask\"},{\"label\":\"SAD\",\"description\":\"upper-body bust crop at bottom, labeled sad, face covered by beige square mask\"}]},\"visible_labels_count\":6,\"visible_labels\":[\"FRONT\",\"BACK\",\"SIDE\",\"SMILE\",\"ANGRY\",\"SAD\"]},\"typography\":\"thin elegant serif uppercase labels in dark brown, each label flanked by short horizontal rules and small decorative marks\",\"color_palette\":\"mostly ivory white, pale blush pink, muted burgundy, warm brown leather, soft gray shadows\",\"rendering_notes\":\"preserve the exact reference-sheet composition, with three full-body turnaround figures and three bust expression samples; use clean white negative space and avoid background scenery\"}",
+    "title": "Alvina Anime Character Reference Sheet",
+    "description": "Generates a clean anime fantasy character turnaround sheet with three full-body views and three labeled expression busts for concept art use.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1778315780730_pemugv_HH3Ja1Ca4AAKaKh.jpg",
-      "https://cms-assets.youmind.com/media/1778315780738_yvmug1_HH3JavrbcAEXDbd.jpg"
+      "https://cms-assets.youmind.com/media/1778402655801_6u9lqy_HH5TYa8awAAccQy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19272,
+    "content": "{argument name=\"subject\" default=\"Cthulhu\"}\nThe Great Cthulhu\n\nIa! Ia!",
+    "title": "Great Cthulhu Portrait",
+    "description": "A prompt to generate a dark and powerful depiction of the Great Cthulhu from the Lovecraftian mythos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402618046_9v0db8_HH6mV8MawAAGsSr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19235,
+    "content": "Use the uploaded reference image as the exact identity for the main trainer character. Preserve the person’s facial structure, hairstyle, skin tone, expression style, body type, and overall likeness while transforming them into a beautifully illustrated anime-inspired Pokémon trainer poster in a nostalgic adventure-journal aesthetic.\n\nCreate a full highly detailed vertical composition designed like a handcrafted Pokémon trainer profile scrapbook page mixed with vintage travel journal art and official Pokémon concept artwork. The final image should feel like a premium collector’s character profile card from a cozy fantasy Pokémon world.\n\nSTYLE & ART DIRECTION:\nSoft painterly anime illustration\nPokémon official artwork inspired rendering\nHand-painted watercolor + ink line aesthetic\nWarm nostalgic storybook tones\nDetailed environmental storytelling\nVintage paper textures, taped notes, stickers, stamps, handwritten annotations\nGhibli-like warmth mixed with modern Pokémon promotional art\nExtremely detailed but visually clean composition\nRich adventure atmosphere\nCozy slice-of-life fantasy mood\nSoft sunlight and cinematic environmental lighting\nHighly expressive but natural posing\n\nMAIN CHARACTER:\nTransform the reference person into a Pokémon trainer adventurer/traveler while keeping the exact likeness recognizable.\nCasual layered adventure outfit\nStylish jacket over graphic shirt\nBackpack with travel accessories\nCamera hanging from shoulder or neck\nRelaxed friendly pose\nConfident warm smile\nAnime stylization while preserving identity\nSlight windswept hair\nNatural anatomy and proportions\nFashionable modern Pokémon trainer aesthetic\n\nCOMPOSITION:\nThe page should be designed like a complete trainer profile sheet.\nInclude:\nLarge central full-body illustration of the trainer\nMultiple Pokémon surrounding the character naturally\nDecorative trainer information panels\nVintage scrapbook borders\nHandwritten notes and adventure annotations\nPolaroid-style snapshots around the edges\nPokémon team cards on one side\nSmall travel sketches and doodles\nDecorative stamps, clips, tape pieces, map textures\nNotebook/journal design language\nSoft aged parchment paper background\nTiny environmental storytelling details everywhere\n\nBACKGROUND:\nCreate a beautiful {argument name=\"setting\" default=\"coastal fantasy Pokémon town\"} inspired by:\nMediterranean harbor scenery\nBlue ocean water\nSunny skies\nStone buildings\nAdventure-world atmosphere\nPeaceful vacation vibe\nPokémon-world architecture\nLush greenery and flowers\nSoft clouds and distant mountains\n\nPOKÉMON INTERACTION:\nThe Pokémon should interact naturally with the trainer:\nSitting beside them\nLooking at camera\nResting on shoulder\nPlaying around feet\nDynamic but cozy interaction\nNatural emotional chemistry\n\nLAYOUT DETAILS:\nTop section:\nLarge handwritten trainer name\n“Trainer Profile” heading\nDecorative paper labels\n\nRight-side panel:\nCharacter bio stats\nAdventure information\nPersonality traits\nJourney notes\nFavorite things\nPokémon seen",
+    "title": "Pokemon Trainer Profile Journal Poster",
+    "description": "Converts a reference face into a detailed anime-style Pokémon trainer profile, designed as a vintage scrapbook page with watercolor art, sketches, and travel annotations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402590636_xoqzxe_HH6Op5WbIAADqwk.jpg",
+      "https://cms-assets.youmind.com/media/1778402592020_5omilg_HH6Op5yacAA1AoN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19259,
+    "content": "Use the provided face as the primary identity. Preserve exact facial structure, proportions, eyes, nose, lips, and natural skin texture. Do not alter identity.\n\nA highly realistic photo of a {argument name=\"subject\" default=\"young woman\"} sitting on top of a {argument name=\"structure\" default=\"Minecraft-style house roof\"}, viewed from a high aerial perspective. The environment is a vast Minecraft world with blocky forests, rivers, and villages far below, rendered in authentic Minecraft style (pixelated textures, cubic geometry).\n\nSubject:\n- Female sitting casually on the edge of the roof\n- Natural relaxed pose, slightly leaning back with one hand supporting body\n- Looking up toward the camera (top-down drone angle)\n- Expression slightly open mouth / candid / playful\n\nOutfit:\n- White sleeveless top\n- Long sleeve flannel shirt tied around the waist\n- Black oversized pants\n- Casual streetwear vibe\n\nStyle & Rendering:\n- Face and body must be photorealistic (real human skin, natural lighting)\n- Environment fully Minecraft style (blocky, pixel textures)\n- Seamless blend between realistic subject and game world\n- Soft daylight, slightly hazy distance, cinematic depth\n- High detail, sharp focus on subject, background slightly blurred (depth of field)\n\nComposition:\n- Subject centered on rooftop\n- Roof clearly Minecraft block style\n- Extreme height feeling (ground very far below)\n- Slight wide-angle lens effect\n\nQuality:\nultra realistic, 4k, high detail, cinematic lighting, photorealistic skin texture, no cartoon face, no distortion, no extra limbs",
+    "title": "Minecraft Rooftop Aerial Portrait",
+    "description": "A creative prompt blending a photorealistic human subject with a blocky, authentic Minecraft environment from a high-angle drone perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402607089_suzkmw_HH4890PaEAEc5Re.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19218,
+    "content": "Recreate the look of a classic {argument name=\"game\" default=\"Pokémon Game Boy\"} screenshot, but rendered as gorgeous, highly detailed pixel art. Layer in cool {argument name=\"effect\" default=\"dramatic visual effects from the move being used\"}, finished with a clean modern minimal {argument name=\"interface\" default=\"UI\"} on top.",
+    "title": "Retro Game Pixel Art Battle",
+    "description": "A prompt to recreate the aesthetic of classic Game Boy battle screens using highly detailed pixel art and modern UI overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402583591_hyzrhp_HH48f_2bUAApMzg.jpg",
+      "https://cms-assets.youmind.com/media/1778402583567_uko3c7_HH48f-Pa8AANVI0.jpg",
+      "https://cms-assets.youmind.com/media/1778402583518_ejw1m1_HH48f-PboAAe-H3.jpg",
+      "https://cms-assets.youmind.com/media/1778402584350_1tenc4_HH48f-NaIAEqlWJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19274,
+    "content": "This is {argument name=\"material\" default=\"a 3D model hair texture\"}. Referring to this, please create a {argument name=\"output type\" default=\"height map\"} that follows the flow of the hair more finely than the original image.",
+    "title": "3D Hair Texture Height Map",
+    "description": "A prompt for generating detailed height maps from 3D hair textures, specifically designed to follow the natural flow of the strands for modeling purposes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402617126_2p9vw1_HH4bX8qaoAA_iUV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19286,
+    "content": "{argument name=\"subject\" default=\"female android\"} on a {argument name=\"setting\" default=\"spaceship\"}",
+    "title": "Female Android on a Spaceship",
+    "description": "A portrait of a female android set within a spaceship environment, created using GPT-Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402624687_maker7_HH4XUwLb0AAIcrz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19273,
+    "content": "Please convert this illustration into a {argument name=\"style\" default=\"Wireframe\"} style. Express the outline and internal structure with thin, precise lines, and draw polygon edges and geometric lines overlaid throughout like a 3D model. Lines should be uniform and sharp, emphasizing three-dimensionality and depth through intersecting lines, making it look like a light, transparent structure. The overall atmosphere should be cool and technological, futuristic and minimalist, finished with the refined beauty of digital design or 3D modeling. Do not alter the composition, character's expression, pose, silhouette, or major features of the original illustration at all, and reconstruct it beautifully as a {argument name=\"style\" default=\"wireframe\"}.",
+    "title": "3D Wireframe Illustration Transformation",
+    "description": "Transforms an existing illustration into a detailed 3D wireframe style with precise geometric lines and polygon edges while maintaining original composition and features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402615641_7uy4tz_HH4Ddgka0AEaqn_.jpg",
+      "https://cms-assets.youmind.com/media/1778402615587_ht5s17_HH4Dee4bsAAzn5y.jpg",
+      "https://cms-assets.youmind.com/media/1778402616860_46irwn_HH4DhNEbcAAaUw4.jpg",
+      "https://cms-assets.youmind.com/media/1778402617050_708rz5_HH4DiMaakAASOk-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19353,
+    "content": "Using REFERENCE_0 as the character base, transform the angel character sheet into a cute chibi three-view turnaround. Keep the original angel design, white feather wings, long pale hair, flower hair accessory, white dress, blue ribbons, barefoot look, soft pastel anime rendering, and plain white background. Change the body proportions to super-deformed chibi style with a large head, small childlike body, simplified hands and feet, and rounder silhouette while preserving the same delicate details. Arrange exactly 3 full-body views horizontally: front view on the left, side profile in the center, and back view on the right. Maintain clean character-reference-sheet spacing, high detail, soft lighting, and 4K-quality finish.",
+    "title": "Chibi Angel Three-View Turnaround",
+    "description": "Generates a chibi version of an existing angel character reference sheet with front, side, and back views for character design use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402658698_1zjku5_HH3k0uRaYAA_KHQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19051,
+    "content": "An adult East Asian fantasy female character, 3D CG style, close-up half-body portrait composition. The character sits on a soft sofa, with the camera looking down from a slightly high angle. The character leans slightly forward toward the lens, with a natural, quiet, slightly lazy, and soft sexy aura. She has a delicate and beautiful face, fair and fine skin, three-dimensional but soft facial features, clear and charming eyes, {argument name=\"eye color\" default=\"ice blue\"} eyes with fine highlights, long eyelashes, natural rosy lip color, slightly moist lips, and a gentle, quiet, slightly detached expression. She has {argument name=\"hair color\" default=\"silver-white\"} long hair, smooth and fluffy, with side-swept bangs falling naturally, some bangs covering one eye, and her long hair braided into a loose thick braid over her shoulder, with rich hair details and a soft silk-like luster. She wears a {argument name=\"sweater description\" default=\"white sleeveless high-neck knit sweater\"}, which is thick and soft cable-knit, fitting the body curves to show a natural and elegant chest contour and slim waist; shoulders are exposed, paired with black knit long sleeves / off-the-shoulder sleeves, creating a strong contrast between white and dark gray-black. The overall outfit is simple, soft, with a strong winter feel, sexy but restrained, high-end and not vulgar. The scene is a private indoor space, background blurred, with a soft sofa, light gray fabric, and warm indoor lighting, overall simple and quiet. Light shines softly from the side front, forming natural facial shadows, shoulder and neck highlights, and knit texture details. The color palette is dominated by silver-white, cream-white, light gray, dark gray-black, and ice blue, cold-toned and clean, soft and transparent, with a high-end 3D character poster texture. High-quality 3D CG character rendering, semi-realistic anime style, exquisite character modeling, realistic skin subsurface scattering, fine hair rendering, soft knit material, cinematic soft light, shallow depth of field, fine highlights, clean background, high-end game character CG. Ratio 9:16.",
+    "title": "3D CG Oriental Fantasy Female Character",
+    "description": "A high-end 3D character portrait prompt for an elegant female character in a cozy indoor setting, featuring high-quality textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402613201_q84kaf_HH3Ja1Ca4AAKaKh.jpg",
+      "https://cms-assets.youmind.com/media/1778402613340_60xhlp_HH3JavrbcAEXDbd.jpg"
     ],
     "needReferenceImages": false
   },
@@ -29,6 +126,57 @@
       "https://cms-assets.youmind.com/media/1778315816759_pcirff_HH3JsjgasAAV5XQ.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 19304,
+    "content": "Create a polished anime-style fantasy illustration of two adult Chinese xianxia court beauties reclining closely together on a luxurious carved wooden bed in an ornate ancient palace bedroom. Both women have very long flowing {argument name=\"hair color\" default=\"glossy black\"} hair, elaborate high updos with gold floral hairpins, dangling ornaments, earrings, and delicate necklaces; their faces are softly obscured by a smooth rectangular blur as if anonymized. They wear sheer, elegant hanfu-inspired night robes in {argument name=\"left robe color\" default=\"deep royal purple\"} and {argument name=\"right robe color\" default=\"pale lavender pink\"}, with gold embroidery, translucent draped sleeves, layered gauze, and a refined sensual fashion look rather than explicit nudity. Pose them seated and reclining side by side on white pillows and silk bedding, legs gracefully crossed and overlapping, bare feet visible, long hair spilling across the bed in sweeping black ribbons. The room should feel like a warm lantern-lit imperial boudoir with carved lattice railings, dark wooden screens, bedside cabinets, glowing paper lanterns, sheer white canopy curtains, soft golden sunlight from the side, floating dust motes, and curling {argument name=\"magical smoke color\" default=\"violet\"} incense-like wisps around them. Use a vertical composition, high-detail digital painting, glossy anime realism, delicate skin shading, ornate gold trim, cinematic warm lighting, shallow depth of field, luxurious romantic atmosphere, and rich purple-gold color harmony.",
+    "title": "Xianxia Palace Boudoir Duo",
+    "description": "Generates a luxurious anime-style fantasy palace bedroom scene with two adult xianxia women in ornate sheer robes and warm lantern lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402634413_fdpc7o_HH3BzVfbEAEQ0o1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19322,
+    "content": "{\n  \"type\": \"anime fashion character reference sheet\",\n  \"style\": \"polished Japanese anime illustration, clean ink lines, soft watercolor-like shading, pastel palette, high-detail fabric folds and lace, off-white studio background, no section titles\",\n  \"character\": {\n    \"identity\": \"young fashionable girl model, face intentionally obscured by a soft square mosaic blur in every front-facing view\",\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"warm light brown\\\"} shoulder-length wavy bob with glossy highlights, side part, curled ends, layered bangs hidden by blur in front views\",\n    \"hair accessories\": \"pink floral hair clips and small black-and-red decorative clips clustered on one side\",\n    \"jewelry\": \"large silver hoop earrings and a black lace choker with a small pendant\"\n  },\n  \"outfit\": {\n    \"theme\": \"sweet pastel street-fashion idol outfit with lolita-inspired lace details\",\n    \"main clothing\": \"{argument name=\\\"outfit style\\\" default=\\\"off-shoulder white blouse with lace trim, ribbon bow at the collar, cream pleated mini skirt, layered lace ruffle hem, and asymmetrical sheer high-low underskirt\\\"}\",\n    \"outerwear\": \"oversized dusty pink zip hoodie worn open and slipped off the shoulders, ribbed cuffs, soft voluminous sleeves\",\n    \"waist\": \"bright striped belt in turquoise, hot pink, and black with a small buckle\",\n    \"socks and shoes\": \"gray crew socks with pink and teal stripes, chunky beige platform sneakers with thick soles and brown laces\"\n  },\n  \"layout\": {\n    \"canvas\": \"wide horizontal reference sheet composition, five full-body character views arranged left to right with accessory callouts floating between them\",\n    \"character views\": {\n      \"count\": 5,\n      \"items\": [\n        \"leftmost back view showing the hooded pink cardigan, striped pleated skirt back, wavy hair from behind, socks, and platform sneakers\",\n        \"front view with both arms relaxed, full outfit visible, square blurred face\",\n        \"slight three-quarter front view with one hand near the hoodie opening, square blurred face\",\n        \"largest central-right front fashion detail view cropped slightly lower, emphasizing blouse lace, ribbon, belt, ruffled skirt, sheer train, and oversized sleeves, square blurred face\",\n        \"rightmost front view standing straight with cardigan open, square blurred face\"\n      ]\n    },\n    \"callouts\": {\n      \"count\": 5,\n      \"items\": [\n        \"simple line drawing of the white blouse and pleated skirt near the upper left\",\n        \"vertical bracelet or strap accessory with pale pink panels and dark chain edging near the upper center\",\n        \"four small color swatches: pink, pale cream, dark gray, and peach\",\n        \"small round cosmetic compact or ring-like accessory beside the swatches\",\n        \"single thin circular ring outline near the upper right\"\n      ]\n    }\n  },\n  \"rendering details\": \"Use crisp fashion-design-sheet linework, subtle paper texture, careful lace patterns, pleated skirt construction, realistic sneaker details, pastel shadows, and balanced spacing. Keep the background blank and cream colored, with no readable labels or captions.\",\n  \"customization\": {\n    \"character name\": \"{argument name=\\\"character name\\\" default=\\\"Pastel Street Lolita Girl\\\"}\",\n    \"background color\": \"{argument name=\\\"background color\\\" default=\\\"warm off-white\\\"}\",\n    \"face treatment\": \"{argument name=\\\"face treatment\\\" default=\\\"soft square mosaic blur covering the face\\\"}\"\n  }\n}",
+    "title": "Pastel Street Lolita Reference Sheet",
+    "description": "Generates a wide anime fashion reference sheet with five full-body views, accessory callouts, and detailed pastel street-lolita clothing design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402641372_3e7wvf_HH2_gkAaEAE_9IF.jpg",
+      "https://cms-assets.youmind.com/media/1778402641255_l3a6x5_HH2_nmPaIAAH8oD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19275,
+    "content": "Facial expression change FACS AU46\\n\\nFacial Action Coding System (FACS) List\\nFemale Character Reference Grid\\n\\n1. AU1 - Inner Brow Raiser\\n2. AU2 - Outer Brow Raiser\\n3. AU4 - Brow Lowerer\\n4. AU5 - Upper Lid Raiser\\n5. AU6 - Cheek Raiser\\n6. AU7 - Lid Tightener\\n7. AU9 - Nose Wrinkler\\n8. AU10 - Upper Lip Raiser\\n9. AU11 - Nasolabial Deepener\\n10. AU12 - Lip Corner Puller\\n11. AU13 - Sharp Lip Puller\\n12. AU14 - Dimpler\\n13. AU15 - Lip Corner Depressor\\n14. AU16 - Lower Lip Depressor\\n15. AU17 - Chin Raiser\\n16. AU18 - Lip Pucker\\n17. AU20 - Lip Stretcher\\n18. AU22 - Lip Funneler\\n19. AU23 - Lip Tightener\\n20. AU24 - Lip Pressor\\n21. AU25 - Lips Part\\n22. AU26 - Jaw Drop\\n23. AU27 - Mouth Stretch\\n24. AU28 - Lip Suck\\n25. AU41 - Lid Droop\\n26. AU42 - Slit Eyes\\n27. AU43 - Eyes Closed\\n28. AU44 - Squint\\n29. AU45 - Blink\\n30. AU46 - Wink\\n31. AU51 - Head Turn Left\\n32. AU52 - Head Turn Right\\n33. AU53 - Head Up\\n34. AU54 - Head Down\\n35. AU55 - Head Tilt Left\\n36. AU56 - Head Tilt Right\\n37. AU57 - Head Forward\\n38. AU58 - Head Back\\n39. AU61 - Eyes Turn Left\\n40. AU62 - Eyes Turn Right\\n41. AU63 - Eyes Up\\n42. AU64 - Eyes Down\\n43. AU71 - Brow Furrow\\n44. AU72 - Brow Bulge\\n45. AU81 - Chewing\\n46. AU82 - Nostril Dilator\\n47. AU83 - Nostril Compressor\\n48. AU84 - Tongue Up\\n49. AU85 - Tongue Out",
+    "title": "FACS Facial Expression Control",
+    "description": "A specialized prompt system using Facial Action Coding System (FACS) codes to precisely modify expressions on reference characters in GPT Image 2.0.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402618982_ok5c5x_HH2xBSLaoAAQehj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19362,
+    "content": "Create a single full-body chibi character render in a chunky low-poly voxel/pixel-art 3D style on a plain white background. The character is a cute petite girl avatar with an oversized head, tiny body, pale skin, huge glossy black eyes with white highlights, a small neutral mouth, and bright {argument name=\"hair color\" default=\"neon green\"} bobbed hair with straight bangs and two short segmented spiral pigtails. She wears large black cat-ear headphones with pointed ears, plus a small skull hair clip on the right side of her bangs. Add oversized purple rounded glasses. Her outfit is a school-uniform-inspired look: black blazer, white shirt, black necktie, green-and-blue plaid skirt, white socks, and black shoes. Behind her on the left side, attach a thin black fishing-rod-like stick or dangling accessory holding exactly 1 small orange carrot with green leaves, hanging beside her head. Pose her standing upright facing slightly to the viewer’s right with arms down, feet close together, cute toy-like proportions. Use visible square pixels, blocky edges, simple flat lighting, subtle ambient shadow, crisp silhouette, and a clean isolated character-design presentation.",
+    "title": "Voxel Chibi Cat-Ear Girl",
+    "description": "Generates a cute voxel-style chibi avatar with neon hair, cat-ear headphones, glasses, school uniform, and a dangling carrot accessory.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402662701_ooswcu_HH2g5SVbMAA04D2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19234,
+    "content": "Ancient Japanese samurai warlord standing under {argument name=\"moon color\" default=\"burning red\"} moon, {argument name=\"armor style\" default=\"black armor with glowing purple cracks\"}, {argument name=\"weapon effect\" default=\"katana covered in fire sparks\"}, cinematic shadows, Japanese dark fantasy, unreal engine style, ultra realistic anime fusion, smoke and embers everywhere",
+    "title": "Dark Fantasy Samurai Warlord",
+    "description": "Generates a cinematic dark fantasy illustration of a Japanese samurai with glowing armor under a burning red moon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778402591670_e22y6r_HH2G1noaIAA36-K.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 19163,
