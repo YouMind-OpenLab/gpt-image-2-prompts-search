@@ -1,5 +1,149 @@
 [
   {
+    "id": 19757,
+    "content": "{\"type\":\"square social media collage of AI-generated profile image examples\",\"overall_style\":\"clean 3 by 3 gallery grid on a white background, nine equally sized rounded-square image tiles with narrow gutters, polished prompt-showcase aesthetic, each tile a different visual style, some human faces intentionally obscured by soft rectangular blur masks for privacy\",\"canvas\":\"1:1 square composition, approximately 768 by 768 pixels, crisp digital export\",\"layout\":{\"grid\":\"3 columns by 3 rows\",\"count\":9,\"tiles\":[{\"position\":\"top left\",\"short_description\":\"fashion magazine poster with a young woman in bright orange streetwear stepping toward the camera, white sneaker in extreme foreground, studio white background, orange graphic UI accents and social icons\",\"visible_text\":[\"Step into\",\"NEXT LEVEL\",\"10M+\"]},{\"position\":\"top center\",\"short_description\":\"intricate stained-glass style portrait of a dark-haired figure in profile, black leading lines, warm cream and muted blue glass pieces, ornate gothic window pattern\"},{\"position\":\"top right\",\"short_description\":\"anime occult scholar portrait with long dark hair, purple-black outfit, raised hand gesture, floating talismans, handwritten notes, ghosts, colorful doodles, black cat at lower right, face blurred\"},{\"position\":\"middle left\",\"short_description\":\"travel poster architectural typography, large word formed from cathedral and old city landmarks, panoramic skyline strip across the top, cream background with small birds and decorative marks\",\"visible_text\":[\"DURIN\"]},{\"position\":\"middle center\",\"short_description\":\"sports broadcast screenshot style portrait of a baseball fan or player in a white Doosan Bears jersey, stadium crowd background, Korean TV graphics, face blurred\",\"visible_text\":[\"DOOSAN\",\"Bears\"]},{\"position\":\"middle right\",\"short_description\":\"Y2K cyber pop idol magazine cover, black leather jacket, pink and purple neon typography, sticker-like labels, glossy editorial lighting, face blurred\",\"visible_text\":[\"GEN STAR\",\"Seoul Vibes\",\"Y2K\",\"ULTRA GIRLS\"]},{\"position\":\"bottom left\",\"short_description\":\"neon wireframe cyberpunk cathedral or gothic city, glowing cyan and magenta lines on a dark background, architectural blueprint hologram look\"},{\"position\":\"bottom center\",\"short_description\":\"sepia vintage romantic portrait collage sheet featuring one central young woman in a cream blouse plus six smaller portrait cutouts around her, lace and soft paper texture, all faces blurred\",\"count_details\":\"7 visible portrait cutouts total: 1 large central portrait and 6 smaller surrounding portraits\"},{\"position\":\"bottom right\",\"short_description\":\"storybook pop-up book diorama with a dark fantasy princess in a purple-black gown standing among mountains, castles, moon and clouds, Korean label plaques, antique lace tabletop setting\"}]},\"privacy_effect\":\"Apply soft beige-gray blur rectangles over every realistic or anime face that appears identifiable, matching the underlying skin tone and preserving the rest of each artwork.\",\"rendering\":\"high-resolution digital collage, sharp edges, rounded corners, slight natural variation between tiles, no extra captions outside the nine images\",\"customization\":{\"gallery theme\":\"{argument name=\\\"gallery theme\\\" default=\\\"AI-generated agent profile image prompt showcase\\\"}\",\"grid size\":\"{argument name=\\\"grid size\\\" default=\\\"3 by 3\\\"}\",\"background color\":\"{argument name=\\\"background color\\\" default=\\\"white\\\"}\",\"privacy blur\":\"{argument name=\\\"privacy blur\\\" default=\\\"soft face-obscuring blur masks\\\"}\",\"visual variety\":\"{argument name=\\\"visual variety\\\" default=\\\"fashion poster, stained glass, anime occult, travel typography, sports broadcast, Y2K magazine, cyber cathedral, vintage portrait collage, fantasy pop-up book\\\"}\"}}",
+    "title": "Nine-Panel AI Profile Gallery Collage",
+    "description": "Generates a square 3x3 showcase collage of varied AI profile image styles with rounded tiles and privacy-blurred faces for social media sharing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575553463_nn7ro1_HIGi8C3bQAA_ZBl.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19730,
+    "content": "Using the provided reference image as the character base, keep the same chibi 3D figure, outfit, hairstyle, lighting, plain white background, and overall composition unchanged, but modify only the facial expression according to FACS action units: {argument name=\"FACS action units\" default=\"AU1C + AU2C + AU5D + AU26C\"}. Preserve the reference image’s square face-obscuring block in the same central position and regenerate the image cleanly with the same toy-like render quality.",
+    "title": "FACS Expression Edit",
+    "description": "Generates a minimally altered version of a reference character image with a specified FACS-based facial expression change while preserving the original look and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575538923_37wqcu_HIEOJlVaYAADgda.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19747,
+    "content": "Create an ultra-photorealistic extreme close-up crop of a young woman’s eyes and upper nose bridge, focusing on detailed eyelashes and especially the subtle lower eyelashes. The subject has {argument name=\"eye color\" default=\"gray-green\"} eyes, {argument name=\"hair color\" default=\"blonde\"} hair falling loosely across the forehead and left side of the frame, natural light skin with faint freckles and realistic pores, soft peach undertones, and minimal natural makeup. The image is tightly framed in a wide horizontal aspect ratio so only both eyes, eyebrows, part of the nose bridge, and a small amount of cheek/forehead are visible; no mouth or full face. Render delicate individual upper lashes, simplified but visible lower lashes under both eyes, moist catchlights on the irises, realistic eyelid texture, soft shadows, and shallow depth of field. Use warm natural daylight from the upper right, cinematic macro photography, high-resolution skin detail, realistic lens softness, muted beige and honey tones, intimate beauty editorial style.",
+    "title": "Photorealistic Close-Up Eyes",
+    "description": "Generates a tightly cropped photorealistic beauty macro focused on eyes, eyelashes, and natural skin detail for studying lash rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575548623_x7m36s_HIDSkCwaQAUSmUC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19746,
+    "content": "Create an ultra-photorealistic extreme close-up portrait focused on the eyes of a young woman with {argument name=\"hair color\" default=\"sunlit blonde hair\"}. The composition is a tight horizontal crop showing only the upper half of the face from just above the eyebrows to the bridge and top of the nose, with one side of the face partly framed by loose strands of hair. She has {argument name=\"eye color\" default=\"pale blue-gray eyes\"}, natural eyebrows, faint freckles across the nose and cheeks, realistic skin texture, and detailed upper and lower eyelashes with the lower lashes clearly visible but fine and natural. Her expression is calm and neutral, looking directly into the camera. Use warm natural daylight from the left, soft shadows, shallow depth of field, cinematic realism, high-resolution skin detail, natural makeup, slightly tousled hair, and a subtle golden outdoor glow. Aspect ratio should be a wide banner-like crop, approximately 4:1.",
+    "title": "Photorealistic Blonde Eye Close-Up",
+    "description": "Generates a wide, ultra-realistic close-up portrait emphasizing natural eyes, lashes, skin texture, and warm daylight for beauty or realism studies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575548649_kg9uks_HIDSkCuaQAUgzpV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19743,
+    "content": "Create an extreme photorealistic close-up portrait cropped tightly across the upper half of a young woman's face, showing only both eyes, eyebrows, bridge of nose, upper cheeks, and strands of hair at the edges. She has {argument name=\"eye color\" default=\"pale green-gray\"} eyes looking directly into the camera, natural asymmetrical eyelids, detailed irises with catchlights, long dark upper eyelashes, and visibly sparse simplified lower eyelashes. Her skin is realistic with pores, faint freckles, small moles, peach-pink cheek texture, subtle under-eye shadows, and natural shine on the nose bridge. She has {argument name=\"hair color\" default=\"light blonde\"} hair falling in loose strands along the left and right edges, thick natural dark-blonde eyebrows, minimal makeup with soft brown mascara and a slightly smudged eyelash look. Use warm natural daylight, shallow depth of field, intimate macro-lens framing, high-resolution skin detail, realistic color grading, no text, no accessories, no full face visible, landscape aspect ratio.",
+    "title": "Photorealistic Eye Close-Up",
+    "description": "Generates a tightly cropped photorealistic close-up of a woman's eyes for studying realistic eyelashes, skin texture, and natural portrait lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575547409_s1oncl_HIDSkCzbAAAlDPz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19728,
+    "content": "Create a realistic close-up portrait photo of a young person with {argument name=\"hair color\" default=\"vivid rainbow neon hair\"}, shaggy medium-length layered hair with a dark crown and saturated bands of magenta, violet, electric blue, cyan, green, yellow, and orange glowing around the sides. The subject is framed from chest to head, facing the camera, wearing a loose {argument name=\"shirt color\" default=\"black\"} graphic T-shirt with distressed white punk-style artwork and the visible words “CHAOS SYSTEM CONTROL,” plus a thin silver chain necklace. Place a large opaque square privacy block directly over the entire face, centered from forehead to chin, filled with a soft muted gradient of tan, mauve, green, and blue, hiding all facial features. Use a warm indoor background with shallow depth of field, dark wood or wall panels on the left, beige curtains on the right, and a softly glowing wall lamp near the upper right. Lighting should feel cinematic and cozy, with realistic skin on the visible neck, crisp colorful hair texture, natural camera bokeh, and a modern street-fashion editorial look.",
+    "title": "Rainbow Hair Censored Portrait",
+    "description": "Generates a realistic indoor street-fashion portrait with vivid rainbow hair and a square privacy censor over the face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575536818_y8x1h4_HIDSed1a8AAjbgu.jpg",
+      "https://cms-assets.youmind.com/media/1778575536842_u3gf58_HIDSed0aoAABod9.jpg",
+      "https://cms-assets.youmind.com/media/1778575537228_tu24av_HIDSedyaQAU-IVk.jpg",
+      "https://cms-assets.youmind.com/media/1778575537868_834twg_HIDSedzasAAHkbg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19636,
+    "content": "Ultra realistic close-up portrait of a {argument name=\"subject\" default=\"handsome young man\"} with {argument name=\"hair style\" default=\"thick textured dark hair\"}, light stubble beard, sharp jawline, and {argument name=\"accessories\" default=\"black rectangular eyeglasses\"}. He is wearing a simple fitted grey t-shirt. Expression is calm, confident, and thoughtful while looking slightly away from camera. Shot in a modern café or studio environment with cinematic warm bokeh lights in the background. Soft natural lighting on face, shallow depth of field, DSLR quality, ultra detailed skin texture, realistic eyes, premium lifestyle photography, 85mm lens, f/1.8, photorealistic, warm tones, clean composition, centered framing, high contrast, luxury editorial portrait style, 4K.",
+    "title": "Cinematic Cafe Studio Portrait",
+    "description": "An ultra-realistic close-up portrait prompt of a young man in a café setting with warm bokeh and professional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575475759_lsyzou_HIDCoXnaoAAmq9L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19661,
+    "content": "A stunningly beautiful {argument name=\"subject\" default=\"young Asian woman\"} with a K-pop idol aesthetic, featuring a soft V-shaped face and pale porcelain skin. She has long, {argument name=\"hair color\" default=\"platinum white hair\"} with airy see-through bangs and loose, wind-blown strands creating a natural messy look. Her eyes are large, crystal blue (resembling contact lenses), looking directly at the viewer with a pure and innocent expression. She is wearing a tight-fitting {argument name=\"outfit\" default=\"grey ribbed knit camisole\"} that highlights her figure, paired with a matching grey skater skirt. The background is a soft, out-of-focus park scene with creamy bokeh. The lighting is diffused and airy, creating a dreamy, soft-focus photorealistic portrait, 8k resolution, detailed texture.",
+    "title": "K-pop Idol Style Portrait",
+    "description": "A photorealistic 8k portrait prompt for a young woman with a K-pop aesthetic, featuring platinum hair and a soft-focus park background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575488784_kmeeqt_HIC7gKNXkAAq0Wd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19703,
+    "content": "Using the provided 4D fetal ultrasound as the sole facial-structure reference, create a warm, photorealistic newborn baby portrait that plausibly predicts the baby's appearance after birth. Transform the ultrasound into a close-up studio-style newborn photo: the baby is lying down, softly wrapped in a cream knitted blanket, with fine dark newborn hair visible, warm beige bedding, gentle natural lighting, shallow depth of field, and a tender family-photo atmosphere. Preserve only the inferred head shape and facial proportions from the reference rather than the ultrasound texture. Place a centered solid privacy block over the baby's face, colored like warm skin tone, so the facial details are hidden. Style: {argument name=\"photo style\" default=\"soft realistic newborn photography\"}; blanket color: {argument name=\"blanket color\" default=\"cream\"}; hair color: {argument name=\"hair color\" default=\"dark brown\"}; lighting: {argument name=\"lighting\" default=\"warm soft natural light\"}.",
+    "title": "4D Ultrasound to Newborn Portrait",
+    "description": "Generates a realistic newborn-style prediction from a 4D fetal ultrasound reference, suitable for sentimental family keepsakes or baby appearance previews.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575521031_9kcob5_HICm5Kgb0AAUtD5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19678,
+    "content": "{argument name=\"name\" default=\"Luce\"}\n{argument name=\"personality\" default=\"ESFP Entertainer, Sun Idol\"}\nTwin tails, energetic pose, {argument name=\"outfit\" default=\"idol costume\"}, light effects",
+    "title": "MBTI Fantasy Card: ESFP Entertainer",
+    "description": "Generates a stylized fantasy card for the ESFP personality type featuring a vibrant idol character with twin tails.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575505067_khf3tz_HIChHE3aoAAsUJu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19656,
+    "content": "Use the uploaded image as the only {argument name=\"identity reference\" default=\"identity reference\"} and transform the subject into a character rendered in the official {argument name=\"anime series\" default=\"Demon Slayer: Kimetsu no Yaiba\"} anime TV series style. The visual execution must strictly match the Demon Slayer aesthetic, featuring clean and crisp linework, high quality cel shading, and saturated yet balanced colors with a polished TV series anime finish. Do not include any manga style sketching, cross hatching, grayscale, or black and white rendering. The subject's identity must be fully preserved, including their clothing design, hairstyle and hair color, accessories, skin tone, facial expression, and pose, with no replacements or removals of any items.\nThe existing outfit should be subtly stylized with Demon Slayer Corps inspired detailing, such as sharper fabric folds, slightly reinforced layered textures, and clean anime fabric finishes, while keeping the original outfit clearly recognizable. The character must follow accurate Demon Slayer proportions, including a lean and agile body type, natural anime anatomy, expressive anime eyes with strong highlights, stylized brows, and simplified anime nose and mouth.\nThe composition is critical and must show the character fully from head to toe, with feet, legs, torso, arms, and head all visible. The framing should not crop any part of the body, and the camera distance must be wide enough to capture the entire figure, leaving a small amount of empty space above the head and below the feet so the character fits comfortably within the frame. The output must be a single full body illustration with the character centered against a {argument name=\"background\" default=\"plain white background only\"}, with no ground plane, shadows, scenery, props, weapons, objects, effects, aura, particles, motion lines, or environmental details. The final image should contain only the character, and must not include cropped framing, multiple characters, multi panel outputs, other anime styles such as Dragon Ball, Naruto, or One Piece, photorealism, painterly or textured rendering, or any background elements or objects.",
+    "title": "Demon Slayer Anime Character Portrait",
+    "description": "A highly detailed prompt to transform a reference photo into a high-quality character in the official Demon Slayer anime style while preserving the person's identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575485864_6x2ghm_HICNca7bIAAIGK5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19664,
+    "content": "Please generate a 2×2 four-grid collage photo set based on the photo uploaded by the user, with the theme of \"French Vintage Oil Painting Girl Soft Boudoir Photography.\"\n\nStrictly retain the subject's real identity features, including face shape, facial proportions, eyes, nose, lips, skin tone, perceived age, hairstyle basics, and overall temperament. Do not turn the person into a stranger. Extend the body naturally from the facial features; do not make it too thin, keep a slight soft fleshiness.\n\n## Overall Style\nThe overall set is in the French vintage oil painting girl soft boudoir style, featuring very obvious hazy soft focus, a dreamlike atmosphere, divine halos, and a soft oil-painting-like texture. The temperament should be quiet, soft, fragile, poetic, and lazy, with a touch of slight melancholy and feminine vitality, like a girl deity statue wrapped in flowers, white gauze, and warm light.\nIt is not ordinary boudoir photography, not ordinary wedding photos, and not ordinary Korean-style studio shots, but rather: a vintage oil painting girl portrait under warm golden twilight light, featuring soft boudoir body lines, a dreamlike atmosphere, and a sense of goddess-like divinity.\n\n## Makeup and Hairstyle\nThe makeup should be a translucent soft-mist base, warm cream skin tone, low-saturation nude pink or red-brown eye makeup, natural eyelashes, and bean paste nude pink or rose nude lips. The overall makeup should be soft, not heavy, and not sharp.\nThe hairstyle is French vintage long hair, which can include loose braids, a voluminous crown, natural wisps, slight curls, and a slightly messy airy feel. The hair should not be too tidy, but should have soft, loose, oil-painting-like layers.\n\n## Clothing\nClothing consists of cream-white, ivory, or off-white French vintage lace long dresses, off-the-shoulder tulle dresses, and vintage lace dresses. It should feature lace, light gauze, semi-transparent cuffs, soft folds, and layered skirts. The overall look is sacred, soft, and feminine, like a combination of a vintage nightgown and a light wedding dress feel, but avoid looking too much like modern commercial wedding photography.\n\n## White Gauze and Flowers\nThe scene must contain large areas of light and transparent white gauze, naturally draped over the back of chairs, table edges, the floor, and around the person, creating a misty sense of envelopment, floating, and airy layers.\nFloral materials should mainly be light pink roses, pink-white bouquets, white lilies, or soft light-colored flowers. They can be held in the person's arms, placed on the table, or scattered on the floor to enhance the soft beauty, vitality, and goddess atmosphere.\n\n## Scene\nThe scene is a minimalist vintage studio space with dark gray-brown, dark brown, or smoke-brown background cloth and floor cloth. Accompanied by a vintage round chair, a small round table, a lace tablecloth, a white vase, and a small amount of floral material. The scene is not complex but should have a soft, enclosed, dream-like small stage feel.\n\n## Lighting and Texture\nThis is the most important part:\nPlease use very obvious warm golden side lighting or side backlighting, like sunset sunlight shining into an old room. The light should be soft but directional, making the skin, white gauze, and flower edges appear with a distinct glow, halo, bloom, and slight hazy flare.\nThe entire set must be hazier, softer focused, and lower contrast than ordinary photography:\n- soft focus\n- diffusion filter\n- bloom\n- halation\n- dreamy blur\n- hazy glow\n- film grain\n- oil painting softness\nThe image should look like it was taken through a thin veil; details should not be too sharp, not high-definition or rigid, and not too clean. The overall presentation should have obvious mist, halos, and soft oil painting textures.\n\n## Emotion and Expression\nThe subject should not just be \"quiet and pretty\" but should have a sense of emotion and immersion. Please emphasize: fragility, laziness, thoughtfulness, slight melancholy, immersion, self-perception, quiet blooming, and divinity lit by light.\nExpressions can include: eyes closed, eyes half-closed, looking to the side, head slightly bowed, head tilted up toward the light, looking back with a gaze, or an accidental downcast look. Reduce the posed feel of ordinary front-facing shots and increase the feeling of emotional moments captured by a photographer.\n\n## Four-Grid Format\nGenerate one 2×2 four-grid collage, where each grid is a 3:4 vertical composition. All four images must belong to the same photo set: same person, same makeup system, same clothing system, same scene system, same lighting language, and same post-processing texture.\n\n## Consistent Elements\nThe following elements remain unified across the four images: same girl, same French vintage oil painting soft boudoir style, same cream-white lace/gauze clothing system, same warm golden hazy side backlighting, same dark gray-brown vintage background space, same prop system of gauze, flowers, vintage chair, and small table, and the same soft focus, oil painting, film grain, and dream halo texture.\n\n## Allowed Variations\nTo avoid the four images looking too similar, naturally vary the following: composition distance, camera height, poses (sitting/leaning/lying/turning/tilting head), the way the flowers are held, the flow of the white gauze, expressions and gaze direction, hand movements, and the relationship between the person and the chair, table, or floor.\n\n## Lens Pool Rules\nRandomly prioritize 4 shots from the following pool, ensuring at least 2 core shots are included:\n### Core Shots (Choose at least 2)\n1. Half-body portrait sitting and holding flowers\n2. Emotional medium shot leaning against the chair back or table edge\n### Other Shots (Choose to fill the rest)\n- Tilting head up toward the light\n- Looking back with an exposed back\n- Lying on the floor\n- High-angle lying shot\n- Close-up side profile with closed eyes\n- Full-body shot wrapped in white gauze\n- Sitting in a slightly curled-up position\n- Standing or leaning by the flower table\nPlease let the four images vary in lens choice while overall remaining like four moments from the same dreamlike oil painting photo set.\n\n## Key Objectives\nThe whole set must be hazier, more glowing, and more emotional than ordinary photography. Prioritize: enshrouding soft light, warm golden dreaminess, feminine divinity and vitality, the sense of being wrapped in gauze and flowers, stronger emotional flow, and more obvious oil painting soft focus.\n\n## Avoid\nAvoid high-definition sharpness; avoid ordinary warm-toned studio feels; avoid modern wedding photo vibes; avoid Korean-style commercial studio looks; avoid plastic-like skin retouching; avoid being too clean and clear; avoid influencer-style photography; avoid cheap \"fairy\" styles; avoid messy backgrounds; avoid watermarks and logos.",
+    "title": "French Retro Oil Painting Portrait",
+    "description": "A comprehensive prompt for generating soft-focus, dreamy 2x2 collage portraits in a French vintage oil painting style based on reference photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575490906_wvqs31_HICKK2nXIAEr-rO.jpg",
+      "https://cms-assets.youmind.com/media/1778575490876_qe6x16_HICKK9sXUAAy4gq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19749,
+    "content": "Create a clean anime-style digital portrait of a muscular male fitness influencer, upper body cropped at the waist, standing in a confident bodybuilding pose with hands clasped low in front of his torso. He has short spiky {argument name=\"hair color\" default=\"black\"} hair, tan skin, extremely broad shoulders, large defined arms, visible chest and neck anatomy, and sharp cel-shaded muscle contours. His face is intentionally covered by a centered square privacy block in a soft beige skin-tone gradient. He wears a loose black stringer tank top with deep armholes; on the chest is one white printed branding element reading {argument name=\"chest text\" default=\"TEAM SHAPE\"} above a shield-like monogram emblem. On the left side of the white background is one separate black brand mark: a stylized shield monogram above the stacked words {argument name=\"side logo text\" default=\"TIBO INSHAPE\"}. Use crisp Japanese anime line art, smooth shading, high-contrast fitness-poster lighting, minimal background, centered composition, and a polished social-media avatar look.",
+    "title": "Anime Fitness Influencer Portrait",
+    "description": "Generates a clean anime-style muscular fitness influencer portrait with branded gym apparel and a simple logo background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575550497_0uflyl_HIBgsoIX0AAMeXj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19634,
+    "content": "{ \"task\": \"{argument name=\"task\" default=\"image_restoration_upscale\"}\", \"positive_prompt\":\n\"Restore and enhance the provided image. Preserve original identity, facial structure, proportions and composition. High-fidelity photo restoration, ultra-realistic, natural skin texture, accurate details, professional photographic look. {argument name=\"resolution\" default=\"4K\"} output, sharp but natural focus, modern cinematic lighting, subtle volumetric lighting, professional color grading, depth of field, HDR. Shot on Arri Alexa, raw photo aesthetic, masterpiece.\",\n\"negative_prompt\": \"Creative reinterpretation, style change, identity alteration, face reshaping, exaggerated features, cartoonish, painting, illustration, over-sharpening, plastic skin, blur, noise, film grain, jpeg artifacts, distortion, bad anatomy, overexposed, underexposed, washed out colors.\", \"parameters\":\n{ \"steps\": 30, \"cfg_scale\": 6.5, \"denoising_strength\": 0.45,\n\"upscaler\": \"4x_NMKD_Siax_200k\", \"target_resolution\": \"4K\" } }",
+    "title": "AI Photo Restoration and Upscale",
+    "description": "A specialized prompt for restoring and upscaling aged or damaged photos to 4K resolution while preserving the original identity and texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575473912_b07a7r_HIBFBrIbQAAT1Le.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19516,
     "content": "Create a dreamy underwater fantasy portrait of a young woman from mid-thigh upward, standing still against a deep teal ocean background with tiny suspended particles and soft haze. She has very long, flowing, wavy {argument name=\"hair color\" default=\"pastel pink\"} hair drifting weightlessly around her shoulders, with a coral-like hair ornament tucked on the right side of her head. She wears a delicate semi-sheer {argument name=\"dress color\" default=\"ivory white\"} sleeveless slip dress with thin straps, a softly gathered waist, and gauzy fabric that looks ethereal underwater. Her skin is pale and softly lit, her posture is relaxed with both arms hanging down, and the composition is vertical, centered, and painterly-realistic with a muted cinematic glow. Add an opaque square censor block over the entire face, colored {argument name=\"censor block color\" default=\"dusty mauve beige\"}, obscuring all facial features while leaving the hair and body visible. Use soft focus, low contrast, subtle bloom, underwater diffusion, fine art fantasy photography mood, no text, no extra objects.",
     "title": "Dreamy Underwater Pink-Haired Portrait",
@@ -8,6 +152,60 @@
       "https://cms-assets.youmind.com/media/1778490978388_a13me8_HIBAjYNa8AAflVL.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 19681,
+    "content": "Please use the uploaded portrait as a reference. Create a 2x2 summer selfie collage with a {argument name=\"aspect ratio\" default=\"9:16\"} vertical aspect ratio, comprising four panels. Ensure that the facial features remain consistent, with soft, youthful features, a warm smile and natural skin texture. In each panel, depict the character outdoors in bright summer sunshine, wearing a straw hat. Have her strike a variety of poses across the four panels: a peace sign selfie, a pose cupping her face with her hands, an OK gesture, and a relaxed close-up selfie. Keep the composition cute, lively and casual. Add colourful, watercolour-style hand-drawn doodles around her: soft outlines around her body and hat, floating soap bubbles, small hearts, simple sun drawings, sparkles, and cute little animal stickers. Ensure the doodles have a playful, hand-drawn feel, like mobile phone photo stickers. Remove all watermarks, logos, AI labels, app labels and signature marks. Keep the decorative handwritten text, but replace it with neat, legible words such as {argument name=\"sticker labels\" default=\"‘Sheena’, ‘sunny’, ‘cute day’ and ‘summer’\"}. Make ‘{argument name=\"main text\" default=\"happy day\"}’ the most prominent text. Ensure the text looks like colourful, hand-drawn sticker lettering. Style: Soft Korean/Japanese-style summer selfie aesthetic, bright yet subtle sunlight, fresh colours, a slight film-like softness, a refreshing outdoor atmosphere, cute social media collages, clean ultra-high-resolution images. Elements to remove: Watermarks, logos, brand marks, AI labels, signatures, QR codes, random text, illegible characters, misspelled ‘happy day’, long captions, cluttered typography, unnecessary people, duplicate faces within a single panel, distorted faces, asymmetrical eyes, plastic-looking skin, excessively smooth skin, blurry faces, lack of detail, unnatural body proportions, distorted hands, extra fingers, missing fingers, fused fingers, twisted arms, severe overexposure, dull colours, severe compression artefacts, dark and underexposed panels.",
+    "title": "Summer Selfie Sticker Collage",
+    "description": "A detailed prompt for creating a 2x2 summer-themed selfie collage with consistent character features, watercolor doodles, and customizable handwritten stickers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575507154_6gdn92_HIA2iuybQAADJ9U.jpg",
+      "https://cms-assets.youmind.com/media/1778575507144_dfr1dc_HIA2iv5bAAAkuTY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19705,
+    "content": "Using the provided reference image as the identity and hair reference, create a professional AI headshot / studio portrait. Replace the casual outdoor pool setting with a clean light gray studio background, expand the crop to a three-quarter body portrait, and dress the subject in a {argument name=\"suit color\" default=\"light gray\"} modern suit with matching trousers over a {argument name=\"shirt color\" default=\"white\"} crew-neck T-shirt. Keep the subject facing forward with a relaxed business pose: one hand in the trouser pocket, the other arm resting naturally at the side. Preserve the same general hairstyle and natural facial proportions from the reference, but make the hair slightly darker and neater for a polished corporate look. Use soft even studio lighting, realistic photography, sharp detail, neutral color grading, and a clean LinkedIn-style composition.",
+    "title": "Professional AI Headshot Transformation",
+    "description": "Transforms a casual reference selfie into a polished studio business portrait suitable for LinkedIn, resumes, and professional profiles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575522360_k3hcdj_HIAidWVaEAEdATd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19650,
+    "content": "Use the user uploaded image as the only subject reference. Transform the person in the uploaded image into a realistic LEGO style minifigure while preserving their recognizable identity and outfit. Preserve the subject's facial likeness as much as possible within LEGO minifigure design limits, maintaining the same hairstyle and hair color adapted into a LEGO hairpiece, facial expression, clothing colors, clothing design and patterns, and any visible accessories. The result should clearly represent the same person translated into LEGO form. The character must follow authentic LEGO minifigure proportions, including a cylindrical yellow or skin tone LEGO style head, simple printed facial features adapted from the subject, a block shaped torso with printed clothing details, standard LEGO minifigure arms with curved hands, short LEGO minifigure legs, and a distinct molded plastic hairpiece matching the subject's hairstyle.\nRender the figure using realistic LEGO plastic material with a slight glossy sheen, subtle molded seams, and natural toy surface reflections. The face and torso should include printed details typical of LEGO minifigures, and the hairpiece should appear as molded plastic. The final image should be a high quality realistic 3D toy render with soft diffused studio lighting, subtle shadows that emphasize shape and plastic texture, and clean sharp focus with crisp detail. The framing must show the full body minifigure from head to feet in a centered composition with the entire figure fully visible. Use a plain white background with no scenery, no props, and no additional elements. The final style should feel like a photorealistic LEGO minifigure toy render with highly detailed plastic texture and studio lighting.",
+    "title": "Photo-to-LEGO Minifigure Transformation",
+    "description": "A sophisticated prompt that transforms a reference portrait into a realistic, photorealistic LEGO minifigure while maintaining facial identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575483000_8layr5_HIAUMQ2bAAAbw9S.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19676,
+    "content": "Please transform this illustration into a {argument name=\"style\" default=\"professional Lo-Fi art style\"}. Add warm, slightly muted pastel tones, film grain, soft focus, light fading, and a vignette to strongly express a nostalgic and chill atmosphere. Let soft natural light gently envelop the character, casting warm highlights and shadows on the skin and hair. Finish with the overall relaxed, somewhat nostalgic, and comfortable mood unique to Lo-Fi. Completely maintain the original composition and character.",
+    "title": "Lo-Fi Art Style Transformation",
+    "description": "A prompt for converting an existing illustration into a nostalgic Lo-Fi aesthetic with warm lighting, pastel tones, and film grain while preserving the original composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575501478_r2iyql_HIARfgqaEAACwWf.jpg",
+      "https://cms-assets.youmind.com/media/1778575501418_czpw99_HIARhM-a8AAJ6T4.jpg",
+      "https://cms-assets.youmind.com/media/1778575501623_s5ce2r_HIARleYa8AAGOvU.jpg",
+      "https://cms-assets.youmind.com/media/1778575502155_k2m9tl_HIARnv5bEAAjl8v.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19637,
+    "content": "{\"age\": \"{argument name=\"age\" default=\"young adult\"}\",\n\n\"shot_style\": \"amateur iPhone photography, tight medium close up, natural handheld feel, cinematic night atmosphere, slight motion blur, eye level\n\nframing\",\n\n\"framing\": \"tight medium close up, centered composition, upper torso and\n\nface in frame\",\n\n\"background\": \"{argument name=\"location\" default=\"urban rooftop café at night\"}, warm hanging lights, city skyline\n\nglowing in the distance, soft bokeh\",\n\n\"skin_tone\": \"medium warm brown skin with natural texture, subtle\n\nhighlights\",\n\n\"hair_style\": \"short textured hair, slightly messy\",\n\n\"hair_color\": \"black\",\n\n\"eyes\": \"deep brown eyes, looking slightly off camera\",\n\n\"brows\": \"thick natural brows\",\n\n\"nose\": \"well defined nose\",\n\n\"lips\": \"relaxed neutral lips\",\n\n\"makeup\": \"none\",\n\n\"top\": \"{argument name=\"outfit\" default=\"black oversized t-shirt\"}\",\n\n\"headwear\": \"none\",\n\n\"accessories\": \"silver chain necklace, watch\",\n\n\"props\": \"iced coffee in a plastic cup with straw\",\n\n\"pose\": \"leaning slightly forward, holding drink casually\",\n\n\"expression\": \"calm, confident\",\n\n\"lighting\": \"warm rooftop ambient lighting with soft shadows\",\n\n\"environment\": \"casual rooftop hangout at night\"}",
+    "title": "Night Rooftop iPhone Portrait",
+    "description": "A prompt designed to replicate the aesthetic of a casual night-time portrait taken on an iPhone at a rooftop cafe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575477061_izezmp_HIARia9bIAAaiVX.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 19484,

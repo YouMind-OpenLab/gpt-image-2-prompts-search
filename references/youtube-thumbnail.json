@@ -1,5 +1,48 @@
 [
   {
+    "id": 19655,
+    "content": "{argument name=\"character\" default=\"White Bone Demon\"} transformation video cover, {argument name=\"transformation scene\" default=\"a village girl instantly transforms into a glamorous queen\"}, with special effect {argument name=\"visual effect\" default=\"surrounded by flames\"}.",
+    "title": "Fantasy Demon Transformation Cover",
+    "description": "A prompt for generating a cinematic video cover featuring a fantasy transformation with fire effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575485712_s93et9_HIFf3Y2awAAUdKV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19742,
+    "content": "{\"type\":\"high-energy Japanese VTuber YouTube thumbnail\",\"format\":\"16:9 widescreen banner\",\"style\":\"bold pop anime, esports versus poster, 1990s street graphic design, thick black and white sticker outlines, halftone dots, comic burst shapes, neon cyan pink yellow palette, crisp readable typography\",\"main_text\":{\"count\":5,\"items\":[{\"position\":\"top left on black slanted label\",\"text\":\"{argument name=\\\"stream label text\\\" default=\\\"VTuber舞咲音楽制作生配信\\\"}\",\"style\":\"small bold white Japanese text\"},{\"position\":\"center left, largest title\",\"text\":\"{argument name=\\\"software matchup text\\\" default=\\\"RipX vs Ace Studio Cubase\\\"}\",\"style\":\"huge layered Latin lettering, RipX in cyan, Ace Studio in hot pink, Cubase in yellow, black shadows, white outlines, comic vs burst between RipX and Ace Studio\"},{\"position\":\"lower center on black brush-stroke banner\",\"text\":\"{argument name=\\\"headline text\\\" default=\\\"ステム分離対決!\\\"}\",\"style\":\"very bold white Japanese text with black background and rough painted edges\"},{\"position\":\"bottom right on black rectangle with pink border\",\"text\":\"{argument name=\\\"date text\\\" default=\\\"5月10日\\\"}\",\"style\":\"large yellow date text with white month character, angled label\"},{\"position\":\"center burst\",\"text\":\"vs\",\"style\":\"yellow letters inside black jagged explosion with hot pink spikes\"}]},\"character\":{\"position\":\"right third of image\",\"count\":1,\"description\":\"anime VTuber girl from waist up, pale skin, short silver-white bob hair with straight bangs, red eyes, smiling confidently, making a V peace sign beside her face, wearing a deep red oversized hoodie with black drawstrings and black over-ear headphones resting around her neck\",\"customizable_name\":\"{argument name=\\\"character name\\\" default=\\\"舞咲\\\"}\"},\"objects\":{\"count\":1,\"items\":[{\"position\":\"bottom left\",\"description\":\"retro boombox cassette player in teal, pink, black and cream, angled slightly, with speakers and cassette deck visible\"}]},\"background\":{\"description\":\"vivid collage background with turquoise grid paper in the upper right and left edges, hot pink paint swipes, cream grunge paper texture behind the title, comic halftone dot patterns, diagonal stripes, black scribble marks, abstract geometric accents\",\"geometric_accents_count\":5,\"geometric_accents\":[\"yellow triangle at top left\",\"purple triangle near bottom center\",\"pink triangular shard at far left\",\"yellow dotted panel at right edge\",\"black and yellow concentric ring near right center\"]},\"composition\":\"place the oversized title diagonally across the center-left, overlapping the background and partially balancing the anime character on the right; use exaggerated drop shadows, multiple outlines, high contrast, and thumbnail-safe typography that remains legible at small size\",\"quality\":\"clean polished digital illustration, sharp edges, professional YouTube thumbnail design, no photorealism\"}",
+    "title": "VTuber Software Battle Thumbnail",
+    "description": "Generates a colorful Japanese anime-style YouTube thumbnail for a VTuber music production livestream software matchup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575545664_2coqhy_HIB4nxFbkAAna5l.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19679,
+    "content": "Please create a fictional VTuber using the character in the image. Name: '{argument name=\"name\" default=\"name\"}', Motif: '{argument name=\"motif\" default=\"motif\"}', a VTuber streaming screen based on '{argument name=\"favorite color\" default=\"favorite color\"}' with a 'favorite atmosphere'. A room background based on '{argument name=\"favorite color\" default=\"favorite color\"}' with a 'favorite atmosphere'. Place the character in the center, a comment section on the right, a VTuber logo based on the character's motif in the top right, 'Chat Stream' text in the top left, and a character profile (type, age, likes, skills, catchphrase) in the bottom left. Place the time in the top center. Image size: 16:9.",
+    "title": "VTuber Streaming Overlay Layout",
+    "description": "A comprehensive prompt for designing a custom VTuber streaming screen layout including logo, chat box, and profile information.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575504973_dnspww_HIBiWNAboAAk3Fr.jpg",
+      "https://cms-assets.youmind.com/media/1778575505048_0il5bh_HIBiZMCbQAAOn3F.jpg",
+      "https://cms-assets.youmind.com/media/1778575504955_4sjo4m_HIBibgyaUAAxw7Z.jpg",
+      "https://cms-assets.youmind.com/media/1778575506584_69vlhd_HIBidgKawAAjI5J.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19674,
+    "content": "Please create a design in the style of Japanese TV show telops (captions). Ensure all text used is in Japanese and clearly legible.\n\nFont Styles:\n- Main Heading: Thick, legible rounded Gothic similar to LINE Seed JP Heavy.\n- Emphasized Telop: Ultra-thick Gothic typical of variety shows, with white outlines, red text, and yellow shadows.\n- Supplementary Text: A professional typeface suitable for news programs, similar to BIZ UDP Gothic.\n- Handwritten Memo: Rough script style like Tanuki Oil Magic marker.\n\nDesign:\nOrganize several telop samples onto a single sheet, like a collection from a Japanese variety or news show. The background should be gray. Use a bold color palette of red, yellow, blue, and white. Incorporate white outlines, black outlines, drop shadows, and fluorescent highlighter-style decorations. Include small labels like \"Free Font\" or \"Usage Example\" near each sample.",
+    "title": "Japanese Television Telop Graphics",
+    "description": "A detailed prompt for creating graphic designs inspired by Japanese variety and news show telops, featuring specific font descriptions and color schemes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778575501088_rsgeqe_HIAYj8daUAAp-Q-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19521,
     "content": "Create a wide minimalist anime illustration with abundant empty negative space on the left and the main subject placed on the right. Show a quiet teenage girl in full body side profile facing left, with {argument name=\"hair color\" default=\"dark navy-black\"} short bob hair, blunt bangs, pale skin, and a calm melancholic expression. She wears an oversized dark hooded jacket over a dark plaid school-uniform style outfit, a short pleated plaid skirt, black fishnet tights with a small black garter bow on one thigh, and chunky black platform shoes. A tall dark guitar gig bag is strapped vertically on her back, extending above her head. In one relaxed hand she holds a smartphone. At her feet sits exactly 1 black cat in silhouette, looking up at her. Use a soft off-white background with pale blue-gray watercolor cloud washes behind the figures, delicate ink linework, muted blue-green shadows, subtle cel shading, airy composition, quiet indie music mood, high-detail anime key visual style, no text, no border.",
     "title": "Melancholic Guitar Girl and Cat",
