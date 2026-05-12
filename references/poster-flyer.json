@@ -241,26 +241,6 @@
     "needReferenceImages": true
   },
   {
-    "id": 19600,
-    "content": "Create a vertical minimalist travel poster of {argument name=\"city name\" default=\"Tokyo\"}, Japan, in clean monochrome red line art on a warm off-white paper background. At the very top, place huge bold geometric sans-serif text reading {argument name=\"headline text\" default=\"TOKYO\"} in solid red, with smaller centered text beneath reading {argument name=\"subtitle text\" default=\"東京 JAPAN\"} and a thin horizontal divider line. Below, illustrate an extremely detailed urban Tokyo street scene combining Shibuya-style commercial buildings with Tokyo Tower centered in the far distance, drawn with precise architectural perspective, thin red ink outlines, dense windows, billboards, storefronts, utility poles, traffic signals, street signs, and crowds. Include 14 prominent readable signs or billboards: “109 SHIBUYA,” “UNI QLO,” “H&M,” “DHC,” “DMM TV,” “MUFG,” “BOOKS TAISEIDO,” “Shibuya Sta.,” “B-22,” “サロンパス,” “未来の日本を元気に。,” “渋谷区神南一丁目,” “竹下通り TAKESHITA ST,” and “カラオケ.” The foreground is a wide zebra crossing with pedestrians and cyclists: a suited businessman walking left, a cyclist riding across, a young man looking at his phone with a backpack, a woman in a skirt carrying a red tote bag, and many smaller commuters in the midground. Use only {argument name=\"ink color\" default=\"deep vermilion red\"} lines and fills, no other colors except the cream background. Make the composition symmetrical and poster-like, with Tokyo Tower as the central vertical focal point, crisp vector engraving detail, delicate urban linework, high-resolution print design, no photorealistic shading, no gradients, no borders.",
-    "title": "Tokyo Red Line Art Travel Poster",
-    "description": "Generates a detailed vintage-style Tokyo city travel poster with red architectural line art, typography, street crowds, signage, and Tokyo Tower.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1778491007512_ylqg4h_HH4ikrKbwAAB8u_.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 19597,
-    "content": "Create a clean vintage travel poster for {argument name=\"city name\" default=\"TOKYO\"}, Japan, in a tall vertical format on warm off-white paper. Use a monochrome red ink palette with precise architectural line art and only the title in bold solid red. At the top, place huge minimalist sans-serif text reading “{argument name=\"headline text\" default=\"TOKYO\"}”, with smaller centered text beneath reading “東京 JAPAN” and a thin horizontal divider line. Below, draw a detailed urban Tokyo street scene inspired by Shibuya crossing, with Tokyo Tower centered in the far background and framed by tall rounded glass-front commercial buildings on both sides. Include many Japanese storefront signs and billboards in red outline, including visible signs such as “109 SHIBUYA”, “UNI QLO”, “H&M”, “DHC”, “DMM TV”, “MUFG”, “BOOKS TAISEIDO”, “渋谷駅前 Shibuya Sta.”, and other vertical Japanese street signs. The street should be full of fine-line detail: crosswalk stripes in the foreground, traffic signals, street poles, trees, a bus or tram in the middle distance, cars, and a dense crowd of small pedestrians throughout the intersection. In the foreground, show exactly 5 prominent human figures: 1 suited businessman walking left, 1 bicyclist riding across the crosswalk, 1 young man walking while looking at a phone with a backpack, 1 casually dressed pedestrian carrying a shopping bag, and 1 schoolgirl or office worker in a skirt carrying a red tote bag walking right. Use crisp red contour lines, subtle hatching, balanced perspective, and a sophisticated Japanese city-guide aesthetic; no full-color shading, no photorealism, no messy textures, no extra large text beyond the poster title and location subtitle.",
-    "title": "Red Line Art Tokyo Travel Poster",
-    "description": "Generates a vertical monochrome red Tokyo city poster with Shibuya-style street details, Tokyo Tower, signage, and foreground pedestrians for travel or decor use.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1778491006523_aybz3f_HH4ikrKbwAAB8u_.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
     "id": 19447,
     "content": "[INPUT]\n\n- reference image: {Portrait Photo}\n\n- Date: {Today's Date https://t.co/DH3TMTrnLJ.dd}\n\n- Today's Mood: { }\n\n[Goal]\n\nCreate a poster of the sky using an extreme low-angle perspective, looking up at the subject from the ground.\n\nExpress today's mood through the sky, light, clouds, and color scheme.\n\n[Maintain Subject]\n\nMaintain the facial mood, hair, body shape, and clothing style of the uploaded subject.\n\nHowever, the face should not be shown from the front; instead, a side profile or just a slight glimpse of the jawline should be visible.\n\n[Key Composition]\n\n- The camera is almost flat on the ground.\n\n- The subject is slightly floating above the camera or in a jumping moment.\n\n- The soles of the shoes are prominently visible close to the camera.\n\n- The legs appear long with a sense of perspective.\n\n- The subject is in a side view or semi-profile.\n\n- The sky occupies most of the screen.\n\n[Sky by Mood]\n\nCreate a sky that matches today's mood.\n\n Examples:\n\n- Happiness: Clear blue sky, white clouds, warm sunlight\n\n- Excitement: Pink clouds, soft sunshine\n\n- Calmness: Pale blue sky, thin clouds\n\n- Loneliness: Sunset, long shadows, empty sky\n\n- Frustration: Low, heavy clouds\n\n- Rain: Overcast sky, raindrops, wet lens texture\n\n[Text]\n\nArrange the date and mood message in a curved line along the outline or silhouette of the figure's body.\n\nText to include:\n\n“{Date}”\n\n“{Today’s Mood}”\n\n“{Short Message}”\n\nText should be white, rounded, and bold poster typography.\n\nAvoid overly long sentences and arrange text for easy readability.\n\nIf no short message input is provided, it should be automatically generated and entered.\n\n[Style]\n\nSentimental Sky Poster, Warm Eye View, Bottom View, Wide Angle, Cinematic Fashion Poster, Clear Film Photo, Vast Sky, Clean Typography.\n\n [Prohibited]\n- No ordinary standing poses\n- No poses where shoe soles are not visible\n- No frontal face close-ups\n- No indoor backgrounds\n- No excessive text\n- No random text\n- No watermarks/logos",
     "title": "Low-Angle Sentimental Sky Poster",
@@ -700,16 +680,6 @@
       "https://cms-assets.youmind.com/media/1778402584850_vst0n0_HH4k3iHXYAYPBnz.jpg"
     ],
     "needReferenceImages": false
-  },
-  {
-    "id": 19324,
-    "content": "Create a clean vertical travel poster illustration for {argument name=\"city name\" default=\"TOKYO\"}, with a warm off-white paper background and a strict monochrome red line-art palette. At the top, place huge bold uppercase sans-serif text reading {argument name=\"headline text\" default=\"TOKYO\"}; beneath it add smaller spaced text reading {argument name=\"subtitle text\" default=\"東京 JAPAN\"} and a thin horizontal divider line. The lower two-thirds shows an extremely detailed Tokyo street scene inspired by Shibuya crossing, drawn in precise architectural ink lines: tall curved glass department-store buildings on both sides, dense street signs, billboards, shop fronts, utility poles, crosswalk stripes, traffic lights, crowds, and Tokyo Tower centered in the distant background rising between the buildings. Include exactly 5 prominent foreground people: a suited businessman walking left, a young person riding a bicycle, a casually dressed man walking while looking at his phone, another pedestrian carrying a shopping bag, and a schoolgirl in a skirt carrying a large tote. Add many tiny background pedestrians crossing in both directions, but keep them secondary. Visible urban signage should include a mix of Japanese and English such as Shibuya Station, 109 Shibuya, UNIQLO, H&M, DHC, DMM TV, MUFG, Books Taiseido, and vertical Japanese billboard text, all rendered as red outlines rather than full-color logos. Use fine technical drafting lines, high-density detail even in distant objects, balanced symmetrical composition, flat poster design, no shadows except minimal line hatching, no photographic texture, no gradients, and a refined modern Japanese tourism-poster aesthetic with {argument name=\"line color\" default=\"deep Tokyo red\"} ink on cream paper.",
-    "title": "Tokyo Red Line Art Travel Poster",
-    "description": "Generates a detailed monochrome red Tokyo street poster with Shibuya crossing, Tokyo Tower, signage, crowds, and bold travel typography.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1778490998626_gxv3nt_HH4ikrKbwAAB8u_.jpg"
-    ],
-    "needReferenceImages": true
   },
   {
     "id": 19319,
