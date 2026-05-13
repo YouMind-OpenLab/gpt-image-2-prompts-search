@@ -1,5 +1,35 @@
 [
   {
+    "id": 19880,
+    "content": "Create an ultra-detailed vertical fantasy portrait of {argument name=\"character name\" default=\"Yuna\"}, a young woman styled as an ornate royal sorceress or shrine maiden, shown from the chest up in a dark blue and gold baroque floral setting. She has long glossy {argument name=\"hair color\" default=\"black\"} hair with loose wet-looking strands, elaborate blue flower hair ornaments, dangling gold chains, lapis-blue beads, and tassels framing her head. Her face is completely hidden by a centered opaque square block in a muted brown skin-tone color, covering the facial features from forehead to chin while leaving the hair, neck, hands, costume, and accessories visible. She wears a luxurious pale silver-white kimono robe embroidered with metallic gold filigree and deep cobalt-blue floral appliqués, with layered fabric folds and a refined ceremonial collar. In her left hand she holds a tall dark navy staff or scepter with polished gold bands, topped by an intricate circular gold astrolabe-like ornament with concentric rings, filigree, tiny blue gemstones, and a hanging blue tassel. Surround her with dense decorative elements: blue and crimson flowers, gilded curling vines, ornate scrollwork, jewel-like beads, and blurred floral ornaments in the foreground and background. Use {argument name=\"color palette\" default=\"deep sapphire blue, antique gold, silver white, crimson accents\"}, dramatic cinematic lighting, warm highlights on metal, shallow depth of field, hyperrealistic texture, high-fashion fantasy photography, extremely crisp embroidery and jewelry details, dark moody background, vertical 9:16 composition, premium gpt-image-2 detail level.",
+    "title": "Ornate Yuna Fantasy Portrait",
+    "description": "Generates a highly detailed vertical fantasy portrait of a jeweled kimono-clad sorceress holding an ornate blue-and-gold ceremonial staff.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662273453_i91zl7_HIHmiRfW8AAgFoU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19853,
+    "content": "Make this image {argument name=\"size\" default=\"1500x500\"} pixels.",
+    "title": "Twitter Header Image Resizer",
+    "description": "A simple instruction for GPT-Image-2 to resize an existing image specifically for Twitter's 1500x500 pixel header format.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662258563_edeg3d_HIGiucUaAAAfGyS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19879,
+    "content": "Create a vertical photorealistic fantasy cosplay portrait of {argument name=\"character name\" default=\"Yuna from Final Fantasy X\"} sitting on a weathered stone seaside balcony at night under a bright full moon. She is a young woman with {argument name=\"hair color\" default=\"short chestnut brown hair\"}, wearing a white off-shoulder summoner-style robe with long draped sleeves, a purple and pink layered skirt with floral embroidery, a colorful obi sash and large patterned bow on the back, bead tassel details, a small necklace, and black ankle boots. She sits sideways on the stone railing with her legs crossed, one elbow resting on her knee and her hand near her chin in a quiet contemplative pose, while holding a tall blue ceremonial staff with gold metal ends and an ornate circular gold crest at the top. The background shows a moonlit ocean with shimmering reflections, distant clouds, a tiny sailboat silhouette, rocky coastline, and old stone balusters, with cool blue cinematic lighting, soft rim light on hair and shoulders, realistic fabric texture, shallow depth of field, dramatic fantasy atmosphere, high-detail digital photography style, 9:16 composition. Include a large opaque square censor block covering the center of the face, matching the look of a failed or glitched image generation result. Add a subtle artist signature reading {argument name=\"signature text\" default=\"AI.na\"} in the lower right corner.",
+    "title": "Moonlit Fantasy Summoner Cosplay",
+    "description": "Generates a photorealistic vertical fantasy cosplay portrait of a summoner-like woman with staff on a moonlit seaside balcony.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662272955_wjcf35_HIF5w-mWAAAJqpc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19033,
     "content": "A hyper-realistic graphite pencil sketch in progress of a {argument name=\"subject\" default=\"beautiful young girl with short messy bob hair, freckles, hoop earrings, and a soft closed-eye smile\"}, resting her cheek on her hand. The sketch is placed on a {argument name=\"surface\" default=\"white drawing sheet\"} with pencils and art tools scattered around. A smartphone beside the drawing displays the same girl as the reference image. An artist’s hand is drawing the portrait with a pencil. Monochrome black-and-white aesthetic, ultra detailed shading, realistic skin texture, soft lighting, cozy artistic workspace, {argument name=\"angle\" default=\"top-down angle\"}, masterpiece sketch art, highly detailed graphite strokes, emotional and calming vibe.",
     "title": "Hyper-Realistic Graphite Sketch Portrait",

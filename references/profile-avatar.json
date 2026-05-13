@@ -1,11 +1,226 @@
 [
   {
+    "id": 19948,
+    "content": "Create a vertical 9:16 cinematic night portrait of {argument name=\"subject\" default=\"a stylish young man\"} standing on a high-rise balcony above a dense Tokyo city skyline, with Tokyo Tower glowing orange on the left and blurred skyscraper lights filling the background. The subject is framed from mid-thigh upward, leaning casually against a glass-and-metal railing with one arm draped over it, body angled slightly, wearing an elegant all-white outfit: oversized white blazer, loose open-collar white shirt, high-waisted white trousers, and a slim black belt, with a few subtle rings on the relaxed hand. The face is intentionally hidden by a centered dark square censor block, while dark medium-length hair remains visible around it. Use moody low-light photography, shallow depth of field, heavy bokeh, soft flash on the white suit, muted teal-and-orange color grading, slight film grain, chromatic aberration, VHS-like blur, and an atmospheric 1990s disposable-camera aesthetic. Make the background city lights dreamy and out of focus, the subject slightly soft but stylish, with a luxurious rooftop nightlife mood.",
+    "title": "Censored Tokyo Rooftop Night Portrait",
+    "description": "Generates a moody vertical fashion portrait of a white-suited subject on a Tokyo rooftop balcony with Tokyo Tower and blurred city lights behind them.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662311043_j23pz0_HIKEjJcWEAAjdE2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19943,
+    "content": "Create a vertical anime-style illustration of a cool young female performer, {argument name=\"character name\" default=\"Azure\"}, standing in a backstage dressing room before going on stage. She has very long {argument name=\"hair color\" default=\"dark navy blue\"} hair tied in a high messy ponytail with loose strands and purple-blue highlights, a slim build, pale skin, and a composed, aloof attitude; her face is deliberately obscured by a soft square blur in the center of the image. Dress her in a black streetwear techwear outfit: oversized black zip-up jacket with blue zipper pulls and small crown logo reading “AZURE,” black graphic T-shirt with electric blue-purple abstract print, black cargo pants with blue straps, a blue belt, metal chain details, pockets, and dangling accessories. Add a small star earring, a thin necklace, and subtle metallic hardware. Pose her casually with hands in jacket pockets, body angled slightly, looking confident and detached. The setting is a dim backstage makeup room with a vanity mirror on the right lined with warm round bulbs, a plastic water bottle, a black cup, a stool, taped paper signs on the wall including “STAGE →” and a motivational note reading “No Limit. No Regret. Keep Evolving.”, plus a small concert-photo poster. On the left, show an open window with hazy daylight, distant city buildings, a clothing rack, and a dark sofa. Use cinematic cool violet-blue lighting mixed with warm vanity light, glossy reflective floor, soft depth of field, detailed fabric folds, realistic anime rendering, moody idol backstage atmosphere, highly polished digital illustration, portrait orientation, no extra characters.",
+    "title": "Cool Anime Idol Backstage",
+    "description": "Generates a moody vertical anime illustration of a dark techwear idol character waiting in a backstage dressing room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662307980_knfilo_HIJtxTpboAA4XKx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19938,
+    "content": "Create a richly detailed anime-style illustration of an elegant cool-toned young woman, {argument name=\"character name\" default=\"unnamed heroine\"}, seated at a wooden table in a warm sunlit café or conservatory, reading an ornate dark blue hardcover book. She has very long flowing {argument name=\"hair color\" default=\"deep violet-black\"} hair with glossy purple highlights, loose strands, and a decorative floral jeweled hairpin with a dark ribbon near one side. Her face is intentionally obscured by a centered square privacy block with a soft muted purple-to-rose gradient, covering the facial features while leaving the hair, chin area, hand, and outfit visible. She wears a refined Victorian-inspired blouse and dress: a white ruffled high-collar blouse with delicate lace trim, puffed sleeves and gold cuff buttons, a dark navy fitted vest or pinafore, a blue ribbon bow at the collar, and an oval sapphire-like brooch. Her posture is quiet and graceful, one hand holding the open book and the other resting thoughtfully near her lips. The setting is cozy and luminous, with tall wooden window frames on the right, golden afternoon sunlight streaming through, sparkling dust motes, soft lens flare, and blurred flowering garden scenery outside. On the table are exactly four visible still-life objects: one open ornate book in her hands, one floral teacup on a saucer filled with tea, one stack of two closed books with a red book on top and a dark blue book beneath, and one clear glass vase full of pastel hydrangea-like flowers. In the background, include softly blurred shelves, café items, and warm hanging lights. Use highly polished Japanese anime art, delicate linework, painterly lighting, intricate fabric folds, luminous highlights in the hair, shallow depth of field, romantic atmosphere, warm gold and lavender color palette, cinematic composition, 16:9 landscape framing, ultra-detailed, no visible text, no watermark.",
+    "title": "Sunlit Anime Café Reader",
+    "description": "Generates a romantic anime illustration of an elegant long-haired girl reading in a glowing café, useful for character art or atmospheric visual concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662306734_qkble0_HIJtxSkagAAUGTU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19888,
+    "content": "{\"type\":\"magical Mini Me social media portrait, realistic photo composite with cute 3D animated miniature clones\",\"scene\":\"A warm cozy indoor portrait of a young woman in an oversized olive-brown trench coat, softly lit by golden window light, with her original face intentionally left as a flat anonymized square mask. Around her, exactly 6 tiny 3D-style animated versions of the same woman come to life and interact with the room and her outfit, all with matching wavy brown hair, miniature trench coats, jeans, and sneakers. Keep the main portrait realistic and untouched except for the added mini characters, with believable depth, contact shadows, soft ambient occlusion, and a dreamy emotional social-media-story aesthetic.\",\"customizable_subject\":{\"main person\":\"{argument name=\\\"main person\\\" default=\\\"young woman with wavy brown hair\\\"}\",\"outfit\":\"{argument name=\\\"outfit\\\" default=\\\"oversized olive-brown trench coat over a light top\\\"}\",\"room mood\":\"{argument name=\\\"room mood\\\" default=\\\"warm beige cozy bedroom corner with golden sunlight\\\"}\"},\"mini_characters\":{\"count\":6,\"items\":[{\"position\":\"far left, standing on top of a takeaway coffee cup\",\"action\":\"holding up a string sign with one arm, cheerful and encouraging\",\"prop_text\":\"{argument name=\\\"left note text\\\" default=\\\"You got this! ♡\\\"}\"},{\"position\":\"bottom left, sitting on the dresser in front of the mirror\",\"action\":\"relaxed seated pose with legs forward, leaning near a handwritten note\"},{\"position\":\"top center, sitting on the main person's hair like a soft nest\",\"action\":\"tiny seated pose, hands resting on hair, looking cute and calm\"},{\"position\":\"right side, standing against the main person's hair and shoulder\",\"action\":\"waving one hand enthusiastically toward the viewer\"},{\"position\":\"center lower shoulder, sitting on the main person's coat lapel\",\"action\":\"reading a small open brown book with both hands\"},{\"position\":\"bottom right, sitting inside a tan leather handbag\",\"action\":\"peeking out shyly with hands near face, cozy and playful\"}]},\"background_details\":{\"left\":\"wood-framed mirror on a dresser, coffee cup with simple doodle face, reflected miniature figure visible in the mirror, handwritten card reading Focus and Glow\",\"right\":\"small potted plant, taped instant-photo print of a mini character, yellow sticky note on wall\",\"right_note_text\":\"{argument name=\\\"right note text\\\" default=\\\"Don’t overthink it ♡\\\"}\"},\"style\":\"photorealistic base portrait blended with whimsical polished 3D cartoon mini figures, soft rounded features, lifelike fabric texture, cinematic warm beige color grading, shallow depth of field, realistic scale, natural shadows, cozy magical realism, square composition, story-worthy Instagram aesthetic\",\"negative_prompt\":\"do not change the main person's pose or room layout, no extra miniature characters beyond the exact 6 listed, no harsh outlines, no plastic toy look, no distorted hands, no floating characters without shadows, no cluttered background, no unreadable major note text\"}",
+    "title": "Magical Mini Me Portrait",
+    "description": "Creates a cozy realistic portrait filled with six tiny animated Mini Me characters interacting with the subject and surroundings for a playful social media scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662277654_qfylcj_HIIp7I4WcAEw5hf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19828,
+    "content": "Use the uploaded portrait only as the face identity and hairstyle reference. Preserve the person’s facial structure, skin tone, facial features, and hairstyle accurately, but completely regenerate the outfit, body pose, scene, lighting, props, and atmosphere.\n\nCreate a realistic vertical 9:16 birthday princess portrait inspired by a dreamy indoor birthday party photo. The person is sitting slightly sideways in a {argument name=\"location\" default=\"luxurious warm hotel banquet room\"}, holding a {argument name=\"flowers\" default=\"large bouquet of pale pink roses wrapped in translucent glossy pink paper with a big white bow\"}. Surround the person with many deep red roses, red and pink balloons, including a metallic red heart-shaped balloon. Add a soft birthday party background with warm ceiling lights, elegant wall panels, a blurred “Happy Birthday” banner, and a white birthday welcome board with subtle readable text: “{argument name=\"welcome text\" default=\"Welcome to my Birthday Party\"}”.\n\nThe person wears a romantic red-pink tulle princess dress with soft layered fabric, a delicate silver tiara, and a pearl necklace. The pose is elegant and slightly dreamy, head gently tilted, soft natural gaze, calm facial expression, realistic human skin texture, natural lips, refined makeup, long voluminous black hair with slight messy texture.\n\nShot like a real flash photography birthday portrait, slightly overexposed soft flash on the face, warm ambient hotel lighting, shallow depth of field, realistic shadows, natural skin pores, soft cinematic glow, high-end social media portrait style, dreamy romantic atmosphere, ultra-realistic, high detail, clean composition, no AI look.",
+    "title": "Dreamy Birthday Princess Portrait",
+    "description": "A detailed prompt for a romantic and dreamy birthday portrait, featuring a floral princess dress, roses, and warm banquet room lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662241393_2890b9_HIIQBK0WwAAVlP6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19852,
+    "content": "An adult {argument name=\"character type\" default=\"Eastern fantasy\"} female character, 9:16 vertical composition, upper body portrait, 3D CG high-precision illustration style. The character is centered, looking directly at the camera with a quiet and gentle expression and a sweet, cute smile. The overall temperament is cool, soft, dreamy, and exquisite.\n\nShe has delicate and soft Eastern features and fair, translucent skin with a porcelain-like texture, featuring soft highlights and a faint blush. Her eyes are large and clear with grayish-blue pupils, expressing tenderness and brightness with long lashes and clean, natural eye makeup.\n\nShe has {argument name=\"hair color\" default=\"light blue fluffy long hair\"}, soft and light, tied into two loose buns on top with slightly messy airy wisps and a few curled strands falling naturally on both sides of her face. The hair color shows rich layers of light blue, silver-blue, and soft white highlights.\n\nShe is wearing a {argument name=\"clothing\" default=\"white fluffy plush shawl / fur-textured coat\"} with a soft, thick collar gently wrapping her neck and shoulders, revealing elegant necklines and collarbones.\n\nRequirements: High-quality 3D CG rendering, fine skin texture, soft focus lens, shallow depth of field, cinematic warm light, dreamy atmosphere, exquisite hair details, clean composition, bright and transparent.",
+    "title": "3D CG Fantasy Female Character Illustration",
+    "description": "A highly detailed 3D CG illustration prompt for a sweet fantasy female character with double buns and fluffy fur attire in a warm, cinematic light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662257130_8hj1mr_HIIDewxbkAAzpDr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19832,
+    "content": "Create a hyper-realistic image in vertical format 9:16. Show a young girl with the appearance of {argument name=\"face description\" default=\"your face or physical description\"} and wearing [type of sunglasses, if applicable]. He is sitting in a relaxed way on a large 3D logo of {argument name=\"social network\" default=\"Instagram\"} in vibrant colours. Wear modern urban clothing:\n\nColoured hoodie [sweatpants colour] with the '[liam wedding videos]' logo, jogger pants [pants colour] and sneakers [shoe colour].\n\nIn the background, a large profile card of [social network] identical to a real profile appears, with realistic details: name '{argument name=\"account name\" default=\"Fatima Batool\"}'; user '@[Fati_092], [15000]\n\nFollowers, [number of following] following and\n\n[Other data].\n\nThe background should be clear, minimalist style, soft lighting, professional, fresh and youthful look, ideal as a social network cover.",
+    "title": "Realistic 3D Social Media Profile",
+    "description": "Creates a hyper-realistic image of a person sitting on a 3D social media logo with a detailed profile card in the background, ideal for profile covers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662242890_z8uj2t_HIERO_CaEAAmTn6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19849,
+    "content": "Please generate a single high-end portrait in a 3:4 vertical composition based on 1-3 clear personal photos uploaded by the user, with the theme \"{argument name=\"theme\" default=\"Spring/Summer window-side forest-style French light boudoir portrait\"}\".\n\n[Character Consistency]\nPlease strictly preserve the user's authentic physical characteristics, including face shape, facial proportions, eyes, nose, lips, skin tone, perceived age, hairstyle foundation, and overall temperament. The result must clearly look like the same real girl, not a stranger, not Westernized, not influencer-style, without excessive skin smoothing or an artificial AI face.\n\n[Core Style]\nThe overall style is a spring/summer window-side, forest-inspired, French light-retro girl's boudoir photoshoot. The vibe is fresh, soft, quiet, and ethereal, with a hint of laziness, shyness, relaxation, pensiveness, and a sense of being gently wrapped in natural light. The image should look like a candid moment captured by a photographer with a camera in a real bedroom on a spring or early summer afternoon.\n\n[Image Quality & Lighting Focus]\nPlease prioritize replicating the soft, hazy, glowing texture of a real camera rather than a standard clear AI portrait.\n\n[Makeup]\nThe makeup should be {argument name=\"makeup\" default=\"very light and transparent nude makeup, close to a no-makeup look\"}. The base should be sheer and natural, preserving some real skin texture and natural shadows.\n\n[Clothing]\nThe clothing should be {argument name=\"clothing\" default=\"white, off-white, or beige French-style light boudoir attire\"}, such as lace nightgowns, sheer slip dresses, off-shoulder tulle tops, or soft layered short skirts. Materials should focus on lace, gauze, thin cotton, and soft pleats.",
+    "title": "French Style Spring Forest Portrait",
+    "description": "A comprehensive system prompt for generating consistent, high-quality French-style forest portraits with a natural camera feel, soft window lighting, and delicate textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662255003_mu23vc_HIH17-VWEAA4VLB.jpg",
+      "https://cms-assets.youmind.com/media/1778662254104_gs10ru_HIH17-XXEAA5ZMf.jpg",
+      "https://cms-assets.youmind.com/media/1778662254036_agk0im_HIH17-aWwAAWp_8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19810,
+    "content": "Generate an illustration of \"me\" as you imagine it. Features include a {argument name=\"illustration style\" default=\"Japanese illustration style\"}, distinct character features, natural emotional expressions, a half-body composition, dynamic poses, exquisite clothing details, a hand-drawn graffiti style, ink splatter strokes, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a {argument name=\"background\" default=\"minimalist white background\"}, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.",
+    "title": "Japanese Ink Illustration Style",
+    "description": "A creative illustration prompt using Japanese hand-drawn graffiti and ink splatter styles for a unique character portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662233104_vumzdh_HH6YVMfWUAgaGWz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19926,
+    "content": "Create a dreamy ultra-detailed fantasy portrait inside a giant transparent glass snow globe, with {argument name=\"character name\" default=\"Maruko\"} sitting centered on a plush pink cushion. The subject is a young woman with straight medium-brown shoulder-length hair, wearing a frilly pastel lavender ruffled chiffon dress with long sheer sleeves, white ankle socks, and chunky white sneakers; she sits casually with one knee raised, one leg folded, and one hand resting near her chin, face softly blurred for privacy. The globe contains a magical miniature pastel castle-and-sky world in lavender, pink, blue, and warm gold, filled with sparkling bokeh, floating bubbles, star ornaments, crystal baubles, tiny lanterns, flowers, and fairy lights. Count exactly 3 visible text elements: a glowing circular neon sign on the left reading {argument name=\"neon sign text\" default=\"まるこ\"}, a small hanging oval gold sign on the upper right reading {argument name=\"hanging sign text\" default=\"Maruko\"}, and an ornate front base plaque reading {argument name=\"base plaque text\" default=\"まるこの星あかりのおうち\"} with the name {argument name=\"plaque name\" default=\"Maruko\"} beneath it. Add a small white rabbit at the lower right inside the globe, clusters of pink and lavender blossoms around the base, luminous blue accent lights along the bottom rim, and ornate gold filigree on a silver-gold pedestal. Make the glass dome highly reflective with realistic refraction, curved highlights, and a large gold star ornament at the top center. Use a whimsical Japanese kawaii aesthetic, luxurious fantasy diorama styling, soft cinematic depth of field, glowing pastel lighting, photorealistic 3D illustration quality, high detail, square composition, front-facing view, magical cozy atmosphere.",
+    "title": "Kawaii Fantasy Snow Globe Portrait",
+    "description": "Generates a personalized pastel fantasy portrait of a girl seated inside an ornate glowing snow globe diorama, ideal for cute profile art or character-themed visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662298377_qyjsef_HIHkbwaaoAAQ80m.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19804,
+    "content": "Cinematic aesthetic portrait of a {argument name=\"subject\" default=\"stylish young man\"} standing near a window during golden sunrise, wearing {argument name=\"clothing\" default=\"oversized neutral-toned streetwear\"}, soft warm sunlight hitting his face, dreamy morning atmosphere, reflective light patterns, natural candid pose, ultra realistic skin texture, shallow depth of field, clean Instagram-inspired composition. Add soft hand-drawn pastel doodles and artistic scribble elements around him — {argument name=\"doodle elements\" default=\"playful arrows, stars, smiley faces, swirls, sketch outlines, tiny hearts, handwritten notes, and casual chat-style annotations\"} for a creative Gen-Z vibe. Include subtle film grain, soft glow, warm reflections, cozy mood, highly detailed visuals, modern editorial photography style, minimal yet artistic aesthetic, 4K ultra realistic, balanced colors, trendy social media look.",
+    "title": "Gen-Z Aesthetic Doodle Portrait",
+    "description": "A cinematic portrait of a young man featuring artistic Gen-Z style doodles and scribbles, perfect for social media and editorial looks.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662229851_877a58_HIHd_qSagAAyZgl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 19860,
+    "content": "Create a high-resolution close-up studio portrait of a {argument name=\"subject\" default=\"woman\"} against a solid {argument name=\"background color\" default=\"lime green\"} background. She has sleek {argument name=\"hair color\" default=\"silver-blonde\"} hair parted precisely down the middle and pulled back, with smooth strands tucked behind one ear. Frame her from the upper chest upward, facing forward, wearing an oversized textured {argument name=\"blazer color\" default=\"lime green\"} blazer with wide lapels and a deep neckline, matching the monochromatic background for a clean modern fashion-editorial look. Her right hand is posed gracefully along the side of her neck and jawline, fingers relaxed, with soft studio lighting that emphasizes the blazer’s woven texture and the glossy hair. Place a large opaque rectangular censor block over the central face area, covering the eyes, nose, mouth, and most facial features; the block should be a muted skin-tone gradient rectangle, leaving the hair, ear, neck, hand, shoulders, and clothing visible. Use sharp detail, realistic photography, centered composition, shallow depth of field, and polished commercial portrait styling.",
+    "title": "Lime Green Fashion Portrait",
+    "description": "Generates a realistic close-up fashion portrait with silver-blonde hair, monochrome lime styling, and an opaque face-obscuring censor block.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662263871_wpngqg_HIHUX0dasAAEozw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19911,
+    "content": "Create a vibrant single-panel anime illustration of {argument name=\"character description\" default=\"a young woman with shoulder-length honey-blonde hair\"} shown from the waist up against a saturated clear blue summer sky with soft white cumulus clouds. She has a breezy chin-to-shoulder bob haircut with loose windblown strands, peachy skin, a slender neck and shoulders, and wears {argument name=\"outfit\" default=\"a loose white short-sleeve T-shirt with a wide neckline slipping slightly off one shoulder\"}. Compose her slightly leaning forward in a relaxed casual pose, cropped close like a portrait poster. Place {argument name=\"face covering\" default=\"a plain peach-colored rectangular block over the center of her face, obscuring all facial features\"}. Use a clean modern Japanese anime style with expressive sketchy navy and cyan linework, warm peach and cream shading, bright sunlight, airy highlights on the hair, minimal background detail, crisp high-contrast colors, and a cheerful summer atmosphere.",
+    "title": "Summer Anime Girl Portrait",
+    "description": "Generates a bright anime-style bust portrait of a windblown blonde girl in a white T-shirt under a blue summer sky, useful for character art or poster-style illustrations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662289879_8s05v9_HIHDYnIaUAAX7sS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19826,
+    "content": "Redraw the attached image in the most {argument name=\"style description\" default=\"clumsy, scribbly, and utterly pathetic\"} way possible. Use a {argument name=\"background\" default=\"white background\"}, and make it look like it was drawn in {argument name=\"software\" default=\"MS Paint with a mouse\"}. It should be vaguely similar but also not really, kind of matching but also off in a confusing, awkward way, with that low-quality pixel-by-pixel feel that really emphasizes how ridiculously bad it is. Actually, you know what, whatever, just draw it however you want.",
+    "title": "MS Paint Style Redraw",
+    "description": "A humorous prompt designed to recreate an image in a clumsy, low-quality MS Paint aesthetic with scribbly textures and awkward proportions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662239293_8987zh_HIG6vfNbIAAYU84.jpg",
+      "https://cms-assets.youmind.com/media/1778662239301_p8ldyk_HIG61jOakAISivf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19899,
+    "content": "Create a highly realistic casual mirror selfie of a {argument name=\"subject\" default=\"young East Asian woman\"} standing in a minimalist beige bedroom, photographed vertically on a smartphone. She has long dark brown slightly wavy hair and a slim figure, with her face intentionally obscured by a soft square blur for privacy. She is wearing a {argument name=\"top\" default=\"white ribbed camisole with lace trim and a small bow\"}, an oversized {argument name=\"cardigan\" default=\"cream chunky knit cardigan slipping off one shoulder\"}, and {argument name=\"bottoms\" default=\"light blue high-waisted denim shorts with frayed hems\"}. Her pose is relaxed and fashionable, one shoulder exposed, one hand raised near her face with the sweater sleeve covering part of her hand, looking like a natural social media outfit photo rather than a studio portrait. The room has warm neutral lighting, a cream sofa behind her, plain off-white walls, a few small photo prints taped to the wall, a narrow black-framed full-length mirror visible at the edges, a glass side table on the right, and a soft beige rug. Use realistic proportions, natural skin texture, soft indoor daylight, muted tones, shallow everyday smartphone quality, and an authentic non-AI Japanese lifestyle aesthetic.",
+    "title": "Realistic Casual Mirror Selfie",
+    "description": "Generates a natural-looking fashion mirror selfie in a minimalist beige bedroom for lifestyle or outfit inspiration visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662284049_2ifdki_HIG5gmnbEAAlTcH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19757,
     "content": "{\"type\":\"square social media collage of AI-generated profile image examples\",\"overall_style\":\"clean 3 by 3 gallery grid on a white background, nine equally sized rounded-square image tiles with narrow gutters, polished prompt-showcase aesthetic, each tile a different visual style, some human faces intentionally obscured by soft rectangular blur masks for privacy\",\"canvas\":\"1:1 square composition, approximately 768 by 768 pixels, crisp digital export\",\"layout\":{\"grid\":\"3 columns by 3 rows\",\"count\":9,\"tiles\":[{\"position\":\"top left\",\"short_description\":\"fashion magazine poster with a young woman in bright orange streetwear stepping toward the camera, white sneaker in extreme foreground, studio white background, orange graphic UI accents and social icons\",\"visible_text\":[\"Step into\",\"NEXT LEVEL\",\"10M+\"]},{\"position\":\"top center\",\"short_description\":\"intricate stained-glass style portrait of a dark-haired figure in profile, black leading lines, warm cream and muted blue glass pieces, ornate gothic window pattern\"},{\"position\":\"top right\",\"short_description\":\"anime occult scholar portrait with long dark hair, purple-black outfit, raised hand gesture, floating talismans, handwritten notes, ghosts, colorful doodles, black cat at lower right, face blurred\"},{\"position\":\"middle left\",\"short_description\":\"travel poster architectural typography, large word formed from cathedral and old city landmarks, panoramic skyline strip across the top, cream background with small birds and decorative marks\",\"visible_text\":[\"DURIN\"]},{\"position\":\"middle center\",\"short_description\":\"sports broadcast screenshot style portrait of a baseball fan or player in a white Doosan Bears jersey, stadium crowd background, Korean TV graphics, face blurred\",\"visible_text\":[\"DOOSAN\",\"Bears\"]},{\"position\":\"middle right\",\"short_description\":\"Y2K cyber pop idol magazine cover, black leather jacket, pink and purple neon typography, sticker-like labels, glossy editorial lighting, face blurred\",\"visible_text\":[\"GEN STAR\",\"Seoul Vibes\",\"Y2K\",\"ULTRA GIRLS\"]},{\"position\":\"bottom left\",\"short_description\":\"neon wireframe cyberpunk cathedral or gothic city, glowing cyan and magenta lines on a dark background, architectural blueprint hologram look\"},{\"position\":\"bottom center\",\"short_description\":\"sepia vintage romantic portrait collage sheet featuring one central young woman in a cream blouse plus six smaller portrait cutouts around her, lace and soft paper texture, all faces blurred\",\"count_details\":\"7 visible portrait cutouts total: 1 large central portrait and 6 smaller surrounding portraits\"},{\"position\":\"bottom right\",\"short_description\":\"storybook pop-up book diorama with a dark fantasy princess in a purple-black gown standing among mountains, castles, moon and clouds, Korean label plaques, antique lace tabletop setting\"}]},\"privacy_effect\":\"Apply soft beige-gray blur rectangles over every realistic or anime face that appears identifiable, matching the underlying skin tone and preserving the rest of each artwork.\",\"rendering\":\"high-resolution digital collage, sharp edges, rounded corners, slight natural variation between tiles, no extra captions outside the nine images\",\"customization\":{\"gallery theme\":\"{argument name=\\\"gallery theme\\\" default=\\\"AI-generated agent profile image prompt showcase\\\"}\",\"grid size\":\"{argument name=\\\"grid size\\\" default=\\\"3 by 3\\\"}\",\"background color\":\"{argument name=\\\"background color\\\" default=\\\"white\\\"}\",\"privacy blur\":\"{argument name=\\\"privacy blur\\\" default=\\\"soft face-obscuring blur masks\\\"}\",\"visual variety\":\"{argument name=\\\"visual variety\\\" default=\\\"fashion poster, stained glass, anime occult, travel typography, sports broadcast, Y2K magazine, cyber cathedral, vintage portrait collage, fantasy pop-up book\\\"}\"}}",
     "title": "Nine-Panel AI Profile Gallery Collage",
     "description": "Generates a square 3x3 showcase collage of varied AI profile image styles with rounded tiles and privacy-blurred faces for social media sharing.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1778575553463_nn7ro1_HIGi8C3bQAA_ZBl.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19905,
+    "content": "Create a soft, highly detailed anime-style illustration of {argument name=\"character description\" default=\"a young soap-bubble elf woman with long shimmering silver-lavender hair and pointed ears\"} lounging sideways on a beige sofa in a cozy Japanese apartment living room. She is barefoot with her knees bent, wearing {argument name=\"outfit\" default=\"a loose off-shoulder white shirt and pale blue drawstring shorts\"}, holding a silver smartphone in one hand and looking down at it, while a flat opaque taupe square deliberately obscures her face. Her exposed skin and hair are covered in a glossy transparent soap-film sheen, with rainbow iridescent highlights like thin bubbles stretched over her body, especially across her shoulders, arms, legs, chest, and flowing hair. Surround her with exactly 18 floating soap bubbles of different sizes, including one large bubble near the upper left, one large partial bubble in the lower right foreground, one large bubble near the bottom center foreground, several small bubbles around her hair and the room, and a few partial bubbles at the image edges; every bubble should have prismatic reflections. The setting is {argument name=\"location mood\" default=\"a warm late-afternoon domestic living room in Jozankei, Japan\"}, with a low round table holding a white mug and a folded newspaper or magazine, a floor heater against the wall, a small kitchen visible through an open doorway, wooden trim, framed wall art, potted plants, pale curtains, a dining table in the background, and travel magazines or books stacked on the floor in the foreground with subtle Japanese text. Use gentle sunlight from the right, muted beige and gray tones, realistic room perspective, delicate painterly rendering, luminous iridescence, dreamy atmosphere, shallow depth of field, and a polished GPT-image-2 anime art finish.",
+    "title": "Soap Bubble Elf in Cozy Apartment",
+    "description": "Generates a dreamy anime illustration of an iridescent soap-bubble elf relaxing with a phone in a warm Japanese living room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662286627_uqx0vz_HIGTJNFaUAAOyaV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19939,
+    "content": "Create a warm, romantic anime-style vertical illustration of {argument name=\"character name\" default=\"a tall handsome blond man\"} welcoming the viewer in a rustic fantasy kitchen, shown from mid-torso up and holding out a white plate with both hands. His face is covered by a plain centered square censor block in a skin-tone brown, while his long tousled {argument name=\"hair color\" default=\"golden blond\"} hair frames the block and catches the sunlight. He wears a black open-collar shirt with ornate silver embroidery along the collar and placket, sleeves rolled to the forearms, plus a beige apron with shoulder straps, metal rings, and a tied waist. On the plate is exactly one golden folded omurice, glossy and soft, decorated with exactly one red ketchup heart on top and a small green herb garnish at the side. The background is a cozy old-world kitchen with warm afternoon light streaming through one arched window on the left, potted greenery on the sill, a brick hearth glowing on the right, one hanging lantern, exactly two hanging metal pans, wooden shelves, bowls, copper cookware, and a bowl of small red tomatoes near the lower right. Use soft cinematic lighting, detailed painterly linework, delicate highlights, warm amber shadows, shallow depth of field, intimate welcoming composition, high-detail anime illustration, fantasy domestic atmosphere, vertical portrait aspect ratio.",
+    "title": "Blond Apron Man Serving Heart Omurice",
+    "description": "Generates a warm anime fantasy-kitchen portrait of a blond apron-wearing man presenting heart-decorated omurice for romantic character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662305795_bvi4pf_HIF1t1taUAAjTC-.jpg",
+      "https://cms-assets.youmind.com/media/1778662305852_4ztmbh_HIF1t1raEAAaI6k.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19895,
+    "content": "Create a highly detailed vertical anime-style illustration of a glamorous {argument name=\"character description\" default=\"young female belly dancer\"} in an ornate cool-toned costume, shown in a dramatic close-up cropped composition from upper thighs to head area, with the face and central upper body intentionally covered by a large opaque gray rectangular censor block. The palette is dominated by deep navy, teal, aqua, silver, and pale icy blue. She has long flowing {argument name=\"hair color\" default=\"ash brown\"} hair with soft curls spilling across the right side, decorated with delicate silver chains, tiny blue flower charms, dangling beads, and jeweled head ornaments. Her outfit is an intricate {argument name=\"costume style\" default=\"fantasy belly dancer costume\"}: a dark navy fitted bodice, sheer turquoise veils wrapping around the shoulders and arms, layered translucent ruffles, white lace trim, and a richly decorated arm sleeve covered in silver filigree, pearls, oval metal coins, blue gemstones, floral motifs, and geometric diamond panels. Include a large pale blue fabric flower with a round silver medallion center on the upper left, flowing gauzy scarves, scattered coin ornaments, small pink triangular accents on the veil, and a dark flowing skirt at the bottom. Her hand appears near the lower center with delicate fingers and pale nails. Use an elegant high-detail digital painting style with smooth shading, crisp linework, glossy jewel highlights, ornate textile patterns, fantasy illustration polish, soft lighting, and a refined luxurious mood. The composition should feel intimate and decorative, with dense ornamental detail filling the frame and no background text.",
+    "title": "Ornate Blue Belly Dancer Illustration",
+    "description": "Generates a detailed anime fantasy belly dancer close-up with turquoise veils, silver jewelry, and an intentionally obscured central face area.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662282336_v8v6j4_HIFujRZbwAAZweX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19902,
+    "content": "Create a photorealistic cinematic portrait of {argument name=\"subject\" default=\"the goddess of opportunity\"} shown from the upper body in a three-quarter back view, looking over her shoulder against a dramatic cloudy sunset sky. She has a mostly shaved bald head with only one long dark forelock of hair hanging forward on the front side of her head, symbolizing that opportunity can only be grabbed from the front. Her face is intentionally obscured by a large opaque {argument name=\"face censor color\" default=\"warm brown\"} square covering the central face area. She wears an elegant ancient Greco-Roman inspired white draped gown with an open back, flowing translucent fabric over the shoulders, and ornate gold trim. Add luxurious gold jewelry: a dangling gold earring, delicate layered gold chains across the bare back, an ornate gold armband around the upper arm, and decorative gold shoulder details. Use soft golden-hour rim lighting, warm highlights on skin and fabric, shallow depth of field, realistic skin texture, high-fashion mythological editorial styling, ethereal atmosphere, vertical composition, ultra-detailed, natural proportions, 85mm lens look, cinematic color grading, no text.",
+    "title": "Goddess of Opportunity Portrait",
+    "description": "A cinematic photorealistic portrait prompt for creating a mythological goddess with a single front forelock, ornate gold styling, and sunset atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662285170_x87yam_HIFjuiKbkAAqZK3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19865,
+    "content": "Create a dreamy vertical 9:16 cinematic 3D social-media creator portrait set in a pastel sunset sky above soft pink clouds. A young woman influencer, {argument name=\"character name\" default=\"HANIA AI\"}, is seated sideways on the edge of a glossy floating metallic platform, seen from behind in a three-quarter view, holding a smartphone that shows an Instagram-like profile screen. Her face is intentionally obscured with a smooth neutral blur rectangle, while her long wavy dark brown hair falls over a pale pink and white hoodie. The hoodie has raised embossed back text reading “HANIA AI”. She wears coordinated pastel pink cargo joggers with strap details and pink-and-white sneakers, relaxed pose with one leg bent on the platform and one foot hanging down. Behind her, place a huge glowing 3D Instagram-style app logo in a pink-orange-purple gradient with rounded corners and neon rim lighting, towering like a futuristic sign. Surround the scene with exactly 12 floating social UI elements: 1 red like notification bubble with a white heart and number “1”, 1 red comment bubble, 1 pale square comment icon, 1 glossy reels/video icon cube, 1 translucent follower card reading “Followers 100K”, 4 circular avatar story thumbnails along the lower left edge, and 3 thin white outline navigation icons along the lower right/center area for bookmark, paper-plane share, and app navigation. Add a bottom floating nameplate plaque beneath the platform with glowing text “{argument name=\"nameplate text\" default=\"HANIA AI\"}” and subtitle “{argument name=\"subtitle text\" default=\"Digital Creator\"}”. Use soft volumetric clouds, sparkles, lens glow, warm rim light, reflective chrome edges, pink lavender orange color palette, high-detail semi-realistic 3D render, polished influencer branding aesthetic, shallow depth of field, ultra-clean composition, no extra readable text besides the specified labels.",
+    "title": "Floating Instagram Creator Portrait",
+    "description": "Generates a dreamy 3D influencer branding scene with a seated creator, glowing Instagram-style logo, floating social UI, and custom nameplate.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662266348_41km6r_HIFTknabUAAgOo0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 19900,
+    "content": "Create a soft, high-key photorealistic portrait of a delicate young woman with {argument name=\"hair color\" default=\"pale champagne blonde\"} long straight hair, shot indoors in warm natural window light. She is seated curled up, leaning forward with one knee raised, wearing a sheer ivory romantic lace blouse or dress with ruffled cuffs, fine lace trim, and airy translucent fabric. Her slender hands rest gently on her knee in the foreground, with natural pale nails and a relaxed, graceful pose. Add a small dangling flower-shaped earring partly visible through her hair. The face is intentionally fully obscured by one large centered opaque square censor block in a muted peach skin tone, covering the entire facial area from forehead to chin while leaving hair, ear, hands, and clothing visible. Use a dreamy pastel palette, shallow depth of field, soft bokeh, a blurred background with a white curtain on the left and pale flowers in a vase on the right, gentle overexposure, creamy highlights, fine hair detail, and an elegant Japanese doll photography aesthetic. Aspect ratio 3:4, close-up composition, no text, no watermark.",
+    "title": "Soft Blonde Portrait With Face Censor",
+    "description": "Generates a dreamy high-key indoor portrait of a blonde woman in lace clothing with her face deliberately covered by a peach censor square.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778662283606_z0lj4b_HIFRvJLbwAAr5iw.jpg",
+      "https://cms-assets.youmind.com/media/1778662283749_3f4pxn_HIFRvJKb0AArh8l.jpg"
     ],
     "needReferenceImages": true
   },
