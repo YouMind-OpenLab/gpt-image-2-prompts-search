@@ -1,5 +1,29 @@
 [
   {
+    "id": 20085,
+    "content": "Create a photorealistic luxury lifestyle advertisement featuring a {argument name=\"smartwatch model\" default=\"black Apple Watch Ultra-style smartwatch\"} worn on the left wrist of a well-groomed adult man. The watch must be the hero object: a rounded-square black case with a dark inactive glass screen, thick rugged bezel, side crown and buttons, and a black leather or textured band with subtle warm brown edge accents; preserve the case shape, band shape, materials, and tactile textures exactly. Show the man's hand resting elegantly on a polished wooden table, fingers extended naturally, with realistic skin pores, veins, knuckles, nails, and soft highlights. He wears a {argument name=\"suit color\" default=\"deep navy suit\"} with a crisp white shirt cuff visible behind the watch. Set the scene in an upscale private lounge or hotel club with warm wood paneling, brown leather armchairs, a side table, soft curtains, a green plant, and glowing table lamps in the blurred background. Use shallow depth of field, warm amber indoor lighting, cinematic bokeh, premium editorial composition, and a close-up three-quarter angle from slightly above the table. Keep the watch sharply focused while the background is softly defocused. No text, no logo emphasis, no extra accessories, no distorted anatomy, no changed watch proportions, no added screen UI.",
+    "title": "Luxury Smartwatch Lifestyle Ad",
+    "description": "A photorealistic premium lifestyle product shot of a rugged black smartwatch on a suited man's wrist in a warm upscale lounge.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748608530_g54pnd_HIPC2e_aYAAy64L.jpg",
+      "https://cms-assets.youmind.com/media/1778748609407_j8wab2_HIPC2fAbcAAG_xz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20003,
+    "content": "Create a premium vertical 3:4 {argument name=\"catalog type\" default=\"Cheerleader Fashion Catalog Board\"} in a glossy sports-fashion editorial style\n\nTheme Name:\n{argument name=\"theme\" default=\"Theme type here\"}\n\n{argument name=\"palette\" default=\"[ Type here Main Color Palette: ]\"}\n\nStyle Direction:\n Cheerleader Fashion • Sports Editorial • Youthful Energy • Premium Catalog Design • Clean Athletic Aesthetic\n\nBoard Layout:\nBeautiful {argument name=\"nationality\" default=\"[ type here country name]\"} female cheerleaders modeling various ultra-short cheerleader skirt outfits and sporty performance costumes\nFocus on multiple outfit variations, fashion presentation, leg styling, fabric movement, energetic poses, and dynamic cheerleading compositions\nInclude close-up shots of upper body and lower body styling details, front view poses, back view poses, wide shots, zoomed-in editorial frames, low-angle perspectives from shoe level, raised arm poses, jumping poses, energetic movement poses, and playful sports-fashion compositions\n\nEnvironment:\nBright indoor Japanese school gymnasium with polished wooden floors, clean lighting, sports atmosphere, and cinematic reflections\n\nVisual Presentation:\nMinimal text layout with image-heavy magazine composition\nInclude small fashion annotations, sporty typography, fabric callouts, outfit variation grids, and premium editorial spacing\n\nVisual Quality:\nUltra realistic • glossy magazine finish • premium Japanese fashion catalog aesthetic • cinematic sports photography • highly detailed fabric textures • bright clean lighting\n\nStyle Variations:\nCreate 4 different visual style variations with unique outfit color themes and pose arrangements\n\nStyle Tags:\n[Type here fashion type ]catalog • sports editorial photography • cheerleader styling board • premium athletic fashion presentation",
+    "title": "Cheerleader Fashion Catalog Board",
+    "description": "A comprehensive prompt template for creating a premium sports-fashion editorial catalog board featuring cheerleader outfits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748554432_85ckzx_HIMPiSRacAAKmue.jpg",
+      "https://cms-assets.youmind.com/media/1778748555298_6q35wt_HIMPiTiawAAYhsd.jpg",
+      "https://cms-assets.youmind.com/media/1778748554307_3897ia_HIMPiWoa8AAiJJq.jpg",
+      "https://cms-assets.youmind.com/media/1778748555248_6lagim_HIMPigwasAAwTO8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 19667,
     "content": "Live stream shopping screenshot, host holding {argument name=\"product\" default=\"lipstick\"} for color testing, bullet chat filled with \"{argument name=\"comment\" default=\"Order placed\"}\"",
     "title": "Live Stream Shopping Screenshot",

@@ -1,5 +1,174 @@
 [
   {
+    "id": 20022,
+    "content": "Draw the {argument name=\"subject\" default=\"main character\"} in the picture in a {argument name=\"style\" default=\"perler bead style\"}. The colors should be close to the effect in the image. Replace the background with simple decorations, and the overall feel should be warm.",
+    "title": "Perler Bead Style Portrait",
+    "description": "A prompt to transform a subject from an image into a cute perler bead (pixel art) style with warm lighting and simple decorations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748566536_2umfda_HIQ5olkbUAATXmg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20019,
+    "content": "{ \"subject\": \"{argument name=\"subject\" default=\"Young East Asian woman, mid-20s, fair skin with natural texture\"}\", \"expression\": \"{argument name=\"expression\" default=\"Playful and cute, lips gently pressed on chopsticks, cheeks slightly puffed, wide eyes looking to the side mischievously\"}\", \"action\": \"Holding wooden chopsticks to her mouth with right hand\", \"hair\": \"Dark straight shoulder-length bob, soft layers, side part\", \"lighting\": \"Soft warm cinematic lighting, gentle side lighting, natural skin highlights\", \"composition\": \"Tight close-up on face, shallow depth of field\", \"background\": \"Warm blurred indoor setting with soft bokeh\", \"style\": \"Photorealistic, cinematic, intimate portrait\", \"camera\": \"85mm lens, f/1.8, natural skin details\", \"mood\": \"Cute, playful, charming, soft and intimate\" }",
+    "title": "Playful Intimate Portrait Photography",
+    "description": "A detailed portrait prompt for a playful and cute close-up of a young woman with chopsticks, utilizing warm lighting and an 85mm lens aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748564626_0swas7_HIM80nRbMAA_T2q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20054,
+    "content": "Use the uploaded portrait only as the identity and hairstyle reference. Preserve the person’s facial identity, face shape, facial features, skin tone, and hairstyle accurately. Do not copy the original clothes, pose, lighting, or background from the uploaded portrait.",
+    "title": "Prompt",
+    "description": "Author-provided prompt extracted from a self-reply.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748587081_6l59sg_HINyP_8W0AAHHjg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20004,
+    "content": "A high-contrast, black-and-white studio portrait of a {argument name=\"subject\" default=\"handsome man\"} in the uploaded image. He is seated in a slumped, pensive posture on a minimalist dark wooden chair. His right elbow rests on his knee, with his head leaning heavily into his palm, while his left hand loosely grips a white disposable coffee cup with a black plastic lid. He is wearing classic black Wayfarer-style sunglasses, hiding his eyes and adding to the stoic, moody atmosphere.Suit: {argument name=\"clothing\" default=\"An oversized, structured black blazer and matching wide-leg trousers\"}. The fabric is a heavy, matte wool. Four small black buttons are visible on the sleeve cuff.\nFootwear: Crisp, bright white ribbed cotton socks creating a sharp visual break between the dark trousers and shoes.\nShoes: Highly polished black leather Oxford shoes with thin laces and a slight sheen on the toe box.\nBackground: A minimalist, sterile studio setting with a light grey or off-white textured plaster wall.A soft, vertical shadow or curtain edge is visible on the far left.\nLighting: {argument name=\"lighting\" default=\"Soft, diffused side-lighting\"} that creates gentle gradients on the man's face and deep, dramatic folds in the oversized suit. The lighting emphasizes the high-contrast \"black on white\" aesthetic.\nFloor: A light, seamless studio floor that catches the soft shadows cast by the chair legs and the man's shoes.\nColor Grade: Pure monochrome (black and white) with a wide dynamic range—deep blacks and bright, clean Quality: Sharp focus on the subject with a very subtle film grain, mimicking professional editorial fashion photography (reminiscent of 1990s minimalist campaigns).",
+    "title": "Minimalist Monochrome Fashion Portrait",
+    "description": "A high-contrast, black-and-white studio prompt for editorial fashion photography with a pensive, 1990s aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748555559_k5o11f_HINnOopboAMbN0D.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20093,
+    "content": "Create a polished anime fantasy illustration of {argument name=\"character name\" default=\"a graceful pink-haired noble girl\"} standing on a moonlit castle balcony at night, shown from mid-thigh up in a vertical composition. She has short fluffy bobbed {argument name=\"hair color\" default=\"pink\"} hair with long side bangs partly covering one eye, large ruby-pink eyes, a soft shy smile, pale skin, and delicate features. Add a white flower crown across the top of her hair, a purple flower-shaped hair ornament on the right side, and a small cross hairpin on the left. Dress her in an ornate gothic lolita outfit in {argument name=\"dress colors\" default=\"black, deep magenta, and rose pink\"}: fitted bodice, puffed skirt with layered ruffles, white frilled blouse details, bow at the collar, capelet over the shoulders, rose brooch at the waist, fine gold chain decorations, embroidered floral trim, white cuffs, and frilly underskirt. Her left hand rests gently near her chest, while her right arm reaches outward toward the viewer with an open palm, elegant but slightly stylized anime fingers. The setting is a romantic European castle terrace with stone balustrades, blooming rose bushes, tall arched windows glowing warm yellow, distant gothic towers, and a large full moon in a deep navy starry sky. Surround her with swirling magical ribbons of pink light and many floating rose petals, including foreground petals blurred for depth. Use cinematic moonlight mixed with warm window glow, soft rim lighting, high detail, glossy anime rendering, dreamy atmosphere, rich magenta highlights, shallow depth of field, and a clean high-resolution illustration style. No text, no watermark, no modern objects.",
+    "title": "Moonlit Gothic Lolita Balcony",
+    "description": "A detailed prompt for generating a romantic anime gothic-lolita girl on a moonlit castle balcony with roses, petals, and magical pink light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748612070_3e8017_HINje4DaQAA6DfW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20082,
+    "content": "Create a nostalgic disposable-camera style night portrait of a young woman cosplaying as a magical girl in a pink-and-white idol costume, photographed outdoors in a dark park or garden with warm fairy lights wrapped around trees in the background. She stands centered in a three-quarter waist-up pose, holding a heart-shaped magical wand with a gold handle and pink heart ornament in both gloved hands near her chest. Her outfit is glossy satin and organza: a pastel pink flared skirt, white iridescent bodice, large pink bow with a red heart jewel at the chest, frilly puff sleeves, lace trim, translucent ruffled overskirt panels, white satin gloves with pink lace cuffs, and a matching headband with a large pale pink bow. She has long dark wavy hair falling over her shoulders, but her face is intentionally covered by a soft square privacy blur. Use harsh direct flash, high ISO grain, slight underexposure, warm orange bokeh lights, deep black shadows, candid amateur cosplay event photography, 4:5 vertical composition, realistic fabric shine, slightly imperfect framing, no text or watermark. Customize the costume palette as {argument name=\"costume colors\" default=\"pastel pink and white\"}, the prop as {argument name=\"magical prop\" default=\"heart-shaped wand\"}, the setting as {argument name=\"night location\" default=\"dark park with fairy lights\"}, the camera look as {argument name=\"camera style\" default=\"disposable film camera flash\"}, and the face treatment as {argument name=\"face treatment\" default=\"soft square privacy blur\"}.",
+    "title": "Disposable Camera Magical Girl Cosplay",
+    "description": "Generates a realistic flash-photo portrait of a pink magical girl cosplayer at night, useful for nostalgic cosplay fashion imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748607046_nv1xk8_HIM_KN2bkAAAqMC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20042,
+    "content": "Based on 1-3 clear personal photos uploaded by the user, generate a 2x2 collage photoshoot with a 3:4 aspect ratio per image, themed around '{argument name=\"theme\" default=\"playful Hanfu graduation photo\"}'.\n\n[Character Consistency]\nStrictly preserve the user's real identity features, including face shape, facial proportions, eyes, nose, lips, skin tone, age appearance, hairstyle foundation, and overall temperament. In all four small images, it must clearly look like the same real girl, not a stranger, not Westernized, not overly airbrushed, and without an AI 'fake face' look.\n\n[Overall Style]\nNew Chinese-style graduation photo style popular on Chinese social media, featuring playful, agile, energetic, cute, and pleasing vibes. The image should look like a relaxed and fun set of creative graduation photos suitable for sharing, generally clean and bright with a subtle Chinese sweet aesthetic.\n\n[Makeup]\nSweet and clear youth makeup. Light and transparent base with natural skin color. Eye makeup in light apricot pink, peach pink, or warm brown tones with soft eyeliner and naturally curled lashes. Peach or apple pink blush, and cream pink, peach, or coral lip color. Overall look should be young and lively.\n\n[Hairstyle]\nNatural extension of original hair length from uploaded photos, but prioritized for styles that fit graduation caps decorated with flowers.\n- Long hair: Semi-updo, double side braids, low double buns, or soft updo with loose strands.\n- Mid-length hair: Half-tied, double braids, or low position updo.\n- Short hair: Tucked behind ears or French short curls with small flower caps.\nAvoid heavy hair covering the cap or face in all four images.\n\n[Clothing & Accessories]\nPlayful Hanfu graduation outfits in light green, pink-white, light yellow, or milk white colors. Lightweight fabrics with embroidery, wraps, wide sleeves, and pattern details. Must pair with a flower-decorated academic cap or graduation hat with minor tassels.\n\n[Scene & Props]\nClean and bright Chinese-style studio space with beige, warm white, or light wood backgrounds. Decorative elements include cherry blossom branches, small wooden tables, flower vases, books, and scrolls. Props include brushes, scrolls, and wooden quote boards using traditional Chinese calligraphy like 'Happy Graduation' or 'Bright Future'.\n\n[Lighting & Texture]\nSoft and bright lighting, overall clear and gentle. Detailed fabric and accessory textures. A slight soft focus effect, but not sharp or commercial advertisement style.\n\n[Fixed 4-Grid Shots]\n1. Top-Left: Close-up main vision. Person looking at the camera with a gentle smile, holding a small wooden quote board. Focus on facial identity and cap.\n2. Top-Right: Full body pose. Showing the full outfit and cap, holding a brush and scroll with a natural bright smile. Agile posture.\n3. Bottom-Left: Playful action shot. 3/4 side view, tilting head or winking to emphasize playfulness.\n4. Bottom-Right: Interaction with books/scrolls. Seated or leaning on a table, reading or looking at the camera gently with foreground flowers for depth.\n\n[Consistency]\nKeep the person, outfit, cap, makeup, and scene color consistent across all four images.",
+    "title": "Playful Hanfu Graduation Photo Grid",
+    "description": "A complex prompt for creating a 2x2 grid of Chinese Hanfu-style graduation photos that maintain character consistency from user-uploaded images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748578332_kqyy0i_HIMjWqJWYAAtJGe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20048,
+    "content": "New Chinese Style Graduation Portrait | 4 Individually Refined Photos. Please generate 4 different individually refined graduation portrait photos based on 1-3 clear personal photos. Theme: 'New Chinese Style [Degree Level] Academic Robe Graduation Portrait'. Parameters: [Degree Level]: Bachelor / Master / Doctor. [Major Category]: Literature / Science / Engineering / Agriculture / Medicine / Management / Art / Law / Education / Economics / History / Philosophy / Military Science. [Main Color Scheme]: Default Chinese academic gown system. [Prop Preference]: Bouquet, ancient scrolls, writing brush, round fan, wooden plaque. [Background Type]: A. Simple retro brown studio; B. Dreamy green/gold bokeh. [Temperament]: Sweet, cool, gentle, playful, scholarly, energetic. 1 | Output Format: 4 distinct photos, 3:4 ratio, focused on upper body/half body. 2 | Character Consistency: Preserve face shape, features, skin tone, and expression. All 4 must look like the same real person, avoiding AI-model or heavy internet-celebrity styles. 3 | Style: Graduation theme with recognizable cap and gown, enhanced with New Chinese Hanfu details, updos with real flowers, and ancient scrolls. 4 | Clothing: Must retain academic gown silhouette but enhance collars, cuffs, and lapels with Hanfu embroidery, frog buttons, and cloud-shoulder details. Use major colors only as accents. 5 | Hairstyle: Updo required (low buns, braids); hair must be tucked or pulled back, no loose long hair. 6 | Cap and Flowers: Standard square cap with tassels and prominent real floral decorations (Zanhua). 7 | Props: Main props are ancient scrolls with calligraphic text like 'I'm not studying anymore' (不讀了), 'Happy Graduation', etc. 8 | Makeup: Exquisite but natural New Chinese style, avoiding heavy studio makeup. 9 | Environment: Simple studio background, soft bright lighting, photography quality with film-like depth. 10 | Allocation: Photo 1: Frontal bust, smiling, holding scrolls. Photo 2: Profile view, quiet expression, looking at scrolls. Photo 3: Energetic, holding 'Not studying anymore' scroll across chest. Photo 4: Playful interaction with props. 11 | Uniformity: Consistent person, outfit, and photography style. 12 | Avoidance: No generic Hanfu, stage costumes, plastic flowers, cheap studio looks, text on clothes, or AI fake faces.",
+    "title": "Refined Academic Degree Graduation Photos",
+    "description": "An optimized prompt for generating a series of four high-quality, professional-looking graduation photos with customizable degree and major details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748582326_h3hjte_HIMfnDzWgAEwDyn.jpg",
+      "https://cms-assets.youmind.com/media/1778748582277_6z17c8_HIMfpItWwAA75z5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20053,
+    "content": "Transform the uploaded reference photo into a {argument name=\"style\" default=\"cinematic scrapbook-style\"} music visual composition. Preserve the subject’s identity accurately while arranging the image into {argument name=\"layout\" default=\"multiple layered photo panels\"} with {argument name=\"crops\" default=\"different close-up crops\"} of the same person.",
+    "title": "Scrapbook Music Visual",
+    "description": "Creates a cinematic scrapbook-style music visual with multiple layered panels from a reference photo, while keeping the subject's identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748585615_dq7b4a_HIMYaQbaYAAvFKy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20133,
+    "content": "Create a cute sticker-sheet style character illustration on a clean white background: exactly 9 small chibi mascot drawings arranged in a neat 3-by-3 grid with generous spacing. The character is a fluffy cream puppy-like creature with floppy ears tipped in turquoise-blue, a small blue tuft/mark on the chest, big glossy dark eyes, blushy pink cheeks, tiny paws, and a stylized lightning-bolt tail colored yellow with blue accents. Use soft hand-drawn anime line art, slightly sketchy black outlines, pastel watercolor/crayon shading, rounded proportions, and expressive kawaii faces. Show these 9 distinct poses and expressions: top left surprised with mouth open, one paw raised, black exclamation marks around the head; top center delighted and waving both arms, tongue out, smiling; top right pouting/annoyed with one eye squeezed shut, cheeks puffed, small steam-puff marks around the head; middle left crying sadly with downturned mouth and exactly 4 blue teardrops around/under the eyes; middle center happily giggling with eyes closed, one paw raised, pink blush, a small pink heart and handwritten Japanese text “え〜” beside it; middle right confused and bashful, looking upward with exactly 2 black question marks and a small black heart-like doodle above; bottom left sleepy with eyes closed, droopy posture, and exactly 3 handwritten “z” sleep marks; bottom center shy/cute neutral expression with big eyes, tiny mouth, and exactly 3 small pink hearts around it; bottom right cheerful approval pose with one paw making a gesture, tongue out, energetic marks near the paw, and handwritten text “OK!” above. Keep all characters the same design and scale, no borders, no background props, no extra characters, no watermark.",
+    "title": "Kawaii Puppy Emotion Sticker Sheet",
+    "description": "A 3-by-3 sheet of cute chibi puppy mascot expressions for recreating an emoji or sticker set.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748638456_v3g6ky_HIMG49jb0AAiqhn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20040,
+    "content": "Convert this portrait into a {argument name=\"anime style\" default=\"Studio Ghibli animation style\"}. Use {argument name=\"color palette\" default=\"soft colors\"}, hand-drawn lines, and a warm background.",
+    "title": "Ghibli and Anime Style Photo Transformation",
+    "description": "A set of styling prompts for GPT Image 2.0 that allow you to convert personal portraits into Studio Ghibli-inspired animation, modern anime, watercolor paintings, or Impressionist oil art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748576123_q0648t_HIL96N5aoAA6uZ7.jpg",
+      "https://cms-assets.youmind.com/media/1778748576154_kiat06_HIL96N2aUAANbGw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20032,
+    "content": "Use the uploaded image as the main reference. \n\nTransform the uploaded photo into a realistic candid portrait with an early 1990s digital camera aesthetic. Preserve the subject’s identity, facial features, pose, outfit, and overall composition, but restyle the image with harsh blown-out flash highlights, subtle red-eye effect, low-resolution image quality, raw snapshot imperfections, nostalgic flash-filter styling, and a vintage timestamp look.\n\nThe final image should feel candid, imperfect, and authentic, like an old retro party or personal snapshot taken with an early consumer digital camera. Keep the background dark or naturally subdued when appropriate, maintain a direct-flash look, and give the image a raw, unpolished, memory-like atmosphere.\n\nInclude:\n- harsh direct camera flash\n- overexposed or blown-out highlights\n- subtle red-eye effect\n- low-resolution / soft digital detail\n- slight grain or noisy texture\n- authentic retro snapshot feeling\n- vintage date/timestamp aesthetic in one corner\n- candid, natural, imperfect energy\n\nAvoid:\n- cartoon or anime style\n- overly polished beauty retouching\n- studio lighting\n- ultra-sharp modern DSLR look\n- glossy AI skin\n- text, logos, watermarks, or graphic overlays other than the timestamp aesthetic\n- distorted anatomy or altered identity\n\nMake the aspect ratio 3:4",
+    "title": "1990s Flash Camera Snapshot Portrait",
+    "description": "A prompt template to transform any photo into an authentic early 1990s digital camera snapshot, complete with harsh flash and vintage timestamps.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748572485_02zjif_HIJfwO2awAABYdc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20058,
+    "content": "Create a {argument name=\"style\" default=\"cute neo-expressionist cubist minimal vector portrait illustration\"}, Picasso meets kawaii minimalism, inspired by stylized fashion editorials and playful modern art.\n\nUltra-simplified exaggerated facial features with oversized abstract eyes, flat cartoon eye shapes, minimal black dots or single curved strokes, no realistic iris details, no eyelashes, extremely reduced facial detail.\n\nTiny abstract nose drawn with one short angular line.￼\n\nSmall single-stroke lips, tiny soft geometric mouth shape, minimal expression marks, no realistic mouth anatomy.\n\nRounded cheeks, dreamy innocent expression, playful asymmetrical proportions, elongated elegant neck, simplified geometric facial planes, stylized angular hair shapes, subtle caricature aesthetics, childlike artistic distortion.￼\n\nUse clean scalable vector shapes, flat color blocking, bold primitive contour lines, sharp Bézier curves, abstract polygon composition, minimal linework, naive handmade drawing quality, expressive empty space, icon-like facial abstraction, no realistic rendering, 2D primitive facial symbols.\n\nAdd subtle oil pastel grain overlays, rough handmade brush accents, raw scribbled handwritten marks, visible pigment texture, silkscreen poster feeling.￼\n\nVibrant limited color palette against deep {argument name=\"background\" default=\"matte black\"} background.\n\nLuxury editorial gallery poster composition, contemporary fashion illustration, artsy modern cubist poster, stylish and adorable, premium print-ready vector artwork.￼",
+    "title": "Cubist Minimalist Fashion Portrait",
+    "description": "A stylized fashion illustration prompt inspired by Picasso and Kawaii minimalism, featuring exaggerated facial features on a matte black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748590373_6yul03_HILmJtBasAIEtmZ.jpg",
+      "https://cms-assets.youmind.com/media/1778748590492_owl2fy_HILmJs6bQAAAoWH.jpg",
+      "https://cms-assets.youmind.com/media/1778748590396_bxjkqi_HILmJs7aAAAkauT.jpg",
+      "https://cms-assets.youmind.com/media/1778748591221_u4f12c_HILmJs3bcAACSKQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 20078,
+    "content": "Create a vertical 9:16 semi-realistic anime-style illustration of a goth/alt young woman lounging in a bright high-rise apartment by tall floor-to-ceiling windows, with a sunny blue sky, fluffy clouds, and a distant city skyline outside. The woman has {argument name=\"hair color\" default=\"long wet-looking black hair\"}, very detailed but not overly frizzy strands, pale skin, and her face intentionally covered by a soft rectangular blur/censor block. She wears a black crop camisole with a small white cross-like emblem, loose black cargo pants, a black belt with a silver buckle and dangling chain, a black choker with a small pendant, multiple ear piercings, black nail polish, and an oversized black puffer jacket slipping off her shoulders. Her pose is relaxed and slightly reclined on a white couch, one knee raised close to the camera, one hand resting near a small round table. Add a large intricate black tattoo sleeve on her visible upper arm. The room is sunlit with strong natural light, soft shadows, and crisp highlights. Include exactly 6 notable background/foreground objects: 1 large wall poster reading “DON’T OVERTHINK SHIT.” with tiny text below, 1 small pink-purple neon heart sign on the wall, 2 small square photo prints below the neon sign, 1 black Monster Energy can on the table, and 1 smartphone with a black-and-purple graphic case on the table. Add large green plant leaves entering from the upper right. Use a stylish Japanese digital-art look, high-detail fabric folds, glossy hair, clean linework, realistic lighting, and a cool urban bedroom atmosphere. Keep the composition cropped like a candid fashion portrait, no watermark, no extra characters, no extra text beyond the poster and tiny wall details.",
+    "title": "Goth Girl by City Window",
+    "description": "A vertical semi-realistic anime fashion portrait of an alt goth girl lounging in a sunlit high-rise apartment with urban decor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748604302_vb7st0_HILYdlQaEAA5lcc.jpg",
+      "https://cms-assets.youmind.com/media/1778748604388_gl40px_HILYdlPbQAAd0x2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20076,
+    "content": "Create a vertical 9:16 ultra-soft iPhone lock screen wallpaper showcase in a dreamy pastel iOS aesthetic. Show a translucent rounded-corner iPhone screen floating over a heavily blurred warm pink-and-cream background. Inside the phone, paint a soft Japanese watercolor café window scene in flat 2D with glowing morning sunlight, peach, blush pink, ivory, and honey-gold tones. The main subject is an adorable fluffy kitten with cream-and-gray fur, huge glossy eyes, tiny pink nose, paws resting on a wooden windowsill, wearing a pink bow on one ear and a pink collar with a small heart charm. Surround the kitten with a cozy dessert still life: exactly 8 visible food and drink items including 3 stacked pastel macarons on a small stand, 1 strawberry jam jar, 1 whipped cream dessert cup with strawberry, 1 croissant plate with 2 croissants counted as one plate item, 1 pink whipped drink or dessert cup, and 1 small jar or cup at the lower left. Add exactly 2 floral décor elements: a ceramic pitcher bouquet of small white flowers and pink roses on the left, and tiny white blossoms near the right edge. Include a softly blurred street or bakery exterior beyond the window for depth.\n\nOverlay realistic white iOS lock screen UI on top of the illustration: status bar with Chinese carrier text “中国移动” on the left, cellular bars, “5G”, and battery icon on the right; small lock icon centered near the top; date text “Wednesday 7 September”; very large time “12:57”; a small headphone battery widget on the left reading “50 %” and “WH-1000XM5” with a short progress line; a circular activity-style widget in the center; a “50%” text widget on the right with tiny sparkle marks; bottom flashlight and camera circular buttons; and a thin white home indicator bar. Use frosted glass transparency for the phone frame and UI, soft bloom, gentle haze, delicate bokeh, rounded Apple-inspired minimal design, healing atmosphere, no harsh outlines, no extra text, no watermark. Allow customization of {argument name=\"time\" default=\"12:57\"}, {argument name=\"date\" default=\"Wednesday 7 September\"}, {argument name=\"main animal\" default=\"fluffy cream-and-gray kitten\"}, {argument name=\"dessert theme\" default=\"pink café pastries and macarons\"}, and {argument name=\"color palette\" default=\"peach blush ivory honey gold\"}.",
+    "title": "Pastel Kitten Café iPhone Lock Screen",
+    "description": "Generates a dreamy pastel iPhone lock screen wallpaper featuring a cute kitten in a sunlit watercolor café window scene with desserts and iOS UI overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748600917_kmnftj_HILCTJ8WMAAlM3u.jpg",
+      "https://cms-assets.youmind.com/media/1778748601092_5uuypd_HILCUdTXsAAJH9R.jpg",
+      "https://cms-assets.youmind.com/media/1778748601167_ns7jdc_HILCXAAW0AA1y5g.jpg",
+      "https://cms-assets.youmind.com/media/1778748603000_n4jcnn_HILCY4HXMAAn0Th.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20030,
+    "content": "Cinematic portrait of the man in the picture (preserve 100% facial details of this man), vintage classroom. The camera is shot from a distance, with a small section of the chair's back visible in front, as if the photographer was taking the portrait discreetly or in a quiet moment, Soft, gol-den-yellow lighting reflects from a small window or gap in the right wall, forming diagonal lines of light that fall directly on the man's face, creating a dramatic and emotional contrast.The man sits alone in a chair, his feet resting on the desk, with a relaxed and cool expression, as if lost in thought.",
+    "title": "Vintage Classroom Cinematic Portrait",
+    "description": "A cinematic, emotional portrait of a man in a vintage classroom, featuring dramatic diagonal window lighting and a candid perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778748571192_nzzs13_HILB1SgbIAAFCq4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 19948,
     "content": "Create a vertical 9:16 cinematic night portrait of {argument name=\"subject\" default=\"a stylish young man\"} standing on a high-rise balcony above a dense Tokyo city skyline, with Tokyo Tower glowing orange on the left and blurred skyscraper lights filling the background. The subject is framed from mid-thigh upward, leaning casually against a glass-and-metal railing with one arm draped over it, body angled slightly, wearing an elegant all-white outfit: oversized white blazer, loose open-collar white shirt, high-waisted white trousers, and a slim black belt, with a few subtle rings on the relaxed hand. The face is intentionally hidden by a centered dark square censor block, while dark medium-length hair remains visible around it. Use moody low-light photography, shallow depth of field, heavy bokeh, soft flash on the white suit, muted teal-and-orange color grading, slight film grain, chromatic aberration, VHS-like blur, and an atmospheric 1990s disposable-camera aesthetic. Make the background city lights dreamy and out of focus, the subject slightly soft but stylish, with a luxurious rooftop nightlife mood.",
     "title": "Censored Tokyo Rooftop Night Portrait",
@@ -51,11 +220,11 @@
   },
   {
     "id": 19852,
-    "content": "An adult {argument name=\"character type\" default=\"Eastern fantasy\"} female character, 9:16 vertical composition, upper body portrait, 3D CG high-precision illustration style. The character is centered, looking directly at the camera with a quiet and gentle expression and a sweet, cute smile. The overall temperament is cool, soft, dreamy, and exquisite.\n\nShe has delicate and soft Eastern features and fair, translucent skin with a porcelain-like texture, featuring soft highlights and a faint blush. Her eyes are large and clear with grayish-blue pupils, expressing tenderness and brightness with long lashes and clean, natural eye makeup.\n\nShe has {argument name=\"hair color\" default=\"light blue fluffy long hair\"}, soft and light, tied into two loose buns on top with slightly messy airy wisps and a few curled strands falling naturally on both sides of her face. The hair color shows rich layers of light blue, silver-blue, and soft white highlights.\n\nShe is wearing a {argument name=\"clothing\" default=\"white fluffy plush shawl / fur-textured coat\"} with a soft, thick collar gently wrapping her neck and shoulders, revealing elegant necklines and collarbones.\n\nRequirements: High-quality 3D CG rendering, fine skin texture, soft focus lens, shallow depth of field, cinematic warm light, dreamy atmosphere, exquisite hair details, clean composition, bright and transparent.",
-    "title": "3D CG Fantasy Female Character Illustration",
-    "description": "A highly detailed 3D CG illustration prompt for a sweet fantasy female character with double buns and fluffy fur attire in a warm, cinematic light.",
+    "content": "An adult Oriental fantasy female character, 9:16 vertical composition, upper body portrait, 3D CG high-precision illustration style, character located in the center of the frame, facing the camera, with a quiet and gentle expression and a slightly sweet and cute smile. The overall aura is cool, soft, dreamy, and exquisite.\n\nShe has delicate and soft Oriental features, fair and translucent skin as fine as porcelain, with soft highlights and light blush. Her eyes are large and clear with {argument name=\"eye color\" default=\"gray-blue\"} pupils, a gentle and bright gaze, long eyelashes, and clean natural eye makeup. Her nose is small and exquisite, her lips are soft and rosy with a natural shape, and her overall face is cute, sweet, and refined, like high-quality fantasy character modeling.\n\nShe has {argument name=\"hair color\" default=\"light blue\"} fluffy long hair, soft and light strands, tied into two loose double-bun hairstyles on top, with slightly messy airy wisps and a few curled strands falling naturally on both sides of her face. The hair color shows rich layers of light blue, silver-blue, and soft white highlights, glowing delicately under warm light. The buns are adorned with white fuzzy hair accessories, small pearls, and delicate gold decorations, adding a sense of dreaminess and cuteness.\n\nShe is wearing a {argument name=\"outfit\" default=\"white fluffy plush shawl / fur-textured coat\"}, with a soft and thick collar gently wrapping around her neck and shoulders, revealing elegant shoulder lines and collarbones, overall luxurious but restrained. The clothing features delicate gold chains, pearls, and small pendant decorations, with exquisite and luxurious materials and clear, soft plush textures.\n\nThe background is a warm and soft indoor space, with golden window light streaming in from the right, the background blurred with warm bokeh and a soft-focus atmosphere, creating a dreamy, warm, and refined sense of luxury. The overall colors are more vivid than ordinary realistic images, with the light blue hair, white plush, and warm golden light forming a sharp but soft contrast.\n\nVisual requirements: high-quality 3D CG rendering, delicate skin texture, soft focus lens, shallow depth of field, cinematic warm light, dreamy atmosphere, exquisite hair details, clean composition, character is cute and sweet but maintains a high-end feel, bright and transparent image, moderate to high color saturation, rich details, ultra-clear, high-level fantasy character illustration quality.",
+    "title": "Oriental Fantasy 3D CG Illustration",
+    "description": "A high-precision 3D CG illustration of an Oriental female character with dreamlike blue hair and elegant fur attire.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1778662257130_8hj1mr_HIIDewxbkAAzpDr.jpg"
+      "https://cms-assets.youmind.com/media/1778748590824_gtufov_HIIDewxbkAAzpDr.jpg"
     ],
     "needReferenceImages": false
   },
@@ -90,16 +259,6 @@
       "https://cms-assets.youmind.com/media/1778662233104_vumzdh_HH6YVMfWUAgaGWz.jpg"
     ],
     "needReferenceImages": false
-  },
-  {
-    "id": 19926,
-    "content": "Create a dreamy ultra-detailed fantasy portrait inside a giant transparent glass snow globe, with {argument name=\"character name\" default=\"Maruko\"} sitting centered on a plush pink cushion. The subject is a young woman with straight medium-brown shoulder-length hair, wearing a frilly pastel lavender ruffled chiffon dress with long sheer sleeves, white ankle socks, and chunky white sneakers; she sits casually with one knee raised, one leg folded, and one hand resting near her chin, face softly blurred for privacy. The globe contains a magical miniature pastel castle-and-sky world in lavender, pink, blue, and warm gold, filled with sparkling bokeh, floating bubbles, star ornaments, crystal baubles, tiny lanterns, flowers, and fairy lights. Count exactly 3 visible text elements: a glowing circular neon sign on the left reading {argument name=\"neon sign text\" default=\"まるこ\"}, a small hanging oval gold sign on the upper right reading {argument name=\"hanging sign text\" default=\"Maruko\"}, and an ornate front base plaque reading {argument name=\"base plaque text\" default=\"まるこの星あかりのおうち\"} with the name {argument name=\"plaque name\" default=\"Maruko\"} beneath it. Add a small white rabbit at the lower right inside the globe, clusters of pink and lavender blossoms around the base, luminous blue accent lights along the bottom rim, and ornate gold filigree on a silver-gold pedestal. Make the glass dome highly reflective with realistic refraction, curved highlights, and a large gold star ornament at the top center. Use a whimsical Japanese kawaii aesthetic, luxurious fantasy diorama styling, soft cinematic depth of field, glowing pastel lighting, photorealistic 3D illustration quality, high detail, square composition, front-facing view, magical cozy atmosphere.",
-    "title": "Kawaii Fantasy Snow Globe Portrait",
-    "description": "Generates a personalized pastel fantasy portrait of a girl seated inside an ornate glowing snow globe diorama, ideal for cute profile art or character-themed visuals.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1778662298377_qyjsef_HIHkbwaaoAAQ80m.jpg"
-    ],
-    "needReferenceImages": true
   },
   {
     "id": 19804,
@@ -171,6 +330,19 @@
       "https://cms-assets.youmind.com/media/1778662286627_uqx0vz_HIGTJNFaUAAOyaV.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 19957,
+    "content": "请基于用户上传的真实户外照片进行风格化改造。\n\n保留照片中的主体不变，主体可以是人物或动物。尽量保留主体的外貌识别度、姿态、服装、毛发、真实摄影感，不要换脸，也不要把主体彻底像素化。",
+    "title": "《我的世界风格化照片》提示词：\n\n请基于用户上传的真实户外照片进行风格化改造。\n\n保留照片中的主体不",
+    "description": "",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1778732871944_6raez3_HIGN0DCXwAErSPs.jpg",
+      "https://cms-assets.youmind.com/media/1778732873456_5431q3_HIGN1ZjXMAAi6TQ.jpg",
+      "https://cms-assets.youmind.com/media/1778732873426_3qpdxf_HIGN27yWwAA2Ttx.jpg",
+      "https://cms-assets.youmind.com/media/1778732873123_glkjg5_HIGN271WkAAwbdo.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 19939,
