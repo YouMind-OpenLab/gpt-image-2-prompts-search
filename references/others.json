@@ -1,5 +1,35 @@
 [
   {
+    "id": 20912,
+    "content": "Create a cinematic cyberpunk night street scene titled by mood rather than text: an original {argument name=\"character type\" default=\"young market visitor\"} stands in the left foreground with their back and partial profile to the camera, holding a large transparent dome umbrella beaded with rain. The character has {argument name=\"hair color\" default=\"short wet black hair\"} and wears a glossy dark hooded raincoat with subtle patterned trim and a crossbody bag, their face mostly in shadow and not resembling any real person. They look toward a glowing rain market on the right: exactly 1 long plastic-tarp produce stall runs diagonally from mid-right to the upper-right corner, with crates of red tomatoes and mixed vegetables, white storage boxes, clear hanging plastic sheets, metal poles, and exactly 7 visible warm amber hanging bulbs under the canopy. The setting is a dense urban market street in heavy rain, with wet pavement reflecting teal and amber neon, blurred pedestrians with umbrellas in the background, vertical out-of-focus East Asian-style shop signs, and deep atmospheric haze. Use a {argument name=\"color palette\" default=\"teal and amber neon\"} palette, strong filmic contrast, realistic rain streaks, water droplets on the umbrella and tarp, shallow depth of field, bokeh lights, 35mm street-photography composition, no logos, no readable brand names, no celebrity likeness, no extra foreground objects. The overall mood should feel like {argument name=\"mood\" default=\"quiet solitude in a glass rain market\"}.",
+    "title": "Glass Rain Market",
+    "description": "A cinematic prompt for generating an original character in a neon-soaked rainy night market with teal and amber reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779008305312_xx4ne5_HIdwAUKacAACmt8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20866,
+    "content": "Using the provided reference image as the stylistic base, transform it into a new surreal Salvador Dalí-inspired coastal dreamscape rather than copying the melting-clock composition. Keep the same oil-painting feel, warm desert-seaside horizon, long shadows, and uncanny realism, but replace the original clock scene with an ornate architectural still-life arrangement: a tall eroded stone facade with multiple circular openings on the left, classical urns and small decorative figures on top, a distant garden/temple view framed through one opening, a draped white cloth at the base, and a large chalice-like reflective basin on the right containing a tiny island. Add a floating cracked egg/parachute form with dangling strings in the sky, a small suspended sphere, a rocky coastline in the distance, and a small pedestal with an egg and dark draped cloth in the lower right. Include exactly 2 flat opaque rectangular mask blocks over the image: 1 large vertical olive-gray rectangle covering the central structure and 1 smaller olive-gray rectangle near the upper-right floating object. Maintain a muted antique palette, precise surrealist lighting, and painterly canvas texture; avoid modern objects, text, or photorealistic digital effects.",
+    "title": "Dalí-Style Surreal Coastal Transformation",
+    "description": "Transforms a Dalí reference painting into a new surreal coastal oil-painting scene with architectural forms, floating objects, and masked rectangular overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779008274985_zeogqm_HIdo0gMXYAA6oa2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20864,
+    "content": "Using REFERENCE_0 as the surrealist style reference, create a new original Salvador Dali–inspired desert seashore scene rather than copying the exact clock composition. Keep the dreamlike realism, long shadows, muted ochre sand, blue horizon, and precise oil-painting finish, but replace the original melting-clock still life with a wider cinematic landscape.\n\nAdd these new surreal elements exactly: 1 woman in a long black dress seen from behind at the left foreground; 1 cracked floating egg in the upper-left sky; 3 swan-elephant hybrid creatures standing near shallow water; 4 extremely tall, thin-legged elephant-like figures carrying architectural towers or structures on their backs in the mid-right distance; 1 coastal monastery or castle complex on the far-right hillside; 1 wooden drawer chest in the lower-right foreground with a pale white cloth or hair-like sheet flowing out of it; and 1 large flat muted taupe rectangle obscuring the lower center of the image.\n\nComposition: horizontal 4:3 canvas, low desert plain meeting a calm sea and distant islands, dramatic perspective from left foreground to right background. Use {argument name=\"style reference\" default=\"Salvador Dali surrealist oil painting\"}, {argument name=\"main foreground figure\" default=\"woman in a long black dress seen from behind\"}, {argument name=\"floating object\" default=\"cracked egg\"}, {argument name=\"hybrid animals\" default=\"three swan-elephant creatures\"}, and {argument name=\"distant giants\" default=\"four long-legged architectural elephants\"}. Avoid modern objects, text, borders, and watermarks.",
+    "title": "Dali-Inspired Surreal Landscape",
+    "description": "Creates a new surrealist seashore scene from a Dali-style reference, useful for generating dreamlike symbolic paintings with architectural creatures and desert imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779008274134_8uzah5_HIdo0cpXYAEFhyK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 20676,
     "content": "Create a serene painterly landscape of a misty lake at sunrise, in a romantic impressionist oil-painting style. The scene shows a calm reflective pond filled with lily pads and exactly 14 visible water lilies: 5 prominent blossoms in the lower-left foreground, 1 small blossom near the center-left water, 2 blossoms just left of the heron, and 6 blossoms scattered across the right-side lily pads. Place a single elegant {argument name=\"bird\" default=\"great blue heron\"} standing in shallow water slightly right of center, facing left, with long legs, an orange beak, blue-gray feathers, and a clear reflection in the water. In the right background, include a graceful willow-like tree with drooping branches covered in pale pink blossoms, leaning over the water; surround it with reeds and soft greenery. The horizon is hazy with distant trees, low morning fog, and a glowing sun near the center, casting peach, coral, lavender, and gold reflections across the lake. Use a wide cinematic canvas, soft brushstrokes, pastel colors, atmospheric depth, gentle ripples, and a peaceful spiritual mood. Emphasize luminous sunrise light, mirrored reflections, blooming water lilies, reeds, and tranquil stillness. No text, no people, no buildings, no harsh outlines, no photorealistic sharpness.",
     "title": "Misty Heron Lake at Sunrise",
