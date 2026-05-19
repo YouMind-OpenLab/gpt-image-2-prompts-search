@@ -10,6 +10,185 @@
     "needReferenceImages": true
   },
   {
+    "id": 21333,
+    "content": "Based on the understanding of the “{argument name=\"character name\" default=\"character name\"}” generate a unique and fully developed worldview, including scene style, cultural background, and spatial design. The composition should have an epic scale and cinematic framing. Feature the “{argument name=\"character type\" default=\"defend-type character\"}” as the main protagonist in a {argument name=\"art style\" default=\"high-quality anime art style\"}, with clear facial features and natural body proportions (not chibi). The character should be shown in a full-body composition, standing slightly forward at the center of the frame, with a confident runway-like presence and posture. The character’s outfit style, materials, and overall color palette should be automatically derived from the generated worldview, featuring a premium design aesthetic with cohesive color layering. Position an exclusive \"guardian spirit beast\" behind the character on the left side. The AI should automatically generate the beast so it fully aligns with both the character and the worldview. The beast must be enormous, far larger than the character, with a structurally believable design. It should appear as a hybrid of physical form and energy, with intricate textures and layered lighting effects. The guardian occupies the upper portion of the composition, creating an overwhelming sense of pressure while advancing alongside the character. The character, guardian beast, and environment must share a unified artistic style while maintaining clear color contrast to avoid visual blending. Lighting should adapt naturally to the worldview while remaining bright, clean, and cinematic with high-end animated film quality. The overall aesthetic should resemble epic anime art combined with premium AAA game key visuals, featuring ultra-high detail, high resolution, and a clean composition. Negative requirements: no additional characters, no multiple spirit beasts, no chibi or low-quality cartoon styles, no text or watermarks, no blurry faces, and no deformed anatomy or structures.",
+    "title": "Epic Anime Guardian and Worldview Generation",
+    "description": "A highly detailed prompt for creating an immersive anime worldview featuring a main protagonist and a massive, overwhelming guardian spirit beast with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182068892_mplzto_HIpxH4ebgAAt1Al.jpg",
+      "https://cms-assets.youmind.com/media/1779182068961_bdgmns_HIpxH4ZakAAaAYD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21339,
+    "content": "Tactical simulation RPG style\n────────────────\nCharacter name: [{argument name=\"character name\" default=\"(Optional)\"}]\nDisplay text: [{argument name=\"display text\" default=\"(Optional)\"}]",
+    "title": "Tactical Simulation RPG Scene Prompt",
+    "description": "Creates a tactical simulation RPG screen featuring specific character identifiers and UI text elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182073687_7kuw5q_HIpf3ejbUAAP0Z5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21338,
+    "content": "3. 32-bit low-poly 3D action RPG style\n\n────────────────\n\nCharacter name: [{argument name=\"character name\" default=\"(Optional)\"}]\n\nDisplay text: [{argument name=\"display text\" default=\"(Optional)\"}]",
+    "title": "32-bit Low Poly Action RPG Prompt",
+    "description": "Generates a 32-bit style low-poly 3D action RPG screen with specific character names and UI text labels.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182073611_zam898_HIpfyS8bYAANK85.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21337,
+    "content": "16-bit RPG field exploration and event screen style\n────────────────\nCharacter name: [{argument name=\"character name\" default=\"(Optional)\"}]\nDialogue: [{argument name=\"dialogue\" default=\"(Optional)\"}]",
+    "title": "16-bit RPG Field Exploration Prompt",
+    "description": "A prompt for generating 16-bit retro RPG field exploration and event screens with customizable character names and dialogue.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182071805_cxyje2_HIpfr0tb0AAijeF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21415,
+    "content": "Using the provided reference image as the character source, transform the character into a 16-bit command RPG battle screen in pixel-art style. Keep the original character’s outfit, long blond hair, general silhouette, and faceless/blurred face treatment, but redraw her as a playable battle sprite standing on the left side in a ready-to-fight pose.\n\nGoal: Create a retro Japanese fantasy RPG combat scene, like a Super Famicom / 16-bit era command battle screen.\n\nScene additions: Add an ancient ruined stone arena background with broken arches, columns, moss, vines, scattered machinery, and atmospheric depth. Place exactly 2 enemy monsters on the right side: 1 tall plant/serpent-like mechanical monster with glowing blue orbs, and 1 smaller spider-like mechanical creature with cyan energy rings.\n\nUI layout: Add exactly 3 dark navy RPG interface boxes with thin white borders: 1 command menu in the upper left, 1 character status box near the lower center-left, and 1 dialogue box across the bottom.\n\nText: The command menu must contain exactly 4 Japanese options in vertical order: 「たたかう」, 「まほう」, 「アイテム」, 「にげる」, with a triangular cursor pointing to the first option. The status box should show {argument name=\"character name\" default=\"フミ姐ぇ\"}, LV 35, HP 320/320, and MP 150/150. The bottom dialogue box should show {argument name=\"battle line\" default=\"さっさと片付けるわよ\"}.\n\nStyle constraints: Use crisp 16-bit pixel art, limited color palette, visible pixel edges, side-view RPG composition, no modern UI, no photorealism, no extra characters, no extra menu items, no watermark.",
+    "title": "16-Bit RPG Battle Screen",
+    "description": "Transforms a reference character into a retro Japanese 16-bit command RPG battle scene with enemies, pixel-art ruins, and classic UI boxes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182119163_35ull1_HIpeKq4a8AAbr2r.jpg",
+      "https://cms-assets.youmind.com/media/1779182119193_7213v4_HIpeR00bMAAWXK5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21289,
+    "content": "Vast, completely flat {argument name=\"terrain\" default=\"salt crust plain\"} stretching to a sharp horizon. Overcast, low-contrast daylight filtered through a thick, {argument name=\"sky color\" default=\"dusty orange sky\"}. Hazy, dim sun casting long, faint, diffuse shadows. A single, tiny human figure standing isolated at the base of the {argument name=\"structure\" default=\"Vault from the Foundation series\"}. The Vault is a gargantuan, miles-high asymmetric geometric polyhedron with a dark matte obsidian texture reflecting a dull, oily sheen. The scale ratio minimizes the human figure into a minute speck against the structure's massive vertical facets. Shot on a wide-angle anamorphic lens with deep depth of field, keeping both the cracked texture of the salt ground and the top of the polyhedron in sharp focus. Color palette restricted to industrial monochrome: deep slate greys, matte carbon black, and muted sandy ochre dust. Wide-angle sci-fi film still, production concept art plate. Lens flare, glowing neon lines, high-contrast cinematic bloom, motion blur, vignette, watermarks, extra background figures, organic landscapes.",
+    "title": "Cinematic Foundation series salt plain",
+    "description": "A cinematic sci-fi prompt featuring a massive geometric structure on a flat salt plain, inspired by the Foundation series.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182040439_vxe2ce_HIoJqs9XcAAaBKQ.jpg",
+      "https://cms-assets.youmind.com/media/1779182040469_nfg8li_HIoJW8GWIAE_7b9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21322,
+    "content": "An adult anime-style fantasy female character, high-precision 3D CG rendering style, 9:16 vertical composition, upper body close-up portrait. The character is positioned center-left, body slightly turned right, with a soft two-thirds side profile view, looking gently forward or slightly toward the camera. Her expression is {argument name=\"temperament\" default=\"gentle, sweet, and quiet\"}, with a touch of shyness and soft approachability; the overall vibe is cute, delicate, warm, and sophisticated. \n\nShe has fair, translucent skin with a smooth texture and soft glow. Her features are delicate and small, with a rounded face shape, slender nose, and naturally soft lips with a slight smile. Her eyes are large and clear with a blue-purple gradient, looking gentle and bright with a sweet, dreamy quality. She wears thin-rimmed round glasses, enhancing a literary and cute charm. \n\nHer hairstyle is {argument name=\"hair color\" default=\"light silver-blue\"} mid-length hair, light and fluffy with rich layers and electric blue gradients at the tips. She wears a navy blue beret. Her outfit is a light off-shoulder knit sweater showing soft shoulder and collarbone lines. \n\nThe scene is set by a {argument name=\"scene\" default=\"bright indoor window\"} with morning or afternoon sunlight creating soft highlights. The background is clean and blurred. \n\nStyle: High-quality 3D CG character modeling, similar to high-precision game promo art, PBR materials, soft subsurface scattering, realistic cloth textures. \n\nKeywords: 3D CG, anime style 3D girl, sweet curvy girl, soft feminine beauty, upper body portrait, full figure, silver blue hair, round glasses, navy beret, off shoulder knitted sweater, butterfly pendant, soft sunlight, indoor window light, delicate skin, cinematic lighting, PBR materials, ultra detailed.\n\nNegative prompts: low resolution, blurry, noise, distorted face, misaligned eyes, deformed glasses, extra fingers, deformed hands, incorrect body proportions, plastic texture, messy background, overexposed, watermark, logo.",
+    "title": "3D CG Anime Illustration of a Sweet Muse",
+    "description": "A detailed prompt for creating a high-precision 3D CG illustration of a gentle anime-style female character with silver-blue hair, featuring soft indoor lighting and a warm, sophisticated aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182059016_b4glro_HInNumUbsAAEyJu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21442,
+    "content": "Create a vertical cinematic sci-fi cityscape showing a vast futuristic megacity at night in monochrome {argument name=\"color palette\" default=\"black, white, and cold silver-gray\"}. The viewpoint is a high aerial perspective looking down across an endless dense skyline of countless narrow skyscrapers, towers, and glowing city grids stretching to a hazy horizon. In the right-center foreground, place a colossal circular black void or artificial singularity embedded in the city, like a perfectly dark bottomless hole, surrounded by bright concentric rings of light trails that spiral around it like an accretion disk. The luminous rings should be made of many fine white and silver lines, suggesting extreme speed, orbital traffic, data streams, or gravitational distortion. Tall buildings cluster tightly around and beneath the vortex, with some needle-like spires rising above the light rings; emphasize intricate architectural detail, glowing windows, reflective metallic surfaces, and immense scale. The atmosphere should feel ominous, awe-inspiring, and futuristic, with mist, fog, bloom, and a soft bright horizon band under a dark sky. Use ultra-detailed photorealistic digital matte painting style, high contrast, deep blacks, volumetric haze, sharp skyscraper silhouettes, and cinematic lighting. No people, vehicles, signs, logos, or readable text.",
+    "title": "Futuristic City Singularity",
+    "description": "A cinematic monochrome aerial view of a futuristic megacity being consumed by a massive glowing black-hole-like vortex.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182135746_xu8oda_HInBrmmXkAAjk99.jpg",
+      "https://cms-assets.youmind.com/media/1779182135594_ier7gb_HInBrmmWsAAjzrQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21363,
+    "content": "Goal: Create a realistic cricket player character sheet showing {argument name=\"character name\" default=\"a male professional cricket player\"} in a full uniform from three angles, like a sports-kit design preview.\n\nCanvas: Wide horizontal studio composition, light gray seamless background, soft even lighting, high-resolution photorealistic 3D render or commercial sports photography look. Keep all three figures life-size and evenly spaced across the canvas.\n\nLayout: Show exactly 3 full-body poses, each with a small black angle label centered below the feet: 1) left figure labeled \"0°\", front-facing, standing upright with a cricket bat resting vertically on the ground at his left side; 2) center figure labeled \"45°\", three-quarter front view, holding the bat diagonally upward across his body with both gloved hands; 3) right figure labeled \"180°\", back-facing, holding the bat vertically on the ground at his right side. The player’s face should be intentionally blurred or obscured in the front and three-quarter views.\n\nSubject details: Athletic adult male with medium-brown skin, short black styled hair, clean sportswear silhouette. Outfit has exactly 7 visible equipment/clothing pieces: 1) red short-sleeve cricket jersey with black shoulders and gold trim, 2) navy cricket trousers, 3) white batting gloves, 4) gold leg pads, 5) white athletic cricket shoes, 6) pale wooden cricket bat with a bold red-and-black \"SS\" style logo, 7) white-and-red pad straps visible from the rear. Jersey front text reads {argument name=\"sponsor text\" default=\"QATAR AIRWAYS\"} in large white letters, with a small gold crest on the left chest and subtle dark red patterned graphics across the lower torso. Jersey back is plain red with black side panels, gold-red gradient pattern near the waist, and a tiny gold mark below the collar.\n\nColor and style: Use a premium cricket franchise kit aesthetic in {argument name=\"jersey color\" default=\"red, black, and gold\"}, navy pants, tan-gold protective pads, crisp white gloves and shoes, realistic fabric folds, glossy helmet-free presentation, and sharp product-render detail.\n\nConstraints: Include exactly the 3 labeled angle views and no extra players, no stadium, no crowd, no watermark, no additional text beyond the jersey sponsor, bat branding, small kit marks, and the three angle labels.",
+    "title": "Cricket Player Three-Angle Character Sheet",
+    "description": "Generates a realistic sports character sheet of a cricket player uniform shown from front, three-quarter, and rear views for kit or character design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182090844_suiunm_HInGFtubwAAW9JE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21406,
+    "content": "Create a vertical cinematic sci-fi cityscape viewed from a very high aerial angle at night, in monochrome black, charcoal, silver, and cold white. The scene shows an impossibly vast futuristic megacity packed with thousands of tall skyscrapers, sharp spires, dense glowing windows, and intricate illuminated street grids stretching to a hazy horizon. In the center-right foreground, place a colossal circular black void like a perfectly dark sinkhole or artificial black hole embedded in the city, surrounded by countless bright concentric rings of white light trails that swirl around it like long-exposure traffic or orbital data streams. The light trails should form a wide vortex disk, brightest on the left side and fading into a deep black center. Buildings continue around and partly into the vortex, with some towers silhouetted against the glowing rings. The atmosphere is misty, high-contrast, and apocalyptic, with volumetric haze, bloom, fine detail, subtle film grain, and a luminous horizontal fog band near the distant horizon. No people, no vehicles visible as objects, no text, no logos; emphasize overwhelming scale, cyberpunk architecture, and the surreal gravitational distortion of a city being swallowed by a black hole.",
+    "title": "Monochrome Megacity Black Hole",
+    "description": "A cinematic vertical sci-fi scene of a dense futuristic city encircling a colossal glowing vortex and black void, ideal for dystopian concept art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182113817_mkgsbe_HInBrmmXkAAjk99.jpg",
+      "https://cms-assets.youmind.com/media/1779182113394_0dfij5_HInBrmmWsAAjzrQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21372,
+    "content": "Create a high-finish cinematic anime fantasy adventure champion poster titled {argument name=\"headline text\" default=\"The Champion\"}, themed around “the chosen girl and her digital partners.” Use a vertical 2:3 poster canvas with warm beige, gold, cream, and dusty sunlight tones, dramatic backlighting, floating digital square particles, rocky debris, and a heroic blockbuster composition. Center foreground: a young East Asian woman, brave and gentle, wearing a fitted cream floral mini dress and a soft off-white cardigan, brown-black hair in a low messy bun with rim-lit loose strands. Her face should be obscured or left as a customizable blank/soft anonymized area, but her pose is confident: stepping forward and extending one hand toward the viewer holding a round metallic digivice-like device glowing electric blue. Behind and around her are exactly 5 digital monster companions: 1 huge crystal dragon dominating the upper background, silver-white faceted scales, long horns, open roaring mouth, glowing blue eye; 2 small orange winged creature floating near her raised hand, big teal eyes, cute expression, bat-like wings; 3 blue-gray wolf reptile creature at lower left-middle, horned head, open snarling mouth, sharp teeth, collar with blue gem; 4 orange dinosaur companion at bottom left, big green eye, open happy roar, collar with blue gem; 5 white cat/rabbit-like creature at bottom right, blue eyes, purple-tipped ear tufts, small claws, collar with blue gem. Add dense poster typography and UI-print details: top-left tiny label “DIGIMON CHAMPION EDITION” followed by four small circular icons; large bold black sans-serif title on the left reading “The Champion”; below it Japanese subtitle text “選ばれし絆、未来へ。” and smaller line “心をつなげ、デジタルワールドを守れ。”; left-side badge reading “01” with “DIGITAL WORLD CHAMPION,” plus a vertical barcode and globe icon; right side circular crest emblem labeled “DIGITAL WORLD CHAMPION,” small “No.2025,” vertical dotted measurement marks, and vertical Japanese text “デジタルの絆が、奇跡をつくる”; bottom-left technical legend card labeled “LEGEND” and “伝説のチャンピオン”; bottom-right black signature card labeled “CHAMPION” and “The Chosen One,” with a barcode strip. Style should blend anime character design, semi-realistic fantasy rendering, premium collectible poster layout, high detail, volumetric light, sparks, dust, glassy crystal scales, and crisp magazine-cover typography. Use {argument name=\"character outfit\" default=\"cream floral mini dress and off-white cardigan\"}, {argument name=\"glowing device color\" default=\"electric blue\"}, {argument name=\"main dragon style\" default=\"silver-white crystalline horned dragon\"}, and {argument name=\"poster palette\" default=\"warm beige and gold sunlight\"}. Avoid extra monsters beyond the exact 5 listed, avoid cluttering the title, no watermark, no modern city background.",
+    "title": "Chosen Girl Champion Poster",
+    "description": "A cinematic anime fantasy poster featuring a chosen girl with five digital monster companions and premium champion-edition typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182095145_7q0dl2_HInAspzbsAAQlie.jpg",
+      "https://cms-assets.youmind.com/media/1779182095134_nkwvvh_HInAspCbkAAt9jA.jpg",
+      "https://cms-assets.youmind.com/media/1779182096130_7u2ae5_HInAspBaoAA3b8q.jpg",
+      "https://cms-assets.youmind.com/media/1779182096157_vv6r8n_HInAspNawAAJIja.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21350,
+    "content": "Create a {argument name=\"aspect ratio\" default=\"16:9\"} character concept sheet for a {argument name=\"character\" default=\"celestial voyager\"} in an {argument name=\"aesthetic\" default=\"epic cinematic sci-fi fantasy\"} aesthetic.\n\nShow 4 distinct views of the same character in a clean concept-art layout:\n\nsymmetrical full-body front view\nfull-body side profile\nfull-body back",
+    "title": "Sci-Fi Celestial Voyager Character Sheet",
+    "description": "A comprehensive prompt for creating high-quality character concept sheets for science fiction voyagers, featuring front, side, and back views for cinematic production design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182084569_n5yf3d_HIm0A67XEAA5fIj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21348,
+    "content": "Turn the uploaded image into a highly authentic late-90s PlayStation 1 in-engine gameplay screenshot. Preserve the original composition, camera angle, and subject, but reinterpret it using strict PS1 hardware limitations: very low-poly geometry, affine texture warping,",
+    "title": "Prompt:\nTurn the uploaded image into a highly auth",
+    "description": "",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182081064_2p2v0y_HImxXoKWQAEB1hr.jpg",
+      "https://cms-assets.youmind.com/media/1779182081071_a5q4bs_HImxa3EWkAEd98V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21302,
+    "content": "Create a cute viral cartoon {argument name=\"character\" default=\"penguin\"} character named “{argument name=\"name\" default=\"Gugu Gaga\"}” in a soft 3D chibi style. Design a vertical 3:4 poster layout with multiple different poses and expressions of the same penguin character. Use a {argument name=\"aesthetic\" default=\"pastel aesthetic\"} with soft lighting, smooth shading, rounded shapes, and a clean kawaii design. The penguin should have a black and white body, tiny yellow feet, rosy cheeks, glossy big eyes, and a playful baby-like personality.\n\nInclude 12 different poses/emotions in a neat grid layout:\n\n1. waving hello\n\n2. shy pose\n\n3. sitting happily\n\n4. winking thumbs up\n\n5. holding a pink heart\n\n6. dancing\n\n7. sleepy with night cap\n\n8. surprised face\n\n9. eating cookie\n\n10. grumpy angry face\n\n11. sliding on belly\n\n12. making heart with hands\n\nAdd a large cute title at the top saying “GUGU GAGA – DIFFERENT POSES”. Use pastel blue, pink, and white colors with tiny doodles like stars, hearts, sparkles, and music notes around the character. Make it look like a trendy viral sticker-pack poster for social media. High detail, ultra clean, soft shadows, toy-like 3D rendering, adorable expression consistency across all poses, professional composition, 3:4 aspect ratio.",
+    "title": "Chibi Penguin Expression Grid",
+    "description": "Generates a 12-pose character sheet for a cute penguin named Gugu Gaga in a soft 3D chibi style with pastel colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182045710_0hm9wb_HImuHtFaoAAshQY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21395,
+    "content": "Create a dark cinematic medieval fantasy scene titled {argument name=\"series title\" default=\"Journey with the Barbarian 8\"}: a front-facing, full-body, photorealistic procession in a rain-wet stone city gate. Show exactly two central human adventurers walking toward the viewer: on the left, a shorter blond curly-haired armored traveler in black scale armor, leather belts, boots, and a ragged black cloak, holding the reins of a white horse; on the right, a taller muscular barbarian with long dark curly hair, bare scarred torso partly visible under dark leather-and-metal armor, heavy belt, boots, bracers, and a ragged black cloak, holding the reins of a black horse. Their faces are intentionally hidden by plain matte dark-brown rectangular masks with no features. Show exactly two prominent horses flanking them: one white horse with pale mane on the left and one black horse on the right, both wearing dark medieval tack with metal rings and straps. Include exactly one partially visible armored escort at the far left edge, also with a small dark face-obscuring rectangle. The environment is a grand gothic stone archway with towering columns, wet cobblestones reflecting light, falling rain or water droplets, and a distant fantasy castle city with spires and battlements framed in the arch. Add exactly five visible dark navy hanging banners with gold heraldic symbols along the walls. Use dramatic low warm sunlight from the distant city, cool shadows in the gate, high detail, gritty realism, epic fantasy film still, 3:4 vertical composition, centered symmetry, shallow atmospheric haze, no readable text, no watermark.",
+    "title": "Barbarian Fantasy City Gate Procession",
+    "description": "A cinematic medieval fantasy prompt for generating two masked adventurers leading horses through a wet gothic city gate.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182108956_dy06m4_HImr9qva8AAvQQ9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21391,
+    "content": "Goal: Create a dramatic widescreen anime key visual for {argument name=\"character name\" default=\"Nakoruru\"}, a shrine-maiden warrior chosen by the spirits of nature, posed in a lush green forest with her animal companions.\n\nCanvas: 16:9 horizontal cinematic poster, highly detailed digital anime illustration, vibrant contrast, sunbeams filtering through dense trees, rich foliage in the foreground and background.\n\nLayout: Place the heroine slightly right of center in a dynamic crouching martial pose, with long flowing black hair and a large red bow behind her head. Her face should be intentionally soft-blurred and featureless, as if anonymized, while the rest of the art remains sharp. On the left side, reserve space for bold Japanese brush-calligraphy title text. Behind and above her, show a large raptor spreading its wings; to her right and slightly behind, show a snarling wolf emerging from the greenery.\n\nSubject details: The heroine wears a white-and-red Ainu-inspired shrine maiden outfit with wide sleeves, red trim, red wrist wraps, a red headband with a white emblem, a yellow sash at the waist, and a full white skirt with red accents. Her hair is glossy dark navy-black, flowing dramatically in the wind. She is reaching one hand forward and holding the other in a defensive gesture, conveying grace, speed, and nature magic.\n\nAnimal count: Include exactly 2 animal companions: 1 large brown-and-cream raptor with open wings, sharp talons, intense yellow eyes, and a white facial mask; 1 black, gray, and white wolf with pointed ears, bright eyes, bared teeth, and a crouched threatening stance.\n\nText content: Include exactly 3 Japanese brush-calligraphy text elements on the left: top small line {argument name=\"top caption\" default=\"カムイに選ばれし巫女\"}; center huge name {argument name=\"main title\" default=\"ナコルル\"}; lower medium line {argument name=\"bottom caption\" default=\"大自然のおしおきです。\"}. The typography should look hand-painted with black ink splatters, rough brush edges, and energetic strokes.\n\nVisual style: Premium anime poster art, semi-realistic lighting, crisp painterly rendering, saturated forest greens, strong sunlight from the upper left, dramatic rim light on hair and clothing, detailed feathers and fur, cinematic depth of field, high action-fantasy mood inspired by classic fighting-game character artwork.\n\nConstraints: Do not add extra animals or extra text. Keep the composition balanced with the calligraphy clearly readable on the left and the character plus animal companions dominating the right. No watermark, no logo, no frame.",
+    "title": "Nakoruru Forest Anime Poster",
+    "description": "A cinematic anime poster prompt featuring Nakoruru-style shrine maiden warrior artwork with a raptor, wolf, forest setting, and Japanese brush-calligraphy title text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182107048_lcwd7z_HIlPxGQbMAAVSe3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21383,
+    "content": "Create a vertical dark fantasy anime illustration of {argument name=\"character name\" default=\"Rei\"} as a powerful tiger beastman warrior, shown from upper thighs to head in a dramatic three-quarter pose. He is a tall, muscular adult male with a broad chest, defined abs, thick arms, tan skin with dark tiger stripes across the shoulders, arms, torso, and sides, large clawed hands, furry forearms, a long tiger tail, and two large pointed tiger ears emerging from messy windswept {argument name=\"hair color\" default=\"golden blond\"} hair. His face is intentionally hidden by a centered opaque square censor block over the facial area, leaving the hair, ears, neck, and body visible. Give him a strong heroic build with a slightly rounded natural jaw silhouette implied behind the censor, not a sharp V-shaped chin. Dress him in ornate black-and-gold fantasy armor and jewelry: open bare chest, black draped waist cloth, dark pants, gold filigree straps and chains crossing the torso and hips, metallic arm guards, claw-like gold accents, and turquoise gemstone ornaments at the chest, belt, and wrist. Surround him with intense blue-white lightning bolts and electric arcs wrapping around his body and crossing the foreground; use a stormy cosmic night background with deep navy clouds, sparks, glowing mist, and high-contrast rim lighting. Style: highly detailed Japanese fantasy character art, glossy skin highlights, intricate armor details, cinematic composition, dynamic wind-blown hair, dramatic chiaroscuro, luminous electric effects, sharp focus on the body and costume, vertical 2:3 poster framing, no text, no watermark.",
+    "title": "Tiger Beastman Lightning Warrior",
+    "description": "A cinematic dark fantasy anime prompt for creating a muscular tiger beastman warrior surrounded by blue lightning.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182102436_y5ymox_HImP6yRbMAAlHJ7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21065,
     "content": "An adult fantasy female character in an exquisite 3D CG illustration style with ultra-high detail and 9:16 vertical composition, sitting on a soft pink bed in a {argument name=\"character theme\" default=\"pink dream maid\"} themed {argument name=\"scene\" default=\"bedroom setting\"}.\n\nThe character is centered, facing the camera, kneeling in a natural and upright posture with her body leaning slightly forward. Her physique is mature and curvy with soft shoulders, a natural waistline, and rounded hips and thighs, presenting a gentle, sweet, and elegant feminine beauty. She has a delicate and cute face with fair skin, large bright eyes, a slender nose, and a soft natural smile, resembling a sweet Japanese doll. Her hairstyle is {argument name=\"hairstyle\" default=\"long black hair in twin tails\"} with soft bangs and a white frilled maid headpiece with pink bows and cat-ear decorations.\n\nThe outfit is a Japanese sweet maid dress in black and pink, featuring a tight-fitting short-sleeved pink top with a large black bow and white frilled collars and cuffs, paired with a black puffy skirt, multi-layered white apron, and pink bow details. The scene is a gentle pink bedroom with pink bedding, plush teddy bears, pink curtains, and light-colored furniture. Soft natural light enters through the window, creating a creamy soft-focus effect with glowing particles and a shallow depth of field.\n\nThe color palette is dominated by pink, white, and black. The overall mood is sweet, dreamy, and refined, with high-quality 3D CG portrait textures, clear skin details, delicate lighting, and 8K masterpiece quality.",
     "title": "3D CG Pink Maid Illustration",
@@ -18,6 +197,36 @@
       "https://cms-assets.youmind.com/media/1779096571774_c98t8g_HIlVfV9akAEQs1F.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 21382,
+    "content": "Create a polished anime-style sci‑fi factory scene inside a spacious high-tech electronics manufacturing lab operated by {argument name=\"company name\" default=\"Union Grotti\"}. The main subject is {argument name=\"character name\" default=\"Angelica\"}, a cute iridescent holographic girl standing in the foreground slightly right of center, carefully inspecting a manufacturing process with a clipboard in one hand and a stylus pen in the other. Her face is intentionally obscured by a vertical beige censor rectangle, but her short bob hair remains visible: shimmering pastel rainbow hair with glossy highlights, a small blue wing hair clip, and a little ahoge curl on top. She wears a translucent pearlescent white-and-blue short-sleeve dress with a large blue bow at the collar, buttons down the front, puff sleeves, blue trim, and a layered frilly skirt that refracts cyan, pink, and violet light.\n\nShow a large automated robotic assembly machine on the left producing {argument name=\"manufactured item\" default=\"generic controller SoC circuit boards\"}: two articulated robotic arms with precision soldering or welding tips point down at a complex circuit board, creating a small bright spark at the center chip. Include a heavy industrial machine head above the board with a glowing white ring light, black and gunmetal mechanical housings, cables, rails, and clean modular equipment. In the lower foreground, include trays and open containers holding multiple populated circuit boards and chip modules, plus one small angled touchscreen control panel displaying blue technical UI graphics.\n\nSet the scene in a modern glass-and-steel corporate factory interior with high ceilings, mezzanine walkways, large windows, polished reflective floors, workbenches, shelves, and cool daylight. In the background on the right, include a casual staff break area with exactly four visible seated or standing people: one brown-haired cat-ear anime girl sitting on a stool drinking from a cup, one blonde person seated at a table, one dark-haired person seated beside them, and one additional staff member farther back near the counter. Add a minimalist geometric company logo on the far wall. Populate the image with exactly nine floating translucent soap bubbles or holographic spheres of different sizes, reflecting the factory lights and machinery; distribute them around the robot, the main character, and the lower foreground.\n\nVisual style: high-detail anime illustration, glossy futuristic industrial design, cinematic lighting, soft bloom, pastel iridescence, cool blue-gray factory palette contrasted with rainbow highlights, crisp mechanical detail, depth of field, 4:3 composition, no text captions, no watermark. The mood should feel like a calm production inspection of an export-spec {argument name=\"machine product name\" default=\"Blueprint composite construction device\"} in operation.",
+    "title": "Anime Sci-Fi SoC Factory Inspection",
+    "description": "A detailed anime factory illustration showing a holographic inspector monitoring robotic SoC circuit-board manufacturing in a futuristic lab.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182101594_i5tq97_HIkiigVbUAAV8Gb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21400,
+    "content": "Create an ultra-wide 32:9 photorealistic racing game screenshot from the driver’s cockpit perspective during an Indy-style oval race at {argument name=\"race track\" default=\"the Indianapolis 500 speedway\"}. The camera is low inside a black open-wheel race car, showing the halo/cockpit rim, steering wheel with tiny digital telemetry, front tires partly visible, and exactly 2 rectangular side mirrors, one on each side reflecting the track behind. Ahead are exactly 2 rival open-wheel cars: a black-and-blue car slightly left and a yellow/orange car slightly right, both seen from the rear with huge rear tires and rear wings, racing side by side into a gentle left-hand banked turn. Use strong speed sensation with motion blur on the asphalt, catch fencing, and packed grandstands, while keeping the cars and cockpit mostly sharp. The track is a large oval with white concrete walls, tall safety fences, full spectator stands on both sides, and a scoring tower/pylon in the distance near the center-left. Bright midday sunlight, blue sky with scattered white clouds, cinematic HDR realism, glossy carbon fiber, detailed tire rubber, immersive AAA racing simulator style. Add small white sponsor-like lettering on the cockpit sides reading {argument name=\"cockpit sponsor text\" default=\"NEWGARDEN\"}, but avoid prominent readable logos elsewhere. No UI overlay, no watermark, no extra cars, no text captions.",
+    "title": "Ultrawide Indy Cockpit Racing View",
+    "description": "A photorealistic ultra-wide racing simulator scene showing an Indy-style cockpit view chasing two rival cars on a packed oval speedway.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182111235_7f415z_HIkaBYGacAAjvpP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21291,
+    "content": "Create an ultra-detailed cinematic {argument name=\"theme\" default=\"Pokémon poster\"} featuring a {argument name=\"trainer description\" default=\"young male Pokémon Champion\"} standing confidently in side profile while holding a Poké Ball. young man whose facial features, skin tone, and hairstyle closely match the uploaded photo. Maintain strong likeness to the reference image: same facial structure, smile, eye shape, hairstyle, and overall\n\nStyle combines: semi-realistic anime painting, cinematic game poster, modern Pokémon concept art, painterly brush strokes, soft polygonal shading, highly detailed character illustration, premium trading-card aesthetic, Japanese game magazine cover design.\n\nCOMPOSITION: Vertical poster composition, centered champion pose, clean cream-colored background with minimalist editorial layout.\n\nThe trainer wears a futuristic {argument name=\"outfit color\" default=\"Dark Green\"} tactical jacket with subtle white accents, utility straps, modern streetwear-inspired Pokémon trainer fashion, metallic accessories, and champion insignia patches.\n\nSURROUNDING POKÉMON:\n\nYveltal flying behind the trainer with wide wingspan and glowing teal eyes\n\nMeowtwo standing powerfully beside him\n\nSquirtle near the lower side with intense glowing eyes\n\nPikachu sitting adorably on his shoulder\n\nAbra near the foreground with comedic expression\n\nTogekiss positioned elegantly near the bottom corner\n\nLIGHTING: Soft cinematic studio lighting, warm highlights on skin, subtle rim light, volumetric atmosphere, realistic shadows, polished illustration rendering, dramatic contrast, premium movie-poster mood.\n\nDETAILS: high detail skin texture, painterly strokes, dynamic depth, layered composition, realistic fabric folds, glossy eyes, subtle reflections, clean typography placement, esports championship vibe, modern anime realism, masterpiece quality, ultra-sharp focus. Face and body exactly same as uploaded image.\n\nNEGATIVE PROMPT low quality, blurry face, extra limbs, bad anatomy, deformed hands, duplicate Pokémon, messy composition, overexposed lighting, flat colors, distorted eyes, poorly drawn face, text artifacts, watermark, cropped body, unrealistic proportions. Use uploded person as reference",
+    "title": "Cinematic Pokémon trainer poster",
+    "description": "A highly detailed prompt for creating a cinematic Pokémon poster with specific legendaries and a personalized trainer likeness.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779182041262_toiaor_HIkQgX6bAAA1IPy.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 21157,
