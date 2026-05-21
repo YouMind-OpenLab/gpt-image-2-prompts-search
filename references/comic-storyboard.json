@@ -10,6 +10,130 @@
     "needReferenceImages": true
   },
   {
+    "id": 21711,
+    "content": "Create a vertical cyberpunk watercolor illustration of one young woman seen from behind on a high rooftop balcony, overlooking a vast rainy futuristic city at night. The mood is soft and welcoming despite the dystopian setting, with luminous neon magenta, cyan, violet, and deep indigo washes, visible watercolor paper texture, ink-like edges, rain streaks, splatters, and glowing reflections. The woman has extremely long windblown {argument name=\"hair color\" default=\"hot pink hair with cyan-blue underside streaks\"}, a bare shoulder, dangling earrings, and a glossy black off-shoulder tech jacket covered in neon circuitry; her transparent iridescent skirt and straps glow with blue-pink light. Add exactly one visible flying drone or hovercraft in the sky. The skyline is dense with countless skyscrapers, holographic screens, vertical neon signs, and wet rooftops; include exactly three prominent readable Japanese text elements: 「未来都市」 on the largest magenta tower billboard, 「ホテル」 on a smaller right-side sign, and 「未来」 on the woman’s sleeve. Include exactly two opaque privacy/censor blocks as part of the composition: one dark plum square covering the woman’s face area, and one pink vertical rectangle covering the center of the giant billboard on the right. Use {argument name=\"art style\" default=\"delicate watercolor cyberpunk anime concept art\"}, dramatic back lighting, high detail, romantic rain, no photorealism, no clean vector look, no extra characters, and no watermark.",
+    "title": "Watercolor Cyberpunk Rooftop Girl",
+    "description": "A neon watercolor cyberpunk scene of a lone woman overlooking a rainy futuristic city, useful for atmospheric sci-fi illustration prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354375713_0dkb5b_HIzRUQSboAAgbAv.jpg",
+      "https://cms-assets.youmind.com/media/1779354375605_l9g1ej_HIzRUqQa0AANpz1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21785,
+    "content": "Using REFERENCE_0 as the source storyboard, extract only the first row of the storyboard and regenerate it as a standalone horizontal storyboard strip. Keep exactly 4 panels, preserving their original artwork, panel borders, numbering, shot labels, and action/dialogue text as closely as possible: 1) “EXT. SPACE – ESTABLISHING SHOT” with “A fleet approaches a hostile sector.” 2) “INT. COCKPIT – PROFILE SHOT” with “PILOT: This is our home. We protect it.” 3) “EXT. SPACE – ENEMY APPROACHES” with “Enemy fighters warp into view.” 4) “INT. COCKPIT – MEDIUM SHOT” with “PILOT: For honor. For tomorrow.” Remove the overall storyboard header, project/director/date information, and all panels after number 4. Place the four extracted panels in one clean row across the lower-middle of a wide white canvas, with generous blank white space above and around the strip. Do not add new imagery, new titles, watermarks, or extra panels. Optional customization: extract panels {argument name=\"panel range\" default=\"1–4\"} from the storyboard for a {argument name=\"scene duration\" default=\"15-second scene\"}.",
+    "title": "Extract First Storyboard Row",
+    "description": "Creates a clean standalone horizontal strip from the first four panels of a larger storyboard, useful for separating one scene from a multi-scene board.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354417389_i52j8k_HIycFtIW8AAWpdP.jpg",
+      "https://cms-assets.youmind.com/media/1779354417362_98vmmw_HIycHCIWkAAjrml.jpg",
+      "https://cms-assets.youmind.com/media/1779354417448_2dbgtr_HIycH-TWgAAjTqR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21705,
+    "content": "Create a Pixar 3D style character design sheet. Clean white background. Two characters presented side by side with a clean dividing line. Bold brushstroke-style title at the top: {argument name=\"title\" default=\"STEVE VS THE CHARGER\"}. Subtitle beneath: {argument name=\"subtitle\" default=\"2%. No Time. 3 Tries.\"}",
+    "title": "Pixar Character Design Sheet",
+    "description": "A prompt for a Pixar-style 3D character design sheet featuring a side-by-side comparison of characters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354372807_nupmy3_HIx3XkFWkAAS_ma.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21737,
+    "content": "Create a dramatic vertical anime fantasy-military illustration of {argument name=\"character name\" default=\"Marshal Berg\"}, an imposing adult male commander standing in a low-angle hero shot. He has {argument name=\"hair color\" default=\"long tousled blond hair\"} blown by the wind, a stern aristocratic presence, and a face visible without obstruction. Dress him in a black imperial marshal uniform with a high structured collar, fitted black jacket, gold piping, ornate epaulettes with heavy fringe, medals, jeweled brooches, layered gold chains, tassels, leather gloves, a wide black belt with a decorative gold buckle, and a deep crimson cape lined in shadow. His right hand holds an ornate black pistol angled downward in the foreground; his other hand rests near his side with confident posture. The setting is a grand dark steampunk-fantasy empire at dusk, with stormy glowing clouds, ember sparks, gothic towers, iron railings, red banners, and a huge military flag bearing a gold winged crest and crown on the left. In the sky show exactly 5 visible flying war machines: 2 large zeppelin airships and 3 smaller aircraft silhouettes. Use cinematic backlighting from the cloudy sunset, strong rim light on the hair and shoulders, high contrast shadows, intricate gold details, dynamic wind, epic scale, ultra-detailed anime painting style, sharp composition, no text, no watermark, no facial censor block, no blur.",
+    "title": "Imperial Marshal Anime Commander",
+    "description": "Generates a cinematic dark fantasy anime portrait of an ornate male military marshal in a steampunk imperial battlefield setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354390438_g4sdpr_HIxmUFPbwAEICdK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21657,
+    "content": "Create a cinematic {argument name=\"purpose\" default=\"character design board for a high-budget drama film\"}.\n\nA beautiful female lead with soft expressive eyes, flawless but natural skin texture, {argument name=\"outfit\" default=\"elegant silk gown\"}, subtle jewelry.\n\nInclude {argument name=\"elements\" default=\"full-body turnaround, expressive head studies, cinematic portrait, fabric flow breakdown, makeup detail studies, annotation notes, height scale\"}.\n\nMood: soft studio lighting, golden Hollywood glamour aesthetic.",
+    "title": "Cinematic Character Design Board",
+    "description": "A prompt for creating a professional character design board for film, including full-body turnarounds and facial studies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354342077_k7wwis_HIxl2_NboAAWt2C.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21690,
+    "content": "[Layout]\nConfigure as a single, organized character sheet. White or very light gray background. Clean layout with easy-to-read margins. Each panel should have a dark blue or calm blue heading label. Minimal decoration, prioritizing clarity of information.\n\n[Required Panel Configuration]\n1. Full Body (Front)\n2. Full Body (Side)\n3. Full Body (Back)\n4. Face Close-up (Front)\n5. Face Close-up (45-degree angle)\n6. Face Close-up (Profile)\n7. Upper Body Close-up (Front)\n\n[Content for Each Panel]\n- Full Body (Front): A natural standing pose. Make face, hair, entire suit, skirt length, black high socks, and shoes visible.\n- Full Body (Side): Profile standing pose. Make the side profile of the face, chest, waist, hips, leg lines, hair fall, and twintail position visible.\n- Full Body (Back): Rear view. Show the parting, how the twintails look from the back, jacket back, skirt back, and leg lines.\n- Face Close-up (Front): Reference shot of the face. Clearly show eyes, nose, mouth, contour, bangs, and ribbon position.\n- Face Close-up (45-degree angle): Show the three-dimensionality of the face from an angle, appearance of cheeks, fall of bangs, and one twintail.\n- Face Close-up (Profile): Clearly show the forehead, bridge of the nose, mouth, chin, ear position, neck connection, and side profile silhouette.\n- Upper Body Close-up (Front): In addition to the face, show the jacket collar, blouse collar, shoulder shape, and silhouette from the chest to the upper waist.\n\n[Style/Texture]\nHigh-quality portrait expression leaning towards photorealism. Avoid excessive AI-style skin processing; keep a natural skin feel for a {argument name=\"subject\" default=\"young person\"}. Skin should be clean and smooth but not wax-like. {argument name=\"hair\" default=\"Black hair\"} should have a natural shine. The {argument name=\"outfit\" default=\"suit\"} should have a clean, high-quality fabric feel. Overall bright, clear, and highly informative finish.\n\n[Excluded Items]\nNo tiny costume detail windows. No color palette column. No long profile section. No excessive explanatory text. No scene, background, or prop staging.\n\n[Prohibitions]\nChanging the person, making them look younger, mass-produced anime face, oversized eyes, unstable nose or chin shape, broken side profiles, changing twintail positions, changing ribbon shapes, altered hairstyles, suit color changes, unnecessary accessories, excessive skin beautification, excessive shadows, or cluttered layouts.",
+    "title": "Professional Character Sheet Template",
+    "description": "A comprehensive structured prompt for generating professional character reference sheets with multiple angles and close-ups to ensure character consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354362259_i2qb7l_HIxdXbNbAAAPn7n.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21672,
+    "content": "Transform the photo into a {argument name=\"illustration style\" default=\"delicate minimalist hand-drawn children’s illustration\"} with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a {argument name=\"character style\" default=\"cute doll-like character style\"} with rosy cheeks, tiny facial features, and simplified anatomy. Add {argument name=\"texture\" default=\"subtle paper texture\"}, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles.\n\nStylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail.",
+    "title": "Minimalist Scandinavian Children's Illustration",
+    "description": "Transforms photos into delicate, hand-drawn children's illustrations with a whimsical fairy-tale aesthetic and Scandinavian nursery feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354348785_19twd1_HIxBP-Da8AAzF0B.jpg",
+      "https://cms-assets.youmind.com/media/1779354348778_p5znu4_HIxBP-GaoAAjEpD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21681,
+    "content": "Convert the photo into a {argument name=\"illustration style\" default=\"refined minimalist hand-drawn children's illustration\"} with a soft fairytale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal detail, and a cute doll-like character style with rosy cheeks and tiny facial features. Add subtle paper textures, soft pencil and pastel shading, watercolor softness, and a {argument name=\"background\" default=\"clean white background with small stars or sparkles\"}. Clothing follows a playful storybook style with simplified shapes and gentle decorative details. The overall vibe should feel {argument name=\"atmosphere\" default=\"airy, cozy, innocent, and charming\"}, like a modern Scandinavian nursery postcard or children's book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and super details.",
+    "title": "Scandinavian Minimalist Child Illustration",
+    "description": "Converts photos into delicate, hand-drawn children's illustrations with a storybook aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354354606_5fbzd6_HIwuHJAakAE68LC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21691,
+    "content": "Generate 4 images depicting {argument name=\"scene theme\" default=\"a character's daily routine\"} based on the reference image. The aspect ratios should be specified as follows: 1st: 16:9, 2nd: 1:1, 3rd: 9:16, 4th: 4:3.",
+    "title": "Multi-Aspect Character Life Sequence",
+    "description": "A prompt that generates a series of four images showing a character's day in different aspect ratios based on a reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354363348_1eh6lq_HIwsTg1bEAAGAOC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21650,
+    "content": "A highly specific prompt for generating a hand-drawn comic book illustration of a musician, focusing on maintaining facial identity from a reference photo.",
+    "title": "Comic Book Rockstar Portrait",
+    "description": "A highly specific prompt for generating a hand-drawn comic book illustration of a musician, focusing on maintaining facial identity from a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354338632_yf6rc1_HIwjR36acAAWpi0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21739,
+    "content": "Create a highly detailed vertical anime fantasy action illustration of exactly two masked female dancers/martial artists performing a dramatic synchronized pose in a moonlit palace courtyard. The first character, {argument name=\"upper dancer hair color\" default=\"long flowing pastel pink hair\"}, is elevated diagonally across the upper half of the image with one leg extended high toward the top-left corner, wearing a translucent white harem-dancer outfit with gauzy veils, gold chains, jeweled anklets, bare feet, pale fabric layers, and a delicate face veil; her expression is calm and confident with bright green eyes. The second character, {argument name=\"lower dancer hair color\" default=\"black-and-white hair with red streaks in twin buns\"}, crouches low in the foreground in a dynamic hand-to-ground fighting stance, wearing a dark red and black translucent harem outfit with gold jewelry, arm bands, ankle ornaments, bare feet, and a matching face veil; she has sharp green eyes and an intense gaze. Set them in an ornate domed palace at night under a bright full moon in the upper-right sky, with warm glowing windows, arched architecture, and a glossy reflective wet stone floor. Surround the characters with swirling ribbons of light, transparent silk trails, sparkling particles, rose-petal fragments, and a circular magical calligraphy spell effect on the right side containing black brush-like glyphs. Use a cinematic low-angle composition with strong diagonal motion, flowing hair and fabric, high-detail jewelry, dramatic rim lighting, soft moonlight, warm palace highlights, reflections on the ground, shallow depth of field, and an ultra-polished Japanese anime illustration style. The image should feel elegant, sensual, magical, and action-packed, with no modern objects, no watermark, and no readable English text.",
+    "title": "Moonlit Palace Dancer Duel",
+    "description": "A cinematic anime fantasy illustration of two veiled dancer-warriors posing amid moonlight, magic calligraphy, and ornate palace architecture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354391562_zr3a2u_HIv-q2JbQAE1QHK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21766,
+    "content": "Using REFERENCE_0 as the character base, transform the standing full-body portrait into a dramatic anime action scene. Keep the same school-uniform design, blue twin-tail hairstyle, socks, shoes, and overall character identity, but reconstruct the face clearly in polished 2D anime style with sharp eyes and a confident expression.\n\nChange the pose and composition: make the character sprint or lunge toward the viewer, one hand reaching forward close to the camera and the other arm extended back, with hair and skirt blown by motion. Use an intense low/wide-angle perspective with strong foreshortening and dynamic motion.\n\nAdd a new setting: a school rooftop or fenced walkway at sunset, with warm orange sky, dramatic clouds, reflective ground, and chain-link fencing. Include exactly 1 distant human silhouette near the glowing sunset in the background. Add blurred fence bars in the extreme foreground to create depth and a cinematic chase/battle-scene feeling.\n\nStyle: high-quality Japanese anime key visual, cinematic lighting, warm sunset rim light, dramatic shadows, detailed hair strands, expressive face, energetic composition, no text, no watermark.",
+    "title": "Dynamic Anime Rooftop Action Scene",
+    "description": "Transforms a school-uniform character reference into a cinematic sunset rooftop anime action scene with dramatic perspective and motion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354407844_0mmtli_HIuV2V6aMAIr8ID.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21479,
     "content": "A premium director’s pitch presentation board for a high-budget cinematic production, showcasing a {argument name=\"character type\" default=\"single, grounded human character\"} with intense emotional readability and natural imperfections. The layout is art-directed and organically asymmetrical, avoiding rigid grids. Features a fluid, narrative full-body turnaround (capturing the character mid-stride across front, 3/4, profile, and rear views), detailed candid head studies expressing internal conflict, and a sweeping cinematic close-up portrait with {argument name=\"lighting\" default=\"dramatic Rembrandt lighting\"}. Includes integrated texture macro-crops (weathered leather, realistic skin pores, distressed linen), minimalist production annotations, and an organic height scale. Shot on {argument name=\"film format\" default=\"35mm anamorphic\"}, shallow depth of field, muted color grading, ultra-realistic textures, strict character and wardrobe consistency throughout.",
     "title": "Director's Cinematic Pitch Board",

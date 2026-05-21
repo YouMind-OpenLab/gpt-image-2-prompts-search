@@ -1,11 +1,196 @@
 [
   {
-    "id": 21582,
-    "content": "Create a photorealistic vertical portrait of a young woman standing in an underground train station corridor in the morning. She has {argument name=\"hair color\" default=\"long rose-gold pink hair with soft waves and darker roots\"} and wears {argument name=\"outfit\" default=\"a fitted white ribbed turtleneck sweater mini dress with long sleeves\"}. Her face is intentionally obscured by a plain centered rounded square blur/mask in a muted taupe color, covering all facial features while leaving hair visible. She stands slightly right of center, full body from head to mid-thigh visible, left arm relaxed at her side, right arm extended with fingertips touching the tiled wall. The corridor is long and cool-toned, with glossy wet-looking gray floor tiles, white rectangular wall tiles on the right, fluorescent ceiling lights receding into the distance, a blurred station sign overhead, and a few distant commuters as dark silhouettes in the background. Use shallow depth of field with the woman sharply focused and the background softly blurred, cinematic realistic lighting, cool blue-green subway ambience, subtle reflections on the floor, natural body proportions, high detail fabric texture, and a candid fashion-street-photo feeling. Add a small four-point sparkle/star watermark-like symbol in the bottom-right corner. No readable text, no extra people in the foreground, no exaggerated pose.",
-    "title": "Morning Subway Fashion Portrait",
-    "description": "A photorealistic fashion portrait of a woman in a white sweater dress standing in a cool-toned underground station corridor.",
+    "id": 21688,
+    "content": "Subject: {argument name=\"subject\" default=\"Early summer portrait bathed in sunlight filtering through trees\"}\nPerson/Expression: {argument name=\"person\" default=\"Japanese woman in her early 20s, natural long black hair, light sheer makeup, transparent skin, soft atmosphere, modest smile, bangs and hair swaying naturally in the wind, calm eye contact\"}\nClothing/Pose: Ivory short-sleeved rib knit, light floral long skirt, canvas tote bag, light Japanese-style early summer outfit, natural posture sitting on a stone bench and looking back slightly, supporting the body with one arm behind\nBackground/Light: Classic red brick building, deep green trees and large branches covering the top of the screen, vivid green, strong early summer sunlight through leaves, soft backlighting, transparent atmosphere\nComposition/Camera: Vertical composition, slightly low angle, person placed slightly below the center, cinematic composition with heavily blurred background, 85mm portrait lens, f1.4, shallow depth of field, full-frame mirrorless photography, natural bokeh and aerial perspective\nTexture/Style: High definition, realistic skin texture, delicate hair details, deep and vivid green colors, film-like gradation, Japanese cinematic photography, transparent natural light portrait, Sony α7R V photography style\nNegative: Low quality, unnatural face, unnatural hands, extra fingers, excessive skin retouching, overly flashy makeup, uniform, text, logo, watermark, artificial lighting",
+    "title": "Cinematic Early Summer Japanese Portrait",
+    "description": "A highly detailed prompt for a cinematic early summer portrait of a Japanese woman with realistic textures and lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1779268088223_k1xhn9_HItxY4FbUAEgWCu.jpg"
+      "https://cms-assets.youmind.com/media/1779354361495_3aph3e_HIzQ49xaMAAitCP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21698,
+    "content": "Subject: A realistic portrait of a Japanese woman {argument name=\"reflection object\" default=\"reflected in a round curve mirror\"} in a quiet Japanese alley.\n\nPerson/Expression: A Japanese woman in her early 20s, {argument name=\"hair style\" default=\"long black hair\"}, thin bangs, natural makeup, transparent skin, calm expression, quietly looking at the camera.\n\nClothing/Pose: {argument name=\"outfit\" default=\"A white dress with light blue flowers\"}, shoulder bag, natural pose as if taking a selfie with one arm outstretched.\n\nBackground/Light: A Japanese residential area with old wooden fences and stone walls, green sunlight filtering through trees, early summer afternoon, soft natural light, background blurred significantly.\n\nComposition/Camera: Composition using reflection from a round curve mirror, wide-angle, slightly looking down angle, centered, shallow depth of field, round bokeh and vignette in the periphery.\n\nTexture/Style: Pale colors, low contrast, soft film tone, natural skin texture, transparent Japanese-style portrait, realistic AI photo.\n\nNegative: Low quality, unnatural hands, distorted face, extra fingers, excessive processing, text, logo, watermark.",
+    "title": "Woman in a Curve Mirror Reflection",
+    "description": "A nostalgic and realistic portrait prompt featuring a Japanese woman reflected in a round street mirror in a quiet alley, styled with soft film tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354366763_b8jpx7_HIzNMhdaAAAJCf4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21772,
+    "content": "Create a highly realistic vertical 3:4 smartphone selfie photo of an adult female cosplayer at a crowded game/anime convention booth, shot from slightly above chest height with both arms extended toward the camera. She wears an ornate ethereal fantasy costume in {argument name=\"costume colors\" default=\"pale icy blue, white, silver, and gold\"}: a low-cut sculptural bodice with metallic gold trim, translucent flowing gauze sleeves, layered sheer fabric, and a central blue flower ornament. Include exactly 6 prominent costume/accessory elements: 1 floral-and-gold hairpiece with pale blue ribbons on the left side of her dark hair, 1 pair of dangling pearl-like earrings, 1 delicate necklace with a long crystal pendant, 1 ornate structured bodice, 2 translucent sleeve drapes, and 1 central flower-and-gold chest ornament. Her face is deliberately anonymized by a large opaque square censor block in {argument name=\"censor block color\" default=\"warm gray-brown\"}, covering the entire face from forehead to chin while leaving the hair and accessories visible. The background is a busy indoor expo hall with harsh overhead lighting, ceiling trusses, many attendees in casual clothing, and exactly 3 visible large fantasy character displays/posters behind her: one tall illustrated banner on the upper left, one bright central fantasy banner, and one smaller dark blue screen/poster on the upper right. Use natural smartphone flash/ambient lighting, realistic skin texture, shallow depth of field, candid convention atmosphere, no text overlay, no watermark.",
+    "title": "Anonymized Fantasy Cosplay Selfie",
+    "description": "A realistic convention selfie of an adult cosplayer in an ornate pale-blue fantasy costume with her face censored for privacy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354411558_k021ds_HIyhIsgagAApmxr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21771,
+    "content": "Create a realistic candid convention photo of an adult woman cosplayer posing close to the camera in a crowded indoor anime/game expo. She wears an ornate white-and-gold fantasy goddess costume with translucent off-shoulder draped sleeves, gold filigree trim, a jeweled necklace with a glowing opal-like pendant, dangling earrings, and an elaborate gold crown hairpiece with pearls and crystal ornaments. Her long dark brown hair is styled half-up with glossy waves. The composition is a vertical smartphone shot from slightly below chest height, tightly cropped from upper torso to head, with her arms extended outward as if posing; place a solid rectangular censor block over the face in a muted brown skin-tone color. Emphasize glossy fabric, metallic gold details, realistic skin lighting, and shallow depth of field. Background: busy exhibition hall with overhead black ceiling trusses, bright booth lights, blurred attendees, a large fantasy character poster on the left with Chinese calligraphy, and a glowing booth sign on the right. Use photorealistic detail, natural convention lighting, wide-angle phone perspective, and no watermark. Customize the setting as {argument name=\"event setting\" default=\"crowded indoor anime/game expo\"}, the costume theme as {argument name=\"costume theme\" default=\"white-and-gold fantasy goddess\"}, the jewelry centerpiece as {argument name=\"jewelry centerpiece\" default=\"opal-like pendant\"}, the censor block color as {argument name=\"censor block color\" default=\"muted brown skin-tone\"}, and the background poster text style as {argument name=\"background poster text style\" default=\"Chinese calligraphy\"}.",
+    "title": "Censored Fantasy Cosplayer at Expo",
+    "description": "A photorealistic vertical convention snapshot of an ornate white-and-gold fantasy cosplayer with face censored, suitable for recreating cosplay expo imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354411540_tfdur7_HIyhHZcakAAEeHM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21656,
+    "content": "A high-quality sticker pack featuring a {argument name=\"subject\" default=\"young beautiful English woman\"} with {argument name=\"hair\" default=\"long soft brown hair\"}, flawless glowing skin, and attractive facial features, shown in 12 different facial expressions and emotions. Arranged in a clean 4x3 grid on a light neutral beige background. Each portrait is cropped around the shoulders and surrounded by a thick white die-cut sticker border. Expressions include: friendly smile, laughing joyfully, cool pose with black sunglasses, angry frowning face, shocked expression with wide eyes and open mouth, thoughtful thinking pose with hand on chin, playful wink, heart hands gesture, suspicious sideways glance, puffed cheeks, excited surprise with hands on face, and casual salute. Consistent character appearance across all stickers. Realistic digital photography style, ultra-detailed skin and hair texture, soft studio lighting, vibrant natural colors, trendy social media emoji/sticker aesthetic, centered composition, high resolution, clean minimal layout, premium sticker sheet design, photorealistic, cute and expressive.",
+    "title": "Expressive Woman Emoji Sticker Pack",
+    "description": "Generates a high-quality 4x3 grid sticker pack featuring 12 different facial expressions of the same character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354342034_w7aoga_HIxyuOHaYAA3WzI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21668,
+    "content": "Use my uploaded portrait only for facial identity and hairstyle. Create a {argument name=\"photo style\" default=\"realistic handheld selfie-style street photo\"}, close-up wide-angle perspective, the person reaching one arm toward the camera, natural casual outfit chosen to suit the person. {argument name=\"background\" default=\"Summer tree-lined street background\"}, strong sunlight filtering through leaves, soft backlight, overexposed highlights, slight motion blur, candid phone-photo feeling, natural skin texture, realistic face, cinematic but unpolished, 3:4 vertical composition",
+    "title": "Sun-Drenched Candid Selfie Portrait",
+    "description": "Creates a realistic, handheld selfie-style street photo with natural lighting and a film-like aesthetic, using an uploaded reference for identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354347329_bhthpf_HIwzXNJa0AEDXc8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21695,
+    "content": "Subject: A high-quality realistic portrait of a {argument name=\"age\" default=\"18-21\"} year old Japanese woman, as if taken with a Polaroid camera.\n\nPerson/Expression: A young Japanese woman who is not a real person, {argument name=\"hair style\" default=\"shoulder-length brown hair\"}, natural bangs, double eyelids, transparent skin, natural makeup, a slightly fleeting and calm expression, soft eye contact with the camera.\n\nClothing/Pose: {argument name=\"outfit\" default=\"A light blue-gray camisole with a thin white shirt loosely draped over it\"}, upper body slightly turned at an angle, natural pose with one arm held in front of the body.\n\nBackground/Light: Simple pale beige indoor background, soft flash light characteristic of Polaroid, modest shadows, pale and slightly faded film tone.\n\nComposition/Camera: Vertical 34:65, bust-up portrait, close-up composition centered on the face, white margin frame like an instant camera, shallow depth of field, natural snapshot feel.\n\nTexture/Style: High definition, realistic skin texture, delicate hair details, pale colors, light film grain, Polaroid photo style, raw style, natural and not overly decorated AI photo.\n\nNegative: Low quality, unnatural hands, distorted face, extra fingers, excessive skin processing, too strong exposure, text, logo, watermark.",
+    "title": "Japanese Woman Polaroid Portrait",
+    "description": "A highly detailed prompt for generating a realistic polaroid-style portrait of a young Japanese woman with natural features and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354365152_kocek5_HIxT0nUbIAA7DCV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21779,
+    "content": "Using the provided reference image, restore and upscale it into an ultra-premium photorealistic 8K image. Keep 100% of the original identity, pose, framing, perspective, and composition unchanged: the dog remains centered close to the camera, holding the same flowers in its mouth, with the same yard and house setting behind it. Remove the heavy blur and pixelation, recover natural microdetails such as crisp eyes, realistic nose texture, individual whiskers, soft fur strands, flower petals, grass, house edges, and tree detail. Make the result look like a high-quality cinematic studio-grade photo with natural daylight, high contrast, rich but realistic colors, clean focus, and no artificial-looking reconstruction. Do not change the subject, do not add new objects, do not alter the expression, and do not stylize it as illustration or CGI. Enhancement strength: {argument name=\"enhancement strength\" default=\"ultra-premium 8K cinematic restoration\"}. Detail priority: {argument name=\"detail priority\" default=\"sharp eyes, realistic pores, whiskers, fur, and flower texture\"}. Color grade: {argument name=\"color grade\" default=\"natural sunny high-contrast photorealism\"}.",
+    "title": "Photorealistic 8K Photo Restoration",
+    "description": "Transforms a blurry reference photo into a sharp, cinematic, photorealistic 8K restoration while preserving the original composition and subject identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354415089_qm08di_HIw4uSQXMAAoBgz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21689,
+    "content": "Realistic and cinematic portrait. A fictional {argument name=\"ethnicity\" default=\"Japanese woman\"} approximately {argument name=\"age\" default=\"20 years old\"} is sitting on the marble stairs of a modern hotel at night. She is wearing a {argument name=\"outfit\" default=\"silver sequin mini dress\"}, silver strappy high-heeled sandals, and silver heart-shaped earrings. Her legs are crossed naturally, and she has a calm expression, looking slightly to the right. Roughly styled hair, natural skin texture, and realistic proportions for fingers and body.\n\n16:9 horizontal composition. The subject is placed on the right side of the screen, leaving room on the left with a dark glass background and soft bokeh. Warm indoor light and soft side lighting elegantly showcase the silver reflections of the dress and sandals. Carefully depict the texture of the marble, glass railings, and the quiet luxury of the night.\n\nDo not include text, logos, watermarks, brand names, or meaningless symbols in the image. Avoid excessive skin smoothing, an AI-synthetic look, deformed fingers, extra limbs, low resolution, or over-sharpening.",
+    "title": "Cinematic Hotel Portrait Prompt",
+    "description": "A detailed prompt for generating a realistic and cinematic portrait of a woman in a silver sequin dress at a modern hotel staircase.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354361739_0jmu8w_HIwiPkIasAAGi3T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21667,
+    "content": "Generate an illustration of \"me\" as you imagine it. Features include a {argument name=\"style\" default=\"Japanese illustration style\"}, distinct character features, natural emotional expressions, a {argument name=\"composition\" default=\"half-body composition\"}, dynamic poses, exquisite clothing details, a {argument name=\"art texture\" default=\"hand-drawn graffiti style, ink splatter strokes\"}, free-flowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.",
+    "title": "Japanese Ink Splatter Graffiti Illustration",
+    "description": "Generates a stylized Japanese manga-style character illustration with dynamic ink splatters and a hand-drawn graffiti feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354347362_y8ubm1_HIwhtgia8AALztx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21776,
+    "content": "Create a vertical golden-hour portrait photograph of {argument name=\"subject\" default=\"a young woman\"} outdoors in a lush green forest or garden, shown from the shoulders up in left-facing side profile with her face deliberately covered by a large opaque square privacy block in warm medium brown. She has {argument name=\"hair color\" default=\"light brown\"} hair gathered into a loose messy bun at the back of her head, with many fine flyaway strands glowing in strong backlight. She wears a simple {argument name=\"top color\" default=\"white\"} spaghetti-strap tank top, exposing her shoulder and upper back. The scene is lit by low sun behind her head, creating bright rim light, warm amber highlights, lens flare, and circular bokeh throughout a softly blurred green background. Use a realistic DSLR look with shallow depth of field, natural skin texture on the visible neck and shoulder, warm cinematic color grading, and a candid intimate mood. Composition: portrait orientation, subject centered slightly right, head near the top third, shoulder and torso filling the lower half. Add a small subtle signature-like watermark near the bottom right and a small circular social-media-style icon beneath it. Avoid extra people, text, or props.",
+    "title": "Golden Hour Privacy Portrait",
+    "description": "A warm backlit outdoor portrait of a woman with her face hidden by a privacy block, useful for anonymized lifestyle photography concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354413606_nxouoj_HIwM08vakAEfage.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21696,
+    "content": "Read the familiar that the child is likely to choose from the person, clothing, facial expression, small items, light, place, and atmosphere of the reference image. The goal is to create a sense of inevitability that 'this child would really choose this.' However, easy fixed associations are prohibited. Even with a similar atmosphere, compare similar animals, close ideologies, rival manufacturers, and similar cultures of other countries, and choose the one that strikes the child the most. I want to select a familiar based on this basic philosophy. Familiars include not only {argument name=\"familiar type\" default=\"creatures (animals, birds, insects, plants)\"} but also a wide range of fictional beings such as spirits, gods, demons, and ogres. Chappy may imagine them. With the realism of a photo taken with a smartphone, change the clothing and background to show the relationship between the subject and the familiar at a glance, and take the best shot of the two. The familiar should match the style of the reference image without any sense of incongruity. Write the name and characteristics of the familiar in the photo. Unify the atmosphere of the entire photo based on the theme of that photo.",
+    "title": "Character Familiar Selection Logic",
+    "description": "A complex prompt instruction to analyze a reference character's traits and environment to generate a matching familiar creature in a realistic smartphone-photo style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354364828_7mw3ue_HIwMvSWbMAAVCot.jpg",
+      "https://cms-assets.youmind.com/media/1779354364809_6zng1y_HIwMvSZawAAZFgr.jpg",
+      "https://cms-assets.youmind.com/media/1779354364729_7duo27_HIwMvSZa4AASCHI.jpg",
+      "https://cms-assets.youmind.com/media/1779354365965_vb8gvs_HIwMvScaMAAviBe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21664,
+    "content": "Prompt 1:\n{\n  \"prompt\": \"cute minimalist anime couple portrait, soft hand-drawn watercolor illustration with clean white background, adorable young couple standing closely together in gentle romantic pose, boy with short dark hair wearing oversized white hoodie and light blue jeans, black sunglasses hanging from hoodie collar, relaxed smile and rosy cheeks, girl leaning her head softly on his shoulder while holding his arm, short black bob haircut with wispy bangs, warm blush expression, wearing black lace camisole dress layered under oversized cream trench coat with tiny embroidered floral detail on sleeve, subtle tiny hearts and golden sparkles floating around them, cozy wholesome mood, delicate pencil sketch texture, pastel color palette, Korean stationery illustration aesthetic, minimal composition, soft shading, innocent romantic energy, elegant simplicity, smooth watercolor blending, highly detailed clothing folds, charming manga-inspired proportions, clean aesthetic suitable for profile art or wallpaper\",\n  \"negative_prompt\": \"low resolution, messy lines, distorted anatomy, extra fingers, harsh contrast, dark shadows, cluttered background, realistic rendering, 3d style, saturated colors, ugly face, asymmetrical eyes, blurry texture, watermark, text, noisy image\",\n  \"aspect_ratio\": \"4:5\",\n  \"style\": \"minimal watercolor anime illustration\",\n  \"camera\": \"medium portrait framing\",\n  \"lighting\": \"soft diffused studio-style lighting\"\n}\n\nPrompt 2\n{\n  \"prompt\": \"masterpiece, ultra-detailed soft anime illustration, cozy romantic slice-of-life scene outside a European-style cafe during golden afternoon sunlight, young couple sitting on warm stone pavement beneath leafy trees, dreamy watercolor texture with delicate pencil-like linework, boy wearing oversized black t-shirt, light denim shorts, white socks, black sneakers, black sunglasses, holding smartphone for selfie while raising a wine glass with peach-colored drink, relaxed playful expression, girl beside him with long dark hair and soft bangs, wearing elegant white puff-sleeve blouse with ribbon details and flowing navy skirt, holding matching wine glass, gazing toward him with shy admiration, flower boxes under black-framed windows, cream-colored textured wall, cafe chalkboard sign reading 'CAFE COFFEE DESSERT BRUNCH', soft sparkles and tiny doodled hearts floating in air, aesthetic tote bags and white handbag beside them, dappled sunlight shadows across ground, highly atmospheric, pastel tones, warm nostalgic mood, Korean webtoon x watercolor anime aesthetic, cinematic composition, subtle grain, realistic fabric folds, soft blush on cheeks, refined lighting, extremely charming and wholesome\",\n  \"negative_prompt\": \"low quality, blurry, distorted anatomy, extra limbs, poorly drawn hands, bad perspective, oversaturated colors, some harsh shadows, cluttered background, text artifacts, watermark, logo, cropped faces, exaggerated expressions, messy composition, unrealistic lighting, 3d render, photorealistic skin, ugly details\",\n  \"aspect_ratio\": \"4:5\",\n  \"style\": \"soft watercolor anime\",\n  \"camera\": \"35mm eye-level composition\",\n  \"lighting\": \"golden hour natural sunlight with soft shadows\"\n}",
+    "title": "Minimalist Anime Couple Watercolor Illustration",
+    "description": "A charming watercolor-style prompt for creating romantic and wholesome anime couple portraits with soft textures and a clean aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354345861_7gz1r1_HIv88ita0AAU1u6.jpg",
+      "https://cms-assets.youmind.com/media/1779354345834_w110wd_HIv88meaYAAbZa-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21725,
+    "content": "Create an extreme close-up square macro portrait of a young couple laughing together, with two people: a young woman on the left with messy {argument name=\"hair color\" default=\"light brown blonde\"} windblown hair, and a young man on the right with dark tousled hair and light stubble. Their faces are pressed very close together, cropped tightly so the composition fills the entire frame; show only partial hair, cheeks, mouths, jawlines, and the upper edges of dark chunky knit sweaters. Capture a candid, hyper-realistic editorial photography style with high-fidelity skin texture, natural pores, slight freckles, subtle cheek flush, realistic teeth and gums, crinkled nearly closed eyes from intense joyful laughter, and authentic imperfect expressions. Use a dark minimalist background and moody cinematic color grading with deep desaturated tones, warm raw skin undertones, high contrast, and soft dramatic directional key light catching fine strands of hair and sculpting the noses, brows, lips, and cheek contours. Shot as if on {argument name=\"camera look\" default=\"35mm film\"}, shallow depth of field, sharp focus on the center where the faces meet, dark textured knitwear around their necks, raw intimate atmosphere, award-winning fashion editorial realism. Use a 1:1 square aspect ratio and avoid text, logos, extra people, or overly polished beauty retouching.",
+    "title": "Extreme Close-Up Laughing Couple Portrait",
+    "description": "Generates a moody hyper-realistic square macro portrait of a laughing young couple for cinematic editorial or social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354384650_2c0xhg_HIvxL60a4AAV6dp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21679,
+    "content": "Use the couple exactly from reference image, the faces should be exactly same and An extreme close-up, macro portrait of {argument name=\"subjects\" default=\"a young man and a young woman\"} laughing intensely, their faces pressed close together against a {argument name=\"background\" default=\"dark, minimalist background\"}. Captured in a candid, hyper-realistic photography style with high-fidelity skin texture, showing fine pores, subtle freckles, and a natural flush on their cheeks. Their eyes are crinkled and nearly closed from genuine, joyful laughter, displaying realistic teeth with slight natural imperfections and detailed gums. Messy, fine strands of {argument name=\"hair\" default=\"light brown hair\"} are blown across their faces, catching a soft, dramatic directional key light that highlights the contours of their noses and brows. The color grading is moody and cinematic with deep, desaturated tones, contrasting warm, raw skin undertones against dark, textured knit sweaters around their necks. Shot on 35mm film, shallow depth of field, sharp focus on the center of their faces, authentic emotion, high contrast, raw photography, award-winning editorial style. --ar 1:1 --v 6.0",
+    "title": "Macro Candid Couple Portrait",
+    "description": "A hyper-realistic extreme close-up of a couple laughing together, showing detailed skin textures and authentic emotions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354353071_3e2uqp_HIvxL60a4AAV6dp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21693,
+    "content": "{argument name=\"age\" default=\"20-year-old\"} woman. Elegant and beautiful, tall and slender build. Perfect hourglass silhouette, firm yet soft waist, natural smooth curves, well-proportioned rounded hips, long shapely legs, light and tight body line. High cheekbones with a skeletal feel, sculpted and maturely sophisticated facial features. Deep, alluring almond eyes. An atmosphere of cool luxury and sexy tension. Light see-through bangs, feathery soft ends.\n\nPose: Sitting shallowly next to an old upright piano. Natural movement like a snapshot. Looking back at the camera. Body slightly leaning forward, relaxed yet showing visual interaction and sex appeal.\n\nOutfit: {argument name=\"outfit color\" default=\"Black\"} high-waisted tight sports shorts, black bandeau top inner, light gray loose cropped leather jacket. The shoulder line of the jacket drops naturally, revealing the shoulders and collarbone.\n\nScene: A highly detailed {argument name=\"scene\" default=\"ruined old music room\"}. A large vintage upright piano in the background. Scattered music stands and sheet music. Light streaming through broken windows. Fine dust dancing in the air. Aged wooden floor. Dim, cinematic indoor lighting. Intersection of warm and cool light creating strong cinematic contrast. Dust floating in shafts of light, with rich details throughout the space.\n\nComposition: Full body composition. Eye-level perspective. Side angle from the right. Both the person and background space are clearly visible. 50mm lens. Natural depth of field. Soft foreground bokeh. Slight foreground obstruction. The background environment is sharp and three-dimensional.\n\nQuality/Aesthetics: Fujifilm Classic Chrome colors. Soft cinematic color. Low contrast. Realistic atmosphere like a documentary film. Low-saturation blue and red tones. Travel film texture. Natural light detail. Sharp texture down to the fabric. Delicate facial details. Realistic spatial depth. Ultra-high definition. Movie-grade lighting.",
+    "title": "Cinematic Abandoned Music Room Portrait",
+    "description": "A highly detailed prompt for creating a realistic, cinematic portrait of a woman in an abandoned music room with vintage aesthetics and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354363802_bjph6j_HIvjfEZb0AABonf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21670,
+    "content": "Create a highly detailed {argument name=\"art style\" default=\"low-poly papercraft portrait\"} of a {argument name=\"subject\" default=\"stylish young man\"}, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly {argument name=\"accessories\" default=\"black-tinted geometric sunglasses\"} with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.",
+    "title": "Low-Poly Origami Papercraft Portrait",
+    "description": "Creates highly detailed, geometric portraits with a layered origami aesthetic, featuring realistic paper textures and faceted angular shapes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354349070_16e9ei_HIvD8gDbsAAgtZS.jpg",
+      "https://cms-assets.youmind.com/media/1779354349086_fdho47_HIvD8hHboAABTmq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21786,
+    "content": "Create a vertical full-body anime illustration of {argument name=\"character name\" default=\"a young stylish woman\"} standing casually on a sunlit city sidewalk in front of a modern glass-and-metal building entrance, with a shallow depth-of-field urban background. She has short wavy {argument name=\"hair color\" default=\"pale aqua-blue\"} bob-length hair and wears large retro over-ear headphones in pink, tan, and gold; her face is intentionally covered by a plain soft beige rectangular censor block. Add a small white wispy line near her head suggesting smoke, steam, or breath. Outfit: oversized loose pink haori-style cardigan with wide sleeves, faded blue graphic T-shirt reading “Visit Palm Spring” with a retro motel, road, palm tree, and sunset illustration, high-waisted tan pleated trousers rolled at the cuffs, a brown woven belt, off-white socks, and burgundy leather tassel loafers. She holds one cream canvas tote bag in her left hand, printed with a red circular logo reading “STRAND” and small website text near the bottom. Pose is relaxed and front-facing, one arm down holding the tote, the other mostly hidden by the cardigan, with natural clothing folds and soft shadows. Use cinematic anime rendering with clean line art, muted pastel colors, realistic proportions, subtle film-like lighting, and a contemporary street-fashion editorial feel. Vertical composition, full body centered, no extra people, no watermark.",
+    "title": "Anime Street Fashion Woman",
+    "description": "Generates a vertical anime-style full-body street fashion portrait of a headphone-wearing woman in an urban setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354418646_8smkv4_HIvBBZ_bcAAq9J3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21582,
+    "content": "Create a photorealistic vertical fashion portrait of a young woman standing in a quiet underground train station corridor in the morning. She is centered slightly right of frame, full body from head to mid-thigh visible, wearing a fitted ribbed {argument name=\"dress color\" default=\"white\"} long-sleeve turtleneck mini sweater dress. Her long softly waved {argument name=\"hair color\" default=\"rose-gold blonde\"} hair falls over both shoulders, parted near the center. Her face is intentionally obscured by a smooth rectangular blur block matching warm skin tones, with no facial features visible. She stands beside a glossy white square-tiled wall on the right, lightly touching the wall with her right hand while her left arm hangs relaxed. The corridor recedes deeply into the background with wet reflective floor tiles, cool fluorescent ceiling lights, a blurred overhead station sign, and exactly 3 distant commuter silhouettes in the background. Use a realistic full-frame camera look with shallow depth of field, cool blue-gray subway lighting, subtle reflections, cinematic urban atmosphere, natural body proportions, high detail in fabric ribs and tiles, and a small pale sparkle/star watermark-like mark near the bottom-right corner. No readable text, no extra people in the foreground, no accessories, no bags, no visible face.",
+    "title": "Subway Corridor Fashion Portrait",
+    "description": "A photorealistic vertical portrait of a woman in a white sweater dress standing in a cool, reflective underground station corridor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779354398275_ondl5d_HItxY4FbUAEgWCu.jpg"
     ],
     "needReferenceImages": true
   },
