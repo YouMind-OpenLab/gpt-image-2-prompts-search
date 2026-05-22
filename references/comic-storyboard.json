@@ -10,6 +10,363 @@
     "needReferenceImages": true
   },
   {
+    "id": 21873,
+    "content": "Create a professional character reference sheet for the uploaded image. Arrange into {argument name=\"column count\" default=\"four\"} vertical columns, each representing a viewing angle. Each column contains a full-body view above and a matching close-up portrait below. Columns (left to right): Column 1: Front view (full body above, front portrait below); Column 2: Left side view (full body facing left) with left portrait below; Column 3: Right side view (full body facing right) with right portrait below; Column 4: Back view with matching portrait below. Maintain even spacing and framing around character portraits. Clear outlines, consistent alignment, and clean panel separation. No text. Thin borders. Flat lighting.",
+    "title": "Professional Character Reference Sheet Layout",
+    "description": "This prompt helps generate professional character reference sheets organized into clean vertical columns. It specifies multiple viewing angles, including full-body and close-up portraits, ensuring consistent character design and alignment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440715887_mj64yl_HI4sSeAagAA0v7J.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21950,
+    "content": "Create a full-body anime-style fashion illustration of a young woman named {argument name=\"character name\" default=\"Momoka\"} standing confidently in the center of a grand Gothic cathedral corridor. She has long voluminous {argument name=\"hair color\" default=\"pastel pink\"} twin-tail hair with curled ends, black ribbon bows, and a small tilted black top hat decorated with a pink rose. Her face is intentionally hidden by a soft square blur/skin-tone censor block, while the rest of the image is highly detailed. Dress her in an elaborate dark gothic-lolita outfit: a black and charcoal frilled mini dress with a high-low skirt, layered ruffles, pink rose embroidery along the hem, a glossy black corset waist with multiple belts and silver buckles, a black choker with a pink rose, lace sleeves, ruffled wrist cuffs, fishnet stockings, black thigh garter straps with buckles, and chunky black platform boots with pink soles and pink crisscross laces. Use a dramatic low-angle view that makes the character appear tall and powerful, centered from boots to hair. The setting is a dim cathedral interior with soaring ribbed arches, tall stained-glass windows on the right, dark wooden wall panels, candle sconces, polished stone floor reflections, and a small vase of pink roses on a side table to the left. Lighting should be cinematic and moody, with shafts of pale daylight from the windows, deep shadows in the vaulted ceiling, glossy highlights on leather and buckles, and a subtle red glow far in the background. Overall mood: {argument name=\"mood\" default=\"romantic dark gothic elegance\"}. Render in polished high-detail anime art with realistic fabric texture, intricate lace, crisp accessories, and no visible text or watermark.",
+    "title": "Gothic Lolita Cathedral Fashion",
+    "description": "A detailed anime fashion prompt for creating a gothic-lolita character in a dramatic cathedral setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440756623_3at59g_HI25ZyEaQAASfiC.jpg",
+      "https://cms-assets.youmind.com/media/1779440756259_tnf5k0_HI25V2MbwAAEr6g.jpg",
+      "https://cms-assets.youmind.com/media/1779440756240_0vthow_HI25V2KbIAAywWs.jpg",
+      "https://cms-assets.youmind.com/media/1779440757170_ytnekq_HI25V2NaQAAUP9Q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21990,
+    "content": "Goal: Create a cinematic anime storyboard image card for an animation prompt, designed as a comic-strip scene plan with voice lines and timing.\n\nCanvas: Wide 16:9 landscape canvas, approximately 1152×768, with a black script header occupying the top third and a 10-panel storyboard grid occupying the bottom two thirds. Use thin white dividers between panels and a clean production-board layout.\n\nHeader: Black background with crisp white sans-serif text. Top line reads: SCENE TITLE: {argument name=\"scene title\" default=\"Sunset Promise\"}  |  DURATION: {argument name=\"duration\" default=\"~10 SECONDS\"}  |  GENRE / MOOD: {argument name=\"genre and mood\" default=\"Emotional, Bittersweet\"}. Below it, include exactly 10 numbered shot instructions with yellow timecodes and white descriptions:\n1. 0:00 - 0:01 WIDE SHOT. Rooftop at sunset. Boy and girl stand apart, facing each other. Wind blows.\n2. 0:01 - 0:02 MEDIUM CLOSE UP on boy. He takes a breath, hesitant. BOY: “There’s something I need to say...”\n3. 0:02 - 0:03 MEDIUM CLOSE UP on girl. She turns to him, curious.\n4. 0:03 - 0:04 CLOSE UP on boy. He speaks with feeling. BOY: “Thank you... for everything.”\n5. 0:04 - 0:05 CLOSE UP on girl. She’s taken aback, eyes glisten.\n6. 0:05 - 0:06 CLOSE UP on boy. He shows a small, warm smile. BOY: {argument name=\"farewell line\" default=\"I won’t forget you.\"}\n7. 0:06 - 0:07 CLOSE UP on girl. Tears form, she fights to hold them back.\n8. 0:07 - 0:08 WIDE SHOT. A beat of silence between them. Wind and sunset fill the moment.\n9. 0:08 - 0:09 BOY turns and walks away slowly. Girl watches, unable to call out.\n10. 0:09 - 0:10 CLOSE UP on girl reaching out. Tears fall. Fade out. (NO DIALOGUE)\n\nStoryboard grid: Exactly 10 panels arranged in two rows of five. Each panel has a small white square number label in the top-left corner and a small white timecode in the top-right corner. Panel labels are: 1, 2, 3, 4, 5 on the top row; 6, 7, 8, 9, 10 on the bottom row. Timecodes are: 0:00 - 0:01, 0:01 - 0:02, 0:02 - 0:03, 0:03 - 0:04, 0:04 - 0:05, 0:05 - 0:06, 0:06 - 0:07, 0:07 - 0:08, 0:08 - 0:09, 0:09 - 0:10.\n\nPanel visuals: Use a dramatic Japanese anime film style with warm orange-pink sunset lighting, a rooftop railing, wet reflective rooftop floor, distant city skyline, glowing sun near the horizon, and wind-blown hair. The characters are a teenage boy in a dark Japanese school uniform and a teenage girl in a sailor-style school uniform with long brown hair. Add opaque brown rectangular censor blocks over the characters’ faces in close-up panels, matching the generated look.\n\nPanel-by-panel imagery: 1) Wide rooftop shot with boy and girl standing apart facing each other, sunset centered between them. 2) Medium close-up of the boy from chest up, dark uniform, sunset skyline behind him, face covered by a brown rectangle. 3) Medium close-up of the girl turning toward him, long hair blowing, sailor uniform, face covered by a brown rectangle. 4) Extreme side close-up of the boy speaking, sunset behind, face mostly covered by a brown rectangle. 5) Close-up of the girl reacting, hair across frame, face covered by a brown rectangle. 6) Close-up of the boy with a subtle warm smile, face covered by a brown rectangle. 7) Close-up of the girl holding back tears, wind-blown hair, face covered by a brown rectangle. 8) Wide rooftop silence shot with both characters separated against the sunset. 9) Rear view of the boy walking away while the girl remains near the railing, orange sky behind them. 10) Close-up of the girl reaching one hand toward the camera, tears implied, face covered by a brown rectangle.\n\nVisual style: High-detail anime key art, cinematic lighting, emotional bittersweet mood, soft film grain, saturated sunset clouds, reflective puddles, clean white storyboard borders, legible typography, no logos or watermarks.",
+    "title": "Sunset Promise Anime Storyboard Card",
+    "description": "Creates a 10-panel anime storyboard card with timed shots and dialogue for animating an emotional rooftop farewell scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440777448_wicvva_HI3wK_aWUAAauQm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21863,
+    "content": "Transform the photo into a delicate minimalist hand-drawn children’s illustration with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles. Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detailed",
+    "title": "Minimalist Children's Illustration Style",
+    "description": "A delicate prompt that transforms photos into whimsical, hand-drawn children's illustrations featuring soft pastel colors and a Scandinavian nursery aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440708459_1q5uxe_HI3BIASbMAA8um1.jpg",
+      "https://cms-assets.youmind.com/media/1779440708309_dylcko_HI3BIAWb0AAstyQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21923,
+    "content": "Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: {argument name=\"main title\" default=\"STEVE VS THE PLANK\"}. Subtitle beneath: {argument name=\"subtitle\" default=\"60 seconds. Feels like a week.\"}",
+    "title": "Pixar Style Character Storyboard",
+    "description": "A storyboard design prompt for generating character sheets in a 3D Pixar style, complete with clean backgrounds and professional titling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440744805_1fe478_HI2_xWCWUAIyKyT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21938,
+    "content": "Goal: Create a dramatic vertical anime magazine-cover poster inspired by Neon Genesis Evangelion, combining a realistic full-body teenage boy in the foreground with a colossal biomechanical mecha bursting through destruction behind him.\n\nCanvas: Vertical 2:3 poster, high-resolution, cinematic composition, pale off-white sky background with black typography and purple energy effects. The top is dominated by an oversized luxury-fashion serif masthead reading {argument name=\"main title\" default=\"EVANGELION\"}, spanning nearly the full width and partially overlapping the mecha.\n\nLayout: Foreground subject stands slightly left of center, low-angle camera view, full body visible from shoes to head. Behind him, one giant purple-and-green Evangelion Unit-01 mecha lunges forward from the upper right, head and shoulders huge, one clawed hand reaching in from the left, glowing magenta eyes and mouth details. The bottom third shows cracked black rubble, reflective wet ground, sparks, dust, and purple lightning streaks cutting diagonally upward. Use strong depth of field: sharp subject and mecha, smoky background debris fading into haze.\n\nSubject details: A slim teenage boy, about 14 years old, confident but neutral pose, one hand in trouser pocket and the other relaxed at his side, looking forward. His face should be intentionally anonymized with a soft rectangular blur/mosaic over the facial features while keeping hair and body visible. Outfit has exactly 6 visible pieces: short-sleeve white school shirt, dark blue undershirt visible at the collar, black belt, loose high-waisted black trousers, white low-top sneakers, and short dark brown hair. Lighting on the boy is realistic, with cool rim light from purple energy and soft shadow under the chin.\n\nMecha and action details: One massive EVA Unit-01, angular armor plates, black and deep purple body with neon green accents, long horn, red glowing eyes, open mechanical jaw, aggressive crouching motion. Surround it with exactly 12 large floating rubble chunks at different depths plus many tiny dust specks and sparks. Add jagged violet lightning bolts, shattered concrete, smoke plumes, and a chaotic battle-damaged city ground plane.\n\nText content: Include exactly 11 distinct printed design elements on the poster: 1) the huge top masthead {argument name=\"main title\" default=\"EVANGELION\"}; 2) small left label \"NEON GENESIS EVANGELION\"; 3) large left issue number {argument name=\"issue number\" default=\"01\"}; 4) a small black hatched rectangle under the issue number; 5) left label \"TEST TYPE\"; 6) large Japanese unit label {argument name=\"Japanese unit label\" default=\"初号機\"}; 7) small quote \"God's in his heaven. All's right with the world.\"; 8) right-side character name {argument name=\"character name\" default=\"SHINJI IKARI\"}; 9) Japanese name text \"碇 シンジ\"; 10) small labels \"THIRD CHILD\", \"THIRD CHILDREN\", and \"PROJECT EVA\" grouped under the name; 11) a small NERV-style emblem with tiny motto text and barcode near the lower right. Add tiny technical microtext in the bottom-right corner reading \"SPT\", \"BUSY\", and \"0x0x0\".\n\nVisual style: Premium anime key art mixed with editorial fashion magazine cover, ultra-detailed digital painting, sharp contrast, gritty rubble, glossy armor, violet and magenta energy, black elegant serif typography similar to high-fashion magazine type. Keep the composition poster-like, dramatic, polished, and print-ready.\n\nConstraints: No extra characters, no additional mecha, no speech bubbles, no watermark, no modern UI frame. Keep all typography black or very dark, readable, and integrated into the poster design.",
+    "title": "Evangelion Anime Magazine Cover",
+    "description": "Creates a cinematic Evangelion-inspired anime poster with a school-uniform boy, giant EVA mecha, editorial typography, and violet battle effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440750923_rkb5m8_HI2-SFwaoAAzl5k.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21934,
+    "content": "Create a cinematic vertical portrait of a young boy with {argument name=\"hair style\" default=\"messy curly brown hair\"} leaning casually against a rough, dark concrete alley wall, his hands in his pockets and one knee slightly bent. He wears black-framed glasses, a dark rolled-sleeve button-up shirt over a black T-shirt, olive cargo pants, black sneakers with white laces and side stripe, a black wristwatch, and a small silver pendant necklace. The environment is a gritty narrow urban alley with cracked textured walls, dusty ground, and warm low-angle golden light coming from the left. On the wall behind him, cast a single huge menacing shadow shaped like a wolf or werewolf with pointed ears, long snout, visible teeth, and a shaggy body, looming dramatically over the child; make the shadow soft-edged but clearly recognizable. Use dramatic chiaroscuro lighting, shallow depth of field, realistic photography, high detail in fabric and wall texture, moody dark tones, warm highlights, subtle haze, and a suspenseful fantasy atmosphere. The boy should appear calm and confident despite the frightening shadow. Face details may be obscured or minimally visible, but keep the pose, outfit, and wolf-shadow composition clear. No text, no watermark.",
+    "title": "Boy With Werewolf Shadow",
+    "description": "A cinematic dark-fantasy portrait of a stylish child in an alley with a giant wolf shadow looming behind him.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440749200_snht3a_HI2v9j5bEAAQpfQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21854,
+    "content": "Use the reference photo to create a realistic female character, soft smile, with a fun and natural expression, without changing the facial structure or features, keeping it as realistic as possible. Hair: Same as in the reference photo, with natural movement and shine. Outfit: Modern, stylish casual clothing. Scene: Set in a {argument name=\"setting\" default=\"cute pink office\"}, showing her being creative. Around her, include {argument name=\"special effect\" default=\"mini chibi versions of herself\"} doing funny actions (drinking coffee from a cup, pulling her hair, making silly faces, lying on her stomach on the desk drawing in a notebook). Add doodles and emojis, and include a {argument name=\"text element\" default=\"matching phrase\"}. Lighting & Format: Natural light, aspect ratio 1080:1350 (4:5).",
+    "title": "Creative Pink Office Portrait with Chibi Characters",
+    "description": "A fun and realistic character portrait set in a pink office, featuring mini chibi versions of the subject performing various funny actions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440703704_spajlo_HI2gPaHbsAEUGqe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21964,
+    "content": "Goal: Create a polished anime storyboard sheet for a fictional 10-second trading card battle anime sequence, designed like a cinematic ad storyboard made from five horizontal panels.\n\nCanvas: Landscape 16:10 white storyboard page with thin gray table borders, a centered Japanese headline at the top reading {argument name=\"headline text\" default=\"10秒トレーディングカードバトルアニメ 絵コンテ\"}, a thin red line accent near the top left, and a small angular red logo-like mark in the top right.\n\nLayout: Use a three-column storyboard grid. The left column is narrow and contains red cut labels plus timing. The center column is wide and contains cinematic anime stills. The right column is a white notes column with camera direction and action notes. There are exactly 5 horizontal rows, separated by light gray lines.\n\nVisible cut list: 1) Cut 1, 0.0s-2.0s: wide establishing arena shot. 2) Cut 2, 2.0s-4.0s: medium-close shot of the protagonist activating a card device. 3) Cut 3, 4.0s-6.2s: extreme close-up of a card thrust toward the viewer. 4) Cut 4, 6.2s-8.5s: whip-pan summoning scene with a dragon hologram appearing. 5) Cut 5, 8.5s-10.0s: final low-angle hero-and-dragon shot.\n\nSubject details: The protagonist is {argument name=\"protagonist description\" default=\"a fiery red-haired teenage anime boy wearing a red-and-black battle jacket, fingerless gloves, and a glowing mechanical card duel device on one arm\"}. The summoned monster is {argument name=\"dragon description\" default=\"a crimson armored dragon with huge wings, jagged horns, glowing red crystal chest core, and ember-like highlights\"}. The arena is {argument name=\"arena description\" default=\"a futuristic packed stadium at night with blue neon spotlights, a glowing duel field, massive audience stands, and a giant VS screen\"}. The main card art shows a red demonic dragon emblem and fiery energy.\n\nCenter-panel imagery: Cut 1 shows the full stadium duel field with the red-haired protagonist on the left, an opponent in white far away on the right, giant red and blue card banners, and a large glowing “VS” display in the background. Cut 2 shows the protagonist grinning confidently, holding up a red dragon card while red energy coils around the wrist-mounted duel device; intentionally obscure or soften the exact face area as if motion-blurred/censored. Cut 3 shows a sharp close-up of one intense red eye and the raised dragon card, with rack-focus depth of field and explosive red particle streaks behind it. Cut 4 shows a red magic circle covering the arena floor as the dragon materializes in holographic flame beside the protagonist. Cut 5 shows the protagonist standing heroically beside the fully formed dragon, both lit from below by red embers and dramatic battle light.\n\nRight-column text notes: For Cut 1 write “wide shot / dolly in / audience cheers, introduce protagonist”. For Cut 2 include the red Japanese quote {argument name=\"summon quote\" default=\"「来い、紅蓮王ドラグレイザー！」\"} followed by “medium-close-up / fearless smile / device activation”. For Cut 3 write “extreme close-up / rack focus / thrust card toward camera”. For Cut 4 write “whip pan / hologram summon / dragon appears”. For Cut 5 write “low angle / orbit shot / decisive cut”.\n\nVisual style: High-energy modern shonen anime, glossy digital painting, cinematic lighting, red and blue color contrast, intense lens flares, speed lines, sparks, holographic particles, dramatic perspective, crisp storyboard presentation, professional production-board clarity.\n\nConstraints: Keep exactly 5 storyboard rows, exactly 3 columns, and preserve the timing labels. Do not add extra cuts, extra characters, watermarks, or unrelated UI elements.",
+    "title": "Trading Card Battle Anime Storyboard",
+    "description": "A structured prompt for generating a five-cut cinematic anime storyboard sheet for a fictional trading card battle sequence.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440763920_4irkkx_HI2PqeNaMAAKkHr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21963,
+    "content": "Goal: Create a vertical Japanese 4-panel manga comic about a cute chibi girl becoming even more excited when a rainy sports day is postponed.\n\nCanvas: Tall vertical comic page in full color, approximately 9:16, with a white outer margin and thick black panel borders. Use exactly 4 stacked horizontal panels of equal width, manga-style composition, energetic expressions, glossy digital coloring, bold outlines, dramatic speed lines, sparkles, and sound effects.\n\nMain character: A single chibi elementary-school girl named {argument name=\"character name\" default=\"purple-haired girl\"}. She has long wavy lavender-purple hair, pale skin, round gray eyes that turn into sparkling star eyes when excited, rosy cheeks, and a small open mouth. She wears a pale pink short-sleeve blouse with buttons, a light beige skirt, white socks, and simple shoes. Her pose is usually fists clenched near her chest in excitement or surprise.\n\nPanel 1: School sports day setup under stormy clouds. Show the girl standing large in the center of a school athletic field, smiling with clenched fists and sparkles around her. Background includes a school building, Japanese flag, strings of international flags, a clock, a flower-decorated sports day arch labeled 「運動会」, tents, cones, bags, and lunch boxes. Add a large vertical speech bubble on the right with 「今日は運動会！」. At the very top outside or above the first panel, add the headline: {argument name=\"headline text\" default=\"雨が空ごとプールに変わっても、楽しみは10倍に跳ね上がる！\"}.\n\nPanel 2: Indoor announcement scene. Show a wall-mounted gray loudspeaker on the left, a taped white notice below it reading 「雨で延期」, and the girl on the right in close-up looking shocked with a sweat drop, clenched fist, and wide open mouth. Add a speech bubble on the right reading 「延期!?」. Use beige indoor wall tones and manga burst lines radiating from her face.\n\nPanel 3: Torrential rain on the sports field. Show the athletic field transformed into a shallow flooded pool under heavy rain, lightning, dark storm clouds, and dramatic water splashes. The girl stands in the foreground with star-shaped eyes and an amazed open mouth, holding a spiral-bound calendar that reads 「運動会（新しい日）」 with a large red circled 「7」 and 「日後！」 underneath. Add two sound effects: blue 「ザーッ」 for heavy rain on the left and orange 「ゴロゴロ」 for thunder on the upper right. Add a vertical speech bubble on the right reading 「あと7日!?」.\n\nPanel 4: Extreme close-up celebration. Fill the panel with the girl's happy face, sparkling star eyes, open smiling mouth, and clenched fists. Use a hot pink and red radial burst background filled with yellow sparkles. Add one jagged speech bubble on the left containing 「100倍!!」 in red and 「楽しみ」 in black, meaning the excitement is multiplied.\n\nText count and placement: Include exactly 1 headline, exactly 4 comic panels, exactly 4 speech bubbles, exactly 1 taped notice, exactly 1 calendar page, exactly 2 manga sound effects, and exactly 1 sports day arch label. Preserve all Japanese text exactly as written. Avoid adding extra dialogue, captions, logos, watermarks, or additional characters.\n\nVisual style: Cute Japanese chibi manga, bright saturated colors, clean black line art, expressive faces, playful dramatic exaggeration, polished webcomic look, high readability of all Japanese text.",
+    "title": "Rainy Sports Day Chibi Manga",
+    "description": "Generates a colorful four-panel Japanese chibi manga about a rainy sports day postponement turning into even greater excitement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440763562_5ad7g7_HI2IPTAbYAABUw3.jpg",
+      "https://cms-assets.youmind.com/media/1779440763574_eddinf_HI2IQRMbwAEi6ui.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21956,
+    "content": "Create a highly detailed vertical anime-inspired steampunk group portrait of exactly 3 seated characters on a worn wooden bench in a dense retro-futuristic city alley. The trio consists of 1 left male figure, 1 center female figure, and 1 right male figure, all facing forward with intentionally featureless softly blurred faces. The left character is a slim young man wearing a black wide-brim hat, dark pinstripe three-piece suit, white shirt, narrow black tie, small lapel pins and medals, visible tattooed hands, cropped socks, and brown lace-up boots. The center character is a petite young woman with {argument name=\"hair color\" default=\"short platinum-blonde bob hair\"}, wearing a dark ornate double-breasted school-uniform-inspired jacket, white shirt, red patterned bow tie, decorative pins and brass buttons, a small red mechanical bird or toy perched near her hair, a short skirt, cream knee-high socks with intricate mechanical illustrations, red ankle straps, and glossy black platform Mary Jane shoes; her hands rest neatly on her knees. The right character is a slim young man in a navy tailored suit jacket, cream waistcoat, white shirt, patterned tie, many pins and medals, cropped trousers, cream socks, and dark brown leather shoes, sitting with hands clasped. The background should be packed wall-to-wall with countless vintage mechanical details: large clocks, turbine-like circular vents, gauges, pipes, gears, metal boxes, signs, wires, dials, old advertisements, and layered industrial panels, creating a cluttered whimsical steampunk marketplace facade. Use a muted cinematic palette of oxidized teal, rust red, brass, charcoal, cream, and weathered brown. Lighting is soft overcast daylight, sharp illustration detail, intricate linework, realistic fabric textures, antique metal patina, symmetrical centered composition, full-body view from head to shoes, cobblestone ground, no modern objects, no readable real-world branding, no extra characters. Overall mood: eccentric, fashionable, mysterious, and nostalgic, like {argument name=\"style influence\" default=\"a richly detailed Japanese AI illustration blended with Victorian steampunk and retro street fashion\"}.",
+    "title": "Steampunk Trio Portrait",
+    "description": "Generates a richly detailed vertical steampunk fashion portrait of three faceless seated characters against a dense mechanical city backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440759556_ykbyhn_HI2E0-Ra4AAjXmo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21852,
+    "content": "Transform the photo into a delicate minimalist {argument name=\"style\" default=\"hand-drawn children’s illustration\"} with a soft whimsical fairy-tale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat {argument name=\"color palette\" default=\"pastel colors\"}, minimal details, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add subtle paper texture, soft pencil and pastel shading, watercolor softness, and a {argument name=\"background\" default=\"clean white background with small stars or sparkles\"}. Stylize the clothing in a playful storybook way with simplified shapes and gentle decorative details. The overall mood should feel airy, cozy, naive, and charming, like a modern Scandinavian nursery postcard or children’s book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail.",
+    "title": "Minimalist Hand-Drawn Children Illustration",
+    "description": "Transforms photos into delicate, whimsical children's book illustrations with soft pastel colors and simple hand-drawn lines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440702400_yhl7za_HI2BdKwXcAA30eF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21888,
+    "content": "An epic {argument name=\"setting\" default=\"desert-world\"} cinematic character board with monumental scale and atmospheric realism. {argument name=\"atmosphere\" default=\"Warm golden dust storms\"}, harsh sunlight, layered shadows, and {argument name=\"texture\" default=\"textured earth-tone fabrics\"} dominate the frame. Full-body turnaround arranged organically like a luxury film pitch document, paired with intimate close-up portraits showing cracked lips, sand particles, weathered skin, and emotional intensity. Minimal typography, symbolic markings, tactical costume breakdowns, and realistic material studies. Ultra realistic cinematography inspired by prestige sci-fi epics.",
+    "title": "Desert World Cinematic Character Board",
+    "description": "A cinematic prompt for a desert-world character board featuring dust storms, textured earth-tone fabrics, and turnaround portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440723046_hkt3p8_HI2AFoIacAABfcj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21837,
+    "content": "Create a unique artistic sketch-style portrait of a {argument name=\"subject\" default=\"modern young man\"} wearing {argument name=\"accessories\" default=\"black sunglasses\"}, with textured pencil and ink drawing effects mixed with abstract collage elements. Change the shirt color to {argument name=\"shirt color\" default=\"deep olive green\"} with soft watercolor shading. Add layered geometric frames around the face, expressive cross-hatching, ink splashes, handwritten typography notes, and contemporary fashion mood-board aesthetics. Keep the hairstyle detailed and voluminous with realistic sketch strokes. Use an off-white textured paper background with artistic grunge accents, dynamic composition, and editorial magazine-style illustration. High detail, cinematic lighting, modern urban art style, creative mixed-media sketch effect.",
+    "title": "Mixed Media Sketch Portrait",
+    "description": "Creates a stylized artistic portrait combining pencil and ink sketch effects with abstract collage elements and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440696197_srb9fg_HI1_ibaaMAAYM43.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21951,
+    "content": "Create a cinematic close-up anime illustration of {argument name=\"character name\" default=\"a shy schoolgirl\"} leaning very close toward the viewer as if peering over the edge of a bed, shot with an extreme wide-angle perspective and shallow depth of field. She has long straight {argument name=\"hair color\" default=\"black hair\"} with messy bangs falling across her face, very large glossy {argument name=\"eye color\" default=\"golden brown eyes\"}, a small surprised open mouth, soft blush, and a curious innocent expression. Her outfit is a Japanese school uniform: white short-sleeve blouse, pale yellow sweater vest with thin red trim, green pleated skirt partly visible, and one large teal bow at the collar. The camera is low and intimate, with her face dominating the right half of the frame, hair strands crossing the lens, and her shoulders and torso foreshortened. Background: a cozy teenage bedroom at {argument name=\"time of day\" default=\"dusk\"}, warm dim interior light, dark wooden ceiling and walls, one window on the left with purple curtains and a twilight sky outside, one bed in the foreground with blurred bedding, one cat-shaped plush pillow on the bed at left, one desk area on the right with books, one pink desk chair, and one small wall poster. Use polished modern anime film rendering, detailed eyes with bright white highlights, clean line art, soft painterly shading, warm shadows, slight vignette, cinematic 16:9 composition, high detail, no text, no watermark.",
+    "title": "Cinematic Anime Schoolgirl Close-Up",
+    "description": "Generates a wide-angle anime bedroom scene with a shy schoolgirl leaning close to the viewer for cinematic character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440757238_d6vu1m_HI18q6AboAAUK9p.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21903,
+    "content": "Overall heavy shading, extensive use of fine hatching, {argument name=\"art style\" default=\"Japanese commercial manga style\"}, high-density drawing, fine line art, screen tones, emphasis on emotional expression, {argument name=\"features\" default=\"large eyes\"}, {argument name=\"attributes\" default=\"yamikawaii, menhera, yandere\"}",
+    "title": "Delicate Pen Drawing Manga Style",
+    "description": "A stylistic prompt modifier for creating high-density Japanese commercial manga-style illustrations with heavy shading and hatching.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440732834_mczdyb_HI1bFPdbMAAkhrt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21883,
+    "content": "A stylized character design sheet / storyboard for a {argument name=\"character name\" default=\"fictional girl character named \\\"Ruzaina\\\"\"}, featuring multiple poses and expressions on a white background. The character has {argument name=\"features\" default=\"long black hair with bangs, tan/warm skin tone\"}, wearing a white crop tank top, loose baggy blue jeans, and white sneakers with a gold initial necklace.\nLayout includes:\nLarge close-up face portrait (top left)\nFull body standing pose (top right)\nChibi/cute mini version (small, bottom left area)\nSide profile sketch\nDreamy close-up face with hand on cheek\nSitting cross-legged pose\nTwo small chibi face expressions (bottom right)\nDecorative elements: hand-drawn hearts, stars, smiley face sticker, pink speech bubbles, sticky notes, color palette swatches (peach, black, grey, yellow, pink), an iced coffee cup drawing.\nText elements (handwritten style fonts):\nName \"{argument name=\"display name\" default=\"Ruzaina\"}\" at top in bold stylish font\n\"Personality:\" list: calm but strong, caring, fun, smart, realistic, loyal\nPink sticky note: \"Favorite color: Yellow 💛\"\nSpeech bubble: \"I'm not perfect, but I'm ME.\"\nSide text: \"I believe in myself.\"\n\"I like:\" music, travel, sunsets, coffee, laughing, animals\n\"About me:\" dreamer, detail-oriented, persistent, never gives up\nBottom note: \"Mental note: Enjoy the present. Be grateful. Keep shining ✨\"\n\"Good Vibes Only\" badge\n\"...in process mode\" with loading bar\nArt style: Semi-realistic + chibi mix, soft sketch lines, warm tones, aesthetic journal/scrapbook feel, similar to Korean webtoon character sheets.",
+    "title": "Ruzaina Character Design Sheet",
+    "description": "A comprehensive prompt for a character design sheet featuring multiple poses, chibi versions, and scrapbook-style decorative elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440720252_k2duvi_HI1ZVBkbIAAfkDW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21886,
+    "content": "Make a “personal sketchbook” type illustrated infographic based on {argument name=\"reference\" default=\"my attached photo\"}. {argument name=\"name\" default=\"Name :\"}\n\nHyper detailed freestyle sketch, mix of ink, watercolour and doodles on clean white background.\n\nDistribute freely:\n\n— {argument name=\"element 1\" default=\"large portraits\"}\n\n— full body\n\n— chibi versions\n\n— everyday scenes\n\n— phrases\n\n— little notes to myself\n\nIt includes elements about my personality (you put what you want me to put here).\n\nAdding tiny doodles, stars, symbols, stickers related to my personal world.",
+    "title": "Illustrated Personal Sketchbook Infographic",
+    "description": "A prompt to transform a photo into a freestyle sketch infographic featuring portraits, chibi versions, and personalized doodle elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440722460_midet1_HI1VuRbaAAAfgiA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21905,
+    "content": "Using the character from the reference image, depict the moment the 'Summoning Jutsu' is activated. Accurately maintain the character's face, hairstyle, hair color, eyes, ears, costume, silhouette, body proportions, and atmosphere. Do not break the character's identity. Do not use the reference image as-is; redraw it naturally according to the situation and composition. The character is performing actions recognizable as activating the Summoning Jutsu, such as slamming a hand onto the ground, unfurling a scroll, or forming hand signs. Vary the pose and action for each image. Simultaneously, a massive ritual circle is spreading across the ground with black curse patterns, a circular array, and ink-like effects. A large amount of white smoke is explosively appearing. From the smoke, a giant entity contracted with the character fully emerges. The summoned being should be depicted as strongly linked to the character's worldview, personality, and design. It should not be a mere animal but possess a mythical, monstrous, mechanical, or fantastical presence. It is overwhelmingly larger than the character. Place the character in the foreground and the summoned being gigantically in the background. Use a low camera angle. Create impact like a Shonen manga spread. Add focus lines, ground destruction, flying debris, and smoke flows. Add manga-style onomatopoeia like 'Doron!!', 'Summoning Jutsu!!', or 'Gogogogo'. Add an old scroll-style information frame at the edge of the screen containing the summoned being's name, alias, and a short description. Keep the text brief. The presentation should feel like a sudden dangerous entity introduction in a manga spread, not a technical reference sheet. Use high-energy direction like 90s-2000s Jump manga. Maintain anime illustration style. High density, high contrast, dramatic lighting, and strong silhouettes. A composition that instantly catches the eye on social media.",
+    "title": "Summoning Jutsu i2i Manga Prompt",
+    "description": "A complex instruction set for performing image-to-image generation that transforms a reference character into a dramatic manga-style summoning scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440733918_ecpbaf_HI1IotiaYAAMzDI.jpg",
+      "https://cms-assets.youmind.com/media/1779440733941_cv0k06_HI1IklSbMAA6z4j.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21926,
+    "content": "Create a {argument name=\"video duration\" default=\"30-second\"} PV for this anime. Split it into a first {argument name=\"first half duration\" default=\"15-second\"} part and a second {argument name=\"second half duration\" default=\"15-second\"} part, and create two storyboard images.",
+    "title": "Anime Storyboard Generation",
+    "description": "A prompt for creating storyboard images for an anime video, allowing users to define the overall duration and split segments while referencing a key visual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440745856_cmwzhq_HI1NJW1bYAAzjGt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21892,
+    "content": "Transform {argument name=\"source\" default=\"the photo\"} into a delicate minimalist hand-drawn children’s storybook illustration with a soft {argument name=\"aesthetic\" default=\"Korean and Japanese pastel aesthetic\"}. \n\nKeep the exact pose, composition, clothing colors, hairstyle, and overall photo structure from the original image, but simplify the characters into {argument name=\"subject style\" default=\"cute doll-like storybook figures\"} with tiny facial features, rosy cheeks, round dot eyes, soft smiles, and slightly simplified anatomy.\n\nUse thin imperfect pencil lines, subtle sketch texture, watercolor softness, soft pastel shading, and airy cream-white tones. The illustration should feel light, innocent, cozy, romantic, and whimsical.\n\nMaintain a clean minimal background with tiny flowers, sparkles, stars, or small decorative doodles. Add subtle paper texture and gentle hand-drawn imperfections.\n\nThe clothing should look soft and simplified with elegant pastel fabric shapes and tiny decorative embroidery details.\n\nStyle inspiration: modern Scandinavian nursery postcard, Korean children’s illustration, soft Japanese storybook art, delicate Pinterest watercolor sketch aesthetic.\n\nAvoid photorealism, realistic facial structure, sharp jawlines, glossy rendering, cinematic lighting, strong contrast, thick outlines, detailed fingers, hyper-detail, 3D rendering, anime style, Pixar style, oil painting texture, complex shadows, or saturated colors.",
+    "title": "Hand-Drawn Storybook Portrait Illustration",
+    "description": "A whimsical prompt for transforming a photo into a minimalist hand-drawn storybook illustration with a soft pastel aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440724020_5g2xnp_HI1Ir7_akAEfEvo.jpg",
+      "https://cms-assets.youmind.com/media/1779440723943_y9njlg_HI1IwAibcAA1vrm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21965,
+    "content": "Create a vertical 9:16 anime-style illustration set inside a dim industrial emergency stairwell at night. The camera is a high-angle first-person point of view looking down at a teenage girl standing on a metal diamond-plate stair landing, reaching toward the viewer and holding the viewer's hand in the foreground. She wears a short-sleeved white button-up school blouse with a collar, a dark olive-black layered ruffle skirt, and a loose blue-gray ribbon tied at the waist. Her {argument name=\"hair color\" default=\"olive brown with blonde highlights and green-purple dyed streaks\"} hair is shoulder length with bangs and side locks, slightly messy, catching cool overhead light. Add a large opaque square censor block over the center of her face, filled with a soft muted brown-to-pink gradient, hiding all facial features. The setting includes exactly 4 major stairwell elements: gray concrete walls, silver metal safety railings, textured steel floor panels, and one glowing emergency wall lamp near the lower left casting warm yellow light. Use dramatic cinematic anime lighting with cool blue-gray shadows, warm lamp glow, detailed line art, subtle film-grain texture, and a slightly intimate emotional mood as if she is guiding the viewer up or down the emergency stairs. Keep the composition tight, with her torso and skirt dominant in frame, one of her hands extended toward the viewer, the viewer's hand visible at bottom center, and no text or watermark.",
+    "title": "Anime Girl in Emergency Stairwell",
+    "description": "Generates a cinematic first-person anime scene of a schoolgirl holding the viewer's hand inside a dim emergency stairwell.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440764644_yipkku_HI1FF9lacAAZHji.jpg",
+      "https://cms-assets.youmind.com/media/1779440764545_ak39hb_HI1FF9dbYAAEXt8.jpg",
+      "https://cms-assets.youmind.com/media/1779440764506_uutgh2_HI1FF9FbsAAmY0e.jpg",
+      "https://cms-assets.youmind.com/media/1779440765243_gh5e2a_HI1FGHmbwAA6xYq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21908,
+    "content": "Transform the original character into an {argument name=\"costume style\" default=\"elegant gothic lolita heroine\"} while fully preserving her face, eyes, hairstyle, {argument name=\"hair color\" default=\"chestnut-orange\"} hair, proportions, expression, and identity. Keep the same long hair and {argument name=\"aesthetic\" default=\"gentle anime beauty\"}, but redesign the outfit into an ultra detailed black-and-white gothic lolita battle dress inspired by cathedral aesthetics and dark fantasy fashion.\n\nThe new costume should feature layered frills, lace sleeves, corset structure, rose ornaments, silver embroidery, gothic crosses, ribbons, pearl chains, delicate gothic armor accents, and asymmetrical layered skirts. Replace the bright heroic fantasy mood with a luxurious melancholic gothic atmosphere. Use black, deep crimson, silver, dark wine red, and soft ivory as the primary palette.\n\nAdd elegant gothic accessories:\nblack lace choker, crystal rosary, rose hair ornaments, lace gloves, thigh-high stockings with gothic garters, subtle armor motifs, tiny chains, and cathedral-inspired details. Her sword should become a refined gothic rapier with silver-black engravings and glowing crimson accents.\n\nBackground should become a moonlit gothic cathedral interior with stained glass, candlelight, chandeliers, black roses, drifting petals, antique architecture, and soft volumetric moonlight. Atmosphere should feel noble, tragic, beautiful, and emotionally captivating.\n\nAnime masterpiece quality, ultra detailed, glossy eyes, cinematic lighting, dark fantasy elegance, gothic lolita aesthetic, highly detailed fabric rendering, beautiful lace textures, ethereal atmosphere, vertical composition, 9:16",
+    "title": "Elegant Gothic Lolita Character Transformation",
+    "description": "A detailed prompt for transforming an existing character into a sophisticated gothic lolita heroine, featuring intricate lace, cathedral aesthetics, and dark fantasy elements while maintaining the character's core identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440734416_47vr5v_HI1EajjaYAAOOHt.jpg",
+      "https://cms-assets.youmind.com/media/1779440734356_x0ghbx_HI1EajfaMAAhO-X.jpg",
+      "https://cms-assets.youmind.com/media/1779440734372_5qr4jn_HI1EajgbIAAKgBw.jpg",
+      "https://cms-assets.youmind.com/media/1779440735233_af5x14_HI1EajkaEAAf1Mq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21971,
+    "content": "Create a highly detailed, polished anime fantasy illustration of a serene underwater angel girl resting against an ancient curved stone structure. The scene shows one young female angel with {argument name=\"hair color\" default=\"long flowing golden-blonde hair\"}, soft amber eyes, delicate pale skin, and a calm melancholic expression, wearing a translucent layered {argument name=\"dress style\" default=\"white lace dress with ruffled organza and floral details\"}. She has exactly two large white feathered wings spread behind her, illuminated by sunlight from the water surface above. Her body floats diagonally from lower left to upper right, bare legs extended, one arm gently hugging the mossy stone arch. The setting is a luminous deep-blue underwater ruin with clear water, bubbles, caustic light rays, drifting fabric, and small marine growth. Include exactly one large curved ancient stone arch or boat-like ruin covered in dark teal moss, coral, tiny white flowers, and ornate spiral carvings. Add many floating white feathers of different sizes around her, with three prominent blurred foreground feathers near the lower right and right edge, plus smaller sharp feathers near the wings. The composition should be vertical, cinematic, and immersive, with the bright sunburst centered near the top, rippling water surface overhead, intense turquoise-to-cobalt blue background, and soft volumetric god rays. Use intricate feather rendering, realistic underwater lighting, sparkling highlights, clean detail retention, no noise, no ink splatter, no text, no watermark, no frame. Style: premium Japanese anime key visual, ethereal fantasy, painterly but crisp, delicate facial features, highly refined fabric transparency, romantic and dreamlike atmosphere. Use {argument name=\"aspect ratio\" default=\"3:4 vertical\"}.",
+    "title": "Underwater Angel Fantasy Illustration",
+    "description": "A refined anime fantasy prompt for creating an ethereal blonde angel floating underwater among ruins, feathers, sunlight, and coral details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440767314_mgkk7m_HI0cLU5bEAEebQ-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21862,
+    "content": "Create a high-quality 3D cartoon character illustration of a {argument name=\"subject\" default=\"cheerful young girl\"} with {argument name=\"accessory\" default=\"oversized round glasses\"}, expressive big eyes, and messy curly hair tied in a voluminous bun. She is shown in multiple energetic jumping and dancing poses on a {argument name=\"background\" default=\"clean turquoise studio background\"}.\n\nEach pose must feature a completely different stylish outfit: oversized sweaters, denim jackets, overalls, hoodies, skirts, cargo pants, sneakers, pastel fashion, streetwear, cozy knitted textures, and playful accessories.\n\nThe character should have Pixar/Disney-inspired styling, ultra-detailed fabric textures, soft cinematic lighting, vibrant colors, cute proportions, dynamic body movement, and joyful facial expressions.\n\nFull-body composition, floating/jumping action poses, highly detailed 3D render, depth of field, smooth shadows, whimsical and trendy aesthetic, studio-quality character design, colorful modern fashion, adorable animated look, high resolution.",
+    "title": "3D Cartoon Character Pose Sheet",
+    "description": "Creates a high-quality 3D cartoon character illustration of a girl in multiple energetic poses with Pixar-inspired styling and detailed fabric textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440708462_a6608t_HI0UsyOaMAAq26x.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21864,
+    "content": "Keep the exact same pose of the reference image, composition, and people the same. Make the characters slightly caricatured with bigger eyes, expressive faces, funny details, and lively imperfect lines. Add chaotic doodles around them such as hearts, arrows, stars, funny notes, meme phrases, sarcastic and ironic comments, and random thoughts in the style of a teenage sketchbook diary.",
+    "title": "Teenage Sketchbook Caricature Effect",
+    "description": "Transforms reference images into expressive caricatures styled like a teenage sketchbook diary with chaotic doodles and ironic comments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440709584_k6zy8p_HI0GWHMaIAArUuX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21946,
+    "content": "Goal: Create a dark-mode chat interface screenshot showing an AI image-generation conversation about making anime-style animated characters from photos.\n\nCanvas: Square 768×768 image, dark charcoal background, cropped like a desktop chat app. Use subtle rounded rectangles, soft shadows, and muted gray dividers.\n\nLayout: At the top left, display exactly 3 square thumbnail cards in a row, each with a circular portrait inside: 1) a brunette woman with shoulder-length wavy hair, 2) a blonde woman with long light hair, 3) a black-haired woman with straight long hair. Each face should be intentionally blurred or covered with a soft rectangular privacy blur. To the right beneath the thumbnails, place a rounded dark chat bubble containing the Japanese message {argument name=\"first message\" default=\"あー、あとアニメ風の Ping を作りたいかも？？\"}. Below, show a small gray status line on the left reading {argument name=\"status text\" default=\"2m 38s作業しました ›\"}, followed by a thin horizontal divider.\n\nGenerated image preview: Under the divider on the left, place exactly 1 rounded rectangular preview image showing the same 3 women transformed into polished anime/semi-realistic character art, standing shoulder-to-shoulder on a warm off-white background. Count the characters exactly: 3 women — brunette in a cream cardigan over a light blue shirt, blonde in a white top with layered necklaces, and black-haired woman in a black leather jacket. Keep all faces privacy-blurred with soft rectangular blur blocks.\n\nChat bubbles: Include exactly 4 visible outgoing message bubbles total: 1 top prompt bubble, 2 mid-lower bubbles, and 1 bottom-right bubble. The mid-lower first bubble should read {argument name=\"reaction message\" default=\"おー超いい感じ！！\\n一人一人、一枚ずつ、作る感じで\"}. The mid-lower second, wider bubble should read {argument name=\"instruction message\" default=\"その上で、そのまま、最後まで動く、ナレーション込みのやつでお願い\"}. The bottom-right bubble should read {argument name=\"final message\" default=\"作って欲しい\"}. Add a small circular down-arrow button centered near the lower middle between the bubbles.\n\nVisual style: Realistic UI screenshot, Japanese chat app aesthetic, minimal and modern, dark theme, rounded corners, graphite message bubbles, light gray text, clean spacing. The character art preview should look like high-quality anime-photo conversion rather than flat cartoon.\n\nConstraints: Use exactly 3 top portrait thumbnails, exactly 1 generated preview image, exactly 3 anime-style women inside the preview, exactly 4 chat bubbles, and exactly 1 down-arrow button. Do not add app logos, watermarks, extra buttons, extra text, or extra people.",
+    "title": "Dark Chat UI Anime Conversion Screenshot",
+    "description": "Creates a dark-mode chat screenshot mockup showing three portrait inputs and an anime-style generated group preview with Japanese conversation bubbles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440754234_wzk9nm_HIz9IYxbcAACIg2.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21970,
+    "content": "Create a bright, highly detailed anime illustration of {argument name=\"character description\" default=\"twin young girls with pale silver-white bobbed hair\"} walking side by side on a sunny resort pathway in Tomamu, Hokkaido. Both characters have their faces intentionally covered by smooth pale gray square blocks with no facial features. They wear matching airy white layered dresses with pale blue-gray ribbons, oversized light cardigans, delicate bead chains, pom-pom charms, small crossbody bags, white socks, and chunky white sneakers. Count exactly two girls: the left twin points outward with her left hand and has a feathery bird-like wing accessory and fluffy pom-pom bag at her side; the right twin holds one hand near her collar and carries a small iridescent transparent shoulder bag. Add exactly two fluffy white long-tailed-tit bird hair ornaments, one perched beside each twin’s head, with tiny black eyes and soft black-and-white feather markings. Surround them with exactly nine visible translucent soap bubbles with rainbow iridescence, distributed across foreground, midground, and sky. The background is a realistic anime resort landscape: a paved garden walkway, vivid green lawns, shrubs, white-barked trees, mountain slopes, blue sky with soft clouds, a chalet-style building and patio umbrellas on the right, exactly two tall greenish condominium towers in the left background, and one dark rectangular high-rise tower in the right background. On the left foreground place a black resort sign reading {argument name=\"sign text\" default=\"TOMAMU HOKKAIDO 星野リゾート\"}. Use soft summer daylight, sparkling highlights, pastel blue-white color grading, delicate linework, dreamy iridescent effects, shallow depth of field, and a polished Japanese AI-art aesthetic. Overall mood: {argument name=\"mood\" default=\"whimsical, fresh, luxurious resort fantasy\"}.",
+    "title": "Twin Soap Bubble Birds at Tomamu",
+    "description": "Generates a dreamy anime resort scene with twin silver-haired girls, bird ornaments, bubbles, and Tomamu-style mountain condominiums.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440766654_tvo6i0_HIz97JuaoAALEkn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21838,
+    "content": "Create a high-quality “chibi sticker diary portrait” based on the uploaded real-life photo. Preserve the subject’s original identity, realistic facial structure, hairstyle, hair color, glasses, outfit, pose, proportions, lighting, and background. Keep the main subject photorealistic and do not transform the entire image into a full illustration.\n\nAnalyze the scene as a {argument name=\"aesthetic\" default=\"cozy daily lifestyle / casual fashion moment with a clean Korean scrapbook aesthetic\"}. Add {argument name=\"chibi count\" default=\"6–8\"} miniature chibi clones of the same person around the main subject. Each chibi should closely resemble the real person with the same hairstyle, glasses, outfit colors, and overall appearance.\n\nDesign all chibi clones in a polished kawaii sticker style:\n\noversized head, small body\nexpressive eyes and soft facial expressions\nsmooth digital shading\nclean white sticker outlines\nsoft drop shadows\nslightly floating sticker placement\n\nGive each chibi a unique pose and emotion inspired by everyday lifestyle moments:\n\nwaving hello\npeace sign pose\nholding coffee\ncasual walking\nshy smile\nsitting relaxed\ncheerful greeting\nthoughtful/calm mood\n\nArrange the stickers around the edges of the composition without blocking the main subject’s face or body. Maintain balanced spacing and a clean {argument name=\"background\" default=\"vertical layout similar to a social media diary collage\"}.\n\nAdd soft hand-drawn doodles and scrapbook elements throughout the image:\n\nhearts\nsparkles\narrows\nmotion lines\nstars\nspeech bubbles\ntiny circles\n\nUse mostly white doodles with subtle pastel pink and pastel blue accents.\n\nInclude 5–8 short handwritten-style Korean diary phrases scattered naturally around the image.\n\nTypography should feel hand-drawn, soft, playful, and aesthetic with small decorative underlines and doodle accents.\n\nComposition:\n\nfull-body central subject remains the primary focus\nchibi stickers surround the subject harmoniously\nmaintain a clean beige/light neutral background\noverall style should feel premium, cozy, polished, and highly shareable like a Korean lifestyle Instagram diary post or sticker scrapbook photo.",
+    "title": "Korean Chibi Sticker Diary",
+    "description": "A creative prompt that turns a reference photo into a scrapbook-style collage featuring multiple kawaii chibi versions of the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440697194_weiaya_HIz8ZyLaIAA1zPH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21949,
+    "content": "Goal: Create a clean anime fashion lineup sheet featuring one tall slim young woman shown in exactly 5 full-body winter streetwear outfit variations, standing side by side on a plain white background. The character has {argument name=\"hair color\" default=\"long orange hair\"}, pale skin, a slim model-like build, and softly blurred/featureless faces with no detailed facial features. Use delicate Japanese anime illustration linework, high-detail clothing folds, layered fabrics, realistic accessories, and a polished character-design-sheet look.\n\nCanvas: Landscape 4:3 composition, full-body figures visible from head to shoes, evenly spaced across the width, no background props, no text, no logos, no watermark.\n\nSubject details: The same character appears 5 times with consistent height, body proportions, and hair color, but each pose and hairstyle is slightly different. Count and depict exactly 5 outfit variants:\n\n1. Left outfit: Long orange hair in a loose side ponytail, cropped light gray bomber jacket over a dark navy ribbed turtleneck sweater, dark high-waisted cargo pants with belts and straps, chunky gray sneakers, small gray crossbody bag, one hand raised near the collar, casual confident stance.\n\n2. Second outfit: Orange hair in a loose side braid, oversized off-white cable-knit one-shoulder sweater over a pale blue-gray turtleneck, charcoal wide cropped trousers with dangling belt strap, black ankle boots with cream fur cuffs, relaxed elegant winter look.\n\n3. Center outfit: High orange ponytail blowing to the side, bright cobalt blue cropped puffer cape/jacket over a neon yellow fitted long-sleeve top, high-waisted deep plum wide culotte skirt or cropped pants, black leggings, patterned navy-and-white socks, chunky white sneakers, fluffy white crossbody bag, playful mid-step pose with one foot lifted.\n\n4. Fourth outfit: Long straight orange hair, black layered avant-garde coat over a quilted black vest and black shirt, white high-neck inner layer, long asymmetrical pleated black skirt, gray tights, black platform lace-up shoes, carrying a small black handbag, calm upright pose, gothic minimalist fashion.\n\n5. Right outfit: Orange hair in small twin buns with long loose strands, pale blue-green turtleneck sweater, white and light gray technical hooded jacket with pockets, gray belted shorts or mini skirt over black leggings, mint leg warmers, white chunky sneakers, small gray utility pouch, one leg bent upward in a lively pose.\n\nVisual style: High-resolution anime concept art, crisp clean outlines, subtle watercolor-like shading, fashionable Japanese idol/streetwear design, detailed textiles such as knit, puffer nylon, quilting, pleats, straps, belts, bags, socks, and sneakers. Keep the palette wintery with accents of navy, cream, cobalt blue, neon yellow, black, gray, mint, and plum.\n\nConstraints: Exactly 5 full-body figures, all the same character, no extra people, no captions, no background scene, no cropped feet, no visible facial details, no photorealism, no chibi proportions.",
+    "title": "Anime Winter Fashion Lineup",
+    "description": "Generates a five-look anime character fashion design sheet for winter streetwear outfit exploration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440755619_0w0p8q_HIzzhZPaUAA1_Y0.jpg",
+      "https://cms-assets.youmind.com/media/1779440755779_v5acuu_HIzzhZSa4AAyURP.jpg",
+      "https://cms-assets.youmind.com/media/1779440755575_rtz8ld_HIzzhZRagAILAQ8.jpg",
+      "https://cms-assets.youmind.com/media/1779440756508_wqm81v_HIzzhZVawAALgnP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21860,
+    "content": "A precise line art illustration portrait in the distinctive {argument name=\"style\" default=\"Miki style\"}, with clean, defined dark contours and minimal, subtle watercolor wash coloring. Subject: A {argument name=\"subject\" default=\"gender-neutral\"} single person with natural medium-length dark hair, wearing round wire-rimmed glasses and a simple dark blue-gray knit sweater, in a clean, soft profile view (facing either left or right). They hold a large bouquet of soft {argument name=\"flowers\" default=\"pink and white flowers (roses and small wildflowers)\"} as seen in image_3/4, with one hand visible. Background: A minimalist background with a smooth, matte finish of a single color tone (e.g., warm beige or pale mint, as requested), with a very subtle, almost unnoticeable, watercolor paper texture. Lighting & Color: Soft diffused natural daylight from the upper-left, illuminating the subject's face gently. A pastel color palette with warm beige/mint tones. Composition: Profile chest-up bust shot portrait, composed cleanly, with a calm, nostalgic atmosphere.",
+    "title": "Miki Style Line Art Portrait",
+    "description": "A precise, nostalgic line art illustration with subtle watercolor tones, featuring a gender-neutral subject with a bouquet of flowers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440707281_4qe168_HIzyvbnbEAAiHk8.jpg",
+      "https://cms-assets.youmind.com/media/1779440707275_y5eid1_HIzyvbPakAATYec.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21955,
+    "content": "Using REFERENCE_0 as the character base, transform the transparent/background-free anime illustration into an anime-character-in-real-life composite.\n\nGoal: Keep the same blue angelic streetwear character design, but regenerate her as a full-body front-facing anime girl sitting on the pavement in a realistic busy city street, as if she has appeared in the real world.\n\nPose and character change: Change the side-profile bust view into a seated pose on the ground, facing the camera, with one knee raised and the other leg folded outward. Add oversized blue-and-white platform boots, visible legs, long ribbon straps trailing to the side, and a small white plush accessory held near the raised knee. Add a thin white halo above her head while preserving the overall angelic blue motif from the reference.\n\nNew environment: Place her in a photorealistic Japanese urban shopping district resembling {argument name=\"city location\" default=\"Shibuya, Tokyo\"}, shot from a low street-level perspective on sunlit brick pavement. Include tall glass buildings, storefront signage, billboards, and a visible large store sign reading {argument name=\"store sign text\" default=\"TSUTAYA\"}. Use realistic daylight, lens depth, and street photography lighting.\n\nReal-world interaction: Surround the anime character with exactly {argument name=\"number of pedestrians\" default=\"10\"} real photorealistic pedestrians forming a loose circle around her. Some should hold smartphones and appear to be photographing or staring at her. Keep their faces blurred or obscured for privacy, while their bodies, clothing, phones, and shadows remain realistic.\n\nStyle: The character remains crisp 2D anime with clean line art and cel shading, while the background and people are photorealistic. Match lighting direction, shadows, and ground contact so the anime character feels physically present in the real scene. Use a vertical {argument name=\"aspect ratio\" default=\"3:4\"} composition with the character centered and slightly low in frame.\n\nConstraints: Do not redraw her as a realistic person; preserve the anime look. Do not add captions, watermarks, or UI. Keep the composite convincing, with realistic scale, contact shadows, and crowd perspective.",
+    "title": "Anime Character in Real Tokyo Street",
+    "description": "Transforms a reference anime character into a mixed anime-and-photoreal street scene with crowds reacting around her.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440759265_vpoccp_HIzl0-VbAAA4gKw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21954,
+    "content": "Using the provided reference image as the character base, place the same anime character into a photorealistic outdoor rooftop/parking-deck environment. Keep the character’s pose, outfit, hairstyle, accessories, colors, and cel-shaded anime rendering intact, but integrate them naturally into a real-world scene with realistic daylight, perspective, and atmospheric lighting.\n\nAdd a real human hand in the foreground, reaching toward the character from the lower left, slightly motion-blurred and out of focus, as if someone is about to touch or stop her. The hand should visibly overlap the scene in front of the character without changing her design.\n\nBackground: replace the plain background with a realistic rooftop concrete surface, railings, distant city skyline, and blue sky with scattered clouds. Use shallow depth of field so the hand is foreground-blurred and the distant buildings are softly blurred, while the anime character remains the main sharp subject.\n\nStyle constraints: preserve the 2D anime character look against a live-action photographic background, creating a convincing anime-plus-real-photo image-to-image composite. Do not redesign the character, do not add extra characters, and do not add text or watermarks.",
+    "title": "Anime Character in Real Rooftop Scene",
+    "description": "Transforms a transparent-background anime character into a mixed anime-and-photoreal rooftop scene with a realistic reaching hand for image-to-image compositing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440758246_wgvaeq_HIzlgr7b0AAMne7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21961,
+    "content": "Create a vertical 2:3 anime-style fantasy illustration of a young Japanese woman named {argument name=\"character name\" default=\"Aoi\"} standing full-body on a steep stone stairway lined with blooming blue hydrangeas. She wears an ornate dark navy and black short kimono-inspired outfit with wide flowing sleeves, gold embroidery, blue floral appliqués, layered lace trim, a red-and-gold obi belt with dangling tassels, blue ribbons, black thigh-high stockings with gold patterns, and decorative geta sandals. Her dark hair is styled with large black-and-blue bow ornaments and blue flower hair accessories; keep her face softly beautiful and unobscured. She poses gracefully with one hand slightly raised, looking toward the viewer. The scene is a sparkling coastal hillside town at golden-blue twilight, overlooking a bright bay, distant mountains, rooftops, utility poles, and shimmering water. Surround her with luminous blue petals, tiny glowing orbs, drifting white feathers, sun rays from the upper left, and magical bokeh highlights. On the right side, include a small dark sign beside a metal railing with the Japanese text {argument name=\"sign text\" default=\"小筑紫\"}. Use a highly detailed polished anime illustration style, photorealistic lighting adapted into painterly fantasy art, rich sapphire and indigo color palette, intricate fabric detail, cinematic depth, radiant rim light, and dreamy romantic atmosphere. No watermark, no blurred face, no extra characters, no modern UI elements.",
+    "title": "Blue Hydrangea Kimono Fantasy",
+    "description": "Generates a detailed anime fantasy portrait of a kimono-clad girl on hydrangea-lined seaside stairs at twilight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440762253_1bu7tg_HIzkdzUacAAjoXi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21711,
     "content": "Create a vertical cyberpunk watercolor illustration of one young woman seen from behind on a high rooftop balcony, overlooking a vast rainy futuristic city at night. The mood is soft and welcoming despite the dystopian setting, with luminous neon magenta, cyan, violet, and deep indigo washes, visible watercolor paper texture, ink-like edges, rain streaks, splatters, and glowing reflections. The woman has extremely long windblown {argument name=\"hair color\" default=\"hot pink hair with cyan-blue underside streaks\"}, a bare shoulder, dangling earrings, and a glossy black off-shoulder tech jacket covered in neon circuitry; her transparent iridescent skirt and straps glow with blue-pink light. Add exactly one visible flying drone or hovercraft in the sky. The skyline is dense with countless skyscrapers, holographic screens, vertical neon signs, and wet rooftops; include exactly three prominent readable Japanese text elements: 「未来都市」 on the largest magenta tower billboard, 「ホテル」 on a smaller right-side sign, and 「未来」 on the woman’s sleeve. Include exactly two opaque privacy/censor blocks as part of the composition: one dark plum square covering the woman’s face area, and one pink vertical rectangle covering the center of the giant billboard on the right. Use {argument name=\"art style\" default=\"delicate watercolor cyberpunk anime concept art\"}, dramatic back lighting, high detail, romantic rain, no photorealism, no clean vector look, no extra characters, and no watermark.",
     "title": "Watercolor Cyberpunk Rooftop Girl",
@@ -85,11 +442,11 @@
   },
   {
     "id": 21681,
-    "content": "Convert the photo into a {argument name=\"illustration style\" default=\"refined minimalist hand-drawn children's illustration\"} with a soft fairytale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal detail, and a cute doll-like character style with rosy cheeks and tiny facial features. Add subtle paper textures, soft pencil and pastel shading, watercolor softness, and a {argument name=\"background\" default=\"clean white background with small stars or sparkles\"}. Clothing follows a playful storybook style with simplified shapes and gentle decorative details. The overall vibe should feel {argument name=\"atmosphere\" default=\"airy, cozy, innocent, and charming\"}, like a modern Scandinavian nursery postcard or children's book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and super details.",
-    "title": "Scandinavian Minimalist Child Illustration",
-    "description": "Converts photos into delicate, hand-drawn children's illustrations with a storybook aesthetic.",
+    "content": "Convert the photo into a delicate {argument name=\"illustration style\" default=\"minimalist hand-drawn children's illustration\"} with a soft fairytale aesthetic. Use simple elongated shapes, thin imperfect hand-drawn lines, flat pastel colors, minimal detail, and a cute doll-like character style with rosy cheeks, tiny facial features, and simplified anatomy. Add a subtle {argument name=\"surface texture\" default=\"paper texture\"}, soft pencil and pastel shading, watercolor softness, and a clean white background with small stars or sparkles. The clothing uses a playful storybook style with simplified shapes and gentle decorative details. The overall vibe should feel airy, cozy, innocent, and charming, like a modern Scandinavian nursery postcard or children's book illustration. Avoid photorealism, 3D, cinematic lighting, glossy surfaces, complex shadows, realistic anatomy, and hyper-detail.",
+    "title": "Minimalist Hand-Drawn Childrens Illustration",
+    "description": "Transforms photos into delicate, minimalist hand-drawn illustrations for children, featuring a soft fairytale aesthetic with Scandinavian nursery style elements.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1779354354606_5fbzd6_HIwuHJAakAE68LC.jpg"
+      "https://cms-assets.youmind.com/media/1779440717488_aal1j3_HIwuHJAakAE68LC.jpg"
     ],
     "needReferenceImages": true
   },
@@ -112,6 +469,16 @@
       "https://cms-assets.youmind.com/media/1779354338632_yf6rc1_HIwjR36acAAWpi0.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 21667,
+    "content": "Generate an illustration of \"me\" as you imagine it. Features include a {argument name=\"style\" default=\"Japanese illustration style\"}, distinct character features, natural emotional expressions, a {argument name=\"composition\" default=\"half-body composition\"}, dynamic poses, exquisite clothing details, a {argument name=\"texture\" default=\"hand-drawn grafﬁti style\"}, ink splatter strokes, free-ﬂowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.",
+    "title": "Japanese Ink Splatter Illustration",
+    "description": "Generates a stylized Japanese illustration with hand-drawn graffiti elements, ink splatters, and a minimalist aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440696581_08yma7_HIwhtgia8AALztx.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 21739,

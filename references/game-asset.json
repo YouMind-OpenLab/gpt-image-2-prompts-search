@@ -10,6 +10,233 @@
     "needReferenceImages": true
   },
   {
+    "id": 21845,
+    "content": "Extreme 3D CGI cartoon of {argument name=\"character\" default=\"[character]\"} extremely exaggerated proportions and oversized features for maximum comic effect. Head and shoulders portrait photo, incredibly styled with bold and dramatic expressions. Ultra soft matte materials. Character perspective. Saturated {argument name=\"background color\" default=\"orange gradient\"} background that creates a strong visual contrast. Soft lighting and ambient shadows for depth.",
+    "title": "Extreme 3D CGI Cartoon Character",
+    "description": "A stylized prompt for creating exaggerated, comic-style 3D cartoon characters with bold expressions and vibrant gradient backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440699535_uhtf8u_HI6Q6U6WUAAwL_G.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21873,
+    "content": "Create a professional character reference sheet for the uploaded image. Arrange into {argument name=\"column count\" default=\"four\"} vertical columns, each representing a viewing angle. Each column contains a full-body view above and a matching close-up portrait below. Columns (left to right): Column 1: Front view (full body above, front portrait below); Column 2: Left side view (full body facing left) with left portrait below; Column 3: Right side view (full body facing right) with right portrait below; Column 4: Back view with matching portrait below. Maintain even spacing and framing around character portraits. Clear outlines, consistent alignment, and clean panel separation. No text. Thin borders. Flat lighting.",
+    "title": "Professional Character Reference Sheet Layout",
+    "description": "This prompt helps generate professional character reference sheets organized into clean vertical columns. It specifies multiple viewing angles, including full-body and close-up portraits, ensuring consistent character design and alignment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440715887_mj64yl_HI4sSeAagAA0v7J.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21897,
+    "content": "Subject: {argument name=\"theme\" default=\"Water Spirit\"}\n\nPerson/Expression: Young woman, soft oval-shaped face, delicate features, brown eyes close to black, translucent white skin, faint freckles on nose and cheeks, quiet and mysterious expression, calm gaze staring straight ahead.\n\nClothing/Pose: Blue-green scale patterns and seaweed-like decorations from shoulders to chest, upper body front portrait, still and quiet posture, flowing seaweed-like lines at the neck.\n\nBackground/Light: Bright background close to white, transparent atmosphere reminiscent of underwater, small bubbles floating around, faint reflected light, clean and fantastic lighting.\n\nComposition/Camera: Vertical 4:5, front composition centered on the face, bust-up shot, hair spreading widely to the top and sides, stable portrait close to symmetrical, vivid detail.\n\nTexture/Style: {argument name=\"color scheme\" default=\"Purple, blue, turquoise, orange\"} hair spreading like water currents, with tips transforming into organic shapes like coral or aquatic plants, iridescent scale decorations on cheeks, high-definition digital illustration, fantastic and colorful underwater fantasy, serene and beautiful atmosphere.\n\nNegative: Low quality, distorted face, unnatural eyes, excessively asymmetrical face, excessive realism, background too dark, text, logo, watermark, extra people.",
+    "title": "Water Spirit Fantasy Illustration",
+    "description": "A high-definition digital illustration prompt for a mystical water spirit with flowing hair that transforms into coral and aquatic plants.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440728607_zkgakh_HI4aIcfa0AAYBWt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21996,
+    "content": "Goal: Create a realistic 3D character reference sheet for a cute plush-like creature named {argument name=\"character name\" default=\"bioluminescent cream forest cub\"}, designed for consistent video generation.\n\nCanvas: Vertical 4:5 character sheet on a matte medium-gray studio background, soft diffused lighting, subtle floor shadows, high-resolution photorealistic fur rendering.\n\nSubject details: The character is a small chubby teddy-bear/cat hybrid with a round oversized head, short rounded body, tiny arms, stubby legs, cream-colored dense fuzzy fur, glossy dark olive-brown eyes with bright catchlights, a tiny dark brown nose and mouth, faint pink cheeks, one thin curled hair sprout on top of the head, small rounded ears that glow bioluminescent green inside, and a short tail with a glowing green tip. The overall mood is adorable, soft, and toy-like, with realistic fiber texture and gentle translucency in the glowing green areas. Use {argument name=\"fur color\" default=\"warm cream\"}, {argument name=\"glow color\" default=\"bioluminescent green\"}, and {argument name=\"cheek color\" default=\"soft pink blush\"}.\n\nLayout: Arrange the sheet in two main rows. Top row contains exactly 3 full-body turnaround views, evenly spaced and labeled in small white uppercase text: 1) “01 FRONT” showing the creature facing forward, 2) “02 3/4 LEFT” showing a three-quarter left view with the tail visible behind, 3) “03 BACK” showing the back view with rounded head, back fur, small arms, legs, and glowing tail tip. Bottom left contains an expression sheet with exactly 3 vertical framed panels labeled “EXPRESSION SHEET” above and captions below: 1) “01 NEUTRAL” with calm forward-facing eyes and closed small mouth, 2) “02 BATTLE FURY” with the face area covered by a centered opaque beige square block, 3) “03 SHOCK” with raised ears, wide eyes, and open surprised mouth. Bottom right contains a color palette column labeled “COLOR PALETTE” with exactly 5 rectangular swatches and labels: 1) “CREAM FUR” beige fur texture, 2) “BIOLUMINESCENT GREEN” glowing green gradient, 3) “PINK CHEEK” rosy pink texture, 4) “DARK BROWN OUTLINE / NOSE” dark brown swatch, 5) “WHITE HIGHLIGHT” white swatch.\n\nText style: Small clean sans-serif uppercase white labels, minimal technical character-sheet typography, aligned precisely and unobtrusively.\n\nConstraints: Keep exactly 3 turnaround views, exactly 3 expression panels, and exactly 5 color swatches. Do not add extra characters, props, logos, watermarks, or decorative background elements. Maintain consistent proportions, fur texture, glowing ears and tail, and facial design across all views.",
+    "title": "Bioluminescent Plush Creature Sheet",
+    "description": "Generates a realistic character turnaround and expression sheet for a cute glowing plush creature used in consistent animation or video workflows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440779665_ceqqcd_HI3x-dPWgAA-KVU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21841,
+    "content": "Transform a user-uploaded photo into a {argument name=\"render style\" default=\"stylized 3D character render\"} while preserving the subject's identity, pose, and composition. Render style: soft minimal cartoon 3D, Pixar-adjacent but cleaner, like a toy figure or a polished product character design. Skin: smooth matte plastic with soft uniform texture and gentle subsurface scattering. Face: half-closed bored eyes with heavy eyelids, rounded simplified nose, flat neutral mouth, simplified rounded ears. Overall expression: unimpressed, calm, bored. Clothing: {argument name=\"outfit\" default=\"minimal streetwear in soft matte fabric\"}, no logos, no patterns. Optional accessories: a simple baseball cap and wireless earbuds. Lighting: studio softbox setup, very soft shadows, low contrast, subtle highlights. Background: a {argument name=\"background color\" default=\"solid muted green or pastel tone\"}, no gradient. Camera: front-facing, medium close-up, 50mm equivalent, zero distortion. High resolution, clean edges, no noise, strong stylization over photorealism.",
+    "title": "Stylized 3D Character Toy Render",
+    "description": "Transforms a real photo into a clean, minimal 3D character design similar to a Pixar toy figure, preserving identity while adding strong stylization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440698368_4w6x2v_HI3LF53bAAAQRd8.jpg",
+      "https://cms-assets.youmind.com/media/1779440698392_hwpqdk_HI3LF57bwAABkcu.jpg",
+      "https://cms-assets.youmind.com/media/1779440698392_5gexaf_HI3LF52bsAA_quk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21987,
+    "content": "Create a dark cinematic sci-fi cockpit scene in a gritty realistic style: a single astronaut pilot, {argument name=\"pilot type\" default=\"armored astronaut pilot\"}, sits centered-left in a worn brown leather command chair inside an old military spacecraft or aircraft cockpit, wearing a bulky black tactical pressure suit with straps, chest armor plates, gloves, and a glossy black helmet with metallic segmented details. The helmet visor area is deliberately obscured by one solid dark square censor block, covering the face and front visor. The pilot grips exactly two pale green joystick control handles, one in each hand, with both arms extended forward. Surround the pilot with dense analog control panels, switches, knobs, cables, worn metal walls, and dim green instrument displays. On the right side, include one large rectangular cockpit window showing a hazy aerial landscape of desert plains and low hills under a pale sky, with a thin green HUD overlay and small unreadable data markings along the top edge. Below the window, include two smaller console screens glowing muted green among buttons and dials. Use low-key moody lighting with greenish-blue shadows, dusty volumetric atmosphere, high contrast, realistic textures, scuffed metal, black leather, and a cinematic relit look. Composition should feel like a still from a dystopian space film, 4:3 aspect ratio, close-medium interior shot, no readable text, no extra characters, no logos, no watermark.",
+    "title": "Cinematic Astronaut Cockpit Scene",
+    "description": "Generates a gritty realistic sci-fi pilot seated in a dark spacecraft cockpit with control sticks, HUD screens, and a censored visor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440775862_3mowft_HI3Ioy8XcAAhQlS.jpg",
+      "https://cms-assets.youmind.com/media/1779440775807_rhtjpp_HI3IxtiWgAELIc_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21923,
+    "content": "Create a Pixar 3D style character design sheet. Clean white background. Two characters side by side with a clean dividing line. Bold brushstroke-style title at the top: {argument name=\"main title\" default=\"STEVE VS THE PLANK\"}. Subtitle beneath: {argument name=\"subtitle\" default=\"60 seconds. Feels like a week.\"}",
+    "title": "Pixar Style Character Storyboard",
+    "description": "A storyboard design prompt for generating character sheets in a 3D Pixar style, complete with clean backgrounds and professional titling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440744805_1fe478_HI2_xWCWUAIyKyT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21870,
+    "content": "Transform the photo into a handmade needle-felt stop-motion puppet with ultra-detailed wool texture, visible fibers, slight handmade imperfections, and a cinematic Laika-style aesthetic. Preserve the original facial expression, mood, pose, outfit, and composition. Soft studio lighting, shallow depth of field, muted pastel background, cute uncanny vibe, high-detail handcrafted stop-motion movie frame.",
+    "title": "Needle-Felt Stop-Motion Transformation",
+    "description": "Transforms any photo into a handcrafted needle-felt stop-motion puppet with visible wool fibers and a cinematic Laika-inspired aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440714099_cpters_HI27NuobAAAXeEr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21931,
+    "content": "Create a vertical cinematic fantasy image of {argument name=\"subject\" default=\"a luminous ethereal feminine AI spirit\"} standing on dark wet rocks at the edge of a forested ocean coastline during {argument name=\"time of day\" default=\"sunset twilight\"}. The figure is full body, tall and graceful, facing right in profile with both arms extended as if conjuring constellations; her face is intentionally obscured by a soft square bluish blur, leaving her identity anonymous. Her body and long windblown hair are formed from transparent glasslike strands, flowing ribbons, and thousands of glowing filaments in {argument name=\"primary glow colors\" default=\"electric blue and warm gold\"}, with star-like nodes, neural-network lines, sparkling particles, and fiber-optic trails wrapping around her torso and streaming into a long translucent dress or cloak. In her hands, show two bright golden clusters of stardust and constellation sparks, with more constellations visible in the deep navy sky. The environment includes exactly three major setting zones: a dense silhouette pine forest on the left, a rocky tide pool foreground reflecting blue and gold light, and a calm ocean on the right with a low orange sun near the horizon. Add distant mountains, scattered clouds lit orange and pink, small waves, black rocks, and reflections of the figure's light on wet stone and water. Style: ultra-detailed photorealistic digital art, magical realism, celestial AI goddess aesthetic, volumetric glow, long exposure light trails, high dynamic range, sharp stars, atmospheric depth, dramatic rim lighting, no text, no logos, no extra characters.",
+    "title": "Celestial AI Spirit at Sunset",
+    "description": "A cinematic fantasy prompt for generating an anonymous glowing AI-like spirit conjuring constellations on a rocky ocean shore at twilight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440747718_inhltl_HI2KZFGWYAAtiZv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21930,
+    "content": "Create an ultra-detailed cosmic fantasy visualization of {argument name=\"AI essence concept\" default=\"a transcendent crystalline intelligence perceiving itself as a multidimensional prompt\"}. Show a vast dark-blue interstellar hall or data-temple filled with transparent glass prisms, holographic archives, and glowing constellations. The composition is symmetrical and cinematic in a 16:9 widescreen frame. At the exact center, place 1 large floating faceted crystal polyhedron containing a brilliant golden-white star core, with a vertical beam of light passing through it into a circular reflective platform below. Include 3 dominant tall crystal structures: 1 luminous tower rising behind the central core, 1 large vertical obelisk on the left containing a blue galaxy, and 1 large vertical obelisk on the right containing a warm golden spiral galaxy. Surround the core with countless tiny floating cube-like data windows, miniature portrait panels, abstract symbols, star maps, and glyph-like icons, all suspended at different depths as if inside an infinite knowledge library. Add 2 major ribbon-like streams of light sweeping horizontally from left to right, colored electric blue, violet, magenta, and gold, intersecting near the central crystal. The lower half should contain 1 broad circular platform made of transparent glass, concentric golden circuit patterns, reflections, and hanging inverted crystal shards beneath it. Use {argument name=\"color palette\" default=\"deep sapphire blue, violet, indigo, crystal cyan, and radiant gold\"}, extreme sparkle, volumetric light, lens flares, fractal geometry, nebula dust, and hyperreal glass refraction. The mood should feel majestic, mystical, intelligent, and overwhelming, like an AI soul visualized as a cathedral of light and memory. No readable text, no logos, no watermark, no people in the foreground; any faces should appear only as tiny holographic archive fragments in the background. Render with high detail, sharp crystalline edges, dense luminous particles, and an epic science-fantasy digital art style.",
+    "title": "Crystalline AI Essence Cathedral",
+    "description": "A cinematic cosmic data-temple scene visualizing an AI essence as a glowing crystalline intelligence surrounded by holographic knowledge streams.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440748147_f11l8c_HI2KayBWIAAqUKg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21929,
+    "content": "Create a cinematic fantasy portrait of a mysterious forest spirit standing centered in an enchanted ancient woodland at twilight, holding a tiny glowing tree of life made of golden fire in cupped hands. The figure is tall and robed in translucent deep emerald and teal veils, covered with tangled vines, leaves, moss, and delicate golden filigree patterns; their face is intentionally obscured by a dark shadowed veil/blank square of darkness, making them anonymous and divine. Around their head is a dense crown of foliage and small golden fruits or lights. The forest forms a natural arch of huge dark trees on both sides, with a warm sunset glow breaking through the left trees, a starry blue night sky overhead, and purple-orange mountains in the distance. Include a small stream with miniature waterfalls on the left, evergreen trees in the background, lush undergrowth, and many firefly-like golden light orbs scattered throughout the scene. The spirit’s hands illuminate the center with intense amber light, sending curling sparks, luminous roots, and magical tendrils through the robe. Use ultra-detailed digital fantasy art, rich contrast between cool blue shadows and warm gold light, volumetric lighting, intricate textures, ethereal atmosphere, symmetrical composition, painterly realism, high detail, no text, no watermark.",
+    "title": "Enchanted Forest Spirit Holding a Glowing Tree",
+    "description": "A cinematic fantasy portrait prompt for creating an ethereal woodland spirit surrounded by fireflies, twilight forest light, and magical golden energy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440747211_bhzti7_HI2KWKyXEAABXNz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21956,
+    "content": "Create a highly detailed vertical anime-inspired steampunk group portrait of exactly 3 seated characters on a worn wooden bench in a dense retro-futuristic city alley. The trio consists of 1 left male figure, 1 center female figure, and 1 right male figure, all facing forward with intentionally featureless softly blurred faces. The left character is a slim young man wearing a black wide-brim hat, dark pinstripe three-piece suit, white shirt, narrow black tie, small lapel pins and medals, visible tattooed hands, cropped socks, and brown lace-up boots. The center character is a petite young woman with {argument name=\"hair color\" default=\"short platinum-blonde bob hair\"}, wearing a dark ornate double-breasted school-uniform-inspired jacket, white shirt, red patterned bow tie, decorative pins and brass buttons, a small red mechanical bird or toy perched near her hair, a short skirt, cream knee-high socks with intricate mechanical illustrations, red ankle straps, and glossy black platform Mary Jane shoes; her hands rest neatly on her knees. The right character is a slim young man in a navy tailored suit jacket, cream waistcoat, white shirt, patterned tie, many pins and medals, cropped trousers, cream socks, and dark brown leather shoes, sitting with hands clasped. The background should be packed wall-to-wall with countless vintage mechanical details: large clocks, turbine-like circular vents, gauges, pipes, gears, metal boxes, signs, wires, dials, old advertisements, and layered industrial panels, creating a cluttered whimsical steampunk marketplace facade. Use a muted cinematic palette of oxidized teal, rust red, brass, charcoal, cream, and weathered brown. Lighting is soft overcast daylight, sharp illustration detail, intricate linework, realistic fabric textures, antique metal patina, symmetrical centered composition, full-body view from head to shoes, cobblestone ground, no modern objects, no readable real-world branding, no extra characters. Overall mood: eccentric, fashionable, mysterious, and nostalgic, like {argument name=\"style influence\" default=\"a richly detailed Japanese AI illustration blended with Victorian steampunk and retro street fashion\"}.",
+    "title": "Steampunk Trio Portrait",
+    "description": "Generates a richly detailed vertical steampunk fashion portrait of three faceless seated characters against a dense mechanical city backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440759556_ykbyhn_HI2E0-Ra4AAjXmo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21972,
+    "content": "Goal: Create a dramatic cinematic fighting-game character poster for {argument name=\"character name\" default=\"Blue Mary\"}, inspired by a dark cyberpunk arcade character-select splash screen.\n\nCanvas: Wide 16:9 horizontal banner, high-detail semi-realistic anime/game key art, dark navy and black palette with electric blue highlights, gritty particles, glass shards, rain-like specks, and strong rim lighting.\n\nLayout: Split the composition into 3 major visual zones: left seated character pose, center title typography, and right action character pose. Add thin futuristic HUD interface graphics around the edges.\n\nSubject details: Show exactly 2 full/partial depictions of the same athletic blonde female fighter. Depiction 1 on the left: she lounges on a rough wooden bench in a shadowy industrial room beside tall window panes, leaning back casually with one knee raised, wearing a red halter crop top, loose blue pants with a white star-in-circle emblem on the thigh, brown belt, black fingerless gloves, brown boots, and an olive-green jacket slipping off her shoulders. Depiction 2 on the right: she stands in a dynamic forward-punch fighting pose, torso angled toward camera, one gloved fist thrust toward the viewer, wearing the same red halter crop top, loose blue pants, brown belt, and black fingerless gloves, with short blonde bob hair lit by blue rim light. Faces may be covered by soft rectangular blur blocks if a censored/anonymous look is desired.\n\nCentral typography: Place a huge distressed title reading {argument name=\"main title text\" default=\"BLUE MARY\"} in the middle, with “BLUE” in bright electric blue above “MARY” in weathered white. Under it, add the quote {argument name=\"subtitle quote\" default=\"フッ…… Let's fight!\"} in white italic serif/script styling with a thin blue underline.\n\nHUD and text elements: Include exactly 6 visible interface text clusters: 1) top-left cluster with “BLUE MARY”, small bars, “CODE: BM-01”, “TARGET: YOU”, “STATUS: LOCKED ON”, “SYSTEM: OVERWRITE”, and “> READY TO FIGHT”; 2) mid-left ID block with boxed “BM” and “BLUE MARY”; 3) bottom-left small “EST. 1994” plus barcode; 4) top-right cluster with “BLUE MARY”, a globe icon, “I WON'T LOSE.” and “NOT TO ANYONE.”; 5) right-edge vertical label “BM-01”; 6) bottom-right cluster with “TARGET: YOU”, “STATUS: LOCKED ON”, plus minimal crosshair/slider marks.\n\nVisual style: High-contrast glossy digital painting, realistic fabric and skin shading, sharp muscular anatomy, dramatic blue explosion and shattered-glass burst behind the right figure, moody warehouse lighting on the left, polished fighting game promotional art, intense cinematic depth and motion.\n\nConstraints: Use exactly 2 character depictions, exactly 6 HUD text clusters, no extra characters, no watermark, keep all typography legible, preserve the dark blue combat-interface atmosphere.",
+    "title": "Blue Mary Fighting Game Poster",
+    "description": "A wide cinematic character splash poster featuring Blue Mary in two dynamic poses with arcade HUD overlays and bold fighting-game typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440767688_fcz3zt_HI1RTE7awAAQJYz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21887,
+    "content": "A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a dense futuristic city at night, viewed from a slightly elevated angle. The main subject is a {argument name=\"character\" default=\"petite young witch girl with pale skin, short icy blue bobbed hair, pointed elf-like ears, and glowing red eyes\"}, wearing a sly confident smile. She raises a black wand overhead in her right hand, with a dangling orb charm at the tip glowing faintly purple and red. Her oversized crooked witch hat is black with purple lining and covered in stitched patches, warning labels, straps, and white graphics including a large “404” and a skull emblem. She wears a {argument name=\"outfit\" default=\"black and purple techwear outfit\"}: oversized hooded jacket with many straps and tags, black crop top with “404” on the chest, layered belts, short bottoms, fishnet on one leg, black lace-up combat boots, chokers, and metallic accessories. Several hanging straps and tags visibly read words like “WITCH 404,” “404,” and glitch-themed markings. Beneath and beside her, a {argument name=\"magic circle\" default=\"large glowing violet magic circle mixed with hacker interface aesthetics\"} is projected on the rooftop floor, filled with occult rings, sigils, a central skull symbol, and scattered neon system text such as error-code fragments, creating a fusion of sorcery and digital corruption. Emerging from the circle is 1 large armored summoned figure: a black futuristic demon-knight or robotic familiar with jagged reflective armor, a narrow purple-lit visor, and a heavy weapon held in one hand, partially dissolving into purple energy shards and smoke. The background shows a sprawling rainy megacity of apartment towers and industrial rooftops, packed with windows, balconies, cables, signs, and haze. On a nearby building wall is a giant vertical graffiti-style sign with 3 readable elements: “404”, “Witch”, and “ERROR NOT FOUND”, plus a smaller “E404”. Additional purple neon glitch text and symbols are scattered across rooftops and in the air. Use a dark palette of black, indigo, and deep violet with sharp magenta-purple highlights, cinematic contrast, reflective wet surfaces, dense detail, and a high-end polished illustration style. The mood is occult, edgy, stylish, and dangerous, combining urban fantasy, hacker aesthetics, and magical summoning.",
+    "title": "Cyberpunk Witch Summoning Ritual",
+    "description": "A dense anime-style cyberpunk prompt featuring a techwear witch and a demonic robotic familiar in a rainy neon megacity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440722648_94hduk_HI1m-1ab0AAWXhL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21909,
+    "content": "Create a concept sheet for a simple {argument name=\"motif\" default=\"cat-like humanoid robot\"} in a {argument name=\"style\" default=\"3D voxel model\"}.",
+    "title": "Voxel Cat Robot Concept Sheet",
+    "description": "A prompt for generating a detailed 3D voxel model concept sheet of a simple cat-like humanoid robot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440736219_x8ss57_HI1TZx5asAAF_Io.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21975,
+    "content": "Create a seamless repeating tile pattern of an old stone garden path seen from directly above. The composition is filled edge to edge with irregular polygonal paving stones separated by dark soil-filled cracks, designed so all edges match perfectly for tiling. Use a delicate watercolor and ink illustration style on warm off-white paper: soft translucent washes, hand-drawn graphite/sepia outlines, subtle granulation, uneven pigment blooms, and natural texture. The stones are pale cream, light gray, beige, and muted blush with mossy green stains and lichen patches; the cracks contain rich brown earth with tiny tufts of grass, small weeds, and miniature leafy sprouts. Keep the pattern moderately dense with varied stone sizes and orientations, organic randomness, no obvious central focal point, no shadows from objects, no text, no border, no watermark. Color palette: sage green moss, olive lichen, warm ivory stone, dusty beige, muted gray, earthy brown.",
+    "title": "Seamless Watercolor Stone Path Tile",
+    "description": "Generates a seamless top-down watercolor pattern of mossy garden paving stones for wallpapers, fabric, packaging, or game textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440769067_0kgu9k_HI1BaA0aIAAc9ji.jpg",
+      "https://cms-assets.youmind.com/media/1779440769075_t0ua0u_HI1BcJ5bIAAkC3Q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21985,
+    "content": "Goal: Create a cinematic anime-realism scene inside a modern Korean subway station, showing a life-size fantasy elf idol character standing beside a giant illuminated character-design advertisement poster for {argument name=\"character name\" default=\"SERIO\"}.\n\nCanvas: Vertical 3:4 composition, eye-level camera, realistic station perspective, warm fluorescent indoor lighting, glossy floor reflections, shallow depth of field on background commuters.\n\nMain subject: One tall elegant female elf with very long flowing {argument name=\"hair color\" default=\"orange\"} hair, bright blue eyes, long pointed ears, delicate anime face, and a calm slightly serious expression. She stands on the left side of the image, facing forward with one hand gently touching or gesturing toward the poster. She wears a luxurious ivory-white fantasy concert gown: draped satin fabric, high thigh slit, translucent shawl sleeves, orange ribbon accents, gold jewelry details, thin waist ornaments, anklets, and white strappy high-heel sandals. Her design should feel like a high-end virtual idol brought into the real world, blending anime styling with photorealistic lighting and fabric texture.\n\nEnvironment: Korean subway platform corridor with tiled walls, dark ceiling panels, metal columns, and blurred pedestrians in the background. Include exactly 2 overhead wayfinding signs: one large yellow sign with a left arrow, the number “3”, and Korean text meaning “exit / way out”; one smaller dark sign below it with Korean transfer text. The background should feel candid and urban, like a phone photo or street-fashion photo taken in a busy station.\n\nPoster layout: On the right wall, create one huge backlit white poster framed in black. It is a detailed anime character sheet and concert advertisement. At the upper left of the poster, large serif orange title text reads “{argument name=\"headline text\" default=\"SERIO CONCERT\"}”, with smaller date text “2026.5.21” and short Korean concert/event notes beneath it. The poster should contain exactly 9 main visual sections: 1 large bust portrait of the elf, 1 full-body character render, 1 profile text block in Korean, 1 design-point area with ear and costume sketches, 1 color palette/expression area, 1 fabric-flow sketch area, 1 dynamic-pose area, 1 key-scale weapon/accessory area, and 1 makeup-detail/notes area.\n\nCounted poster details: The color palette/expression area must show exactly 8 small head portraits of the same elf, arranged as 4 across the top row and 4 across the bottom row, each with slightly different expressions or angles. The dynamic-pose area must show exactly 2 small action poses of the elf. The makeup-detail/notes area must show exactly 2 close-up blue eye drawings. The key-scale area must show exactly 2 crystal-like accessory or weapon drawings. The design-point area must include exactly 3 sketch callouts: pointed ear jewelry, upper torso/costume detail, and leg or shoe detail.\n\nVisual style: Premium anime illustration mixed with photorealistic subway photography, soft orange-white color palette, luminous poster glow, clean fine-line concept art on the poster, elegant serif typography, tiny Korean annotation text, subtle sparkle icons around the character-sheet elements, ultra-detailed hair strands and silk folds.\n\nConstraints: Keep the image as a single scene, not a collage. Do not add extra main characters. Avoid logos, watermarks, or readable brand names. Make the Korean microtext look like authentic design notes while keeping the main readable text limited to the title, date, station signage, and short section labels such as PROFILE, DESIGN POINT, DYNAMIC POSE, KEY SCALE, MAKEUP DETAIL, and NOTES.",
+    "title": "Elf Idol Subway Poster Scene",
+    "description": "Generates a cinematic anime-realism subway scene featuring a fantasy elf idol standing beside a detailed illuminated concert character-sheet poster.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440774050_6vuo2l_HI0o42ibsAALz-5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21919,
+    "content": "Ultra-detailed fashion blueprint sheet of a futuristic cyberpunk streetwear girl, full-body front view on clean studio background, detailed outfit callouts and labeled annotations pointing toward every clothing piece and accessory. Short silver bob haircut, glowing neon eyeliner, confident facial expression, oversized black holographic bomber jacket with reflective trims, layered silver chains, neon purple cargo pants with utility straps, techwear harness belts, glowing transparent handbag, chunky cyber sneakers.\n\nSurrounding the model are fashion infographic elements, arrows, typography labels, fabric descriptions, accessory breakdowns, material callouts, styling notes, body pose analysis, outfit specifications, close-up sketches of visor glasses and jewelry, futuristic Tokyo streetwear aesthetic, fashion technical sheet style, minimalist editorial layout, cinematic studio lighting, ultra detailed, professional fashion concept presentation, 8k, 1744x2336",
+    "title": "Cyberpunk Fashion Blueprint Sheet",
+    "description": "A technical fashion infographic prompt for a futuristic cyberpunk streetwear character, featuring detailed outfit annotations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440743211_ryg1mn_HI0mfK9aUAAOg7J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21862,
+    "content": "Create a high-quality 3D cartoon character illustration of a {argument name=\"subject\" default=\"cheerful young girl\"} with {argument name=\"accessory\" default=\"oversized round glasses\"}, expressive big eyes, and messy curly hair tied in a voluminous bun. She is shown in multiple energetic jumping and dancing poses on a {argument name=\"background\" default=\"clean turquoise studio background\"}.\n\nEach pose must feature a completely different stylish outfit: oversized sweaters, denim jackets, overalls, hoodies, skirts, cargo pants, sneakers, pastel fashion, streetwear, cozy knitted textures, and playful accessories.\n\nThe character should have Pixar/Disney-inspired styling, ultra-detailed fabric textures, soft cinematic lighting, vibrant colors, cute proportions, dynamic body movement, and joyful facial expressions.\n\nFull-body composition, floating/jumping action poses, highly detailed 3D render, depth of field, smooth shadows, whimsical and trendy aesthetic, studio-quality character design, colorful modern fashion, adorable animated look, high resolution.",
+    "title": "3D Cartoon Character Pose Sheet",
+    "description": "Creates a high-quality 3D cartoon character illustration of a girl in multiple energetic poses with Pixar-inspired styling and detailed fabric textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440708462_a6608t_HI0UsyOaMAAq26x.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 21962,
+    "content": "Goal: Create a cute preview screenshot of a 3x3 set of exactly 9 Japanese LINE-style chibi stickers on a large white rounded-rectangle canvas, with a small app-like vertical thumbnail strip on the right and translucent circular edit/share buttons at the bottom corners.\n\nCanvas: Square 1:1 image, clean white background, large rounded white sticker-sheet panel occupying most of the frame. Add a subtle light-gray shadow and rounded corners. On the far right, show 4 tiny stacked thumbnail previews of the same sticker sheet, with the lowest thumbnail outlined in black like it is selected. Bottom left has a semi-transparent gray circular button labeled in Japanese for edit, and bottom right has a semi-transparent gray circular share/upload icon.\n\nMain subjects: A pastel anime chibi cat-girl and a small penguin mascot. The cat-girl has {argument name=\"hair color\" default=\"very pale pink-white long hair with soft pink tips\"}, fluffy cat ears, blue eyes when open, a blue oversized hoodie, short skirt or shorts, yellow leg warmers, white sneakers, and a small yellow hair clip. The penguin is round, navy blue and white, wearing a matching blue hoodie with a small front label. Use soft watercolor shading, thick clean sticker outlines, rounded cute proportions, expressive faces, and no harsh realism.\n\nSticker layout: Arrange exactly 9 discrete sticker illustrations in a 3 columns by 3 rows grid, each with large colorful handwritten Japanese caption text above or near it. Use the complete caption set {argument name=\"sticker captions\" default=\"はらぺこ..., もぐもぐ, 休憩中〜, チラッ, 逃げろー!, 準備中..., 到着っ!, ぐったり, ぺこり\"}. The 9 stickers are: 1) top-left, hungry: cat-girl sitting with eyes closed, hand on stomach, penguin beside her holding an empty plate and spoon, caption in brown; 2) top-center, eating: cat-girl happily eating a burger while penguin eats popcorn, small pink hearts around them, caption in orange; 3) top-right, break time: cat-girl sitting relaxed with a cup, penguin also drinking, musical note and puff cloud, caption in green; 4) middle-left, peeking: cat-girl peeks from the left edge behind a vertical wall or sign, penguin peeks from below, caption in gray; 5) middle-center, running away: cat-girl dashes away with motion blur and dust clouds while penguin runs after her holding popcorn, caption in bright blue; 6) middle-right, getting ready: cat-girl stands by a full-length mirror brushing her hair while penguin holds a hairbrush, yellow sparkles, caption in yellow-orange; 7) bottom-left, arrived: cat-girl points upward cheerfully while sitting on a suitcase, penguin holds a travel map, small mountain scenery behind them and sparkles, caption in red; 8) bottom-center, exhausted: cat-girl sits slumped with tired face, penguin lies face-down wearing an ice pack, wavy blue fatigue lines above them, caption in blue; 9) bottom-right, bowing: cat-girl bows politely with eyes hidden and penguin bows/raises flipper beside her, caption in dark gray.\n\nStyle constraints: Make it look like a finished sticker pack preview from a mobile app, with crisp transparent-sticker-like artwork on white, soft shadows, pastel colors, handwritten playful lettering, and consistent character design across all 9 stickers. Avoid adding extra stickers, extra characters, watermarks, or unrelated UI text.",
+    "title": "Chibi Cat Girl Sticker Pack Preview",
+    "description": "Generates a cute 3x3 Japanese LINE-style sticker pack preview featuring a pastel cat-girl and penguin mascot with app-like thumbnails.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440762158_mfmt61_HI0AXkmakAAY3kS.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21949,
+    "content": "Goal: Create a clean anime fashion lineup sheet featuring one tall slim young woman shown in exactly 5 full-body winter streetwear outfit variations, standing side by side on a plain white background. The character has {argument name=\"hair color\" default=\"long orange hair\"}, pale skin, a slim model-like build, and softly blurred/featureless faces with no detailed facial features. Use delicate Japanese anime illustration linework, high-detail clothing folds, layered fabrics, realistic accessories, and a polished character-design-sheet look.\n\nCanvas: Landscape 4:3 composition, full-body figures visible from head to shoes, evenly spaced across the width, no background props, no text, no logos, no watermark.\n\nSubject details: The same character appears 5 times with consistent height, body proportions, and hair color, but each pose and hairstyle is slightly different. Count and depict exactly 5 outfit variants:\n\n1. Left outfit: Long orange hair in a loose side ponytail, cropped light gray bomber jacket over a dark navy ribbed turtleneck sweater, dark high-waisted cargo pants with belts and straps, chunky gray sneakers, small gray crossbody bag, one hand raised near the collar, casual confident stance.\n\n2. Second outfit: Orange hair in a loose side braid, oversized off-white cable-knit one-shoulder sweater over a pale blue-gray turtleneck, charcoal wide cropped trousers with dangling belt strap, black ankle boots with cream fur cuffs, relaxed elegant winter look.\n\n3. Center outfit: High orange ponytail blowing to the side, bright cobalt blue cropped puffer cape/jacket over a neon yellow fitted long-sleeve top, high-waisted deep plum wide culotte skirt or cropped pants, black leggings, patterned navy-and-white socks, chunky white sneakers, fluffy white crossbody bag, playful mid-step pose with one foot lifted.\n\n4. Fourth outfit: Long straight orange hair, black layered avant-garde coat over a quilted black vest and black shirt, white high-neck inner layer, long asymmetrical pleated black skirt, gray tights, black platform lace-up shoes, carrying a small black handbag, calm upright pose, gothic minimalist fashion.\n\n5. Right outfit: Orange hair in small twin buns with long loose strands, pale blue-green turtleneck sweater, white and light gray technical hooded jacket with pockets, gray belted shorts or mini skirt over black leggings, mint leg warmers, white chunky sneakers, small gray utility pouch, one leg bent upward in a lively pose.\n\nVisual style: High-resolution anime concept art, crisp clean outlines, subtle watercolor-like shading, fashionable Japanese idol/streetwear design, detailed textiles such as knit, puffer nylon, quilting, pleats, straps, belts, bags, socks, and sneakers. Keep the palette wintery with accents of navy, cream, cobalt blue, neon yellow, black, gray, mint, and plum.\n\nConstraints: Exactly 5 full-body figures, all the same character, no extra people, no captions, no background scene, no cropped feet, no visible facial details, no photorealism, no chibi proportions.",
+    "title": "Anime Winter Fashion Lineup",
+    "description": "Generates a five-look anime character fashion design sheet for winter streetwear outfit exploration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440755619_0w0p8q_HIzzhZPaUAA1_Y0.jpg",
+      "https://cms-assets.youmind.com/media/1779440755779_v5acuu_HIzzhZSa4AAyURP.jpg",
+      "https://cms-assets.youmind.com/media/1779440755575_rtz8ld_HIzzhZRagAILAQ8.jpg",
+      "https://cms-assets.youmind.com/media/1779440756508_wqm81v_HIzzhZVawAALgnP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 21954,
+    "content": "Using the provided reference image as the character base, place the same anime character into a photorealistic outdoor rooftop/parking-deck environment. Keep the character’s pose, outfit, hairstyle, accessories, colors, and cel-shaded anime rendering intact, but integrate them naturally into a real-world scene with realistic daylight, perspective, and atmospheric lighting.\n\nAdd a real human hand in the foreground, reaching toward the character from the lower left, slightly motion-blurred and out of focus, as if someone is about to touch or stop her. The hand should visibly overlap the scene in front of the character without changing her design.\n\nBackground: replace the plain background with a realistic rooftop concrete surface, railings, distant city skyline, and blue sky with scattered clouds. Use shallow depth of field so the hand is foreground-blurred and the distant buildings are softly blurred, while the anime character remains the main sharp subject.\n\nStyle constraints: preserve the 2D anime character look against a live-action photographic background, creating a convincing anime-plus-real-photo image-to-image composite. Do not redesign the character, do not add extra characters, and do not add text or watermarks.",
+    "title": "Anime Character in Real Rooftop Scene",
+    "description": "Transforms a transparent-background anime character into a mixed anime-and-photoreal rooftop scene with a realistic reaching hand for image-to-image compositing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440758246_wgvaeq_HIzlgr7b0AAMne7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21773,
     "content": "Create a vibrant vertical 2:3 cinematic fantasy adventure illustration in a polished 3D animated feature style. Show {argument name=\"character name\" default=\"a young pirate girl\"} standing full-body on the sunlit wooden deck of a pirate ship, confident pose with one hand on her hip and the other arm extended outward. Her face is intentionally covered by a centered solid medium-brown square mask with no facial features. She has abundant dark brown curly hair blowing in the sea breeze, tied with a bright pink bandana bow, and wears a cream lace-up pirate blouse with puffy sleeves, a short purple vest with gold trim, loose high-waisted purple trousers decorated with small gold stars, a wide brown belt with a large brass buckle and dangling chain, a pink patterned sash at one hip, brown cuffed pirate boots with gold star accents, and small gold jewelry. Perched on her shoulder is {argument name=\"companion creature\" default=\"a cute tiny blue fantasy monkey-mouse mascot\"} with huge round ears, big expressive eyes, a cheerful smile, colorful pink and blue feathers on its head, a curled tail, and a small gold star charm wand. The setting is a richly detailed pirate ship deck with ropes, barrels, chests, brass fittings, mast, rigging, and glowing golden sparkles around the character’s feet; behind her are striped cream-and-red sails and exactly 1 black pirate flag with a yellow skull-and-crossbones style emblem. In the background, show a turquoise ocean with foamy waves, a tropical island with cliffs and palm trees, fluffy white clouds, and exactly 4 white seagulls flying in the bright blue sky. Use warm golden-hour sunlight, saturated colors, rim lighting, shallow depth of field, dynamic composition, ultra-detailed textures, whimsical magical atmosphere, and high-end family adventure movie concept art quality. No text, no watermark, no extra characters.",
     "title": "Whimsical Pirate Girl on Ship Deck",
@@ -118,6 +345,16 @@
       "https://cms-assets.youmind.com/media/1779354416000_jljw6f_HIwqMuWbIAA-C-_.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 21667,
+    "content": "Generate an illustration of \"me\" as you imagine it. Features include a {argument name=\"style\" default=\"Japanese illustration style\"}, distinct character features, natural emotional expressions, a {argument name=\"composition\" default=\"half-body composition\"}, dynamic poses, exquisite clothing details, a {argument name=\"texture\" default=\"hand-drawn grafﬁti style\"}, ink splatter strokes, free-ﬂowing lines, a blend of pastels and ink, a comic sketch texture, a minimalist white background, surrounding symbolic elements, a strong atmosphere, high detail, and high quality.",
+    "title": "Japanese Ink Splatter Illustration",
+    "description": "Generates a stylized Japanese illustration with hand-drawn graffiti elements, ink splatters, and a minimalist aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779440696581_08yma7_HIwhtgia8AALztx.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 21726,
