@@ -1,5 +1,47 @@
 [
   {
+    "id": 22151,
+    "content": "Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use {argument name=\"shapes\" default=\"smooth rounded shapes\"}, simplified cute character proportions, and {argument name=\"facial details\" default=\"minimal facial details (dot eyes, blush cheeks)\"} to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock ++Add a distinct white outer outline layer surrounding each main character, resembling a thick sticker border or white cut-paper backing, clearly separating the characters from the background. This white layer should feel like an intentional paper layer, not a glow. Use a {argument name=\"color palette\" default=\"pastel color palette\"} with muted blues, greens, and warm neutrals, balanced and calming. Lighting should feel soft, diffused, and even, enhancing the dimensional paper layers without harsh contrast. ++++ Textures should appear matte and tactile, like thick art paper or craft foam. Overall mood: cozy, wholesome, gentle, and storybook-like, with a playful yet polished handcrafted feel suitable for modern illustration, children’s books, or decorative art.",
+    "title": "Paper-Cut Layered Diorama",
+    "description": "A detailed prompt that transforms photos into handcrafted paper-cut illustrations with depth, pastel colors, and thick white outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779612393878_znphhy_HJEb4iRaUAAUFhG.jpg",
+      "https://cms-assets.youmind.com/media/1779612393890_38f5zn_HJEb4jHaMAAO1uG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22142,
+    "content": "Since it's {argument name=\"original snack\" default=\"Mitarashi dango\"}, change it to {argument name=\"new snack\" default=\"matcha ice cream\"}",
+    "title": "Matcha Ice Cream Dessert Swap",
+    "description": "A prompt that modifies an existing food image, replacing dango with matcha ice cream to create a new dessert visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779612388181_uokyjr_HI_yUmaaoAAyAtA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22139,
+    "content": "Please transform this illustration into the {argument name=\"style\" default=\"Glitch Lord\"} style. Apply an extremely intense and beautiful glitch all over the body, expressing complete RGB collapse, data corruption, intense color inversion, and noise at maximum output. Finish it as an overwhelmingly cool glitch entity that is broken yet intimidating and divine.",
+    "title": "Glitch Lord Style Transformation",
+    "description": "A style transfer prompt for GPT Image that applies an intense, divine glitch aesthetic with RGB distortion and data corruption effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779612385535_2vsnw8_HI_Bow_boAAoo7C.jpg",
+      "https://cms-assets.youmind.com/media/1779612385485_qo8tzd_HI_CCutaoAABQWx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22155,
+    "content": "Create a cinematic surreal photorealistic scene of a young man seen from behind, standing close to a dark wooden dresser and staring into a large ornate antique gold mirror. The real person is casually dressed in a plain {argument name=\"shirt color\" default=\"faded blue-gray\"} T-shirt, with short messy brown hair, his shoulders and back softly lit. In the mirror reflection, he appears transformed into a different adult man wearing a formal {argument name=\"reflected outfit\" default=\"gray suit jacket, black vest, white dress shirt, and black bow tie\"}; his reflected face is obscured by a square pixelated censor block and surrounded by subtle horizontal digital glitch artifacts, suggesting an identity swap or Freaky Friday body-swap moment. The room is a moody vintage bedroom with teal patterned wallpaper, framed paintings, a polished wooden vanity, small trinkets on the surface, and two warm table lamps glowing on either side, one reflected inside the mirror and one visible at the right edge. Use a vertical 3:4 composition, over-the-shoulder viewpoint, shallow depth of field, warm amber practical lighting mixed with cool green-blue shadows, film grain, dust specks, slight lens softness, and a mysterious psychological thriller atmosphere. The mirror should be the central focus, with elaborate carved baroque details at the top and bottom, realistic reflections, no readable text, no watermark.",
+    "title": "Body Swap Mirror Reflection",
+    "description": "A cinematic surreal image of a casually dressed man seeing a formally dressed, pixelated stranger as his reflection in an antique mirror.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779612397844_v683g3_HI-qyBeaAAAUAYh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 21761,
     "content": "Create a photorealistic street snapshot of {argument name=\"character description\" default=\"a young blonde businesswoman\"} standing in front of Shibuya Station in Tokyo on a busy weekday morning before work. She wears a navy business suit with a fitted blazer and trousers over a crisp white button-up shirt, a small necklace, and carries a black leather handbag on one arm. She holds a takeaway coffee cup in one hand and a silver smartphone in the other, as if checking messages during her commute. Her face is deliberately anonymized by a flat solid tan square censor block covering the entire facial area, while her shoulder-length blonde hair remains visible around it. The background shows the JR Shibuya Station entrance with readable signage including “JR”, “Shibuya Station”, and Japanese station text, plus urban buildings, signboards, railings, pavement, and many commuting pedestrians slightly out of focus. Use natural morning sunlight, realistic shadows, shallow depth of field, documentary photography style, 16:9 horizontal composition, eye-level perspective, crisp detail on the woman and softer busy city background. Keep the scene realistic and candid, with no illustration style, no extra text overlays, and no watermark.",
     "title": "Businesswoman at Shibuya Station",
