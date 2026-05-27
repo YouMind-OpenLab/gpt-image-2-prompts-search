@@ -41,6 +41,77 @@
     "needReferenceImages": true
   },
   {
+    "id": 22709,
+    "content": "Observe the elements in the photo and add meaningful hand-drawn annotations to each. Trace the outlines with {argument name=\"line color\" default=\"white\"} {argument name=\"line style\" default=\"rough\"} lines, keep decorations {argument name=\"decoration amount\" default=\"minimal\"}, and add short copy that matches the atmosphere.",
+    "title": "Hand-Drawn Sketch Photo Annotation",
+    "description": "An artistic prompt that observes photo elements and adds stylized hand-drawn annotations and outlines for a unique sketchy aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779872719455_060x6k_HJT9pBxa8AEWjcd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22732,
+    "content": "Show the {argument name=\"subject\" default=\"same chair\"} redesigned across {argument name=\"number of eras\" default=\"10\"} historical eras, from {argument name=\"start era\" default=\"Ancient Rome\"} to cyberpunk future, in one clean comparison grid with readable era labels",
+    "title": "Historical Era Design Comparison",
+    "description": "A prompt for visualizing the evolution of an object across different historical periods, from Ancient Rome to a cyberpunk future.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779872734624_s7hjqo_HI79d__XUAEBNWK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22735,
+    "content": "Design a branded technical infographic of a {argument name=\"subject\" default=\"[SNACK]\"} that overlays architectural-style annotations onto a realistic product photograph or photoreal render. Place everything on a pure white studio background, with black ink linework as the primary technical language and strategic {argument name=\"brand color\" default=\"[BRAND COLOR]\"} accents (engineer-sketch energy on premium packaging).\n\nLayer the following annotations on top of the product:\n• Labels calling out every key component\n• An internal cross-section that reveals layering, structure, or internal design\n• Dimensions, measurements, and product specifications\n• Material callouts listing composition and quantities\n• Arrows pointing to primary features and structural details\n• A small schematic or sectional diagram showing mechanical / design logic\n• Sustainability callouts\nSet the product name in bold font inside a hand-drawn annotation box with an accent-color border, anchored in an upper corner as the title.\n\nStyle and layout rules:\n• Keep the realistic product fully visible underneath all the linework\n• Annotations should read as sketched, technical, and architectural\n• About 70-80% black linework for primary technical lines, 20-30% {argument name=\"accent color\" default=\"[BRAND COLOR]\"} for accent highlights\n• Balanced composition with generous negative space\n• Educational food-engineering tone with premium brand polish\n• Drop a subtle brand logo mark in one corner\n\nVisual style: minimal technical-illustration aesthetic, black linework with accent color over realistic imagery, precise but with a slightly hand-drawn feel.\nColor palette: white background, black annotation lines and text, [BRAND COLOR] reserved for accents and key callouts only.\nOutput: 1080×1080, ultra-crisp, optimized for social feeds, no watermark.",
+    "title": "Technical Engineering Product Infographic",
+    "description": "A prompt for creating architectural-style technical infographics that overlay annotations and diagrams onto realistic product renders.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779872735952_764eqg_HJQDoJZbUAACySm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22714,
+    "content": "Generate a high-aesthetic gourmet recipe graphic note poster, with the theme \"{argument name=\"dish name\" default=\"[Dish Name]\"}\". [Overall Style] Fresh and healing gourmet infographic style, integrating: popular social media recipe layout, Japanese notebook feel, light hand-painted UI elements, and food magazine style. Overall visual: Warm cream background (off-white / light milk coffee), bright but not dazzling colors, vivid and tempting food colors, clean and tidy layout, suitable for vertical mobile reading. [Core Visual Structure] 1. Top Title Area - oversized font for dish name - paired with hand-drawn small icons (chili / heart / star / steam etc.) - add an appetizing slogan. 2. Main Visual Food Image - a super tempting close-up of the finished product - food is the visual center - obvious glossiness and heat - emphasize the \"just out of the pot\" feeling - lens has food photography quality. 3. Ingredient Preparation Module - uses card layout - shows main ingredients - each ingredient with small icon/photo - labeled quantities - neat and clear layout. 4. Preparation Steps Module - uses step numbering (1, 2, 3...) - each step includes: small step photo, short text description - arrows connecting the process - easy to understand at a glance - photos have a real cooking feel. 5. Tips Module - uses: hand-drawn note style, dashed borders, small light bulb icons. 6. Bottom Atmosphere Copy. [Visual Details] Abundant hand-drawn element embellishments, cute arrows, graffiti lines, rounded corner cards, slight paper texture, soft shadows, high information density but not cluttered. [Image Quality Requirements] High definition, high detail, extremely tempting food, suitable for social media covers, suitable for graphic notes, 4K food photography quality. [Emphasis] No AI painting feel, no low-quality illustration feel, no over-cartoonishness; should look more like: \"High-quality graphic notes produced by a professional food blogger.\"",
+    "title": "Gourmet Recipe Visual Note Poster",
+    "description": "A detailed layout prompt for creating high-quality, aesthetic food recipe infographics with a hand-drawn, lifestyle blog feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779872722704_8ldt6r_HJPyXJzb0AIQN1e.jpg",
+      "https://cms-assets.youmind.com/media/1779872722771_1zf9ik_HJPyXHCaYAAb7y0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22752,
+    "content": "Create a realistic 2x2 comparison grid showing the same adult man with four different haircut options, intended as a “which haircut fits him best?” visual. Canvas: square image with four equal rectangular photo panels separated by thick clean white gutters and a thin white outer margin. Each panel shows the man from mid-torso upward, centered, facing camera, wearing the same medium-blue denim button-up shirt with an open collar and chest pocket. His face must be anonymized with a smooth vertical rectangular blur/mosaic patch in warm beige tones, covering all facial features but leaving ears, jawline, neck, and hair visible. Background in every panel is the same softly blurred, bright modern living room: white built-in bookshelves with books and decor, a dark TV on the left shelf area, green houseplants, a beige sofa with cushions on the right, warm wooden floor, and a large round paper pendant lamp near the upper center. Lighting is natural daylight, warm and realistic, shallow depth of field, DSLR portrait quality.\n\nLayout and haircut count: show exactly 4 haircut variations, one per panel. Top-left: medium-length wavy dark brown hair, voluminous and swept back with loose texture. Top-right: short spiky textured crop, close sides, dark brown hair. Bottom-left: slicked-back undercut or taper, neat side volume, glossy combed-back top. Bottom-right: very short buzz cut, evenly cropped close to the scalp. Keep the same pose, shirt, body proportions, room, camera distance, and color grading across all four panels so only the hairstyle changes. No text, no labels, no logos, no watermark.",
+    "title": "Four Haircut Comparison Grid",
+    "description": "A realistic square 2x2 photo grid comparing four hairstyle options on the same anonymized man in a cozy living room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779872746890_agm9nx_HJPbg7NaYAASMaC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22689,
+    "content": "Create a professional AI face reading analysis infographic. Style: {argument name=\"style\" default=\"elegant, modern, dark background with golden accent lines\"}. Analyze and annotate these facial features: - Forehead shape → Career & wisdom interpretation - Eyebrow arch → Personality & temperament - Eye shape & spacing → Emotional intelligence - Nose bridge & tip → Wealth & determination - Lip shape → Communication & relationships - Jawline → Willpower & resilience Layout: - Center: a stylized face outline with golden annotation lines - Sides: interpretation cards for each feature - Bottom: overall personality summary with strengths Professional consultation report style. Clean typography.",
+    "title": "AI Face Reading Infographic",
+    "description": "An infographic prompt for GPT Image 2 that creates a professional face reading analysis with elegant typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779872707760_r63cvv_HJNnaVLaMAEytfE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22741,
+    "content": "生成LLM的简短速成课程\n通读基础知识\n使用新的 ChatGPT Image 2.0 和良好的提示，将这些概念转化为可视化信息图。",
+    "title": "LLM Crash Course Visualizer",
+    "description": "A text-based instruction to guide an AI in creating a visual infographic for a LLM crash course using gpt-image-2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779872739699_lgbity_HJNnBDZXEAIvh7T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 22543,
     "content": "Turning a city guide into a funny personality test with arrows, mood choices, comic characters, and activity paths makes the poster feel more interactive than a normal travel infographic.",
     "title": "Interactive City Guide Poster",
