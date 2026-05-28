@@ -41,12 +41,88 @@
     "needReferenceImages": true
   },
   {
+    "id": 22898,
+    "content": "Generate a 16:9 horizontal infographic poster.\n\nTheme: {argument name=\"theme\" default=\"Pan Jinlian\"}\n\nRequired Knowledge Points:\n{argument name=\"knowledge points\" default=\"[Point 1]\\n[Point 2]\\n[Point 3]\\n[Point 4]\\n[Point 5]\\n[Point 6]\\n[Point 7]\\n[Point 8]\"}\n\nVisual Style Definition:\nThis is a structural flat infographic poster in the style of 'Perler beads / fuse beads / pixel bead array'. The image is composed of a large number of regularly arranged circular plastic Perler beads, each bead has a clear circular boundary, a slight center pit, uniform spacing, low-saturation plastic texture, and stable grid order. The overall composition must maintain a front-facing flat view, looking like a public culture infographic poster made of beads, rather than toy photography, 3D models, cartoon illustrations, or ordinary pixel art.\n\nCore Composition:\nCompress the subject into a large-scale monochromatic bead image field. The subject must flow in from the edges of the frame, cross page boundaries, and be bled/cropped, appearing like a fragment of a larger bead medium entering the paper. The subject carries the main visual weight but is not fully presented; viewers must reconstruct the theme through outline, direction, missing areas, bead density, and local texture.\n\nColor System:\nA strict three-layer functional color scheme:\n1. Light background (60-70%): Breathable, cutting, and carrying text. Colors like old paper white, light beige, cool gray white.\n2. Theme structure color (25-35%): Constituting the subject and expressing mood. Colors based on {argument name=\"theme\" default=\"Pan Jinlian\"}.\n3. High-contrast info color (3-6%): For titles, numbers, notes. Sharp and clear like red, black, or bright blue.\n\nInfographic System:\nConvert knowledge points into bead information nodes (numbered labels, mini-note boxes, bead legends, coordinate lines). All nodes must have hierarchy. Text should use modern sans-serif fonts, Swiss style, or monospaced metadata fonts, placed in blank windows or bottom information bars. Final effect: A high-end Perler bead style structural infographic poster where the theme is compressed into a huge bead field with precision information order.",
+    "title": "Perler Beads Style Infographic Poster",
+    "description": "A comprehensive structural prompt for generating informational posters in a Perler beads/pixel art style with specific layout and color rules.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959569712_q2ndfa_HJYNTgzbgAA-9z9.jpg",
+      "https://cms-assets.youmind.com/media/1779959569677_z9xasy_HJYNTgzaMAA9U12.jpg",
+      "https://cms-assets.youmind.com/media/1779959569753_euwwj5_HJYNj2MbsAAHqNC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22835,
+    "content": "Create a visual trend analysis moodboard for {argument name=\"trend\" default=\"[trend]\"}, including colors, textures, objects, typography inspiration and 5 readable trend keywords",
+    "title": "Visual Trend Analysis Moodboard",
+    "description": "A prompt that transforms any trend name into a detailed visual moodboard including textures, colors, and typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959525509_gq0czt_HI7-Z4aXUAAfTIS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22875,
+    "content": "Create a detailed infographic showing the working principle and process of an automatic coffee machine like {argument name=\"brand\" default=\"Jura\"}.\nCover components from the bean hopper, grinder, scale, water tank, to the boiler.\nI want to understand this process both technically and visually.",
+    "title": "Automatic Coffee Machine Process Infographic",
+    "description": "A detailed instructional prompt for generating a technical infographic that visualizes the inner workings and flow of an automatic coffee machine.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959555411_7k6oqf_HJVeltmWoAEuIWy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22903,
+    "content": "Goal: Create a sleek monochrome brand guidelines cover for {argument name=\"brand name\" default=\"UtopikAI Studio\"}, presenting it as a premium AI studio visual identity system.\n\nCanvas: Square 1:1 format, black charcoal background with subtle grain, faint vignette, and thin technical drafting lines. Use a minimal futuristic editorial layout with generous negative space.\n\nLayout: Add a very thin rectangular border close to the canvas edges, with tiny corner ticks, small crosshair marks at the top center, left middle, right middle, and bottom center, and faint dotted vertical guide marks near both side edges. In the upper left, place small spaced uppercase text “UTOPIKAI STUDIO”; in the upper right, place “BRAND GUIDELINES”. In the center, build a large geometric construction grid: a 2-by-2 square grid with faint circular arc segments and quarter-circle curves, like logo construction guides. Overlay the main logo lockup across the middle-lower portion of this grid.\n\nLogo lockup: Use a white abstract icon to the left, made from four square tiles containing curved quarter-circle cutouts, forming a symmetrical modern mark. To the right, set the wordmark “UtopikAI” in bold clean geometric sans serif, bright white, with “Studio” smaller and lighter aligned under the right side of the wordmark. Count exactly 2 logo elements: 1 abstract icon and 1 two-line wordmark.\n\nMain title area: In the lower left quadrant, place the large title {argument name=\"document title\" default=\"Brand Kit\"} in white, set in a clean modern sans serif. Directly beneath it, add the subtitle {argument name=\"subtitle text\" default=\"Visual identity system\"} in smaller muted gray text. Under the subtitle, add one short thin horizontal white line and one longer very faint gray line.\n\nFooter: Along the bottom edge, add small technical footer labels: left “VERSION 1.0”, center “VISUAL IDENTITY SYSTEM”, and right {argument name=\"year\" default=\"2024\"}. Connect the footer area with thin angular drafting lines and subtle horizontal rules.\n\nVisual style: Premium black-and-white brand kit cover, minimalist, tech-luxury, precise Swiss grid design, high contrast white typography, subtle gray construction lines, crisp vector-like rendering, no mockup perspective.\n\nConstraints: Use exactly 5 main text groups: top-left studio label, top-right guidelines label, central logo lockup, lower-left title/subtitle block, and bottom footer metadata. Keep all text sharp and legible. Avoid extra colors, photos, people, shadows, or decorative clutter.",
+    "title": "Monochrome AI Studio Brand Kit Cover",
+    "description": "A premium black-and-white brand guidelines cover for an AI studio, useful for visual identity presentations and brand kit mockups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959576620_5stp2c_HJU7HTLXYAALXDb.jpg",
+      "https://cms-assets.youmind.com/media/1779959576666_d3z7cd_HJU7RC9XkAAHRNg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22920,
+    "content": "Goal: Create a side-by-side comparison graphic demonstrating global illumination / indirect bounce lighting improvement on the same anime illustration.\n\nCanvas: Wide 16:9 horizontal image, split exactly into two equal vertical panels with a thin white divider line down the center. Use a soft pastel anime illustration style with dreamy morning light.\n\nLayout: The left panel is labeled “Before” at the top-left and shows the normal version; the right panel is labeled “After” at the top-right and shows the enhanced version with warmer indirect light, natural contact shadows, and soft glow wrapping around the subject. Add a large centered headline across the top reading {argument name=\"headline text\" default=\"プロンプト比較：光の回り込みGI\"}. Add bottom-left Japanese label {argument name=\"left bottom label\" default=\"通常生成\"} on the left panel and bottom-right Japanese label {argument name=\"right bottom label\" default=\"光の回り込みGI\"} on the right panel. All overlay text is bold white with a dark drop shadow for readability.\n\nSubject details: Show the same androgynous anime boy in both panels, seated indoors in a cozy bedroom by a bright window. He has fluffy layered {argument name=\"hair color\" default=\"white-silver\"} hair with lavender shadows, pale skin, and a slim elegant build. His face is intentionally covered by one large opaque pale mauve square censor block centered over the face in each panel; use exactly 2 censor blocks total, one per panel. His right hand rests near his cheek, partially visible beside the censor block. He wears a luxurious white robe or kimono-like top with navy-blue inner layers and wide sleeves, trimmed with metallic silver edges, decorated with star and crescent moon motifs. Include a crescent moon pendant necklace with a dangling blue gemstone.\n\nBackground details: The room contains exactly 1 large window visible behind the subject, soft curtains, a bed or cushioned seat, a small shelf or windowsill with perfume bottles and ornaments, and exactly 1 hanging crescent-moon decoration on each panel. The palette is lavender, white, pale blue, and warm sunlight.\n\nLighting comparison: Left “Before” panel should look flatter and cooler, with less bounce light and weaker shadows. Right “After” panel should visibly improve depth: add soft global illumination, warm sunlight wrapping around hair, face area, hands, robe folds, and shoulders; add subtle contact shadows where the hand touches the face area and where sleeves overlap; add bloom near the window and brighter rim light on the hair. Keep the character pose and composition identical between panels.\n\nConstraints: Countable elements must remain exact: 2 comparison panels, 1 vertical divider, 4 text labels total, 2 face censor blocks, and 2 hanging crescent decorations. No watermark, no extra logos, no additional panels.",
+    "title": "Anime GI Lighting Comparison",
+    "description": "Creates a side-by-side anime before-and-after graphic comparing normal generation with global illumination bounce lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959586917_oz4u2q_HJUztmWbIAADw3N.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 22709,
     "content": "Observe the elements in the photo and add meaningful hand-drawn annotations to each. Trace the outlines with {argument name=\"line color\" default=\"white\"} {argument name=\"line style\" default=\"rough\"} lines, keep decorations {argument name=\"decoration amount\" default=\"minimal\"}, and add short copy that matches the atmosphere.",
     "title": "Hand-Drawn Sketch Photo Annotation",
     "description": "An artistic prompt that observes photo elements and adds stylized hand-drawn annotations and outlines for a unique sketchy aesthetic.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1779872719455_060x6k_HJT9pBxa8AEWjcd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22850,
+    "content": "A {argument name=\"mood\" default=\"mood\"} {argument name=\"style\" default=\"3D render / illustration\"} showing a detailed cross-section cutaway of a {argument name=\"subject\" default=\"subject\"}, revealing its {argument name=\"interior details\" default=\"interior life / mechanical systems / hidden world\"}, with a color palette of {argument name=\"colors\" default=\"color palette\"}.",
+    "title": "Cross-Section Cutaway Render",
+    "description": "A structural prompt template for creating detailed cross-section views of mechanical systems or hidden environments in 3D or illustration styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959537467_5a5ao8_HJRhVyDXIAA_XWK.jpg",
+      "https://cms-assets.youmind.com/media/1779959537431_89fbt8_HJRhezKWQAAWNDc.jpg",
+      "https://cms-assets.youmind.com/media/1779959537405_i31af2_HJRhn5cWYAAIUj9.jpg",
+      "https://cms-assets.youmind.com/media/1779959538507_2rul73_HJRi2OZW0AAgvFR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22930,
+    "content": "Goal: Create a dramatic two-panel Japanese fantasy manga comparison comic about how large damage numbers make combat feel more satisfying, even when the time required is the same.\n\nCanvas: Square 1:1 image, full-color manga illustration with thick black comic borders, dynamic speed lines, explosive impact effects, and a black brushstroke title banner at the top. Overall style should be detailed dark-fantasy shonen manga with bold outlined lettering.\n\nLayout: Use exactly 2 wide horizontal comic panels stacked vertically. Add a black brushstroke header above both panels containing the title text {argument name=\"title text\" default=\"『かかる時間は同じでも……』\"}. Each panel has the same party of 3 heroes on the left and 1 enemy on the right, with a vertical white narration box on the far right.\n\nCharacters: The hero party appears in both panels and contains exactly 3 visible characters: 1 young male swordsman in blue armor holding a sword, 1 young female witch in a purple robe and pointed hat, and 1 small green-haired healer or cleric holding a staff. Their faces may be partially obscured or softly blurred, but their poses and outfits remain readable. Top panel enemy: 1 enormous black armored knight/golem with a shield and heavy plate armor, standing on the right. Bottom panel enemy: 1 enormous bare-chested muscular barbarian/giant with rough skin, leather/fur waist gear, and clenched fists, standing on the right.\n\nTop panel text and effects: Include exactly 2 white speech bubbles from the heroes: 「これも効かないの!?」 and 「どうしたらいいんだよコイツ!」. Include exactly 1 vertical narration box on the right reading 「耐性がカッチカチ、よりも」. Add exactly 4 small blue damage numbers around the armored enemy: 「10!」, 「10!」, 「12!」, and 「12!」.\n\nBottom panel text and effects: Include exactly 2 white speech bubbles from the heroes: 「こいつ、まだ立ち向かってくる……!」 and 「なんてタフなんだ!」. Include exactly 1 vertical narration box on the right reading 「HPモリモリの方が」. Add exactly 2 huge fiery red-orange damage numbers: 「1012!」 near the center-left and 「2001!」 near the right. At the bottom, spanning across the lower panel, place a large energetic slogan in thick yellow-orange Japanese brush lettering with black outline: {argument name=\"bottom slogan\" default=\"数字がでっかくて楽しい!\"}.\n\nVisual style: High contrast, gritty fantasy lighting, dramatic explosions behind enemies, manga hatching, saturated impact colors, thick white speech bubbles with black outlines, bold 3D comic typography for numbers. Make the top panel feel frustrating and low-impact with small blue numbers; make the bottom panel feel exciting and powerful with huge warm-colored numbers.\n\nConstraints: Use exactly 2 panels, exactly 4 total main characters per panel, exactly 4 small damage numbers in the top panel, exactly 2 large damage numbers in the bottom panel, exactly 4 total speech bubbles, exactly 2 vertical narration boxes, and 1 large bottom slogan. Keep all visible Japanese text legible and avoid adding extra text or watermarks.",
+    "title": "Two-Panel Fantasy Damage Numbers Manga",
+    "description": "Creates a Japanese fantasy manga-style comparison comic showing small damage numbers versus huge damage numbers for game combat commentary.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959592308_57b3pp_HJSugJEakAA1NG-.jpg"
     ],
     "needReferenceImages": true
   },

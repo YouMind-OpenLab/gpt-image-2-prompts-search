@@ -1,5 +1,264 @@
 [
   {
+    "id": 22860,
+    "content": "Create a highly stylized 3D character portrait with a {argument name=\"style\" default=\"blocky, geometric voxel-like form\"} and a {argument name=\"texture\" default=\"handcrafted clay / foam micro-particle texture\"}, inspired by painterly stop-motion aesthetics. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the person’s identity, facial structure, proportions, skin tone, and key features, but reinterpret them into a cuboid, low-poly caricature form with simplified geometry, squared facial planes, and intentionally rigid structure. Apply a dense tactile surface made of tiny bead-like or felted particles across all visible elements for a handcrafted look. Render against a {argument name=\"background\" default=\"swirling, painterly, post-impressionist background\"} with thick directional strokes and vibrant motion, evoking a dreamlike night-sky energy. Lighting should be soft but directional, with warm highlights and gentle shadow falloff to enhance texture depth without realism. The overall look should feel artistic, whimsical, museum-grade, and handcrafted, not photoreal, not Pixar, not vinyl, not glossy CGI. Ultra-high detail, clean edges, intentional stylization, no text, no logos, no watermarks. Aspect ratio 4:5.",
+    "title": "Voxel Stop-Motion Character",
+    "description": "Reinterprets a reference photo into a geometric voxel-style 3D character with a handcrafted clay texture and painterly background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959545374_5ru7vp_HG431ETakAAkW5z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22854,
+    "content": "A softly lit close-up selfie captures a {argument name=\"subject\" default=\"young Southeast Asian woman\"} with long {argument name=\"hair color\" default=\"jet-black\"} hair and delicate model-like facial features, including almond-shaped eyes, flushed cheeks, a small nose, and full {argument name=\"lip color\" default=\"pink\"} lips.",
+    "title": "Close-Up Southeast Asian Woman Selfie",
+    "description": "A softly lit, detailed close-up selfie prompt focusing on facial features and a natural aesthetic for a Southeast Asian woman.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959540781_pufec1_HJWPtA5aYAAe6Il.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22891,
+    "content": "Soft-focus dreamy portrait photography style, low contrast, slightly overexposed, airy atomization effect, the image has a hazy filter and film feel. Natural scattered light, backlight or side backlight, soft halo on the edges of the character, fair and transparent skin tone, the overall color tone is {argument name=\"color tone\" default=\"light, low saturation, biased towards milky white and light green\"}, the atmosphere is gentle, quiet, romantic, and girly. Shallow depth of field background blur, details are not overly sharp, like soft portrait photos taken with early digital cameras or mobile phones. The composition is mainly {argument name=\"composition\" default=\"vertical half-length or seven-point body portrait\"}, the character is centered or slightly to one side, the expression is {argument name=\"expression\" default=\"cold, gentle, slightly melancholy\"}, and the eyes look at the camera. Add elements such as soft reflections, the overall presentation is dreamy, light, ethereal, and private portrait-like photography texture. Real photography, not illustration, not 3D, not over-retouched.",
+    "title": "Dreamy Soft-Focus Portrait Photography",
+    "description": "A detailed prompt for generating soft-focus, dreamy portrait photography with a nostalgic film aesthetic, featuring low contrast, airy lighting, and gentle color tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959565408_5wtg7c_HJWA0N5aAAAssfr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22837,
+    "content": "Use my uploaded portrait only for my facial identity and hairstyle. Create a realistic fantasy portrait in an elegant {argument name=\"style\" default=\"dark oriental style\"}: side-profile composition, long flowing black hair, an {argument name=\"accessory\" default=\"intricate jeweled gold headdress with blue gemstones\"}, delicate floral face art, {argument name=\"element\" default=\"luminous butterfly\"} near the face, translucent shimmering robe, floral decorations on the shoulder and chest, and soft glowing blossoms around me. Black background, dreamy blue-pink lighting, ethereal atmosphere, ornate vintage frame border, cinematic fine-art photography. Keep my face recognizable and realistic, with natural skin texture and a real human look, not anime or plastic. No watermark, no logo, no text\n\nNegative Prompt:\nwatermark, logo, text, anime, cartoon, plastic skin, doll-like face, over-smoothed skin, fake eyes, distorted face, bad anatomy, low quality, blurry details, oversaturated colors, extra accessories, messy composition",
+    "title": "Dark Fantasy Oriental Mythic Portrait",
+    "description": "An ethereal dark fantasy portrait in an oriental style, using a reference image to maintain facial identity within a mythic aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959525792_frv6hl_HJT8nIeaIAAm26-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22938,
+    "content": "Create a photorealistic lifestyle portrait of a young woman standing on an apartment balcony in a quiet Japanese residential neighborhood at golden hour. She has {argument name=\"hair color\" default=\"platinum blonde\"} hair styled in two high space buns with loose shoulder-length strands, wearing a muted sage green thin-strap camisole, light high-waisted denim jeans, and a delicate small pendant necklace. Her face is fully covered by a plain centered rectangular privacy block in a warm tan color, with no facial features visible. She is leaning casually against a balcony railing with one arm behind her, upper body framed from about mid-thigh upward. The background shows potted plants on a tiled balcony, an apartment wall and sliding door on the left, railings, rooftops of nearby houses, mid-rise apartment buildings, trees, and a softly hazy evening sky. Use warm low sunlight from the side/back, natural lens blur in the distant cityscape, realistic skin and fabric textures, candid 35mm film-photo feeling, shallow depth of field, square composition, no text, no watermark, no extra people.",
+    "title": "Golden Hour Balcony Portrait",
+    "description": "A photorealistic square lifestyle portrait of a faceless young woman on a Japanese apartment balcony, useful for fashion or cinematic portrait generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959597916_5f52sh_HJVu4x5bkAApdBA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22846,
+    "content": "Use my uploaded image, ultra-realistic cinematic selfie portrait of a confident young woman sitting inside a {argument name=\"location\" default=\"gigantic abandoned airplane\"} suspended above {argument name=\"background\" default=\"lush tropical jungle cliffs\"} and massive waterfalls, holding the camera with one hand in a natural iPhone selfie angle, relaxed calm expression with hand resting on cheek, wearing {argument name=\"outfit\" default=\"fully modest deep burgundy futuristic rain outfit\"} with glossy waterproof long jacket and matching loose pants, oversized black sunglasses, wet wavy hair with realistic rain droplets, dramatic cloudy sky after rain, soft mist floating around the mountains, cinematic sunlight rays entering through broken airplane windows, reflective wet metallic floor, glowing red emergency cabin lights in the background, luxury adventure traveler aesthetic.",
+    "title": "Abandoned Airplane Jungle Selfie",
+    "description": "An image-to-image prompt for creating a cinematic selfie portrait set in a futuristic, abandoned airplane overlooking a tropical jungle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959534424_uhdiyp_HJVownNa4AAzrFQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22841,
+    "content": "Ultra-realistic luxury fashion portrait of a {argument name=\"subject\" default=\"handsome young man\"} sitting confidently in a {argument name=\"furniture\" default=\"modern cream armchair\"} inside an {argument name=\"location\" default=\"elegant luxury hotel lobby\"}, wearing a perfectly tailored white blazer over a fitted black dress shirt and slim black trousers, black luxury wristwatch, relaxed rich-guy pose with one hand resting on chin, legs crossed, intense eye contact with camera, sharp jawline, textured dark hair, subtle stubble, cinematic warm lighting, soft beige marble interior, blurred luxury background with ambient lamps and plants, editorial GQ magazine style, shallow depth of field, premium fashion photography, ultra detailed skin texture, sophisticated masculine aesthetic, photorealistic, high-end lifestyle vibe, 85mm lens, soft shadows, balanced composition, luxury color grading, natural expression, 8k quality.",
+    "title": "Luxury Fashion Hotel Lobby Portrait",
+    "description": "A sophisticated prompt for generating a high-end masculine lifestyle portrait in a luxury hotel setting, featuring detailed textures and GQ editorial style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959529135_2bhnxe_HJVZieuakAA15WV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22844,
+    "content": "Hyperrealistic intimate living room portrait of a stunning {argument name=\"subject\" default=\"Korean woman\"} seated sideways on a {argument name=\"furniture\" default=\"plush cream-toned sofa\"} during nighttime, her body angled away while she glances softly back over her shoulder toward the lens with a bashful gentle smile. Legs largely concealed by an {argument name=\"outfit\" default=\"oversized fluffy pastel pink hoodie\"} and the sofa angle, producing a tender modest framing. Long glossy black hair cascades naturally down her back, sparkling moist eyes, light blushed makeup, organic skin texture, dreamy youthful Korean beauty vibe. Warm ambient apartment glow blended with subtle authentic iPhone flash for soft highlight pops and cinematic shadow play. Cozy Korean-style living space with cream furnishings, fluffy throw blankets, plush cushions, lit candles, warm-toned table lamps, pastel floral arrangements, aesthetic coffee table styling.",
+    "title": "Cozy Korean Apartment Living Room Portrait",
+    "description": "An intimate slice-of-life portrait prompt featuring a soft pink and cream palette and warm apartment lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959532355_8tdpgs_HJVNYdiasAE5tXE.jpg",
+      "https://cms-assets.youmind.com/media/1779959532336_2ueuep_HJVNYdiakAAM8oh.jpg",
+      "https://cms-assets.youmind.com/media/1779959532367_0rvbxo_HJVNYdebwAACjlT.jpg",
+      "https://cms-assets.youmind.com/media/1779959533466_s0b3h8_HJVNYdhbkAAMwWr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22827,
+    "content": "Use my uploaded portrait photo as the only identity reference. Preserve only my real facial features, face shape, skin tone, hairstyle, hairline, and overall personal vibe. Do not use the face of the person in the reference image. All other elements — including visual style, clothing, scene, composition, lighting, and mood — should follow the reference photo.\n\nGenerate an ultra-realistic cinematic vertical portrait. The subject is standing in a {argument name=\"setting\" default=\"traditional Chinese palace courtyard\"}, photographed from a low angle, in a half-body close-up. The person is slightly turned to the side, with the head naturally facing off to one side, not looking at the camera, showing a calm, restrained, story-driven expression. The background features ancient palace eaves, red walls, stone railings, and traditional roof structures, creating a sense of historical Chinese architecture.\n\nThe subject wears a {argument name=\"clothing\" default=\"deep black traditional robe or black Chinese-style outer garment\"}, with subtle fabric texture and an overall dark color palette. {argument name=\"lighting\" default=\"Sunlight comes from the front-side direction\"}, illuminating part of the face and creating strong light-and-shadow contrast, with one side of the face lit and the other side naturally falling into shadow. The hair is gently blown by the wind, with loose strands moving naturally, but it must still preserve the hairstyle characteristics of my uploaded portrait and should not be changed into someone else’s hairstyle.\n\nThe overall style should feel like a realistic cinematic still, with authentic photographic texture, shallow depth of field, slight film grain, muted colors, high-contrast lighting, and a subtle vintage tone. The skin must look real and natural, with normal skin texture. Do not over-smooth the skin. No plastic look, no anime look. The image should be clean and premium, with no text, no watermark, and no logo. Vertical 9:16, high detail.\n\nNegative Prompt:\n\nwatermark, logo, text, Chinese characters, Doubao watermark, AI watermark, anime, cartoon, illustration, plastic skin, overly smooth skin, doll-like face, fake face, face swap look, distorted facial features, wrong identity, different person, bad eyes, unnatural hair, messy hair clumps, overexposed face, blurry face, low quality, extra fingers, deformed hands, modern building, modern clothes, sci-fi style, fantasy armor, excessive beauty filter, unnatural lighting, pasted face, collage look",
+    "title": "Ancient Chinese Cinematic Still",
+    "description": "A complex image-to-image prompt for transforming personal portraits into cinematic stills from an Eastern wuxia film.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959520687_xoujp0_HJVNSzBbQAAOrx-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22843,
+    "content": "Cinematic double exposure portrait of a {argument name=\"subject\" default=\"smiling Indian woman\"} in a {argument name=\"outfit\" default=\"deep baby pink Anarkali gown\"}. Large close-up portrait blended with a full-length shot of her standing near an {argument name=\"location\" default=\"ancient stone temple pillar\"}. Silver hour Moon backlight, vibrant purple bougainvillea flowers, floating petals, ethnic jhumka earrings, rich and warm tones, highly detailed.",
+    "title": "Double Exposure Indian Woman Portrait",
+    "description": "A cinematic double exposure prompt blending a close-up portrait with a full-length shot in an ancient temple setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959532875_51o8r3_HJVGp-4bkAAdcPG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22862,
+    "content": "Use my uploaded portrait only for facial identity and hairstyle. Recreate the uploaded person in a realistic casual indoor snapshot, matching this reference style: standing in a {argument name=\"setting\" default=\"small bedroom / vanity corner\"} with shelves full of skincare bottles, makeup jars, and cosmetics in the background. The person is captured from a slightly high front angle, upper body to thighs, arms raised while tying their hair, head turned slightly downward in a soft side-profile pose. Wear a {argument name=\"top\" default=\"loose white cropped T-shirt with a cute simple cartoon-style cat graphic\"}, {argument name=\"bottom\" default=\"light blue denim shorts\"}, and a bright pink belt. Slim casual summer outfit, natural waist and body proportions, realistic fabric folds. Bright direct-camera flash look, cool white indoor lighting, slightly overexposed skin highlights, phone-camera realism, shallow depth of field, candid personal-photo atmosphere. Keep the face highly recognizable from my uploaded portrait, with realistic skin texture, natural facial structure, real hair details, and no AI-plastic smoothing. Do not make it anime, doll-like, or overly polished. No watermark, no logo, no text.",
+    "title": "Casual Skincare Vanity Portrait",
+    "description": "Creates a realistic candid snapshot of a person tying their hair in front of a skincare vanity with direct flash lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959546692_oqb5cx_HJUMytSbsAAQQSs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22836,
+    "content": "Ultra realistic cinematic portrait of a {argument name=\"subject\" default=\"young handsome man\"} sitting closely beside a {argument name=\"animal\" default=\"black bull\"} at golden hour, emotional bond between human and animal, man gently resting his hand on the bull’s head while feeding green grass, calm affectionate expression, strong love and trust vibe, black bull with textured fur and slightly reddish highlights on forehead, decorated with aesthetic red traditional rope harness and small bells, warm sunset lighting falling dramatically on faces, soft orange glow, shallow depth of field, rustic farm background blurred with bokeh, cozy countryside atmosphere, detailed skin texture, messy dark hair, casual brown plaid shirt over white t-shirt, luxury wrist watch visible, highly detailed eyes, emotional storytelling composition, rich earthy tones, cinematic color grading, ultra sharp focus, photorealistic, DSLR quality, 85mm lens, f/1.8, natural shadows, intimate framing, premium editorial photography style, aesthetic mood, handwritten text in corner saying “Love. Respect. Bond. ❤️”",
+    "title": "Man and Bull Emotional Bond Portrait",
+    "description": "A realistic and emotional cinematic portrait of a young man and a bull at sunset, capturing a theme of trust and rustic connection.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959525599_16c2wb_HJUwwRPbgAAHYnM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22895,
+    "content": "An authentic Korean-style Instagram bathroom mirror selfie, shot on a smartphone by a {argument name=\"age\" default=\"25-year-old\"} East Asian woman inside a luxury hotel suite. Her figure is mature and naturally hourglass with healthy, realistic proportions: soft fuller upper-body curves, a naturally narrow waist, and an overall rounded feminine silhouette. She carries the styled aura of a Korean influencer, {argument name=\"hair style\" default=\"long voluminous wavy brown hair flowing naturally\"}, subtle refined makeup, fair clear skin with a natural glow, gentle features, naturally rosy lips, eyes softly lowered toward the phone screen, a calm mature expression. She wears a {argument name=\"outfit\" default=\"minimal chic triangle swimsuit in a black-and-white floral print\"} that follows her natural curves with soft fabric tension and drape. She sits cross-legged on the clean floor of a modern luxury hotel bathroom, casually snapping the selfie. One leg tilts slightly toward the camera as a soft foreground, body angled toward the mirror, one hand holding a black phone that partially covers her face, the other hand resting naturally on the floor, a real lived-in relaxed post-vacation pose. Setting: a minimalist luxury hotel bathroom with beige tiled walls, a black vanity cabinet, a dark wooden door, warm soft interior lighting, low contrast, and a natural sense of space. Vertical 3:4 framing, close-range phone-selfie viewpoint, slight natural wide-angle distortion, subject filling the main frame, mirror-reflection composition. Overall an authentic phone-shot texture: Korean Instagram-selfie aesthetic, lightly edited in social-media style yet keeping real skin texture, soft focus, mild film grain, natural warm light and shadow, no over-smoothing, no plastic skin, a strong life-record quality with a refined real luxury daily mood. Real human proportions, naturally mature feminine beauty, luxury hotel staycation life-record style.",
+    "title": "Korean Influencer Mirror Selfie",
+    "description": "A highly detailed prompt for creating realistic Instagram-style mirror selfies with authentic lighting, skin texture, and luxury hotel aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959567341_zgxygv_HJUWUr6bAAE5ItD.jpg",
+      "https://cms-assets.youmind.com/media/1779959567315_fycq5b_HJUWUr6bAAAlzJV.jpg",
+      "https://cms-assets.youmind.com/media/1779959568014_zzl2fn_HJUWUr6a8AAkNP_.jpg",
+      "https://cms-assets.youmind.com/media/1779959568728_1isj0j_HJUWUr8aoAE_185.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22868,
+    "content": "Use my uploaded portrait only as the identity reference for facial features, hairstyle, hairline, skin tone, and overall real-person likeness. Create a realistic retro editorial portrait of me lying upside down on a large round {argument name=\"furniture\" default=\"brown vintage leather armchair\"}, legs raised naturally upward, one hand near the face and the other resting beside a {argument name=\"prop\" default=\"cream-colored vintage typewriter\"}. Use a warm beige studio background, soft indoor lighting, slight film-photo texture, playful relaxed pose, and a vertical 9:16 composition. Do not copy the clothing from the reference exactly. Choose a more suitable outfit based on my uploaded portrait and personal appearance, keeping it casual, stylish, youthful, and visually harmonious with the retro chair and typewriter scene. The face must remain recognizable and naturally integrated, not like a face swap. Keep realistic skin texture, natural shadows, believable body proportions, and real camera perspective. No watermark, no logo, no text.",
+    "title": "Retro Magazine Upside-Down Portrait",
+    "description": "A quirky 90s-style editorial prompt featuring a subject lying upside down on a vintage leather chair with a typewriter.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959550076_uqwle4_HJUOsWzbIAAfvbd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22914,
+    "content": "Create a highly detailed 4K vertical anime-style illustration of {argument name=\"character description\" default=\"a young Japanese woman\"} standing in a lush traditional Japanese garden just after rain, surrounded by bright fresh green maple leaves. She wears {argument name=\"kimono design\" default=\"a white yukata kimono patterned with green maple leaves and small pale blue flowers\"}, tied with {argument name=\"obi color\" default=\"an olive-green obi with a small floral ornament\"}, and green-and-white geta sandals. Her dark hair is pinned up in a soft elegant bun with loose strands and small flower hair ornaments; her face is intentionally covered by a smooth rectangular skin-toned blur/blank censor block with no facial features. Pose her leaning forward slightly from the garden path, one arm raised to gently lift a low maple branch above her head, the other hand holding a small pale green drawstring pouch. The setting is a narrow wet stepping-stone path with puddles and glossy reflections, mossy rocks, low shrubs, hydrangea-like blue flowers, a bamboo fence and open wooden gate on the left, a bamboo fence in the background, and a weathered stone lantern on the right. Use soft morning sunlight filtering through dense maple foliage, sparkling raindrops, vivid greens, warm backlight, painterly realism, delicate linework, cinematic depth, rich environmental detail, tranquil romantic atmosphere, no text, no watermark.",
+    "title": "Rainy Maple Garden Kimono Scene",
+    "description": "A vertical anime-style garden illustration of a kimono-clad woman beneath rain-wet maple leaves, suitable for serene Japanese seasonal artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959582735_ubj7jj_HJUNcoGaUAAuS_b.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22830,
+    "content": "Use only my uploaded portrait as the reference for my facial features, face shape, hairstyle, hair color, natural skin texture, and overall vibe. Do not copy the identity of the person in the reference image. All other visual elements should follow the reference photo: a {argument name=\"setting\" default=\"gothic castle\"} in the background on a rainy day, cool cinematic color grading, a wet and moody atmosphere, the subject sitting beside a wooden terrace table, leaning slightly forward, with one hand naturally touching or lifting her hair, long hair softly blown by the wind, wearing a {argument name=\"headwear\" default=\"black beret\"} and a {argument name=\"dress\" default=\"light pink sequin spaghetti-strap dress\"}, with delicate yet natural makeup. Visible rain, a blurred castle in the background, sharp focus on the subject, shallow depth of field, low-saturation blue-gray tones, and a cold, mysterious, romantic cinematic portrait mood.\n\nKeep my character highly realistic, with accurate facial features and no distortion. Skin should have natural texture, not overly airbrushed, with no plastic look, no anime look, and no influencer-style filter effect. The final image should look like a real high-quality cinematic portrait captured by a camera, with soft natural lighting and consistent environmental light on the face and body. The subject should feel naturally integrated into the scene, not pasted in. Clean and premium composition, with no text, no watermark, and no logo\n\nNegative Prompt:\n\nwatermark, logo, text, AI generated mark, anime, cartoon, plastic skin, over-smoothed skin, doll face, fake face, face swap look, distorted face, bad eyes, bad hands, extra fingers, unnatural pose, low quality, blurry face, overexposed skin, unrealistic lighting, messy background, duplicated body, deformed body, cheap filter, heavy retouching",
+    "title": "Gothic Rainy Castle Cinematic Portrait",
+    "description": "A moody gothic cinematic portrait set in a rainy castle, utilizing a reference image for facial identity and specific atmospheric details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959522376_lmoduh_HJUKBn1bcAASfRn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22832,
+    "content": "Use my uploaded portrait only for facial identity, facial structure, skin tone, and hairstyle. Create a realistic mirror selfie in a {argument name=\"location\" default=\"dim indoor hallway or elevator-like space\"}, inspired by the reference image. The person is standing in front of a mirror, holding a phone that partially covers the face, with a casual slightly messy pose. Keep the face recognizable and natural, not beautified or over-smoothed.\n\nStyle: raw smartphone flash photography, cool-toned low-light atmosphere, slightly grainy mirror reflection, realistic shadows, natural skin texture, candid social-media snapshot feeling. Outfit: {argument name=\"top\" default=\"oversized black sweatshirt\"} slightly lifted at the waist, {argument name=\"pants\" default=\"loose black-and-white cow-print lounge pants\"}, relaxed streetwear styling. The sweatshirt should have no brand logo, only a simple small white abstract graphic or be plain.\n\nComposition: square photo, waist-up to upper-thigh framing, phone in one hand, other hand casually lifting the sweatshirt, messy but realistic hair movement, muted gray wall panels in the background, strong phone-flash look, high realism, natural body proportions, realistic fabric folds, authentic mirror selfie perspective\n\nNegative Prompt：\n\nwatermark, logo, text, anime, cartoon, plastic skin, over-smoothed face, fake beauty filter, distorted body, exaggerated waist, unrealistic proportions, bad hands, extra fingers, duplicated phone, blurry face, low quality, glossy doll skin, AI-generated look, oversexualized pose, messy background text",
+    "title": "Realistic Raw Flash Mirror Selfie",
+    "description": "A prompt for a realistic smartphone flash mirror selfie with a candid social media aesthetic, using a reference image for identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959523863_gseqcr_HJUCrB9awAAzn8Y.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22856,
+    "content": "Use my uploaded portrait only for facial identity, face structure, skin tone, and hairstyle. Create an ultra-realistic cinematic extreme close-up portrait, half-face composition, one eye sharply in focus, intense direct gaze. Apply bold asymmetric {argument name=\"paint style\" default=\"tribal-style face paint\"} in {argument name=\"colors\" default=\"red, black, and deep blue\"} across one side of the face, with rough handmade texture, slight smudges, dust, sweat, visible pores, natural skin imperfections, and realistic lighting. Dark moody background, shallow depth of field, documentary photography realism, high detail, natural human skin, not plastic, not anime, no watermark, no logo, no text",
+    "title": "Cinematic Tribal Warrior Portrait",
+    "description": "Transforms a standard portrait into an intense, realistic tribal warrior character with moody lighting and detailed face paint.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959542004_uy8wly_HJT-Ibxa4AEGGU6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22878,
+    "content": "A young adult Eastern female over {argument name=\"age\" default=\"20 years old\"}, in a portrait style combining realism with light sci-fi, with a dreamy, cold, exquisite, and futuristic temperament. She has distinctive {argument name=\"hair color\" default=\"laser/holographic\"} long hair with a colorful gradient effect in shades of light purple, ice blue, pale pink, and pearl, with a holographic iridescent sheen that reflects metallic colors under light.\n\nHer features are delicate and soft with clear Eastern characteristics, a small smooth face, natural nose, full lips, and fair, translucent skin. Her gaze is quiet and clear. The outfit is a futuristic translucent holographic dress made of transparent iridescent material. The top is a sleeveless slim-cut design with semi-transparent structural stitching, while the bottom is a short pleated skirt that reflects a rainbow of colors. The overall look is fashionable, light, and dreamy with a strong futuristic tech-couture feel.\n\nHer figure is tall and well-proportioned with elegant posture. The focus is on the hair texture, futuristic fabric, and the overall dreamy sci-fi atmosphere.",
+    "title": "Futuristic Holographic Fashion Portrait",
+    "description": "A high-fashion prompt for a female character featuring iridescent holographic hair and a futuristic translucent pleated dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959556290_drjek8_HJTp980asAElTdL.jpg",
+      "https://cms-assets.youmind.com/media/1779959556280_072vwj_HJTqAIkagAAjPRn.jpg",
+      "https://cms-assets.youmind.com/media/1779959556285_ifcc1m_HJTqCgKawAA9jII.jpg",
+      "https://cms-assets.youmind.com/media/1779959557437_iosjro_HJTqEI0asAAcBJp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22864,
+    "content": "Cinematic editorial close-up of an {argument name=\"subject\" default=\"elegant young woman with a tousled chin-length brunette bob\"}, a few soft waves falling over one eye, radiant natural makeup, luminous glossy lips, and expressive emotional gaze. {argument name=\"lighting\" default=\"Warm late-afternoon sunlight streams through a nearby window\"}, creating cinematic shadow patterns and golden highlights across her face. Moody indoor setting with rich {argument name=\"color tone\" default=\"amber and honey-toned color grading\"}, intimate luxury fashion-magazine atmosphere, shallow depth of field, creamy background bokeh, and subtle film grain. Captured with an 85mm portrait lens at f/1.4 for dreamy focus falloff and ultra-realistic skin texture. Soft window light streaks, cozy cinematic mood, high-contrast lighting, refined editorial styling, photorealistic 8K detail, timeless Kodak Portra-inspired film aesthetic.",
+    "title": "Editorial Portrait Close-Up",
+    "description": "A cinematic editorial close-up of a woman with natural makeup and glossy lips, featuring warm afternoon window lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959548607_6hsxo6_HJTO5dTasAAqUjv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22828,
+    "content": "Ultra realistic cinematic portrait of a {argument name=\"subject\" default=\"handsome young man\"} with thick dark textured hair and light stubble, wearing a {argument name=\"clothing\" default=\"simple dark oversized t-shirt\"}, sitting indoors in a dim warm environment. He is looking sideways with a calm serious expression, soft jawline shadows, detailed skin texture, deep brown eyes, {argument name=\"lighting\" default=\"moody amber-orange cinematic lighting inspired by tungsten lamps\"}, shallow depth of field, blurred cozy background with warm bokeh, intimate evening atmosphere, luxury Netflix-style color grading, natural facial proportions, soft contrast, photorealistic, 85mm lens, f/1.8, ultra detailed face, dramatic shadows, centered composition, candid emotional vibe, high-end editorial portrait photography, warm tones, realistic skin pores, soft rim lighting, dark aesthetic, vertical framing 4:5.",
+    "title": "Cinematic Male Editorial Portrait",
+    "description": "A professional editorial-style portrait prompt for creating ultra-realistic images of male subjects with warm, cinematic amber lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959520799_m9vw5m_HJTGr72bcAAmsG7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22853,
+    "content": "Use reference photo to create a ultra-realistic dreamy collage portrait of a {argument name=\"subject\" default=\"beautiful pakistani girl\"} in {argument name=\"attire\" default=\"sparkling lavender sharara suit\"}, sheer dupatta, long wavy hair, golden hour rooftop lighting, surrounded by cute chibi versions of herself in different poses, pastel flowers, butterflies, stars, handwritten quotes, magical fairytale aesthetic, soft pink and purple tones, cinematic lighting, dreamy bokeh, Disney Pixar inspired, ultra detailed, 8k",
+    "title": "Dreamy Collage Portrait of a Girl",
+    "description": "Creates a fairytale-inspired collage portrait of a girl in traditional Pakistani attire, surrounded by chibi versions and magical elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959539774_o3jtpg_HJS8Yj_WoAgyxjW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22948,
+    "content": "Create a photorealistic casual smartphone portrait of a {argument name=\"subject\" default=\"young Japanese woman\"} seated indoors at a modern cafe, framed from the chest up in a vertical 3:4 image. She is centered and close to the camera, leaning slightly forward as if photographed across the table. Her face is intentionally hidden by one large opaque rectangular privacy block centered over the face, covering from the forehead/eyes area down past the mouth and chin; the block is a flat muted brown skin-tone color with sharp edges and no text. Visible details: medium-length dark brown hair with soft bangs, layered ends, slightly tousled natural shine, shoulder-length curls turning inward and outward; a loose fluffy off-white knit sweater with wide sleeves and soft texture; relaxed posture with both forearms near the bottom edge. Background: a realistic cafe interior with pale gray painted wall panels on the left, a wooden table and low stool/chair partially visible, black metal framing, warm wooden beams and shelving on the right, a mirror or glass panel reflecting a person in dark clothing, subtle ceiling lights, and a casual urban atmosphere. Use natural daylight mixed with warm indoor lighting, realistic Japanese facial proportions implied by hair and body even though the face is obscured, accurate fabric and hair texture, shallow-to-moderate depth of field, candid phone-camera look, slight wide-angle perspective, 28mm equivalent lens, f/2.8, ISO 400, 1/125s, high-resolution realistic color photo. Avoid beauty-filter smoothness, avoid over-stylized AI glamour, avoid extra people in the foreground, avoid text or watermark.",
+    "title": "Obscured Cafe Portrait",
+    "description": "Generates a realistic smartphone-style cafe portrait of a seated Japanese woman with her face hidden by a privacy block.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959606102_6sxeop_HJSxSwabwAAO74O.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22947,
+    "content": "Create a realistic vertical smartphone photo of a young Japanese woman in a cozy sunlit café, shot as an intimate close-up selfie from slightly above table height. The woman has shoulder-length straight {argument name=\"hair color\" default=\"dark brown\"} hair with a natural center part and soft layered ends, wearing a cream white knit sweater, seated at a wooden table and holding a beige ceramic coffee cup near the lower left foreground. Her face is completely covered by a large centered opaque square censor block in a warm brown skin-tone color, hiding all facial features while leaving her hair, neck, sweater, and hands visible. On the table are exactly 3 visible items: one ceramic coffee cup in her hand, one iced coffee glass with a straw in the background left, and one small pastry on a white plate behind her hand. The café background includes large windows on the left, warm sunlight, wooden tables, a blurred seated woman in the far-left background, shelves on the right with many jars, and green potted plants. Use natural daylight, realistic Japanese café atmosphere, shallow depth of field, high-detail hair texture, soft highlights, candid smartphone framing, no beauty-filter look, no text overlays, no watermark. Camera style: {argument name=\"camera style\" default=\"realistic iPhone photo, 35mm equivalent, f/1.8, warm natural light\"}.",
+    "title": "Censored Café Selfie Portrait",
+    "description": "Generates a realistic close-up café selfie of a Japanese woman with her face obscured, useful for privacy-safe portrait or lifestyle mockups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959604328_q763xi_HJSxUyTbsAAz6nI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 22926,
+    "content": "Create a highly detailed vertical anime-style illustration of an elegant adult woman, {argument name=\"character name\" default=\"a refined married woman\"}, shown from behind in a three-quarter over-the-shoulder pose inside a warmly lit luxurious interior. She has glossy {argument name=\"hair color\" default=\"black\"} hair gathered into a loose low bun at the nape, with soft wispy strands around the neck and side of the face, strong rim lighting outlining individual hairs. Her face is intentionally hidden by a large centered opaque rectangular privacy block in a muted brown skin-tone gradient, covering the entire facial area from forehead to chin. She wears a sophisticated {argument name=\"dress color\" default=\"black\"} satin dress with a high glossy collar, soft puffed sleeves, and a sheer lace panel across the upper back and shoulders; the lace has delicate dark floral embroidery visible against her skin. The composition is intimate and cinematic, with the woman occupying most of the frame, shoulders and back in focus, head turned slightly to the right. Use dramatic golden backlight from tall windows or lamps, warm bokeh highlights in the background, shallow depth of field, realistic fabric sheen, fine hair detail, elegant mature atmosphere, painterly high-end anime rendering, soft contrast, no text, no watermark.",
+    "title": "Elegant Backlit Anime Woman Portrait",
+    "description": "Generates a cinematic vertical anime portrait of an elegant woman seen from behind with lace dress details and warm luxury lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1779959591018_w33bg5_HJSwPruboAAxNXD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 22766,
     "content": "Create a realistic studio portrait photograph of a young East Asian woman from the upper chest up, framed vertically in a 3:4 crop. She is turned slightly to the viewer’s left in a three-quarter pose, showing one visible ear and the side of her neck, with her face centered but intentionally covered by a large opaque square privacy block. She has {argument name=\"hair color\" default=\"natural black\"} hair styled in a loose low bun at the back, with soft bangs across the forehead area and a few wispy flyaway strands. She wears a simple {argument name=\"top color\" default=\"white\"} camisole with thin spaghetti straps, bare shoulders, natural skin texture, and soft collarbone highlights. Use a warm matte {argument name=\"background color\" default=\"pale yellow\"} seamless studio background. Lighting should be soft, flattering, and diffused, with gentle shadows, shallow depth of field, and a high-end AI photography look. Add exactly 1 censoring element: a large square block over the face, aligned vertically and horizontally over the central face area, filled with a smooth muted skin-tone vertical gradient from dark brown at the top to peach-beige at the bottom, with sharp edges and no text. Keep the composition clean and minimal, no jewelry, no props, no watermark, no extra text.",
     "title": "Censored Studio Portrait",
