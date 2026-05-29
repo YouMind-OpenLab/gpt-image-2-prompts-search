@@ -1,5 +1,82 @@
 [
   {
+    "id": 23055,
+    "content": "create a S-curve silhouette · *Sophisticated feminine allure* · Commercial portrait · Brand Lookbook · Soft lighting · Well-tailored clothing · Refined makeup lying {argument name=\"vibe\" default=\"Mysterious and elegant\"} {argument name=\"outfit\" default=\"vacation outfit\"} showcase on the bed , 4:3 image",
+    "title": "Sophisticated S-Curve Commercial Portrait",
+    "description": "A professional fashion lookbook prompt for generating an elegant commercial portrait with an S-curve silhouette and refined lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780045858027_n628mn_HJbhgL7X0AYvf0S.jpg",
+      "https://cms-assets.youmind.com/media/1780045858273_hhhk60_HJbhgMFWYAUjmGC.jpg",
+      "https://cms-assets.youmind.com/media/1780045858118_8wma0x_HJbhgL_XQAMwuIr.jpg",
+      "https://cms-assets.youmind.com/media/1780045859104_34p1f9_HJbhgL9WoAM0Roh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22982,
+    "content": "Minimalist Object Prompt Pack – Clean, Professional & Versatile This prompt pack generates high-quality square images of everyday objects, fruits, stationery, or pets, all perfectly centered on a clean white background. Each image has sharp details, realistic lighting, and a subtle shadow projected to the right side, creating a professional studio photo look.",
+    "title": "Minimalist Studio Object Photography",
+    "description": "A prompt designed to create clean, professional square images of objects centered on a white background with realistic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780045812819_k9dwz3_HJbPsPwacAAiwd_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 22992,
+    "content": "Luxury product shot of a {argument name=\"perfume\" default=\"Givenchy L’Interdit\"} perfume bottle, rectangular glass bottle with rounded edges, beige liquid inside, thick clear glass base, transparent faceted cap with silver spray nozzle, black neck ribbon with Givenchy metal logo tag, text “L’INTERDIT GIVENCHY” on bottle. Bottle floating slightly tilted, surrounded by soft swirling smoke. Background dark warm brown gradient, golden light glow from bottom, cinematic studio lighting, sharp reflections on glass, shallow depth of field, luxury perfume advertisement style, 3:4 vertical, 8K ultra-detailed.",
+    "title": "Luxury Perfume Bottle Product Shot",
+    "description": "A cinematic luxury product shot of a Givenchy perfume bottle featuring swirling smoke and golden light effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780045817869_6x64lf_HJapv6MbYAEr9b9.jpg",
+      "https://cms-assets.youmind.com/media/1780045817593_51g1qp_HJapwJAbIAA4wDF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23111,
+    "content": "Create a cinematic luxury perfume advertisement still in a warm, dark, candlelit interior. Show a glamorous {argument name=\"subject\" default=\"woman\"} in close-up from the chest up, positioned slightly left of center, with her face intentionally obscured by a large solid medium-brown rectangular block covering the central upper face area. She has dark wavy hair pinned loosely with strands falling around her neck, wears long sparkling gold chandelier earrings, and a shimmering metallic gold evening dress with pleated sequins and a low neckline. Her right hand is raised near the right side of the frame holding an elegant faceted rectangular glass perfume bottle filled with amber liquid, with a geometric gold cap catching the light. Use {argument name=\"lighting style\" default=\"golden candlelight\"}, shallow depth of field, soft bokeh flames in the background, dark reflective walls, and a sensual high-fashion editorial mood. Add a small white “Pollo.ai” watermark in the top-right corner. Horizontal 16:9 composition, photorealistic, cinematic color grading, rich amber and bronze tones, no extra text.",
+    "title": "Candlelit Luxury Perfume Ad",
+    "description": "A cinematic close-up perfume advertisement featuring a glamorous woman in gold holding an amber bottle in warm candlelight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780045890381_xt7k8s_HJZ90D0WEAU8qDx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23046,
+    "content": "Top-down flat lay of {argument name=\"product\" default=\"skincare bottle\"} perfectly centered, encircled by {argument name=\"ingredients\" default=\"fresh slices and whole pieces\"} shown as fresh slices and whole pieces. Glossy wet aesthetic with a water splash frozen mid-air around the product, dewy droplets clinging to the label and packaging surface. Seamless warm beige backdrop, soft directional sunlight casting crisp realistic shadows. Premium skincare ad styling, ultra-realistic macro product photography, 100mm lens look, f/8 razor-sharp focus, clean uncluttered composition, no extra text, 8K, 1:1 aspect.",
+    "title": "Skincare Product Flat Lay Photography",
+    "description": "A professional product photography prompt for skincare items featuring a top-down flat lay with frozen water splashes and dewy textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780045852562_jxijha_HJZEJdpawAARhhi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23015,
+    "content": "Help me generate a promotional image that matches the style of the razor category; change the background to dark blue for a more high-tech feel; change the text to '3D Floating Head'; generate an e-commerce poster for the XX category.",
+    "title": "E-commerce Product Poster Transformation",
+    "description": "A technique for generating professional e-commerce posters from casual product photos using brand-aware instructions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780045832019_2noaet_HJYvhJLbAAA23LR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23119,
+    "content": "Goal: Create a polished product-style photograph of a layered transparent acrylic display postcard, like a miniature exhibition case, featuring an anime catmaid character in a dreamy blue theme.\n\nCanvas: Vertical 4:5 product photo, close-up view on a glossy white tabletop, soft natural window light, shallow depth of field, pastel blue and pearl highlights.\n\nMain subject: A freestanding clear acrylic postcard stand made of multiple stacked transparent layers. The back plate is tall with rounded decorative edges and an ornate arch top. The acrylic edges catch light with blue iridescent refractions, giving a premium collectible-goods look.\n\nCharacter layer: Center the anime character {argument name=\"character name\" default=\"NOZOMU\"}, a cute catmaid girl seated with knees bent, wearing a light blue maid dress with white frills, black ribbon tie, white apron, wrist cuffs, white socks, teal ribbon accents, cat ears, and a gray cat tail with a black bow. She has pale blonde bobbed hair with braids and soft line art. Place a plain opaque pale beige square censor block over the center of her face, covering the facial features while leaving hair, ears, outfit, arms, and pose visible.\n\nLayered acrylic construction: Make the image visibly built from separate flat acrylic parts: exactly 4 main layers — 1 background illustration layer, 1 character cutout layer, 1 foreground decorative ornament layer, and 1 front nameplate layer. Use transparent offsets and visible acrylic thickness to show depth.\n\nDecorations and counted elements: Include exactly 2 small blue cat mascot illustrations floating behind the character, one left and one right. Include exactly 3 front plaques: 1 left circular plaque with ornate cat-ear shape reading {argument name=\"collection title\" default=\"Dreaming Catmaid\"} plus small text \"Postcard Collection\" and \"Limited Edition\"; 1 center nameplate reading {argument name=\"nameplate text\" default=\"NOZOMU\"}; and 1 right circular plaque with a blue bow and the quote {argument name=\"quote text\" default=\"A soft paw, a gentle heart. Always by your side.\"}. Include exactly 5 prominent dangling or raised clear ornaments around the frame: 1 butterfly ornament at the top center, 1 blue teardrop jewel at upper right, 1 snowflake-like crystal ornament at lower right, and 2 round clear floral rosettes at lower left. Add tiny stars, paw prints, bubbles, and lace-like swirls as subtle printed embellishments.\n\nBackground setting: Behind the acrylic stand, place a pastel blue product box on the left with soft blurred readable text matching the collection title, plus a clear cut-glass jar on the right and scattered pearls or glass beads near the base. Keep the background elegant, bright, and softly out of focus.\n\nVisual style: High-end Japanese anime merchandise photography, transparent acrylic, glossy highlights, delicate blue-and-white color palette, dreamy catmaid theme, crystalline reflections, realistic product lighting mixed with crisp 2D anime illustration.\n\nConstraints: No extra characters, no extra plaques, no watermark, no hands holding the item, keep the face covered by the square censor block, preserve the layered postcard-display construction clearly.",
+    "title": "Layered Acrylic Catmaid Postcard Display",
+    "description": "A detailed prompt for generating a dreamy product photo of a multi-layer transparent acrylic anime catmaid postcard stand.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780045892676_vhb0xr_HJVDMFWbkAA_fZV.jpg",
+      "https://cms-assets.youmind.com/media/1780045892742_vagqji_HJVDNqoaoAAc5Ix.jpg",
+      "https://cms-assets.youmind.com/media/1780045892675_aq5q4i_HJVDO4maMAA6PTY.jpg",
+      "https://cms-assets.youmind.com/media/1780045893740_34alam_HJVF9LubUAAiOqt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 22693,
     "content": "Using the supplied reference image, produce a professional industrial-design packaging illustration sheet for the package ({argument name=\"package type\" default=\"PACKAGE TYPE\"}). Place a hero 3D render in the middle with photoreal materials, gentle studio lighting, and a polished commercial finish. Around it, lay out the technical views: front, side, top, bottom, an oblique angle, and a flat unfolded layout. Add line sketches showing the {argument name=\"technical details\" default=\"frame structure, fold/crease lines, seam details, and dimension arrows labeled in millimeters\"}. Annotate materials and surface finishes ({argument name=\"material list\" default=\"matte, gloss print, plastic, paper, glass, etc.\"}) with handwritten callouts. Drop in color swatches, supporting product mockups, and soft cast shadows. Background: clean sketchbook paper. Style: photoreal render mixed with pencil-sketch overlays, modern design aesthetic, ultra-detailed, portfolio quality.",
     "title": "Industrial Packaging Design Sheet",

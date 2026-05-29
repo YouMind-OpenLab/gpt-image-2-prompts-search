@@ -1,14 +1,24 @@
 [
   {
-    "id": 22876,
-    "content": "Modern and stylish high-end one-piece swimsuit with elegant tailoring. A youthful and sunny Japanese female model, about {argument name=\"model age\" default=\"20 years old\"}, with fair skin, slightly curly long hair, and a plump yet gracefully proportioned figure, exuding a confident vibe. Beach vacation style, soft natural light, walking sideways to highlight soft feminine silhouettes. Photorealistic, fashion magazine style, various poses and angles, maintaining facial consistency, displayed in a nine-grid format.",
-    "title": "Beach Fashion Magazine Grid",
-    "description": "A magazine-style prompt for generating a sun-drenched beach photoshoot featuring a fashion model in a high-end swimsuit.",
+    "id": 23105,
+    "content": "Create a bright Y2K anime fashion illustration on a clean white background, low-angle full-body view of {argument name=\"character name\" default=\"a stylish young woman\"} lounging diagonally in a transparent neon acrylic rattan chair. The character has {argument name=\"hair color\" default=\"dark charcoal twin-tail hair with teal highlights\"}, a face intentionally covered by a soft peach square blur, oversized iridescent rainbow visor sunglasses pushed over the eyes, large blue hoop earrings, and glossy makeup/fashion-model energy. Outfit: exactly 7 main wearable pieces: a translucent hot-pink crystalline puffer jacket, an iridescent white-blue cropped top, matching iridescent mini shorts, glossy white thigh-high leggings, two chunky white leg warmers, and two pastel blue-pink-white platform sneakers with straps and laces. Pose: relaxed and confident, leaning back with one arm draped over the chair arm, one hand lifting the visor, legs stretched toward the viewer with one sneaker very large in the foreground. Chair: exactly 1 translucent neon chair with 4 tubular legs, 2 rounded armrests, a woven circular back and seat, made of clear acrylic that refracts lime green, cyan, yellow, and pink. Lighting: pristine high-key studio light with sharp iridescent reflections, glossy highlights, pastel rainbow caustics, and a vivid multicolor shadow puddle on the floor beneath the chair. Style: ultra-clean niji-style anime line art, delicate thin outlines, high-detail fashion rendering, glasslike transparency, holographic materials, candy-colored Y2K palette of {argument name=\"palette\" default=\"white, cyan, lime, bubblegum pink, and pearl iridescence\"}, no text, no watermark, no background clutter.",
+    "title": "Y2K Holographic Anime Chair Fashion",
+    "description": "A high-key anime fashion prompt for creating a Y2K girl reclining in a neon transparent chair with iridescent clothing and pastel rainbow lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1779959556106_zan4x4_HJUd9DkbUAAHdS-.jpg",
-      "https://cms-assets.youmind.com/media/1779959556131_sjrkhv_HJUd9CuaMAAU6Me.jpg"
+      "https://cms-assets.youmind.com/media/1780045887406_dklc2u_HJakiqSaIAAH41J.jpg"
     ],
-    "needReferenceImages": false
+    "needReferenceImages": true
+  },
+  {
+    "id": 23027,
+    "content": "I want to shift the viewpoint of this picture upwards. While maintaining the width and height, add more drawing to the top and raise the perspective.",
+    "title": "Perspective Shift Card Modification",
+    "description": "A utility prompt used to modify an existing image by shifting the camera perspective upward while extending the drawing at the top.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780045839952_3tvhbf_HJZ9B_fbgAE8cA1.jpg",
+      "https://cms-assets.youmind.com/media/1780045839888_ejoon8_HJZ-Sdla0AAmbvz.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 22831,
