@@ -1,11 +1,95 @@
 [
   {
-    "id": 22984,
-    "content": "Turn this photo into a funny ugly doodle drawing. Make it look like: a quick sketch using a {argument name=\"tool\" default=\"cheap marker or crayon\"} messy, rough, childlike style bad perspective and awkward proportions slightly exaggerated facial features Add: {argument name=\"background\" default=\"simple cartoon background (like buildings, trees, street)\"} random sketchy lines and details uneven coloring and visible strokes Style: looks like a lazy drawing, not polished humorous and a bit stupid-looking meme-like, casual, internet style Do NOT: make it realistic",
-    "title": "Funny Ugly Doodle Sketch",
-    "description": "A creative prompt to turn any photo into a humorous, rough, and intentionally 'bad' doodle drawing with a meme-like aesthetic.",
+    "id": 23176,
+    "content": "Use the Exact same face from reference image and generate a Close-up studio portrait headshot of an {argument name=\"subject\" default=\"man with sharp jawline and defined facial features, dark tousled hair, soulful intense eyes\"}. Shot from shoulders up. Lighting: {argument name=\"lighting style\" default=\"Rembrandt/chiaroscuro setup\"} — key light from upper-left creating a perfect triangle of light on his right cheekbone, rest of face gradually fades into rich shadow. Only one eye catches a full catchlight, the other eye barely visible in shadow creating mystery. Thin rim light from behind separates hair from background. {argument name=\"clothing\" default=\"Black turtleneck, dark and textured\"}. Background: pure black seamless fading seamlessly into his shadow side. Expression: contemplative, vulnerable power. Moody masterpiece energy. \"OzairAI\" subtly embedded in the shadow transition at bottom-center. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "Moody Chiaroscuro Studio Portrait",
+    "description": "A cinematic close-up studio headshot using Rembrandt lighting to create deep shadows and a mysterious atmosphere, preserving facial identity.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780045812789_t4uqzp_HJeQ2EwbAAESUS-.jpg"
+      "https://cms-assets.youmind.com/media/1780130275203_nak8kb_HJfp9F1bkAAxTpX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23236,
+    "content": "Create a realistic, softly lit indoor lifestyle portrait of {argument name=\"subject\" default=\"a young woman\"} sitting at a wooden table beside a large window on the left, holding a small beige ceramic mug near her mouth with one hand. She has {argument name=\"hair color and style\" default=\"dark brown hair tied back in a loose low ponytail with wispy strands\"} and wears {argument name=\"outfit\" default=\"a light gray T-shirt under an oversized cream knit cardigan with long sleeves\"}. Add black eyeglasses partially visible at the left side of the face. The face must be fully covered by one centered opaque square privacy block in a muted warm taupe color, extending from the forehead to below the mouth, with sharp edges and no facial features visible. The setting is a cozy home interior with warm morning sunlight streaming through the window, soft shadows on the cardigan and mug, blurred greenery outside, a small plant near the windowsill, neutral beige walls, and a wooden chair back on the right edge. Use shallow depth of field, natural window light, realistic photography, vertical 4:5 composition, calm intimate mood, no text, no watermark, no extra people.",
+    "title": "Cozy Window Portrait With Privacy Block",
+    "description": "A realistic lifestyle portrait prompt for creating a cozy indoor coffee scene with the subject’s face intentionally obscured by a square privacy mask.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780130305310_gef6bl_HJfijQqacAAL8Vy.jpg",
+      "https://cms-assets.youmind.com/media/1780130305433_p6wjkh_HJfijQ8aYAA9WL1.jpg",
+      "https://cms-assets.youmind.com/media/1780130305787_a2vwh2_HJfijQta8AAh0Ta.jpg",
+      "https://cms-assets.youmind.com/media/1780130306507_tb4qaz_HJfijQrbQAAfjRt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23233,
+    "content": "Create a dynamic square-format anime ink illustration of a stylish androgynous young man, {argument name=\"character style\" default=\"rebellious modern fantasy streetwear swordsman\"}, shown from the waist up on a clean white background. He has messy tousled {argument name=\"hair color\" default=\"black hair with subtle brown highlights\"}, many ear piercings, dangling chain earrings, layered necklaces, rings, bracelets, blue-painted fingernails, and ornate talisman-like accessories. His face is intentionally obscured by a centered opaque square censor block with a soft vertical gray-to-warm-taupe gradient, covering most facial features while leaving hair, ear, neck, and clothing visible. Pose him in a confident three-quarter view, leaning slightly back, with one hand extended toward the viewer in dramatic foreshortening as if beckoning or casting a spell. Dress him in a loose layered kimono-jacket outfit: white outer robe with black trim, black inner garments, blue accents, straps, cords, chains, metal charms, beads, and small skull-like ornaments. Use a high-detail Japanese manga concept-art style with expressive brush lines, splattered ink, scratchy crosshatching, flowing fabric folds, and energetic motion strokes. The palette should be mostly black, white, beige, and cobalt blue, with scattered black and blue ink splashes across the figure and background. Add exactly three visible graphic calligraphy/graffiti elements around him: a large black kanji-like symbol on the left, a blue hand-drawn crown with small marks on the upper right, and a small blue rectangular stamp seal near the lower left. Keep the composition dramatic, chaotic, fashionable, and highly detailed, with no photorealism, no extra characters, and no readable English text.",
+    "title": "Censored Anime Ink Fashion Portrait",
+    "description": "A detailed prompt for generating a dramatic manga-style upper-body portrait with layered streetwear, ink splatter, blue accents, and an intentionally obscured face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780130304067_01r08q_HJfbI-OaQAA9zgW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23231,
+    "content": "Create a cinematic vertical sci-fi portrait of {argument name=\"character description\" default=\"a female android aboard a spaceship\"} in right-side profile, shown from chest up, facing left toward deep space. She has long flowing {argument name=\"hair color\" default=\"silver-white\"} hair blown gently backward, a visible ear with delicate mechanical detailing, and glossy white humanoid cybernetic armor with black joints, circular shoulder mechanisms, fine panel seams, tiny screws, and reflective metal surfaces. Place a large flat opaque square censor block over the center of her face, colored muted warm gray, hiding the facial features while leaving the hair, ear, neck, and body visible. Behind her is a massive futuristic spacecraft deck or space station stretching diagonally across the lower left, with layered metallic panels, glowing blue-white and amber lights, and a tall tower-like structure on the far left. In the background, show a huge luminous {argument name=\"planet color\" default=\"green\"} planet dominating the upper half of the scene, with atmospheric glow, cloud texture, and bright rim lighting, surrounded by a dense starfield. Use dramatic cinematic lighting with strong backlight from the planet, cool blue-green highlights, high contrast shadows, ultra-detailed hard-surface sci-fi design, realistic anime-influenced rendering, shallow depth of field, and a polished concept-art look. Composition should be vertical 4:5, with the android occupying the right half and the spaceship and planet creating depth on the left; no text, no watermark.",
+    "title": "Female Android on Spaceship",
+    "description": "A cinematic sci-fi portrait prompt for generating a silver-haired female android beside a massive spaceship and glowing planet.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780130303595_hjkjze_HJfXKglboAAreEe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23159,
+    "content": "Indoor studio setting, {argument name=\"background\" default=\"pitch-black background\"}, absence of ambient light.\n\n{argument name=\"subject description\" default=\"33-year-old male face\"}, medium-short fade haircut, prominent jawline, high cheekbones.\n\nLighting: {argument name=\"lighting style\" default=\"Single high-intensity overhead-left spotlight\"}, dramatic chiaroscuro technique, light hitting only eyes and cheekbones, rest of the face in deep shadow.\nCamera: 85mm prime portrait lens, f/1.8, shallow depth of field, sharp focus on irises; Texture: skin pores visible in lit areas, matte skin tone, monochromatic black-and-white high-contrast grade.\n\nEditorial portrait photography, high-contrast black-and-white fine art print.\n\nNo soft fill light, no catchlights in pupils, no hair light, no background details, no extra subjects, no watermark, no digital noise, no colour information, no grey scale smoothing.",
+    "title": "Dramatic Chiaroscuro Male Editorial Portrait",
+    "description": "A professional portrait prompt designed to capture a high-contrast black-and-white editorial shot of a male subject using dramatic lighting techniques.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780130264140_re0jai_HJe3_kRXEAEgq1M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23227,
+    "content": "Using the provided reference image, make a minimal photorealistic edit: keep the bookstore setting, outfit, hairstyle, earrings, pose, book, lighting, camera angle, and overall composition unchanged, but change the subject’s head and gaze from a focused downward reading pose into a warmer, friendlier glance toward the camera. Preserve the natural candid smartphone-photo look and avoid changing the body, hands, shelves, background customers, or book placement. Desired mood: {argument name=\"expression mood\" default=\"friendly and approachable\"}.",
+    "title": "Friendly Glance Photo Edit",
+    "description": "Transforms a candid reading photo so the subject looks up with a warmer, friendlier expression while preserving the original scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780130301607_yaoxob_HJeryGRacAAdQ8a.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23009,
+    "content": "Subject: {argument name=\"location\" default=\"spring shrine\"} Japanese fox immortal portrait wearing a white fox / kitsune portrait\n\nPerson/Expression: {argument name=\"hairstyle\" default=\"young woman with black hair, delicate bangs and elegant bun hair\"}, white fox ears, translucent white skin, elongated and sexy eyes, soft and attractive gaze, slightly smiling elegant expression, rainbow-colored refracted light resides inside the pupils, and that light naturally oozes from the lower eyelid to the outer corner of the eye, mysterious eyes, natural and sophisticated Japanese-style makeup\n\nClothing/Pose: Gorgeous Japanese clothing based on white and gold, kimono with delicate gold embroidery, slightly open elegant collar to produce a modest sexiness, naturally plump chest, flexible pose with fingertips at the lips, white fox spirit nestling on the shoulder, fox mask near the feet\n\nBackground/Light: Bright daytime shrine surrounded by cherry blossoms in full bloom, blue sky, vermilion shrine building and lanterns, soft natural light of spring, dancing petals, pale pink and iris light particles around the white fox, the background is softly blurred while leaving the shrine-like atmosphere\n\nComposition/Camera: Vertical composition centered on the upper body, composition close to the front, gaze guidance with the person's face and eyes as the main characters, balanced arrangement with the white fox nestling on the left side, 85mm portrait lens, shallow depth of field, face is high-definition and sharp, background is naturally blurred, an impressive shot that looks great on social media\n\nTexture/Style: A Japanese-style fantasy portrait that fuses realistic photographic expression and illusory expression, high-definition, 4K quality, photographic skin where pores, texture, lip texture, nose bridge and eye shadows look natural, high-quality finish with suppressed CG feel, the white fox's fur is soft and delicate one by one, the rainbow-colored light of the eyes is expressed as if it refracts and flows out from the pupils rather than a decorative pattern, the light production of the chest and background is suppressed to concentrate the gaze on the face, eyes, and white fox, an atmosphere that combines cuteness, mystery, and elegant sexiness\n\nNegative: Low image quality, unnatural face, unnatural eyes, unnatural hands, extra fingers, missing fingers, distorted fingers, collapsed face, excessively large eyes, too strong CG feel, anime painting, unnatural skin correction, eye makeup that looks like it's pasted on, excessive luminescence, information-overloaded background, broken kimono, unnatural chest, duplicated animals, text, logo, watermark",
+    "title": "Mystical Kitsune Shrine Portrait",
+    "description": "A sophisticated Japanese prompt for a fantasy portrait of a fox spirit woman in a traditional shrine setting during spring.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780130281222_1e5hsl_HJeFnseaEAA2QjN.jpg",
+      "https://cms-assets.youmind.com/media/1780130281189_uywlrw_HJeFnsjaMAA8tUg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23164,
+    "content": "Use the uploaded portrait only as the identity reference. Preserve the person’s real facial features, face shape, skin tone, eye shape, lips, nose structure, and recognizable hairstyle. Do not copy the original clothing, background, lighting, pose, or image quality from the uploaded portrait.\n\nCreate a realistic vertical close-up portrait photo of the person’s face captured at a tilted sideways angle, as if the camera is very close to the face through clear water or wet glass. The face fills most of the frame, with one eye closer to the camera, soft calm expression, slightly parted lips, natural gaze looking toward the lens. The head is gently rotated, creating an intimate cinematic composition without unnatural neck twisting.\n\nStyle the hair as {argument name=\"hair style\" default=\"wet, dark, and slightly messy\"}, with fine strands floating across the forehead and around the eyes. Add tiny water droplets, soft moisture on the skin, subtle floating particles, and a dreamy underwater-like atmosphere. The skin should look pale, dewy, and realistic, with visible natural texture, soft highlights, and no plastic smoothing.\n\nUse {argument name=\"lighting\" default=\"cool blue-gray lighting\"}, soft diffused highlights, shallow depth of field, cinematic blur, gentle film grain, realistic lens softness, high-detail facial realism, emotional quiet mood, delicate beauty editorial photography. Choose a {argument name=\"outfit style\" default=\"simple elegant outfit\"} that best suits the person’s appearance, such as a minimal light-toned sleeveless top or soft neutral fabric, barely visible at the edge of the frame. No text, no logo, no watermark.\n\nNegative Prompt：\n\nwatermark, logo, text, signature, AI-generated text, blurry face, distorted face, changed identity, wrong facial features, unnatural neck twist, broken anatomy, plastic skin, over-smoothed skin, doll-like face, anime style, cartoon style, heavy makeup, harsh beauty filter, extra eyes, deformed eyes, asymmetrical eyes, bad pupils, messy teeth, overexposed face, low resolution, noisy artifacts, duplicate face, cropped facial features, unnatural hair, dry hair, stiff pose, unrealistic water, random clothing, reference image watermark.",
+    "title": "Underwater Dreamy Close-up Portrait",
+    "description": "A detailed style-transfer prompt that uses an uploaded photo for identity while creating an underwater-style, cool-toned cinematic portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780130267492_gjve5z_HJdngSqbYAALl1l.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23183,
+    "content": "Transform the uploaded image into a highly detailed handcrafted embroidery artwork. IMPORTANT: - Preserve the exact facial identity, facial features, expression, age, skin tone, body proportions, hairstyle, and pose from the original image. - Convert the entire image into {argument name=\"art medium\" default=\"realistic thread embroidery and stitched textile art\"}. - Every element must appear made from {argument name=\"texture\" default=\"thousands of carefully sewn threads, yarn fibers, embroidery stitches, and textured fabric\"}. - Replace all photographic textures with authentic handcrafted embroidery textures. - Maintain the original composition and subject position. STYLE: - Ultra-detailed embroidery thread art - Visible stitch patterns and yarn texture - Handmade needlework appearance - Premium textile craftsmanship - Realistic woven fabric details - Museum-quality embroidery artwork - Rich depth and dimensional stitching - Intricate thread shading and color blending LIGHTING: - Soft cinematic lighting - Natural depth and shadows - High contrast thread details - Professional artwork presentation QUALITY: - Hyper-detailed - Ultra realistic embroidery - 8K masterpiece - Sharp focus - Professional textile art - Highly intricate stitched details. The final image should look like a real {argument name=\"final look\" default=\"handcrafted embroidered artwork created entirely with colored threads and fabric\"}, while perfectly preserving the original person's identity and composition.",
+    "title": "Handcrafted Embroidery Textile Portrait",
+    "description": "Transforms a portrait into a highly detailed handcrafted embroidery artwork made from thousands of threads, while preserving facial identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780130278045_hmddc1_HJdB4KCa0AAWxTg.jpg"
     ],
     "needReferenceImages": true
   },
@@ -89,6 +173,16 @@
     "description": "Generates a realistic bust portrait of a man with his face hidden by a skin-tone square censor block for anonymous editorial or conceptual visuals.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1780045868034_ir8w6t_HJZ4UT9XQAEYeXI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23248,
+    "content": "Using the provided reference image as the character base, regenerate the same classical Chinese beauty in a new vertical 9:16 portrait focused on “chess” from the four arts. Keep her pale blue-white translucent hanfu, elegant black updo, jade-and-pearl hair ornaments, dangling earrings, delicate loose hair strands, realistic skin texture, and soft oriental aesthetic consistent with the reference. Change the composition to a closer front-facing seated portrait with the upper body centered and hands relaxed near the lower edge. Replace the outdoor misty mountain-lake setting and guqin with an indoor scholarly scene: a wooden side table on the right holding a Go board with exactly two visible groups of stones, black and white, plus a small dark wooden bowl behind it. Add a subtle jade pendant necklace at her collarbone. Use a muted ink-wash wall or folding-screen background with pine and mountain silhouettes, soft diffused studio lighting, shallow depth of field, ultra-realistic 4K photographic detail, flowing sheer fabric, fine hair detail, and refined Eastern elegance. Optional customization: set the theme to {argument name=\"art theme\" default=\"Go chess / qí\"}, the portrait orientation to {argument name=\"aspect ratio\" default=\"9:16 vertical\"}, the garment color to {argument name=\"garment color\" default=\"pale blue-white\"}, the background to {argument name=\"background style\" default=\"indoor ink-wash wall with pine and mountains\"}, and the accessory accent to {argument name=\"accessory accent\" default=\"jade pendant necklace\"}. Avoid adding text, logos, watermarks, extra people, or modern objects.",
+    "title": "Classical Chinese Go Portrait",
+    "description": "Transforms a reference hanfu portrait into an elegant indoor classical Chinese Go-themed beauty portrait for high-resolution editorial imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780130311809_o6hvhi_HJZVoQvXAAEA5zs.jpg"
     ],
     "needReferenceImages": true
   },
