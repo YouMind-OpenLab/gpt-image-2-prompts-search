@@ -10,6 +10,102 @@
     "needReferenceImages": true
   },
   {
+    "id": 23345,
+    "content": "Goal: Create a square screenshot of a dark AI image-generation web interface showing a generated Minecraft gameplay screenshot. The interface should look like someone typed {argument name=\"user prompt\" default=\"Generate a screenshot as if I'm playing Minecraft.\"} and received a rendered game image below it.\n\nCanvas: Square 1:1 image, approximately 576 by 576 pixels, dark black background, with the content aligned near the top-left and a large empty black margin on the right and bottom.\n\nTop UI layout: At the very top-left, show the white prompt text: “Generate a screenshot as if I'm playing Minecraft.” Beneath it, show a small blue label “Model” with a vertical three-dot menu icon beside it. Below that, draw a wide dark rounded rectangle dropdown bar containing the blue text “Thinking” and a small downward chevron. The UI should feel like a minimal web app in dark mode.\n\nGenerated image panel: Under the dropdown, place a large square Minecraft-style gameplay screenshot with slightly rounded corners. The screenshot should be first-person perspective in a bright blocky village scene.\n\nMinecraft scene details: Show a sunny daytime village with a blue sky and exactly 8 visible white blocky cloud clusters. On the left foreground, include a partially visible wooden-and-cobblestone house with a wooden door, plank roof, cobblestone wall, and a lit torch. In the center distance, show a gray stone church/tower with narrow yellow-lit windows. Around it, include a small village house, a leafy green tree, grass blocks, a dirt path, and a fenced crop field. The crop field should contain golden wheat, green crops, a wooden fence border, and exactly 6 visible torch posts with yellow flames around the village/farm area. Keep the Minecraft aesthetic authentic: cubic blocks, pixelated textures, low-resolution game rendering, no photorealism.\n\nFirst-person HUD and equipment: In the lower left foreground, show a raised shield. In the lower right foreground, show the player holding an iron sword. Along the bottom, draw the Minecraft HUD with exactly 10 red hearts, exactly 10 hunger drumsticks, a green experience level number “18,” and a 9-slot hotbar. The hotbar should contain these 9 visible slots from left to right: shield icon, iron sword, pickaxe, axe, shovel, empty or dark slot, stack of 64 blocks, stack of 23 torches/items, stack of 17 items, plus a water bucket icon visible at the far right edge if space permits. Make the HUD slightly pixelated and game-accurate.\n\nVisual style: The whole image should look like an actual screenshot of a browser-based AI generator displaying a generated Minecraft gameplay image, not a clean standalone render. Use dark UI chrome, small crisp text, and a blocky game screenshot embedded inside it. No watermark, no extra captions, no logos.",
+    "title": "Minecraft Gameplay in AI Generator UI",
+    "description": "A dark web app screenshot showing a generated first-person Minecraft village gameplay scene with HUD, useful for recreating the tweet-style AI game screenshot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780217250710_kkkmwu_HJlvMQQWEAYHiWK.png",
+      "https://cms-assets.youmind.com/media/1780217250776_jejuuz_HJlvMQAXkAAbMS8.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23350,
+    "content": "Goal: Create a dark futuristic mobile web app screen for a custom trading card generator called {argument name=\"app name\" default=\"CARDIFY\"}, showing one completed fantasy TCG card ready to finalize.\n\nCanvas: Vertical smartphone screenshot, 720×1200 style aspect ratio, black and charcoal background with thin neon cyan divider lines and rounded borders. Overall look is premium cyberpunk UI mixed with high-detail fantasy card art.\n\nLayout: Top navigation bar contains exactly 3 visible elements: a large stylized CARDIFY logo on the left, a circular neon cyan shopping cart icon near the upper right, and a neon cyan three-line hamburger menu icon at the far right. Below it is a centered card preview inside a thin cyan rounded rectangle panel. Under the card preview, show small gray monospace text reading “Tap to flip card”. At the bottom, place exactly 3 action buttons: a large cyan-outlined rectangular button labeled “Finalize →”, a smaller yellow-outlined square button with a wrench icon, and a smaller purple-outlined square button with a download icon.\n\nTrading card design: The card is a vertical fantasy collectible card with rounded corners, ornate red-gold metallic frame, glowing crimson highlights, and electric purple energy curling around the border. The card title bar at the top reads {argument name=\"card title\" default=\"The Moosk\"} in large white serif type. On the right side of the title bar are exactly 3 circular mana/type icons: a skull icon, a red dragon/swirl icon, and a blue water droplet icon. The lower type bar reads {argument name=\"type line\" default=\"Legendary Creature — Human Rogue\"} in gold serif text, with a small star-like rarity emblem to its right. The flavor text box below reads {argument name=\"flavor text\" default=\"He walks between worlds.\"} in italic white serif type. The bottom-right power/toughness badge reads {argument name=\"power toughness\" default=\"5/4\"} in large bold white numerals.\n\nMain card artwork: A dramatic anime-fantasy illustration of a lone male rogue viewed from behind, standing on a rocky cliff at sunset. He has short dark hair, dark armor, and a huge tattered black cloak streaming leftward in the wind. He holds a glowing orange-red sword pointed downward in his right hand. In the distance is a luminous ocean horizon with a large setting sun, red and purple clouds, and a dark spired fantasy city near the water. Purple lightning arcs and magical energy ribbons surround the character and frame, with red sparks scattered through the cloak and foreground. Use extremely detailed painterly digital art, high contrast, cinematic lighting, saturated magenta, violet, crimson, orange, and gold.\n\nConstraints: Keep the screen as a mobile app mockup, not a standalone card. Use exactly 1 trading card preview, exactly 3 top navigation elements, exactly 3 mana/type icons, and exactly 3 bottom action buttons. Preserve all visible UI text clearly. Do not add extra cards, popups, watermarks, or unrelated interface panels.",
+    "title": "Cyberpunk Fantasy Trading Card App",
+    "description": "Generates a mobile app mockup displaying a customizable fantasy trading card with ornate card art and neon action controls.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780217251686_z5e5dt_HJldlqfWEAIj5_h.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23290,
+    "content": "Hyper-realistic 3D caricature in {argument name=\"style\" default=\"collectible chibi doll style\"}, ultra-detailed rendering, softbox studio lighting, smooth infinite white background. Proportions: GIANT, round, adorable head with extreme chibi proportions. Small, chubby, baby-like body with short, pudgy arms and legs. Head-to-body ratio 2:1. Toddler height. Face: Extreme pouty, sulky, grumpy expression. Furrowed and lowered eyebrows creating a deep wrinkle in the center of the forehead. Large, shiny brown eyes, slightly squinted with irritation. Small upturned pink nose. Mouth with a VERY exaggerated forward pout, protruding lower lip, creating a baby-like double chin effect. VERY LARGE, round, rosy, puffed cheeks. Baby double chin. Porcelain-like skin with soft, realistic texture. Hair: Voluminous, wavy, messy hair. Loose and frizzy strands falling across the face and nape, giving a tousled appearance. Adapt hair color and length according to the reference image. Maintain the same fluffy volume and texture. Pose: Standing with the head tilted to one side, body slightly curved. Both hands tucked into the front pockets of the shorts. Drooping shoulders. Classic \"I'm upset\" posture. Clothing: {argument name=\"outfit\" default=\"Basketball-style athletic tank top\"} with contrasting collar and armhole trim, plus loose sports shorts with a drawstring. High-top sneakers in an All-Star style. Thin necklace with a pendant around the neck. Bracelets on the wrists. Keep exactly the same sportswear design, but use {argument name=\"color scheme\" default=\"RANDOM COLORS\"} different from the original red/white combination. Keep the logo and number on the jersey, but feel free to change the text/number. Art Style: Photorealistic 3D collector doll render, soft skin texture, gentle lighting, highly detailed strand-by-strand hair, delicate shading. Same cute yet irritated character style.",
+    "title": "Hyper-Realistic 3D Chibi Doll",
+    "description": "A detailed 3D collectible doll style prompt for creating grumpy, pouty baby characters with high-quality studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780217222664_lght2t_HJlTOUxaAAAa1JV.jpg",
+      "https://cms-assets.youmind.com/media/1780217222738_mblgss_HJlTOWrbAAA6l74.jpg",
+      "https://cms-assets.youmind.com/media/1780217222665_blhj3x_HJlTObza4AAkL19.jpg",
+      "https://cms-assets.youmind.com/media/1780217223291_rgjinh_HJlTOi2aYAAAYxb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23291,
+    "content": "Create a high-density anime production document inspired by official character guidebooks. Preserve {argument name=\"character\" default=\"the character exactly as shown in the reference\"}. Include front view, back view, expression sheet, face details, costume specifications, prop references, color keys, and technical annotations. {argument name=\"background\" default=\"Warm cream-yellow background\"}, clean layout, subtle paper texture, organized information blocks, and professional English-only labels and notes. Authentic animation studio reference material style.",
+    "title": "Anime Character Production Guide Sheet",
+    "description": "A detailed prompt for creating professional anime studio production documents, including character expressions, costume specs, and color keys.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780217223927_r028t1_HJkdg41bgAAgEPW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23304,
+    "content": "Create a Character reference image {argument name=\"character subject\" default=\"Indian Warrior\"} with turnaround pictures with Accessories ( Name them), colour pallette, and facial expressions",
+    "title": "Character Reference Sheet Template",
+    "description": "A structured prompt for generating a character reference sheet with turnarounds, accessories, and facial expressions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780217229932_rdc23i_HJjAmaabUAAPk3D.jpg",
+      "https://cms-assets.youmind.com/media/1780217229943_onhnb3_HJjAma1akAAaJoe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23318,
+    "content": "Can you make me into {argument name=\"count\" default=\"6\"} characters in {argument name=\"era\" default=\"2000s\"} cartoon shows",
+    "title": "2000s Cartoon Character Transformation",
+    "description": "Transform a reference photo into multiple character versions inspired by nostalgic 2000s cartoon shows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780217236152_55hkiu_HJiGO1MWoAMkcbJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23289,
+    "content": "Dark fantasy cinematic top-down portrait of a {argument name=\"subject\" default=\"fierce young warrior woman\"} standing alone in glowing {argument name=\"environment\" default=\"icy-blue water\"}, dual daggers in both hands, piercing luminous blue eyes staring upward with intense determination, surrounded by shadowy distorted figures emerging from the darkness beneath the water, eerie reflections and ghostly faces surrounding her, dramatic overhead composition, teal and deep black color palette with scattered crimson flowerpetals floating on the surface, moody atmospheric lighting, ultra-detailed wet fabric and skin textures, realistic water ripples and reflections, mystical and ominous atmosphere, high-contrast cinematic shadows, volumetric underwater glow, fantasy realism, hyper-detailed character design, emotionally powerful expression, haunting supernatural environment, dark enchanted aesthetic, ultra-realistic digital painting, 8K masterpiece.",
+    "title": "Dark Fantasy Warrior Woman Portrait",
+    "description": "A top-down cinematic portrait of a warrior woman in glowing icy water, featuring dual daggers and an ominous dark fantasy atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780217222737_sitk6d_HJiFysuaMAAEvzX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23323,
+    "content": "A {argument name=\"character type\" default=\"storm-born lightning rogue\"} who dances along electric arcs, chaining devastating bolts between enemies, supercharging allies with crackling speed, and collapsing the sky into a cataclysmic thunder dome where every strike births chain-lightning explosions.",
+    "title": "Storm-Born Lightning Rogue Character",
+    "description": "A fantasy character prompt for a rogue who manipulates electricity, featuring cinematic descriptions of lightning effects and high-speed combat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780217237946_cd7723_HJiD6GpWQAMoqx9.jpg",
+      "https://cms-assets.youmind.com/media/1780217238267_hkx82v_HJiD7MgW8AEBYLU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23272,
+    "content": "Ultra-realistic cinematic fantasy portrait of a young man crouching confidently on a floating pathway made of glowing puzzle pieces high above the clouds during sunset. The man has a {argument name=\"facial hair\" default=\"trimmed ginger beard\"}, relaxed confident expression, and wears a {argument name=\"hat\" default=\"black NFL cap backwards\"}, oversized white t-shirt, dark ripped jeans, and clean white Nike sneakers. One hand rests casually on his knee while the other reaches forward holding a {argument name=\"card\" default=\"giant floating Ace of Spades card\"} toward the camera in dramatic forced perspective.\n\nThe environment is a surreal magical vortex tunnel made of swirling playing cards spinning around him in the sky, with hundreds of flying poker cards, glowing particles, sparks, and floating puzzle fragments suspended in the air. In the distant background, an ethereal fantasy castle rises above the clouds with warm golden sunset lighting illuminating the entire scene.\n\nHighly detailed textures, cinematic depth of field, ultra-dynamic composition, volumetric lighting, orange and purple color grading, dreamlike atmosphere, hyper-realistic skin details, glowing reflections, wide-angle lens distortion, epic fantasy realism, photorealistic, Unreal Engine 5, 8K, masterpiece, dramatic shadows, immersive perspective, magical realism.",
+    "title": "Fantasy Card Master Portrait",
+    "description": "A surreal and dramatic cinematic portrait of a character on a floating pathway, surrounded by magical cards and fragments in a sunset sky.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780217213757_sosolc_HJh8bhSaAAAxE3d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 23211,
     "content": "Use {argument name=\"background image\" default=\"reference image 1\"} as the main background environment.\nUse {argument name=\"character image\" default=\"reference image 2\"} as the character design reference, including face, body balance, hairstyle, and overall impression.\nUse {argument name=\"outfit image\" default=\"reference image 3\"} as the outfit design reference.\nCreate one full-body character standing upright in the scene.\nKeep the character naturally integrated into the background, with matching perspective, lighting direction, shadow, color temperature, and atmosphere.\nDo not change the character’s identity, body proportions, facial impression, or outfit structure.\nThe character should stand calmly and clearly, with a natural straight posture, both feet on the ground, and a stable body balance.\nMake the result look like one unified finished image, not a collage.\nHigh-quality, clean, detailed, polished image generation.\nAvoid extra limbs, broken fingers, distorted hands, missing body parts, ghosting, duplicated faces, unnatural anatomy, messy clothing, and visual noise.",
     "title": "Three-Image Fusion and Integration",
@@ -59,16 +155,6 @@
     "description": "A dense cyberpunk anime construction-site city illustration featuring a giant unfinished girl embedded in scaffolding and industrial architecture.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1780130306557_qom44i_HJfZOoNbIAA4f1y.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 23238,
-    "content": "Create a highly detailed vertical anime architectural illustration titled visually as an endless structure. Show {argument name=\"character name\" default=\"a young person\"} falling through the center of an immense futuristic construction megastructure, viewed from a dramatic top-down / wormhole perspective with extreme depth and vertigo. The character is the only main human figure: messy dark windblown hair, surprised open-mouthed expression, one arm reaching upward, the other arm thrown out, body twisting in freefall, wearing a loose off-white utility jumpsuit, green harness straps, white socks, and chunky gray sneakers with red accents and visible soles. Surround them with an impossibly dense scaffolding city made of transparent glass tubes, lattice beams, cranes, platforms, elevators, circular pods, capsules, and unfinished high-rise modules, all receding into a deep central shaft. Use exactly one main falling character, five prominent transparent spherical pods, three prominent construction cranes, four large red lattice structural towers or gantries, two yellow cylindrical tunnel sections, one tall blue glass cylinder, one black vertical stair-like shaft, and many tiny distant workers on platforms for scale. The environment should feel like a never-ending architectural framework: white concrete wall panels with round and rectangular openings, wireframe trusses, suspended bridges, railings, pipes, colored modules, and exposed construction geometry. Color palette: clean white and pale gray structure with vivid accents of red, yellow, green, blue, and cyan glass. Style: ultra-intricate Japanese sci-fi anime illustration, fine ink linework, precise architectural draftsmanship, transparent technical layers, crisp cel-shaded character, high detail, dynamic motion, no blur, no photorealism. Composition: vertical 2:3 poster, the character slightly above center, shoes foreshortened toward the viewer, surrounding architecture tilted diagonally to heighten disorientation, deep vanishing point far below. Add small handwritten signature/date text in the lower right reading {argument name=\"signature text\" default=\"May 29, 2026 Cyagi\"}.",
-    "title": "Endless Megastructure Freefall",
-    "description": "A dense sci-fi anime poster prompt showing a lone character falling through a vast unfinished architectural megastructure.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780130307539_89un7v_HJfXic9bgAAvqIB.jpg"
     ],
     "needReferenceImages": true
   },
