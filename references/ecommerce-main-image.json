@@ -1,14 +1,47 @@
 [
   {
-    "id": 23335,
-    "content": "A {argument name=\"food item\" default=\"burger\"} split open and exploding outward, revealing {argument name=\"filling\" default=\"melted cheese\"} inside, with [filling action]. The outer surface shows [outer texture], and the cross-section exposes [internal layers]. Crumbs and particles hang suspended mid-air. Shot against a clean [background] with professional studio lighting, high-end commercial food photography aesthetic, ultra-detailed, tack-sharp focus.",
-    "title": "Exploding Food Action Photography",
-    "description": "A professional food photography prompt template designed to capture items exploding outward to reveal internal textures and fillings.",
+    "id": 23436,
+    "content": "A fashion editorial shot of a {argument name=\"subject\" default=\"person\"} striking a bold pose, with an {argument name=\"product size\" default=\"oversized product\"} as the central hero element. Vibrant, playful energy throughout. Clean, minimal studio background. High-key lighting with soft, crisp shadows. Ultra-realistic commercial photography aesthetic. Wide-angle, low camera angle. Tack-sharp focus, 8K quality, square 1:1 format.",
+    "title": "Oversized Product Editorial Fashion Shot",
+    "description": "This prompt generates a high-key fashion editorial featuring a bold pose with an oversized hero product, emphasizing vibrant energy and commercial photography standards.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780217244170_8wjhug_HJohIiPagAAYZQ4.jpg",
-      "https://cms-assets.youmind.com/media/1780217244145_vmtb2q_HJohIiNbEAARlDV.jpg",
-      "https://cms-assets.youmind.com/media/1780217244487_4fl67z_HJohIiIasAACWbG.jpg",
-      "https://cms-assets.youmind.com/media/1780217244801_p9gc1c_HJohIiLbQAAii-6.jpg"
+      "https://cms-assets.youmind.com/media/1780307024048_afjwa3_HJqqWcXbUAA4vcm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23486,
+    "content": "Create a clean, minimalist fashion outfit analysis infographic with a soft cream-beige background. On the left, show a full-body stylish young woman from the reference image taking a mirror selfie with a smartphone. She has long, dark brown naturally wavy hair, clean and transparent makeup, a gentle and intellectual temperament, and wears simple and exquisite gold earrings, showcasing a Korean-style light mature commute aesthetic. She is wearing a cream-white short slim-fit knit top, layered with a cream-white blazer, paired with light gray high-waisted straight-leg trousers, a thin black leather belt at the waist, black and white color-block loafers, carrying a dark brown minimalist tote bag, and wearing refined, low-key gold jewelry (earrings, necklace, watch, ring). On the right, display the organized outfit components in the form of rounded rectangular cards with subtle borders and shadows. Include the following labeled sections: HAIR, BLAZER, TOP, PANTS, BAG, LOAFERS, ACCESSORIES. Each section displays a simple, independent product image consistent with the overall outfit. Accessories include: gold stud earrings, fine chain necklace, simple watch, ring. The overall style is: fashion magazine editorial layout, Pinterest aesthetic, Korean-style light mature commute style, neutral tones, urban white-collar fashion guide, soft studio lighting, ultra-simple composition, high-end e-commerce display, realistic fabric texture, elegant typography, symmetrical spacing, high-end lifestyle brand feel, 4K quality, highly detailed, photorealistic. Negative Prompt: Low quality, blurry, extra limbs, distorted hands, bad anatomy, cluttered background, watermark, logo, repeated items, messy layout, excessive accessories, harsh shadows, oversaturated colors, body cropped, text errors, misaligned labels, cartoon, illustration, CGI, unrealistic proportions.",
+    "title": "Korean Style Fashion Outfit Infographic",
+    "description": "Creates a minimalist fashion infographic with a mirror selfie on the left and a structured breakdown of outfit components on the right.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780307050203_aqcht0_HJqAj-RaIAAlp5W.jpg",
+      "https://cms-assets.youmind.com/media/1780307050309_u02equ_HJqAj-XbsAA2J39.jpg",
+      "https://cms-assets.youmind.com/media/1780307050238_r41wcq_HJqAj-9bgAAoluW.jpg",
+      "https://cms-assets.youmind.com/media/1780307051188_5angdw_HJqAj_BbAAAoFfR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23335,
+    "content": "A {argument name=\"food item\" default=\"pastry\"} split open and exploding outward, revealing {argument name=\"filling\" default=\"molten chocolate\"} inside, with {argument name=\"filling action\" default=\"oozing out\"}. The outer surface shows [outer texture], and the cross-section exposes [internal layers]. Crumbs and particles hang suspended mid-air. Shot against a clean [background] with professional studio lighting, high-end commercial food photography aesthetic, ultra-detailed, tack-sharp focus.",
+    "title": "Exploding Food Commercial Photography",
+    "description": "A professional studio photography prompt for capturing high-speed action shots of food items exploding outward to reveal their internal textures and fillings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780307040017_qytnwy_HJohIiPagAAYZQ4.jpg",
+      "https://cms-assets.youmind.com/media/1780307040028_ypbzt6_HJohIiNbEAARlDV.jpg",
+      "https://cms-assets.youmind.com/media/1780307040040_6dtncf_HJohIiIasAACWbG.jpg",
+      "https://cms-assets.youmind.com/media/1780307040971_lkyl9w_HJohIiLbQAAii-6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23439,
+    "content": "Generate a photorealistic product packaging mockup for a {argument name=\"product type\" default=\"premium matcha energy drink\"} named “{argument name=\"brand name\" default=\"FOCUS LEAF\"}”. Scene: one sleek aluminum can on a matte stone surface with soft morning window light. Important details: minimalist Japanese-inspired design, pale green and cream palette, condensation droplets, realistic shadows. Include exact label text: “FOCUS LEAF”, “MATCHA + L-THEANINE”, “ZERO SUGAR”, “12 FL OZ”. Use case: product concept. Constraints: all text must be spelled correctly, no extra brand names, no distorted typography.",
+    "title": "Premium Matcha Drink Packaging Mockup",
+    "description": "Creates a photorealistic product mockup for canned drinks with Japanese-inspired minimalist design, featuring realistic textures and condensation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780307025887_q2ob7b_HJnGZDGbgAAw1zY.jpg"
     ],
     "needReferenceImages": false
   },
