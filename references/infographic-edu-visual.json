@@ -41,6 +41,42 @@
     "needReferenceImages": true
   },
   {
+    "id": 23655,
+    "content": "Design a high-quality poster providing information about the weather in {argument name=\"location\" default=\"Istanbul\"} on {argument name=\"date\" default=\"June 2, 2026\"}.",
+    "title": "Istanbul Weather Information Poster",
+    "description": "A clean and high-quality prompt for generating posters that display localized weather details for a specific date and city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780392021370_1pjkbk_HJwh-DyXAAA00_J.jpg",
+      "https://cms-assets.youmind.com/media/1780392021384_rnusin_HJwh-DxWYAAbXoL.jpg",
+      "https://cms-assets.youmind.com/media/1780392021363_jtvttc_HJwh-DnWMAArBYM.jpg",
+      "https://cms-assets.youmind.com/media/1780392022248_axr18d_HJwh-DxXIAAk4c9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23679,
+    "content": "Using REFERENCE_0 as the character base, create a consistent set of exactly 8 Japanese educational slide images about {argument name=\"topic\" default=\"Claudeに『部下AI』を持たせる\"}. Keep the character design, outfit, mask, hairstyle, and cyberpunk details consistent with the reference, but redraw the character in new poses and expressions for each slide.\n\nOverall format: Each slide should look like a hand-drawn notebook/sketchbook page with a cream paper background, black rounded outer frame, left-side spiral binding, marker-style Japanese handwriting, red emphasis marks, arrows, check marks, small icons, and simple workflow diagrams. Use a warm analog note-taking style rather than a clean corporate deck. Maintain the same slide design language across all 8 images.\n\nCharacter placement: Place the character as a presenter/mascot on the right side or lower-right area of most slides. Vary the pose naturally: surprised with both hands open, pointing at diagrams, holding a clipboard, sitting while reviewing, making an OK/check gesture, or explaining with one raised finger. Preserve the reference character’s identity and clothing.\n\nGenerate exactly these 8 slide topics:\n1. Opening / overall overview: Title text {argument name=\"headline text\" default=\"Claudeに『部下AI』を持たせる\"}; subtitle {argument name=\"subtitle text\" default=\"15分で仕事を自動化する5つのテンプレート\"}; main message: 「部下AI」が開発の常識を変えた; include the five automation examples: コードレビュー, テスト作成, ドキュメント生成, 全部15分で自動化, and a simple checklist-like layout.\n2. What is a sub-agent: Explain 「サブエージェントとは」 as a reusable AI role or specialist assistant. Include small role cards and arrows showing a main Claude agent delegating tasks.\n3. Why it is needed: Explain 「なぜ必要か」 with a before/after comparison, emphasizing that repeatedly asking AI for the same tasks is inefficient and can be turned into templates.\n4. Code reviewer: Title 「コードレビュー」; show a GitHub/code review style flow with files, comments, bugs, and a check mark.\n5. Test writer: Title 「テストライター」; show a test-generation workflow with steps, file names, unit tests, and pass/fail style icons.\n6. Security scanner: Title 「セキュリティスキャナー」; show risk levels CRITICAL, HIGH, MEDIUM, LOW and emphasize that the agent detects issues but does not automatically fix them.\n7. Cost optimization: Title 「コスト削減の鍵：モデルの使い分け」; show a comparison that cheaper/smaller models can handle simple checks and that costs can become much cheaper, with bold red savings notes.\n8. Start today / summary: Title 「今日から始める一歩」; show a simple 3-step process: create a template, place it in a Claude agents folder or workflow, ask for review/automation, then mark it complete with a big check.\n\nText style: Use Japanese text throughout. Make headlines large and bold, with red underlines and handwritten annotations. Keep diagrams simple and readable. Use only the listed 8 slide topics and do not add extra slides.\n\nConstraints: Keep the same notebook layout, cream color palette, black border, left spiral binding, and consistent character identity across every image. Avoid photorealism, avoid 3D rendering, avoid watermarks, and do not change the character into a different person.",
+    "title": "Notebook Slides With Reference Character",
+    "description": "Creates an 8-slide Japanese notebook-style educational deck using a provided character sheet as a consistent presenter mascot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780392040173_hku0q8_HJuUnBgbIAA-nzl.jpg",
+      "https://cms-assets.youmind.com/media/1780392040017_08jfg8_HJudbULbAAAQONc.jpg",
+      "https://cms-assets.youmind.com/media/1780392040172_pp6lfo_HJudddMa8AAeD-v.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23660,
+    "content": "Please turn this {argument name=\"source\" default=\"Google Map\"} screenshot into a beautiful {argument name=\"output style\" default=\"illustration\"} while faithfully reproducing the buildings.",
+    "title": "Google Maps to Illustration Transformation",
+    "description": "A transformation prompt that turns a Google Maps screenshot into a beautiful illustration while maintaining architectural fidelity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780392026302_tw4fea_HJtzs7JaUAAIfiG.jpg",
+      "https://cms-assets.youmind.com/media/1780392026372_jlrtlg_HJtzs_Ea0AAtRFb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23466,
     "content": "2x2 grid, 16:9, do mecca and 3 other famous cities, and 4 different render engines=>  A patisserie-style showpiece spells {argument name=\"city\" default=\"MECCA\"}; pâte sucrée walls, laminated layers visible on cut faces, powdered sugar ‘snow’, chocolate truss bridges, isomalt glazing for water features. A tiny {argument name=\"building\" default=\"landmark\"} crowns the centerpiece. Warm bakery glow, practical crumbs and cooling rack imprint, 35mm at f/5.6. {argument name=\"render engine\" default=\"Octane render\"},  rustic wood counter",
     "title": "Pastry City Architectural Showpiece",
@@ -49,29 +85,6 @@
       "https://cms-assets.youmind.com/media/1780307039168_o4g29y_HJZq9TsWEAYyfmO.jpg"
     ],
     "needReferenceImages": false
-  },
-  {
-    "id": 23484,
-    "content": "Centered on the specific subject content of the user-input image, redraw the subject as a child's marker hand-drawing on a horizontal sheet of white paper. First, extract the most recognizable outer contours, posture direction, local landmarks, functional components, and identity colors from the input content, compressing complex details into a few clear large shapes; the subject does not pursue realistic proportions or precise structures, but is established with thick black hand-drawn outer contours, loose internal structural lines, and naive but recognizable deformations. The main weight of the composition is placed in the center or lower-middle, with wide, clean white paper space reserved around it, making the subject look like a protagonist symbol carefully drawn on paper by a child. Use limited high-saturation marker color blocks: one strong primary color derived from the subject's identity bears the mass of the subject, one auxiliary strong color segments the structure and movement, and small areas of bright colors highlight the most important identification parts; black is responsible for holding down the contours, while the white paper serves simultaneously as the background, highlights, and negative space. All color blocks must have rough handmade traces, retaining short dry brush marks, unfilled gaps, slight overruns, colors overlapping lines, and line-color misalignments, avoiding realistic light and shadow, delicate gradients, or polished textures. The background remains a white paper action field without building a complete environment; only sparse red, blue, and black hand-drawn speed lines, wavy lines, lightning-style broken lines, cloud-shaped lines, short vertical lines, or exclamation marks are placed around the direction of movement, line of sight, and emotional pressure of the subject, letting the background carry air, sound, speed, and information cues. Complex textures, patterns, and small decorations from the input image are all transformed into short lines, blocks, negative space, and child-like memory symbols; key identity components must be drawn clearly, while non-essential parts remain brief, slanted, and not perfectly symmetrical. If text is needed, use only short handwritten onomatopoeia, exclamations, or edge annotations, with handwriting resembling action lines scribbled with a thick pen, without formal layout. The overall completion stops at a clear but unrefined stage, and the image should look like a child-like action drawing on real paper made with thick black markers and high-saturation colored pens, instantly recognizing the input subject while retaining the jitter, negative space, overdrawing, and naive inaccuracies brought by a child's hand control.",
-    "title": "Children Marker Drawing Style",
-    "description": "A transformation prompt that turns any input subject into a charming children's marker drawing on white paper with vibrant colors and hand-drawn imperfections.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780307049401_xqk5z2_HJqZz55bAAA9xe3.jpg",
-      "https://cms-assets.youmind.com/media/1780307049460_o10csi_HJqZ110bcAACrFX.jpg",
-      "https://cms-assets.youmind.com/media/1780307049413_10vf4h_HJqZ3L3bcAAwCQO.jpg",
-      "https://cms-assets.youmind.com/media/1780307050018_e2azr4_HJqZ50kbEAAhMCZ.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 23475,
-    "content": "Ultra-detailed portrait in a modernist illustration style, inspired by architectural blueprints and technical drafting. The face is segmented into geometric layers filled with circuit diagrams, city schematics, building grids, and structural blueprints. Dense black ink linework with cross-hatching and engraving shading on a crisp white background. Strategic color accents in deep crimson, steel blue, and amber yellow as flat color blocks and semi-transparent overlays. Realistic detailed eyes with sharp catchlights, round-frame glasses. Balanced high-contrast composition, clean precise edges, magazine-quality poster clarity. Editorial conceptual aesthetic, futuristic tech-intellect vibe, human identity fused with data visualization. Ultra-sharp, zero distortion, symmetrical, print-ready. Ultra-detailed stylized portrait using my face as reference. Intellectual, modernist illustration style inspired by architectural blueprints and editorial line art. Face split into layered geometric sections with visible technical diagrams, city interiors, structural grids, and abstract architectural elements embedded within the facial planes. Fine ink linework, cross-hatching, and engraving-style shading. Clean white background with dense black line drawings. Bold accent colors only in selected regions: deep red, muted blue, and warm yellow, applied as flat graphic blocks and translucent overlays. Sharp, thoughtful eyes with realistic highlights, wearing thin round glasses. Minimalist yet complex composition, high contrast, crisp edges, poster-grade clarity. Editorial illustration aesthetic, conceptual portrait, futuristic intellect vibe, data visualization meets human identity. Extremely sharp, ultra-high resolution, professional magazine cover quality, no blur, no distortion, balanced symmetry. Negative prompt: photorealism, soft blur, painterly strokes, oil painting, low detail, messy colors, cartoonish style, exaggerated proportions",
-    "title": "Architectural Blueprint Portrait",
-    "description": "A stylized conceptual portrait prompt where a face is segmented into geometric layers of technical drafting and city blueprints.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780307044683_fm62fn_HJqPLYcaEAAeRk5.jpg"
-    ],
-    "needReferenceImages": true
   },
   {
     "id": 23486,
