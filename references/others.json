@@ -1,5 +1,39 @@
 [
   {
+    "id": 23810,
+    "content": "clean illustration, smooth shading, soft lighting, controlled details, minimal texture, high clarity, refined edges, smooth gradients --no noise, grain, artifacts, high frequency detail, dirty texture, oversharpen, blotchy, chaotic details",
+    "title": "Clean Illustration Smoothing Filter",
+    "description": "A utility prompt designed to reduce AI artifacts and create cleaner, smoother, and more professional-looking illustrations by minimizing noise and grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479121046_5h2t3j_HJzV_qnbIAAyEa3.jpg",
+      "https://cms-assets.youmind.com/media/1780479121106_vjj7ra_HJzWArWbwAAXmPt.jpg",
+      "https://cms-assets.youmind.com/media/1780479121047_k8fdlw_HJzWArla0AA92Ip.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23758,
+    "content": "Traditional Korean hanok village street, watercolor architectural sketch, urban sketching masterpiece, hand-drawn ink lines with loose watercolor washes, detailed curved tiled rooftops, wooden doors and traditional architecture, soft earthy tones, beige, warm brown, gray slate roofs, subtle splatter effects, textured watercolor paper background, minimalist composition, clean white negative space, atmospheric perspective, delicate linework, travel sketchbook illustration, plein air painting style, highly detailed architecture, soft morning light, realistic proportions, elegant brush strokes, ink and wash technique, professional architectural rendering, peaceful historic alleyway, reflections on wet stone pavement, fine pen sketch details, muted color palette, artistic watercolor journal, East Asian heritage architecture, ultra detailed, high quality, watercolor and ink illustration.",
+    "title": "Korean Hanok Watercolor Sketch",
+    "description": "A beautiful architectural sketch prompt that produces traditional Korean hanok village scenes in a delicate watercolor and ink style, suitable for travel journals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479094719_tm77qi_HJzRPVXWIAARfas.jpg",
+      "https://cms-assets.youmind.com/media/1780479094732_ywhex3_HJzRPRhWsAArrHV.jpg",
+      "https://cms-assets.youmind.com/media/1780479094783_gtrycz_HJzRPiEXAAE8N0P.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23757,
+    "content": "Dual-mood portrait of a young woman at golden sunset. One side smiling in a {argument name=\"shirt color\" default=\"red\"} t-shirt and jeans,pulling back torn paper to reveal a {argument name=\"hidden mood\" default=\"sad grayscale\"} version against a cracked wall.Cinematic lighting, shallow DOF,emotional contrast, ultra-realistic, 8K,powerful visual metaphor.",
+    "title": "Dual-Mood Sunset Portrait",
+    "description": "An emotional and artistic prompt that creates a dual-contrast portrait, tearing away a happy exterior to reveal a sad grayscale reality against a cracked wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479094429_nm46vk_HJx4fSjbMAA0iL-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23667,
     "content": "Create a vertical cinematic ancient Chinese fantasy portrait of a noble princess in an icy palace, shown from mid-thigh to head in a centered frontal composition. The subject is {argument name=\"character gender\" default=\"a young woman\"} with long flowing {argument name=\"hair color\" default=\"black hair\"}, wearing an ethereal {argument name=\"robe color\" default=\"white and pale ice-blue\"} hanfu-inspired ceremonial gown with translucent wide sleeves, layered silk, delicate embroidery, silver filigree, pearl chains, crystal drops, and ornate beaded shoulder drapes. Give her an elaborate silver phoenix crown and hair ornaments with many dangling pearls, crystals, floral metalwork, and thin chains framing both sides of the face. The expression should be serene and regal, with refined beauty, but keep the face unobstructed and natural. The background is a grand frozen palace hall with tall carved columns, pale stone reliefs, soft mist, floating snow or dust particles, and cool blue-gray light. Use shallow depth of field, luminous backlighting, high-detail jewelry, sparkling highlights, soft volumetric haze, elegant xianxia costume-drama styling, ultra-realistic fashion photography, 9:16 vertical aspect ratio. Avoid modern objects, text, logos, harsh colors, exaggerated anatomy, and visible facial covering.",
     "title": "Icy Xianxia Princess Portrait",

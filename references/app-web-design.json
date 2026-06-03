@@ -10,22 +10,99 @@
     "needReferenceImages": true
   },
   {
+    "id": 23806,
+    "content": "The subject is {argument name=\"subject\" default=\"a girl from a water town and a cat\"}. The image uses clean and smooth lines to shape the form, with a simple yet aesthetic design. The background retains a large area of white space, and the color palette is primarily soft neutral tones, with small amounts of vibrant color added as visual focal points. The overall composition is refined and balanced, with an elegant and fresh atmosphere, possessing the texture of high-end magazine illustrations and modern art posters, with no text.",
+    "title": "Minimalist Illustration of Girl and Cat",
+    "description": "A minimalist magazine-style prompt for an illustration of a water town girl and a cat, focusing on clean lines and elegant balance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479119322_tv9dxa_HJ31uoWbAAIfM0R.jpg",
+      "https://cms-assets.youmind.com/media/1780479119265_q2pvj2_HJ32HOSacAAp_-s.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23816,
+    "content": "Transform the person in the photo into {argument name=\"art style\" default=\"Contemporary Japanese line-art illustration\"}, {argument name=\"technique\" default=\"ultra detailed pen-and-ink drawing\"}, {argument name=\"color palette\" default=\"cream yellow and ivory color palette\"}, minimalist editorial design, refined hatching and engraving texture, clean negative space, indie magazine aesthetic, soft literary atmosphere, delicate facial features, Scandinavian simplicity mixed with Japanese graphic design, museum-quality illustration, subtle vintage print texture, elegant composition, highly detailed, 8k.",
+    "title": "Japanese Line-Art Portrait Stylization",
+    "description": "A prompt for transforming photographs into minimalist, high-detail Japanese pen-and-ink line-art illustrations with a vintage magazine aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479123276_1hzugy_HJ3Z9yvboAA5-bE.jpg",
+      "https://cms-assets.youmind.com/media/1780479123282_ixqnef_HJ3Z9ycbEAAsXq5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23817,
+    "content": "Redesign all the screens of {argument name=\"app\" default=\"this app\"}",
+    "title": "Mobile App UI Redesign",
+    "description": "A simple yet effective prompt for redesigning mobile application layouts, focusing on high personality and clear information density.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479123912_qrg8vq_HJ1oC82XUAAJuUl.jpg",
+      "https://cms-assets.youmind.com/media/1780479123857_y8u3bz_HJ1oGa0XwAAN0qM.jpg",
+      "https://cms-assets.youmind.com/media/1780479123883_p0rth1_HJ1oJTnXAAAae9h.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23835,
+    "content": "Goal: Create a wide editorial hero banner about {argument name=\"headline topic\" default=\"Codex的下一块拼图\"}, showing a jigsaw-puzzle metaphor for AI coding, visual design, and missing capabilities.\n\nCanvas: Ultra-wide horizontal banner, approximately 5:2 aspect ratio, dark charcoal technical background with faint grid lines, subtle blueprint marks, tiny dots, and thin circuit-like guide lines. Center the artwork with a large off-white paper/cardboard jigsaw puzzle assembly casting soft shadows.\n\nLayout: Use exactly 15 visible puzzle elements: 13 off-white connected puzzle pieces forming a rectangular mosaic, 1 vivid cobalt-blue puzzle piece inserted at the bottom-right edge, and 1 dashed-outline empty missing-piece slot immediately to the right of the blue piece. The puzzle should look physical, with rounded tabs and sockets, slight bevels, paper texture, seams, grime, and realistic shadowing.\n\nText content: The main typography dominates the puzzle surface. Use huge bold black sans-serif Chinese type reading {argument name=\"main title text\" default=\"Codex的\"} across the top row and {argument name=\"subtitle text\" default=\"下一块拼图\"} across the middle row. Make the letters oversized, cropped slightly by puzzle seams, and integrated into the tile layout. Keep the text crisp and high contrast.\n\nVisible graphic elements: Include exactly 7 small embedded UI/diagram motifs on puzzle pieces: 1 dark code editor panel in the lower-left with short colored code lines and a small </> symbol; 1 pie chart combined with a small bar chart along the lower middle; 1 simple node-and-connector flow diagram near the lower center-right; 1 bullet-list panel with three round bullets to the right of the flow diagram; 1 user profile card in the upper-right with avatar icon and horizontal text lines; 1 small spreadsheet/dashboard grid in the top-right corner with gray cells and one blue highlighted cell; 1 document/image card on the right side with small mountain thumbnail lines, overlapped by a blue chat bubble containing two white dots and two white horizontal lines.\n\nVisual style: Premium tech editorial illustration, cinematic lighting, tactile paper puzzle texture, muted monochrome palette of black, warm off-white, gray, and accent cobalt blue {argument name=\"accent color\" default=\"cobalt blue\"}. Add subtle scratches, dust, and paper grain. Use realistic shadows between pieces, but keep the whole image clean and readable.\n\nConstraints: No people, no extra logos, no watermark, no random English words beyond tiny unreadable code strokes, and no additional large text. The blue puzzle piece should feel like the key missing component that completes the system, while the dashed empty slot hints that another piece is still absent.",
+    "title": "Codex Jigsaw Puzzle Tech Banner",
+    "description": "A wide editorial tech banner using interlocking puzzle pieces, bold Chinese headline typography, and small AI workflow UI motifs to illustrate Codex as the next missing piece.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479132504_fzku7c_HJ1Fj1-aUAAkWCg.jpg",
+      "https://cms-assets.youmind.com/media/1780479132519_24w4yf_HJ1Fm0SbEAABhTn.jpg",
+      "https://cms-assets.youmind.com/media/1780479132535_tgt1mg_HJ1Fq12aEAA4f_j.jpg",
+      "https://cms-assets.youmind.com/media/1780479133134_f57lyi_HJ1F0jKbYAAuFij.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23752,
+    "content": "Create a polished multi-page brand kit for a company named {argument name=\"company name\" default=\"[YOYOYO]\"}, presented across multiple images. The brand should feel playful, futuristic, vibrant, and design-forward, combining the energy of a toy-inspired consumer product with the refinement of a premium creative technology brand. Build a bold experimental identity system with bright color, clean geometry, modern typography, dynamic motion cues, and slightly surreal imagery. The overall mood should be inventive, youthful, rhythmic, tactile, and high-concept, balancing fun product culture, fashion-style presentation, and contemporary digital design.\n\nInclude strong product obsession, visual experimentation, packaging exploration, editorial photography, immersive retail moments, and cross-platform brand applications. Make the result feel like a confident contemporary brand universe that is accessible but highly art-directed, with tight graphic cohesion and a premium creative-studio aesthetic.",
+    "title": "Futuristic Toy Brand Identity Kit",
+    "description": "This prompt generates a vibrant and futuristic brand identity system that combines playful toy aesthetics with premium technology design, ideal for creative studio portfolios.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479091974_z7dgwb_HJ0UmyfbwAAvraS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23857,
+    "content": "Goal: Create a vertical smartphone live-stream screenshot showing a Gen Z anime shrine maiden doing a livestream at night inside Fushimi Inari Shrine, blending a realistic photo-like background with a 2D anime avatar overlay and social media UI.\n\nCanvas: 9:16 vertical mobile screen, 675 × 1200 style composition. Dark nighttime atmosphere, high contrast, warm orange shrine lighting, realistic wet stone path reflections.\n\nBackground: A photorealistic night scene of endless vermilion torii gates receding into the distance at Fushimi Inari Shrine. The path is centered with strong depth perspective. Add a glowing stone lantern on the left foreground, dark trees and foliage around the gates, glossy rain-wet paving stones, and warm amber light spilling across the scene. Some torii pillars have black Japanese characters painted on them.\n\nMain subject: Center foreground full-body anime girl avatar, slightly pasted over the realistic scene like an AR live-stream filter. She is {argument name=\"character name\" default=\"Moena\"}, a cute young shrine maiden with {argument name=\"hair color\" default=\"brown\"} twin-tail hair tied with blue ribbons, soft anime shading, and a deliberately blurred/obscured face as if anonymized. She wears a traditional miko outfit: white kimono top with red trim, long detached sleeves with red cords, red pleated hakama-style skirt with a large bow at the waist, white thigh-high tabi socks, and red-and-white sandals. Pose: standing upright, both hands raised near her shoulders making double peace signs. Cute, cheerful idol-streamer energy.\n\nTop live-stream UI: Overlay a TikTok-like livestream interface. At top left show a circular anime profile icon, username text in Japanese: {argument name=\"account name\" default=\"萌奈のおすそわけ\"}, a heart count “♡ 23.8K”, and a bright pink rounded button reading “＋フォロー”. Near the top center-right show a pink “LIVE” badge, an eye icon with “2.1K”, and a white close X at the far right. Under the username area show a small flame icon and the ranking text “週間ランキング 28位”.\n\nRight-side engagement column: Include exactly 4 vertical action items: 1) red heart icon with “12.3K”, 2) white comment bubble with “847”, 3) white bookmark icon with “1,254”, 4) white share arrow with “520”.\n\nComment overlay: Add exactly 6 semi-transparent live comments stacked on the lower left, each with a small circular avatar. Preserve these Japanese comments: 1) “夜の伏見稲荷大社きれい！” 2) “神様近い？怖くないの？” 3) “えっ、巫女さん！？本物！？” 4) “今のやば…神域すぎる….” 5) “萌奈ちゃんどこから来たの？！” 6) “千本鳥居、エモすぎる”. Beneath them add a final faint comment line “ご利益ありそう。🙏”.\n\nBottom input and navigation UI: At bottom left place a rounded comment input field reading “コメントを入力…”, with a smiley icon at its right end. At bottom right add exactly 3 gift/navigation icons with labels: a rose labeled “バラ”, a present labeled “ギフト”, and two-person icon labeled “マルチ”.\n\nVisual style: Realistic cinematic shrine photo background plus crisp anime illustration overlay, mobile livestream screenshot, Japanese social app aesthetic, bright pink accent UI, white text, subtle transparency on comments, no extra characters, no watermark, no visible camera frame outside the phone screenshot.",
+    "title": "Anime Miko Night Shrine Livestream",
+    "description": "Generates a TikTok-style Japanese livestream screenshot of an anime shrine maiden avatar broadcasting from a realistic night scene at Fushimi Inari Shrine.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479142692_jz5uuu_HJ0S5ITboAAelUe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23836,
+    "content": "Goal: Create a vertical mobile promotional anime poster for {argument name=\"app name\" default=\"SynClub\"}, themed around {argument name=\"flower motif\" default=\"roses\"} and luxurious gemstones.\n\nCanvas: Tall smartphone aspect ratio, 9:16, full-bleed illustration with a darkened promotional footer overlay at the bottom.\n\nMain subject: A close-up fantasy anime portrait of an elegant young woman from the chest up, centered and facing forward. Her face is mostly covered by a large centered square privacy mask, a soft pastel gradient block shifting from dusty pink on the left to lavender-blue on the right. Visible details include long flowing pastel hair in white, pink, lavender, and pale blue, glossy strands curling around her shoulders, fair skin, and a small visible mouth below the mask.\n\nCostume and accessories: She wears an ornate silver-white jeweled headpiece like a tiara or halo arch with filigree details and blue gemstones. Add exactly 1 rainbow rose tucked near the left side of her hair, with red, yellow, green, blue, and violet petals. Her neckline is covered with elaborate crystal lace jewelry, silver filigree, pearls, and blue teardrop gemstones, including exactly 1 large bright blue teardrop pendant at the center of her chest and exactly 1 smaller diamond-shaped blue pendant hanging beneath it. Her dress is pale, delicate, and bridal, with translucent lace, sparkling highlights, and gem-like embroidery.\n\nForeground and background: Use a soft dreamy pastel fantasy background with vertical stained-glass-like light streaks in pink, yellow, cyan, and violet. Add exactly 1 red rose in the lower-left foreground, partly overlapping the dress. Keep the illustration highly polished, luminous, romantic, and detailed, with an ethereal manga style and glossy digital painting finish.\n\nText and promotional overlay: Add faint white Japanese text near the top reading {argument name=\"top notice text\" default=\"この画像はAIにより生成されるものです\"}. At the bottom, place a dark black-to-transparent gradient footer containing exactly 4 promotional elements: 1 red chat-face icon on the far left, 1 white brand wordmark reading {argument name=\"brand wordmark\" default=\"SynClub\"} with “Club” in bold, 1 small Japanese call-to-action reading {argument name=\"call to action\" default=\"今すぐチャットしよう！\"}, and 1 black-and-white QR code in a rounded white square at the bottom right.\n\nConstraints: Preserve the face-obscuring square mask, keep all text legible, use no extra characters, include exactly 2 roses total, and maintain a polished vertical social-media advertisement composition.",
+    "title": "Rose Jewel Anime App Poster",
+    "description": "Generates a vertical fantasy anime promotional poster with a rose-themed jeweled heroine, privacy mask, app branding, CTA, and QR code.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479133932_rqcxf6_HJzLmp9bgAAI61i.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23807,
+    "content": "Generate a minimalist modern magazine-style illustration based on a photo. The image uses clean and smooth lines to shape the form, with a simple yet aesthetic design. The background retains a large area of white space, and the color palette is primarily soft neutral tones, with small amounts of vibrant color added as visual focal points. The overall composition is refined and balanced, with an elegant and fresh atmosphere, possessing the texture of high-end magazine illustrations and modern art posters, with no text.",
+    "title": "Photo to Minimalist Magazine Illustration",
+    "description": "A prompt for transforming a real photo into a minimalist modern magazine-style illustration with clean lines and soft colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479119824_x9ejs4_HJybYbwaUAAQOa5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 23681,
     "content": "Goal: Create a vertical Japanese landing page first-view hero image for an at-home English program for busy working mothers, with a warm parent-child learning photo on the right and large sales copy on the left.\n\nCanvas: Vertical smartphone LP/FV design, 675×1200 px or 9:16 ratio, cream-white background, soft pastel palette, airy spacing, friendly family-oriented mood.\n\nVisual style: Clean Japanese web advertising design, rounded shapes, hand-drawn decorative accents, pastel pink, brown, yellow, mint green, and sky blue. Use a bright lifestyle-photo look blended into a graphic LP layout. Keep typography large, rounded, and highly readable; emphasize key words in vivid pink.\n\nMain image area: On the right half, show a Japanese mother and young child sitting at a wooden table doing English flashcard study at home. The mother wears a simple cream blouse and sits beside the child; the child wears a yellow striped top and holds an illustrated apple card labeled “apple”. Place a tablet on the table at the far right with cute stickers and text “Let’s enjoy English!”. Add four visible English flashcards on the table: 1) apple held by the child, 2) cat card, 3) dog card, 4) ball card. Obscure both faces with soft rectangular skin-tone privacy blurs while keeping hair, clothes, hands, and activity visible. Background includes a plant, shelf, soft daylight curtains, and pastel triangular bunting flags across the upper right.\n\nHeader: Top left logo with a small house icon and the brand text “おうち英語きっず”, with “おうち” in pink, “英語” in dark brown, and “きっず” in blue.\n\nText content: Add a dashed pink speech bubble near the top left containing “忙しいママでも続けやすい” with a small heart. Large main headline on the left: “1日10分、 おうちで英語が 好きになる。” Make “10”, “英語”, and “好き” bright pink, the rest dark brown, and underline the headline with a yellow brush stroke. Supporting copy below: “30代ワーキングマザーのための 子どもおうち英語講座”. Add small body text: “英語が苦手でも大丈夫。 動画・ワーク・声かけ例つきで、 親子で楽しく続けられます。”\n\nBenefit cards: Include exactly three rounded feature cards in one row near the lower middle: 1) pink clock icon with “1回10分”, 2) green heart icon with “ママの英語力不要”, 3) blue house icon with “自宅でOK”.\n\nCTA: Near the bottom, add one large rounded hot-pink button with white text “無料体験レッスンを見る” and a white circular arrow icon on the right. Under it, add a small smartphone icon and text “スマホでOK・今すぐチェック” with small pink attention marks.\n\nDecorations: Add small hearts, spark lines, stars, dots, scalloped cloud-like cream shapes along the bottom edge, and a cute smiling cloud icon at bottom right. Keep everything soft, cheerful, trustworthy, and conversion-focused.\n\nCustomizable details: Use the brand name {argument name=\"brand name\" default=\"おうち英語きっず\"}, the main headline {argument name=\"main headline\" default=\"1日10分、おうちで英語が好きになる。\"}, the target audience line {argument name=\"target audience\" default=\"30代ワーキングマザーのための 子どもおうち英語講座\"}, the CTA button text {argument name=\"CTA text\" default=\"無料体験レッスンを見る\"}, and the tablet sticker phrase {argument name=\"tablet phrase\" default=\"Let’s enjoy English!\"}.\n\nConstraints: Use Japanese text exactly as specified where visible, maintain a professional LP hero layout, include exactly three benefit cards and exactly four flashcards, no extra people, no watermark, no browser chrome.",
     "title": "Japanese Kids English LP Hero",
     "description": "Generates a pastel Japanese landing page hero for an at-home children’s English lesson aimed at busy working mothers.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1780392042163_tq3iaw_HJun7uhb0AEujG8.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 23623,
-    "content": "Use the uploaded photo as the primary face reference. Preserve the person's exact facial structure, skin tone, beard shape, nose, eyes, expression, likeness, and proportions from the reference image.\n\nCreate a dramatic, high-impact {argument name=\"view angle\" default=\"side-profile portrait\"} in an {argument name=\"art style\" default=\"expressive ink sketch and mixed-media illustration style\"}. The man should feel intense, chaotic, and emotionally charged, with his face and upper body layered in cryptic handwritten text, abstract symbols, and glyph-like marks that wrap around the facial contours, suggesting inner turmoil and hidden meaning.\n\nDress him in a {argument name=\"clothing\" default=\"dark abstract jacket\"} built from heavy textured strokes, sharp angular linework, vibrant ink accents, fine pen details, aggressive brush marks, splashes, and controlled smears. The visual language should feel raw, rebellious, bold, experimental, and editorial, blending precise illustration with conceptual art.\n\nUse a {argument name=\"background style\" default=\"pale aged-parchment\"} background with subtle grain, faded paper texture, delicate linework, ink stains, and the feeling of an old manuscript or forgotten document. Keep the composition high contrast, expressive, intense, and artistically precise.",
-    "title": "Ink Manuscript Expressive Portrait",
-    "description": "An artistic portrait prompt that transforms a face reference into an expressive ink sketch with cryptic symbols and mixed-media elements.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780391998831_vadx0n_HJwPA_VbsAArdDt.jpg"
     ],
     "needReferenceImages": true
   },

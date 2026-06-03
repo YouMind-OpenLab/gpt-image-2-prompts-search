@@ -1,25 +1,213 @@
 [
   {
-    "id": 23652,
-    "content": "A cinematic cyber-noir portrait of a {argument name=\"subject\" default=\"rugged young man with thick dreadlocks tied back\"}, sharp beard, and an intense expression, standing in a {argument name=\"setting\" default=\"narrow old European street at dusk\"}. High-contrast lighting with {argument name=\"lighting colors\" default=\"vibrant teal-blue shadows and glowing orange highlights\"} illuminating his face and jacket. Detailed comic-book and graphic novel style, dramatic ink lines, painterly textures, ultra-detailed hair strands, moody urban atmosphere,distant gothic rooftops fading into mist, dynamic perspective, poster art aesthetic, bold color grading, modern digital illustration, 4K, highly stylized, atmospheric and edgy.",
-    "title": "Cyber-Noir Rugged Man Portrait",
-    "description": "A cinematic cyber-noir portrait of a man with dreadlocks in a European street, featuring high-contrast lighting and a graphic novel style.",
+    "id": 23830,
+    "content": "Create a soft cinematic anime illustration of {argument name=\"character description\" default=\"a delicate young woman with short tousled pale blue hair and clear blue-gray eyes\"} sitting alone on a quiet beach at sunset. She is barefoot on the sand, seated in a curled pose with both knees pulled to her chest and both arms wrapped loosely around her legs, looking gently toward the viewer with a calm, wistful expression. She wears {argument name=\"outfit\" default=\"an oversized translucent white button-up shirt with rolled sleeves over faded denim shorts\"}; the shirt catches the warm backlight and drapes naturally around her body. The scene is a low, intimate three-quarter view near sand level, with the ocean horizon behind her, small waves rolling in, wet sand reflecting the golden sun, soft pastel clouds, and exactly two small distant seabird silhouettes in the sky. Use a warm golden-hour palette with peach, lavender, pale blue, and cream tones, subtle lens flare circles near the lower left foreground, gentle rim lighting on hair and shoulders, delicate linework, painterly shading, realistic beach atmosphere, and an emotional but understated mood. Keep the composition uncluttered, no text, no watermark, no extra characters, no exaggerated details, no overly glossy AI look.",
+    "title": "Anime Girl at Sunset Beach",
+    "description": "A soft golden-hour anime beach portrait prompt for creating a wistful seated girl by the ocean.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780392017424_mo2acl_HJy-kCvakAANJzQ.jpg",
-      "https://cms-assets.youmind.com/media/1780392017475_qwyyoc_HJy-kBgaYAAYa5-.jpg"
+      "https://cms-assets.youmind.com/media/1780479131464_799b84_HJ4H1FcbkAEqv5b.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23818,
+    "content": "Transform the provided reference image into an ultra-premium futuristic point-cloud portrait. Preserve the exact pose, body proportions, clothing silhouette, facial structure, hairstyle, and overall composition from the reference image. Reconstruct the entire subject using millions of {argument name=\"particle color\" default=\"glowing white\"} volumetric particles, data points, voxels, and digital dust, creating a high-density holographic scan effect. Subject standing centered in a black void, surrounded by subtle floating particles and sparse {argument name=\"accent color\" default=\"red\"} digital noise. Generate a realistic 3D point-cloud body structure with particle trails, depth mapping, scan-line artifacts, and volumetric light dispersion.\nMonochrome black-and-white color palette, extreme contrast, cinematic darkness, cyberpunk archive aesthetic, futuristic AI scanning system, digital twin visualization, neural network reconstruction, holographic particle rendering, volumetric point-cloud simulation, generative systems artwork, ultra-detailed particle density, glowing edge contours, subtle light bloom, depth fog, data stream particles falling vertically around the subject.\nAdd {argument name=\"ui metadata style\" default=\"minimal technical UI typography\"} around the frame such as archive labels, scan identifiers, model codes, generative system metadata, voxel render information, and futuristic research annotations. Use clean micro-typography with a luxury tech-brand aesthetic. Keep text minimal, small, and strategically placed near the edges.\nPure black background, center composition, museum-grade digital art, premium poster design, experimental AI visualization, ultra-realistic particle simulation, high-end CGI render, Octane render quality, Unreal Engine 5, volumetric lighting, ray tracing, sharp particle definition, cinematic glow, futuristic archive documentation style.\nStyle Keywords: Point Cloud Human, Digital Ghost, Neural Reconstruction, Voxel Scan, Data Visualization, Cyber Archive, Holographic Entity, Generative Systems, Monochrome Tech Art, Luxury Futurism, Volumetric Particles, AI Scan Portrait, Experimental CGI.\ncolorful background, cartoon, anime, low resolution, blurry subject, extra limbs, distorted anatomy, duplicate body parts, oversaturated colors, messy composition, excessive UI elements, watermark, logo, text overlap, low particle density, flat lighting, poor contrast, unrealistic proportions.",
+    "title": "Futuristic Holographic Point Cloud Portrait",
+    "description": "A high-end prompt for GPT Image 2 that converts a reference image into a futuristic monochrome point-cloud hologram with cyberpunk aesthetic and technical UI metadata.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479124367_9s9n9t_HJ3FX4xaUAAdhL2.jpg",
+      "https://cms-assets.youmind.com/media/1780479124373_1bsyix_HJ3FX3kbwAA8CDK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23799,
+    "content": "Create an ultra-realistic cinematic 8K close-up portrait of a {argument name=\"subject\" default=\"beautiful adult woman\"} with {argument name=\"hair color\" default=\"medium brown hair\"}, slightly wind swept, with loose strands falling across her face. She looks upward and to the right with striking {argument name=\"eye color\" default=\"light-colored eyes\"}. A sharp diagonal beam of natural light cuts across her cheekbone, nose, eyes, and glossy mauve lips, while the rest of her face and the background fall into deep dramatic shadow for a strong chiaroscuro effect. Keep the mood mysterious, quiet, and introspective. Show fine skin texture, visible hair strands, subtle reflections in the eyes and lips, and soft detail in a lightweight white silk shirt and dark shoulder shadow. Use shallow depth of field, cinematic contrast, photorealistic detail, and a square portrait composition.",
+    "title": "Cinematic Chiaroscuro Female Portrait",
+    "description": "A dramatic 8K cinematic portrait prompt focusing on strong lighting, skin texture, and an introspective mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479116435_hzpqpx_HJ2rfnKaYAAujpE.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 23651,
-    "content": "Cute hand-drawn {argument name=\"subject\" default=\"chibi girl illustration\"}, {argument name=\"art style\" default=\"cozy sketchbook doodle art style\"}, big expressive eyes, round face, soft blush cheeks, messy bun hairstyle, oversized round glasses, casual oversized sweatshirt and overalls, sitting on the floor in a cute pose, playful expression, colored pencil and crayon texture, rough black pencil outlines, {argument name=\"color palette\" default=\"pastel color palette\"}, warm cream paper background, kawaii aesthetic, simple room decor, tiny hearts, plants, books, sticky notes, cozy bedroom atmosphere, hand-sketched details, diary illustration style, wholesome and adorable mood, minimalist composition, children’s storybook art, Korean webtoon doodle style, charming imperfections, textured coloring, cute lifestyle portrait, highly detailed, clean white background, masterpiece, 4k.",
-    "title": "Chibi Girl Sketchbook Doodle",
-    "description": "A cozy sketchbook doodle of a cute chibi girl with glasses and overalls, styled with colored pencil and crayon textures.",
+    "id": 23759,
+    "content": "Create an ultra-realistic Korean beauty lifestyle portrait of a charming young woman in a cozy sunlit room. She has long, silky dark brown wavy hair cascading over her shoulders, flawless porcelain skin, large expressive eyes, naturally defined brows, soft rosy blush, subtle winged eyeliner, and glossy peach-pink lips.\n\nShe wears an {argument name=\"clothing\" default=\"oversized off-shoulder knitted sweater with brown and cream horizontal stripes\"}, exposing one shoulder for a relaxed feminine look. Stylish black sunglasses rest casually on top of her head. Her expression is warm, confident, and effortlessly beautiful, looking directly at the camera.\n\nGolden-hour sunlight streams through a nearby window, casting soft warm highlights and delicate shadows across her face and hair. The room features {argument name=\"wall color\" default=\"pastel pink\"} walls, creating a dreamy romantic atmosphere.\n\nKorean ulzzang aesthetic, cozy indoor lifestyle photography, natural beauty campaign, soft cinematic lighting, photorealistic skin texture, realistic hair detail, shallow depth of field, warm color grading, elegant composition, Instagram luxury influencer style, Vogue Korea inspired, 85mm lens, ultra-detailed, 8k ultra realistic.\n\nNegative Prompt:\nlow quality, blurry, bad anatomy, extra fingers, distorted hands, asymmetrical eyes, unrealistic skin, cartoon, anime, watermark, logo, text, noisy image, overprocessed face, oversaturated colors, duplicate accessories, low resolution, poorly drawn features.\n\nStyle Tags:\nKorean beauty portrait, golden-hour indoor photography, cozy aesthetic, soft feminine elegance, lifestyle influencer shoot, natural sunlight, photorealistic, luxury social media campaign, ultra detailed 8k, warm romantic atmosphere 1744x2336",
+    "title": "Korean Beauty Lifestyle Portrait",
+    "description": "Generates an ultra-realistic lifestyle portrait of a young woman with a Korean beauty aesthetic, featuring soft golden-hour lighting and high-end influencer styling.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780392017814_9kzv8r_HJy2_5HaQAA3UI-.jpg",
-      "https://cms-assets.youmind.com/media/1780392017764_7vt6om_HJy2_7BbUAAt7Rz.jpg"
+      "https://cms-assets.youmind.com/media/1780479094993_wo6js4_HJ1YLCuaMAA7Cgd.jpg",
+      "https://cms-assets.youmind.com/media/1780479095393_dbaeyc_HJ1YLwIbkAAxZNg.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 23785,
+    "content": "Create an ultra-realistic high-resolution studio portrait of a young adult {argument name=\"subject\" default=\"woman\"} leaning slightly forward toward the camera in a playful, flirty pose. She is winking with one eye, sticking her tongue out, and looking lively and confident. Keep natural freckles across fair skin, soft pink blush, glossy lips, realistic skin texture, and a polished high-fashion lifestyle photography feel.\n\nShe has long blonde hair with a side part, falling naturally over her shoulders with loose realistic strands. Dress her in a {argument name=\"outfit\" default=\"fitted black off-shoulder dress\"}. Add long dangling gold earrings and layered gold necklaces, including a small heart pendant.\n\nUse a clean minimal studio setting with light neutral background tones. Light the scene with {argument name=\"lighting\" default=\"soft diffused studio lighting\"}, smooth natural shadows, shallow depth of field, sharp focus on the face, photorealistic detail, 50mm lens look, f/1.8 aperture, ultra-detailed texture, and a refined editorial lifestyle portrait finish.",
+    "title": "Playful Wink Studio Portrait",
+    "description": "An ultra-realistic studio portrait prompt for a flirty, high-fashion lifestyle shot featuring detailed skin textures and natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479108277_gtf7en_HJ09X_rbAAA_v2I.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23776,
+    "content": "Create a trending anime art style image from the {argument name=\"subject\" default=\"uploaded subject\"}. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy. Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world.",
+    "title": "Anime Style Character Transformation",
+    "description": "A prompt designed to transform an uploaded subject into a vibrant, cel-shaded anime character with expressive features and energetic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479104213_xmpzwk_HJ0usNTbEAA89pt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23707,
+    "content": "Photorealistic luxury fashion portrait of an {argument name=\"subject\" default=\"athletic male executive\"} standing beneath a focused overhead spotlight in a {argument name=\"environment\" default=\"dark studio environment\"}. {argument name=\"clothing\" default=\"Tailored navy suit\"}, white dress shirt with open collar, confident posture, one hand holding jacket lapel, one hand in pocket. Subtle smoke surrounding the subject, dramatic cinematic lighting, premium editorial photography, realistic skin texture, sharp eyes, luxury brand advertisement aesthetic, ultra-high detail, soft volumetric haze, dark blue-black background, shallow depth of field, 8K quality.",
+    "title": "Luxury Fashion Executive Portrait",
+    "description": "A cinematic editorial prompt for a photorealistic portrait of an executive in a tailored suit under dramatic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479111561_gn32mv_HJ0hMZJaEAAvi8z.jpg",
+      "https://cms-assets.youmind.com/media/1780479111647_qqty2b_HJ0hMZhakAA0_w7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23790,
+    "content": "Use the exact same face from the reference image and generate a Use the exact same face from reference image and generate an ultra-realistic studio portrait of a {argument name=\"subject\" default=\"young man\"} with {argument name=\"hair style\" default=\"short dark hair\"}, light stubble, and clear-frame glasses, wearing a {argument name=\"clothing\" default=\"dark teal crew-neck shirt\"}, sitting slightly leaned forward with a warm confident smile. Background features large bold red neon geometric shapes — overlapping parallelograms and diamond forms glowing intensely against pure black. Red and magenta RGB light spilling onto the left side of his face, cool teal rim light on the right. Deep black background with zero ambient light. Close-up portrait, vertical 9:13 composition, shot on professional studio camera, razor-sharp focus on face and glasses. Subtle OzairAI watermark faintly embedded in the dark background corner. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "Red Neon Geometric Portrait",
+    "description": "A studio portrait prompt utilizing reference images for face consistency set against an intense red neon geometric background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479110365_ndb14h_HJ0UOo2bYAAxiF7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23775,
+    "content": "Create a high-quality “{argument name=\"style\" default=\"chibi sticker diary portrait\"}” based on the uploaded real-life photo. Preserve the subject’s original identity, realistic facial structure, hairstyle, hair color, glasses, outfit, pose, proportions, lighting, and background. Keep the main subject photorealistic and do not transform the entire image into a full illustration.\n\nAnalyze the scene as a cozy daily lifestyle / casual fashion moment with a clean {argument name=\"aesthetic\" default=\"Korean scrapbook\"} aesthetic.Add 6–8 miniature chibi clones of the same person around the main subject. Each chibi should closely resemble the real person with the same hairstyle, glasses, outfit colors, and overall appearance.\n\nDesign all chibi clones in a polished kawaii sticker style:\n\noversized head, small body\nexpressive eyes and soft facial expressions\nsmooth digital shading\nclean white sticker outlines\nsoft drop shadows\nslightly floating sticker placementGive each chibi a unique pose and emotion inspired by everyday lifestyle moments:\n\nwaving hello\npeace sign pose\nholding coffee\ncasual walking\nshy smile\nsitting relaxed\ncheerful greeting\nthoughtful/calm mood\n\nArrange the stickers around the edges of the composition without blocking the main subject’s face or body. Maintain balanced spacing and a clean vertical layout similar to a social media diary collage.\n\nAdd soft hand-drawn doodles and scrapbook elements throughout the image:\n\n{argument name=\"elements\" default=\"hearts, sparkles, arrows, motion lines, stars, speech bubbles\"}\n\nUse mostly white doodles with subtle pastel pink and pastel blue accents.\n\nInclude 5–8 short handwritten-style Korean diary phrases scattered naturally around the image.\n\nTypography should feel hand-drawn, soft, playful, and aesthetic with small decorative underlines and doodle accents.\n\nComposition:\n\nfull-body central subject remains the primary focus\nchibi stickers surround the subject harmoniouslymaintain a clean beige/light neutral background\noverall style should feel premium, cozy, polished, and highly shareable like a Korean lifestyle Instagram diary post or sticker scrapbook photo.",
+    "title": "Chibi Sticker Diary Scrapbook Portrait",
+    "description": "A creative prompt that preserves a person's real identity while surrounding them with adorable kawaii chibi sticker clones in a Korean lifestyle diary aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479103359_80hktd_HJz6V6CawAAD20j.jpg",
+      "https://cms-assets.youmind.com/media/1780479103288_5qgwm7_HJz6V58bsAAX2q-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23778,
+    "content": "Stylish 3D portrait of a young Korean woman in her 20s based on the {argument name=\"reference image\" default=\"uploaded image\"}, standing pose, {argument name=\"hairstyle\" default=\"bleached short hair\"}, {argument name=\"clothing\" default=\"oversized orange and white varsity jacket with pins and patches\"}, chunky silver chain, white sneakers, holding takeout coffee. Golden hour rooftop. Glossy streetwear fashion illustration",
+    "title": "Korean Streetwear 3D Illustration",
+    "description": "A stylish 3D character portrait of a woman in streetwear, using an uploaded image for reference to maintain likeness and style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479104615_x35f06_HJz3GHHaEAEp1YU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23751,
+    "content": "A highly detailed offline-engineered prompt. A breathtaking cinematic portrait of a , capturing realistic textures and expressions, dressed in premium Elegant Haute Couture. Illuminated in a state of Cinematic Rim-Light, photographed with a professional 85mm f/1.2 Lens to yield beautiful depth of field. The color palette is meticulously crafted, dominated by #484830, with stunning accents of #A89078 and #181800. The backdrop is a High-complexity scene featuring Set in an environment that is hyper-detailed, complexly layered, overflowing with realistic environmental debris, urban or organic textures, dust motes, and auxiliary background elements that build a living world. Background elements are rendered with soft defocus to yield a high-class professional portrait finish.. Every texture, material surface, and lighting gradient is rendered with crisp, hyper-realistic detail, award-winning composition, octanerender, 8k resolution, cinematic color grading. Subject & Apparel: A masterfully shot detailed , capturing high-fidelity skin textures (pores, subtle blemishes), crisp hair strands, and intense emotional expression. Apparel features premium Elegant Haute Couture fabric textures with intricate weave details, distinct stitching, and rich specular reflectivity, complementing the facial attributes. Lighting & Mood: Features a glorious, sharp golden rim light outlining the edges of the subject, isolating them perfectly from the shadowy backdrop. The key light is soft studio diffusion, creating rich contrast and three-dimensional form. The mood is cinematic, heroic, and premium. Camera & Lens Spec: Captured on a professional medium-format camera paired with an ultra-fast 85mm f/1.2 prime lens. Characterized by a creamy, circular bokeh background falloff, paper-thin depth of field focusing strictly on the subject's eyes, and incredible edge-to-edge sharpness. Color Profile: Expertly color graded to feature a main palette of \"Atmospheric Shadow\" (#484830), \"Warm Terracotta\" (#A89078), \"Midnight Obsidian\" (#181800), \"Warm Terracotta\" (#907860), dominated by #484830. Visual styling incorporates a professional color grading reminiscent of premium color stock, establishing deep, wealthy shadow layers, rich skin tones, and pristine high-light preservation without clipping. Environments/Background: Set in an environment that is hyper-detailed, complexly layered, overflowing with realistic environmental debris, urban or organic textures, dust motes, and auxiliary background elements that build a living world. Background elements are rendered with soft defocus to yield a high-class professional portrait finish.",
+    "title": "Cinematic Haute Couture Portrait",
+    "description": "A highly detailed reverse-engineered prompt designed to produce elite fashion portraits with professional lighting, intricate fabric textures, and cinematic depth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479091820_yjiomr_HJzzR28awAA46Hg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23802,
+    "content": "Create a 4:5 ratio {argument name=\"style\" default=\"glamour portrait\"} of my attached image. Bare shoulders up. Studio backdrop with a variety of {argument name=\"colors\" default=\"blended colors\"}. A sparkle in her eye, looking at the camera with a {argument name=\"gaze\" default=\"smoldering, coy gaze\"}.",
+    "title": "Glamour Portrait Studio Backdrop",
+    "description": "A glamour portrait prompt for transforming an attached photo into a high-quality studio shot with a colorful backdrop and coy gaze.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479117447_s04tt5_HJznR1EWkAAD5V-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23866,
+    "content": "Create an ultra-realistic full-body nighttime portrait of {argument name=\"subject\" default=\"a handsome well-groomed young man with stylish dark wavy hair\"} standing casually beside a large mature tree wrapped in warm golden fairy lights. The man is positioned slightly right of center, leaning near the trunk with both hands in his pockets, one leg crossed casually in front of the other, looking slightly to the side with a calm confident pose. He wears a deep {argument name=\"shirt color\" default=\"navy blue\"} long-sleeve button-up shirt with the sleeves rolled to the forearms, black cargo-style pants, a black smartwatch, and dark low-top sneakers with white laces and white soles. The tree trunk fills the left side of the frame, its bark texture clearly visible, with many small warm lights spiraling around it and glowing softly. The base of the tree is neatly organized inside a circular raised concrete or brick planter with small greenery around the roots. The background is an elegant outdoor park or courtyard at night with paved stone ground, soft bokeh lights, leafy branches above, a distant warmly lit building or gazebo, and a faint streetlamp, all blurred with shallow depth of field. Use cinematic warm lighting, realistic skin and fabric texture, natural shadows, professional portrait photography, 50mm lens look, full-body vertical composition, high detail, no text, no watermark.",
+    "title": "Night Portrait by Fairy Light Tree",
+    "description": "An ultra-realistic full-body men’s portrait scene beside a warmly lit tree in an elegant nighttime courtyard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479146230_enaoku_HJzFuAfaQAAQMq4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23651,
+    "content": "{argument name=\"art style\" default=\"Cute hand-drawn chibi girl illustration, cozy sketchbook doodle art style\"}, big expressive eyes, round face, soft blush cheeks, messy bun hairstyle, oversized round glasses, {argument name=\"clothing\" default=\"casual oversized sweatshirt and overalls\"}, sitting on the floor in a cute pose, playful expression, colored pencil and crayon texture, rough black pencil outlines, pastel color palette, warm cream paper background, kawaii aesthetic, {argument name=\"decor\" default=\"simple room decor, tiny hearts, plants, books, sticky notes\"}, cozy bedroom atmosphere, hand-sketched details, diary illustration style, wholesome and adorable mood, minimalist composition, children’s storybook art, Korean webtoon doodle style, charming imperfections, textured coloring, cute lifestyle portrait, highly detailed, clean white background, masterpiece, 4k.",
+    "title": "Hand-Drawn Chibi Girl Illustration",
+    "description": "A detailed prompt for creating a cute, hand-drawn chibi girl illustration in a cozy sketchbook doodle style with colored pencil textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479095712_lnj2lk_HJy2_5HaQAA3UI-.jpg",
+      "https://cms-assets.youmind.com/media/1780479095646_rtrmwt_HJy2_7BbUAAt7Rz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23772,
+    "content": "Anime girl with long flowing {argument name=\"hair color\" default=\"silver\"} hair, {argument name=\"eye color\" default=\"purple\"} eyes, sitting on {argument name=\"bench type\" default=\"stone bench\"}, sad melancholic expression. Wearing elegant white and lavender off-shoulder dress with corset details, thigh high stockings with lace trim, small hair ornament. Surrounded by climbing white roses and vines on old stone wall, soft volumetric lighting, god rays filtering through leaves, dappled shadows, dreamy atmosphere, ethereal, delicate, highly detailed, anime key visual style, soft color palette, 8k, masterpiece",
+    "title": "Melancholic Anime Key Visual",
+    "description": "An ethereal anime key visual prompt featuring a silver-haired girl in an elegant off-shoulder dress, surrounded by white roses and dappled volumetric lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479101978_4mm9bg_HJynh55aoAALok5.jpg",
+      "https://cms-assets.youmind.com/media/1780479102018_iv4cu2_HJynh5_a8AAQXdB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23793,
+    "content": "Use the exact same face from the reference image and generate a picture, captured mid-exhale {argument name=\"smoke effect\" default=\"a thick stream of white smoke\"} pouring from slightly parted lips, catching a single narrow beam of {argument name=\"lighting\" default=\"warm amber key light\"} in an otherwise black environment. The smoke beam acts as the sole light source, scattering across his nose bridge and brow. Deep shadows consume the rest of his face completely. Extreme close-crop — forehead to collarbone only. Hyper-textured skin, stubble detail, catchlights in eyes. \"{argument name=\"watermark\" default=\"OzairAI\"}\" woven imperceptibly into the light-scatter pattern within the smoke stream. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.",
+    "title": "Chiaroscuro Smoke Exhale Portrait",
+    "description": "An extreme close-up portrait prompt focused on hyper-textured skin and a thick stream of smoke lit by a narrow amber beam.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479113204_30yslu_HJybYInaAAADnqW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23771,
+    "content": "In the center of the frame, a massive, oversized spiral-bound {argument name=\"object\" default=\"sketchbook\"} stands vertically upon a rustic, weathered dark-wood workbench. On the paper, a giant, realistic graphite pencil sketch of a man’s face is depicted. In a mind-bending moment, the thick paper of the sketchbook is violently torn open from the inside. A person is captured in mid-motion, stepping through the jagged, white-edged tear from the two-dimensional drawing into the three-dimensional world. The person’s right hand is firmly gripping the edge of the torn paper as they stride forward, with one foot planted on the wooden table and the other still emerging from the book. The lighting is cinematic and dramatic, provided by a single warm overhead industrial lamp that casts long shadows and creates a high-contrast, moody atmosphere. The person is dressed in a specific outfit: a {argument name=\"shirt\" default=\"light blue and white pinstriped button-down shirt\"} worn open over a plain white crew-neck t-shirt. A textured, brown leather-style crossbody sling bag is worn across the chest. They are wearing classic medium-wash blue slim-fit jeans and clean, white leather sneakers. A black digital watch is visible on their left wrist. The surrounding environment is rich with detail: scattered across the scarred wooden workbench are thick charcoal pencils, a speckled ceramic mug, a stack of vintage leather-bound books, and a metal palette. In the soft-focus background, a corkboard is pinned with various tubes of oil paint, and a ceramic jar filled with assorted artist brushes sits nearby. The overall mood is one of creative intensity and a powerful transition from art to reality, captured with high-fidelity textures and a shallow depth of field. However, there is one critical instruction: for the subject person, you MUST use the exact {argument name=\"reference\" default=\"face and likeness\"} of the person in the provided image. Preserve their identity and facial features perfectly. Integrate this person seamlessly into the described scene.",
+    "title": "Sketchbook Drawing Coming to Life",
+    "description": "A creative, mind-bending prompt where a graphite pencil sketch on a workbench sketchbook literally tears open as a person steps into the 3D world.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479101282_jjyali_HJyQlV7aoAAWzxO.jpg",
+      "https://cms-assets.youmind.com/media/1780479101242_qw71hy_HJyQlXraYAAxleC.jpg",
+      "https://cms-assets.youmind.com/media/1780479101243_4d8p36_HJyQlaxa0AAPq1p.jpg",
+      "https://cms-assets.youmind.com/media/1780479102012_iqx2gm_HJyQl0HbEAABdzA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23767,
+    "content": "Create a 9:16 vertical raw iPhone-style flash portrait, shot as if on an {argument name=\"camera model\" default=\"iPhone 17 Pro\"} with a 24mm lens. The look should feel unedited, high contrast, imperfect, and real, with the harsh direct-flash character of a late-night phone photo. Set the scene in a {argument name=\"location\" default=\"dim bedroom\"} at night with a quiet but slightly chaotic after-hours mood. Keep the ambient light very low and neutral, letting the phone flash dominate the image. The flash should create sharp highlights across the face, glossy skin reflections, deep shadow falloff in the background, subtle grain, mild flash blowout, and a touch of wide-angle lens distortion. Frame the subject tightly from the face through the upper torso, close to the camera and slightly from below, with an imperfect handheld crop. The subject has a {argument name=\"inspiration\" default=\"BLACKPINK Lisa-inspired\"} presence: clean facial features, a bold direct gaze, and a confident, slightly teasing expression. She leans a little toward the camera with relaxed shoulders. Her lips look soft but controlled, and her eyes stay intense and locked on the viewer. Style her with slightly messy straight hair and bangs. Dress her in a minimal tight grey thin-strap top. Keep the image focused on raw phone realism: direct flash, visible texture, high contrast, bedroom darkness, casual framing, and the feeling of a real spontaneous selfie rather than a polished studio portrait.",
+    "title": "Late Night Raw iPhone Flash Selfie",
+    "description": "Captures a realistic, unedited late-night aesthetic using a harsh direct-flash character typical of a high-end smartphone, set in a dim bedroom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479099864_v1xeyq_HJxv6uKaYAAY9do.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 23765,
+    "content": "A high-angle, top-down perspective of a surreal mixed-media artwork on a wooden desk, where a {argument name=\"subject\" default=\"middle-aged man\"} , having the uploaded face as reference, is dramatically emerging from a large sheet of white paper. His upper body is a photorealistic 3D figure dressed in a {argument name=\"clothing\" default=\"sharp black suit jacket and an open-collar white shirt\"}, while his lower body seamlessly transitions into a detailed 2D graphite pencil sketch on the paper. He presses his hands against the torn, ripped edges of the paper as if climbing out of the drawing. Scattered around the paper on the wooden table are oversized wooden drawing pencils and white erasers, creating a sense of scale. The bottom of the paper features a stylized handwritten signature that reads \"{argument name=\"signature\" default=\"Mr. Dilshad\"}\" accompanied by a small gold crown and a lightning bolt. The scene is illuminated by warm, dramatic overhead lighting that casts soft shadows and creates a golden rim light behind his shoulders. The composition uses a shallow depth of field, focusing sharply on the man's realistic features while the surrounding desk elements are softly blurred, blending photorealism with classic sketching in a stunning trompe-l'œil illusion.",
+    "title": "3D Figure Emerging from Pencil Sketch",
+    "description": "A surreal mixed-media prompt where a man emerges as a 3D figure from a 2D graphite pencil drawing on a wooden desk.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479098707_cfmw4e_HJxi07uasAAAUDC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23832,
+    "content": "Create a polished anime-style vertical portrait of a melancholic high school student sitting beside a classroom window on a rainy day. The character is {argument name=\"character gender\" default=\"androgynous male-presenting\"}, shown from the chest up in a close three-quarter side view facing left, with their head resting on one hand in a tired, contemplative pose. They have {argument name=\"hair color\" default=\"dark navy-black hair with subtle purple highlights\"}, messy layered bangs, loose wisps around the neck, and the back hair tied into a small tousled bun; one visible ear has a small round silver stud earring. The face should be intentionally covered by a large flat opaque rectangle centered over the facial area, colored muted gray-lavender with a soft vertical gradient, hiding the eyes, nose, and most expression. Dress the character in a refined dark navy school blazer with white piping, brass buttons on the cuff, a crisp white shirt, and a loose {argument name=\"tie color\" default=\"purple\"} necktie. Set the scene inside a quiet classroom with a wooden windowsill, pale curtains, and tall window frames; outside the glass, show rain droplets, a hazy gray-blue city skyline, distant buildings, and blurred trees. Use cool rainy lighting from the window, soft reflections, delicate linework, detailed hair strands, cinematic shading, and a subdued blue-purple color palette. Composition should be vertical 2:3, intimate and slightly cropped at the top of the hair bun and lower torso, with the character occupying most of the frame and the rainy window background visible on the left and right. No text, no watermark, no extra characters.",
+    "title": "Rainy Anime Student Portrait",
+    "description": "Generates a moody anime school portrait by a rainy classroom window, suitable for character art or visual novel-style imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780479131783_uu0vrl_HJxH2LTaEAAqIVu.jpg",
+      "https://cms-assets.youmind.com/media/1780479131773_3n66q0_HJxH2LMbgAAiOvG.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 23650,
@@ -165,16 +353,6 @@
     "description": "A photorealistic portrait of a young woman in a red gown standing in an opulent palace corridor with dramatic lighting.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1780391983695_rs97m6_HJt16s6aoAAwC6W.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 23631,
-    "content": "Generate a 9:16 vertical, high-precision portrait of a woman in an ancient Xianxia refined photography style. The overall aesthetic is Tang-style fantasy, featuring gorgeous ancient idol female lead makeup and styling with an oriental dreamy character poster texture. The image should be bright, transparent, exquisite, and dreamy, achieving the completion level of a high-end ancient Xianxia beauty illustration. The overall atmosphere is warm-toned, gentle, soft, and agile, with a slight \"first love\" feel, but it must maintain a high-end sense—avoiding gaudiness or a cheap studio look.\n\nThe main subject is a 20–28 year old young adult Eastern woman with natural and distinct Eastern features, not Westernized, not infantilized, and not a \"web celebrity face.\" She has exquisite and attractive features, belonging to the exquisite Oriental light-colored beauty category. Her face shape is soft and smooth, her skin is porcelain white, delicate, and translucent with a slight soft light effect. Her makeup is clear, clean, and gentle. Her eye shape is almond-like leaning towards phoenix eyes, with the corners naturally stretching and slightly upturned. Her eyes are bright and spirited with a gentle, soft, and quiet gaze, carrying a hint of dreaminess and shyness. Her nose is delicate and natural, and her lips are soft and natural in a light pink or soft peach shade. Her overall temperament is pure, gentle, and agile, resembling a heart-warming female lead in an ancient idol drama.\n\nHer hairstyle is black smooth long hair, half-pinned and half-loose. The black hair falls naturally with smooth, delicate strands and a soft luster. The top has natural volume. A few wisps of light hair can frame the face. The headwear is a high-grade ancient Xianxia headpiece mainly using pearls and light gold, including a light gold hair crown, pearl tassels, pearl strings, light gold \"buyao\" hairpins, a few exquisite floral decorations, and light hanging chains. The structure is clear, layered, and delicate. The jewelry consists primarily of pearl earrings, light gold necklaces, and exquisite bead chains with soft highlights; the overall look is gorgeous but not heavy, exquisite and gentle.\n\nThe character wears a lotus-pink pearl-gold layered gauze Xianxia skirt. The clothing follows a gorgeous Tang-style fantasy ancient costume system with a medium-high level of splendor. The main colors are lotus pink/cherry pink, supplemented by milk white/light madder pink, with accents of light gold/pearl white. The structure is a light and soft layered gauze skirt with a soft curved collar or fantasy-style overlapping lapel. The outer layer is semi-transparent gauze with embroidery, and the inner layer is soft silk or chiffon. The sleeves are light gauze wide sleeves or hanging sleeves that flow lightly. The body and cuffs feature exquisite floral, vine, and rosette pattern embroidery, supplemented by pearl embellishments and gold embroidery details. The waist has an exquisite waistband and hanging bead chains. The overall clothing is light, soft, transparent, and full of immortal aura.\n\nThe composition is a three-quarter body shot, slightly turned, with the character's body slightly rotated and shoulders naturally stretched in an elegant and soft posture. One hand can lightly touch a silk shawl or the edge of a garden corridor, while the other is relaxed. The posture reflects gentleness and dignity. The character is central to the frame, maintaining the absolute visual center, with a gaze that can look at or slightly away from the camera to create a dreamy interaction.\n\nThe scene is a garden corridor with a blurred ancient-style garden background. Blurred corridors, pillars, railings, soft floral scenery, and warm sunset bokeh are visible, providing spatial depth without overshadowing the main subject. The lighting is soft warm white natural light with a hint of warm sunset glow. The facial light is clean and soft, the skin is transparent, and there is a slight warm rim light on the hair. Pearl and gold jewelry have soft, detailed highlight flickers. The overall tone is warm, soft, and romantic, maintaining a high-end refined character poster quality.\n\nOverall quality requirements: high precision, high completion, strong high-end feel, delicate hair, transparent skin, clear embroidery, rich layers of gauze, strong jewelry texture, exquisite reflections, and professional background blur. The final result should have the texture of a high-end ancient Xianxia beauty portrait and a gorgeous Oriental dreamy female lead poster.",
-    "title": "Ancient Chinese Fantasy Portrait",
-    "description": "A highly detailed prompt for generating elegant Tang-style fantasy portraits of women with dreamlike, high-definition aesthetic.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780392004288_vyzx0w_HJtmpaSaQAAG81-.jpg"
     ],
     "needReferenceImages": false
   },
