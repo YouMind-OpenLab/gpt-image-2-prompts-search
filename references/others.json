@@ -1,5 +1,15 @@
 [
   {
+    "id": 24159,
+    "content": "Create a highly detailed {argument name=\"aspect ratio\" default=\"16:9\"} aerial terrain image depicting a {argument name=\"subject\" default=\"Titanic-sized shipwreck\"} resting quietly on the deep-sea floor. Cinematic underwater environment featuring a slightly elevated map-style camera angle and deep perspective, designed for FPV.",
+    "title": "Deep Sea Titanic Shipwreck Aerial View",
+    "description": "Generates a detailed 16:9 aerial terrain image of a Titanic-sized shipwreck lying on the ocean floor, designed for drone path planning references.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780650735540_plfw67_HJ9S8PBaQAAuvTc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24039,
     "content": "Create a cinematic close-up still life of a translucent 35mm film strip floating in a graceful horizontal arc across a dark vintage projection room. The film strip is warm amber-brown with glossy reflections, burnt golden edges, and exactly 3 large visible image frames: left frame shows {argument name=\"left film frame scene\" default=\"a steampunk industrial city with brass gears, smokestacks, steam clouds, and ornate machinery\"}; center frame shows {argument name=\"center film frame subject\" default=\"a formal early-20th-century man in a suit and bow tie\"} with the face deliberately covered by a plain solid brown rectangular censor block; right frame shows {argument name=\"right film frame scene\" default=\"a large retro airship or zeppelin flying above a small suspended platform in a glowing sky\"}. Include two continuous rows of small rectangular sprocket holes along the top and bottom of the film strip, evenly spaced and lit from within by amber highlights. In the blurred background, place one large dark vintage movie camera/projector silhouette on the left, out of focus. Add dramatic white-gold spotlight beams descending from the upper center, floating dust particles, shallow depth of field, warm sepia color grading, volumetric light, high contrast, photorealistic detail, and a nostalgic short-film atmosphere. Use {argument name=\"aspect ratio\" default=\"3:2 landscape\"}. No captions, no logos, no extra text.",
     "title": "Cinematic Floating Film Strip",
