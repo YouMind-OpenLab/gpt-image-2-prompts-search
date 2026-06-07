@@ -10,6 +10,66 @@
     "needReferenceImages": true
   },
   {
+    "id": 24445,
+    "content": "2x2 grid, 16:9, do this for 4 famous cities, magma damascus steel: concept: a city carved from a map, floating in a dreamscape. input variables: [{argument name=\"city\" default=\"famous city/location\"}] [{argument name=\"material\" default=\"magma damascus steel\"}] (e.g., cardboard, balsa wood, folded paper) workflow: 1. base: a flat, vintage 2d map of {argument name=\"city\" default=\"famous city/location\"} lies flat. 2. design: a perfect, isometric 3d cubic chunk of the city is hovering directly above its corresponding spot on the map. 3. material: the entire 3d block, including the skyscrapers, bridges, and geological strata, is constructed meticulously out of {argument name=\"material\" default=\"magma damascus steel\"}. 4. the edge: rivers from the city flow off the edge of the cube as stylized waterfalls spilling into the void. god-level details: soft, fluffy stylized clouds drifting around the floating block. pastel, bright, airy lighting. visible grain, glue marks, and paper edges on the architecture to emphasize the miniature scale.",
+    "title": "Isometric Magma Damascus Steel Cities",
+    "description": "An intricate architectural prompt for creating 3D isometric city blocks hovering over maps, textured with magma damascus steel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780822671160_ubamq7_HJ7_ywDXgAApErZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24482,
+    "content": "Create a 16:9 image. [PROJECT CARD] Create a compact designed masthead, not a table. TITLE: {argument name=\"project title\" default=\"NOX / LUMOS POI FOREST\"} META LINE: {argument name=\"theme description\" default=\"sudden void magic / fantasy ritual suspense / fast 15-second burst flow\"} PRIORITY: {argument name=\"priority frame\" default=\"first frame empty forest\"}",
+    "title": "GPT Image 2 Fantasy Forest Ritual Storyboard",
+    "description": "A cinematic storyboard prompt for GPT Image 2 designed to create a fantasy project card for a ritual-themed scene set in a forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780822696827_6fn66i_HKIPzmAX0AAiC_M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24494,
+    "content": "Create a photorealistic architectural interior rendering of a modern minimalist ice cream shop named {argument name=\"shop name\" default=\"Some ice\"}, viewed from the front seating area looking toward the service counter in warm late-afternoon sunlight. The space is tall and narrow with cream plaster walls, gray concrete flooring, a gray textured back wall, white square-tile counter, warm wood ceiling canopy, hidden cove lighting, and soft shadows from tree leaves cast across the left wall and floor. Place the large shop logo above the counter, dark gray letters with a small yellow accent. The service area contains exactly 1 white tiled front counter, 1 large silver desktop computer on the counter, 1 staff member behind the counter wearing a cream shirt and beige apron, and 4 illuminated menu boards on the back wall labeled Signature, Sweet, Yogurt, and Classic with dessert photos. On the right wall, include exactly 3 wooden retail shelves displaying small branded paper bags or boxes. On the left wall, include exactly 3 framed promotional posters under a slim brass wall light, one featuring a cute mascot and the text {argument name=\"poster headline\" default=\"Have Someice Day\"}. Furnish the customer area with exactly 6 round café tables total: 2 in the left foreground, 2 smaller tables along the left middle wall, and 2 on the right side; include exactly 10 visible chairs total, mostly warm bentwood chairs with chrome legs plus 1 pale yellow chair and 1 black chair on the right. Add a staircase and narrow passage receding into the back left, with wood stair treads, a black metal railing, and a glimpse of brick wall and glass door at the far rear. Use a calm Scandinavian-Japanese café aesthetic, natural materials, realistic global illumination, soft depth, clean composition, no people except the single staff member, no clutter, no watermark, 3:2 horizontal aspect ratio.",
+    "title": "Modern Some Ice Cream Shop Interior",
+    "description": "A photorealistic architectural visualization prompt for a warm minimalist ice cream café interior with branded signage, menu boards, seating, and sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780822706305_jktcxy_HKH_EiiaAAA2djl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24493,
+    "content": "Create a photorealistic architectural interior rendering of a modern dessert cafe named {argument name=\"cafe name\" default=\"Some ice\"}. Show a wide-angle view from the customer seating area toward the service counter in a long, narrow, high-ceiling space. Use a warm minimalist Japanese/Scandinavian style with beige plaster walls, gray concrete floor, textured gray tile at the back wall, light wood ceilings and shelving, and soft indirect cove lighting. The main composition should include exactly 1 large white tiled service counter on the right-center, exactly 1 desktop computer on the counter, exactly 1 suspended wood canopy above the counter with recessed spotlights, exactly 1 gray vertical concrete column on the far right, exactly 1 backlit brand sign above the counter reading {argument name=\"cafe name\" default=\"Some ice\"} in dark letters with a small yellow accent, exactly 4 illuminated menu boards behind the counter, exactly 2 empty wood shelves on the right wall, exactly 3 wall posters on the left wall advertising desserts, exactly 5 round cafe tables visible, and exactly 11 visible chairs/stools: 4 wooden chairs around the two front-left tables, 4 wooden chairs in the middle corridor seating area, 1 tall stool at the counter, 1 pale yellow chair at the front-right table, and 1 dark charcoal chair at the right table. Add exactly 2 small wall-mounted spotlights above the left posters and exactly 2 slim vertical railing posts with a horizontal handrail in front of the counter. The cafe should feel quiet, clean, and newly designed, with soft warm daylight and artificial lighting, realistic shadows, polished materials, and a professional commercial interior visualization look. Avoid people, clutter, food closeups, watermarks, and extra signage.",
+    "title": "Modern Dessert Cafe Interior",
+    "description": "A photorealistic wide-angle rendering prompt for designing a warm minimalist dessert cafe interior with seating, counter, signage, and menu boards.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780822705796_of9h9t_HKH-_xVbMAApUOJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24488,
+    "content": "Create a clean futuristic 3D wireframe conversion of a close-up bust portrait of {argument name=\"subject\" default=\"a young woman\"}, preserving the original pose and composition exactly: the subject faces forward with a slightly downward camera angle, short bob-length hair framing the head, one visible ear on the left side, a slender neck, shoulders, and upper chest visible. Render the entire figure as a translucent white mesh made from thin, precise gray polygon and contour lines, showing both outer silhouettes and internal 3D surface structure like a modeling viewport or technical anatomy sketch. Use a pure white background with no scenery. Include exactly 2 main visible elements: 1 wireframe bust portrait and 1 centered opaque square face-cover block. The face-cover block should be a large pale light-gray square with a soft subtle gradient, placed over the entire face from forehead to chin, hiding all facial features while leaving hair, ear, neck, shoulders, and torso mesh visible around it. Emphasize fine crosshatched curved wire lines in the hair, neck, shoulders, and clothing/body surfaces, with delicate semi-transparent linework and high-resolution sharpness. Style: minimalist sci-fi technical drawing, monochrome white and light gray, airy, precise, hollow transparent 3D model aesthetic, no text, no watermark, no color accents.",
+    "title": "Wireframe Censored Portrait",
+    "description": "Generates a minimalist monochrome 3D wireframe bust portrait with a centered gray square obscuring the face, useful for technical mesh or sci-fi sketch effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780822704380_f8ipla_HKGfuYiawAAzUJo.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24531,
+    "content": "Using REFERENCE_0 as the rough concept sketch, transform it into a polished professional industrial design presentation board for a premium wireless game controller. Preserve the overall controller silhouette and control layout from the sketch, but reinterpret it as a realistic matte black product with sculpted ergonomic grips, rounded shoulders, refined seams, tactile buttons, analog sticks, D-pad, shoulder triggers, subtle metallic rings, and premium material finishes.\n\nCanvas and layout: Create a clean 4:3 product concept board on a warm off-white studio background. Use exactly 5 rendered views: 1 large hero render on the left occupying most of the page, and 4 smaller stacked panels on the right showing: front view, side profile, rear/top view, and a close-up detail crop of the controls. Use thin white gutters between panels and soft studio shadows.\n\nBranding and text: Add a minimalist title block below the large hero render with the product name {argument name=\"product name\" default=\"AERO PAD\"} in spaced uppercase lettering, a thin horizontal divider line above it, and the description {argument name=\"tagline\" default=\"Wireless gaming controller with sculpted ergonomics, tactile precision, and refined premium materials.\"}\n\nStyle: High-end industrial design visualization, photorealistic 3D render, soft diffused lighting, matte graphite and black materials, subtle texture, clean Apple-like product presentation, no sketch lines remaining.\n\nConstraints: Do not add hands, people, packaging, logos, or extra accessories. Keep the design clearly derived from the reference sketch while making it look production-ready.",
+    "title": "Sketch to Controller Design Board",
+    "description": "Generates a polished industrial design presentation from a rough game controller doodle, useful for product concept visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780822726013_6t2o7p_HKGaXXOb0AAxQoV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24231,
     "content": "Isometric miniature diorama of {argument name=\"landmark name\" default=\"The Eiffel Tower\"}, capturing its real-world structure and proportions on a small floating platform, surrounded by buildings and landscape details from {argument name=\"location\" default=\"Paris, France\"}. Physically accurate materials including stone, concrete, metal, and glass. True-to-life color palette, muted and realistic tones matching the actual landmark. Off-white studio background with soft natural lighting, gentle shadows, and clean composition. High-detail 3D render, premium architectural model aesthetic, no people, no text.",
     "title": "Famous Landmark 3D Miniature",
@@ -34,19 +94,6 @@
       "https://cms-assets.youmind.com/media/1780735254881_hrkgln_HKENfa2bgAA5uFg.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 24277,
-    "content": "Generate a bright and fresh graphic composite visual around a specific subject: the scene uses a large area of high-brightness pure color fields to support the main subject. The background is flat, airy, and without complex depth of field. The visual focus is established by a boldly cropped portrait or real subject from below, revealing only the most memorable parts, making the subject appear to enter from the edge of the frame. A minimalist graphic symbol or skeuomorphic character is superimposed above the subject, as if sitting lightly on top of the subject's head or growing along the contour, with rounded forms, clean edges, and expressions or structures completed by a few thick lines, possessing both a sense of identity and approachability. Text is the active character of the image: a large handwritten-feel title is used at the top, with loose spacing and soft strokes, like a soft greeting; a stronger vertical or axial title in the center establishes hierarchy; small-font information is placed at the edges, keeping quiet but precise, allowing whitespace to continue dominating. Colors are extracted from the subject's own material, emotion, region, or brand semantics, mapped to bright base colors, clean subject highlights, clear dark structural lines, and small amounts of emphasized information color. It maintains the relationship between large lighthearted base fields, small areas of high-contrast text lines, and natural subject shadows. The overall feel is high-brightness, transparent, clean, with clear but not over-stimulating saturation; dark colors are only for structure and reading, avoiding dirt, fog, or aged textures. A contrast between photographic parts and flat graphics should form between reality and playfulness, with accurate edge overlapping, minimal shadows, and a finished feel like an easy visual system combining urban public promotion and character illustration.\n\nSubject: {argument name=\"subject\" default=\"Liu Yan\"}\n\nRatio: {argument name=\"ratio\" default=\"9:16\"}",
-    "title": "Clean Portrait Graphic Poster Design",
-    "description": "A professional prompt for creating bright, fresh graphic designs that combine photographic portraits with minimalist vector symbols and elegant typography.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780735268899_4rjec8_HKD7HwtbwAE49YJ.jpg",
-      "https://cms-assets.youmind.com/media/1780735268885_rt64b3_HKD7I5IbkAARRvL.jpg",
-      "https://cms-assets.youmind.com/media/1780735268708_4fw0l8_HKD7JwuacAANDF-.jpg",
-      "https://cms-assets.youmind.com/media/1780735270635_h2q4rt_HKD7LAFaEAENbiH.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 24324,
@@ -1258,16 +1305,6 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1779440769067_0kgu9k_HI1BaA0aIAAc9ji.jpg",
       "https://cms-assets.youmind.com/media/1779440769075_t0ua0u_HI1BcJ5bIAAkC3Q.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 21962,
-    "content": "Goal: Create a cute preview screenshot of a 3x3 set of exactly 9 Japanese LINE-style chibi stickers on a large white rounded-rectangle canvas, with a small app-like vertical thumbnail strip on the right and translucent circular edit/share buttons at the bottom corners.\n\nCanvas: Square 1:1 image, clean white background, large rounded white sticker-sheet panel occupying most of the frame. Add a subtle light-gray shadow and rounded corners. On the far right, show 4 tiny stacked thumbnail previews of the same sticker sheet, with the lowest thumbnail outlined in black like it is selected. Bottom left has a semi-transparent gray circular button labeled in Japanese for edit, and bottom right has a semi-transparent gray circular share/upload icon.\n\nMain subjects: A pastel anime chibi cat-girl and a small penguin mascot. The cat-girl has {argument name=\"hair color\" default=\"very pale pink-white long hair with soft pink tips\"}, fluffy cat ears, blue eyes when open, a blue oversized hoodie, short skirt or shorts, yellow leg warmers, white sneakers, and a small yellow hair clip. The penguin is round, navy blue and white, wearing a matching blue hoodie with a small front label. Use soft watercolor shading, thick clean sticker outlines, rounded cute proportions, expressive faces, and no harsh realism.\n\nSticker layout: Arrange exactly 9 discrete sticker illustrations in a 3 columns by 3 rows grid, each with large colorful handwritten Japanese caption text above or near it. Use the complete caption set {argument name=\"sticker captions\" default=\"はらぺこ..., もぐもぐ, 休憩中〜, チラッ, 逃げろー!, 準備中..., 到着っ!, ぐったり, ぺこり\"}. The 9 stickers are: 1) top-left, hungry: cat-girl sitting with eyes closed, hand on stomach, penguin beside her holding an empty plate and spoon, caption in brown; 2) top-center, eating: cat-girl happily eating a burger while penguin eats popcorn, small pink hearts around them, caption in orange; 3) top-right, break time: cat-girl sitting relaxed with a cup, penguin also drinking, musical note and puff cloud, caption in green; 4) middle-left, peeking: cat-girl peeks from the left edge behind a vertical wall or sign, penguin peeks from below, caption in gray; 5) middle-center, running away: cat-girl dashes away with motion blur and dust clouds while penguin runs after her holding popcorn, caption in bright blue; 6) middle-right, getting ready: cat-girl stands by a full-length mirror brushing her hair while penguin holds a hairbrush, yellow sparkles, caption in yellow-orange; 7) bottom-left, arrived: cat-girl points upward cheerfully while sitting on a suitcase, penguin holds a travel map, small mountain scenery behind them and sparkles, caption in red; 8) bottom-center, exhausted: cat-girl sits slumped with tired face, penguin lies face-down wearing an ice pack, wavy blue fatigue lines above them, caption in blue; 9) bottom-right, bowing: cat-girl bows politely with eyes hidden and penguin bows/raises flipper beside her, caption in dark gray.\n\nStyle constraints: Make it look like a finished sticker pack preview from a mobile app, with crisp transparent-sticker-like artwork on white, soft shadows, pastel colors, handwritten playful lettering, and consistent character design across all 9 stickers. Avoid adding extra stickers, extra characters, watermarks, or unrelated UI text.",
-    "title": "Chibi Cat Girl Sticker Pack Preview",
-    "description": "Generates a cute 3x3 Japanese LINE-style sticker pack preview featuring a pastel cat-girl and penguin mascot with app-like thumbnails.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1779440762158_mfmt61_HI0AXkmakAAY3kS.png"
     ],
     "needReferenceImages": true
   },
