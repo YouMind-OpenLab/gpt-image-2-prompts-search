@@ -1,5 +1,26 @@
 [
   {
+    "id": 24631,
+    "content": "Create a high-quality square 3D product visual based on the full-body person in the reference image. Maintain the facial features, atmosphere, body type, standing posture, and overall silhouette of the reference person, reconfiguring them into a high-end 4D art figure for adults without making them unrecognizable. Use a {argument name=\"figure body type\" default=\"24-year-old adult model physique, 6.5 to 7 heads tall\"} with an elegant and mysterious expression. The hair should be black with pink highlights, following the flow of the reference image. Infuse the hair and costume with depth, movement, and a sense of captured time. Materials should be luxury collectibles like matte resin, semi-gloss soft vinyl, transparent resin, and ceramic textures. Replace the original clothing with a {argument name=\"costume style\" default=\"deep red to wine red luxury haute couture dress\"}. Features include structured shoulders, sculptural drapes, an asymmetrical silhouette, a three-dimensional skirt, and materials like satin, velvet, organza, and leather-like finishes. Elegant and luxurious, without excessive exposure. Centrally place the figure inside a transparent, tall, rectangular acrylic capsule case—not a sphere. Use thick transparent acrylic with natural reflections, edge highlights, rounded corners, and a micro-fine champagne gold frame. Place it on a black marble display pedestal with an optional abstract sculpture object at the feet. The background is a {argument name=\"background setting\" default=\"luxury museum with high ceilings, pale marble walls, polished stone floors, quiet exhibition lighting, and blurred abstract art\"}. Use spotlights and diffused light to create beautiful reflections and highlights on the red dress, black and pink hair, and transparent case. Luxurious and serene. A one-of-a-kind exhibition piece merging fashion, sculpture, product design, and contemporary art. Avoid: child-oriented, pastel colors, round capsules, chibi body types, anime eyes, cheap toys, text, logos, brand names, prices, or labels.",
+    "title": "Luxury 3D Art Figure Museum Display",
+    "description": "A sophisticated prompt for creating high-end 3D collectible figures displayed in a luxury museum setting inside an acrylic case.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780911032708_3fb8xo_HKMbuZ2aQAEvpnd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24588,
+    "content": "A {argument name=\"aesthetic\" default=\"cottagecore aesthetic\"} two-piece outfit featuring a {argument name=\"top style\" default=\"white cropped long-sleeve blouse with a green floral print\"}, ruched bodice, and flared sleeves, paired with a {argument name=\"bottom style\" default=\"high-waisted olive green maxi skirt\"} with a smocked waistband and drawstring. Clean white background, flat lay style fashion photographyTwo-piece boho cottagecore set: white floral ruched crop top with flared long sleeves and a matching high-waisted olive green smocked maxi skirt with drawstring.A cottagecore-inspired outfit consisting of a white long-sleeve crop top with a delicate green floral pattern and ruched detailing, paired with a flowing, olive green high-waisted maxi skirt featuring a smocked waistband.",
+    "title": "Cottagecore Fashion Flat Lay",
+    "description": "Generates a clean, white-background flat lay of a floral cottagecore outfit featuring a crop top and maxi skirt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780911002581_flvjcz_HKLauTTbwAAxNgG.jpg",
+      "https://cms-assets.youmind.com/media/1780911002582_k649ei_HKLauOIa8AErbVO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24484,
     "content": "High-quality square 3D product visual. A {argument name=\"exhibition case\" default=\"transparent vertical rectangular acrylic capsule case\"} is placed in the center of an exhibition room in a {argument name=\"exhibition location\" default=\"luxury museum\"}. Features thick transparent acrylic, natural reflections, delicate edge highlights, and an {argument name=\"frame\" default=\"ultra-fine champagne gold\"} frame.",
     "title": "Luxury Museum Acrylic Case Visual",
