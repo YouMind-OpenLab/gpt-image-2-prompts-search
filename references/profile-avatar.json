@@ -1,11 +1,155 @@
 [
   {
-    "id": 24646,
-    "content": "Subject:\n{argument name=\"theme\" default=\"Welcome to the space maid cafe\"}\n\nPerson/Expression:\n{argument name=\"subject\" default=\"Japanese young woman\"}, soft brown long hair, bangs, hair spreading softly in zero gravity. Natural makeup, transparent skin, slightly flushed cheeks, gentle smiling expression, cute gesture with one hand near the cheek as if slightly shy.\n\nClothing/Pose:\n{argument name=\"outfit\" default=\"Black and white Japanese-style maid cafe costume\"}, white lace headdress, pink ribbon, heart motif, white apron with many ruffles, elegant design with a slight fit, white knee-high socks, black strap shoes. Floating softly in a zero-gravity space, holding a silver tray with one hand, cute floating pose with knees slightly bent.\n\nBackground/Light:\nMaid cafe inside a space station, with a single visible Earth and a deep starry sky outside the large window. The interior has a clean metal frame and soft lighting. Around, strawberry parfaits, melon soda floats, strawberry shortcakes, taiyaki, tea, macarons, and teapots are floating in zero gravity. The small items are not too many, and the entire screen is organized for easy viewing.\n\nComposition/Camera:\nVertical smartphone ratio, floating portrait showing the full body, person centered, composition creating depth with the window frame. 35mm lens, slightly wide-angle dynamic perspective, not too shallow depth of field, zero-gravity feeling emphasized by sweets floating in the foreground and background. Earth is placed only once in the background, not duplicated.\n\nTexture/Style:\nHigh definition, 4K quality, realistic photo-style AI image, natural skin texture, natural-looking pores and hair details, photographic feel without excessive processing, Japanese portrait, cinematic lighting, transparent color tones, illusory feeling of a space cafe, sweets are glossy and fresh, strawberries are succulent, cream is soft, melon soda shows carbonated bubbles and ice, finish like a magazine photo.\n\nNegative:\nLow quality, unnatural face, unnatural hands, extra fingers, missing fingers, distorted fingers, strange eye lines, asymmetrical eyes, collapsed face, distorted body, broken clothes, excessive exposure, background with multiple Earths, overlapping planets, unnatural window frames, overlapping floating objects, cluttered items, distorted trays, collapsed sweets, garbled characters, logos, watermarks, AI-specific unnatural textures",
-    "title": "Space Maid Cafe Zero-Gravity Portrait",
-    "description": "A highly detailed prompt for a Japanese-style maid in a space station cafe, featuring zero-gravity hair and floating desserts with Earth in the background.",
+    "id": 24756,
+    "content": "Vertical badge-style portrait, pure black background, deep tech aesthetic. East Asian female, early thirties, face sharp and calm, eyes slightly upturned, as if staring at some deep truth beyond the frame — a silent insight. Black hair neatly pulled back into a low bun, with a loose strand of hair faintly appearing like data threads in the blue rim light. No glasses, eyes are the absolute focus: a faint cyan-blue bio-fluorescence glows inside the dark iris, suggesting deep cognition and insight. Clothing: A neatly tailored midnight blue high-collared long coat, with geometric seam lines faintly visible on the fabric like circuit traces; a matte texture with a subtle iridescent sheen. Simple dark undergarment. No accessories except for a minimalist geometric brooch at the neckline in the shape of a micro-prism. The figure is encased in an asymmetrical metal frame: brushed dark titanium texture, beveled edges, with precise wear textures on the surface, embedded with faint pulsing cyan light lines. Diamond/prism decorative elements at the top and bottom of the frame. Background: A giant glowing deep blue prism suspended behind the figure, decomposing an invisible beam of light into fine cyan and purple spectral arcs surrounding the portrait. The outer layer consists of concentric thin rings with a subtle hexagonal grid texture, echoing neural network topology. Soft volumetric light diffuses from behind, creating an atmosphere of deep exploration. Lighting: Chiaroscuro — the right side of the face lit by cold cyan light (technology, clarity, logic), the left side hidden in deep shadow, retaining a faint warm undertone (humanity, curiosity, the warmth beneath rationality). Skin shows pore-level realistic texture, as if some inner energy glows slightly beneath the dermal layer. Text at the bottom of the badge \"DS Agent\", refined minimalist sans-serif metallic font, with a subtle gradient from deep blue to cyan, slightly recessed into the metal base plate. Art Style: Cinematic character concept, intellectual sci-fi, Dark Academia fused with Cyberpunk, high-end concept art, 8K, hyper-realistic, rich material rendering, volumetric lighting. 1:1, rounded rectangle.",
+    "title": "Cyberpunk Tech Aesthetic Badge Portrait",
+    "description": "A sophisticated prompt for a sci-fi badge-style portrait, featuring a calm East Asian woman with bio-fluorescent eyes and a midnight blue technical coat, set against a dark prism background.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780911044008_ye6spz_HKPwdbSasAEjEzL.jpg"
+      "https://cms-assets.youmind.com/media/1780995752066_thtc8t_HKUj6YQbYAA9bCX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24794,
+    "content": "Using the portrait photo you upload, create a polished formal business headshot poster. Keep the person's real facial features, proportions, face shape, and overall presence intact — do not change who they look like.\n\nLightly refine the facial contour to look cleaner and more photogenic. Smooth skin texture and reduce blemishes or uneven tone without over-retouching — preserve natural skin detail and realistic lighting.\n\nGive the subject a business hairstyle tailored to their face shape: neat, professional, and natural-looking, not exaggerated. Dress them in formal business attire — dark suit jacket, white or light shirt, optional tie — for a premium, minimal, trustworthy appearance.\n\nComposition: frontal half-body portrait, subject centered, looking directly at the camera with a calm, confident expression. Plain solid white background with soft, even lighting — similar to a professional ID photo or corporate headshot. Style: clean, formal, photorealistic, square 1:1 ratio.\n\nInclude a clean info bar at the bottom with modern minimal typography:\nName: {argument name=\"name\" default=\"[Yuna Koizumi]\"}\nTitle: {argument name=\"job title\" default=\"[Senior Graphic Designer]\"}\nDepartment / Institution: {argument name=\"institution\" default=\"[International Design Institute]\"}\n\nText rule: if any label text is in Chinese or another language, translate it to formal English before placing it in the image. Do not display Chinese in the image unless explicitly asked.\n\nTypography: Name in dark navy bold large font (first line); Title and Department in black regular weight (second and third lines). Layout should reference university faculty profile pages or professional conference speaker cards.",
+    "title": "Professional Corporate Headshot Poster Creator",
+    "description": "A transformation prompt that turns any selfie into a professional corporate headshot with an information bar and formal attire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995779309_10p2lm_HKUf0s-bEAAf8GZ.jpg",
+      "https://cms-assets.youmind.com/media/1780995779230_ns298g_HKUf0tAbsAAX3B_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24792,
+    "content": "Holding a phone with the flash on, snapping a mirror selfie in a casually lit, slightly lived-in room. Multiple anime-aesthetic characters fill the frame around me, their look inspired by the {argument name=\"anime characters\" default=\"female cast of Dead or Alive Xtreme Beach Volleyball\"}. They're in {argument name=\"outfit\" default=\"bikinis\"}, crowding in close — a few gently touching my cheeks, others leaning in warmly.\n\nMakeup is soft and natural, facial features carry a clear anime influence.\n\nThe mood is warm and intimate, soft shadows everywhere, a bright flash catch visible in the mirror. Visual style is semi-realistic with cinematic lighting, a hint of film grain, and that polished TikTok-era look.\n\nThe characters feel like real people in flawless cosplay rather than fully rendered anime figures.",
+    "title": "Anime Cosplay Mirror Selfie",
+    "description": "A prompt for generating a warm, semi-realistic mirror selfie featuring anime-style characters in bikinis with cinematic lighting and film grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995776849_biomoi_HKUF703aMAACT8e.jpg",
+      "https://cms-assets.youmind.com/media/1780995776911_duw09r_HKUF703a4AAUKKP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24821,
+    "content": "Create a square, cinematic portrait photo of a person centered in frame inside a dark, warm old library, standing in front of tall wooden bookshelves filled with books and a softly glowing table lamp on the right. The subject is {argument name=\"character description\" default=\"a young adult man with short light brown hair\"}, wearing {argument name=\"coat\" default=\"a beige trench coat with wide collar and shoulder epaulettes\"}, holding a white round plate at chest height with {argument name=\"dessert\" default=\"one dark chocolate cake\"} on it. The cake should be a single round cake with glossy chocolate frosting, visible slice divisions on top, and a decorative border of chocolate pieces or frosting around the rim. The subject faces the camera directly, but the entire face is obscured by a smooth vertical rectangular skin-colored block with no facial features, covering from forehead to chin while leaving the hair, ears, neck, and clothing visible. Use shallow depth of field, warm amber library lighting, dark vignette around the edges, realistic photography, centered composition, slightly surreal censored-face effect, no text, no watermark.",
+    "title": "Faceless Man Holding Chocolate Cake",
+    "description": "A surreal cinematic portrait of a trench-coated figure in a warm library holding a chocolate cake, useful for uncanny meme or concept imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995795774_eiscy3_HKT9x9jXIAAAbof.png",
+      "https://cms-assets.youmind.com/media/1780995795852_1na3w8_HKT9zm5XAAA7MxQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24788,
+    "content": "Ultra-detailed {argument name=\"art style\" default=\"stylized 3D portrait\"} of a {argument name=\"subject\" default=\"beautiful young woman with voluminous curly blonde hair\"}, wearing the {argument name=\"clothing\" default=\"latest Manchester City home jersey\"}, standing confidently with arms crossed in a high-fashion model pose. Blue oval sunglasses, flawless skin, elegant facial features, glossy lips, subtle makeup, gold jewelry accessories, confident expression. No tattoos. Large Manchester City club logo filling the background, dark blue gradient backdrop, premium sports fashion aesthetic. Low-poly geometric art style mixed with photorealistic rendering, sharp details, cinematic studio lighting, depth of field, ultra realistic textures, luxury editorial photography, centered composition, symmetrical framing, 8K resolution, highly detailed face, vibrant Manchester City blue colors, professional portrait, trending on ArtStation, masterpiece quality.",
+    "title": "3D Stylized Sports Fashion Portrait",
+    "description": "A high-fashion prompt for a detailed 3D portrait of a woman in sports apparel, featuring cinematic studio lighting and a clean geometric art style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995773301_vwqg3b_HKTmu_FbUAAjgD2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24837,
+    "content": "Create a photorealistic medium-shot portrait of a {argument name=\"subject\" default=\"beautiful young Indian woman\"} standing indoors in a luxurious dressing room during an Eid celebration. She has very long straight {argument name=\"hair color\" default=\"warm chestnut-brown hair\"} parted in the center, falling over both shoulders, and her face is intentionally obscured by a smooth rectangular skin-toned blur with no visible facial features. She wears a shimmering {argument name=\"outfit colors\" default=\"maroon, antique gold, and bronze\"} traditional salwar suit with intricate silver embroidery, a V-shaped embroidered neckline, small floral motifs across the kameez, ornate metallic silver borders on the cuffs and hem, and a matching maroon-gold translucent dupatta draped over one shoulder with heavy embroidered edging. Add delicate jewelry: exactly 3 visible accessories, consisting of dangling earrings, thin gold bangles on one wrist, and a small bracelet on the other wrist. Pose her with one hand resting on a white marble vanity counter and the other hand lightly touching the front of her outfit. The background should be a softly blurred glamorous makeup vanity area with large mirrors framed by warm round bulbs, cream walls, white cabinetry, and golden bokeh lighting. On the counter include exactly 5 visible decorative items: a tray with perfume bottles, a small pink perfume bottle, a taller amber perfume bottle, crescent moon Eid ornaments, and a plate of dates or sweets. Use warm golden lighting, shallow depth of field, elegant festive styling, realistic fabric texture, high detail, square 1:1 composition, no text, no watermark.",
+    "title": "Eid Salwar Suit Vanity Portrait",
+    "description": "A photorealistic festive portrait of a young Indian woman in shimmering Eid attire standing beside a glamorous illuminated vanity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995804669_7wobk9_HKTEuD9bIAAvQim.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24836,
+    "content": "Create a realistic close-up portrait of {argument name=\"subject\" default=\"a beautiful young Pashtoon Pakistani woman\"} from the chest up, seated indoors in soft natural window light. She wears {argument name=\"dress color and fabric\" default=\"an elegant soft pink satin traditional Pashtoon dress\"} with richly embroidered Afghan-Pakhtun cultural patterns: dense gold threadwork, vertical decorative panels on the bodice, small floral motifs in green, red, teal, and magenta, and a rounded neckline with ornate trim. Include exactly 4 visible jewelry elements: 1 delicate silver head chain with a small forehead ornament partly visible in her dark brown hair, 2 large matching silver dangling jhumka-style earrings with circular filigree tops and tassel chains, and 1 silver coin necklace around her neck. Her long dark hair is parted near the center and falls loosely over her shoulders. The face should be intentionally obscured by a flat vertical rectangular privacy block in a warm skin-tone gradient, covering the entire facial area from forehead to chin while leaving hair, ears, jewelry, neck, and clothing visible. Use shallow depth of field with a softly blurred warm interior background, pale curtains, bokeh highlights, and hints of red patterned textiles. Photorealistic editorial fashion photography, vertical 4:5 composition, gentle highlights on satin sleeves, culturally respectful styling, no text, no watermark.",
+    "title": "Pashtoon Dress Portrait with Obscured Face",
+    "description": "A photorealistic close-up fashion portrait of a young Pashtoon Pakistani woman in embroidered pink traditional dress and silver jewelry with the face privacy-obscured.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995803619_u48u7m_HKTEvGuaIAAp0uJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24740,
+    "content": "Expressive watercolor and ink portrait of a {argument name=\"subject\" default=\"young woman with voluminous auburn curls\"} loosely gathered by the wind, dressed in an {argument name=\"outfit\" default=\"oversized cream cotton shirt\"}. She turns slightly toward the viewer with a calm, thoughtful gaze, delicate features, scattered freckles, and luminous gray-blue eyes. Created in a contemporary mixed-media illustration style with fluid watercolor washes, organic pigment blooms, dynamic ink splashes, subtle paint drips, and textured brushwork. Soft transparent color layers blend naturally into a clean white canvas, featuring artistic bleeding edges, spontaneous splatter details, and an elegant handcrafted fine-art aesthetic. High detail, airy composition, gallery-quality illustration.",
+    "title": "Watercolor and Ink Woman Portrait",
+    "description": "An expressive mixed-media portrait featuring watercolor washes and dynamic ink splashes of a young woman with auburn hair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995741707_xe1omy_HKSvt9HboAA6XQg.jpg",
+      "https://cms-assets.youmind.com/media/1780995741749_fw1dx7_HKSvt9DboAApzqy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24830,
+    "content": "Create a realistic cinematic portrait of an elegant young woman with {argument name=\"hair color\" default=\"long silky chestnut-brown hair\"}, standing on a luxurious stone terrace at a historic European villa during golden hour. She wears a {argument name=\"dress style\" default=\"soft beige embroidered traditional dress with delicate pink floral details, lace-trimmed sleeves, and a sheer matching dupatta draped over one shoulder\"}. Her left hand rests gently on a carved stone balustrade while she faces the camera in a relaxed three-quarter pose; her face is covered by a plain soft-edged rectangular skin-tone privacy blur centered over the facial area. The setting includes an old stone building with an arched doorway on the right, cobblestone paving, carved terrace railings, tall dark green cypress trees, terracotta pots filled with vibrant pink flowers, and a distant countryside view framed by a stone archway in the background. Use warm golden sunlight, natural highlights in the hair, soft shadows, shallow depth of field, romantic Mediterranean villa atmosphere, high-resolution photorealism, refined natural beauty, and a softly blurred background. Keep the composition vertical portrait, waist-up framing, no text, no watermark, no extra people.",
+    "title": "Golden Hour Villa Portrait",
+    "description": "A photorealistic portrait prompt for creating an elegant woman on a historic European villa terrace with flowers, cypress trees, and warm cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995800879_tcx2d0_HKSb8kra4AAnOVM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24789,
+    "content": "Transform the uploaded portrait into an ultra-detailed {argument name=\"art style\" default=\"scratchboard masterpiece\"}. Maintain the exact likeness, facial structure, hairstyle, expression, and identity of the person. Create a high-contrast black-and-white engraving using intricate scratchboard techniques, fine cross-hatching, etching, and razor-sharp white lines on a deep black background. Focus on realistic facial details: expressive eyes, detailed eyebrows, natural skin texture, individual hair strands, beard and mustache texture (if present), and precise facial contours. Use {argument name=\"lighting\" default=\"dramatic cinematic lighting\"} with strong highlights and deep shadows to enhance depth and dimension. Add a {argument name=\"background\" default=\"dark grunge background\"} with subtle scratches, dust particles, distressed textures, and artistic imperfections. The artwork should resemble a premium hand-crafted scratchboard illustration, combining vintage engraving aesthetics with modern graphic novel styling. Professional museum-quality artwork, ultra-sharp focus, highly detailed linework, bold contrast, clean composition, masterpiece quality, 8K resolution, award-winning illustration, visually striking monochrome portrait.",
+    "title": "Scratchboard Engraving Portrait Transformation",
+    "description": "A sophisticated prompt to transform any portrait into a high-contrast black-and-white scratchboard masterpiece, maintaining likeness while adding intricate artistic textures and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995773354_7gw9fz_HKSAlpfaQAARKgS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24737,
+    "content": "Ultra-detailed anime-style portrait of a beautiful young {argument name=\"ethnicity\" default=\"South Asian woman\"} sitting in a {argument name=\"location\" default=\"cozy modern café\"} during golden hour. She rests her face gently on her right hand while gazing thoughtfully to the side, not looking at the camera. Large expressive hazel-brown eyes with detailed eyelashes and glossy reflections, soft rosy cheeks, delicate nose, natural pink lips with a subtle smile. Long wavy dark chestnut-brown hair cascading over her shoulders with loose strands framing her face. She wears an {argument name=\"outfit\" default=\"elegant pastel pink embroidered traditional kurta\"} with sheer sleeves, intricate floral embroidery in vivid red, coral, pink, and green along the cuffs and front panel, detailed threadwork, luxurious fabric texture. Silver jhumka earrings and a delicate gold necklace. Warm cinematic café lighting, glowing hanging lamps in the background, rich golden bokeh, shallow depth of field, dreamy atmosphere, soft amber highlights on the hair, realistic skin shading, highly polished anime illustration, masterpiece quality, ultra-sharp focus on the face, smooth gradients, vibrant colors, premium digital art, 8k resolution. Composition: vertical portrait, close-up framing from waist up, subject centered slightly right of frame, elbow resting on table, relaxed posture, blurred café interior behind her. Soft warm color palette, romantic ambiance, detailed eyes, detailed hair strands, professional character illustration, trending anime artwork. Negative Prompt: low quality, blurry face, extra fingers, distorted hands, asymmetrical eyes, crossed eyes, bad anatomy, cropped head, duplicate earrings, flat lighting, harsh shadows, oversaturated skin, text, watermark, logo, frame, noise, artifacts, deformed features, unrealistic proportions, expressionless face.",
+    "title": "Anime Portrait of South Asian Woman",
+    "description": "A detailed anime-style prompt for a young South Asian woman in a modern cafe, focusing on intricate clothing details and golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995740301_aft93p_HKRj-YqagAA7std.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24750,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with extremely high fidelity: identical facial structure, jawline, cheekbones, eye shape, eyebrows, nose shape, lips, beard pattern, hairstyle, hair texture, skin tone, skin texture, and overall recognizable appearance. Maintain authentic facial proportions, natural skin details, realistic imperfections, and true likeness. Do not beautify, stylize, age, de-age, or alter my identity in any way.\\n\\nCreate an ultra-realistic cinematic nighttime street portrait set in a narrow historic European alleyway. The subject stands alone beneath a warm vintage streetlamp, leaning casually against a metal signpost attached to an old stone wall. The mood is deeply introspective, lonely, contemplative, and emotionally cinematic, as if captured during a quiet midnight walk through an ancient city.\\n\\nThe environment consists of weathered stone architecture with centuries-old textures, cracked masonry, worn surfaces, and dramatic shadows. The alley is narrow and mostly empty, creating a strong sense of isolation and stillness. The ground is paved with aged cobblestones reflecting subtle golden light from the streetlamp above.\\n\\nThe subject stands with hands partially tucked into loose pockets, body slightly angled toward the wall, head gently tilted downward in contemplation. Expression is calm, serious, thoughtful, and emotionally reserved. Eyes are directed toward the ground rather than the camera, conveying solitude and reflection. No smile.\\n\\nOutfit:\\n•Oversized faded charcoal-gray t-shirt\\n•Loose black wide-leg trousers\\n•Clean white sneakers\\n•Minimal accessories\\n•Natural fabric folds and realistic clothing texture\\n•Relaxed modern streetwear aesthetic\\n\\nLighting:\\n•Single overhead tungsten streetlamp as the dominant light source\\n•Rich amber-orange illumination\\n•Deep cinematic shadows\\n•Strong chiaroscuro contrast\\n•Soft falloff into darkness\\n•Warm highlights on skin and clothing\\n•Natural shadow gradients along the wall\\n•Realistic nighttime exposure\\n•No artificial studio lighting\\n\\nEnvironment details:\\n•Historic stone alleyway\\n•Vintage European architecture\\n•Narrow side street disappearing into darkness\\n•Worn stone staircase fading into shadow on one side\\n•Weathered street sign mounted above the subject\\n•Textured stone pavement with subtle reflections\\n•Deep black negative space surrounding the scene\\n•Atmospheric urban solitude\\n\\nComposition:\\n•Full-body portrait\\n•Vertical 4:5 aspect ratio\\n•Subject positioned slightly off-center\\n•Strong leading lines from the alley walls\\n•Streetlamp visible near the top of the frame\\n•Emphasis on scale and loneliness\\n•Large areas of darkness framing the subject\\n•Editorial storytelling composition\\n\\nCamera:\\n•Sony A7R V\\n•85mm lens\\n•f/1.8 aperture\\n•ISO 1600\\n•Shutter 1/125s\\n•Eye-level perspective\\n•Shallow depth of field\\n•Subject perfectly sharp\\n•Background softly blurred but recognizable\\n•Natural cinematic bokeh\\n\\nColor grading:\\n•Warm amber highlights\\n•Deep blacks\\n•Burnt orange tones\\n•Rich golden illumination\\n•Muted earth colors\\n•High contrast cinematic grade\\n•Luxury film look\\n•Moody night photography aesthetic\\n\\nStyle keywords:\\nultra-realistic photography, cinematic storytelling, luxury editorial portrait, film still, moody night photography, emotional realism, atmospheric lighting, high-end fashion campaign, dramatic shadows, solitude aesthetic, European street photography, award-winning cinematography, photorealistic skin texture, realistic fabric detail, masterpiece quality, HDR, 8K ultra-detailed.\\n\\nsmiling, looking at camera, studio lighting, beauty retouching, glamour photography, oversaturated colors, neon lighting, cyberpunk elements, cartoon, anime, CGI appearance, artificial skin, plastic texture, low resolution, blurry face",
+    "title": "European Stone Alley Night Portrait",
+    "description": "An introspective and lonely nighttime portrait set in a narrow historic European alleyway, featuring high-fidelity identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995747764_hhukhm_HKQpqZHa0AAPw6B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24768,
+    "content": "Ultra-detailed digital portrait illustration of a {argument name=\"subject\" default=\"confident young man\"} with sharp facial features and intense dark eyes, looking directly into the camera. His hand covers the lower half of his face, creating a mysterious and powerful expression. Stylish voluminous black hair, wearing a {argument name=\"outfit color\" default=\"deep red shirt over a black t-shirt\"}, black wrist wrap, and a subtle gold chain. Dramatic {argument name=\"lighting color\" default=\"red\"} rim lighting outlining the hair, face, shoulders, and clothing against a pure black background. High-contrast cinematic lighting, dark moody atmosphere, bold shadows, comic-book and graphic novel style, semi-realistic digital painting, ultra-sharp details, textured brushwork, modern masculine aesthetic, centered composition, portrait crop, 4K quality, trending on ArtStation, masterpiece, highly detailed, powerful gaze, edgy and stylish character design.",
+    "title": "Dramatic Red Rim Lighting Portrait",
+    "description": "An edgy, high-contrast digital illustration of a young man with dramatic red lighting, perfect for a modern masculine graphic novel aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995760404_ks6or6_HKQYrqNaEAAqmoz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24675,
+    "content": "Create a vertical 9:16 photorealistic fantasy portrait of {argument name=\"character name\" default=\"a cheerful Japanese maid waitress\"} floating weightlessly inside a futuristic space cafe. She is centered full-body in front of a large rounded rectangular spaceship window, with Earth filling the background and a dark star field behind it. She wears a cute black-and-white maid cafe uniform with pink accents: lace maid headband with small pink bows, short bob {argument name=\"hair color\" default=\"dark brown hair\"}, black puff-sleeve dress, white frilled apron, pink bow at the collar, heart-shaped decorations on the apron and pocket, layered ruffled skirt with pink ribbon bows, wrist cuffs, and black Mary Jane shoes. Her pose is playful and weightless, one leg bent back, one hand holding a shiny silver serving tray, the other hand raised as if greeting a customer. Around her, show exactly 8 floating cafe items: 1 silver serving tray in her left hand, 1 strawberry parfait glass at lower left, 1 green melon soda float with ice cream and striped straw near bottom center, 1 strawberry shortcake slice at lower right, 1 taiyaki fish-shaped pastry at bottom right, 1 teapot with amber tea plus 1 small teacup at mid-right counted as one tea set, 2 colorful macarons floating near the right side, and 1 tall strawberry dessert parfait near the left side. Use glossy high-detail food styling, soft studio lighting, crisp sci-fi interior panels, cool blue rim light from Earth, gentle zero-gravity composition, whimsical maid-cafe charm, ultra-detailed photorealistic anime-inspired Japanese portrait aesthetic. Keep the face softly beautified and natural, no text, no watermark, no extra people, no extra food items beyond the listed floating objects.",
+    "title": "Zero-Gravity Space Maid Cafe Portrait",
+    "description": "Generates a photorealistic vertical portrait of a cute maid waitress floating in a futuristic space cafe with Earth and desserts around her.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995797542_pz1g8x_HKQIXZ1bwAA1-gL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24646,
+    "content": "Subject:\n{argument name=\"subject\" default=\"Welcome to the Space Maid Cafe\"}\n\nPerson/Expression:\nYoung Japanese woman with soft brown long hair and bangs, hair floating softly in zero gravity. Natural makeup, translucent skin, slightly rosy cheeks, a gentle smiling expression, and a cute gesture with one hand near her cheek as if slightly shy.\n\nClothing/Pose:\nJapanese-style maid cafe outfit in black and white, white lace headdress, pink ribbons, heart motifs, a white apron with many frills, elegant design with a slight fit, white thigh-high socks, and black strap shoes. Floating softly in zero gravity, holding a silver tray with one hand, in a cute floating pose with knees slightly bent.\n\nBackground/Lighting:\nA maid cafe inside a space station, with a single view of Earth and the deep starry sky through a large window. The interior features clean metal frames and soft lighting. Strawberry parfaits, melon soda floats, strawberry shortcakes, taiyaki, tea, macarons, and teapots float around in zero gravity. Accessories are not too many, keeping the overall scene clear and organized.\n\nComposition/Camera:\nVertical smartphone aspect ratio, a full-body floating portrait, person placed in the center, with window frames creating depth. {argument name=\"lens\" default=\"35mm lens\"}, slightly wide-angle dynamic perspective, depth of field not too shallow, zero-gravity feel emphasized by sweets floating in the foreground and background. Only one Earth placed in the background, no duplicates.\n\nTexture/Style:\nHigh definition, 4K quality, realistic photo-style AI image, natural skin texture, natural-looking pores and hair details, a photographic feel that isn't over-processed, Japanese-style portrait, cinematic lighting, translucent tones, fantastical atmosphere of a space cafe. Sweets are glossy and fresh, strawberries are succulent, cream is soft, and melon soda shows carbonated bubbles and ice. Finished like a magazine photograph.\n\nNegative:\nLow quality, unnatural face, unnatural hands, extra fingers, missing fingers, distorted fingers, strange gaze, asymmetrical eyes, collapsed face, distorted body, broken clothes, excessive exposure, background with multiple Earths, overlapping planets, unnatural window frames, overlapping floating objects, cluttered accessories, distorted trays, collapsed sweets, gibberish text, logos, watermarks, unnatural AI-specific textures.",
+    "title": "Zero-Gravity Space Station Maid Cafe",
+    "description": "A detailed cinematic prompt for a high-resolution portrait of a Japanese-style maid floating in a zero-gravity space station cafe, complete with floating sweets and a view of Earth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1780995785383_6uhch7_HKPwdbSasAEjEzL.jpg"
     ],
     "needReferenceImages": false
   },
@@ -22,12 +166,12 @@
   },
   {
     "id": 24610,
-    "content": "An ultra-detailed 8K black and white macro portrait of a {argument name=\"subject\" default=\"young man\"}, zoomed in tight on his eye, cheekbone, and lips. Bright sunlight splits into soft, wavy luminous lines rippling across his skin like underwater reflections. The light flows diagonally, wrapping around facial contours in dreamlike patterns, with shadows dissolving into smooth mid-gray tones. Skin rendered in photographic detail: visible pores, faint freckles, slight stubble, natural texture catching glowing light. Lips softly highlighted, eye reflecting fragments of luminous waves. Macro camera framing, razor-thin depth of field: one sharp ridge of illuminated skin, the rest melting into velvety blur. The flowing light gives a surreal, glassy aesthetic grounded in photorealism. Background fades into soft gray gradients. Fine cinematic grain overlays the frame. Intimate, emotionally evocative monochrome portrait.",
-    "title": "Monochrome Macro Skin Texture Portrait",
-    "description": "A highly detailed prompt for an 8K black and white macro portrait featuring surreal, wavy light patterns rippling across human skin.",
+    "content": "An ultra-detailed 8K {argument name=\"color scheme\" default=\"black and white\"} macro portrait of a {argument name=\"subject\" default=\"young man\"}, zoomed in tight on his eye, cheekbone, and lips. Bright sunlight splits into soft, wavy luminous lines rippling across his skin like underwater reflections. The light flows diagonally, wrapping around facial contours in dreamlike patterns, with shadows dissolving into smooth mid-gray tones. Skin rendered in photographic detail: visible pores, faint freckles, slight stubble, natural texture catching glowing light. Lips softly highlighted, eye reflecting fragments of luminous waves. Macro camera framing, razor-thin depth of field: one sharp ridge of illuminated skin, the rest melting into velvety blur. The flowing light gives a surreal, glassy aesthetic grounded in photorealism. Background fades into soft gray gradients. Fine cinematic grain overlays the frame. Intimate, emotionally evocative monochrome portrait.",
+    "title": "Monochrome Macro Luminous Portrait",
+    "description": "An ultra-detailed 8K black and white macro portrait focusing on facial textures and shimmering, wavy light patterns for a surreal aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780911017198_ragqgn_HKPCTT6bEAApkTS.jpg",
-      "https://cms-assets.youmind.com/media/1780911017273_o0weso_HKPCTT5bcAAcy7L.jpg"
+      "https://cms-assets.youmind.com/media/1780995774580_kjf3a8_HKPCTT6bEAApkTS.jpg",
+      "https://cms-assets.youmind.com/media/1780995774593_hu5tr4_HKPCTT5bcAAcy7L.jpg"
     ],
     "needReferenceImages": false
   },
@@ -39,18 +183,6 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1780911026141_5v2art_HKO9NlGWUAA3u_E.jpg",
       "https://cms-assets.youmind.com/media/1780911026202_fqclmj_HKO9NlHWQAADKM7.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 24623,
-    "content": "Based on the uploaded single-person reference image, generate 9 independent 3:4 vertical portraits themed around \"{argument name=\"theme\" default=\"Summer World Cup × Y2K Millennium Style × Kpop × Retro Film\"}.\" Strictly preserve the person's real facial features and identity; do not swap faces, use generic influencer faces, or stylize into anime. The overall vibe should resemble Kpop-style street idol photos captured with a film camera during a summer World Cup, including scenes like retro football jerseys, footballs, grassy pitches, colorful stands, street screens, convenience stores, the seaside, night parties, and sunset stadiums. Clothing includes retro jerseys, low-waist jeans, athletic skirts, colorful sports jackets, silver accessories, hair clips, Y2K sunglasses, and wired headphones. Makeup should be Kpop-style daily wear with glitter eyeshadow, jelly lips, natural skin texture, and a summer sweaty glow. The images must have vitality, a sense of youth, sunlight, wind, smiles, and a candid snapshot feel, featuring retro film grain, slight overexposure, flash lighting, and high saturation with a high-end finish. Avoid real team logos, official FIFA logos, real stars, or commercial brands. The 9 photos are: summer stadium opening, watching the game on a street screen, Kpop stage jersey look, convenience store iced drinks, seaside football, night goal party, retro stands, Y2K magazine cover close-up, and the final sunset whistle.",
-    "title": "Summer World Cup Y2K Kpop Style Portraits",
-    "description": "A comprehensive prompt for generating a series of Y2K and Kpop-inspired street photography portraits themed around a summer World Cup vibe.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780911026165_c68gr0_HKOgNvdWcAAK0JV.jpg",
-      "https://cms-assets.youmind.com/media/1780911027384_96be6f_HKOgU1NXwAAONtL.jpg",
-      "https://cms-assets.youmind.com/media/1780911026170_ofg12p_HKOgg5dXoAAA07z.jpg"
     ],
     "needReferenceImages": true
   },
