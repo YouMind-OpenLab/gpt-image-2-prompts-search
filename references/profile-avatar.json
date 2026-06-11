@@ -1,5 +1,271 @@
 [
   {
+    "id": 24918,
+    "content": "Anime Wallpaper {argument name=\"style\" default=\"Retro Japanese anime style\"}+{argument name=\"coloring\" default=\"cel shading\"}",
+    "title": "Retro Japanese Anime Wallpaper",
+    "description": "A stylized prompt for generating anime-style wallpapers with a nostalgic Japanese vibe and cel-shading techniques.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082669312_f04y0e_HKcDO_VWwAANP8w.jpg",
+      "https://cms-assets.youmind.com/media/1781082669247_rwknwk_HKcDO_UWYAAawlv.jpg",
+      "https://cms-assets.youmind.com/media/1781082669234_zbce9u_HKcDO_nXsAAH90o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24926,
+    "content": "I want to see beautiful {argument name=\"subject\" default=\"cat ears\"} bursting toward summer. Can you generate a fluffy digital illustration in the style of {argument name=\"style\" default=\"NijiJourney\"}?",
+    "title": "Soft Cat Ears Anime Art",
+    "description": "A prompt for generating fluffy, digital anime-style illustrations of cat ears, inspired by the aesthetic of NijiJourney.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082674201_4j1eq5_HKZxT6pb0AAjS4i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24949,
+    "content": "Create a square-crop profile-picture style cinematic portrait of a bald adult man viewed from the front, tightly framed from the top of the head to the upper chest. The subject has visible ears on both sides, a strong neck, and wears a black leather jacket with a short stand collar and a small front zipper. Cover the entire face with exactly 1 large centered opaque square censor block, aligned vertically and horizontally over the head, extending from just below the top of the skull down past the mouth/chin area; the block should be a muted dark plum-to-purple gradient with no text or symbols. Use dramatic neon studio lighting: warm amber/orange rim light on the left side of the head and neck, bright magenta/pink rim light on the right side, with a dark indigo-purple background and soft depth-of-field blur. The visible skin should have realistic texture and high-detail pores, while the overall look is photorealistic, moody, futuristic, and suitable as a mysterious social media avatar. Use {argument name=\"censor block color\" default=\"muted dark plum purple gradient\"}, {argument name=\"jacket color\" default=\"black leather\"}, {argument name=\"left rim light color\" default=\"warm amber orange\"}, {argument name=\"right rim light color\" default=\"magenta pink\"}, and {argument name=\"background color\" default=\"dark indigo purple\"}.",
+    "title": "Neon Censored Portrait Avatar",
+    "description": "A photorealistic cyberpunk-style profile portrait with the face hidden behind a large purple censor square for a mysterious avatar.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082686927_6ag5gh_HKZpYw-XEAAcmoH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24977,
+    "content": "Create a square 1:1 painterly editorial portrait in a vintage gouache/oil-pastel illustration style: a young person with {argument name=\"hair color\" default=\"bright ginger orange\"} short cropped hair leans forward in three-quarter view, wearing a {argument name=\"sweater color\" default=\"coral red-orange\"} knit sweater over a soft cream collared shirt. Their hands are clasped prayer-like near the mouth, fingers interlaced and softly modeled, while the entire face is deliberately hidden by a centered opaque matte square censor block in warm peach skin tone, covering from forehead to chin. Surround the figure with lush tropical foliage against a textured dusty blue sky: exactly 3 fully visible lily-like flowers, consisting of 1 large white lily at lower left, 1 large yellow lily at lower right-center, and 1 smaller pink lily on the right; include 1 partial orange-yellow flower cropped at the far right edge. Add broad dark green and blue-green leaves in the foreground, a tall palm frond rising behind the head on the right, and large banana-like leaves framing both sides. Use rough visible brush strokes, grainy paper texture, saturated complementary colors, flattened shapes, warm natural light, no photorealism, no text, no watermark, and a calm contemplative mood. The portrait subject should feel anonymous and modern, with the censor square as a strong graphic element.",
+    "title": "Anonymous Tropical Portrait",
+    "description": "A painterly square portrait of an anonymous ginger-haired figure surrounded by tropical lilies and foliage, useful for editorial or conceptual art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082698350_y9jbhq_HKZom91aYAAQzJM.jpg",
+      "https://cms-assets.youmind.com/media/1781082698355_0yx81w_HKZonZFa4AAOq-x.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24943,
+    "content": "Ultra realistic cyber-fashion street portrait of {argument name=\"subject\" default=\"REFERENCE PERSON\"}, preserve the exact facial identity, facial structure, eye shape, lips, skin texture, hairstyle, makeup style, and overall likeness from the reference image with extremely high identity fidelity and photorealistic detail. Scene composition must remain nearly identical to the original image: subject standing inside a {argument name=\"location\" default=\"retro Japanese public phone booth\"} at night in a neon-lit city street environment, cinematic urban Tokyo aesthetic, colorful blurred neon signs visible outside the booth windows, authentic nighttime atmosphere with realistic reflections and ambient glow.",
+    "title": "Ultra-Realistic Cyber-Fashion Portrait",
+    "description": "Detailed prompt for a cyber-fashion editorial portrait set in a neon Tokyo phone booth, emphasizing identity fidelity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082683810_suzs6y_HKW6qF6agAAF-up.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24889,
+    "content": "Create an ultra-realistic portrait of a young woman wearing a {argument name=\"clothing\" default=\"fitted butterfly-print baby tee, baggy low-rise jeans with butterfly clips, butterfly-shaped sunglasses, and white platform flip-flops with rhinestones\"}. Sitting cross-legged on a pastel pink fuzzy chair, looking over shoulder. Shot from the side at a 3/4 angle. {argument name=\"setting\" default=\"Bedroom setting with colorful LED string lights, holographic posters, and iridescent wall decorations\"}. Soft, dreamy lighting with cool-warm color balance. {argument name=\"aesthetic\" default=\"Nostalgic Y2K bedroom aesthetic\"}. Composition 9:16 aspect ratio.Use this reference photo and preserve the original face 100% without changing the face shape, eyes, nose, lips, or facial identity. Create a portrait of a young woman with an elegant and feminine premium Douyin aesthetic vibe.",
+    "title": "Y2K Aesthetic Bedroom Portrait",
+    "description": "A nostalgic Y2K-inspired portrait prompt for gpt-image-2 featuring a woman in a butterfly-themed outfit within a retro decorated bedroom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082654150_ty28yx_HKXXXNMaYAAlv7s.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24968,
+    "content": "Create a dramatic vertical anime-style portrait of {argument name=\"character name\" default=\"a mysterious white-haired swordsman\"} standing centered in a narrow futuristic city alley at night during heavy rain. He has shaggy layered {argument name=\"hair color\" default=\"silver-white hair with vivid red tips near the ears\"}, a confident powerful posture, and his face is deliberately covered by a plain semi-opaque rectangular censor block in muted gray-pink, placed over the entire facial area. He wears a glossy wet {argument name=\"coat color\" default=\"crimson red\"} long leather trench coat with large lapels, gold buttons and shoulder details, over a black open-collar shirt, black shiny pants, and a black belt with a brass buckle. His arms are crossed tightly across his chest, sleeves rolled slightly, with rain droplets and highlights on his skin and clothing. Behind him, bright electric-blue lightning cracks across the dark sky and forms jagged energy arcs around his silhouette, creating a glowing halo effect; include visible steam or mist puffs near his shoulders. The background is a tall, dark urban alley with shadowed building walls on both sides, small glowing signs and streetlights near the lower edges, deep perspective, wet reflective surfaces, and dense vertical rain streaks. Use high-contrast cinematic lighting, saturated blues and reds, glossy reflections, sharp anime illustration detail, dynamic composition, and a heroic low-angle feel. No text, no watermark, no extra characters.",
+    "title": "Rainy Anime Swordsman in Red Coat",
+    "description": "A cinematic vertical anime portrait of a white-haired figure in a glossy red coat standing in a lightning-filled rainy city alley.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082695767_1mfqa5_HKYhhZ4aUAA-PNf.jpg",
+      "https://cms-assets.youmind.com/media/1781082695569_1fiz8b_HKYhnqBbcAAhs5a.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24882,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with high fidelity. Create a cinematic moody portrait of me sitting in a vintage leather armchair inside a dark, atmospheric room. Warm golden sunlight streams through a large window, creating dramatic volumetric light rays and dust particles. Thoughtful, confident pose with one hand near the face, wearing a {argument name=\"clothing\" default=\"dark plaid shirt, sunglasses, and jeans\"}. Rich shadows, warm amber tones, filmic color grading, shallow depth of field, luxury lounge aesthetic, ultra-realistic photography, highly detailed, professional editorial style, 85mm lens, masterpiece quality, 8K.",
+    "title": "Cinematic Moody Portrait",
+    "description": "A cinematic prompt for generating a moody portrait in a vintage room with dramatic sunlight, focused on high facial fidelity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082651607_vfejlm_HKYdO52aQAAhN5a.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24931,
+    "content": "An ultra-realistic cinematic portrait of a {argument name=\"subject\" default=\"beautiful young woman\"} sitting peacefully {argument name=\"setting\" default=\"beside a calm lake\"} during {argument name=\"lighting\" default=\"golden hour sunset\"}, captured in a soft side-profile pose. She has elegant delicate facial features, glowing fair skin, soft natural makeup, glossy lips, and deep expressive eyes looking thoughtfully into the distance. Her dark hair is styled in a loose low bun with soft face-framing strands gently falling around her cheeks, moving slightly in the evening breeze. She wears an oversized cozy beige knitted sweater with soft fabric texture, creating a warm autumn aesthetic. Golden sunlight gently illuminates one side of her face, casting soft shadows and warm highlights on her skin and sweater. The background features blurred trees, warm sunset reflections on the water, dreamy bokeh effect, peaceful lakeside atmosphere, soft warm orange and brown tones, calm emotional mood, cinematic storytelling, photorealistic details, shallow depth of field, natural outdoor lighting, cozy autumn feeling, elegant composition, editorial portrait photography, moody yet peaceful vibe, ultra detailed, 8k quality, realistic skin texture, warm golden color grading, soft focus, serene atmosphere.",
+    "title": "Cinematic Lakeside Portrait",
+    "description": "A detailed prompt for generating a warm, cinematic sunset portrait of a woman sitting by a lake, featuring soft lighting and autumn aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082676519_k71oiu_HKYYBwdbQAAPRzm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24979,
+    "content": "Create a realistic vertical portrait photograph of a joyful young South Asian woman at golden hour beside a calm river. She stands on a riverside promenade with a metal railing, her body turned partly away from the camera and her head turned back over her shoulder, smiling warmly with closed eyes. She has long wavy dark hair cascading down her back, wears ornate gold jhumka earrings, bangles, and a deep navy blue traditional outfit with sheer draped fabric, delicate small gold embroidery, and wide shimmering gold borders. One hand rests gently on the polished metal railing in the foreground. The river fills the left and center background with a bright golden sun reflection on the water; the right side shows the walkway receding with railings and posts. Background trees and distant riverbank are softly blurred. Use warm sunset backlighting, glowing highlights, shallow depth of field, candid lifestyle photography, natural pose, elegant festive mood, realistic skin and fabric texture, 85mm lens look, soft bokeh, high dynamic range. Keep the composition waist-up to three-quarter length, subject slightly right of center, no text, no watermark.",
+    "title": "Golden Hour Riverside Portrait",
+    "description": "A realistic candid portrait of an elegant woman in a navy traditional outfit smiling beside a glowing river at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082699490_r2q818_HKYNhzabgAAYrMz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24971,
+    "content": "Create a photorealistic vertical underwater fantasy portrait of a young woman wearing a vintage brass diving helmet with a clear spherical glass dome, seated in an ancient submerged ruin. Her face should be intentionally obscured by a centered solid square privacy block in muted brown, covering the facial features while leaving the hair, helmet, neck, and outfit visible. She has medium-length dark brown hair visible inside the dome and wears a vivid {argument name=\"suit color\" default=\"red\"} tailored blazer and matching trousers over a white shirt, with dark shoulder straps and brass diving gear around the collar. She holds a black handheld game console horizontally with both hands as if excitedly playing underwater. The scene is bright, cinematic, and highly detailed: turquoise-blue ocean water, sunbeams from above, rising air bubbles, colorful coral reefs on both sides, small tropical fish, two orange clownfish in the lower left foreground, a translucent jellyfish in the mid-right background, an old treasure chest on the seafloor at left, and ancient stone columns and ruins in the rear left. Use realistic lighting, glossy reflections on the glass helmet, brass metal details, soft depth of field, vibrant reef colors, and a magical adventurous mood. Vertical 3:4 composition, centered subject from knees upward, no text, no watermark.",
+    "title": "Underwater Gamer in Diving Helmet",
+    "description": "A photorealistic fantasy portrait of a suited woman playing a handheld console inside a vintage diving helmet in a colorful underwater ruin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082696411_bu6xc3_HKYL8pbbsAALVhh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24906,
+    "content": "Ultra-realistic nighttime street fashion selfie, young woman standing in front of a brightly illuminated {argument name=\"restaurant\" default=\"fast-food restaurant\"} storefront, glowing signage in background, direct camera eye contact, holding camera at arm's length, candid influencer aesthetic, long light brown hair with soft layers and curtain bangs, {argument name=\"headscarf\" default=\"black patterned silk headscarf\"} tied under chin, narrow rectangular sunglasses with transparent frame, fitted brown off-shoulder long-sleeve top with white trim, casual denim bottoms, cinematic urban atmosphere, warm restaurant interior lighting, shallow depth of field, background bokeh, flash photography, high detail skin texture, natural makeup, glossy lips, fashion editorial style, centered composition, street photography, realistic proportions, premium social media aesthetic, subtle film grain, sharp focus on face, {argument name=\"lens\" default=\"35mm\"} lens, f/2.0, HDR, photorealistic, high-end fashion campaign, night city ambience",
+    "title": "Nighttime Street Fashion Selfie",
+    "description": "A highly detailed influencer-style selfie prompt set in front of a glowing fast-food restaurant, featuring cinematic urban lighting and specific fashion accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082663743_mluxb3_HKYBdj3bwAApVRZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24955,
+    "content": "Using the provided reference image, transform the person into an Edo-period ukiyo-e / nishiki-e / kabuki actor portrait style while preserving the original pose, black bucket hat, hand-near-mouth gesture, and anonymous blurred face area. Replace the modern shirt with traditional layered kimono robes: a dark navy outer robe with two circular floral crests, a tan checked inner robe, and subtle reddish trim. Change the composition to a vertical close-up woodblock print on aged beige washi paper with visible grain, ink texture, worn edges, and muted traditional pigments. Add exactly 4 new decorative/background elements: 1 vertical title cartouche on the upper left with Japanese calligraphy reading {argument name=\"vertical title text\" default=\"東都新賢似顔繪\"}, 1 red artist seal beneath it reading {argument name=\"seal text\" default=\"豊國画\"}, and 2 stylized blue-gray Edo cloud motifs, one near the upper right and one along the left middle. Keep the face intentionally obscured with a soft rectangular blur matching the reference privacy treatment. Avoid photorealism, modern lighting, and extra text.",
+    "title": "Ukiyo-e Portrait Transformation",
+    "description": "Transforms a modern portrait photo into an Edo-period Japanese woodblock actor-print style while preserving the subject’s pose and anonymity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082689696_f6o678_HKX5w7FaYAAOCV6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24915,
+    "content": "{argument name=\"subject\" default=\"A young girl realistic face\"} taking a mirror selfie, wearing a {argument name=\"outfit\" default=\"coffee loose shirt and white pants\"}, holding the shirt casually with one hand, minimal jewelry, same hair, realistic lighting, and soft white outline glow around her. The background is a warm, light brown aesthetic featuring cute illustrated elements: a peek-a-boo teddy bear face in the top left, multiple textured dark brown heart shapes scattered throughout\n{argument name=\"aspect ratio\" default=\"Ratio 3:4\"}",
+    "title": "Realistic Girl Mirror Selfie",
+    "description": "A detailed prompt for a realistic mirror selfie of a girl in a coffee-colored shirt with an illustrated teddy bear background aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082666396_to1gr1_HKX66a8bkAAab1d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24965,
+    "content": "Create a high-energy square anime illustration of {argument name=\"character name\" default=\"Becky\"}, a cute blonde cowgirl, taking an extreme close-up selfie with {argument name=\"donkey name\" default=\"Bourbon\"}, a goofy gray donkey. The girl is on the left foreground with huge expressive blue eyes, one eye winking, flushed cheeks, a panicked funny open mouth with her tongue sticking out, sweat drops, and messy curly golden-blonde hair spilling from under an oversized brown leather cowboy hat with stitched edges and silver conchos. She wears a brown leather western jacket, red paisley bandana, cream lace-trimmed top, denim shorts, belt with a western buckle, and cowgirl details. The donkey is on the right, pushing into frame with tall ears, wild eyebrows, big mismatched-looking surprised eyes, a broad toothy grin, and its mouth biting or tugging on the fringe of the girl's leather jacket, making the pose chaotic and comedic. Use a fisheye wide-angle perspective, exaggerated chibi-anime facial expressions, glossy cel shading, highly detailed hair and leather textures, dynamic cropped composition, vibrant colors, and a psychedelic swirling background of neon pink, teal, orange, purple, and blue spiral patterns. Make it playful, loud, cute, and absurd, like a polished modern Japanese anime key visual; no text, no watermark.",
+    "title": "Anime Cowgirl and Donkey Selfie",
+    "description": "A vivid comedic anime-style close-up of a blonde cowgirl and a mischievous donkey in a psychedelic western scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082694891_zdb1j6_HKXy1RMaYAAJo-D.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24869,
+    "content": "Black-and-white fashion casting contact sheet of the attached image with black hair, arranged in a clean 2x2 grid of four close portrait frames against city background, wearing the same as the attached picture. Each frame shows a different expression and angle. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 4:5.",
+    "title": "Fashion Casting Contact Sheet Portrait",
+    "description": "Generates a professional monochrome 2x2 contact sheet for fashion casting, showing various expressions and angles against a city background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082646451_c8u3c9_HKXyXXwW8AAR90h.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24871,
+    "content": "Use the uploaded face image as the exact facial reference and preserve facial identity, facial features, skin tone, hairstyle, eyes, smile, and natural proportions with maximum accuracy. Create an ultra-realistic classroom portrait with EXACTLY the same composition and pose as the reference image. A young man stands on the left and a young woman stands on the right, both leaning lightly against a classroom chalkboard with their arms folded across their chests. The male slightly tilts his head downward with a soft smile and looks toward the floor, while the female slightly tilts her head toward the camera with a gentle smile and direct eye contact. Their shoulders are close together, creating a cute and natural Korean drama feeling. The male wears a black bomber jacket covered with white cat prints over a layered casual outfit. The female wears a bright red bomber jacket covered with white cat prints over a dark school-style outfit. Behind them is a large dark green chalkboard with a hand-drawn smiling umbrella made of white chalk. The umbrella is perfectly centered, with the top directly above their heads and the handle positioned between them, creating the illusion that they are standing under the umbrella. The camera is straight at eye level, medium full-body framing, vertical composition, both subjects occupying the lower center of the frame exactly like the reference image. Warm sunlight enters from the left side, creating soft cinematic shadows. Korean drama aesthetic, cute romantic atmosphere, photorealistic, natural skin texture, professional photography, 85mm lens, shallow depth of field, HDR, ultra detailed, masterpiece, 8K UHD. Negative Prompt: different pose, hands not crossed, wrong composition, looking away, extra people, bad anatomy, extra fingers, extra limbs, duplicate face, cartoon, anime, blurry, low quality, watermark, logo, text, cropped.",
+    "title": "Korean Drama Style Classroom Portrait",
+    "description": "A detailed prompt for creating realistic classroom portraits with a romantic atmosphere while preserving facial identity from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082647895_w73xgy_HKXm-6PbYAAkwzs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24874,
+    "content": "Ultra-realistic portrait of a beautiful young woman with long, voluminous {argument name=\"hair color\" default=\"deep red\"} hair, soft waves flowing over her shoulders, fair skin with natural freckles, expressive {argument name=\"eye color\" default=\"hazel\"} eyes, subtle natural makeup, soft pink lips, warm sunlight streaming through a window, cinematic lighting, gentle shadows on the face, {argument name=\"dress\" default=\"black off-shoulder dress\"}, elegant pose, highly detailed skin texture, photorealistic, shallow depth of field, professional photography, 85mm lens, ultra HD, sharp focus, realistic colors, masterpiece, 2:3 portrait ratio.",
+    "title": "Realistic Redhead Portrait in Window Light",
+    "description": "A high-detail portrait prompt for a red-haired woman with freckles, using 85mm lens settings for a professional photography feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082648891_shycje_HKXi_R4bMAAcOjt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24908,
+    "content": "A cinematic 35mm film portrait of a man with the uploaded face as reference, featuring {argument name=\"hair style\" default=\"messy dark curly hair\"} and a light beard, looking slightly upward. He wears {argument name=\"eyewear\" default=\"round, thin-rimmed sunglasses with amber-tinted lenses\"}. The scene is defined by dramatic chiaroscuro lighting, with sharp diagonal {argument name=\"shadow pattern\" default=\"Venetian blind shadows\"} casting stripes of warm golden light and deep shadow across his face and neck. The background is a dark, textured wall catching the same striped pattern. The color palette features a high-contrast mix of warm orange highlights and cool teal-toned shadows. Captured from a low angle with an 85mm lens, showcasing a shallow depth of field, subtle film grain, and a moody, vintage cinematic color grade",
+    "title": "Cinematic Chiaroscuro Film Portrait",
+    "description": "A moody 35mm film portrait prompt utilizing reference images for consistent character generation, featuring amber sunglasses and Venetian blind shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082664641_tokt2k_HKXY1YoXAAAPxTS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24890,
+    "content": "Ultra-realistic {argument name=\"subject\" default=\"South Asian female\"} portrait collage, {argument name=\"layout\" default=\"three-photo layout\"}, beautiful young woman with soft fair skin, long silky dark brown hair, natural makeup, glossy pink lips, expressive brown eyes, delicate facial features, wearing a {argument name=\"clothing\" default=\"powder-blue embroidered traditional kurta with intricate white floral threadwork\"}, ornate gold jhumka earrings, warm cinematic golden-hour lighting, shallow depth of field, creamy bokeh background, elegant indoor setting, soft window light, photorealistic skin texture, high-end fashion photography, intimate close-up composition, dreamy mood, luxury editorial style, 85mm lens, f/1.4, ultra detailed, sharp focus on eyes, natural color grading, HDR, 8K quality.\n\nNegative Prompt:\n\nblurry, low resolution, overexposed, oversaturated, harsh shadows, distorted face, asymmetrical eyes, extra fingers, bad anatomy, plastic skin, cartoon, CGI, watermark, text, logo, noise, grain, duplicate features, naturalist makeup, deformed earrings, cropped face, motion blur",
+    "title": "Traditional Kurta Portrait Collage",
+    "description": "A high-fashion portrait collage prompt for gpt-image-2 featuring a South Asian woman in a traditional embroidered kurta with golden-hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082655843_b3r9qh_HKXE2vsbkAAXDZ9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24967,
+    "content": "Create a highly detailed anime illustration of an elegant gothic oiran courtesan seated in a dramatic three-quarter pose against a pure black background with a crimson ruined cathedral/window silhouette behind her. The character is a pale, doll-like young woman with {argument name=\"hair color\" default=\"platinum blonde\"} hair styled in an elaborate high oiran updo with long curled ringlets, blunt bangs, pointed elf ears, icy blue eyes, and a calm vacant expression. She wears an ornate black spiked metal halo/crown behind her head, plus exactly 7 visible hair ornaments: 3 long black spear-like hairpins crossing diagonally on the left, 1 curled gold ornament, 1 small red ribbon bow near the left side of the head, 1 red ribbon bow by the ear, and 1 red rectangular ribbon on the right side. Dress her in a lavish fusion of Japanese oiran kimono, lolita fashion, and gothic Victorian styling: a black-and-white collar, white gloves, layered ruffled sleeves, a black upper robe with bold white calligraphy, a huge red obi bow at the waist, and an enormous cascading skirt made of torn paper-like kimono panels. Use a striking palette of black, white, saturated red, bright cyan blue, and pale cream. The skirt should dominate the lower two-thirds of the image with many jagged cyan fabric strips covered in black handwritten characters, black strips with white calligraphy, white ruffled edges, red bows, and a pink-and-gray patterned obi section on the left. Count the prominent decorative bows as exactly 5: 2 in the hair, 1 oversized red bow at the waist, and 2 red bows in the lower skirt. Her right hand is raised delicately, palm up, balancing a long slender {argument name=\"smoking pipe\" default=\"gold-and-red kiseru pipe\"} horizontally; her other gloved hand rests elegantly over the piled fabric. Use sharp inked linework, cel-shaded highlights, intricate textile patterns, high contrast, fashion-editorial composition, surreal gothic atmosphere, and a vertical portrait crop. Add subtle red handwritten characters on the right side of the background, but no readable modern typography, no watermark, no photorealism.",
+    "title": "Gothic Oiran Anime Portrait",
+    "description": "A detailed prompt for generating a dramatic anime-style gothic oiran courtesan with ornate hair, kimono layers, calligraphy patterns, and a crimson cathedral backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082695533_kvwbx2_HKWJdYNaoAAAQQv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24975,
+    "content": "Create a dramatic sepia-toned studio portrait of a {argument name=\"subject\" default=\"handsome muscular young man\"} shown from the upper torso upward, centered and facing forward. He has tousled wavy dark-brown hair with golden rim highlights, broad shoulders, defined chest and collarbones, lightly hairy chest, and wears a dark worn athletic tank top with deep armholes and a scooped neckline. The face is completely obscured by a centered opaque square block in warm medium brown, covering from the forehead area down to the mouth/chin area, leaving hair, ears, neck, shoulders, and torso visible. Use low-key cinematic lighting with a strong warm key light from upper left, subtle rim light on the hair and shoulders, deep shadows, high contrast, realistic skin texture, and a moody vintage sepia color grade. Background is a dark mottled brown studio backdrop with soft vignette and no visible props. Square 1:1 composition, tight crop at the upper arms and chest, photorealistic editorial fitness portrait, sharp detail on hair and torso, shallow depth of field, no text, no watermark.",
+    "title": "Sepia Muscular Portrait With Obscured Face",
+    "description": "A photorealistic moody sepia studio portrait of a muscular man in a tank top with his face hidden by a solid square, useful for anonymous fitness or editorial imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082697871_0vchyv_HKV-r7MagAAzCx5.jpg",
+      "https://cms-assets.youmind.com/media/1781082697822_xmox5l_HKV-r7XasAA1aqv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24893,
+    "content": "A hyper-realistic cinematic close-up portrait of a {argument name=\"subject\" default=\"man, face glistening with water droplets and sweat scattered across the skin\"}, ultra-detailed skin texture with pores and micro-detail visible, {argument name=\"lighting\" default=\"warm golden-hour backlight creating a dramatic rim light effect on one side of the face\"}, soft bokeh background with warm orange and muted blue tones blending together, volumetric light rays catching the moisture on the skin, photorealistic rendering with subsurface scattering on skin, shallow depth of field, 8K ultra-sharp detail, shot on Sony A7R V with 85mm f/1.4 lens, {argument name=\"mood\" default=\"mood is intense, focused, and raw — like a fighter or athlete mid-battle or post-match\"}. Cinematic color grading with warm amber and copper tones dominating the highlights.\nUse the exact facial structure, features, and likeness from the provided reference image — including face shape, eyes, nose, and jawline. Only apply the above lighting, texture, and style to the reference face without altering any facial characteristics.",
+    "title": "Cinematic Wet Face Portrait at Golden Hour",
+    "description": "A cinematic close-up portrait prompt for gpt-image-2 focusing on hyper-realistic skin textures, water droplets, and dramatic golden-hour rim lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082656863_hzu0tt_HKVuncCWgAEEWMl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24983,
+    "content": "Create an ultra-realistic cinematic portrait photograph of a {argument name=\"subject\" default=\"young Indian woman\"} seated indoors near a large window during golden hour. Frame as a close-up bust portrait in vertical square composition, with the subject turned slightly three-quarters toward the camera, shoulders relaxed, wearing a simple loose {argument name=\"outfit color\" default=\"taupe beige\"} linen kurta or blouse. Her {argument name=\"hair style\" default=\"long dark brown hair in a thick side braid\"} falls over one shoulder, with a few soft loose strands catching the light. Cover the entire facial area with one centered opaque square privacy block in a warm medium-brown skin-tone color, while leaving the hair, ears, neck, clothing, and body visible. Use soft natural daylight from a side window on the left, warm golden sunlight outlining the hair and shoulder, shallow depth of field, creamy bokeh, muted beige interior background, subtle lens glow, realistic skin and fabric texture where visible, 85mm portrait lens look, cinematic color grading, calm intimate mood, no text, no watermark, no extra people.",
+    "title": "Golden Hour Indian Woman Portrait",
+    "description": "A realistic indoor golden-hour portrait of a young Indian woman with braided hair and an anonymized face, useful for privacy-safe lifestyle photography concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082700861_bbgy4z_HKVqausa0AA57nq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24895,
+    "content": "Use 100% face above uploaded photo. Create an ultra-realistic, moody high-fashion close-up of the young man. A {argument name=\"lighting effect\" default=\"striking, razor-sharp spectrum of prismatic rainbow light cuts diagonally across his face\"}, illuminating his damp, messy hair and reflecting vividly on his rectangular sunglasses. He is dressed in a {argument name=\"clothing\" default=\"dark, rich velvet blazer over a black turtleneck\"}. His {argument name=\"pose\" default=\"hand is elegantly resting against his lower jaw, the metallic black-stone ring glistening sharply in the refracted light beam\"}. The rest of his face and the background fall into deep, inky shadows (intense chiaroscuro). Exceptional micro-details on the skin pores and fabric textures. 85mm f/1.4 aesthetic. Don't change the face.",
+    "title": "Prismatic Rainbow Light High Fashion Portrait",
+    "description": "A high-fashion close-up prompt for gpt-image-2 featuring intense chiaroscuro lighting and a sharp prismatic rainbow effect across the subject's face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082657826_rid00i_HKVbIAZbQAIi_Fn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 24873,
+    "content": "A hyper-realistic AI-generated portrait of a beautiful young woman with long straight black hair with subtle warm golden-brown highlights, fair porcelain skin, soft expressive dark brown eyes with natural makeup, soft rosy lips with a gentle smile, small nose piercing, silver hoop earrings, layered silver chain necklaces with a pendant, wearing a black scoop-neck top, dramatic dark studio background with warm rim lighting illuminating the hair and face, cinematic lighting, photorealistic, 8K quality, shallow depth of field, professional portrait photography style",
+    "title": "Hyper-realistic Portrait with Cinematic Lighting",
+    "description": "A detailed prompt for creating a cinematic portrait of a woman with black hair and warm highlights against a dark studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082648395_l7s8dw_HKVJow-bAAAGAOp.jpg",
+      "https://cms-assets.youmind.com/media/1781082648246_973jzm_HKVJoyLboAAsySa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24756,
     "content": "Vertical badge-style portrait, pure black background, deep tech aesthetic. East Asian female, early thirties, face sharp and calm, eyes slightly upturned, as if staring at some deep truth beyond the frame — a silent insight. Black hair neatly pulled back into a low bun, with a loose strand of hair faintly appearing like data threads in the blue rim light. No glasses, eyes are the absolute focus: a faint cyan-blue bio-fluorescence glows inside the dark iris, suggesting deep cognition and insight. Clothing: A neatly tailored midnight blue high-collared long coat, with geometric seam lines faintly visible on the fabric like circuit traces; a matte texture with a subtle iridescent sheen. Simple dark undergarment. No accessories except for a minimalist geometric brooch at the neckline in the shape of a micro-prism. The figure is encased in an asymmetrical metal frame: brushed dark titanium texture, beveled edges, with precise wear textures on the surface, embedded with faint pulsing cyan light lines. Diamond/prism decorative elements at the top and bottom of the frame. Background: A giant glowing deep blue prism suspended behind the figure, decomposing an invisible beam of light into fine cyan and purple spectral arcs surrounding the portrait. The outer layer consists of concentric thin rings with a subtle hexagonal grid texture, echoing neural network topology. Soft volumetric light diffuses from behind, creating an atmosphere of deep exploration. Lighting: Chiaroscuro — the right side of the face lit by cold cyan light (technology, clarity, logic), the left side hidden in deep shadow, retaining a faint warm undertone (humanity, curiosity, the warmth beneath rationality). Skin shows pore-level realistic texture, as if some inner energy glows slightly beneath the dermal layer. Text at the bottom of the badge \"DS Agent\", refined minimalist sans-serif metallic font, with a subtle gradient from deep blue to cyan, slightly recessed into the metal base plate. Art Style: Cinematic character concept, intellectual sci-fi, Dark Academia fused with Cyberpunk, high-end concept art, 8K, hyper-realistic, rich material rendering, volumetric lighting. 1:1, rounded rectangle.",
     "title": "Cyberpunk Tech Aesthetic Badge Portrait",
@@ -112,6 +378,16 @@
       "https://cms-assets.youmind.com/media/1780995740301_aft93p_HKRj-YqagAA7std.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 24775,
+    "content": "Create a high-quality square RPG character card based on the reference image. If the reference is a photo, reflect the facial features, hairstyle, expression, atmosphere, and accessories. If it's an illustration, use the design, colors, and pose as a reference to reconstruct it as an original RPG character rather than a perfect reproduction. Place a {argument name=\"age\" default=\"22-year-old\"} adult Japanese female RPG character in the center, based on the reference. Include semi-long black hair, rose decorations, an elegant model-like physique, and a calm, confident expression for a sophisticated look. Include a customizable Japanese profile UI within the card. Name: {argument name=\"name\" default=\"REINA\"} Title: {argument name=\"title\" default=\"The one clad in quiet brilliance\"}",
+    "title": "Premium RPG Character Card UI",
+    "description": "A detailed Japanese prompt for creating high-quality RPG character cards with integrated UI elements, status gauges, and profile information.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082683362_esmy17_HKRiPv-bcAAK8B7.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 24750,

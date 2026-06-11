@@ -1,5 +1,45 @@
 [
   {
+    "id": 24902,
+    "content": "Produce warm, atmospheric {argument name=\"product\" default=\"candle and home fragrance\"} product images that sell the feeling of luxury, comfort, and calm. This prompt captures glowing flame light, molten wax texture, the warmth of {argument name=\"material\" default=\"amber glass\"}, and all the sensory visual cues that make candle buyers click \"purchase.\" Perfect for candle brands, Etsy candle sellers, home fragrance startups, and lifestyle brands wanting imagery that evokes the full sensory experience of their product",
+    "title": "Luxury Candle Product Photography",
+    "description": "Generates warm and atmospheric product images for candles and home fragrances, focusing on molten wax textures and cozy, high-end lifestyle vibes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082661483_i3h8io_HKXABwca0AAybVN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24875,
+    "content": "subject\": {\"person\": \"woman\",\"appearance\": {\"hair\": \"dark brown, styled in a sleek, pulled-back bun\",\"pose\": \"standing, one leg lifted slightly with the knee bent, looking downwards with a soft expression\",\"outfit\": {\"style\": \"monochromatic, utilitarian chic jumpsuit\",\"color\": \"deep coffee brown\",\"details\": \"short-sleeved shirt top with collar and chest pockets, belted waist with a gold-toned buckle, wide-leg trousers\"},\"footwear\": \"pointed-toe high heels in a matching deep brown color\"}},\"setting\": {\"background\": \"minimalist, soft-focus draped fabric backdrop\",\"lighting\": {\"type\": \"studio portrait lighting\",\"quality\": \"soft, diffused, dramatic shadows\",\"effect\": \"creates a gentle gradient and highlights the silhouette\"}},\"technical_specifications\": {\"image_quality\": \"4k resolution, high definition\",\"style\": \"fashion photography, editorial\",\"color_palette\": [\"#4B3621\",\"#6F4E37\",\"#D2B48C\"],\"composition\": \"full-body shot, centered\",\"atmosphere\": \"elegant, sophisticated, modern\"}}",
+    "title": "Editorial Fashion Photography JSON Prompt",
+    "description": "A structured JSON prompt for fashion editorial photography featuring a monochromatic utilitarian chic jumpsuit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082649109_h6e05a_HKWvkMSaQAAIGJi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24870,
+    "content": "Create image featuring a young Korean woman with mid-length brown hair styled with {argument name=\"hair clip color\" default=\"lime green\"} hair clips on both sides, posing against a plain white wall while wearing a cropped black long-sleeve top, black high-waisted pants, and a vibrant {argument name=\"bag color\" default=\"lime green\"} snakeskin-patterned saddle bag slung over her shoulder.",
+    "title": "Korean Fashion Model Studio Portrait",
+    "description": "A clean fashion editorial prompt for a Korean woman featuring specific hair styling and vibrant snakeskin accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082647444_alr3cl_HKV6KxbX0AANw2R.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 24877,
+    "content": "A young woman with long wavy blonde hair and green eyes sipping a {argument name=\"beverage type\" default=\"berry smoothie\"} through a red straw with a playful, wide-eyed expression, looking directly at the camera. She is holding a clear plastic cup filled with a thick dark purple-pink berry smoothie with both hands, bringing it close to her face. The cup has a white circular logo sticker featuring a {argument name=\"logo symbol\" default=\"green hummingbird\"} with a red head on a white background. She is wearing a light {argument name=\"sweater color\" default=\"lavender-purple\"} chunky knit oversized sweater and bright pink pants visible at the bottom. The background is a soft, blurred white paneled wall. Studio-style lifestyle photography with warm, even artificial lighting, shallow depth of field, close-up portrait framing, face and upper body in focus, vibrant colors, commercial beverage advertisement style, photorealistic.",
+    "title": "Commercial Lifestyle Beverage Photography",
+    "description": "A bright commercial-style prompt for a lifestyle portrait featuring a person enjoying a smoothie, perfect for advertising.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781082649783_892sgu_HKWIfvZWIAAA59C.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 24810,
     "content": "Goal: Create a high-resolution 2.5D photorealistic fashion generator image showing two full-body AI cosplay fashion models side by side on a sunny urban shopping street, like a street-style lookbook comparison.\n\nCanvas: Landscape 4:3 image, approximately 800×640 px, split vertically into exactly 2 equal panels with no border line. Bright daylight, sharp details, shallow-to-medium depth of field, realistic street photography with a polished AI illustration finish.\n\nLayout: The left panel shows one model standing centered on a sidewalk in front of glass storefronts and trees, holding out the sides of her skirt in a cute pose. The right panel shows one model standing centered on a city sidewalk with glass buildings, trees, street signs, and a black hanging banner in the background, posing confidently with one hand near her hip. Add a small white event-style watermark/logo near the lower center overlapping the split, reading “AI COSPLAY EXPO” with smaller tiny unreadable event text below and a simple white mascot/icon above.\n\nSubject count: Exactly 2 full-body female fashion models. Both have intentionally blurred, featureless faces with smooth beige rectangular/oval blur masks, while hair, clothing, body pose, and accessories remain detailed.\n\nLeft model: A cute gothic lolita idol outfit on {argument name=\"left character style\" default=\"a young woman with long ash-blonde silver wavy twin-tail hair tied with dark blue ribbons\"}. Outfit count for the left panel: 1 navy-and-cream plaid short dress with a white sailor collar, 1 navy bow at the neckline, 1 fitted corset-like bodice with gold buttons, 1 pleated flared skirt, 1 white lace underskirt, 2 white wrist cuffs with bows, 2 sheer white patterned thigh-high stockings, 2 dark bow garters, and 2 white platform Mary Jane shoes with ankle bows. Add delicate jewelry such as a small necklace and earrings. The pose is shy and cute, knees slightly inward, both hands lifting the skirt edges.\n\nRight model: A punk gyaru streetwear outfit on {argument name=\"right character style\" default=\"a young woman with long platinum-blonde voluminous wavy hair\"}. Outfit count for the right panel: 1 black graphic long-sleeve top reading “GLAMOROUS JANE” with a skull illustration, 2 zebra-striped sleeves, 1 black mini skirt, 1 studded belt with metal rings, 2 hanging silver chains, 1 black shoulder bag, multiple bracelets and rings, 2 mismatched thigh-high socks where one is solid black and one is black-and-white striped, and 2 black platform buckle boots. The pose is edgy and confident, one leg forward, one hand at the waist, the other relaxed.\n\nEnvironment: Modern Japanese city fashion district sidewalk, bright green trees, sunlit pavement, reflections in glass storefronts, distant pedestrians kept small and unobtrusive. The right panel includes a black vertical street banner with a white abstract X logo and small text resembling “CROSS NIGHT.”\n\nVisual style: 2.5D hybrid of photorealistic street photography and polished AI cosplay illustration, crisp clothing textures, realistic lighting and shadows, high-fashion street snap composition, vibrant but natural colors. Use {argument name=\"lighting\" default=\"bright sunny midday lighting with dappled tree shadows\"}.\n\nText content: Include exactly 2 visible text areas: the small lower-center watermark “AI COSPLAY EXPO” and the right-side background banner with a white X-like logo and tiny “CROSS NIGHT”-style wording. Do not add any other readable captions.\n\nConstraints: Keep both faces blurred and anonymous, show both characters full body from head to shoes, maintain the exact two-panel split, no extra people in the foreground, no cropped feet, no anime face details, no raw prompt text, no frame border.",
     "title": "Two-Panel AI Cosplay Fashion Lookbook",
