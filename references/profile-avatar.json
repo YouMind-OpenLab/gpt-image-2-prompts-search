@@ -1,5 +1,56 @@
 [
   {
+    "id": 25073,
+    "content": "Using the provided reference image, enhance and restore it into an ultra-premium photorealistic 8K cinematic-quality image. Keep 100% of the original identity, pose, framing, composition, background layout, and all visible objects unchanged. Recover sharp microdetails throughout: clear dog eyes, realistic nose texture, individual fur strands, whiskers, flower petals, grass, house, trees, and outdoor lighting. Remove blur and pixelation, increase natural contrast and studio-grade clarity, preserve realistic colors and depth of field, and make the result look like a high-end professional photo without adding or removing elements.",
+    "title": "Ultra-Realistic Photo Enhancement",
+    "description": "Transforms a blurry reference photo into a sharp cinematic 8K photorealistic restoration while preserving the original subject and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169547173_ancgls_HKewcqKXwAAes5m.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25025,
+    "content": "Hyper-realistic close-up portrait of a {argument name=\"subject\" default=\"woman\"} with slightly disheveled, wind-tousled hair, dressed in a {argument name=\"outfit\" default=\"distressed leather jacket\"}. A sweeping white headlight beam cuts across her face from one side, capturing a fleeting moment of brightness against deep shadow. {argument name=\"setting\" default=\"Urban nighttime\"} backdrop, dramatic cinematic motion feel.",
+    "title": "Cinematic Urban Night Portrait",
+    "description": "A cinematic close-up of a woman in an urban setting at night, featuring dramatic lighting from a passing headlight and wind-swept hair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169523025_d6c7cq_HKeKSmwboAAYuLT.jpg",
+      "https://cms-assets.youmind.com/media/1781169524496_ygo24n_HKeKSmvbMAALZP1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25031,
+    "content": "Create An 8k Ultra-realistic Portrait (minimum 7680x4320 Detail), 2:3 Vertical Ratio, Of {argument name=\"subject\" default=\"The Same Subject\"} Leaning Slightly Forward With Both Hands On A Modern Sink, Staring Into {argument name=\"mirror type\" default=\"A Glowing Led Mirror\"}. {argument name=\"outfit\" default=\"Black Shirt, Silver Chain\"}. Dark Cinematic Bathroom Lighting, Shallow Depth Of Field Face 100% Consiste With The Reference Image.",
+    "title": "Ultra-Realistic Portrait in Cinematic Bathroom Lighting",
+    "description": "A highly detailed 8K portrait prompt of a subject leaning on a modern sink and looking into an LED mirror, featuring cinematic lighting and a shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169527720_hwpcl3_HKdgLLjbEAAlSG1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25042,
+    "content": "Subject:\n{argument name=\"subject\" default=\"on the way home\"}\n\nPerson/Expression:\n{argument name=\"person\" default=\"A young Japanese woman in her early 20s. Blunt black bob with thin see-through bangs. Natural Japanese-style makeup with soft semi-matte skin, delicate tear bags, fine eyeliner, calm brown eyeshadow, a hint of color on the cheeks, and a matte rose-beige lip. Looking back at the camera while walking with a dignified yet slightly tired expression, capturing the lingering feeling of finishing work.\"}\n\nClothing/Pose:\nUrban Japanese commuting style. Black sleeveless knit top, airy black flare skirt, and a delicate black shoulder bag. Simple, elegant, and sophisticated styling. A pose looking back while the body moves forward. Natural motion blur on the arms and parts of the body.\n\nBackground/Lighting:\n{argument name=\"background\" default=\"A night scene at a Japanese train station platform. Realistic Tokyo terminal station in JR style, Yamanote Line-style train with a green line, station signs with white text on a black background, yellow 'Exit' signs, natural station signage in Japanese and English, digital train arrival boards, yellow tactile paving, and commuters heading home.\"} The platform is lit by rows of fluorescent lights, with a slightly dark cinematic tone. Soft light hits the subject's face, while the background has the slightly greenish atmosphere of a station at night.\n\nComposition/Camera:\nVertical composition, 35mm lens, snap-shot style. The subject is slightly left of center, framed from the waist or thighs up. Focus on the face, with background commuters and the train blurred by motion. A composition where the subject seems to stand still amidst the crowd. Shallow depth of field, natural handheld feel.\n\nTexture/Style:\nHigh definition, 4K quality, realistic AI portrait, photographic style, looking like a movie scene. Film-like grain, slightly amber station lighting, realistic skin texture with visible pores and fine lines. A magazine-style finish capturing the after-work atmosphere without excessive processing. Urban, quiet, emotional, Japanese portrait.\n\nNegative:\nLow quality, unnatural face, unnatural hands, extra fingers, missing fingers, distorted fingers, strange gaze, asymmetrical eyes, collapsed face, distorted body, broken clothes, over-processing, excessive skin smoothing, overexposure, unnatural AI texture, garbled text in the background, unnatural station signs, unnatural trains, duplicated people, unnecessary props, text, logos, watermarks\",",
+    "title": "Japanese Night Station Snap Portrait",
+    "description": "A sophisticated prompt for generating an emotional, cinematic portrait of a young woman at a Japanese train station at night, focusing on realistic textures and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169532637_lb2h4d_HKdCms0bcAAVZz5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25045,
+    "content": "A stylish young {argument name=\"subject\" default=\"couple\"} posing together in a professional studio photoshoot, standing close and embracing each other, confident expressions, looking directly at the camera. The woman has long wavy brown hair, natural glamorous makeup, and wears a fitted {argument name=\"female shirt color\" default=\"teal-blue\"} button-up shirt with dark blue jeans. The man has tousled dark hair, light stubble, and wears a {argument name=\"male shirt color\" default=\"teal-green\"} casual shirt with dark jeans.",
+    "title": "Professional Studio Couple Photoshoot",
+    "description": "A detailed prompt for creating a professional studio portrait of a stylish couple in coordinated teal and denim outfits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169533812_i1upud_HKcrtN3aoAAoIuR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24918,
     "content": "Anime Wallpaper {argument name=\"style\" default=\"Retro Japanese anime style\"}+{argument name=\"coloring\" default=\"cel shading\"}",
     "title": "Retro Japanese Anime Wallpaper",
@@ -10,6 +61,26 @@
       "https://cms-assets.youmind.com/media/1781082669234_zbce9u_HKcDO_nXsAAH90o.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 25028,
+    "content": "A full shot of a {argument name=\"subject\" default=\"man\"} sitting on a {argument name=\"chair\" default=\"white chair\"} with his legs crossed, wearing a {argument name=\"outfit\" default=\"dark button-down shirt, white pants, and white slides\"}, uploaded face as reference, with an old-fashioned film camera on a tripod to his left, a potted green plant to his right, and various design-related elements scattered around him, including a notepad listing \"Creative Cloud\" applications, a Polaroid photo with the words \"Creativity is Fun,\" and text snippets like \"Be Different\" and \"Dare to Stand Out,\" all arranged in a collage style, with a color palette of {argument name=\"colors\" default=\"muted blues, grays, and whites\"}, and pops of color from the plant and text, creating a visually engaging and informative composition, reminiscent of a graphic design mood board, with a slightly desaturated look and a clean, modern aesthetic, as if designed for an Instagram story.",
+    "title": "Creative Mood Board Collage",
+    "description": "A collage-style prompt featuring a man in a modern setting with creative design elements and typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169525936_slowi3_HKbAH2ta0AAJ2h4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25029,
+    "content": "Create a hyper-realistic 8K cinematic portrait of the uploaded person in a {argument name=\"lighting style\" default=\"dramatic chiaroscuro style\"}. The subject is seated at a three-quarter angle, leaning slightly forward with a relaxed yet commanding posture. His face is turned slightly away from the camera,not looking at the lens, with one side of the face sharply illuminated and the opposite side fading into deep, velvety black shadow. His expression is contemplative. His hands are near the chest in a natural, precise pose, with the fingers gently and correctly interlocked. One wrist clearly shows a {argument name=\"watch\" default=\"luxury black chronograph watch\"} with a detailed metal link bracelet, and one hand wears a subtle silver ring. He is dressed in a {argument name=\"suit\" default=\"sharp black suit jacket over a white dress shirt\"} with the top buttons open, showing refined fabric texture and natural folds. The background is solid seamless black. Use strong directional studio lighting with rich contrast, clean shadow falloff, and realistic skin texture. Highlight fine details such as hair strands, beard(if present) bristles, eye moisture, facial texture, the watch face, metal bracelet reflections, and the silver ring. Shot with an 85mm portrait lens look, shallow depth of field, premium commercial photography, ultra-sharp focus, smooth natural skin transitions, cinematic contrast, no artificial plastic skin, no extra fingers, no distorted hands, no messy anatomy.",
+    "title": "Hyper-Realistic Chiaroscuro Portrait",
+    "description": "A high-contrast cinematic portrait prompt focusing on dramatic studio lighting, realistic skin textures, and luxury accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169526653_144o9a_HKa8-kTaYAAH7yg.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 24926,

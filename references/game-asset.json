@@ -10,6 +10,37 @@
     "needReferenceImages": true
   },
   {
+    "id": 25051,
+    "content": "A highly detailed 3D animated character design sheet of a cheerful little girl named Luna and her bunny companion Bun, presented in a clean professional animation studio turnaround layout, Pixar-style, DreamWorks-style, soft pastel aesthetic, white",
+    "title": "1️⃣Character sheet  prompt:\n\nA highly detailed 3D ",
+    "description": "",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169536906_v6hvco_HKdtLXYbIAA9Pke.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25049,
+    "content": "Create a single vertical 9:16 pre-production development board combining CHARACTER SHEETS + CINEMATIC STORYBOARD for {argument name=\"subject\" default=\"a futuristic protagonist\"}",
+    "title": "Vertical Cinematic Storyboard Sheet",
+    "description": "A professional storyboard layout prompt for GPT-Image-2 that combines character sheets with cinematic development boards in a vertical 9:16 format.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169535747_3rjpca_HKc48SMasAAsXMg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25076,
+    "content": "Goal: Create a cinematic open-world RPG screenshot set in a rainy neon Tokyo nightlife district, styled like a high-budget anime game UI crossover. The scene shows the player facing two anime companions in the middle of a wet crosswalk under cherry blossoms, with immersive HUD elements overlaid.\n\nCanvas: 16:9 horizontal game screenshot, 1170×675 or similar wide aspect ratio, nighttime, sharp foreground characters and detailed city background, glossy rain reflections on pavement.\n\nEnvironment: A dense Japanese city street in Hanamicho at night, inspired by Kabukicho. Include glowing storefront signs, vending machines on the right, bicycles near the curb, pedestrians in the distance, zebra crossing lines, wet asphalt reflecting pink, blue, yellow, and red neon. A large cherry blossom tree with pink flowers spreads across the upper left. Add food-stall lanterns and warm signage on the left, plus tall buildings and a distant illuminated tower in the center background.\n\nMain characters: Place exactly 2 full-body anime NPCs in front of the player. Left character is {argument name=\"left character name\" default=\"Griffith\"}, a tall elegant silver-haired fantasy knight with very long wavy pale hair, ornate shining silver plate armor, gold wing-like collar details, white cape with dark purple lining, black undersuit, belt, and poised serious stance. Right character is {argument name=\"right character name\" default=\"Power\"}, an anime girl with very long peach-orange hair, small red horns, white shirt, black tie, oversized blue hoodie, cropped black pants, and red sneakers, standing casually with one hand on her hip. Faces should appear softly blurred or featureless as if anonymized, while preserving hair and outfit details.\n\nPlayer perspective: First-person view with exactly 2 visible hands reaching forward from the bottom foreground, wearing dark suit sleeves. The left hand points toward the knight and the right hand points toward the horned girl, creating an interactive dialogue moment.\n\nHUD and UI elements: Add exactly 7 main interface groups. 1) Top-left location text: “Hanamicho” and the time “22:47”. 2) A circular grayscale minimap below it with small colored route markers. 3) A left quest tracker with exactly 2 quests: “The Vanishing Band” with objective “Search for the missing musicians at LiveHouse Heaven’s Door”, and “Snack Attack” with objective “Try the takoyaki at Gindaco” plus progress “0/1”. 4) Top-right shortcut icons labeled exactly F1, F2, F3, F4, using small white icons for inventory, map/card, social/character, and menu. 5) Center interaction prompt near the right character: a boxed key “F” followed by “Talk”. 6) Bottom dialogue subtitle box showing speaker name {argument name=\"speaker name\" default=\"Power\"} in yellow and dialogue {argument name=\"dialogue line\" default=\"Hah! You look way too serious. Chill!\"}. 7) Bottom combat HUD with player level 28, HP “3154/3154”, secondary bar “1030/1030”, EXP “2350 / 6240”, three ability buttons labeled Q, E, R, and three movement/action icons labeled Z, X, Space.\n\nParty list: On the right side, include exactly 3 party member cards with portrait thumbnails, names, levels, and HP values: “Griffith Lv.28 3154/3154”, “Power Lv.27 2418/2418”, and “Makima Lv.26 1846/1846”.\n\nVisual style: Seamlessly combine realistic rainy urban photography background with crisp anime character art and polished fantasy RPG HUD. Use dramatic neon lighting, cinematic depth, high detail, clean readable UI typography, no watermark, no extra characters in the foreground, no additional quests or party members.",
+    "title": "Anime RPG Tokyo Street HUD",
+    "description": "Generates a cinematic anime-style RPG screenshot with two crossover companions, rainy Tokyo nightlife, and a detailed playable game HUD.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169548094_nm5pam_HKc1OX4XYAAoMOC.jpg",
+      "https://cms-assets.youmind.com/media/1781169548113_1wd9dc_HKc1ObLXkAAiKhm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 24905,
     "content": "Ultra-aggressive {argument name=\"subject\" default=\"geometric wolf head\"} illustration centered in a minimalist poster composition. Front-facing wolf portrait with piercing glowing {argument name=\"eye color\" default=\"red\"} eyes, sharp symmetrical facial structure, detailed fur created from angular polygonal vector shapes and fractured geometric shards. Black, charcoal gray, and white color palette with intense crimson red accents.\nA large flat {argument name=\"background element\" default=\"red sun circle\"} positioned behind the wolf's head creates a powerful Japanese poster aesthetic. Explosive abstract brush strokes, shattered triangular fragments, paint splashes, and dynamic diagonal slashes burst outward from the wolf, creating motion and energy. Clean off-white background with strong negative space.\nPremium vector artwork, high contrast, razor-sharp edges, esports logo style, cyberpunk meets Japanese graphic design, modern streetwear branding, tattoo design aesthetic, bold silhouette, ultra-clean vector rendering, symmetrical composition, poster-ready artwork, minimalist yet powerful visual impact, Behance showcase quality, 8K resolution.\nStyle Keywords: Japanese graphic design, geometric wolf, vector illustration, esports logo, streetwear graphic, red sun aesthetic, angular shapes, aggressive branding.",
     "title": "Geometric Wolf Head Japanese Poster",
@@ -21,17 +52,25 @@
     "needReferenceImages": false
   },
   {
-    "id": 24921,
-    "content": "Make an illustration. Create an original {argument name=\"character theme\" default=\"Japanese character-wrapped streetcar\"} based entirely on the uploaded illustration. Design a fully fictional tram system and railway company naturally born from the artwork’s universe, never resembling any real railway operator or existing vehicle. The design must adapt to the illustration itself: {argument name=\"styling\" default=\"cute rounded styling\"} for soft fantasy or shrine themes, elegant luxury styling for regal worlds, futuristic styling for cyberpunk settings, mystical styling for magical worlds, retro-modern styling for nostalgic atmospheres, or heroic styling for adventure-themed characters. The tram body shape, front face, windows, headlights, roof equipment, pantograph, interior seating, floor patterns, destination displays, lighting, materials, and overall silhouette must visually reflect the uploaded illustration’s colors, motifs, fashion, architecture, symbols, magic, technology, and emotional tone. All wrapping artwork, logos, route emblems, railway insignia, typography, station signage, and decorative graphics must be fully original fictional designs inspired only by the uploaded illustration. The tram should travel through a {argument name=\"location\" default=\"realistic city\"}, historic district, seaside boulevard, futuristic downtown, shrine town, fantasy capital, or other environment naturally derived from the artwork’s world. If a character exists in the illustration, place them naturally beside the tram, boarding it, waving from a platform, or riding inside while preserving their identity. Cinematic transportation photography, dramatic low-angle composition, ultra detailed, anime-inspired masterpiece, premium railway advertisement quality, no watermark.",
-    "title": "Character Wrapped Streetcar Photography",
-    "description": "A detailed prompt to create an original Japanese character-wrapped streetcar based on a reference illustration, set in various cinematic environments.",
+    "id": 25034,
+    "content": "Turn [uploaded_photo] into a realistic miniature isometric figurine, full body, dressed in {argument name=\"outfit\" default=\"their famous sports uniform\"} and performing their signature move, {argument name=\"background\" default=\"clean white background\"}, minimal style, 1080x1080, 4K resolution.",
+    "title": "Realistic Miniature Sports Figurine Transformation",
+    "description": "A prompt for turning a photo of a person into a high-detail isometric miniature figurine in a sports uniform.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1781082672471_uxv91z_HKaBpgpa0AANPkg.jpg",
-      "https://cms-assets.youmind.com/media/1781082671733_2y3n8w_HKaBpgsbQAAB-tb.jpg",
-      "https://cms-assets.youmind.com/media/1781082671767_ychdtx_HKaBpgrbkAAmpkr.jpg",
-      "https://cms-assets.youmind.com/media/1781082672493_x219io_HKaBpgoagAAcl9Q.jpg"
+      "https://cms-assets.youmind.com/media/1781169529225_0a3hbg_HKblvoKbsAAyeib.jpg",
+      "https://cms-assets.youmind.com/media/1781169528990_nov9a0_HKblvoLasAAxeFy.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 25043,
+    "content": "{argument name=\"character\" default=\"Mystical elf\"}, glowing eyes and {argument name=\"item\" default=\"magic staff\"}, a quiet expression enveloped in mysterious light.",
+    "title": "Mystical Glowing Elf Portrait",
+    "description": "A high-quality prompt for a serene fantasy elf portrait featuring glowing eyes and magical lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781169533097_jbuixk_HKaVOKCX0AA6GK6.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 24928,
@@ -5205,19 +5244,6 @@
     "description": "A cinematic anime sci-fi action illustration of a winged giant robot firing a massive neon beam cannon in a smoky battlefield sky.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1778835911750_jwx0bg_HIRV3CvaIAArZ2Y.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 20223,
-    "content": "Create an original Japanese itasha vehicle based entirely on the uploaded illustration. Design a fully fictional car and manufacturer naturally born from the artwork’s universe, never resembling real vehicles or brands. The design must adapt to the illustration itself: {argument name=\"styling type\" default=\"cute rounded styling\"} for soft fantasy or shrine themes, elegant luxury styling for regal worlds, aggressive mechanical styling for cyberpunk or military themes, sporty styling for energetic characters, mystical styling for magical worlds, or retro-futuristic styling for nostalgic sci-fi. Body shape, proportions, cockpit, wheels, headlights, aero parts, glowing elements, materials, and interior must visually match the illustration’s atmosphere, colors, fashion, architecture, magic, and technology. All decals, logos, symbols, typography, crests, and sponsor-style graphics must be fully original fictional designs inspired only by the illustration. If a character exists, place them naturally beside the vehicle. Cinematic automotive photography, anime-inspired photorealism, masterpiece quality.",
-    "title": "Custom Japanese Itasha Vehicle Design",
-    "description": "A comprehensive prompt for generating original Japanese itasha cars based on the universe and style of an uploaded illustration.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1781082681775_8r4lt9_HIRKNY4a8AALLUp.jpg",
-      "https://cms-assets.youmind.com/media/1781082681800_ainzbj_HIRKNZTbgAAcG3Y.jpg",
-      "https://cms-assets.youmind.com/media/1781082681780_4bg92r_HIRKNY7a8AAekve.jpg",
-      "https://cms-assets.youmind.com/media/1781082682584_1jtmi6_HIRKNZFaYAASLSa.jpg"
     ],
     "needReferenceImages": true
   },
