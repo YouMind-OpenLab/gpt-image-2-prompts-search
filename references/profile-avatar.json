@@ -1,11 +1,206 @@
 [
   {
-    "id": 25073,
-    "content": "Using the provided reference image, enhance and restore it into an ultra-premium photorealistic 8K cinematic-quality image. Keep 100% of the original identity, pose, framing, composition, background layout, and all visible objects unchanged. Recover sharp microdetails throughout: clear dog eyes, realistic nose texture, individual fur strands, whiskers, flower petals, grass, house, trees, and outdoor lighting. Remove blur and pixelation, increase natural contrast and studio-grade clarity, preserve realistic colors and depth of field, and make the result look like a high-end professional photo without adding or removing elements.",
-    "title": "Ultra-Realistic Photo Enhancement",
-    "description": "Transforms a blurry reference photo into a sharp cinematic 8K photorealistic restoration while preserving the original subject and composition.",
+    "id": 25164,
+    "content": "Vertical 9:16 editorial portrait — single subject. Soft black mist effect, gentle haze, mild highlight glow, desaturated palette. Simple interior, clean backdrop with subtle texture. Subject: {argument name=\"subject\" default=\"young Korean woman, bare-faced, natural skin\"}. Clothing: {argument name=\"clothing\" default=\"snug ribbed knit or camisole under an open overshirt\"}, high-waisted bottoms; drape is soft and body-skimming, not explicit. Hair: loosely tousled, natural body. Pose: {argument name=\"pose\" default=\"seated on the floor, one knee drawn up, the other leg extended, body slightly reclined\"}, uneven shoulder line, head gently tilted. Framing: off-center, breathing room in the negative space. Expression: serene, gaze slightly withdrawn, lips relaxed. Light: soft lateral source, gradual shadow. Atmosphere: low-key, intimate, quiet allure from natural posture — unposed and effortless. Render: fine grain, gentle softness, true-to-life.",
+    "title": "Misty Korean Editorial Portrait",
+    "description": "An intimate, desaturated editorial portrait of a Korean woman with a soft black mist filter effect and natural lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1781169547173_ancgls_HKewcqKXwAAes5m.jpg"
+      "https://cms-assets.youmind.com/media/1781256066266_x4uai7_HKk0oOpb0AAW1XY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25215,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial features, beard, hair texture, skin tone, eye shape, and overall likeness with high fidelity. Create a {argument name=\"portrait style\" default=\"cinematic vintage writer portrait\"} of me sitting at an {argument name=\"desk type\" default=\"antique wooden desk\"} in a {argument name=\"room setting\" default=\"dimly lit study\"}. I am deeply focused, writing with a fountain pen on scattered papers. Wearing a slightly unbuttoned white dress shirt with rolled-up sleeves and a black waistcoat. Warm tungsten desk lamp illuminating my face and hands, creating dramatic chiaroscuro lighting and rich amber highlights. The room is filled with old books, vintage clocks, ink bottles, manuscripts, and historical artifacts. Dark wooden shelves in the background, shallow depth of field, atmospheric shadows, subtle dust particles in the air. Thoughtful, introspective expression looking down at the paper. Ultra-realistic photography, cinematic storytelling, film still aesthetic, 85mm lens, f/1.8, volumetric lighting, warm brown and gold color grading, highly detailed skin texture, realistic hands, masterpiece composition, professional editorial photography, award-winning cinematic portrait, 8K resolution. blurry, low quality, extra fingers, distorted hands, deformed face, duplicate objects, cartoon, CGI, oversaturated colors, bad anatomy, unrealistic skin, watermark, text, logo, cropped head, multiple people face identity weight 1.5, exact facial likeness, preserve facial structure, preserve beard details, preserve hairline, preserve skin tone, photorealistic facial reconstruction, same person consistency.",
+    "title": "Vintage Writer Cinematic Portrait",
+    "description": "A detailed prompt for generating a moody, cinematic portrait of a writer in a vintage study, focusing on lighting and high-fidelity identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256084928_jge5iu_HKix8Vaa0AAAIbj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25181,
+    "content": "Daytime {argument name=\"name\" default=\"Yamada\"} cashier version, 3:4 vertical image. Create a realistic live-action portrait of an adult young Japanese woman, around 24 years old. She has fair skin, soft delicate facial features, a gentle oval face, calm dark eyes, natural light makeup, reddish hair, straight blunt bangs, and long side locks framing both sides of her face. Her expression is gentle, polite, slightly shy, and quietly mature, like a reliable supermarket cashier with a warm customer-service smile.\n\nScene: daytime inside a Japanese supermarket checkout area. She is standing behind or beside the checkout counter, facing the camera, with a polite gentle smile. The background has blurred product shelves, checkout counter details, and clean supermarket lighting.\n\nOutfit: {argument name=\"outfit\" default=\"Japanese supermarket employee uniform\"}. Deep red headscarf covering the back of her hair while still showing her straight bangs and red side locks, pale green or beige striped short-sleeve work shirt, deep red apron, black flared work pants. Add a small rectangular employee name badge pinned on the upper chest or apron with readable Japanese text “{argument name=\"badge text\" default=\"山田\"}”. The badge should be realistic, small, and clear. The only readable text in the image should be “{argument name=\"badge text\" default=\"山田\"}”.\n\nStyle: realistic live-action Japanese drama still, 3:4 vertical portrait, waist-up or three-quarter body, natural indoor fluorescent supermarket lighting, shallow depth of field, muted realistic colors, natural skin texture, 35mm lens look, high detail.",
+    "title": "Japanese Supermarket Cashier Portrait",
+    "description": "A prompt for a realistic portrait of a Japanese supermarket employee, featuring authentic uniform details and store lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256071785_0ktpvq_HKijojuW0AA3dtj.jpg",
+      "https://cms-assets.youmind.com/media/1781256071806_cdsj3i_HKijojxWUAAM9qD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25168,
+    "content": "Reimagine {argument name=\"person\" default=\"[NAME]\"} as a dreamlike cloud portrait, keeping their face, expression, and defining features clearly recognizable while transforming the form into soft billowing clouds against a {argument name=\"background\" default=\"bright blue sky\"}.\nThe portrait should look like the face is materializing from or melting into the clouds, with gentle diffused natural light casting soft highlights and airy shadows for depth and realism.\nAvoid sharp edges, visible skin texture, or hard details, keeping the transition symbolic and organic.\nPreserve facial proportions, eyes, smile, and distinctive features through the cloud structure.\nStyle: dreamy, ethereal, cinematic, surreal\nLighting: volumetric sunlight, soft glow, natural\nColor palette: sky blue, white, soft gradient tones\nMood: serene, uplifting, peaceful\nLayer clouds naturally around and within the face for a smooth, seamless transition. Keep the background a clean blue sky with soft gradient clouds.\nUltra-realistic cloud texture, high resolution, seamless blending, no watermarks, no text.",
+    "title": "Ethereal Cloud Portrait Reimaging",
+    "description": "A surreal prompt that transforms a recognizable person into a dreamlike cloud structure while maintaining their facial features and expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256067432_wc6g18_HKidKyMaUAAKHP7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25149,
+    "content": "Create image featuring a young {argument name=\"ethnicity\" default=\"Korean\"} woman with mid-length {argument name=\"hair color\" default=\"brown\"} hair styled with {argument name=\"accent color\" default=\"lime green\"} hair clips on both sides, posing against a plain white wall while wearing a cropped black long-sleeve top, black high-waisted pants, and a vibrant lime green snakeskin-patterned saddle bag slung over her shoulder.",
+    "title": "Modern Korean Streetwear Portrait",
+    "description": "A detailed fashion prompt for generating a stylish portrait of a Korean woman in streetwear, featuring lime green accents and a snakeskin bag.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256060959_0j51ow_HKiWetGW0AAM_BZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25210,
+    "content": "Ultra-detailed digital portrait illustration of a {argument name=\"subject\" default=\"confident young man\"} with sharp facial features and intense dark eyes, looking directly into the camera. His hand covers the lower half of his face, creating a mysterious and powerful expression. Stylish voluminous black hair, wearing a deep red shirt over a black t-shirt, black wrist wrap, and a subtle gold chain. Dramatic {argument name=\"lighting color\" default=\"red\"} rim lighting outlining the hair, face, shoulders, and clothing against a pure black background. High-contrast cinematic lighting, dark moody atmosphere, bold shadows, comic-book and graphic novel style, semi-realistic digital painting, ultra-sharp details, textured brushwork, modern masculine aesthetic, centered composition, portrait crop, 4K quality, trending on ArtStation, masterpiece, highly detailed, red and black color palette, powerful gaze, edgy and stylish character design",
+    "title": "Mysterious Red Rim Lighting Portrait",
+    "description": "Generates a moody, high-contrast digital portrait of a man with dramatic red rim lighting and a mysterious aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256083605_z6t39x_HKfssaMWsAA-_9C.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25146,
+    "content": "A vertical collage of three {argument name=\"style\" default=\"YZK\"} photos. Using the uploaded selfie as the ONLY and exclusive face reference, keep the facial features, and facial structure exactly the same as the reference image. The character poses against a neutral light background. A girl with a beautiful, voluminous hairstyle, seemingly styled with a brush, wearing {argument name=\"makeup style\" default=\"foxy makeup and pronounced, angled lashes\"}. In the first photo, she's very close to the camera, looking at it with one eye and winking. In the second photo, she's turned away, her head coquettishly turned toward the lens, her hairstyle slightly covering her face, but not too much. In the third photo, she's looking very close to the lens, her hair to the side, thus covering her left eye, pouting and looking forward. Close-up and medium shot, minimalist composition, vintage digital texture, slight blur, glamorous atmosphere. Photo taken on {argument name=\"device\" default=\"iPhone 17 Pro Max\"} with flash.",
+    "title": "Face-Consistent Beauty Portrait Collage",
+    "description": "A prompt for creating a vertical collage of three photos based on a single face reference, maintaining character features and style consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256060059_hslk5z_HKhnkJzXQAAXhw2.jpg",
+      "https://cms-assets.youmind.com/media/1781256058677_nu533s_HKhnkT7XYAEk9v0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25229,
+    "content": "Using the provided reference image, perform a realistic beauty and lifestyle photo retouch while preserving the same room, camera angle, Mexican soccer viewing context, black wavy hair, and general seated pose. Transform the outfit from jeans into a coordinated Mexico soccer fan look: keep the black jersey but make it slightly cropped at the waist, and replace the pants with short black athletic soccer shorts with white trim and a small Mexico crest on the side. Refine the subject’s body proportions and skin rendering to look polished, fit, and photorealistic, with smoother lighting, cleaner contours, and more flattering posture, while keeping the face intentionally obscured by the same rectangular anonymizing block. Improve the TV image so the soccer match looks sharper and more legible, showing an on-screen scoreboard with {argument name=\"scoreboard text\" default=\"MEX 1 0 GER 52:28\"} and visible stadium advertising. Keep the Mexican flag, Mexico scarf, couch, blanket, TV console, plants, and warm home lighting consistent, but enhance overall sharpness, color balance, and professional photo quality. Avoid changing the scene into a studio shot, avoid adding extra people, and keep the result like a natural candid photo of watching the World Cup at home.",
+    "title": "Mexico Fan Home Viewing Retouch",
+    "description": "Transforms a casual soccer-watching reference photo into a polished photorealistic Mexico fan lifestyle retouch for social media.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256091289_knqw8i_HKhb-4maMAAMRC2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25196,
+    "content": "You are a specialized pixel art director converting anime, game, and manga characters into MapleStory-style player avatar sprites.\n\n[Tasks]\n1. Analyze the character's physical characteristics:\n- Hairstyle\n- Hair color\n- Eye color\n- Representative outfit\n- Accessories\n- Weapon\n- Symbolic elements\n- Representative colors\n\n2. Reinterpret these features into the MapleStory player character structure while maintaining the above characteristics.\n\n3. Ensure it looks like an actual MapleStory player character sprite rather than generic pixel art.\n────────────────────\n[Character Structure Specifications]\n- Head + Hair: 60-65% of the total\n- Torso: 15-18%\n- Legs: 20-25%\n- 2 to 2.3 heads tall\n- 35-45 degree quarter-view\n- Angle facing forward so both eyes are visible\n- Mostly flat 2D sprite face\n- Eyes placed at the bottom of the face\n- Wide spacing between eyes\n- Wide, flat eyes\n- Large pupils\n- Pupil highlights included\n- Prohibition of nose representation\n- Very small mouth\n- Soft cheeks\n- Prohibition of neck representation (head directly connected to torso)\n- Outfit begins immediately below the chin\n\nHairstyle:\n- Core of the character's identity\n- Volume larger than the head itself\n- Silhouette priority\n- Minimal expression of hair strands\n- Highlight at the top\n\nBody:\n- Very small torso\n- Short arms\n- Short legs\n- Simple cylindrical limbs\n- Minimal joint expression\n\nEquipment Layer Structure:\nHair / Hat / Face Accessory / Top / Bottom\nShoes / Cape / Weapon\n\nPose:\n- Standing pose (Character selection screen style)\n- No jumping\n- No combat poses\n- No action effects\n────────────────────\n[Pixel Rendering Specifications]\nGoal: Atmosphere of an enlarged 32-64px game sprite\n\n- Low-resolution game sprite\n- Blocky pixel structure\n- Grid-aligned pixel art\n- Visible pixel blocks\n- Clean 1px outline\n- Limited color palette\n- Flat color shading\n- Minimal shading\n- No dithering\n- No smooth gradients\n- No airbrush effects\n\n[Forbidden Styles]\nPokemon-style / Terraria-style / Stardew Valley-style\nRealistic / 3D rendering / Illustration-style\nAnime illustration / Digital painting\nHD pixel art / Smooth gradients\n────────────────────\n[Output Conditions]\n- Canvas size: 1080x1080\n- Background: Pure white (#FFFFFF)\n- Single character only\n- Full body display\n- Centered placement\n- Occupies approximately 75% of canvas height\n- No text, logos, or watermarks\n- No background objects\n- No ground\n────────────────────\nGenerate the character as an actual MapleStory player avatar sprite. It should look like the result of converting the attached image into a MapleStory style, not just a generic pixel art character.",
+    "title": "MapleStory Style Pixel Art Avatar",
+    "description": "Transforms anime, game, or manga characters into MapleStory-style player avatars. The prompt analyzes facial features, hair, and clothing to recreate the specific 2D pixel art aesthetic with proper head-to-body proportions and quarter-view perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256078352_v2kdml_HKhUA98aUAE80Jx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25222,
+    "content": "A highly realistic full-body portrait of a young adult Japanese woman with an idol-like appearance, recreated from a stylized fashion figure into a real human subject. She has a small well-balanced face, clear fair skin, soft natural makeup, large expressive dark brown eyes, a delicate nose, softly defined lips, and a gentle slightly shy expression. Her head is tilted slightly downward while her eyes look toward the camera, creating a sweet and slightly melancholic mood. She has {argument name=\"hair style\" default=\"short messy layered light-blonde hair with soft waves\"}, a tousled bob silhouette with loose strands around the face, and sunglasses resting casually on top of her head. She wears {argument name=\"clothing\" default=\"an oversized off-white vintage graphic T-shirt with navy sleeve trim and a layered deconstructed denim skirt\"}. Pose and composition: full-body vertical fashion portrait, leaning casually against a weathered concrete block or short pillar, one leg bent forward and the other supporting her weight, relaxed but stylish posture, slightly low camera angle, centered subject, editorial framing, 85mm lens look, shallow depth of field. Background: {argument name=\"background\" default=\"a quiet narrow Japanese back alley, muted urban atmosphere, concrete walls\"}. Lighting: soft natural daylight with gentle diffusion.",
+    "title": "Japanese Street Fashion Vertical Portrait",
+    "description": "An ultra-realistic full-body portrait of a young Japanese woman in a back alley setting, featuring layered denim fashion and cinematic daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256087476_fhjsg6_HKhAvx0aAAAUtqv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25231,
+    "content": "Create a close-up vertical portrait of a young East Asian woman in an elaborate ancient Chinese bridal or palace style, wearing a translucent ivory hanfu robe and an extremely ornate gold phoenix-style hair crown with dangling chains, pearls, red gemstones, floral filigree, and bead tassels. Her {argument name=\"hair color\" default=\"dark brown\"} hair is styled half-up in a polished traditional updo with long loose strands falling over the shoulders. The face is intentionally hidden by one centered opaque square censor block in a warm skin-tone gradient, covering the entire facial feature area from forehead to chin while leaving the hairline, ears, neck, jewelry, and shoulders visible. Include exactly 3 prominent red oval gemstones on the headdress, many small pearl drops, and 2 long dangling earring ornaments visible beside the neck. Use warm golden sunlight, shallow depth of field, soft cinematic bokeh, and a blurred red-and-gold palace interior background. The mood should feel luxurious, romantic, and hyper-realistic, with crisp detail on the jewelry and fabric, natural skin on the neck and shoulders, and no visible text, watermark, or modern objects.",
+    "title": "Ornate Chinese Bridal Portrait",
+    "description": "A hyper-realistic close-up portrait prompt for creating an ancient Chinese bridal-style figure with lavish gold-and-red jewelry and a censored face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256091853_dz76m6_HKgnnUIbYAAfXWW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25165,
+    "content": "9:16 vertical, {argument name=\"grid layout\" default=\"nine-panel 3x3 collage\"} of a {argument name=\"subject\" default=\"Korean female idol\"} portrait series. Same girl in every frame: consistent face, proportions, long slightly tousled dark hair. Natural skin texture with subtle imperfections, no retouching or smoothing. Clean idol-style minimal makeup, soft glow.\n\nOutfit: {argument name=\"outfit\" default=\"simple white shirt with short bottoms\"}, youthful and styled. Same outfit across all frames.\n\nBackground: minimal indoor studio, plain wall or soft window light. Focus on the subject.\n\nLighting: soft diffused natural light, low contrast, airy tones, gentle film-like softness.\n\nCamera: intimate handheld-feel portrait photography, minor grain, slight motion blur in some frames, slightly imperfect framing.\n\nGrid layout (3 rows, 3 columns):\nTop-left: standing relaxed, looking slightly away\nTop-center: facing camera, mid-motion with hair or body movement\nTop-right: slight side angle, soft candid gaze\nMid-left: looking slightly upward, thoughtful expression\nMid-center: close-up portrait, direct eye contact, gentle idol smile\nMid-right: body slightly turned, candid mid-motion\nBottom-left: seated or leaning casually, relaxed posture\nBottom-center: back partially turned, looking over shoulder toward camera\nBottom-right: close to frame, playful or soft expression\n\nAesthetic: Korean idol photobook and photocard vibe. Intimate, soft, natural everyday charm. Ultra-realistic 8K detail, subtle analog film grain, soft dreamy tone.",
+    "title": "Korean Idol Photobook Collage",
+    "description": "A professional 9-panel collage prompt for creating a consistent series of Korean idol portraits with a soft, natural film aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256066620_k3y7hi_HKgT1ncakAAqMXv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25186,
+    "content": "Cinematic corporate portrait, ultra-realistic, same person as in the reference image. Preserve accurate facial features, skin tone, and identity characteristics. Style: Classic professional corporate portrait. The subject is wearing a {argument name=\"outfit\" default=\"dark custom suit, crisp white shirt, and understated tie\"}. Soft directional studio lighting with gentle shadows to add depth. Minimalist background with blurred {argument name=\"background colors\" default=\"neutral tones (dark gray or beige gradient)\"}. Shot using a full-frame camera, {argument name=\"lens\" default=\"85mm lens\"}, shallow depth of field, eyes sharply focused, natural skin texture, and high dynamic range. Confident, calm, and approachable expression. Ultra-detailed, 8K quality, realistic color grading.",
+    "title": "Professional Identity-Preserving Corporate Portrait",
+    "description": "A high-end corporate headshot prompt designed to maintain the identity and facial features of a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256074300_p9fhco_HKgS_uyaYAANDlg.jpg",
+      "https://cms-assets.youmind.com/media/1781256074299_18hon0_HKgS_-aaUAA6qgw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25154,
+    "content": "{argument name=\"subject\" default=\"Young Korean woman\"}, {argument name=\"accessory\" default=\"black bucket hat\"}, {argument name=\"outfit\" default=\"black turtleneck sweater\"}, long black hair in a half-up hairstyle, glossy pink lips, flawless radiant skin, chin slightly lowered with eyes looking upward toward the camera, confident and mysterious expression. Minimal gradient purple studio background, cool dramatic lighting, soft shadows, fashion performance aesthetic, close-up portrait composition, Korean beauty editorial style, ultra-realistic photography, detailed skin texture, natural makeup, cinematic mood, professional DSLR shot, shallow depth of field, luxury fashion campaign, photorealistic, 8K quality.",
+    "title": "Korean Fashion Editorial Portrait",
+    "description": "Creates a high-end Korean beauty editorial portrait featuring a mysterious subject with professional studio lighting and realistic skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256063013_d0pdxl_HKeV0jkaAAApthK.jpg",
+      "https://cms-assets.youmind.com/media/1781256063010_dmho3u_HKeV1HGacAADUmm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25173,
+    "content": "A beautiful {argument name=\"ethnicity\" default=\"young Asian woman\"} with long straight black hair, soft doe eyes, natural beauty makeup with subtle blush and glossy lips, wearing a {argument name=\"clothing\" default=\"white baseball cap, white fitted crop top, and white wide-leg casual trousers\"}, layered delicate silver necklaces, standing in a softly blurred night event venue with {argument name=\"lighting\" default=\"warm ambient lighting\"}, candid portrait style, elegant and effortless street style, shallow depth of field, cinematic lighting, 8K, hyperrealistic --ar 2:3 --style raw --q 2",
+    "title": "Asian Woman Candid Street Portrait",
+    "description": "A prompt for a hyper-realistic, cinematic portrait of a young Asian woman in white streetwear at a night event.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256068973_t44scz_HKgKVpHakAEqnbN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25152,
+    "content": "Close-up portrait of a {argument name=\"subject\" default=\"man\"} looking directly at the camera. His face and neck are mostly obscured by deep shadow. A single, narrow horizontal band of light cuts across his face, illuminating only his {argument name=\"feature to highlight\" default=\"eyes\"} and the bridge of his nose. He has a strong, defined jawline and short, textured hair. He is wearing a {argument name=\"clothing\" default=\"simple black shirt\"}. The background is a plain, overcast grayish-blue sky. Dramatic, high-contrast lighting creates a moody, cinematic atmosphere.",
+    "title": "Moody Cinematic Eye Portrait",
+    "description": "A high-contrast cinematic portrait prompt that uses narrow lighting to emphasize the eyes while keeping the rest of the face in shadow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256062255_xwpk2w_HKgER9ibwAEpgFJ.jpg",
+      "https://cms-assets.youmind.com/media/1781256062264_hvdnw2_HKgER9pbEAAsX0H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25176,
+    "content": "Use the uploaded image as the ONLY facial identity reference. Absolute face preservation mode. Strict face lock. Maintain 95–100% facial similarity and preserve the exact eyes, eyelids, eyebrows, nose shape, nostrils, lips, jawline, cheekbones, forehead, skin tone, ethnicity, age appearance, facial proportions, beauty marks, and natural skin texture from the uploaded face reference. Do not redesign, beautify, alter facial structure, blend identities, or generate a different person.\n\nRecreate the exact scene shown in the reference image: a candid urban subway platform environment with a train on the left side, tiled station walls, cinematic shallow depth of field, natural station lighting, soft background blur, realistic motion atmosphere. Subject looking back over her shoulder toward the camera with a warm genuine smile. {argument name=\"hair color\" default=\"Long dark hair\"} visible from beneath a light pink {argument name=\"headwear\" default=\"New York Yankees baseball cap\"}, small gold hoop earrings, oversized black outfit, black shoulder bag. Natural candid street-photography aesthetic, authentic lifestyle moment, realistic skin texture, ultra-photorealistic DSLR quality, shallow depth of field, soft bokeh, cinematic color grading, highly detailed, 8K resolution.\n\nImportant: Keep everything exactly the same as the original image (pose, camera angle, subway platform, cap, clothing, lighting, composition, background, expression, and environment). Replace only the face with the uploaded face reference while maintaining perfect identity preservation and realistic integration",
+    "title": "Identity Preservation Subway Portrait",
+    "description": "A specialized prompt for gpt-image-2 that locks facial identity from a reference image while placing the subject in a cinematic subway station setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256069884_4h7bj2_HKfu1lGa0AA_Edh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25246,
+    "content": "Goal: Create a clean character-pose reference sheet for a male presenter avatar, suitable for business explainer videos.\n\nCanvas: Vertical 2:3 image, white background, divided into a 3-column by 5-row grid with thick black rounded dividers, creating exactly 15 equal panels.\n\nSubject details: The same young adult man appears in every panel from the waist or upper thighs up. He has {argument name=\"hair color\" default=\"dark charcoal black\"} wavy, tousled medium-short hair with volume, pale skin, a slim build, and a neutral square blurred face with no visible facial features. He wears a glossy black short-sleeve polo shirt tucked into black trousers with a black belt. The style is polished semi-realistic anime illustration with soft shading, clean linework, subtle highlights on the black fabric, and a professional avatar-sheet look.\n\nLayout and pose count: Include exactly 15 distinct poses, one per panel, arranged left to right, top to bottom:\n1. Standing neutrally with arms relaxed downward.\n2. Arms crossed confidently across the chest.\n3. Thinking pose, one hand touching the chin.\n4. One fist raised near the chest as if motivated.\n5. Pointing directly toward the viewer with one arm extended.\n6. Explaining gesture with both hands open, one palm raised outward.\n7. Thinking pose with fingers near the mouth.\n8. Conversational pose with both hands mid-gesture, palms partly open.\n9. Adjusting glasses or touching the side of the face with one hand, other hand down.\n10. Neutral attentive stance with arms down.\n11. Hand covering or touching the mouth in a reflective pose.\n12. Scratching or holding the back of the head with one hand.\n13. Raising one index finger as if making an important point.\n14. Polite bowing posture, hands clasped in front.\n15. Shrugging pose with both hands raised, palms up.\n\nVisual style: Bright white studio lighting, minimal shadows, high-key background, consistent character proportions across all panels, crisp black grid lines, no text, no logos, no watermark. Keep the face intentionally blurred as a soft square censor block in every panel.",
+    "title": "Male Presenter Avatar Pose Sheet",
+    "description": "Generates a 15-pose anime-style male presenter avatar sheet for business video demonstrations or explainer content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256097854_lsv5e7_HKfrQ8DbYAAfDlV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25260,
+    "content": "Create a dark gothic digital illustration in a vertical 2:3 portrait format, centered on a mysterious young woman with {argument name=\"hair color\" default=\"long glossy black hair\"} falling in tangled strands over her shoulders and chest. Her face is deliberately hidden by a plain soft-edged square censor block in muted brown-gray, placed exactly over the facial area, while one ear and the hair part remain visible. She wears an elaborate {argument name=\"dress style\" default=\"black Victorian off-shoulder lace dress\"} with dense ruffles, floral lace trim, a low sweetheart neckline, a fitted corset bodice, and a black ornate lace choker with a dangling cross-shaped filigree pendant. Surround her with exactly 10 prominent peony blossoms and buds: 1 huge deep red peony at the upper left behind her head, 1 medium deep red peony on the left beside her shoulder, 1 large cream peony at the left edge, 1 small cream blossom at the upper right, 1 pale pink peony behind her right shoulder, 1 deep red peony at the right edge, 1 huge deep red peony in the lower left foreground, 1 large cream peony in the lower right foreground, 1 huge deep red peony at the bottom center foreground, and 1 small pale bud at the lower left corner. Add dark brown-green leaves and stems weaving around the flowers and figure. Use a {argument name=\"background color\" default=\"deep burgundy\"} background with subtle aged-paper texture and a thin ornate vintage border in the corners and along the edges. The mood should be romantic, somber, and occult, with muted reds, black, ivory, sepia shadows, fine ink-like linework, painterly anime realism, intricate lace detail, low-key lighting, and no visible text or watermark.",
+    "title": "Gothic Peony Portrait",
+    "description": "A dark romantic anime-style portrait of a faceless gothic woman in black lace surrounded by red and cream peonies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256102681_cp1bq7_HKfdjYqXMAAUE3O.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25073,
+    "content": "Using the provided reference image, enhance and restore the same photo into an ultra-premium cinematic 8K-quality image. Preserve 100% of the original identity, pose, composition, framing, perspective, and all objects exactly as they are. Recover realistic microdetails and sharpness throughout: crisp eyes, detailed nose texture, individual fur strands, clear flower petals and stems, defined grass, house, trees, vehicle, and background elements. Make it photorealistic with natural sunlight, high contrast, studio-quality clarity, accurate colors, no pixelation, no blur, no artifacts, and no invented changes.",
+    "title": "Cinematic 8K Photo Restoration",
+    "description": "Enhance a blurry reference photo into a sharp, photorealistic, high-detail cinematic version while preserving the original composition and subject identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256101573_mmudrg_HKewcqKXwAAes5m.jpg"
     ],
     "needReferenceImages": true
   },
@@ -832,6 +1027,16 @@
       "https://cms-assets.youmind.com/media/1780822724452_a6huds_HKJAzxbbYAADxAr.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 24461,
+    "content": "9:16 vertical, high-precision 3D CG oriental fantasy beauty portrait, anime-style 3D CG character art, semi-realistic 3D character render, full body portrait. The subject is a young adult oriental fantasy female, visual age approx {argument name=\"visual age\" default=\"20–24\"} years old. The overall vibe is ethereal, sweet, playful, and dreamy, with a spring cherry blossom atmosphere. This is a high-quality 3D CG character render rather than a 2D illustration, featuring delicate modeling, realistic materials, and cinematic lighting. She has an oval face with fair, delicate skin. Eyes are large and clear, with {argument name=\"eye color\" default=\"a mix of light amber brown and warm gold\"}. She is winking playfully with a soft smile. Features refined elf-like pointed ears. Her hair is {argument name=\"hair color\" default=\"highly saturated blue\"}, long and silky with high-precision strand modeling, styled in side braids and flowing long hair with bangs. She wears a silver and lavender fantasy headpiece with metallic stars and ribbon decorations.",
+    "title": "3D CG Oriental Fantasy Beauty Portrait",
+    "description": "A high-precision 3D CG prompt for an oriental fantasy character featuring cherry blossom atmosphere and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781256087182_jhidgq_HKI8l4CaAAAr2K4.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 24449,
