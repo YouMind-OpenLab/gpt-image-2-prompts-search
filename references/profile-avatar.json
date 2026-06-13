@@ -1,13 +1,214 @@
 [
   {
-    "id": 25164,
-    "content": "Vertical 9:16 editorial portrait — single subject. Soft black mist effect, gentle haze, mild highlight glow, desaturated palette. Simple interior, clean backdrop with subtle texture. Subject: {argument name=\"subject\" default=\"young Korean woman, bare-faced, natural skin\"}. Clothing: {argument name=\"clothing\" default=\"snug ribbed knit or camisole under an open overshirt\"}, high-waisted bottoms; drape is soft and body-skimming, not explicit. Hair: loosely tousled, natural body. Pose: {argument name=\"pose\" default=\"seated on the floor, one knee drawn up, the other leg extended, body slightly reclined\"}, uneven shoulder line, head gently tilted. Framing: off-center, breathing room in the negative space. Expression: serene, gaze slightly withdrawn, lips relaxed. Light: soft lateral source, gradual shadow. Atmosphere: low-key, intimate, quiet allure from natural posture — unposed and effortless. Render: fine grain, gentle softness, true-to-life.",
-    "title": "Misty Korean Editorial Portrait",
-    "description": "An intimate, desaturated editorial portrait of a Korean woman with a soft black mist filter effect and natural lighting.",
+    "id": 25396,
+    "content": "A realistic smartphone mirror selfie of a {argument name=\"subject\" default=\"woman in her early-to-mid 20s\"} seated on a {argument name=\"prop\" default=\"black gym bench\"} inside a {argument name=\"location\" default=\"contemporary fitness center\"}. She sits slightly right of center in the vertical frame, leaning back casually, holding her phone in front of her face to capture the reflection. She wears a dark gray forward-facing baseball cap with long straight black hair flowing out beneath it. Her expression is detached and cool, eyes directed at the phone or mirror, lips lightly closed and partially obscured by the device — no smile, as if caught mid-rest after training. Her top is a black bandeau or single-shoulder strappy athletic piece, fitted with slight creasing and matte stretch texture, leaving collarbones, shoulders, and the tops of her arms bare. Her bottom is a black high-waisted mini skirt or skort, snug through the hips, with natural fabric folds near the thighs from the seated position. She wears tall brown boots. One leg crosses into the foreground while the other extends diagonally toward the lower-left corner, producing a strong diagonal line and subtle wide-angle distortion that elongates the legs. Skin tone is fair and warm ivory, naturally lit by cool overhead fluorescents but not plastic or retouched. Exposed areas include the neck, shoulders, collarbones, upper chest, both arms, hands, a sliver of waist, and significant portions of both thighs, knees, and lower legs. Background shows a modern gym: gray walls, dark gray tile flooring, black benching equipment, weight bars, a nearby workout bench to the left, and a large rounded-rectangular glass window behind her reflecting cool blue-white fluorescent light. Primary lighting is from wide overhead LED panels. Retain mirror scratches, glass glare streaks, mild exposure blooming, and slight image compression artifacts. Visual feel should mimic a real small-sensor smartphone wide-angle mirror selfie: vertical 2:3 or 3:4 frame, mid-height mirror viewpoint, subject shifted slightly right, legs reaching lower-left. Deep focus keeps both the figure and background gym equipment readable. Avoid polished studio aesthetics — preserve casual social framing, minor imperfections, background equipment clutter, accidental reflections, and authentic indoor digital grain.",
+    "title": "Realistic Gym Mirror Selfie",
+    "description": "A hyper-realistic smartphone mirror selfie prompt capturing a woman resting on a gym bench with natural textures and lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1781256066266_x4uai7_HKk0oOpb0AAW1XY.jpg"
+      "https://cms-assets.youmind.com/media/1781341272457_vq2o3q_HKpHRHDa4AAHFCk.jpg",
+      "https://cms-assets.youmind.com/media/1781341272399_p5nixt_HKpHRHEbEAAeuUh.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 25366,
+    "content": "[Subject]\n{argument name=\"subject\" default=\"Young East Asian adult female\"}, minimalist indoor Japanese film photography by a window\n[Styling]\n\nNatural light makeup, soft and realistic skin texture\nDark long hair, slightly messy but natural\n{argument name=\"outfit\" default=\"Loose white shirt\"}, lightweight shorts, barefoot\nSimple, relaxed, and natural styling\n[Pose]\n\nEye-level with the lens, facing the camera\nNatural standing posture, relaxed stance\nArms hanging naturally at the sides or slightly behind\nGentle expression with a faint smile\nOverall subtle sense of stillness, quiet, not intentionally posed\n[Environment]\nMinimalist indoor scene with white curtains by a window, {argument name=\"wall\" default=\"clean light-colored walls\"}, simple and transparent space.\n\n[Composition]\nVertical 9:16, eye-level angle, slightly close-up full-view composition, framing from mid-thigh to head. Natural composition, focusing on the character, window light, airy feel, and quiet daily atmosphere.\n[Lighting/Color]\nSoft diffused natural window light, slightly overexposed, pastel tones, low contrast, soft highlights. Overall gentle, transparent, dreamy, and low-key.\n\n[Style]\nSimulated 35mm film photography, soft and transparent Japanese aesthetics, soft film grain, realistic and natural, focusing on light, air, and a quiet sense of everyday life.",
+    "title": "Minimalist Japanese Film Portrait",
+    "description": "A detailed prompt for creating a soft, minimalist Japanese film-style portrait of a young woman in a serene indoor setting with natural light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341258359_h0gqbc_HKoNCGQbUAAMOuV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25315,
+    "content": "Use 100% face above uploaded photo. Create an ultra-realistic, cinematic close-up portrait of the {argument name=\"subject\" default=\"young man\"} with damp, messy hair falling over his forehead and wearing {argument name=\"accessories\" default=\"rectangular sunglasses\"}. He is in the act of {argument name=\"action\" default=\"flicking ash from a burning cigarette\"} with his index finger. Capture the precise moment: glowing red embers and fine grey ash particles are suspended in mid-air against a dark, textured background. Dramatic side lighting highlights the tension in his hand tendons, his knuckles, the smoke curling from the cigarette tip, and the metallic black-stone ring. He wears a black turtleneck. High contrast, razor-sharp micro-details, 85mm f/1.4 aesthetic. Don't change the face.",
+    "title": "Cinematic Close-up Portrait with Smoke",
+    "description": "A prompt for a gritty, ultra-realistic close-up of a young man with dramatic lighting, focusing on the moment ash is flicked from a cigarette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341236258_2mry25_HKn4jmoXEAAowqn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25321,
+    "content": "low-quality amateur smartphone selfie photo, square 1:1 aspect ratio in the foreground, close-up of a {argument name=\"subject\" default=\"cute solid black cat\"} peeking curious and wide-eyed into the frame from the bottom-left corner.",
+    "title": "Amateur Smartphone Selfie Black Cat",
+    "description": "A prompt for a low-quality, 1:1 aspect ratio smartphone selfie featuring a curious black cat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341238763_tj67qu_HKny23VaYAAcBJJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25433,
+    "content": "Create a realistic vertical portrait photograph of a young woman standing indoors in front of a large sunlit window, using soft indoor window backlighting. The subject is centered and shown from head to knees, standing upright with a calm, natural pose and both hands gently clasped at her waist. She has {argument name=\"hair color\" default=\"dark brown\"} shoulder-length softly waved hair, and wears a {argument name=\"dress style\" default=\"sleeveless white cotton summer dress with a gathered waist, scalloped neckline, small front buttons, and a lightly flared skirt\"}. Her face should be intentionally obscured by a smooth rectangular blur/mosaic patch, while the rest of the image remains sharp and realistic. The setting is a quiet room with a tall white-framed multi-pane window directly behind her, sheer curtains on the left, muted wall paneling below the window, and a wooden floor. Outside the window, show bright overexposed greenery with creamy bokeh. Use strong but gentle backlight from the window, glowing rim light around the hair and shoulders, soft shadows on the front of the body, airy highlights, natural skin tones, shallow depth of field, and a clean editorial photography look. Vertical 2:3 composition, no text, no watermark, no extra people or objects.",
+    "title": "Backlit Indoor Window Portrait",
+    "description": "A realistic vertical portrait prompt for creating a softly backlit indoor photo of a woman in a white dress by a bright window.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341290424_hmgxev_HKnLaC2aoAAmCba.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25430,
+    "content": "Create a realistic vertical portrait photo of a young woman standing centered on a tree-lined park path during golden hour. She wears a simple sleeveless white summer dress with a softly gathered waist and scalloped neckline, hands gently clasped in front of her waist, facing the camera with a relaxed upright posture. Use dramatic backlighting from the upper right, with warm sunlight filtering through green leaves, soft lens flare glow, bright rim light outlining her dark shoulder-length hair, and delicate flyaway strands illuminated around her head. The background should be a natural park with tall tree trunks, dappled sunlight on grass and dirt path, shallow depth of field, creamy bokeh, and a warm cinematic photographic look. Keep the composition full-body to knees, centered, natural skin tones, high-resolution DSLR realism, 85mm portrait lens feel, soft contrast, no text, no watermark. Customize the subject as {argument name=\"character description\" default=\"young woman with dark shoulder-length hair\"}, outfit as {argument name=\"dress style\" default=\"sleeveless white summer dress\"}, setting as {argument name=\"park setting\" default=\"tree-lined park path\"}, lighting as {argument name=\"backlight style\" default=\"warm golden-hour rim light from the upper right\"}, and mood as {argument name=\"portrait mood\" default=\"soft serene cinematic\"}.",
+    "title": "Golden Hour Backlit Park Portrait",
+    "description": "A realistic golden-hour portrait prompt for creating a softly backlit woman in a white dress standing on a park path.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341289169_d308e9_HKnK99WaEAA4mHu.jpg",
+      "https://cms-assets.youmind.com/media/1781341289224_uw9jtw_HKnLBw0agAACtG4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25402,
+    "content": "The image must be extremely clean. Do not include any photographic grain, digital noise, or blurry artifacts. Keep the skin and background perfectly smooth and pure.",
+    "title": "GPT Image 2 Denoise Purification Instruction",
+    "description": "A specific prompt snippet for GPT Image 2 to remove photographic grain and digital noise, ensuring a perfectly smooth and clean background and skin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341275340_sntbxx_HKnBz7macAAD__r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25332,
+    "content": "{argument name=\"subject\" default=\"Young woman\"} in uploaded image, light blue oxford shirt, black backpack strap, short dark brown bob with bangs, leaning on window sill chin on hand looking back over shoulder, {argument name=\"background\" default=\"Han River cityscape view\"} background through window, {argument name=\"lighting\" default=\"warm afternoon film light\"}, candid travel film snapshot mood",
+    "title": "Candid Travel Portrait in Seoul",
+    "description": "A film-style candid snapshot of a woman leaning on a window sill with the Han River and Seoul cityscape in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341243212_big6ij_HKm1_a7XMAAWUZI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25413,
+    "content": "Create a moody, cinematic square portrait photograph of {argument name=\"character description\" default=\"a Japanese high school girl\"} standing on a narrow wet residential street on a rainy day, viewed from the waist up in side profile facing left. She wears a crisp white short-sleeve school shirt, a dark navy tie or ribbon, a dark pleated skirt, and a black backpack slung behind her. Her {argument name=\"hair style\" default=\"straight short black bob haircut\"} is slightly damp. She holds the handle of a transparent vinyl umbrella close to her chest with both hands; the umbrella canopy is open above and behind her, covered in many fine raindrops, with visible pale ribs, a curved clear edge, and a slightly imperfect asymmetrical shape. Her face is intentionally obscured by a flat, centered, soft-edged rectangular censor block in muted brown-gray. The background is softly blurred with shallow depth of field: a rain-slick asphalt road curving into the distance on the left with a white lane line, dark green trees and walls in the distance, and a dense hydrangea bush on the right containing exactly 9 visible blue-to-purple flower clusters among glossy green leaves. Use cool blue-green rainy tones, natural overcast light, film-grain texture, bokeh, realistic wet reflections, and an intimate 35mm street-photography look. Keep the composition square, place the subject slightly right of center, and make the umbrella dominate the upper half of the frame. No text, no watermark, no extra people.",
+    "title": "Rainy Schoolgirl With Transparent Umbrella",
+    "description": "A cinematic rainy street portrait featuring a schoolgirl holding a clear umbrella beside blue hydrangeas, useful for moody photorealistic scene generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341282508_pkhowz_HKmsScTboAAJZ50.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25367,
+    "content": "{argument name=\"character temperament\" default=\"Ethereal East Asian woman\"}, close-up full-body standing shot, {argument name=\"hairstyle\" default=\"neat black medium-short hair\"}, a few messy strands, elegant nude makeup, aloof yet gentle expression, profile looking to the left of the frame, wearing beige minimalist lace sheer lingerie, layered with a loose semi-transparent pearlescent white gauze blazer shirt naturally slipping off the shoulders, paired with white lightweight gauze bottoms, leaning against a {argument name=\"background wall\" default=\"solid warm beige matte wall\"}, soft indoor side-backlighting, natural soft shadows on the wall, high-end lingerie portrait, film-texture documentary photography, 8K ultra-high definition, shot with a Canon DSLR, shallow depth of field, delicate and realistic skin texture, low-saturation warm soft tones, minimalist clean background, lazy and relaxed home atmosphere, exquisite facial details, clean and transparent image.\nNegative prompt: Deformed features, distorted limbs, blurry low quality, watermarks, text, logo, extra limbs, heavy makeup, internet celebrity smoothing filter, cartoon, anime, hand-drawn illustration, facial deformation, overexposure, heavy noise, cluttered background, exaggerated accessories, plastic surgery face, body distortion, gaudy colors.",
+    "title": "Elegant Ethereal Boudoir Portrait",
+    "description": "A sophisticated photography prompt for an East Asian woman in a minimalist boudoir setting, emphasizing film texture and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341259401_s8f3t4_HKml6mfbUAEmlgv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25369,
+    "content": "On a seaside boardwalk, a photo of a young Japanese girl wearing {argument name=\"outfit\" default=\"tight sportswear\"}, with a road bike parked next to her. The overall style is casual and natural, with the subject occupying 80% of the frame. In the distance is {argument name=\"landmark\" default=\"Mt. Fuji\"}, {argument name=\"weather\" default=\"cloudy afternoon\"}, image ratio 9:16.",
+    "title": "Coastal Cycling Break with Fuji",
+    "description": "A natural and casual prompt for a photo of a girl resting during a coastal bike ride with Mt. Fuji in the distance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341260707_4dwg81_HKmG5PAagAAKfyQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25388,
+    "content": "A stylized 3D cartoon figure of a {argument name=\"person\" default=\"character\"} featuring large expressive eyes and a mildly sad, sulky expression, set against a flat {argument name=\"background color\" default=\"pastel green\"} backdrop. The character sports a plush white fuzzy beanie with ear flaps and coordinating white over-ear headphones. Short, slightly disheveled brown hair peeks out from under the hat. Dressed in a baggy light green tee with a bold black graphic on the chest, arms folded in a bored or irritated stance. Soft, diffused studio lighting creates smooth shadows for a polished look. Ultra-detailed, high-quality 3D render in a {argument name=\"art style\" default=\"Pixar-inspired\"} style, smooth textures, shallow depth of field, centered framing, clean minimal background, gentle yet vivid color scheme.",
+    "title": "Pixar-Style 3D Cartoon Character",
+    "description": "A detailed prompt for creating expressive 3D cartoon characters with a Pixar aesthetic, featuring customizable subjects and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341268598_0l64ux_HKlrm4UaYAAMuTY.jpg",
+      "https://cms-assets.youmind.com/media/1781341268592_pows30_HKlrm4Wa8AA_X-N.jpg",
+      "https://cms-assets.youmind.com/media/1781341268594_2xl04j_HKlrm4ZbwAASdmJ.jpg",
+      "https://cms-assets.youmind.com/media/1781341269325_ocpfzb_HKlrm4VbgAAWAHs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25383,
+    "content": "Hyper-realistic cinematic portrait of {argument name=\"subject\" default=\"a rugged man in his mid-to-late 20s\"}, windswept textured hair, short well-groomed beard, sharp chiseled facial features with an intense serious expression, ultra-detailed skin texture with natural tones, wearing a {argument name=\"clothing\" default=\"worn dark leather jacket\"} with visible stitching. Set against a {argument name=\"background\" default=\"misty fog-covered mountain landscape\"} with dark evergreen forest fading into the distance, dense atmospheric fog. Moody cinematic lighting, soft overcast daylight, dramatic natural shadows, cool desaturated color palette. Shot on 85mm lens at f/1.8, shallow depth of field, razor-sharp focus on subject with blurred background. Professional photography, hyper-realistic quality, high micro-detail, crisp textures, cinematic contrast.",
+    "title": "Cinematic Rugged Mountain Portrait",
+    "description": "A hyper-realistic photography prompt of a man in a leather jacket set against a misty mountain forest, featuring sharp focus and moody atmospheric lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341267178_pou9sr_HKldZ0raEAE8rR4.jpg",
+      "https://cms-assets.youmind.com/media/1781341267131_dbxso3_HKldZzrbMAAAQQ2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25346,
+    "content": "Ultra-realistic accidental iPhone front-camera selfie, identity preserved exactly from the reference image. Captured naturally backstage during a concert or live performance. Authentic iPhone front camera look: imperfect framing, awkward arm extension, slightly off-center composition, subtle camera shake, soft motion blur, hazy lens bloom, slight focus inconsistency, low-light grain, realistic smartphone processing, mild overexposure from backstage lights.\\nSubject appears mid-movement while walking backstage, turning, laughing softly, or reacting naturally, wearing {argument name=\"outfit\" default=\"casual streetware\"}. Maintain identical facial structure, hairstyle, eyes, lips, skin texture, proportions, and overall appearance from the reference image. Natural candid expression: soft smile, relaxed eyes, half-open lips, slightly messy wind-blown hair, realistic imperfections, tired post-performance energy. No posing, no cinematic styling, no professional photography look.\\nCamera angle resembles a genuine accidental selfie: stretched arm partially visible, phone held too close, slight tilt, uneven composition, subtle blur around hair, shoulders, and arm near the lens. Background: {argument name=\"background\" default=\"blurred backstage hallways, concert stage lights, LED screens, arena lighting, equipment cases, security staff silhouettes, stage crew, dressing room corridors\"}, realistic bokeh and depth blur.\\nLighting: mixed warm and cool concert lighting, glowing LED screens, overexposed practical lights, soft illumination on the face, authentic backstage atmosphere. Documentary-style realism, emotional candid energy, realistic motion blur, hazy softness, natural digital noise, slight lens smudge effect, authentic smartphone photography, viral Instagram aesthetic, ultra-detailed, 3:4 aspect ratio.",
+    "title": "Accidental iPhone Front Camera Selfie",
+    "description": "A hyper-realistic prompt for generating an accidental iPhone selfie look, preserving identity from a reference image with candid backstage lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341249139_pdlsdj_HKlX383XEAAPOz3.jpg",
+      "https://cms-assets.youmind.com/media/1781341249427_cw4sqf_HKlX4lNWwAAc-79.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25328,
+    "content": "Convert the subject into a high-contrast vector art style, monochrome black and white portrait with sharp cel-shading. Features vibrant {argument name=\"jersey type\" default=\"national team jersey\"} dominant color neon rim lighting highlighting the hair and shoulders.The subject should wear jersey from reference image but monochrome black and white as overall style. Set against a pure black background, dramatic comic book illustration, clean vector lines, edgy modern aesthetic.\nAspect ratio 4:5 is mandatory.",
+    "title": "Vector Art Sports Portrait",
+    "description": "A prompt to transform a subject into a high-contrast vector art style featuring sports jerseys and neon lighting effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341241411_1smomm_HKlTU1gaQAAVi9s.jpg",
+      "https://cms-assets.youmind.com/media/1781341241629_563kzx_HKlTW3gaEAAPbTX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25338,
+    "content": "Ultra-realistic editorial portrait of a young man with {argument name=\"hair style\" default=\"tousled textured brown hair\"}, {argument name=\"eye color\" default=\"piercing blue eyes\"}, and a neatly groomed short beard. Wearing matte black round eyeglasses, a black turtleneck sweater, and a tailored black blazer. Medium close-up framing, looking slightly off-camera with a calm, intelligent, confident expression.\n\nVibrant {argument name=\"background color\" default=\"neon lime-green\"} seamless studio background with subtle gradient. Dramatic green rim lighting illuminating the hair, jawline, neck, and shoulders, creating a futuristic cinematic atmosphere. Professional fashion photography, luxury magazine cover aesthetic, ultra-detailed skin texture, visible pores, natural beard detail, sharp eyes, realistic reflections on glasses, high dynamic range.\n\nSoft key light from the front, subtle fill light, shallow depth of field, crisp focus on facial features, premium color grading, modern tech-founder style, minimalist composition, photorealistic, hyper-realistic, 8K, HDR, commercial advertising campaign quality.\n\nShot on an 85mm lens, f/1.8, ISO 100, studio lighting setup, ultra-sharp detail, centered composition, clean background, Vogue editorial photography, award-winning portrait photography.\n\nAdd for face consistency:\n\nFace closely matches the uploaded reference image, preserving the same facial structure, hairstyle, eye shape, beard pattern, skin tone, and overall identity while adapting only the pose, lighting, wardrobe, and background.",
+    "title": "Editorial Male Portrait with Neon Lighting",
+    "description": "A professional editorial portrait prompt for a man featuring a textured beard, glasses, and a vibrant neon lime-green background with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341245297_h8l6ow_HKlRzKjbAAAT_LU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25323,
+    "content": "Ultra-realistic studio portrait using the uploaded image as reference. Replace the outfit with a fitted {argument name=\"outfit color\" default=\"pastel pink\"} T-shirt. Add a {argument name=\"accessory\" default=\"bright red Nike snapback cap\"} (flat brim, worn forward). Add blue {argument name=\"sunglasses\" default=\"oval sunglasses with silver frames\"}. Add a thick silver Cuban-link chain around the neck and a luxury white-dial Rolex watch with a silver bracelet. Keep the same facial features, hairstyle, beard, skin tone, pose, and expression as the reference image. Clean white seamless studio background. High-end fashion photography, sharp focus, realistic skin texture, professional lighting, luxury streetwear aesthetic, photorealistic, 8K detail, magazine-quality portrait, natural shadows, premium retouching, centered composition.",
+    "title": "Hyperrealistic Streetwear Studio Portrait",
+    "description": "A detailed prompt for modifying a reference photo into a high-end streetwear fashion portrait, changing outfits and adding luxury accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341239909_u0d52s_HKlRwcYbUAAC2-q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25342,
+    "content": "Ultra-realistic professional studio headshot of a young man wearing transparent eyeglasses and a {argument name=\"male outfit\" default=\"navy blue crew-neck t-shirt\"}, seated at a wooden table with hands folded, looking directly at the camera with a confident friendly smile. Clean short dark hair, sharp facial features, natural skin texture, {argument name=\"male background\" default=\"warm orange seamless background\"}, soft diffused studio lighting, shallow depth of field, crisp focus on eyes, commercial branding photography, modern corporate portrait, premium DSLR quality, 85mm lens, f/2.0, high detail, natural color grading, centered composition, photorealistic, 8K.\n\nUltra-realistic professional studio portrait of a young woman with long blonde hair wearing transparent eyeglasses and a {argument name=\"female outfit\" default=\"dark teal t-shirt\"}, seated in a relaxed pose, smiling naturally at the camera. {argument name=\"female background\" default=\"soft blue textured backdrop\"}, clean minimal styling, natural makeup, soft diffused key light with subtle rim lighting, shallow depth of field, sharp eye focus, modern lifestyle photography, premium corporate headshot, authentic expression, DSLR quality, 85mm lens, f/2.0, realistic skin texture, high detail, photorealistic, 8K, elegant composition.",
+    "title": "Professional Studio Portrait Headshots",
+    "description": "A pair of professional studio headshot prompts for a young man and woman, featuring orange and blue backgrounds with corporate styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341247573_fsay4u_HKlPIGebkAA5dnN.jpg",
+      "https://cms-assets.youmind.com/media/1781341247565_mp1ju5_HKlPIGPaEAAzei_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25428,
+    "content": "Create an ultra-detailed cinematic close-up anime portrait of {argument name=\"character name\" default=\"a mysterious young woman\"}, framed tightly on the eyes and upper face with wet, messy {argument name=\"hair color\" default=\"black-brown\"} strands falling across her forehead and cheeks. Show exactly 2 large glossy eyes with glowing crimson starburst reflections, long dark lashes, and a melancholic, hypnotic gaze. She wears exactly 1 pair of thin gold-rimmed oval glasses with exactly 2 visible lenses; in the right lens, render a miniature sunset seascape reflection with an orange sun on the horizon, dark distant rock silhouettes, shimmering waves, and exactly 1 small glass bottle containing a tiny paper note floating in the reflected water. Use warm red-orange dusk lighting, sparkling highlights, glass caustics, tiny droplets, jewelry-like gold chain details near the right side, and dramatic high-contrast shadows. Add exactly 1 large opaque muted reddish-brown square censor block centered over the lower middle of the face, covering the nose and mouth area and overlapping both cheeks, while leaving the eyes, hair, glasses, and right-lens reflection visible. Style: highly polished digital anime realism, macro photography composition, intricate hair strands, luminous reflections, romantic dark fantasy mood, 16:9 horizontal canvas, no text, no watermark.",
+    "title": "Crimson Eyes Glasses Reflection Portrait",
+    "description": "Generates a cinematic anime close-up of a woman with crimson eyes, gold glasses, and a sunset bottle-at-sea reflection, useful for moody fantasy profile art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341288185_2wb4q8_HKlL-2Ia0AArtjC.jpg",
+      "https://cms-assets.youmind.com/media/1781341288249_4vhl47_HKlLb23acAA5W_s.jpg",
+      "https://cms-assets.youmind.com/media/1781341288382_q7wntd_HKlLb2zbMAAYTM4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25386,
+    "content": "[Pose and Expression]\n\nA full-body pose leaning against a street sign pole in {argument name=\"city\" default=\"Paris\"}. The head is slightly tilted left, eyes closed, and lips slightly pursed in a languid, emotional expression. The left hand holds a coffee cup naturally.\n\n[Outfit]\n\nOversized dark grey suit jacket with a matching grey mini skirt. White shirt and a bright {argument name=\"accent color\" default=\"pink\"} striped tie for a French chic look. Light {argument name=\"accent color\" default=\"pink\"} socks and classic {argument name=\"accent color\" default=\"pink\"} sneakers match the tone.\n\n[Hairstyle and Makeup]\n\nA natural low bun with loose strands along the face. Transparent skin and vibrant lips for a neat look.\n\n[Lighting and Shadows]\n\nSunny afternoon sunlight casting long shadows. The person is partially in the shadow of the sign.\n\n[Texture and Color Mood]\n\nContrast between the calm grey suit and the lovely pastel {argument name=\"accent color\" default=\"pink\"} points. The stone texture of old European buildings and metal poles contrasts with the clothing fabric for a classic urban snapshot vibe.\n\n[Film and Camera Settings]\n\nShot with f/4.0, 1/800s, ISO 100, 35mm lens. A low angle captures both the person and the {argument name=\"landmark\" default=\"Eiffel Tower\"}. Shallow depth of field ensures the person is sharp while the {argument name=\"landmark\" default=\"Eiffel Tower\"} is softly blurred but recognizable.\n\n[Background Elements]\n\nA narrow street in {argument name=\"city\" default=\"Paris\"} with classic stone buildings. The pole is covered in stickers. The magnificent {argument name=\"landmark\" default=\"Eiffel Tower\"} rises in the background.\n\n[Signature] A small Meta Threads logo and a white cursive signature 'CHAse' in the bottom right.",
+    "title": "Parisian Chic Street Style Portrait",
+    "description": "A highly detailed, cinematic prompt for GPT Image 2 that captures a full-body street snap in Paris. It combines grey formal wear with pastel pink accents against the backdrop of the Eiffel Tower for a classic European aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781341268533_79bcvh_HKQBzMLboAAPlSK.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 25215,
@@ -90,16 +291,6 @@
       "https://cms-assets.youmind.com/media/1781256078352_v2kdml_HKhUA98aUAE80Jx.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 25222,
-    "content": "A highly realistic full-body portrait of a young adult Japanese woman with an idol-like appearance, recreated from a stylized fashion figure into a real human subject. She has a small well-balanced face, clear fair skin, soft natural makeup, large expressive dark brown eyes, a delicate nose, softly defined lips, and a gentle slightly shy expression. Her head is tilted slightly downward while her eyes look toward the camera, creating a sweet and slightly melancholic mood. She has {argument name=\"hair style\" default=\"short messy layered light-blonde hair with soft waves\"}, a tousled bob silhouette with loose strands around the face, and sunglasses resting casually on top of her head. She wears {argument name=\"clothing\" default=\"an oversized off-white vintage graphic T-shirt with navy sleeve trim and a layered deconstructed denim skirt\"}. Pose and composition: full-body vertical fashion portrait, leaning casually against a weathered concrete block or short pillar, one leg bent forward and the other supporting her weight, relaxed but stylish posture, slightly low camera angle, centered subject, editorial framing, 85mm lens look, shallow depth of field. Background: {argument name=\"background\" default=\"a quiet narrow Japanese back alley, muted urban atmosphere, concrete walls\"}. Lighting: soft natural daylight with gentle diffusion.",
-    "title": "Japanese Street Fashion Vertical Portrait",
-    "description": "An ultra-realistic full-body portrait of a young Japanese woman in a back alley setting, featuring layered denim fashion and cinematic daylight.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1781256087476_fhjsg6_HKhAvx0aAAAUtqv.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 25231,
@@ -1027,16 +1218,6 @@
       "https://cms-assets.youmind.com/media/1780822724452_a6huds_HKJAzxbbYAADxAr.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 24461,
-    "content": "9:16 vertical, high-precision 3D CG oriental fantasy beauty portrait, anime-style 3D CG character art, semi-realistic 3D character render, full body portrait. The subject is a young adult oriental fantasy female, visual age approx {argument name=\"visual age\" default=\"20–24\"} years old. The overall vibe is ethereal, sweet, playful, and dreamy, with a spring cherry blossom atmosphere. This is a high-quality 3D CG character render rather than a 2D illustration, featuring delicate modeling, realistic materials, and cinematic lighting. She has an oval face with fair, delicate skin. Eyes are large and clear, with {argument name=\"eye color\" default=\"a mix of light amber brown and warm gold\"}. She is winking playfully with a soft smile. Features refined elf-like pointed ears. Her hair is {argument name=\"hair color\" default=\"highly saturated blue\"}, long and silky with high-precision strand modeling, styled in side braids and flowing long hair with bangs. She wears a silver and lavender fantasy headpiece with metallic stars and ribbon decorations.",
-    "title": "3D CG Oriental Fantasy Beauty Portrait",
-    "description": "A high-precision 3D CG prompt for an oriental fantasy character featuring cherry blossom atmosphere and cinematic lighting.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1781256087182_jhidgq_HKI8l4CaAAAr2K4.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 24449,
