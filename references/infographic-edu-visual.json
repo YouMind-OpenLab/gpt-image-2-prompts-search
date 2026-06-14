@@ -41,6 +41,36 @@
     "needReferenceImages": true
   },
   {
+    "id": 25517,
+    "content": "2x2 grid, do this for 4 dark horses for world cup 2026: 16:9, Anchor: [{argument name=\"city\" default=\"Country's famous city Skyline\"}] :: [Knitted Supporter Scarf]  Morphology: Extreme macro shot of a thick, knitted soccer supporter's scarf. However, the threads, stitches, and physical fuzz of the yarn are woven together to physically form a highly detailed, 3D topographical map of the host city's skyline and streets. Material Physics: {argument name=\"material\" default=\"Thick wool and acrylic yarn\"}, visible individual fibers, slight pilling, physical depth of the knit stitches creating the \"shadows\" of the buildings. Illumination: {argument name=\"lighting\" default=\"Soft, raking side-lighting\"} to emphasize the physical depth and texture of the knit. Warm, nostalgic domestic lighting. Render Stack: Macro photography, tilt-shift, 8k, extreme textile detail, physical diorama. Negative: [Digital print, flat, smooth, 2D, glowing, plastic, clean] :: -1",
+    "title": "Knitted Skyline Scarf Macro",
+    "description": "A highly detailed macro photography prompt that visualizes a city skyline 3D-mapped into the threads of a knitted supporter scarf.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781427852905_t1bbjc_HKk-KqmXYAAeXBu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25547,
+    "content": "Create a playful retro black-and-white technical cartoon illustration on a warm off-white paper background, in a 16:9 wide canvas. Use thick rounded black ink outlines, halftone stippling shadows, minimal cream fills, and bright hot-pink accent color. Show exactly four main objects arranged left to right: 1) a small vintage tabletop image-printing press labeled “{argument name=\"printer label\" default=\"illo\"}” in lowercase on its front, with a crank on the left, rollers on top, and a sheet of paper emerging from the lower front; the printed sheet contains one simple landscape picture with a black sun/circle, black mountains, and pink diagonal shading; 2) a cute small robot mascot in the center with a rounded square head, black screen face, two white oval eyes, tiny body, arms, legs, and one antenna ending in a pink circle; 3) a chunky rectangular battery/power pack on the right labeled “{argument name=\"battery title\" default=\"Codex\"}” with smaller text “{argument name=\"battery subtitle\" default=\"subscription\"}”, two top terminals colored black and pink, and a pink lightning bolt above it; 4) a small wall outlet/power block at the far right with one socket and one button-like top knob. Show exactly two visible cable connections: a hot-pink cable running from the printer’s right side to the robot’s hand, and a black-and-pink plug cable from the robot into the Codex battery; also show a black power cord with plug leading from the wall outlet. Add exactly two small pink motion marks near the plug held by the robot. Keep the composition clean and centered with lots of negative space, no extra characters, no extra labels, no watermark, and preserve the hand-drawn risograph/zine aesthetic.",
+    "title": "Retro Robot Powering Illo with Codex",
+    "description": "A whimsical ink-and-halftone illustration of a cute robot connecting an illo printer to a Codex subscription battery, suitable for developer tool announcements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781427866151_2f3yww_HKp7UCKbwAAeD1M.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25525,
+    "content": "Create a detailed scientific infographic about {argument name=\"topic\" default=\"LIME Drug Design\"}, covering its core concepts, mechanisms, and real-world applications in {argument name=\"industry\" default=\"pharmaceutical research\"}",
+    "title": "Scientific Infographic for Pharmaceutical Research",
+    "description": "A detailed scientific infographic prompt designed to visualize pharmaceutical concepts, mechanisms, and real-world research applications.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781427855931_5qhy7w_HKpwOjEbMAAEj6t.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25378,
     "content": "Generate images of beautiful women and settings where they look best, as imagined by chatGPT and GPTimage2, for {argument name=\"target countries\" default=\"12 countries: Japan, China, Korea, USA, Russia, UK, France, Germany, India, Brazil, Egypt, and South Africa\"}. Please ensure they are all in their {argument name=\"age range\" default=\"early 20s\"}, and research each country to match the physique and appearance considered beautiful there. Generate one still image for each of the 12 countries, for a total of 12 still images. Please use an aspect ratio of {argument name=\"aspect ratio\" default=\"4:5\"}.",
     "title": "Global Beauty Standards Portraits",
