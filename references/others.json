@@ -1,5 +1,25 @@
 [
   {
+    "id": 25666,
+    "content": "I would like to see a hand-drawn style illustration of a {argument name=\"character\" default=\"cat-eared girl\"} wearing a {argument name=\"clothing\" default=\"white dress\"} and {argument name=\"scenery\" default=\"a boat in a seaside town\"}, which is very minimalist and could be taken as an abstract painting. Can you generate a digital illustration that is oil-painting-like and relaxed in a Midjourney style?",
+    "title": "Minimalist Cat Girl Seaside Painting",
+    "description": "A prompt for creating a minimalist, hand-drawn style illustration of a cat-eared girl in a white dress by the seaside, featuring an abstract oil painting aesthetic similar to Midjourney.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781517881855_qkl9wz_HKw8tIOa4AAde1V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25668,
+    "content": "{argument name=\"title\" default=\"Morning Crossing the Italian Valley\"}\n\nWhen the {argument name=\"location\" default=\"Val di Funes\"} is bathed in {argument name=\"season\" default=\"early summer\"} light.\n\nThe geese catch the wind high in the sky and fly over small villages and green meadows.\n\nThis flock is far away, so you might not even see the tiny figure on the back of the white goose.",
+    "title": "Italian Valley Morning Flight",
+    "description": "Generates a scenic aerial view of geese flying over the Funes Valley in Italy during a bright summer morning.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781517882823_y6e38p_HKvv0HxaEAAJ_5Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25177,
     "content": "a photographic image in the style of 1870, {argument name=\"scene description\" default=\"[SCENE DESCRIPTION]\"}, with {argument name=\"characters\" default=\"[CHARACTERS described in period accurate clothing]\"}, {argument name=\"interaction\" default=\"[Describe the interaction]\"}.\n\nThe photo has an aged and worn appearance, as it was taken in 1870. It features prominent time-induced chemical stains, heavy grain, sepia toning, and deep scratches.\n\nSignificantly reduce the sharpness so that the details of the [SUBJECT] are not crisp, making the [SUBJECT] blurry and low-fidelity.\n\nGreatly increase the wear of the photo, including small tears, missing corners, water damage, and small wormholes caused by insect damage. Add a prominent, jagged diagonal cut across the photo, mended clumsily with old, discolored tape.",
     "title": "Vintage 1870 Damaged Photograph",
