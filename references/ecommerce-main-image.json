@@ -1,5 +1,36 @@
 [
   {
+    "id": 25786,
+    "content": "Transform this portrait into a luxury fashion studio photoshoot while keeping the same person's face and hairstyle unchanged. Replace the black background with a clean pure white studio background. Change the T-shirt to a {argument name=\"shirt\" default=\"premium white Puma T-shirt\"} with orange accents and an elegant {argument name=\"brand logo\" default=\"Ferrari-inspired logo\"} on the chest. Replace the current watch with a {argument name=\"luxury watch\" default=\"stylish premium silver luxury watch (not Rolex)\"}. Add a high-quality silver neck chain with a modern masculine design. Change the sunglasses to premium red-tinted shades with a sleek metal frame. Maintain realistic skin texture, sharp facial details, cinematic lighting, and a high-end editorial fashion look. Ultra-realistic, 8K quality, professional photography, soft shadows, luxury lifestyle aesthetic.",
+    "title": "Luxury Fashion Studio Transformation",
+    "description": "Transforms a portrait into a high-end editorial fashion shoot with professional studio lighting, luxury attire, and accessories while preserving the subject's face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781603358673_7vy3gw_HK3tFRabUAAU-N3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25769,
+    "content": "A surreal macro scene featuring miniature construction workers assembling a giant Nike Air Jordan sneaker. Tiny welders connect shoe panels, cranes position the Nike swoosh, engineers inspect the sole structure. The massive sneaker rests on a branded Nike shoebox with logo. Warm studio lighting, hyper-realistic materials, premium product advertising, imaginative construction theme, cinematic detail.",
+    "title": "Miniature Construction Sneaker Scene",
+    "description": "A surreal macro prompt depicting tiny workers assembling a giant Nike sneaker, perfect for imaginative product advertising.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781603351570_l4450d_HK2ZAFXa0AACYEr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25804,
+    "content": "Create a hyper-realistic macro photograph of a premium handmade collectible doll version of {argument name=\"character name\" default=\"the person\"}, designed with a slightly oversized head and a tiny realistic body. The doll is wearing one complete outfit: a dark navy fitted jacket, matching dark navy trousers, and glossy black shoes. The fabric is wet and speckled with small watermelon pulp droplets. The doll has {argument name=\"hair color\" default=\"short black\"} neatly styled hair with realistic individual strands and a natural side-swept texture. Show one large human hand entering from the upper left, with thumb and finger gently pinching the back of the doll’s jacket to hold it upright, emphasizing the miniature scale. Place the doll leaning against one large wedge of watermelon, cut open with vivid red flesh, pale rind, and dark green striped skin; the doll’s small hand presses into the juicy red fruit. Include exactly one watermelon wedge, one visible human hand, one miniature doll, and scattered juice drops and pulp on a light wooden tabletop. Use a warm beige studio background with shallow depth of field, soft diffused lighting, crisp macro detail, realistic skin texture on the fingers, glossy wet fruit texture, handmade collectible craftsmanship, and premium toy-photography realism. Keep the composition vertical, close-up, and centered on the doll and watermelon, with the watermelon wedge angled diagonally from lower center to right side. Avoid text, logos, extra characters, or cartoon styling.",
+    "title": "Miniature Doll With Watermelon",
+    "description": "A realistic macro toy-photography prompt for creating a handmade collectible doll leaning against a juicy watermelon wedge.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781603368187_rh87ci_HK2Xy6dbcAAhfdq.jpg",
+      "https://cms-assets.youmind.com/media/1781603368163_psdzty_HK2YB-maYAEYwHQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25616,
     "content": "create a charming but ultra-refined scene centered on {argument name=\"subject\" default=\"wind-up toy / mechanical miniature world\"} where a tiny self-contained world is powered by a visible wind-up key and internal spring system. the toy should contain miniature architecture, characters, moving scenery, rotating signage, tiny lifts, oscillating parts, and small narrative moments that all activate from one central mechanism. mini world features: include visual zones for {argument name=\"main scene\" default=\"main scene\"}, [secondary scene], [moving prop], [character action], and [secret detail / easter egg]. surrounding close-ups can reveal the key, spring chamber, cams, and hidden moving linkages. visual style: japanese capsule toy magic meets luxury miniature cinematography meets premium collectible product photography. whimsical, intricate, emotionally irresistible. composition guidelines: the toy remains the hero, but the viewer should feel invited to peer into its tiny world. balance cuteness with high craftsmanship. make the mechanisms visible enough to create fascination. lighting & background: soft studio lighting with theatrical micro-shadows, premium pastel, lacquer, or dark velvet backdrop depending on {argument name=\"mood\" default=\"mood\"}, hyper-detailed miniature realism, no watermark.",
     "title": "Mechanical Wind-up Miniature World",
@@ -8,6 +39,19 @@
       "https://cms-assets.youmind.com/media/1781517860737_i1etjn_HKk9I55W4AAO7VP.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 25849,
+    "content": "Goal: Create a highly polished pastel product-advertising scene for a fictional capsule toy line named {argument name=\"character name\" default=\"NOZOMU\"}, showing an anime-style mini figure displayed in front of a gashapon machine, like a collectible figure release photo.\n\nCanvas: Vertical 4:5 composition, soft studio lighting, shallow depth of field, glossy reflections, pastel teal, white, pale lavender, and soft pink color palette.\n\nMain subject: Center foreground, a chibi anime capsule figure standing on a transparent round display base. The figure wears a white animal-eared hood with teal bear ears, long wavy dark teal hair, a teal oversized jacket, a white frilly dress, teal ribbon accents, white socks, and teal-and-white sneakers. One hand lifts the hood near the ear, the other arm extends slightly outward. Place a square soft gray blur over the face, as if the face is intentionally censored or not revealed.\n\nDisplay base: Clear acrylic circular pedestal with teal printed trim, small ornamental flourishes, a bow icon, and the text {argument name=\"base text\" default=\"NOZOMU\"} centered on the front.\n\nBackground and props: Behind the figure is a teal-and-clear capsule vending machine filled with exactly 8 visible pastel capsules: 2 teal, 2 pale blue, 2 lavender, 1 white, and 1 pink. On the machine’s left sign, include the text “NOZOMU”, “Capsule Figure”, “Mini Collection”, “全5種”, and “1回 400円” in teal, with small pale star decorations. Show a teal coin dial and coin slot on the lower left of the machine.\n\nRight information board: Add a product lineup board titled “NOZOMU Mini Collection” with a rounded teal border and a small badge reading “全5種”. The board contains exactly 5 collectible variants in a 2-row grid: 1 Standard, 2 Smile, 3 Sitting Pose, 4 Special Color with a small pink “New” badge, and 5 Secret shown as a black silhouette with a question mark and a small “Premium Rare” badge. The first two variant faces should also be covered by soft gray square blurs; the other visible chibi faces can be detailed anime faces.\n\nForeground details: On the lower left, place a small folded pamphlet or mini catalog with the “NOZOMU Mini Collection” title and the same character artwork, with its face covered by a gray square blur. On the right, place exactly 3 clear empty capsule shell pieces: one open capsule half near the figure, one larger upright transparent half at the far right, and one translucent teal half behind them. In the lower right, place one small sealed plastic accessory bag containing exactly 4 tiny accessories: a bear-face charm, a teal plush-like part, a white clothing piece, and a small teal-and-white bead chain.\n\nVisual style: Premium Japanese collectible toy photography, realistic plastic and acrylic materials, cute commercial styling, clean glossy surfaces, soft bokeh, pastel kawaii aesthetic, high detail, no harsh shadows.\n\nConstraints: Keep all visible text crisp and legible. Use exactly 5 lineup variants on the board and exactly 8 capsules inside the machine. Do not add extra characters, extra product variants, watermarks, logos from real brands, or additional text beyond the described packaging and labels.",
+    "title": "Pastel NOZOMU Capsule Figure Display",
+    "description": "A detailed prompt for generating a kawaii Japanese gashapon collectible figure product scene with packaging, lineup board, capsules, and accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781603388434_6f5jcm_HKxHPF8bUAEGgpC.jpg",
+      "https://cms-assets.youmind.com/media/1781603388431_0on0iv_HKxHQFxaIAA9mkH.jpg",
+      "https://cms-assets.youmind.com/media/1781603388527_n18cyr_HKxHRm1a4AAlBdO.jpg",
+      "https://cms-assets.youmind.com/media/1781603389106_hbjcef_HKxHTsqbAAA9saw.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 25663,

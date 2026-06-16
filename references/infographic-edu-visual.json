@@ -41,6 +41,36 @@
     "needReferenceImages": true
   },
   {
+    "id": 25796,
+    "content": "Fashion blueprint sheet of a stylish young woman in casual {argument name=\"team style\" default=\"football-inspired\"} streetwear, full-body front view with detailed outfit annotations and styling callout labels. Long straight dark hair, soft natural makeup, relaxed smile, navy and deep-red striped {argument name=\"jersey style\" default=\"FC Barcelona-style\"} football jersey, oversized faded blue {argument name=\"pants type\" default=\"ultra-wide-leg denim jeans\"}, white chunky sneakers, black shoulder bag, hands tucked casually into pockets, minimalist indoor setting with modern décor, effortless Korean street-fashion aesthetic.\n\nSurrounding the model are fashion infographic elements, jersey fabric notes, denim texture descriptions, footwear breakdowns, accessory callouts, pose analysis, styling tips, cinematic soft lighting, clean editorial composition, ultra detailed, professional fashion concept sheet, 8k.",
+    "title": "Fashion Infographic Concept Sheet",
+    "description": "A highly detailed fashion blueprint prompt for a street-style concept sheet featuring technical annotations and Korean aesthetic influences.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781603364607_mik27o_HK3SNWYa4AAunEA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25798,
+    "content": "Create a crisp, clean infographic storyboard poster for {argument name=\"project title\" default=\"THE TATTOO ARTIST\"}. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bold dramatic colors — deep midnight blacks, electric ink",
+    "title": "Pixar Style Storyboard Poster",
+    "description": "A crisp infographic storyboard prompt for an animation project titled The Tattoo Artist, using Pixar 3D stylized rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781603365108_ls66a7_HK1SK9ZbEAAMcs3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25817,
+    "content": "Goal: Create a vertical museum-gallery style Japanese explainer infographic about {argument name=\"headline text\" default=\"Claude Fable 5に、米国が動いた\"}, shown as a curated wall exhibit with ornate gold picture frames, warm spotlights, and a small viewer character observing the display.\n\nCanvas: Portrait 3:4 composition, warm cream gallery wall, wooden floor, subtle shadows, two ceiling spotlights at the upper left and upper right, realistic 3D-rendered infographic style with elegant editorial lighting.\n\nLayout: Large centered headline at the top in bold black serif Japanese typography, with small gold ornamental flourishes above and below. Beneath it, arrange exactly 3 main ornate framed exhibits connected left-to-right by exactly 2 gold arrows: one straight arrow from the left frame to the center frame, then an L-shaped arrow from the center frame down/right to the large right frame.\n\nMain framed exhibits, exactly 3:\n1. Left frame: small gold frame with a dark temple-like background and a carved stone tablet. Top navy label reads {argument name=\"left frame label\" default=\"Mythos 5\"}. Bottom ivory label reads 「高性能モデル」. Below this frame, attach one ornate ivory plaque containing a small brown treasure chest with a gold lock and the text 「フル性能だが限定提供」.\n2. Center frame: medium gold frame showing an open illustrated storybook on a table, with a bright landscape illustration on the right page. Top navy label reads {argument name=\"center frame label\" default=\"Fable 5\"}. Bottom ivory label reads 「公開向け調整」. Below this frame, attach one ornate ivory plaque containing a simple cardboard box icon and the text 「危険部分を抑制」.\n3. Right frame: largest gold frame on the right, deep red background, containing a sealed red envelope with a gold U.S. eagle seal. Top red label reads 「米国通達」, large central text reads 「停止通達」, and bottom red label reads 「全アクセス停止」. Below this frame, attach one ornate ivory plaque containing a red circular pause icon and the text 「国籍判定できず 全員停止」.\n\nAdditional text box: Place one small ornate ivory note card near the lower center-left, between the viewer and the right frame. It should contain exactly this Japanese body text: 「性能と安全のせめぎ合いが、国境の壁を生んだ。その判断が、すべての扉を閉じた。」 with a tiny gold ornament beneath.\n\nViewer character: Add exactly 1 chibi-style adult woman standing at the lower left, seen from behind in three-quarter view, looking up at the exhibit. She has {argument name=\"hair color\" default=\"dark brown\"} shoulder-length bobbed hair, glasses, a white blouse, black pencil skirt, and black flats. Keep her small relative to the wall display.\n\nVisual style: Premium museum infographic, ornate gold frames, cream and burgundy palette, serif typography, soft realistic shadows, polished wood floor, balanced negative space, subtle depth-of-field, high-resolution vertical poster design.\n\nConstraints: Use exactly 3 main framed exhibits, exactly 3 lower explanatory plaques attached to those exhibits, exactly 1 separate note card, exactly 2 directional arrows, exactly 1 viewer character, and exactly 2 ceiling spotlights. Preserve the Japanese text as written, avoid extra labels, avoid watermarks or logos, and keep all text legible.",
+    "title": "Museum Wall Claude Fable 5 Infographic",
+    "description": "A vertical Japanese museum-style infographic explaining a left-to-right model restriction narrative using ornate framed exhibits and a viewer character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781603374723_54laqn_HKvTbUkaMAA5yCl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 25672,
     "content": "A vertical A4 poster in the style of a high-end Japanese business magazine cover. At the center is a character representing the '{argument name=\"personality type\" default=\"ENTJ COMMANDER\"}'. An image of an '{argument name=\"character description\" default=\"intelligent Japanese man in his 40s\"}' who blends the roles of a tax accountant, entrepreneur, and AI instructor. He holds a tablet in one hand, surrounded by motifs of AI networks, data flows, real estate, seminar stages, and educational content. The background features a futuristic city and a digital workspace. At the top, the catchphrase '{argument name=\"catchphrase\" default=\"Pioneer of the AI Era\"}'. On the left and right are organized infographics. The content includes 'Strengths: Strategic thinking, execution, learning speed, systematization, communication' and 'Notes: Over-committing, dispersion, easily bored'. At the bottom is a radar chart showing E60 I40 / N85 S15 / T70 F30 / J60 P40. Sophisticated typography, luxurious feel, full color, quality of a magazine feature cover, with a focus on information design, in a composition where the personality can be understood at a glance.",
     "title": "MBTI Personality Character Card Poster",
