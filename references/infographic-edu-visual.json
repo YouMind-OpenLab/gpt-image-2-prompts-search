@@ -41,6 +41,46 @@
     "needReferenceImages": true
   },
   {
+    "id": 25879,
+    "content": "Zone 1 (top-left): Rembrandt lighting, key 45° elevated camera left, fill -45° camera right 0.5x, dramatic triangle on shadow cheek Zone 2 (top-center): Butterfly lighting, key overhead slightly front, fill reflector under chin, butterfly nose shadow, beauty editorial Zone 3 (top-right): Split lighting, hard key 90° camera left, zero fill, half face in shadow, noir mystery Zone 4 (bottom-left): Loop lighting, key 30° elevated camera left, fill -30° camera right 0.3x, small nose loop shadow, natural commercial Zone 5 (bottom-center): Rim lighting dominant, hard backlight 170° camera right gold gel, hair glow, edge separation, heroic silhouette Zone 6 (bottom-right): Clamshell lighting, butterfly key overhead + large soft fill from below 45°, zero shadows, porcelain skin, high-end beauty",
+    "title": "GPT Image 2 Portrait Lighting Reference",
+    "description": "A collection of technical prompts for GPT Image 2 that demonstrate six classic cinematic lighting setups for professional portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781688894661_8a7clm_HK8DRbfaEAEPUo_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25948,
+    "content": "Goal: Create an ultra-wide, extremely information-dense panoramic illustrated timeline of the entire universe, Earth, life, human civilization, technology, and the future, rendered as a single seamless epic cross-section mural for gpt-image-2.\n\nCanvas: 16:9 horizontal poster, very high detail, cinematic realism mixed with museum-quality educational illustration, sharp enough to read tiny timeline labels. Use a grand curved horizon of Earth across the center, with outer space above and layered historical scenes below. No blank areas.\n\nOverall layout: The composition is divided into 4 main horizontal zones. Top zone: cosmic history in deep space. Upper-middle zone: Earth history and natural evolution across a sweeping landscape. Lower-middle zone: human civilization and technological progress. Bottom zone: a continuous golden timeline strip with exactly 18 labeled milestones in Chinese, each with a small circular marker.\n\nTop cosmic zone: Show a fiery Big Bang explosion at far left, colorful nebulae and starfields, a spiral galaxy, forming planets, the solar system, Earth and Moon, asteroids and comets, rockets, satellites, a space station, astronauts on the Moon, lunar rover, Mars rover, futuristic space telescopes, spacecraft, a ring station, distant planets, black hole, and blue laser-like space trails at far right. Add a thin golden orbital timeline line with small circular nodes crossing this upper area.\n\nUpper-middle Earth and evolution zone: Blend volcanic early Earth on the left with lightning, lava, meteor impacts, hot oceans, microbial bubbles and sea creatures; transition into lush prehistoric seas with fish, ammonites, trilobites, and marine reptiles; continue into a dinosaur landscape with forests, sauropods, theropods, pterosaurs, and smaller dinosaurs; transition to ice-age mountains and mammoths; then to modern rivers, grasslands, elephants, deer, birds, wind turbines, farmland, and a sleek futuristic city skyline at the right. Keep the transitions seamless like a chronological world map.\n\nLower-middle civilization and technology zone: At far left show human evolution silhouettes walking forward, early campfires, caves, stone tools, primitive huts, pottery, sheep and cattle. Continue through ancient agriculture, pyramids, temples, classical cities, pagodas, medieval castles, churches, marketplaces, sailing ships, caravans, early machines, steam trains, bicycles, automobiles, airplanes, factories with smokestacks, power lines, telephones, radios, televisions, computers, laptops, smartphones, servers, laboratories, control rooms, robots, holographic blue interfaces, high-speed trains, and futuristic glass cities. Include many tiny people in period clothing interacting naturally.\n\nBottom strip: Create a dark blue-black footer band with a thin gold line and exactly 18 milestone nodes, evenly spaced left to right. Use these exact Chinese labels and dates, one per node: 1. 「宇宙诞生\\n约138亿年前」, 2. 「太阳系形成\\n约46亿年前」, 3. 「地球形成\\n约45亿年前」, 4. 「生命起源\\n约38亿年前」, 5. 「海洋生命\\n约5.4亿年前」, 6. 「恐龙时代\\n约2.3亿年前」, 7. 「哺乳动物时代\\n约6600万年前」, 8. 「人类出现\\n约300万年前」, 9. 「农业革命\\n约1.2万年前」, 10. 「文明起源\\n约公元前3500年」, 11. 「古典时代\\n约公元前800年」, 12. 「中世纪\\n约5世纪」, 13. 「大航海时代\\n15–17世纪」, 14. 「工业革命\\n18–19世纪」, 15. 「电气时代\\n19–20世纪」, 16. 「信息时代\\n20世纪后半叶」, 17. 「数字时代\\n21世纪」, 18. 「未来探索\\n未来」.\n\nVisual style: Hyper-detailed epic science-history infographic, realistic lighting, vibrant but coherent color grading, gold accent lines, deep blues and oranges, miniature diorama detail, cinematic depth, crisp micro-scenes, no cartoon style, no flat vector look.\n\nConstraints: Make the poster astonishingly dense but coherent; keep all 18 bottom labels legible; avoid random unreadable text outside the timeline; avoid duplicated milestone labels; do not add watermarks or logos. The main theme is {argument name=\"timeline theme\" default=\"the complete history of the universe, Earth, life, civilization, technology, and future exploration\"}. Use {argument name=\"language for milestone labels\" default=\"Chinese\"} for the footer labels, a {argument name=\"visual style\" default=\"hyper-detailed cinematic educational mural\"}, a {argument name=\"accent color\" default=\"gold\"}, and a {argument name=\"future city mood\" default=\"optimistic blue futuristic\"}.",
+    "title": "Epic Universe History Timeline Poster",
+    "description": "Generates a dense panoramic educational mural showing cosmic history, evolution, civilization, technology, and the future in one timeline.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781688936830_ygk1no_HK76wHLbUAA_G1O.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 25899,
+    "content": "A clean isometric 3D render that turns a {argument name=\"statistic topic\" default=\"single abstract statistic\"} into a physical object you can feel the weight of — soft studio lighting, matte clay materials, gentle ambient occlusion shadows, a neutral concrete-grey backdrop. The point is scale shock: take a number nobody can intuit and rebuild it as one tangible mass beside a familiar object for comparison ({argument name=\"scale example\" default=\"all the gold ever mined as a single cube next to a school bus\"}). One precise, oversized hand-set numeral anchors the composition, with a short caption in clean grotesque type stating the metric and its source year. Subtle measurement bars and a tiny human silhouette provide scale. No clutter — generous negative space, one hero object, one comparison. The spirit: a science-museum exhibit model that reframes a statistic as architecture, so a figure you'd scroll past becomes something your body understands.",
+    "title": "Isometric Statistic Visualization Render",
+    "description": "A conceptual prompt for creating 3D isometric renders that transform abstract statistics into physical objects to demonstrate scale.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781688904432_fowxwa_HK7TEuFWYAA_tBz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25946,
+    "content": "Create a crisp, clean infographic storyboard poster for {argument name=\"subject\" default=\"THE TATTOO ARTIST\"}. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, moody warm studio lighting with neon color pops — deep black",
+    "title": "Tattoo Artist Storyboard Infographic",
+    "description": "A creative storyboard prompt for generating a clean, 3D infographic poster themed around a tattoo artist using a bold, Pixar-inspired style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781688935524_hacycp_HK7syAdWoAAyybE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25796,
     "content": "Fashion blueprint sheet of a stylish young woman in casual {argument name=\"team style\" default=\"football-inspired\"} streetwear, full-body front view with detailed outfit annotations and styling callout labels. Long straight dark hair, soft natural makeup, relaxed smile, navy and deep-red striped {argument name=\"jersey style\" default=\"FC Barcelona-style\"} football jersey, oversized faded blue {argument name=\"pants type\" default=\"ultra-wide-leg denim jeans\"}, white chunky sneakers, black shoulder bag, hands tucked casually into pockets, minimalist indoor setting with modern décor, effortless Korean street-fashion aesthetic.\n\nSurrounding the model are fashion infographic elements, jersey fabric notes, denim texture descriptions, footwear breakdowns, accessory callouts, pose analysis, styling tips, cinematic soft lighting, clean editorial composition, ultra detailed, professional fashion concept sheet, 8k.",
     "title": "Fashion Infographic Concept Sheet",
