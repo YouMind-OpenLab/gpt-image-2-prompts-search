@@ -1,5 +1,45 @@
 [
   {
+    "id": 26010,
+    "content": "Ultra-realistic fashion swimwear editorial portrait of an adult woman posing beside a luxury resort pool. She has long dark wavy hair, fair skin, soft natural makeup, hazel-brown eyes, and a confident over-the-shoulder gaze toward the camera. She is wearing a vibrant hot-pink one-piece swimsuit with a sleek modern design and high-cut legs. The scene is set outdoors on a sunny day with palm trees, yellow pool umbrellas, and luxury lounge chairs in the background. Professional fashion photography, shallow depth of field, natural sunlight, realistic skin texture, high detail, crisp focus on the subject, luxury resort atmosphere, premium swimwear campaign aesthetic, photorealistic, 8K quality. style: high-end swimwear editorial, camera: angle: rear three-quarter view, over-the-shoulder pose, lens: 85mm portrait lens, aperture: f/2.8, focus: subject sharply focused, background softly blurred, lighting: type: natural daylight, quality: bright sunlight with soft highlights, effect: warm skin tones, realistic shadows, environment: location: luxury resort poolside, background: palm trees, yellow umbrellas, sun loungers, pool water, quality: resolution: 8K, detail: ultra-detailed, rendering: photorealistic, negative_prompt: low resolution, blurry, cartoon, CGI, illustration, distorted anatomy, extra limbs, extra fingers, bad hands, duplicate body parts, overexposed, underexposed, watermark, text, logo, artifacts, plastic skin, unrealistic proportions",
+    "title": "Luxury Resort Swimwear Editorial",
+    "description": "A high-end fashion swimwear editorial prompt featuring detailed lighting and camera settings for a photorealistic luxury resort aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781774856283_8vdjqu_HLBd4ncXYAATIX-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 25987,
+    "content": "Create a high-impact e-commerce product infographic featuring \"{argument name=\"product name\" default=\"Apple Pods Pro 3\"}\" {argument name=\"product type\" default=\"wireless earbuds\"}.",
+    "title": "E-commerce Product Infographic",
+    "description": "Generates a high-impact promotional infographic for e-commerce, specifically tailored for tech products and accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781774847801_ugrgzd_HLBJIxjbsAAU7vO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26065,
+    "content": "Create a photorealistic 2x2 comparison grid of four appetizing bowls of Korean tteokbokki, each occupying one equal quadrant with thin clean dividers and no text labels. Use a square canvas, dramatic food-photography lighting, shallow depth of field, high contrast, glossy spicy red gochujang sauce, and black ceramic bowls. Each quadrant should show a slightly different generated-food style while keeping the same subject: cylindrical rice cakes, fish cake pieces, chopped green onions, sesame seeds, and a boiled egg garnish. Top-left quadrant: black bowl on a dark matte surface, visible steam rising, rice cakes coated in bright red sauce, a whole peeled boiled egg centered on top with sesame seeds, green onions scattered around it. Top-right quadrant: black bowl cropped close from above, dense pile of rice cakes in deep red sauce, chopped scallions and sesame seeds in the center, a halved boiled egg on the right with vivid orange yolk, minimal steam. Bottom-left quadrant: black bowl on a dark background, saucier tteokbokki with abundant red broth, visible steam, green onion mound in the center, sesame seeds, and a whole boiled egg on the right dusted with red pepper. Bottom-right quadrant: black bowl on a rustic wooden table, warm restaurant lighting, glossy red sauce, rice cakes and rectangular fish cakes, central mound of chopped scallions and sesame seeds, whole boiled egg on the right sprinkled with chili powder. Make the food look rich, spicy, and craveable, with realistic reflections on the sauce and bowls. No people, no utensils, no captions, no watermark.",
+    "title": "Four-Panel Tteokbokki Comparison",
+    "description": "Generates a square photorealistic 2x2 comparison image of four spicy Korean tteokbokki bowls for food posts or model-output comparisons.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781774883323_du41sw_HK_e3HZawAAQY5Z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26007,
+    "content": "Black-and-white fashion casting contact sheet of a woman with {argument name=\"hair length\" default=\"waist-length straight hair\"} flowing over one shoulder, arranged in a clean 2x2 grid of four close portrait frames against a softly illuminated fabric backdrop, wearing a {argument name=\"clothing\" default=\"silk blouse\"} and {argument name=\"accessories\" default=\"delicate drop earrings\"}. Each frame shows a different pose and expression: both hands wrapped around her neck with a serene gaze, one shoulder turned toward the camera while looking back over it, fingertips brushing her lips while maintaining eye contact, and head lowered with eyes looking upward beneath her brows. Soft studio lighting, crisp monochrome contrast, natural skin texture, visible facial details, clean plain backdrop, subtle film grain, high-end editorial test shoot, minimal styling, intimate camera distance, professional portrait photography, aspect ratio 4:5.",
+    "title": "Fashion Casting Contact Sheet",
+    "description": "Generates a monochrome 2x2 grid contact sheet for fashion photography, showcasing different expressions and poses with an editorial test shoot feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1781774855459_tktc88_HK_BLg6bYAEYzzW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25877,
     "content": "High-angle overhead perspective, authentic street photography style. A giant black rounded-corner smartphone lies flat on a rough grey concrete floor, appearing as a physical object with thickness, bezels, and shadows, in a vertical 3:4 composition. The phone screen displays the QQ Music interface with a deep dark green UI, highlighted green buttons, and a progress bar, appearing clear and realistic with Chinese music player elements.\n\nA gentle and beautiful young Chinese woman stands on the giant phone screen like a dreamlike figure within a music panel. She has an elegant Oriental beauty with soft, refined features, fair clean skin, subtle natural makeup, and a gentle, quiet gaze looking slightly up at the camera. Her black long hair is styled in a loose, elegant half-tie or low bun with minor natural wisps, accessorized with delicate earrings and a thin necklace. She wears a {argument name=\"dress color\" default=\"purple\"} long dress made of light gauze, flowing in layers with natural folds, a sheer shawl, thin straps, and small floral decorations. The overall style is romantic, gentle, Oriental, and ethereal while maintaining a realistic photographic texture.\n\nPhone screen details: The top displays the time 13:14, with signal, battery, and loop icons on the top right. In the center is a square album cover featuring a purple-blue twilight sky, clouds, railings, and distant character silhouettes, creating a melancholic and romantic atmosphere with faint handwritten Chinese artistic calligraphy. The song info area clearly shows the Chinese title \"{argument name=\"song title\" default=\"Extra Explanation\"}\" and the singer \"{argument name=\"singer name\" default=\"Vae\"}\". Below are QQ Music style tag buttons: VIP, SQ, Dolby, Sound Effect Off, and Video. A lyric line reads \"Our relationship had some issues back then.\" At the bottom is a green progress bar showing 01:53 and 04:21, with a green circular pause button in the middle flanked by previous, next, shuffle, and list icons, with \"QQ Music\" on the bottom right.\n\nTo the right on the ground sits a dark burgundy leather handbag with metal buckles, zippers, straps, and vintage hardware details. The bottom edge of the frame reveals the photographer's brown shoes and dark trousers, enhancing the first-person overhead perspective. A black glass door frame or building edge is visible in the top right. The overall lighting is soft and natural, with realistic photographic quality, clear details, high-end fashion magazine style, accurate scale between the giant phone and the person, precise perspective, and natural shadows, making the image clean and sophisticated.",
     "title": "Giant Smartphone Music Player Scene",
