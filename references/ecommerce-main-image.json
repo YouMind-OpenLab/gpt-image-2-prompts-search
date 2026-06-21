@@ -1,5 +1,27 @@
 [
   {
+    "id": 26393,
+    "content": "Create a realistic square commercial product-photo scene showing a custom 1/7 scale figurine of {argument name=\"character name\" default=\"a young woman in a black embroidered traditional dress\"} displayed on a white computer desk in a bright collector's studio. The life-size real person stands to the right of the desk, matching the figurine exactly: long dark brown hair in a thick side braid, black ankle-length dress with sheer sleeves, gold embroidered trim, black leggings, black shoes, and dangling earrings; her face is softly privacy-blurred. She holds a thin paintbrush in one hand and a small tool or stylus in the other, posed as if touching up the figurine. The figurine stands centered on a round transparent acrylic base, wearing the same outfit and hairstyle, with a softly blurred face, realistic PVC collectible finish, fine fabric texture, and detailed gold trim. On the desk to the left is a retail figure box with a large front window and printed full-body artwork of the same character, styled like a commercial toy package with small logo blocks and the product name {argument name=\"box product name\" default=\"BASHEEQA DOLL\"}. Behind the figurine is a desktop monitor showing digital character-art software with a full-body reference of the same woman. Include exactly 2 desk art/office objects besides the box, monitor, keyboard, and figurine: a mesh pencil cup filled with pencils and brushes, and a framed illustration leaning near the monitor. The room has white walls, white floating shelves, and a clean pastel collector aesthetic. Count and include exactly 18 visible shelf collectibles/art pieces: on the upper left shelf, 2 tall fashion dolls in pink dresses and 6 small chibi/anime figures; on the upper right wall/shelf area, 2 framed anime-girl prints and 3 small dolls in pastel dresses; on the middle right shelf, 2 small pastel dolls; on the lower right shelf, 2 small dolls with oversized heads; on the bottom right, 1 framed princess-style illustration. Use soft daylight, shallow depth of field, realistic camera perspective, crisp product details, subtle bokeh on background toys, and no extra text beyond the toy-box branding.",
+    "title": "Custom Figurine on Creator Desk",
+    "description": "A realistic studio scene of a matching life-size creator and 1/7 scale collectible figurine displayed on a computer desk with packaging and shelves.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032884325_5c24a1_HLQx_8OacAEAPBO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26348,
+    "content": "Please dress the person from the {argument name=\"reference person\" default=\"first\"} reference image in the outfit shown in the {argument name=\"clothing\" default=\"second\"} image. For the placement of accessories, please refer to the {argument name=\"accessories\" default=\"third\"} image.",
+    "title": "Reference-Based Costume Transfer",
+    "description": "An instruction-based prompt for modifying character clothing based on specific reference images for the person, the outfit, and accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032866058_jkcrr5_HLPoezGakAAj2tU.jpg",
+      "https://cms-assets.youmind.com/media/1782032866231_yev4a4_HLPoey-aMAA6lsg.jpg",
+      "https://cms-assets.youmind.com/media/1782032866067_v240l4_HLPoezGaUAAJIYH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26207,
     "content": "A hyper-realistic commercial advertising photograph of a giant {argument name=\"beverage brand\" default=\"Coca-Cola\"} can displayed inside a modern supermarket aisle, featuring a professionally dressed young {argument name=\"person\" default=\"businessman\"} emerging from the front of the can as if integrated into the packaging design. The man has neatly styled black hair, a warm confident smile, and wears a tailored charcoal-gray suit, crisp white dress shirt, and {argument name=\"tie color\" default=\"deep red\"} tie. He is holding a highly detailed golden FIFA World Cup trophy with both hands. The enormous Coca-Cola can is covered in realistic condensation droplets, vibrant red branding, elegant gold ribbon graphics, and a FIFA World Cup 2026 emblem. Multiple Coca-Cola cans fill the background shelves, creating depth and brand repetition.\n\nShot with a full-frame professional camera, 85mm lens, eye-level perspective, shallow depth of field, cinematic supermarket lighting, ultra-sharp focus on the subject and trophy, natural skin texture, realistic reflections on metallic surfaces, accurate shadows, glossy aluminum can material, photorealistic water droplets, premium advertising composition, HDR, global illumination, ray-traced reflections, volumetric lighting, bokeh background, extreme detail, magazine-quality product photography, commercial branding aesthetic, vivid colors, high contrast, realistic supermarket environment, flawless facial features, ultra-detailed textures, award-winning advertising campaign style.\n\n8K UHD, hyper-realistic, photorealistic, masterpiece, ultra-detailed, maximum clarity, professional color grading, studio-quality lighting, sharp focus, realistic proportions, cinematic depth, luxury commercial advertisement, vertical composition (4:5 aspect ratio).",
     "title": "Hyper-Realistic Commercial Soda Can Advertisement",

@@ -1,5 +1,47 @@
 [
   {
+    "id": 26363,
+    "content": "{argument name=\"platform\" default=\"Netflix\"} original series poster, close-up portrait, intense expression, cinematic color grading, dramatic atmosphere, subtle film grain, premium streaming-series aesthetic, shallow depth of field, ultra-detailed face, award-winning photography, 8K.",
+    "title": "Netflix Original Series Cinematic Poster",
+    "description": "Generates an intense, close-up cinematic portrait designed to look like a premium Netflix series promotional poster.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032872277_iyart9_HLQ9UuTa8AAq1Oe.jpg",
+      "https://cms-assets.youmind.com/media/1782032872304_jtml2y_HLQ9Ut7bAAAVHsa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26383,
+    "content": "Create a cinematic horizontal title card for a classical music video about {argument name=\"composer and work\" default=\"Reinecke: Undine\"}. Use a 16:9 widescreen canvas. The scene is a dark Romantic forest at night, filled with blue-gray mist and water vapor, with a shallow reflective pool along the bottom edge. A powerful diagonal shaft of cold moonlight enters from the upper right and illuminates a ghostly water spirit or undine standing near the lower center, small in scale, with very long pale blonde hair and a translucent silver-blue gown that blends into the fog and water. Frame the image with exactly 9 prominent black tree trunks in the foreground: 5 clustered on the left side and 4 on the right side, with thin hanging branches and moss near the top. The atmosphere should feel mysterious, mythic, and operatic, with deep greens, blacks, cyan-blue haze, and soft volumetric lighting. Add bold title text in the upper left: exactly 2 lines, line 1 reads {argument name=\"top title text\" default=\"Reinecke:\"} in white, smaller bold sans-serif, and line 2 reads {argument name=\"main title text\" default=\"Undine\"} in large bright yellow bold sans-serif with a subtle dark shadow. Keep the typography clean and highly legible, leave the rest of the image free of text, no logos, no watermark.",
+    "title": "Reinecke Undine Forest Title Card",
+    "description": "A cinematic Romantic-era music title card showing a misty moonlit forest with a ghostly water spirit and bold composer-work text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032880697_merko4_HLQ8JWQXAAAQbF-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26353,
+    "content": "A journey looking down at the {argument name=\"landmark\" default=\"Flame Towers\"}. {argument name=\"city\" default=\"Baku, the capital of Azerbaijan\"}. A {argument name=\"flock\" default=\"flock\"} slowly crosses over the sea breeze. A single {argument name=\"hidden character\" default=\"white goose\"} mixed in the flock.",
+    "title": "Baku Flame Towers Aerial Scene",
+    "description": "A detailed descriptive prompt for an aerial view of Baku, Azerbaijan, focusing on the Flame Towers and a flock of birds with a hidden goose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032868267_gpjewh_HLPFS_tbAAEkYRk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26334,
+    "content": "To Xiaohongshu Food Cover Photo Edit. {argument name=\"preservation\" default=\"Preserve the original food type and main content\"}",
+    "title": "Xiaohongshu Food Cover Transformation",
+    "description": "An image transformation instruction designed to edit food photos into Xiaohongshu-style covers while preserving original content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032860289_q99b2c_HLPEWW-WgAA5F3q.jpg",
+      "https://cms-assets.youmind.com/media/1782032860246_8wuigl_HLPEWUpW8AAIc6Q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26261,
     "content": "Goal: Create a glossy, high-contrast YouTube-style tech video thumbnail about choosing between {argument name=\"tool one name\" default=\"Codex\"} and {argument name=\"tool two name\" default=\"Hermes\"}.\n\nCanvas: 4:3 landscape thumbnail, 1024×768 composition, dark black-to-charcoal studio background with a dramatic white spotlight shining down from the top center, subtle smoky haze, cinematic rim lighting, and a premium “oily” glossy thumbnail look.\n\nLayout: Center a young male presenter from chest up, facing camera, wearing a plain black V-neck T-shirt. His face should be intentionally anonymized with a smooth blurred rectangular skin-tone mask. His arms are raised symmetrically, palms open upward as if weighing two choices. Place exactly 2 floating option graphics above his hands: on the left, a glowing blue cloud-shaped terminal icon with a white command prompt symbol; on the right, a black-and-white anime-style female avatar bust with glossy hair and a white outline glow, also anonymized with a small blurred square over the face.\n\nText content: Add exactly 2 stacked text lines across the lower third. Top line: large bold white Chinese text with black shadow, {argument name=\"top headline text\" default=\"到底选\"}. Bottom line: huge mixed gold-and-white text reading {argument name=\"bottom comparison text\" default=\"Codex 还是 Hermes?\"}; make “Codex” and “Hermes?” metallic gold with bevel, gradient, black outline, and drop shadow, while the middle Chinese word stays white. Include one small golden star lens flare near the right side of the word “Hermes”.\n\nSubject details: The presenter has short messy brown hair lit by the overhead spotlight, natural hands with visible palms, and a neutral pose suggesting comparison or uncertainty. The left icon should glow electric blue with a neon rim; the right anime avatar should be monochrome with strong white edge highlights.\n\nVisual style: Hyper-polished Chinese tech creator thumbnail, sharp subject cutout, intense contrast, glossy 3D text, dramatic lighting, saturated highlights, clean composition, no extra logos, no watermark, no additional text.",
     "title": "Glossy Codex vs Hermes Tech Thumbnail",

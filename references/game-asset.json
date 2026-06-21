@@ -10,6 +10,121 @@
     "needReferenceImages": true
   },
   {
+    "id": 26359,
+    "content": "2x2 grid, do this for 4 dark horse teams that qualified for {argument name=\"world cup year\" default=\"World Cup 2026\"}, 16:9 void main() { string team = \"{argument name=\"team name\" default=\"[TEAM]\"}\"; // Semantic Anatomy Mapping based on Team mat4 beast = infer_mascot_anatomy(team); // e.g., bull(), raptor(), kraken() vec3 base_mat = infer_team_primary_material(team); vec3 accent_mat = infer_team_accent_colors(team); // Texture & Form apply_texture(beast, base_mat, accent_mat); add_battle_scars_and_breath_fog(beast); // Render render_mesh(beast, base_mat, accent_mat); apply_lighting(nat_geo_low_angle, stadium_dust: true); // UI Overlay (No depth, pure 2D) draw_2D_overlay(top_left, infer_team_logo(team)); }",
+    "title": "World Cup Dark Horse Teams Visualization",
+    "description": "A creative, technical prompt using semantic mapping to generate stylized mascot-based representations for 2026 World Cup dark horse teams in a 2x2 grid.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032871290_586ymm_HLAueitWMAAhQLc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26350,
+    "content": "Draw character outlines at {argument name=\"outline thickness\" default=\"3px\"} and inner details at {argument name=\"detail thickness\" default=\"1px\"}.",
+    "title": "Technical Line Weight Control",
+    "description": "A technical instruction for GPT-image-2 to control line thickness for character outlines and internal details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032867360_rwvhn5_HLRWCz7bcAAvpUZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26333,
+    "content": "Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable {argument name=\"animal companion\" default=\"animal companion\"}, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including {argument name=\"creature list\" default=\"llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature\"}, cozy scenic background with {argument name=\"location\" default=\"seaside boardwalk, lakeside village, mountain town or whimsical nature landscape\"}, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.",
+    "title": "Kawaii Minimalist Pastel Doodle Illustration",
+    "description": "Generates a charming, Japanese-inspired pastel doodle of a character with an animal companion, featuring a soft watercolor aesthetic and clean vector lines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032859721_57gbhj_HLRCu0fbEAAR7XB.jpg",
+      "https://cms-assets.youmind.com/media/1782032858322_q13evm_HLRCu4hboAACong.jpg",
+      "https://cms-assets.youmind.com/media/1782032859710_8yks43_HLRCvToa0AA_YGu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26360,
+    "content": "Cute stylized {argument name=\"subject\" default=\"animal\"} made from smooth river stones, stacked organic forms, matte mineral texture, {argument name=\"action\" default=\"sitting quietly\"}, calm zen atmosphere, rounded proportions, natural {argument name=\"color tones\" default=\"earthy\"} tones, minimal composition, soft directional lighting, collectible art object aesthetic.",
+    "title": "Stylized River Stone Sculptures",
+    "description": "A creative prompt for generating cute, stylized characters that appear to be crafted from smooth river stones with a matte mineral texture and zen aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032870873_le7kpx_HLPt_AjXUAA9f26.jpg",
+      "https://cms-assets.youmind.com/media/1782032870859_f3rv8k_HLPuDQqWIAAba70.jpg",
+      "https://cms-assets.youmind.com/media/1782032870864_37q6j6_HLPuD_zWEAATpbN.jpg",
+      "https://cms-assets.youmind.com/media/1782032871510_4lsru8_HLPuEyZWoAAYNfC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26372,
+    "content": "Create a photorealistic cinematic product-style image of a cute futuristic banana robot toy standing on a clean white tabletop in a cozy modern room. The main subject is one small yellow banana-shaped robot with a curved banana body, segmented mechanical panel lines, tiny screws, two glowing blue circular eyes, a small smiling mouth, a black opening at the stem tip, a small green leaf sprouting near the top, and printed side text reading {argument name=\"robot label\" default=\"BANA-BOT v2\"} with a tiny banana logo. Give it exactly four articulated mechanical legs with black-and-yellow joints and round yellow feet, posed as if happily walking across the table. The scene contains exactly three visible houseplants in the background: one large monstera-like plant near the window on the left, one small potted plant near the center window, and one taller leafy plant on the right; also include one blurred bookshelf on the far right and one large window wall behind the subject. Use warm golden-hour natural light, shallow depth of field, realistic shadows cast to the right on the tabletop, soft bokeh background, high-end miniature robotics design, playful but believable materials, and a 16:9 horizontal composition. Keep the robot centered slightly left of frame with the background softly out of focus and no extra text beyond the robot label.",
+    "title": "Cute Banana Robot on Table",
+    "description": "A photorealistic cinematic scene of a small banana-shaped robot toy walking on a white tabletop in a warm modern interior.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032876111_egfzl4_HLQs7draEAAxk8j.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26349,
+    "content": "【{argument name=\"role\" default=\"The shopkeeper who came from another world\"}】\nThe night perfumer who wandered into {argument name=\"location\" default=\"Marrakech\"}.\n\nLaila, a perfume artist of the {argument name=\"tribe\" default=\"Black Panther tribe\"} from the obsidian sand sea of Neval.\nOn the night she went out to collect star sand, a rift of teleportation opened at her feet and she fell into this city.\n\nAt first, she couldn't even speak the language, and it was just a small shop with the vials she had lined up.\n\nBut now, it's a mysterious and famous shop in {argument name=\"location\" default=\"Marrakech\"} that travelers who have tried the scents can't help but look back at.\n\nShelves full of magical perfume oils.\nLarge bottles filled with blue light.\nOld perfume bottles with metal fittings.\nSmall bags contain the scent of star sand to be used before sleeping.\n\nThe thin strips of paper she holds are test strips for sampling the scents.\n\nWith one shake, a small starlight remains on the paper.",
+    "title": "The Night Perfumer Laila",
+    "description": "A detailed character and setting prompt for a mystical perfumer from another world, featuring magical bottles and starry effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032866899_kx8pth_HLQl_QhakAA-RPu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26382,
+    "content": "Goal: Create a wide side-by-side comparison image of two anime character reference sheets for {argument name=\"character name\" default=\"夏目るり\"}, a student council vice president version, with the faces deliberately obscured by soft rectangular blur blocks.\n\nCanvas: Extra-wide horizontal canvas, about 1200×429 px, white background, split into two equal panels by a thin vertical gap. Add a small green label centered above the left panel reading “GPT-image2” and a small yellow label centered above the right panel reading “NanobananaPro”. Use thin teal panel borders.\n\nLeft panel layout: A compact character design sheet with many thin guide lines and small labels. Include exactly 3 large turnaround views across the upper left: front view, side view, and back view. To the upper right, include exactly 1 large eye close-up labeled “Eye” and exactly 5 small mouth samples labeled “Mouth”. Along the bottom, include exactly 6 bust expression/action poses in a row: neutral front pose, smiling side pose, sad pose with hand near face, talking on phone pose, eating a sandwich pose with one hand, and relaxed back/side pose with hair down. Keep the left sheet slightly dense and hard to read, with smaller Japanese-style annotation text and fine linework.\n\nRight panel layout: A cleaner, bolder character setting sheet. At the top left, place a large Japanese headline using this exact text: {argument name=\"headline text\" default=\"夏目るり 設定画\"}. Under it add a small note line in Japanese. Across the upper center, show exactly 3 large head/shoulder turnaround views with horizontal guide lines and repeated “1:1:1” proportion labels: front, side, and back. On the upper right, add exactly 2 feature close-ups: one green eye close-up with Japanese annotation and one mouth/lip close-up with Japanese annotation. Along the bottom of the right panel, include exactly 6 numbered bust expression/action poses with Japanese captions: 1 calm expression, 2 smiling but eyes not smiling, 3 troubled expression, 4 sharp expression checking a phone, 5 eating a sandwich with one hand, and 6 letting hair down. Use thicker outlines than the left panel and clearer spacing.\n\nCharacter details: Anime schoolgirl, teenage Japanese aesthetic, soft brown hair in a high ponytail tied with a blue scrunchie, slightly wavy layered hair with loose side strands; pale skin; large light green eyes where visible in close-ups; gray blazer uniform, white shirt, blue ribbon bow tie, dark trim, neat student council look. Expression poses should feel composed, serious, mildly stern, or politely cheerful. Obscure every main face in the bust and turnaround drawings with a centered beige blur rectangle, while leaving hair, uniform, hands, sandwiches, phones, and close-up eye/mouth studies visible.\n\nVisual style: Clean digital anime reference sheet, soft cel shading, muted colors, thin-to-medium black outlines, professional character setting art, Japanese design-sheet typography, many small annotation lines, comparison-chart presentation. Avoid photorealism, avoid 3D rendering, avoid extra characters, avoid logos or watermarks beyond the two top comparison labels.",
+    "title": "Anime Character Sheet Comparison",
+    "description": "Generates a wide comparison layout of two anime student council character reference sheets with turnarounds, expressions, and feature close-ups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032880434_o8kl8h_HLQkcTNbMAAKQeG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26331,
+    "content": "Convert this image into a {argument name=\"illustration style\" default=\"soft, handcrafted paper-cut layered illustration style\"}, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, {argument name=\"character style\" default=\"simplified cute character proportions\"}",
+    "title": "Handcrafted Paper-Cut Layered Illustration Style",
+    "description": "Transforms images into a layered papercraft diorama style with smooth rounded shapes and adorable character proportions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032859152_mkjj8g_HLQGpHhWMAAscBO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26339,
+    "content": "Convert this image into a {argument name=\"art style\" default=\"soft, handcrafted paper-cut layered illustration style\"}, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details ({argument name=\"facial details\" default=\"dot eyes, blush cheeks\"}) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.",
+    "title": "Paper-Cut Layered Illustration Style",
+    "description": "Converts images into a soft, handcrafted paper-cut illustration style with a warm, charming papercraft diorama look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032862072_wci4fz_HLOx8IWaEAAkdXq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26380,
+    "content": "Create a vertical 9:16 anime-style illustration of a cute chibi cat-eared adventurer girl sitting on broken concrete rubble in a rainy post-apocalyptic ruined city at sunrise. The character is {argument name=\"character name\" default=\"an unnamed cat-eared survivor girl\"}, a small young-looking kemonomimi girl with tan-blonde messy short hair, fluffy cat ears with white inner fur, golden-brown eyes, soft blush, and a calm shy smile. She wears a rugged brown survival outfit: long brown coat or tunic, dark leggings, knee pads, fingerless gloves, utility belts with metal buckles, pouches, straps, and heavy lace-up brown combat boots, plus a deep red scarf around her neck and a visible tan cat tail curling behind her. She sits with knees bent on wet rubble, holding exactly 2 small hand items: a short knife in one hand and a carved piece of wood in the other, as if whittling. On her back are exactly 2 tall metallic spear-like weapons or blades in a leather harness, and exactly 2 glowing round potion-like ornaments attached to the gear, one red and one green. The background is a devastated urban street with collapsed buildings, exposed concrete frames, debris, puddles, scattered grass shoots, dark storm clouds, and warm sunrise light glowing low on the horizon, reflecting in the wet ground. Heavy rain falls in long vertical streaks across the entire image, with cinematic rim light and atmospheric mist. Add handwritten glowing Japanese morning text near the upper left reading {argument name=\"greeting text\" default=\"おはよう\"}; include exactly 2 small doodles around it: a simple sun icon to the left and a tiny green sprout icon to the right. Visual style: highly detailed modern anime illustration, painterly lighting, cute character design contrasted with gritty ruins, warm orange sunrise against cool gray rain, sharp character focus, depth of field, no watermark, no extra characters, no extra text.",
+    "title": "Rainy Cat-Eared Survivor Morning",
+    "description": "Generates a vertical anime scene of a cute cat-eared survivor whittling wood in rainy post-apocalyptic ruins with glowing Japanese morning text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032879653_nks24m_HLOZWiobUAACJVq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26351,
+    "content": "I would like to see a {argument name=\"subject\" default=\"cat-eared gynoid\"}. Can you generate a sharp digital illustration in the {argument name=\"style\" default=\"NijiJourney style\"}?",
+    "title": "Cat-Eared Gynoid Digital Illustration",
+    "description": "A prompt for generating a sharp, NijiJourney-style digital illustration of a cat-eared gynoid character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032866954_mxdou1_HLN_3wDa0AAzFxv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26280,
     "content": "Goal: Create a highly detailed fantasy miniature diorama room in a handcrafted dollhouse style, photographed like a premium collectible display, themed around {argument name=\"theme\" default=\"magical gothic fantasy atelier\"}.\n\nCanvas: Square 1:1 image, three-quarter front view, shallow depth of field, realistic macro photography lighting, soft daylight from the upper left, crisp foreground details and slightly blurred deep background. The diorama sits on a clean white tabletop with soft shadows.\n\nLayout: Build a box-shaped miniature room with two walls and an open front. The left wall is an ivy-covered shop corner with shelves, stained glass, hanging lamps, framed pictures, and a retro arcade cabinet. The back wall is a large fantasy castle mural showing a misty medieval city and towers. The center is crowded with glowing crystals, tiny furniture, books, bottles, treasure, lanterns, greenery, and a small stone-edged water pool in the foreground.\n\nMain figures: Include exactly 6 anime-style collectible doll figures: 1 golden angel warrior floating or standing elevated at the rear center with radiant feather wings, gold armor, a halo-like crown, and a long spear; 1 small silver-haired gothic demon girl seated front-left-center with black bat wings and a black frilly dress; 1 red-and-white armored shrine-maiden warrior standing center-front with mechanical details and twin horn-like accessories; 1 elegant long pale-haired woman seated on a high-backed red chair at the right rear, shown mostly from behind, wearing a black gothic ball gown; 1 small pale blue-haired maid standing front-right-center in a black-and-white maid outfit; and 1 tiny one-eyed monster-girl near the front-right edge holding or standing beside a black umbrella, wearing a black frilly dress with a single large purple eye.\n\nAdditional visible characters and ornaments: Include exactly 1 small white hanging ghost decoration on the upper left wall, exactly 3 pixel-art game character decorations on the left shelf area, and numerous tiny non-human decorative objects such as skulls, pumpkins, potion bottles, miniature creatures, crystals, treasure chests, and glowing lanterns without adding extra humanoid dolls.\n\nEnvironment details: Use dense miniature clutter: wooden shelves packed with tiny books and trinkets, vines climbing the walls, a tall arched stained-glass window on the left, warm amber cage lamps, blue and purple magical crystal clusters, a little wooden table with snacks and cups, stools, crates, barrels, moss, flowers, rocks, and reflective water in the small pond. Make the scene feel enchanted, cozy, and maximalist.\n\nVisual style: Hyper-detailed mixed-media miniature craft, realistic resin figures, glossy crystals, warm candlelight mixed with cool magical blue glows, cinematic depth, rich golds, browns, greens, black lace, and jewel tones. Use {argument name=\"lighting style\" default=\"warm lantern glow with cool magical crystal highlights\"}. The figures should have delicate anime faces, high-quality painted details, and doll-like proportions.\n\nText: Add a small subtle white signature watermark in the bottom-right corner reading {argument name=\"signature text\" default=\"Triglav@rasenkaidano\"}.\n\nConstraints: Keep the exact count of 6 anime doll figures, 1 hanging ghost, and 3 pixel-art decorations. Do not add modern full-size people, vehicles, or extra large characters. Avoid a flat illustration look; it should resemble a real handcrafted miniature diorama photographed with a macro lens.",
     "title": "Gothic Fantasy Diorama Room",

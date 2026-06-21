@@ -10,6 +10,133 @@
     "needReferenceImages": true
   },
   {
+    "id": 26355,
+    "content": "Illustration of \"{argument name=\"subject\" default=\"Me and [○○]\"}\" in a playful and charming pose. Hand-painted look with rich {argument name=\"texture\" default=\"gouache-like texture\"} on paper, featuring natural brushstrokes, simple linework, and a restrained color palette. Bright, uplifting mood; character looking forward or upward, never downward. Minimalist composition with abundant negative space. Loose, analog-style coloring and imperfect handmade texture. The character's face is partially or fully obscured by the object/subject. Soft shading, strong atmosphere, and expressive mood. {argument name=\"background\" default=\"Clean white background\"}, wide margins, no text, 1:1 aspect ratio.",
+    "title": "Playful Gouache Style Illustration",
+    "description": "A detailed prompt for generating hand-painted gouache illustrations with a minimalist composition and a charming, uplifting mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032869845_dndnpu_HLUHQeGbAAApte7.jpg",
+      "https://cms-assets.youmind.com/media/1782032869740_4vor76_HLUHQcObYAAAdOc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26350,
+    "content": "Draw character outlines at {argument name=\"outline thickness\" default=\"3px\"} and inner details at {argument name=\"detail thickness\" default=\"1px\"}.",
+    "title": "Technical Line Weight Control",
+    "description": "A technical instruction for GPT-image-2 to control line thickness for character outlines and internal details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032867360_rwvhn5_HLRWCz7bcAAvpUZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26362,
+    "content": "Transform the entire image into a single {argument name=\"style\" default=\"Decorative Folk Flat Illustration\"} with Doodle elements. Use a {argument name=\"color palette\" default=\"bold and playful color palette\"}, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of {argument name=\"canvas\" default=\"white paper\"}. The overall style should look cute, childlike, and whimsical",
+    "title": "Decorative Folk Flat Illustration Transformation",
+    "description": "A style-transfer prompt to transform an image into a whimsical folk-style flat illustration with doodle elements and a playful color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032872114_t17631_HLRShnqbYAAxstj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26333,
+    "content": "Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable {argument name=\"animal companion\" default=\"animal companion\"}, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including {argument name=\"creature list\" default=\"llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature\"}, cozy scenic background with {argument name=\"location\" default=\"seaside boardwalk, lakeside village, mountain town or whimsical nature landscape\"}, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.",
+    "title": "Kawaii Minimalist Pastel Doodle Illustration",
+    "description": "Generates a charming, Japanese-inspired pastel doodle of a character with an animal companion, featuring a soft watercolor aesthetic and clean vector lines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032859721_57gbhj_HLRCu0fbEAAR7XB.jpg",
+      "https://cms-assets.youmind.com/media/1782032858322_q13evm_HLRCu4hboAACong.jpg",
+      "https://cms-assets.youmind.com/media/1782032859710_8yks43_HLRCvToa0AA_YGu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26336,
+    "content": "Aspect Ratio: 9:16\nStyle: Anime character illustration + fine brushwork + 90s Anime + Cel shading + {argument name=\"decoration style\" default=\"Maximalism\"}\nCharacter: {argument name=\"character\" default=\"SPY x FAMILY family\"}",
+    "title": "90s Anime Style Illustration",
+    "description": "A stylistic prompt for 90s-inspired anime character art featuring clean lines, cel shading, and intricate detailing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032860821_gvqi1f_HLQ5uzraAAEsqVw.jpg",
+      "https://cms-assets.youmind.com/media/1782032861013_dqigp2_HLQ6BmJbgAAzsp5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26349,
+    "content": "【{argument name=\"role\" default=\"The shopkeeper who came from another world\"}】\nThe night perfumer who wandered into {argument name=\"location\" default=\"Marrakech\"}.\n\nLaila, a perfume artist of the {argument name=\"tribe\" default=\"Black Panther tribe\"} from the obsidian sand sea of Neval.\nOn the night she went out to collect star sand, a rift of teleportation opened at her feet and she fell into this city.\n\nAt first, she couldn't even speak the language, and it was just a small shop with the vials she had lined up.\n\nBut now, it's a mysterious and famous shop in {argument name=\"location\" default=\"Marrakech\"} that travelers who have tried the scents can't help but look back at.\n\nShelves full of magical perfume oils.\nLarge bottles filled with blue light.\nOld perfume bottles with metal fittings.\nSmall bags contain the scent of star sand to be used before sleeping.\n\nThe thin strips of paper she holds are test strips for sampling the scents.\n\nWith one shake, a small starlight remains on the paper.",
+    "title": "The Night Perfumer Laila",
+    "description": "A detailed character and setting prompt for a mystical perfumer from another world, featuring magical bottles and starry effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032866899_kx8pth_HLQl_QhakAA-RPu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26338,
+    "content": "{argument name=\"style\" default=\"Lighthearted sketch-style anime aesthetic\"}, a {argument name=\"subject\" default=\"woman walking along the seaside with a fluffy Pomeranian\"}, seaside background with pastel-colored beach houses and a vast blue sky, rough and dynamic freeform shapes, hand-drawn style line art with varying line weights, light and refreshing atmosphere, {argument name=\"palette\" default=\"pure white, aqua blue, candy pink, and lemon cream\"} for coloring",
+    "title": "Seaside Sketch Style Anime Illustration",
+    "description": "An artistic anime-style prompt for a woman walking her Pomeranian on the beach, using soft lines and a pastel color palette for a refreshing vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032861781_9ilt5w_HLQa0inagAAKgzo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26374,
+    "content": "Create a vertical mid-century American beauty magazine illustration of {argument name=\"subject\" default=\"a glamorous blonde woman seated indoors\"}, shown from the chest up in a cozy retro room. Preserve a close portrait composition: the woman fills most of the frame, leaning slightly forward with both arms crossed or resting at the bottom edge, long voluminous platinum-blonde hair sweeping over both shoulders, face area intentionally covered by a centered opaque warm tan rectangular block. She wears oversized pink dangling earrings, layered pearl necklaces, and a chunky knitted sweater in {argument name=\"sweater colors\" default=\"hot pink, coral, orange, lavender, and pale blue stripes\"}. Background: a salmon-pink textured wall, a glowing cream lampshade on a coral table lamp on the left, and a small red vintage television on the right. Render the entire image as an authentic 1950s–1960s romance comic / vintage beauty advertisement: bold black ink outlines, hand-painted cel shading, simplified elegant forms, glamorous pin-up styling, warm rosy skin tones, vibrant pastel palette of {argument name=\"color palette\" default=\"bubblegum pink, coral, turquoise accents, cream, pale yellow, lavender, and warm ivory\"}. Add visible halftone dots, aged paper grain, faded ink edges, subtle color misregistration, screen-print texture, and minor offset-print imperfections so it looks like a preserved vintage magazine page. Use no captions, no typography, no watermark, and keep the tan face-covering rectangle perfectly flat and untextured.",
+    "title": "Retro Blonde Magazine Portrait",
+    "description": "Generates a vintage 1950s-style illustrated portrait of a blonde woman in a colorful sweater with retro room details and aged print texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032876755_dotek2_HLPKowhbIAAwxEq.jpg",
+      "https://cms-assets.youmind.com/media/1782032876329_f8a6u5_HLPKot_asAAsCU4.jpg",
+      "https://cms-assets.youmind.com/media/1782032876346_af41wg_HLPKo5mbwAADypR.jpg",
+      "https://cms-assets.youmind.com/media/1782032876874_mrzy4g_HLPKo3aa8AAXaBq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26377,
+    "content": "Goal: Create a vertical smartphone screenshot of a dramatic full-color manga episode page about a masked martial artist using a drunken staff technique, titled {argument name=\"episode title\" default=\"エピソード名思いつかなかった💦\"} in the app header.\n\nCanvas: Tall 9:16 mobile screen, black app UI bar at the top with a back arrow on the left, centered truncated Japanese title text “エピソード名思…”, a small cat-face icon, a menu icon, and a refresh/rotate icon on the right. Below it, show one dynamic manga page with thick black gutters and angled panel borders. Add two semi-transparent circular navigation buttons with white chevrons near the lower center, overlaying the manga page.\n\nLayout: Use exactly 5 visible manga panels: 1) upper-left action panel of the character standing under cherry blossoms in front of temple roofs, holding a long staff; 2) upper-right close-up of one green eye and black embroidered face mask; 3) middle-right narrow panel showing the ornate staff tip touching a circular stone floor pattern; 4) large central hero panel occupying most of the page, showing the full-body martial artist in a dramatic low-angle pose; 5) bottom close-up panel of the character’s intense green eyes, partly cropped by the screen edge.\n\nMain character: A slim young female martial artist named {argument name=\"character name\" default=\"unnamed masked martial artist\"}, with shoulder-length dark brown hair fading to golden tips, windblown bangs, vivid green eyes, and a black ornate face mask with gold embroidery. She wears a flowing black Chinese-inspired martial arts outfit with wide sleeves, layered translucent white sashes, gold trim, tassels, belts, decorative knots, loose black trousers with embroidered cuffs, and black slippers. She carries one long black-and-gold carved staff/cane, sometimes planted on the ground. Her pose should feel elegant, unstable, and powerful, like drunken boxing transformed into drunken staff fighting.\n\nSetting and mood: Outdoor Japanese/Chinese temple courtyard in spring, ornate wooden shrine buildings and tiled roofs in the background, pink cherry blossom trees, petals swirling through bright air, cinematic sunlight, strong wind, diagonal composition, speed lines and motion blur. High-detail anime illustration, glossy manhwa/manga rendering, dramatic perspective, rich shadows, gold accents, painterly backgrounds, crisp panel borders.\n\nText content: Include exactly 1 large vertical brush-calligraphy title inside the central panel reading {argument name=\"technique title\" default=\"酔棍\"}. Include exactly 8 white vertical manga speech boxes with black Japanese text: upper-left panel “酔うのは酒ではない…心だ”; upper-right panel right side “フッ…オレだと思って判断するとは…”; upper-right panel left side “まだまだだな”; middle-right panel right side “棒は酒のように軽く…”; middle-right panel lower side “すべてを流す”; central panel lower-left “酔えば酔うほど強くなる”; bottom panel left “これが酔拳の奥義…”; bottom panel right “酔ってなお…揺るがぬ心”.\n\nConstraints: Keep the image as a smartphone screenshot of a manga reader, not a clean standalone illustration. Use no extra panels beyond the 5 listed, no extra speech boxes beyond the 8 listed, no watermark, no photorealism, and preserve the Japanese text exactly where specified.",
+    "title": "Drunken Staff Manga Screenshot",
+    "description": "Generates a vertical mobile manga-reader screenshot featuring a masked martial artist performing a dramatic drunken staff technique in a cherry-blossom temple courtyard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032878169_76g7sg_HLO0C3CbcAAoujY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26357,
+    "content": "soft children’s book illustration of a {argument name=\"subject\" default=\"cute girl\"} in a {argument name=\"location\" default=\"flower shop\"}, simple rounded face, large eyes, gentle smile, sketchy pencil lines with watercolor fills, {argument name=\"color palette\" default=\"pastel palette (cream, peach, light pink, mint)\"}, minimal background with white space, small vases of flowers on wooden table, calm cozy mood, light grain paper texture",
+    "title": "Soft Watercolor Children's Book Illustration",
+    "description": "A charming prompt for generating children's book illustrations featuring soft watercolor textures and sketchy pencil lines, ideal for creating cozy and gentle character scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032870343_z9ohr3_HLOqI8AbMAAFIK8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26380,
+    "content": "Create a vertical 9:16 anime-style illustration of a cute chibi cat-eared adventurer girl sitting on broken concrete rubble in a rainy post-apocalyptic ruined city at sunrise. The character is {argument name=\"character name\" default=\"an unnamed cat-eared survivor girl\"}, a small young-looking kemonomimi girl with tan-blonde messy short hair, fluffy cat ears with white inner fur, golden-brown eyes, soft blush, and a calm shy smile. She wears a rugged brown survival outfit: long brown coat or tunic, dark leggings, knee pads, fingerless gloves, utility belts with metal buckles, pouches, straps, and heavy lace-up brown combat boots, plus a deep red scarf around her neck and a visible tan cat tail curling behind her. She sits with knees bent on wet rubble, holding exactly 2 small hand items: a short knife in one hand and a carved piece of wood in the other, as if whittling. On her back are exactly 2 tall metallic spear-like weapons or blades in a leather harness, and exactly 2 glowing round potion-like ornaments attached to the gear, one red and one green. The background is a devastated urban street with collapsed buildings, exposed concrete frames, debris, puddles, scattered grass shoots, dark storm clouds, and warm sunrise light glowing low on the horizon, reflecting in the wet ground. Heavy rain falls in long vertical streaks across the entire image, with cinematic rim light and atmospheric mist. Add handwritten glowing Japanese morning text near the upper left reading {argument name=\"greeting text\" default=\"おはよう\"}; include exactly 2 small doodles around it: a simple sun icon to the left and a tiny green sprout icon to the right. Visual style: highly detailed modern anime illustration, painterly lighting, cute character design contrasted with gritty ruins, warm orange sunrise against cool gray rain, sharp character focus, depth of field, no watermark, no extra characters, no extra text.",
+    "title": "Rainy Cat-Eared Survivor Morning",
+    "description": "Generates a vertical anime scene of a cute cat-eared survivor whittling wood in rainy post-apocalyptic ruins with glowing Japanese morning text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032879653_nks24m_HLOZWiobUAACJVq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26351,
+    "content": "I would like to see a {argument name=\"subject\" default=\"cat-eared gynoid\"}. Can you generate a sharp digital illustration in the {argument name=\"style\" default=\"NijiJourney style\"}?",
+    "title": "Cat-Eared Gynoid Digital Illustration",
+    "description": "A prompt for generating a sharp, NijiJourney-style digital illustration of a cat-eared gynoid character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782032866954_mxdou1_HLN_3wDa0AAzFxv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26233,
     "content": "1. City Wall: A single {argument name=\"structure material\" default=\"pale concrete\"} apartment-city wall rising beyond an empty {argument name=\"terrain\" default=\"grassland\"}, so large that the top disappears into {argument name=\"atmosphere\" default=\"blue-green fog\"} and the window rows merge into one continuous vertical face. Vertical 9:16 distant telephoto from a quiet meadow, 60 percent empty grass and blue haze, one tiny horse in the lower third and a narrow dirt path leading toward the wall; first read is the empty field, second read is the impossible city mass. Cool morning mist, soft diffused light, restrained pale gray and muted green palette, repeated apartment rows softened into texture, one dark rectangular gate far above the ground. No street-level city scene, no skyline collage, no many separate towers, no market, no traffic, no busy engineering, no pipes, no cranes, no cyberpunk lights, no readable text, no logo, no watermark.\n\n2. Inverted Ceiling: A single inverted city ceiling suspended over a black wet plain, so large that only the underside fragment fits in frame and the hanging building layers fade into night fog. 21:9 wide low-angle shot from an empty reflective plain, 70 percent mist, darkness, and mirror-like ground, three tiny people at the lower edge below the overhang; closest point is empty wet ground, final focus is the impossible city underside. Deep blue night haze, faint warm window texture as a thin distant seam, matte concrete slabs, soft reflections, silence. No street-level city scene, no skyline collage, no separate tower cluster, no traffic, no cranes, no pipes, no neon clutter, no readable text, no logo, no watermark, no fisheye distortion, no feet dominating foreground.\n\n3. City Gate: A single stacked apartment-city gate cut through a world-scale city dam, so large that both vertical edges leave the frame and the city details merge into one quiet inhabited cliff. 16:9 frontal long shot across an empty pale salt flat, 65 percent blank foreground and fog-bright sky seen through the colossal rectangular opening, two tiny vehicles stopped at the threshold on a thin road; first read is the empty salt flat, second read is the city gate. White haze, soft overcast light, pale concrete and blue-gray shadows, repeated window bands as quiet surface texture, the far side of the opening dissolving into mist. No street-level city scene, no skyline collage, no fantasy ruin, no ornate city gate, no sci-fi corridor, no many separate towers, no traffic, no cranes, no pipes, no cyberpunk lights, no readable text, no logo, no watermark.",
     "title": "Surreal Urban Megastructure Architecture Prompts",
