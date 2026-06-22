@@ -10,15 +10,217 @@
     "needReferenceImages": true
   },
   {
-    "id": 26355,
-    "content": "Illustration of \"{argument name=\"subject\" default=\"Me and [○○]\"}\" in a playful and charming pose. Hand-painted look with rich {argument name=\"texture\" default=\"gouache-like texture\"} on paper, featuring natural brushstrokes, simple linework, and a restrained color palette. Bright, uplifting mood; character looking forward or upward, never downward. Minimalist composition with abundant negative space. Loose, analog-style coloring and imperfect handmade texture. The character's face is partially or fully obscured by the object/subject. Soft shading, strong atmosphere, and expressive mood. {argument name=\"background\" default=\"Clean white background\"}, wide margins, no text, 1:1 aspect ratio.",
-    "title": "Playful Gouache Style Illustration",
-    "description": "A detailed prompt for generating hand-painted gouache illustrations with a minimalist composition and a charming, uplifting mood.",
+    "id": 26449,
+    "content": "Create a cinematic cyberpunk anime action scene in a rainy neon-lit alley at night. Two main fighters face off in the center: on the left, a mysterious ronin wearing a wide straw kasa hat and a long torn black cloak, seen mostly from behind in a low battle stance, holding a katana; on the right, an armored ninja-samurai with a demonic oni-style mask and glowing red eyes lunges forward with two blades, one extended outward and one crossing the clash. Their swords meet at the center in a brilliant cyan-white energy burst, throwing sharp electric sparks and turquoise lightning arcs across the wet street. The setting is a dense futuristic Japanese city alley with reflective cobblestone pavement, heavy rain, puddles, mist, exposed pipes, hanging cables, umbrellas in the background, and many vertical neon signs with Japanese/Chinese-style characters in pink, cyan, blue, orange, and purple. Use a dynamic wide 16:9 composition, dramatic perspective, high contrast rim lighting, motion streaks, rain splashes around the fighters’ feet, detailed armor and cloth folds, glowing reflections on the ground, dark blue atmospheric shadows, and polished high-end anime concept art quality. Keep exactly two combatants, no readable English text, no logos, no watermark.",
+    "title": "Cyberpunk Ronin Duel",
+    "description": "A cinematic anime prompt for generating a rainy neon cyberpunk samurai duel with dramatic sword-clash energy.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782032869845_dndnpu_HLUHQeGbAAApte7.jpg",
-      "https://cms-assets.youmind.com/media/1782032869740_4vor76_HLUHQcObYAAAdOc.jpg"
+      "https://cms-assets.youmind.com/media/1782121959805_p4ub5q_HLXkBYSbAAAkF-G.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26447,
+    "content": "Create a cinematic anime action scene at night in an ancient East Asian palace courtyard. A lone martial warrior, {argument name=\"character name\" default=\"unnamed spear warrior\"}, is midair above a stone arched bridge, performing an acrobatic spinning attack while holding a long silver spear with a sharp double-edged spearhead. The warrior wears flowing dark navy and white robes with silver armor accents, long trailing sashes, and dark hair partly hidden by a hood or head covering; their body is inverted in a dynamic flip, face partly visible, emphasizing speed and skill. A bright cyan-blue energy arc from the spear sweeps across the lower right foreground in a huge crescent slash, scattering sparks, debris, mist, and motion streaks. The setting includes exactly one main stone bridge with dark wooden railings in the foreground, one smaller bridge section behind it, traditional tiled palace buildings with warm lantern lights, distant jagged mountains, pine trees on both sides, and a large full moon glowing through drifting clouds in a starry deep-blue sky. Use dramatic moonlit lighting, cool blue shadows contrasted with warm amber windows, detailed anime key art style, sharp linework, atmospheric fog, high motion blur at the edges, and a wide 16:9 composition like a fantasy wuxia animation still. No text, no watermark, no modern objects.",
+    "title": "Moonlit Anime Spear Warrior",
+    "description": "A cinematic fantasy anime prompt for generating a moonlit wuxia spear-fighting scene in an ancient palace courtyard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121958640_pvvy6t_HLXi8SNXgAAt0X1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26474,
+    "content": "Goal: Create a cinematic anime manga-style action comic page showing a magical duel at a moonlit Shinto shrine, with two rival sorcerers facing off using contrasting energy powers.\n\nCanvas: Square 1:1 comic page with a thin white outer margin and four rounded-rectangle panels separated by white gutters. Use clean inked line art, cel-shaded anime coloring, dramatic night lighting, cool blue shadows, and glowing spell effects.\n\nLayout: Use exactly 4 panels. Panel 1 is a wide establishing shot across the full top half-width area, showing the shrine courtyard under a crescent moon. Panel 2 is another wide horizontal panel beneath it, a close action standoff. Panels 3 and 4 are two smaller equal-width panels along the bottom row.\n\nCharacters: Two young adult Japanese-style fantasy sorcerers. The left character is a female spellcaster named {argument name=\"female character name\" default=\"purple-robed shrine mage\"}, wearing layered black and deep purple kimono-style robes, a purple sash, sandals, and dark hair tied back with purple ribbons; she casts glowing magenta paper talismans and violet barrier magic. The right character is a male spellcaster named {argument name=\"male character name\" default=\"green-robed wind sorcerer\"}, wearing a dark green kimono robe with gold trim, loose hakama pants, sandals, short dark tousled hair, and glowing golden ring-like charms around his hands; he controls pale white wind spirals and golden energy loops. Keep both faces slightly simplified or softly obscured, not detailed portraits.\n\nPanel details: Panel 1: wide establishing view of the shrine courtyard at night, stone paving, stairs, torii gates, lanterns, trees, shrine buildings, and a bright crescent moon centered high in the sky; the female mage stands on the left with violet talismans, the male wind sorcerer stands on the right with golden rings, both poised before the duel. Panel 2: close-up action composition, female on the left thrusting one hand forward while magenta paper talismans swirl around her, male on the right raising one hand defensively while a huge white wind vortex sweeps across the frame from right to left, with golden rings around his wrists. Panel 3: bottom-left impact panel, the female mage projects a bright purple circular portal or shield, while the male sorcerer counters with a sweeping golden wind arc that strikes the barrier, scattering dust, leaves, and sparks. Panel 4: bottom-right aftermath panel, both characters stand farther apart in the shrine courtyard; a vertical glowing purple oval barrier floats between them, the male watches from the right with golden hand loops, the moon and shrine steps visible behind them.\n\nVisual style: polished anime comic illustration, dynamic perspective, expressive cloth motion, speed lines, glowing particles, transparent magical rings, high contrast between violet magic and golden wind, detailed shrine architecture, rounded black panel borders, no speech bubbles, no captions, no readable text, no logos, no watermark.\n\nCustomization: Set the environment as {argument name=\"setting\" default=\"a moonlit Shinto shrine courtyard\"}, the female magic color as {argument name=\"female magic color\" default=\"violet magenta\"}, and the male magic color as {argument name=\"male magic color\" default=\"gold and pale white\"}.",
+    "title": "Moonlit Shrine Sorcerer Duel Comic",
+    "description": "A structured prompt for generating a four-panel anime comic page of two sorcerers battling with violet talismans and golden wind magic in a nighttime shrine courtyard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121969821_ot5mit_HLXi2unX0AEKZhs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26471,
+    "content": "Create a cinematic 3D fantasy action scene in a wide 16:9 frame: a young blonde warrior girl, {argument name=\"character name\" default=\"female fantasy knight\"}, charges forward through a dark icy cavern, centered slightly below the middle of the image, leaning into a run with one knee raised. She wears a blue sleeveless tunic with gold trim and a gold emblem on the chest, dark shorts, leather boots, bracers, and light armor accents. Her short pale-blonde hair frames her head, but her face is intentionally covered by a flat opaque gray square censor block. In her left hand she carries a large round shield with a gold rim, dark blue face, and decorative rope-like gold cross detail; in her right hand she holds a long spear angled diagonally backward to the left. The environment is a vast frozen cave with jagged stalactites hanging from the ceiling, blue-black rock walls, scattered ice formations, a flat icy floor, and large shadowy boulders on both sides. Use moody low-key lighting, cold blue color grading, subtle mist, soft volumetric light from the upper right, and a polished animated-film/game-cinematic look with depth of field and dramatic scale. No text, no watermark, no extra characters.",
+    "title": "Blonde Warrior in an Icy Cavern",
+    "description": "A cinematic fantasy game-style scene of a shield-bearing blonde warrior charging through a dark frozen cave.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121968875_rpod00_HLXislnWgAENdIX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26472,
+    "content": "Goal: Create a dramatic anime-style four-panel boxing match comic showing an underdog female boxer defeating a larger male opponent in a professional ring. Use dynamic action, cinematic lighting, sweat, impact sparks, and a packed dark arena crowd. Faces should be intentionally obscured with soft rectangular blur/censor blocks, while bodies, poses, and clothing remain detailed.\n\nCanvas: Wide horizontal comic strip, 16:9 aspect ratio, divided into exactly 4 equal panels in a 2-by-2 grid with thick black gutters.\n\nVisual style: High-detail modern anime sports illustration, intense cel shading, glossy sweat highlights, strong anatomy, motion lines, dramatic foreshortening, bright overhead stadium spotlights, dark blue-black arena atmosphere, red and blue boxing ring ropes, blurred audience in the background.\n\nMain characters: The female boxer has {argument name=\"hair color\" default=\"dark navy blue\"} hair tied in a high messy ponytail, athletic build, red sleeveless crop tank, black boxing shorts, black ankle boots, and white hand wraps. The male boxer is much taller and more muscular, shirtless, tan skin, short dark hair, black boxing shorts, and white hand wraps. The referee wears a white shirt, black bow tie, black pants, and blue gloves.\n\nPanel layout and action count: Include exactly 4 panels. Panel 1, top left: the two fighters square off in the ring from a medium-wide angle, female boxer on the left in guard stance, male boxer on the right with his back partly toward camera, referee centered behind them. Panel 2, top right: the male boxer throws a long straight punch across the frame toward the female boxer, who leans back and guards, the punch barely missing her face. Panel 3, bottom left: the female boxer counters with a powerful straight punch to the male boxer’s face; show a bright starburst impact flash, sweat droplets, and speed lines. Panel 4, bottom right: the male boxer is down on both knees and hands, head lowered, while the female boxer stands tall to the right in victory stance; the referee steps in from the left, and the crowd reacts behind the ropes.\n\nText: No captions, speech bubbles, logos, scoreboards, or visible written text.\n\nConstraints: Keep the composition clean and readable as a sequential fight scene, maintain consistent outfits and ring environment across all 4 panels, use no gore, no blood, no watermark, and keep all faces obscured by blur blocks.",
+    "title": "Four-Panel Anime Boxing Knockout",
+    "description": "A structured prompt for generating a cinematic four-panel anime boxing comic sequence with a female underdog knocking down a larger opponent.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121969274_zfimgh_HLXiqHOW4AE-Oih.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26473,
+    "content": "Create a wide cinematic fantasy anime illustration of {argument name=\"character name\" default=\"a white nine-tailed fox spirit\"} leaping gracefully through the sky above a frozen cloud kingdom at twilight. The central subject is an anthropomorphic fox deity with white fur, flowing silver-white hair, pointed ears, a slim athletic build, and exactly nine large sweeping tails fanning behind them in a dramatic arc. Dress the character in an elegant white-and-gold celestial warrior outfit with ornate gold trim, arm bracers, ankle cuffs, ribbon-like sashes, and layered fabric panels; the pose is airborne and dynamic, with one arm extended forward, one arm back, and legs bent as if flying or dancing. Surround the character with two large luminous elliptical magic rings crossing the sky, one cyan-blue and one warm golden, with sparkling star particles scattered along the rings. The setting is a vast dreamlike high-altitude landscape of icy floating cliffs, cloud banks, crystalline blue spires, snow-covered rock formations, and winding pale bridges or ice paths suspended among the clouds. Include a small crescent moon in the upper left sky, distant stars, glowing blue crystal highlights, misty cloud trails, and a warm sunset glow near the horizon blending into deep navy night above. Use a polished high-detail anime fantasy style, vibrant but soft color grading, painterly lighting, crisp character linework, luminous rim light, epic scale, magical atmosphere, and a 16:9 composition with the character centered slightly above the horizon. No text, no watermark, no UI elements.",
+    "title": "Celestial Nine-Tailed Fox Spirit",
+    "description": "A cinematic anime fantasy prompt for generating a white nine-tailed fox deity flying through a glowing icy cloud realm.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121969776_kchx1r_HLXiJVhWoAAlHEM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26446,
+    "content": "Goal: Create a clean anime character concept sheet for a dark ninja warrior, suitable for an asset folder or character design reference.\n\nCanvas: Square 1:1 canvas, light warm-gray background with faint construction guide lines, polished digital illustration, crisp inked linework, cel-shaded anime rendering, no watermark.\n\nLayout: Show exactly 3 full-body character views across the sheet: 1 front standing pose on the left, 1 dynamic combat action pose in the center, and 1 back standing pose on the right. Add exactly 2 inset reference panels: 1 small square head close-up in the upper-right corner and 1 small square black silhouette action pose in the lower-right corner.\n\nCharacter details: Depict {argument name=\"character name\" default=\"a faceless shadow ninja\"} as a young male anime shinobi with wild spiky {argument name=\"hair color\" default=\"black hair\"}, an intentionally blank/blurred face area with no visible facial features, athletic build, and a serious stealth-warrior presence. Outfit is a layered dark shinobi costume in {argument name=\"outfit colors\" default=\"deep navy, charcoal black, muted burgundy, and off-white accents\"}: sleeveless dark wrap tunic over long sleeves, loose hakama-style pants, shin guards, arm guards, fingerless gloves, tabi boots, long waist sashes and trailing cloth strips. Include a cylindrical scroll case strapped diagonally across the back in the rear view, with light parchment panels and dark markings.\n\nPose count and content: Left pose: full-body front view, standing with legs apart, one fist lowered, long white and burgundy waist ties hanging and flowing. Center pose: full-body action stance, body turned away in a twisting martial-arts movement, one arm extended, knees bent, cloth belts whipping outward, surrounded by black ink-brush energy arcs and splatter marks. Right pose: full-body rear view, standing upright with the scroll case visible across the back and long sash tails trailing to the side. Upper-right inset: cropped head-and-hair close-up with the same blank face treatment. Lower-right inset: solid black silhouette of the same ninja in a dramatic action stance with trailing cloth strips.\n\nVisual style: High-quality manga/anime concept art, sharp dynamic silhouettes, detailed folds and seams, subtle blue-gray highlights on black fabric, confident character-design sheet presentation. Keep all elements separated clearly on the gray sheet and avoid extra props, text labels, logos, or background scenery.",
+    "title": "Faceless Shadow Ninja Character Sheet",
+    "description": "Generates an anime-style ninja warrior character design sheet with three full-body views, a head close-up, and an action silhouette for concept art reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121958548_fulum3_HLXY5cEWkAAGSzX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26443,
+    "content": "Create a cinematic widescreen sci-fi anime action illustration inside a damaged orbital space station corridor, with Earth and deep space visible through a huge panoramic window. The scene shows exactly two armored figures in zero gravity: on the right, {argument name=\"attacking astronaut suit color\" default=\"teal green\"} powered astronaut armor with glowing blue-white jet thrusters on the back, shoulders, and boots, flying horizontally from right to left and delivering a full-force side kick; on the left, {argument name=\"defender armor color\" default=\"beige and dark gray\"} humanoid combat android or armored astronaut recoils from the kick, chest shattered with fragments and sparks bursting outward. The attacker’s leg is fully extended into the defender’s torso, one arm punched forward and the other pulled back, body tilted dynamically as if propelled by suit jets. Count the major visible subjects and effects precisely: 2 armored figures, 1 enormous curved observation window, 1 view of Earth’s blue horizon with swirling clouds, 1 small satellite outside the window, 2 side balcony platforms, 1 control console at lower right, many floating metal shards and glass fragments, and multiple orange sparks and blue energy streaks arcing through the room. Use a polished Japanese anime / graphic novel style with crisp ink outlines, dramatic perspective, high contrast cel shading, detailed mechanical panels, pipes, rails, and sci-fi wall seams. Lighting should be cold cyan from Earth and the window, accented by orange impact sparks and vivid blue thruster glows. Make the composition dynamic and diagonal, with debris trails and motion arcs emphasizing weightless movement. Canvas: {argument name=\"aspect ratio\" default=\"16:9 widescreen\"}. Mood: {argument name=\"mood\" default=\"intense orbital combat\"}. No text, no logos, no watermark.",
+    "title": "Orbital Station Zero-G Kick",
+    "description": "A cinematic anime sci-fi action scene showing two armored fighters battling in zero gravity inside a space station above Earth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121957508_okyv8g_HLXYZR5XIAA9ed2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26445,
+    "content": "Create a wide cinematic fantasy anime illustration of {argument name=\"character name\" default=\"a graceful white nine-tailed fox spirit\"} leaping through the air above a dreamlike celestial cloud kingdom at twilight. The character is an anthropomorphic fox with white fur, a slim dancer-like body, pointed ears, a delicate muzzle, and exactly nine long flowing tails fanning dramatically behind them; they wear an elegant {argument name=\"outfit style\" default=\"white and gold celestial dancer outfit\"} with ornate gold arm bands, waist sash, ankle bracelets, and trailing fabric ribbons. Pose the fox mid-flight, one arm reaching forward and one leg bent back, as if gliding across the sky. Surround the character with exactly two large luminous elliptical magic trails, one cyan-blue and one warm gold, crossing behind and around the body with sparkling stardust. The environment is an expansive high-altitude fantasy landscape with exactly four major floating ice-and-cloud landforms: a tall icy cloud tower on the left, a small distant island near the center horizon, a crystalline spire island on the right horizon, and a broad foreground ice bridge/platform sweeping from lower left to lower right. Add fluffy sculpted clouds, translucent blue crystal cliffs, misty wind ribbons, tiny star particles, and one crescent moon in the upper left sky. Use a rich twilight palette of {argument name=\"sky colors\" default=\"deep navy, cobalt blue, lavender, peach, and golden sunset\"}, soft glowing rim light, highly polished digital painting, clean anime linework, dramatic perspective, ethereal atmosphere, and a sense of magical motion. No text, no watermark, no modern objects, no extra characters.",
+    "title": "Celestial Nine-Tailed Fox Spirit",
+    "description": "A cinematic anime fantasy scene of a white nine-tailed fox spirit flying through glowing rings above floating ice clouds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121957718_u2kpzh_HLXYWCOWAAA4YUZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26452,
+    "content": "Create a cinematic 16:9 still frame of a stylized 3D anime action heroine in a dark industrial storage room, rendered like a high-quality game cutscene. The character is {argument name=\"character type\" default=\"a young female ninja fighter\"} in a dynamic defensive martial-arts pose, torso turned toward camera, one arm extended forward to the right edge of the frame and the other arm reaching back to the left. She has {argument name=\"hair style\" default=\"long dark blue-black hair tied in a high topknot with loose length down the back\"}, pointed elf-like ears, fingerless gloves, black leather forearm guards, a black fitted chest armor piece, a white scarf-like collar and white short sleeves, a wide black waist wrap with a small dangling silver chain and pale cloth tab, and dark pants. Place a solid square pixelated censor block over the center of the face, obscuring all facial features. The background is a dim blue-green warehouse or armory with metal shelving, indistinct boxes, jars, and equipment in shadow. Use moody low-key lighting, cool teal shadows, subtle rim light on the hair and shoulders, shallow depth of field, realistic fabric and leather textures, dramatic action composition, no text, no watermark, no extra characters.",
+    "title": "Censored Ninja Fighter Cutscene",
+    "description": "A cinematic 3D anime-style action still of a masked-by-censor female ninja posing in a dark storage room, useful for game cutscene or character concept visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121960917_1r6473_HLXXdouWsAAYpAt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26440,
+    "content": "Convert this image into a soft, handcrafted {argument name=\"art style\" default=\"paper-cut layered illustration\"} style, inspired by {argument name=\"aesthetic\" default=\"papercraft diorama\"} aesthetics. Use smooth rounded shapes, simplified {argument name=\"character proportions\" default=\"cute\"} character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock.",
+    "title": "Papercraft Style Image Transformation",
+    "description": "Transforms an image into a soft, handcrafted paper-cut diorama style with layered depth and charming character aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121954917_844ylf_HLWkgc4aAAAa2j6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26428,
+    "content": "Transform the uploaded photo into a {argument name=\"illustration style\" default=\"whimsical hand-painted storybook illustration\"}. Keep the exact pose, perspective, convex traffic mirror reflection, road, utility pole, and surrounding tropical greenery. Reimagine the mirror reflection as a vibrant illustrated world with lush jungle plants, palm trees, flowers, butterflies, doodle hearts, stars, swirls, smiling sun, fluffy clouds, and colorful hand-drawn decorations. The person is transformed into a cute cartoon character wearing {argument name=\"outfit\" default=\"a white t-shirt, navy shorts, white socks, and a blue cap\"}, posing playfully with one leg raised and a peace sign. Integrate fitness-tracker statistics inside the mirror in a charming infographic style: {argument name=\"activity statistics\" default=\"“Day 53”, “4.06 km”, “88 m”, “24 min 9 sec”\"}. Bright pastel colors, textured gouache paint, children's book aesthetic, whimsical doodles, clean outlines, cozy and cheerful mood, highly detailed foliage, playful travel journal style, Strava-inspired adventure artwork, vibrant greens, oranges, blues, and pinks, ultra-detailed illustration, masterpiece, kawaii aesthetic, editorial quality, vertical composition, 4k.",
+    "title": "Storybook Travel Journal Illustration",
+    "description": "A comprehensive prompt that transforms travel photos into whimsical storybook illustrations with integrated activity statistics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121949585_qrw8fm_HLWPFuzbMAAH5UW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26434,
+    "content": "Reimagine the entire image as one cohesive {argument name=\"style\" default=\"Decorative Folk Flat Illustration\"} blended with a soft handcrafted paper-cut layered style, inspired by charming papercraft diorama aesthetics. Preserve the original subject, composition, and overall mood, but simplify every element into clean flat forms, bold rounded shapes, and cute childlike proportions. Add playful doodle accents, decorative folk patterns, slightly uneven handmade outlines, and minimal facial details such as dot eyes and soft blush cheeks. Use a {argument name=\"color palette\" default=\"vivid, cheerful color palette\"} that feels fresh and different from the original image, while keeping the final artwork warm, sweet, innocent, whimsical, and storybook-like. Create the feeling of layered cardstock with stacked paper depth, clean cut edges, subtle shadows between layers, and gentle paper-crafted imperfections, as if the scene were carefully cut, colored, and assembled on clean white paper. The result should look cute, handcrafted, playful, and visually unified, with a polished yet charming handmade folk-art papercraft finish.",
+    "title": "Decorative Folk Papercraft Illustration",
+    "description": "A transformation prompt that reimagines a reference image as a handcrafted paper-cut diorama with folk art patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121952216_fp3tlz_HLWO76Wa4AAQFgn.jpg",
+      "https://cms-assets.youmind.com/media/1782121952525_2vos0b_HLWO75RbwAAzIAo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26468,
+    "content": "Goal: Create a gritty vertical anime movie poster for {argument name=\"character name\" default=\"Tanjiro Kamado\"}, inspired by dark shonen fantasy and Demon Slayer aesthetics, with a ruined battlefield atmosphere, dramatic flames, water breathing effects, and distressed vintage typography.\n\nCanvas: Tall poster, 2:3 aspect ratio, full bleed, with a thin double-line tan border and aged paper texture. Use a high-detail painterly manga style with rough ink lines, film grain, soot, scratches, ember particles, and warm orange-black contrast.\n\nMain subject: Center a teenage swordsman in a dark uniform and green-black checkered haori, standing in a powerful three-quarter pose. He has spiky burgundy-black hair, hanafuda-style earrings, and an intense heroic silhouette. His face area is covered by a plain medium-brown rectangular censor block, while the hair, ears, neck, and body remain visible. He grips a katana with both hands near his waist, angled diagonally upward to the left. The blade is wrapped in bright turquoise-blue water energy, with one distinct curling water slash sweeping from the lower center toward the upper left. The haori should look torn and windblown, with many ragged pieces flowing outward.\n\nBackground: A burning demon-slaying battlefield at night. Show a large ghostly profile portrait of the same swordsman in the smoky sky behind him, facing right, with glowing reddish highlights. Include one ruined Japanese pagoda/building on the right midground, one tattered vertical banner on the right with dark calligraphy, collapsing wooden structures and rubble along the bottom, flying ash, black debris, sparks, and red-orange fire clouds. The overall mood is apocalyptic, heroic, and tragic.\n\nTypography and layout: Make the design look like a Japanese theatrical poster mixed with a Spanish title treatment. Include exactly these visible text groups:\n1. Large vertical Japanese title on the upper left: 「希望」, distressed cream ink.\n2. Small red seal stamp beside the left title with Japanese characters resembling 「竈門 炭治郎」.\n3. Vertical Japanese text box on the upper right: 「心を燃やせ 全てを懸けて」 with a smaller line 「鬼滅の刃」.\n4. Vertical Japanese text box on the lower left: 「命を繋ぎ、未来を照らすために」.\n5. Dark calligraphy on the right banner: 「鬼滅」.\n6. Main Spanish title across the lower third, huge distressed serif capitals: {argument name=\"main title\" default=\"LA VOLUNTAD INQUEBRANTABLE\"}. Put “LA” smaller above “VOLUNTAD”, and “INQUEBRANTABLE” below.\n7. Red small-credit line under the title: {argument name=\"credit name\" default=\"TANJIRO KAMADO\"}.\n8. Small white subtitle under that: {argument name=\"series subtitle\" default=\"KIMETSU NO YAIBA\"}.\n9. Bottom row contains exactly three icon-caption blocks: left sunburst icon with “UN HERMANO. UNA PROMESA.”, center lotus icon with “UN CAMINO DE SACRIFICIO.”, right checker-square icon with “UNA ESPERANZA QUE NUNCA MUERE.”\n10. Bottom-left small boxed technique label with Japanese text and English meaning: 「水の呼吸 / 壱ノ型 / 水面斬り」.\n11. Bottom-center circular seal emblem containing the large kanji 「滅」 and tiny ring text.\n12. Bottom-right small boxed technique label: 「竈門炭治郎」 and “WATER BREATHING / FIRST FORM / WATER SURFACE SLASH”.\n\nColor and style: Use a limited palette of burnt orange, black, charcoal, muted cream, dark green, blood red, and electric cyan water highlights. Typography should be weathered, cracked, and partially eroded. Keep the composition dense and cinematic, with strong backlighting and high contrast.\n\nConstraints: No modern objects, no clean vector look, no extra characters, no extra icons beyond the three bottom icon-caption blocks, no additional title text beyond the listed groups, and keep all Japanese text decorative but legible where possible.",
+    "title": "Dark Anime Demon Slayer Poster",
+    "description": "Creates a dramatic vintage-style anime poster of a sword-wielding hero in a burning battlefield with Japanese and Spanish typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121967835_m3m0rg_HLWJC0xa0AAQzhx.jpg",
+      "https://cms-assets.youmind.com/media/1782121967777_outqov_HLWJDHebAAAwlku.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26456,
+    "content": "Create a cinematic photorealistic wide shot of a bleak World War II beach invasion defense line viewed from inside a trench, with a low row of muddy sandbags and dark wooden trench planks across the entire foreground. Beyond the trench is a flooded, muddy beach covered in tangled barbed wire, broken stakes, puddles, and exactly 12 visible steel Czech hedgehog anti-tank obstacles scattered from left to right at varying distances. The ocean is rough and dark, with white-capped waves rolling toward shore, and several faint warship silhouettes on the horizon, including one larger battleship slightly right of center. The sky is heavy with storm clouds, with a dim cold break of light near the upper center. Use a desaturated blue-gray and charcoal color palette, gritty realism, wet reflective mud, misty sea spray, dramatic overcast lighting, high-detail cinematic composition, 16:9 aspect ratio, no people, no text, no modern objects. Emphasize the mood of {argument name=\"battlefield mood\" default=\"grim, tense, abandoned before an amphibious assault\"}, set on {argument name=\"location\" default=\"a Normandy-style fortified beach\"}, during {argument name=\"time of day\" default=\"stormy dawn\"}, with {argument name=\"visual style\" default=\"photorealistic war film still\"}.",
+    "title": "Stormy WWII Beach Defenses",
+    "description": "A cinematic photorealistic prompt for generating a grim fortified WWII beach scene with trenches, barbed wire, anti-tank obstacles, rough sea, and distant warships.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121962920_ntltn8_HLV2aq_aYAAqTVC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26461,
+    "content": "Create a vertical anime-style night street illustration of {argument name=\"character name\" default=\"a quiet teenage girl\"} standing full-body in the middle of a narrow Tokyo back alley after rain, viewed from a low street-level perspective. She has {argument name=\"hair color\" default=\"short ash-blonde bob hair with straight bangs\"}, pale skin, large muted eyes, and a calm slightly melancholy expression, looking toward the viewer. She wears an oversized dark hooded jacket with bulky pockets, a short dark skirt, black ankle socks, and chunky beige sneakers, hands tucked into her jacket pockets. Behind her, perfectly centered above her head, the illuminated orange-and-white Tokyo Tower rises in the distance like a glowing spire, with its bright central light creating a warm halo that contrasts against the deep blue night sky. The alley is dense with urban details: tall narrow buildings on both sides, air-conditioning units, shop shutters, small signs, street lamps, utility poles, tangled overhead power lines, balconies, pipes, and wet reflective pavement with puddles. Use a teal-and-cyan color palette for the buildings and street lighting, with warm orange highlights from the tower and shop interiors. The composition should feel cinematic and slightly surreal, with strong perspective depth, moody lighting, crisp manga linework, soft painterly shading, reflective wet ground, and subtle bokeh lights in the foreground on the left. Keep the character noticeably large compared with the background perspective, as if the scale is slightly imperfect but visually charming. No readable text, no extra characters, no vehicles, no watermark.",
+    "title": "Anime Girl in Rainy Tokyo Alley",
+    "description": "Generates a cinematic anime illustration of a lone girl in a wet Tokyo alley with Tokyo Tower glowing behind her.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121965112_7q2ui5_HLRUWHqbcAAMU5K.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26439,
+    "content": "Lighthearted sketch-style anime aesthetic, A serene, anime-inspired illustration of a {argument name=\"subject\" default=\"young woman\"} sitting against a tree by the seaside, full-body seated view at eye level, slightly turned three-quarter pose, looking down as she draws in a spiral sketchbook with a black pen. Soft pastel color palette with clean line art and gentle watercolor shading, warm, soft directional sunlight casting subtle, long shadows. She wears a {argument name=\"outfit\" default=\"lavender long-sleeve blouse under a green pinafore dress patterned with small white daisies\"}, a white underskirt with larger daisy prints peeking out, white ankle socks and brown loafers. Long dark hair, natural expression, light blush on cheeks. Large tree trunk with textured bark and {argument name=\"leaves\" default=\"golden autumn leaves\"} drifting in a light breeze; a few leaves scattered on the pavement. Background: calm blue ocean with gentle waves, pale sandy beach, distant horizon and soft fluffy clouds, a quiet two-lane coastal road beside the beach. Foreground includes a woven straw tote bag with colorful horizontal stripes placed on the curb. Emphasize peaceful, nostalgic mood, delicate details (fabric folds, leaf veins, bark texture, woven bag weave, pen and paper strokes), cinematic composition, high-resolution, soft grain, subtle rim light and natural ambient occlusion.",
+    "title": "Anime Girl Sketch by the Sea",
+    "description": "A detailed anime-style illustration of a woman sketching by the seaside, featuring soft watercolor shading and autumn vibes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121954969_3bnoo8_HLUYFYDbYAAogNk.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 26465,
+    "content": "Create a vibrant anime-style café greeting illustration at sunset featuring exactly two female characters standing close together in front of a cozy wooden storefront. The left character is a petite schoolgirl with very long {argument name=\"hair color\" default=\"dark navy blue fading into bright cyan\"} hair, wearing a navy sailor-style school uniform with white trim, a red neck bow, gold buttons, and a small star hair clip; she raises one open hand toward the viewer in a cheerful wave. The right character is a taller cow-themed café waitress named {argument name=\"character name\" default=\"Muumuu Bell\"}, with long silver-white hair fading into blue tips, two small cream cow horns, black-and-white cow ears, cow-pattern markings on her outfit, a blue ribbon collar with a large gold cowbell, and a beige apron printed with a pudding icon and the words “MILK & PUDDING”; she holds one hand up beside a large metal milk can. Place simple rectangular privacy censor blocks over both characters’ faces, matching the image: one soft beige block over the waitress’s face and one darker beige-to-gray gradient block over the schoolgirl’s face. The background is a warmly lit wooden café exterior with glowing windows, hanging lamps, and a signboard. Add large cute handwritten Japanese greeting text at the top left reading {argument name=\"greeting text\" default=\"こんにちは\"} in white with pink and cyan outline, surrounded by small hearts, sparkles, and accent lines; below it, add the café sign text {argument name=\"cafe sign text\" default=\"湯プリンカフェ\"} in warm cream lettering. On the right, show exactly one oversized cylindrical silver milk can labeled “MILK 100L” with a cute cow face icon. In the foreground, show exactly two food/drink items on a wooden table: one caramel custard pudding on a white plate with whipped cream and mint, and one glass bottle of milk with a straw and a small “MILK & PUDDING” label. Include exactly one small chalkboard menu on the right with doodled pudding and milk text, and exactly one small flower pot with white daisies near it. Use rich golden-hour lighting, glossy high-detail anime rendering, soft bokeh, warm café ambience, saturated colors, clean linework, and a vertical 4:5 composition. Avoid extra characters, avoid extra foreground desserts, and keep the visible text legible.",
+    "title": "Anime Milk Pudding Café Greeting",
+    "description": "A detailed text prompt for generating a warm anime café scene with two girls, Japanese greeting text, milk-and-pudding branding, and cozy sunset lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121966595_1v82r8_HLUDS3ybkAAv_o8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26432,
+    "content": "A CCTV-style surveillance footage of a {argument name=\"subject\" default=\"stylish teenage girl\"} walking past a security camera, looking up at the camera with a {argument name=\"expression\" default=\"bright friendly smile\"}, waving her hand casually, candid and natural movement, slightly confident model-like appearance, casual modern outfit, {argument name=\"location\" default=\"indoor public space (hallway or lobby)\"}, high angle security camera perspective, slightly distorted wide-angle lens, low resolution, monochrome or desaturated color, timestamp overlay, subtle scan lines, digital noise, compression artifacts, motion blur, uneven lighting, harsh shadows, grainy texture, authentic security camera aesthetic, unpolished and documentary feel",
+    "title": "CCTV Surveillance Footage Aesthetic",
+    "description": "A prompt designed to mimic authentic security camera footage, featuring a smiling teenage girl in a hallway with realistic digital noise.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121951748_zfgnpo_HLT_CpqbwAA0gqB.jpg",
+      "https://cms-assets.youmind.com/media/1782121951641_1avlge_HLT_CuIbUAA-AM2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26426,
+    "content": "Create a high-end {argument name=\"aspect ratio\" default=\"4:3\"} tailoring pitch deck storyboard in 3x4 grid (12 frames), editorial layout, {argument name=\"brand style\" default=\"Loro Piana/Brioni style\"}, {argument name=\"color palette\" default=\"deep navy + raw ecru palette\"}. Structured flow: inspiration → cloth → craft → silhouette → identity closure. Each frame split: top cinematic image (no text) + bottom storyboard notes. Old-world European atelier aesthetic, masculine precision, silent mastery mood. A hand-cut lapel is the emotional center throughout.",
+    "title": "Bespoke Tailoring Storyboard",
+    "description": "An editorial-style storyboard prompt for a high-end tailoring house, featuring a cinematic grid and a classic European aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121948336_cn5vfh_HLTd3r3aMAAeoO3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26460,
+    "content": "Create a high-detail anime-style vertical portrait of {argument name=\"character name\" default=\"a delicate lace prince boy\"} sitting close to the viewer in a dark moonlit rose garden at night, with a dramatic low-angle composition and shallow depth of field. The character is a slender young man with {argument name=\"hair color\" default=\"short tousled silver-white hair\"}, pale skin, bare shoulders, and a large flat opaque gray square deliberately covering the entire face area from forehead to chin. He wears exactly 4 main outfit pieces: an ornate silver crown tilted on his head, a sparkling white sleeveless tank top, an oversized white lace-textured cardigan slipping off both shoulders, and fitted black pants with silver chain details. Add exactly 3 visible necklaces: a delicate lace choker, a dark silver chain necklace, and a longer chain with a small star pendant. On the raised right hand reaching toward the viewer, show exactly 4 silver rings: one thick thumb band, one thin index-finger ring, one angular middle-finger ring, and one ring-finger band. The pose should feel intimate and princely, with the hand foreshortened toward the camera and the torso leaning forward. The background contains a wrought-iron fence, purple roses, glowing vintage street lamps on the right, a deep blue starry sky, and drifting pale purple flower petals. Use luminous cool blue lighting with warm lantern highlights, glossy fabric sparkles, intricate lace texture, elegant gothic-romantic atmosphere, ultra-detailed digital painting, clean anime linework, soft cinematic bokeh, no text, no watermark.",
+    "title": "Moonlit Lace Prince Portrait",
+    "description": "Generates a gothic-romantic anime portrait of a silver-haired lace prince in a moonlit rose garden, useful for character art or social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121964350_1msj9r_HLTIJ_fb0AA2fwn.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 26350,
@@ -41,18 +243,6 @@
     "needReferenceImages": true
   },
   {
-    "id": 26333,
-    "content": "Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable {argument name=\"animal companion\" default=\"animal companion\"}, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including {argument name=\"creature list\" default=\"llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature\"}, cozy scenic background with {argument name=\"location\" default=\"seaside boardwalk, lakeside village, mountain town or whimsical nature landscape\"}, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.",
-    "title": "Kawaii Minimalist Pastel Doodle Illustration",
-    "description": "Generates a charming, Japanese-inspired pastel doodle of a character with an animal companion, featuring a soft watercolor aesthetic and clean vector lines.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782032859721_57gbhj_HLRCu0fbEAAR7XB.jpg",
-      "https://cms-assets.youmind.com/media/1782032858322_q13evm_HLRCu4hboAACong.jpg",
-      "https://cms-assets.youmind.com/media/1782032859710_8yks43_HLRCvToa0AA_YGu.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 26336,
     "content": "Aspect Ratio: 9:16\nStyle: Anime character illustration + fine brushwork + 90s Anime + Cel shading + {argument name=\"decoration style\" default=\"Maximalism\"}\nCharacter: {argument name=\"character\" default=\"SPY x FAMILY family\"}",
     "title": "90s Anime Style Illustration",
@@ -70,16 +260,6 @@
     "description": "A detailed character and setting prompt for a mystical perfumer from another world, featuring magical bottles and starry effects.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782032866899_kx8pth_HLQl_QhakAA-RPu.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 26338,
-    "content": "{argument name=\"style\" default=\"Lighthearted sketch-style anime aesthetic\"}, a {argument name=\"subject\" default=\"woman walking along the seaside with a fluffy Pomeranian\"}, seaside background with pastel-colored beach houses and a vast blue sky, rough and dynamic freeform shapes, hand-drawn style line art with varying line weights, light and refreshing atmosphere, {argument name=\"palette\" default=\"pure white, aqua blue, candy pink, and lemon cream\"} for coloring",
-    "title": "Seaside Sketch Style Anime Illustration",
-    "description": "An artistic anime-style prompt for a woman walking her Pomeranian on the beach, using soft lines and a pastel color palette for a refreshing vibe.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782032861781_9ilt5w_HLQa0inagAAKgzo.jpg"
     ],
     "needReferenceImages": false
   },

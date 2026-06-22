@@ -10,6 +10,27 @@
     "needReferenceImages": true
   },
   {
+    "id": 26427,
+    "content": "Create vertical {argument name=\"aspect ratio\" default=\"4:5\"} photo uploaded. Use the subject from photo uploaded, in the style of {argument name=\"illustration style\" default=\"minimalist geometric vector illustration\"}, bold flat color blocks, sharp clean edges, palette of {argument name=\"color palette\" default=\"dark forest green, slate grey, and soft white\"}, subtle grainy texture overlay, symmetrical composition, modern pop art aesthetic, clean negative space, high-contrast shapes, professional graphic design, 8k resolution.",
+    "title": "Minimalist Geometric Vector Illustration",
+    "description": "A prompt that transforms a portrait into a clean, minimalist geometric vector illustration with bold flat colors and a modern pop art feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121948693_8qwehb_HLWAkTRbwAAVONp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26411,
+    "content": "Layered paper-cut illustration of {argument name=\"subject\" default=\"[subject]\"}, built with overlapping shapes in soft {argument name=\"primary color\" default=\"[color1]\"} and {argument name=\"secondary color\" default=\"[color2]\"}, handcrafted textures, subtle shadows between layers, clean vector edges, centered on a matte cream background, whimsical and modern visual storytelling.",
+    "title": "Layered Paper-Cut Illustration",
+    "description": "A whimsical modern storytelling prompt that uses layered shapes and paper textures to create a modern vector-style illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121938741_t6bhrj_HLVWtObbkAAYtiC.jpg",
+      "https://cms-assets.youmind.com/media/1782121938738_hzu6n2_HLVWtgEbQAAREg3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26362,
     "content": "Transform the entire image into a single {argument name=\"style\" default=\"Decorative Folk Flat Illustration\"} with Doodle elements. Use a {argument name=\"color palette\" default=\"bold and playful color palette\"}, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of {argument name=\"canvas\" default=\"white paper\"}. The overall style should look cute, childlike, and whimsical",
     "title": "Decorative Folk Flat Illustration Transformation",
@@ -66,16 +87,6 @@
     "description": "Converts images into a soft, handcrafted paper-cut illustration style with a warm, charming papercraft diorama look.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782032862072_wci4fz_HLOx8IWaEAAkdXq.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 26341,
-    "content": "Please transform the entire image into a single {argument name=\"art style\" default=\"Decorative Folk Flat Illustration with Doodle elements\"}. Use a {argument name=\"color palette\" default=\"bold and playful color palette\"}, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical",
-    "title": "Whimsical Folk Flat Illustration",
-    "description": "Transforms any image into a decorative folk-style flat illustration with playful doodle elements and a whimsical, handcrafted feel.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782032863271_d5gyvu_HLOUruibQAAw2zl.jpg"
     ],
     "needReferenceImages": true
   },

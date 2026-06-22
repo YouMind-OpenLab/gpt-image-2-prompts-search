@@ -1,5 +1,16 @@
 [
   {
+    "id": 26429,
+    "content": "{argument name=\"style\" default=\"Ming Dynasty Blue-and-White Porcelain Style\"}, {argument name=\"subject\" default=\"Guan Yin Bodhisattva, Nezha\"}",
+    "title": "Blue and White Porcelain Style",
+    "description": "A style prompt for creating traditional Ming Dynasty blue-and-white porcelain art featuring cultural deities.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121949955_mrx9uc_HLXkApzakAADTOi.jpg",
+      "https://cms-assets.youmind.com/media/1782121950318_bioh11_HLXkENrb0AAp-q_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 25666,
     "content": "I would like to see a hand-drawn style illustration of a {argument name=\"character\" default=\"cat-eared girl\"} wearing a {argument name=\"clothing\" default=\"white dress\"} and {argument name=\"scenery\" default=\"a boat in a seaside town\"}, which is very minimalist and could be taken as an abstract painting. Can you generate a digital illustration that is oil-painting-like and relaxed in a Midjourney style?",
     "title": "Minimalist Cat Girl Seaside Painting",

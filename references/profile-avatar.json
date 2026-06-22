@@ -1,5 +1,70 @@
 [
   {
+    "id": 26421,
+    "content": "{argument name=\"character name\" default=\"Roxy Migurdia\"}",
+    "title": "Roxy Migurdia Character Portrait",
+    "description": "A character prompt for generating the fan-favorite mage Roxy Migurdia from Mushoku Tensei.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121945335_dwp8z8_HLaEru6aoAAr8UX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26470,
+    "content": "Create a realistic, high-detail editorial portrait of an adult woman seated at a small round marble café table in an intimate vintage bar or private club. She has {argument name=\"hair color\" default=\"black\"} shoulder-length voluminous wavy bob hair, a poised feminine expression, and warm medium skin. She is wearing an elegant deep {argument name=\"dress color\" default=\"burgundy red\"} lace evening dress with sheer long lace sleeves, a scalloped neckline, and a fitted bodice, styled as glamorous nightlife fashion rather than explicit nudity. Her left hand holds a stemmed glass of red wine near the table, with a simple gold ring visible on one finger. The setting is richly atmospheric: dark green walls covered with many framed sepia sketches and portraits, polished dark wood trim, leather seating, antique mirrors and glass cabinets, warm amber lamp light, and a moody upscale old-world interior. Compose the image as a medium close-up portrait from slightly above table height, centered on the woman from head to waist, with the wine glass in the lower left foreground and the background softly detailed. Use cinematic warm lighting, natural skin texture, realistic fabric lace detail, shallow depth of field, 35mm documentary photography feel, subtle film grain, and rich contrast. No text, no watermark, no extra people, no distorted hands, no exaggerated anatomy.",
+    "title": "Vintage Bar Lace Dress Portrait",
+    "description": "A realistic cinematic portrait of an elegant adult woman in a burgundy lace dress holding red wine inside a moody vintage bar.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121968627_rj6r9b_HLXwPc1bgAAAAGy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26435,
+    "content": "18K ultra-realistic cinematic portrait series, exact face match from reference image, same Stylish hairstyle and same short boxed beard (no changes). Create 10 completely different poses with {argument name=\"shirt colors\" default=\"Deep Autumn shirt colors: Olive Green, Forest Green, Burgundy, Chocolate Brown, Rust Orange, Mustard Yellow, Dark Teal, Coffee Brown, Camel Beige, and Charcoal Black\"}. Golden hour lighting, warm cinematic color grading, realistic skin texture, sharp jawline, soft bokeh, HDR, {argument name=\"camera\" default=\"Leica SL3\"}, {argument name=\"lens\" default=\"85mm lens\"}, f/1.4 --ar 4:5 ratio",
+    "title": "Deep Autumn Cinematic Portrait Series",
+    "description": "Ultra-realistic cinematic portraits using a reference face, featuring different poses and clothing in a Deep Autumn color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121953320_yhhype_HLWSs5vbwAApg9V.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26414,
+    "content": "Upload any face image and generate a stylized 3D {argument name=\"character style\" default=\"cartoon football character\"} with a big head, confident pose, {argument name=\"outfit\" default=\"team jersey\"}, glossy textures, and a {argument name=\"background\" default=\"clean background\"}.",
+    "title": "3D Cartoon Football Character Creator",
+    "description": "A prompt that transforms a face image into a stylized 3D cartoon football player with a confident pose and glossy textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121940789_ecxm9d_HLV1rttbQAA3qKJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26454,
+    "content": "Create a dreamy vertical portrait photograph of a {argument name=\"subject\" default=\"young woman\"} standing alone on a narrow dirt path in a lush green forest during golden hour. She is positioned slightly below center and far enough away to appear small against the towering trees, wearing a long sleeveless pale pink floral chiffon dress with a soft flowing skirt and white shoes. Her short brown hair catches the light; one hand is raised near her face as if brushing hair aside, while the other lightly holds the edge of her skirt. The path curves gently into dense greenery, with tall grasses on both sides and an arching canopy of leafy trees overhead. Strong warm sunlight enters from the upper left, creating a large white sun flare, soft haze, glowing backlight, dappled highlights on leaves, and subtle green lens flares near the lower corners. Use a serene, romantic, ethereal Japanese portrait photography mood, natural colors, high dynamic range, shallow-to-medium depth of field, soft focus bloom, vertical 3:4 composition, no text, no watermark, no extra people.",
+    "title": "Dreamy Forest Golden Hour Portrait",
+    "description": "A serene vertical portrait prompt for creating an ethereal woman in a flowing dress on a sunlit forest path.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121961111_drcn94_HLVgI9xbIAAYDS-.jpg",
+      "https://cms-assets.youmind.com/media/1782121961110_prp964_HLVgI9kasAA6W77.jpg",
+      "https://cms-assets.youmind.com/media/1782121961104_ir6pyc_HLVgI9masAAorrB.jpg",
+      "https://cms-assets.youmind.com/media/1782121961778_bxxpbm_HLVgI9pbIAAiRiZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26418,
+    "content": "Hand Drawn Anime Beach Walk Portrait, {argument name=\"character\" default=\"adult young woman with messy bun\"}",
+    "title": "Hand-Drawn Anime Beach Walk",
+    "description": "A reusable visual prompt for generating artistic hand-drawn anime portraits of characters walking on the beach.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121942694_9eekuc_HLVYl09WgAA_-Zb.jpg",
+      "https://cms-assets.youmind.com/media/1782121942703_g8x5qm_HLVYl0SXgAA4vXH.jpg",
+      "https://cms-assets.youmind.com/media/1782121942682_5o3wjn_HLVYl0WWMAI1Au1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26387,
     "content": "Create a vertical 9:16 anime-style illustration of {argument name=\"character name\" default=\"Hikari\"}, a cheerful young woman in a summer yukata, shown from the waist up in a close perspective on a sunny old-fashioned brick-and-cobblestone street. She has short fluffy {argument name=\"hair color\" default=\"golden blonde\"} bobbed hair with a single long ahoge strand curving upward, soft layered strands, and bright backlit highlights. Place a large flat peach-beige square censor block centered over the entire face, covering the eyes, nose, mouth, and most facial features while leaving the hair, neck, hands, and outfit visible. She wears exactly 2 visible clothing pieces: a pale mint-green yukata with large white flower blossoms and green leaves, and a cream-colored obi sash at the waist. Pose her leaning slightly toward the viewer; her left hand lightly grips the front collar of the yukata near her chest, and her right hand holds exactly 1 transparent blue glass ramune-style soda bottle with a blue cap, visible water, bubbles, condensation, and sparkling highlights. The background is a picturesque European-Japanese festival-like alley with brick buildings, dark wooden window frames, climbing greenery, potted flowers, a wall lantern, rooflines receding into the distance, and a bright blue sky with soft white clouds. Use polished modern anime rendering, crisp linework, soft skin shading, luminous hair, detailed fabric folds, shallow depth of field, warm summer sunlight, vibrant colors, and a romantic cheerful mood. No text, no watermark, no extra characters, and keep the face fully hidden by the plain square block.",
     "title": "Blonde Yukata Girl Holding Ramune",
@@ -10,23 +75,65 @@
     "needReferenceImages": true
   },
   {
-    "id": 26355,
-    "content": "Illustration of \"{argument name=\"subject\" default=\"Me and [○○]\"}\" in a playful and charming pose. Hand-painted look with rich {argument name=\"texture\" default=\"gouache-like texture\"} on paper, featuring natural brushstrokes, simple linework, and a restrained color palette. Bright, uplifting mood; character looking forward or upward, never downward. Minimalist composition with abundant negative space. Loose, analog-style coloring and imperfect handmade texture. The character's face is partially or fully obscured by the object/subject. Soft shading, strong atmosphere, and expressive mood. {argument name=\"background\" default=\"Clean white background\"}, wide margins, no text, 1:1 aspect ratio.",
-    "title": "Playful Gouache Style Illustration",
-    "description": "A detailed prompt for generating hand-painted gouache illustrations with a minimalist composition and a charming, uplifting mood.",
+    "id": 26419,
+    "content": "To Monochrome 3x3 Editorial Comp Card, {argument name=\"subject\" default=\"adult East Asian woman\"} from an uploaded photo",
+    "title": "Editorial Monochrome Comp Card",
+    "description": "A prompt designed to transform an uploaded image into a professional 3x3 monochrome editorial comp card.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782032869845_dndnpu_HLUHQeGbAAApte7.jpg",
-      "https://cms-assets.youmind.com/media/1782032869740_4vor76_HLUHQcObYAAAdOc.jpg"
+      "https://cms-assets.youmind.com/media/1782121943736_qbkgqd_HLUyd34W8AA0JyF.jpg",
+      "https://cms-assets.youmind.com/media/1782121943754_kfarww_HLUyd4XXMAAKA0t.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26455,
+    "content": "Create a highly realistic vertical selfie-style portrait of a {argument name=\"character age\" default=\"young adult\"} East Asian woman cosplaying in a Japanese sailor school uniform, framed from the chest upward as if taken with a phone at arm’s length. She has {argument name=\"hair color\" default=\"dark black-brown\"} slightly messy medium-length hair tied back loosely, with wispy bangs and flyaway strands around the head. Her face is completely hidden by one large centered opaque square privacy censor block, colored warm muted brown, covering the entire facial area from forehead to chin. She wears a crisp white sailor-style blouse with blue plaid trim on the collar and sleeve cuffs, a navy necktie, and a small chest pocket. The setting is a softly lit cozy bedroom with a pale cream wall, a bed on the right, a plush teddy bear in the background, and a softly glowing lamp or vanity area on the left, all background details slightly blurred with shallow depth of field. Use natural indoor lighting, realistic fabric folds, fine hair detail, soft skin tones visible at the neck and arm, casual candid composition, no text, no watermark.",
+    "title": "Realistic Censored Sailor Uniform Selfie",
+    "description": "Generates a photorealistic vertical selfie portrait of a young adult cosplayer in a sailor uniform with a privacy censor block over the face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121961918_kjtmbc_HLUfhLrboAAc2P0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26355,
+    "content": "Illustration of \"{argument name=\"subject\" default=\"Me and [○○]\"}\" in a playful and charming pose. Hand-painted look with rich gouache-like texture on paper, featuring natural brushstrokes, simple linework, and a restrained color palette. Bright, uplifting mood; character looking forward or upward, never downward. Minimalist composition with abundant negative space. Loose, analog-style coloring and imperfect handmade texture. The character's face is partially or fully obscured by the object/subject. Soft shading, strong atmosphere, and expressive mood. Clean white background, wide margins, no text, 1:1 aspect ratio.",
+    "title": "Gouache Style Playful Illustration",
+    "description": "A prompt designed to generate charming illustrations with a hand-painted gouache texture, featuring minimalist compositions and expressive character poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121944182_j977cw_HLUHQeGbAAApte7.jpg",
+      "https://cms-assets.youmind.com/media/1782121944192_ibdw49_HLUHQcObYAAAdOc.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 26352,
-    "content": "A photo collage of a {argument name=\"subject\" default=\"young woman\"} with long, casually tousled {argument name=\"hair color\" default=\"dark brown\"} hair captured in multiple candid moments, each showing a different charming expression. She has a fresh, naturally glowing complexion with soft features and minimal makeup. Individual frames catch different moods: a warm smile with her chin resting on her hand, a playful wink, an adorable {argument name=\"expression\" default=\"pouty kiss face\"}, genuine laughter with eyes closed in golden sunlight, wide-eyed surprise wearing a tiny pink hair clip, and a soft side glance with her hair loosely tied in a messy bun. She wears casual everyday outfits like cozy hoodies and simple tees. The lighting throughout is consistently soft, warm, and natural, giving the whole set an intimate, cheerful, aesthetic selfie feel.",
-    "title": "Candid Selfie Photo Collage",
-    "description": "A prompt for generating a candid photo collage of a young woman with various charming expressions and soft, natural lighting for an intimate selfie aesthetic.",
+    "id": 26438,
+    "content": "{argument name=\"subject\" default=\"Japanese girl with long straight black hair and soft wispy bangs\"}, wearing a {argument name=\"outfit top\" default=\"mint green polo shirt\"} and a {argument name=\"outfit bottom\" default=\"blue plaid skirt\"}, standing casually in front of a convenience store refrigerator filled with colorful drinks. Holding an open book in one hand, relaxed posture, soft natural expression, everyday student vibe. Bright fluorescent store lighting, realistic reflections on the refrigerator doors, visible drink labels, convenience store interior, candid moment during a normal day. Captured with a smartphone camera, handheld iPhone photo, slight softness, natural colors, authentic mobile HDR processing, realistic skin texture, casual social media snapshot, unedited phone-camera look, ordinary convenience store atmosphere, slightly imperfect framing, no professional posing, no studio lighting, no cinematic color grading, photorealistic, high-quality mobile photography, everyday lifestyle aesthetic, spontaneous and natural.",
+    "title": "Japanese Student Convenience Store Snapshot",
+    "description": "A realistic smartphone-style photo prompt of a Japanese student in a convenience store, designed to look like a spontaneous snapshot.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782032868440_af4mvb_HLSvNrobAAAxzEJ.jpg"
+      "https://cms-assets.youmind.com/media/1782121954452_4w57j3_HLTxa8GWAAAPS-S.jpg",
+      "https://cms-assets.youmind.com/media/1782121954469_4p0285_HLTxb_6WwAALazv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26460,
+    "content": "Create a high-detail anime-style vertical portrait of {argument name=\"character name\" default=\"a delicate lace prince boy\"} sitting close to the viewer in a dark moonlit rose garden at night, with a dramatic low-angle composition and shallow depth of field. The character is a slender young man with {argument name=\"hair color\" default=\"short tousled silver-white hair\"}, pale skin, bare shoulders, and a large flat opaque gray square deliberately covering the entire face area from forehead to chin. He wears exactly 4 main outfit pieces: an ornate silver crown tilted on his head, a sparkling white sleeveless tank top, an oversized white lace-textured cardigan slipping off both shoulders, and fitted black pants with silver chain details. Add exactly 3 visible necklaces: a delicate lace choker, a dark silver chain necklace, and a longer chain with a small star pendant. On the raised right hand reaching toward the viewer, show exactly 4 silver rings: one thick thumb band, one thin index-finger ring, one angular middle-finger ring, and one ring-finger band. The pose should feel intimate and princely, with the hand foreshortened toward the camera and the torso leaning forward. The background contains a wrought-iron fence, purple roses, glowing vintage street lamps on the right, a deep blue starry sky, and drifting pale purple flower petals. Use luminous cool blue lighting with warm lantern highlights, glossy fabric sparkles, intricate lace texture, elegant gothic-romantic atmosphere, ultra-detailed digital painting, clean anime linework, soft cinematic bokeh, no text, no watermark.",
+    "title": "Moonlit Lace Prince Portrait",
+    "description": "Generates a gothic-romantic anime portrait of a silver-haired lace prince in a moonlit rose garden, useful for character art or social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121964350_1msj9r_HLTIJ_fb0AA2fwn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26352,
+    "content": "A photo collage of a young woman with long, casually tousled {argument name=\"hair color\" default=\"dark brown hair\"} captured in multiple candid moments, each showing a different charming expression. She has a fresh, naturally glowing complexion with soft features and minimal makeup. Individual frames catch different moods: a warm smile with her chin resting on her hand, a playful wink, an adorable pouty kiss face, genuine laughter with eyes closed in golden sunlight, wide-eyed surprise wearing a tiny {argument name=\"hair accessory\" default=\"pink hair clip\"}, and a soft side glance with her hair loosely tied in a messy bun. She wears casual everyday outfits like {argument name=\"outfits\" default=\"cozy hoodies and simple tees\"}. The lighting throughout is consistently soft, warm, and natural, giving the whole set an intimate, cheerful, aesthetic selfie feel.",
+    "title": "Candid Aesthetic Selfie Collage",
+    "description": "A detailed prompt for generating a photo collage of a young woman in various candid, natural poses with a warm and intimate aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121946541_30di07_HLSvNrobAAAxzEJ.jpg"
     ],
     "needReferenceImages": false
   },
@@ -119,11 +226,11 @@
   },
   {
     "id": 26347,
-    "content": "Crop the head from the portrait and create a 2-inch ID photo. Requirements: 1. {argument name=\"background color\" default=\"blue background\"} 2. {argument name=\"attire\" default=\"professional business wear\"} 3. Frontal view 4. Smiling",
-    "title": "Professional ID Photo Generation",
-    "description": "A prompt for creating professional 2-inch ID photos from a portrait, including customization for background color and attire while maintaining a natural expression.",
+    "content": "Crop the person's head from the image and turn it into a 2-inch ID photo. Requirements:\n1. {argument name=\"background color\" default=\"blue background\"}\n2. {argument name=\"clothing\" default=\"professional business attire\"}\n3. Front-facing view\n4. Smiling",
+    "title": "Professional ID Photo Generator",
+    "description": "Quickly converts a personal photo into a professional 2-inch ID portrait with customizable backgrounds and formal attire.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782032865783_30ye3j_HLQsA2-b0AAz0Rg.jpg"
+      "https://cms-assets.youmind.com/media/1782121956088_068qbx_HLQsA2-b0AAz0Rg.jpg"
     ],
     "needReferenceImages": true
   },

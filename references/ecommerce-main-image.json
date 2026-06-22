@@ -1,5 +1,38 @@
 [
   {
+    "id": 26425,
+    "content": "Cinematic food photography of freshly {argument name=\"food item\" default=\"steamed momos (dumplings)\"} stacked on a {argument name=\"surface\" default=\"rustic weathered wooden board\"}. The dumplings have glossy dough with intricate handmade pleats and a subtle oil sheen, with thick dramatic steam rising. Split scene showing a deconstructed view: floating dumpling wrappers, balls of spiced minced filling, and scattered fresh herbs suspended in air.\n\nFrozen-in-time effect with flour particles mid-air, motion-frozen spices, and a dramatic slow-motion splash. Wispy swirling steam and falling herb leaves add atmosphere.\n\n{argument name=\"setting\" default=\"Dark moody rustic kitchen setting\"}. Weathered wooden cutting board with visible wood grains and cracks.\n\nCinematic studio lighting with warm inviting tones, high contrast and deep shadows for a professional editorial look. Macro photography, 8K resolution, hyper-detailed textures, shallow depth of field with blurred background and crisp sharp focus on the ingredients.",
+    "title": "Cinematic Steamed Momo Photography",
+    "description": "A highly detailed cinematic food photography prompt featuring steamed momos with macro details and dramatic studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121948182_a59rcu_HLaCM0_aAAIaZb6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26437,
+    "content": "A top-down flat lay photograph of {argument name=\"profession\" default=\"[PROFESSION]\"} gear, Knolling style::5  The Arrangement: The physical tools, gear, and accessories are meticulously arranged on a {argument name=\"background\" default=\"beige background\"} to perfectly form the solid silhouette of a {argument name=\"shape\" default=\"[SHAPE]\"}::5  The Inventory: AI_INFER(Highly realistic, tactile tools, fabrics, and objects specific to the daily life of a [PROFESSION]), cohesive color grading::4  Typography: Clean, elegant text in the bottom left corner labeling the profession::3  Lighting: Studio overhead softbox, zero perspective distortion, 8k resolution, commercial product photography::3  Messy, overlapping objects, 3d perspective, room background, hands::-3",
+    "title": "Profession Inventory Flat Lay Silhouette",
+    "description": "A knolling-style flat lay prompt that arranges professional tools on a beige background to form a specific silhouette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121953853_jewpbt_HLJTGc8XgAALtIl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26436,
+    "content": "A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a {argument name=\"face features\" default=\"realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak\"}. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a {argument name=\"outfit\" default=\"soccer jersey with the number 10\"}, matching shorts, and {argument name=\"theme\" default=\"national-team-inspired colors\"}. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.",
+    "title": "LEGO-Style Minifigure Collectible",
+    "description": "Generates a realistic collectible toy figure featuring a lifelike face on a LEGO-style plastic body wearing a custom soccer jersey.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782121953170_gklig1_HLWPIZ8aQAAPkF2.jpg",
+      "https://cms-assets.youmind.com/media/1782121953161_r4hqd9_HLWPIZ3aIAIFSKi.jpg",
+      "https://cms-assets.youmind.com/media/1782121953170_lik0ir_HLWPIaLaMAA7IvC.jpg",
+      "https://cms-assets.youmind.com/media/1782121953725_xldfgl_HLWPIZ8awAAw_Gr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 26393,
     "content": "Create a realistic square commercial product-photo scene showing a custom 1/7 scale figurine of {argument name=\"character name\" default=\"a young woman in a black embroidered traditional dress\"} displayed on a white computer desk in a bright collector's studio. The life-size real person stands to the right of the desk, matching the figurine exactly: long dark brown hair in a thick side braid, black ankle-length dress with sheer sleeves, gold embroidered trim, black leggings, black shoes, and dangling earrings; her face is softly privacy-blurred. She holds a thin paintbrush in one hand and a small tool or stylus in the other, posed as if touching up the figurine. The figurine stands centered on a round transparent acrylic base, wearing the same outfit and hairstyle, with a softly blurred face, realistic PVC collectible finish, fine fabric texture, and detailed gold trim. On the desk to the left is a retail figure box with a large front window and printed full-body artwork of the same character, styled like a commercial toy package with small logo blocks and the product name {argument name=\"box product name\" default=\"BASHEEQA DOLL\"}. Behind the figurine is a desktop monitor showing digital character-art software with a full-body reference of the same woman. Include exactly 2 desk art/office objects besides the box, monitor, keyboard, and figurine: a mesh pencil cup filled with pencils and brushes, and a framed illustration leaning near the monitor. The room has white walls, white floating shelves, and a clean pastel collector aesthetic. Count and include exactly 18 visible shelf collectibles/art pieces: on the upper left shelf, 2 tall fashion dolls in pink dresses and 6 small chibi/anime figures; on the upper right wall/shelf area, 2 framed anime-girl prints and 3 small dolls in pastel dresses; on the middle right shelf, 2 small pastel dolls; on the lower right shelf, 2 small dolls with oversized heads; on the bottom right, 1 framed princess-style illustration. Use soft daylight, shallow depth of field, realistic camera perspective, crisp product details, subtle bokeh on background toys, and no extra text beyond the toy-box branding.",
     "title": "Custom Figurine on Creator Desk",
