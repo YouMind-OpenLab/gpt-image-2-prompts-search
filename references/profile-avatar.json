@@ -1,13 +1,132 @@
 [
   {
-    "id": 26550,
-    "content": "Create a vertical photorealistic morning lifestyle portrait of an adult {argument name=\"character ethnicity\" default=\"Japanese\"} woman sitting on a bed in a bright bedroom, framed from the upper torso to the top of the head. She has {argument name=\"hair color\" default=\"medium chestnut brown\"} shoulder-length slightly messy wavy hair, and is wearing a simple {argument name=\"top color\" default=\"white\"} ribbed tank top. Pose her stretching sleepily with both arms raised and bent across her face: the left forearm crosses horizontally in front of her eyes, the right arm is lifted to the side with the hand near her hair, fingers relaxed and natural. Her face is intentionally hidden by a centered opaque square censor block in a warm brown skin-tone gradient, covering the facial features while leaving hair, arms, neck, and clothing visible. The setting is a soft sunlit bedroom with white bedding in the lower foreground, a bright overexposed window on the upper left, pale curtains on the right, and warm natural backlighting that creates gentle highlights in the hair. Use a realistic camera look with shallow depth of field, soft skin texture, natural proportions, cozy morning atmosphere, clean composition, no text, no watermark, and no extra people.",
-    "title": "Morning Stretch Bedroom Portrait",
-    "description": "A photorealistic vertical portrait prompt for creating a cozy sunlit bedroom scene of an adult woman stretching with her face obscured.",
+    "id": 26590,
+    "content": "Create a square 1:1 profile picture using the {argument name=\"reference\" default=\"uploaded image\"} as the exact reference for the pose, composition, and {argument name=\"art style\" default=\"pixel art style\"}. Recreate the subject as detailed retro pixel art, with large visible pixels, defined stair-stepped edges, strong dark outlines, dramatic pixelated shading, vibrant colors, and a crisp 16-bit/32-bit arcade sprite look. Use only a flat solid {argument name=\"background\" default=\"Pantone 354C green\"} background (#00B140). No gradients, textures, text, logos, extra objects, or photorealism. Keep the raised glove, facial features, framing, and overall style exactly the same as the reference.",
+    "title": "Retro Pixel Art Profile Picture",
+    "description": "Transforms a reference photo into a high-quality 16-bit or 32-bit retro pixel art sprite with a solid green background.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782205419089_3be6ro_HLaxLTEa4AAJcPh.jpg"
+      "https://cms-assets.youmind.com/media/1782291877517_0sh2b0_HLkFQmwXQAAJblo.jpg",
+      "https://cms-assets.youmind.com/media/1782291877386_m1av8b_HLkFQp6XYAAPM8c.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 26586,
+    "content": "Transform the uploaded selfie into a cute monochrome {argument name=\"style\" default=\"kawaii doodle illustration\"} while preserving the exact pose, facial expression, glasses, hijab, clothing details, and camera angle. Convert the person into a {argument name=\"character type\" default=\"chibi-style character\"} with a large expressive head, tiny body, rounded facial features, soft blush cheeks, oversized sparkling eyes behind glasses, and adorable puckered lips. Clean black ink sketch lines on a {argument name=\"background color\" default=\"soft pastel pink background\"}, minimal color palette, hand-drawn manga doodle aesthetic, playful hearts, sparkles, stars, and tiny decorative elements floating around the character. Simple line-art shading, cozy and charming atmosphere, social-media sticker style, notebook sketchbook illustration, cute anime-inspired proportions, whimsical and trendy Pinterest aesthetic. Preserve accessories such as smartwatch, striped shirt, and hijab folds with simplified cartoon details. High-detail linework, smooth outlines, adorable expression, modern kawaii portrait illustration, minimalistic background, clean composition, cute doodle character design.\n\nStyle keywords:\nkawaii doodle art, monochrome sketch illustration, chibi portrait, manga line art, cute pastel pink background, hand-drawn ink drawing, Pinterest aesthetic, adorable sticker art, whimsical cartoon style, anime-inspired doodle, minimal color palette, soft blush details.",
+    "title": "Kawaii Monochrome Doodle Transformation",
+    "description": "Transforms a standard photo into a cute, chibi-style monochrome doodle illustration with a soft aesthetic and playful elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291875101_tvzlf3_HLgwSpSaEAACU5w.jpg",
+      "https://cms-assets.youmind.com/media/1782291875089_0gowcr_HLgwTAZaEAEE6DZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26599,
+    "content": "Ultra-realistic iPhone photograph taken by the {argument name=\"setting\" default=\"seaside during sunset\"}. A {argument name=\"subject\" default=\"handsome Korean young man\"} is sitting naturally on a large coastal rock, captured from slightly to the side in a waist-up composition. His soft dark hair reaches his ears and gently blows in the ocean breeze, with a few strands falling across his face. He has smooth light warm-toned skin, delicate Korean facial features, straight brows, soft lips, and a calm, peaceful expression with a subtle smile. He is wearing a {argument name=\"clothing\" default=\"relaxed white linen button-up shirt\"} with a few top buttons undone, loose light gray-blue wide-leg trousers, and gray Nike Dunk sneakers. His physique is lean and athletic with broad shoulders and a slim waist. Around his neck is a delicate silver necklace with the letter \"N\" surrounded by small diamonds. The background features a calm gray-blue sea and a glowing golden sunset reflecting softly on the water. He is looking slightly toward the camera instead of directly at it, creating a candid atmosphere. His face is perfectly visible and sharply focused. Natural skin texture, realistic details, soft cinematic lighting, gentle wind movement, authentic iPhone photography aesthetic, ultra-photorealistic, high detail, serene mood, shallow depth of field, editorial lifestyle photography.",
+    "title": "Seaside Sunset Portrait",
+    "description": "An ultra-realistic iPhone-style photography prompt for a candid male portrait by the seaside at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291881038_nyu28y_HLgYwGMa0AIoWNh.jpg",
+      "https://cms-assets.youmind.com/media/1782291881053_2d2qc3_HLgYwHDakAAcMhO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26594,
+    "content": "Melancholic cinematic portrait. Young woman, fair skin, light makeup, warm natural lip color, {argument name=\"hair type\" default=\"fluffy deep brown hair\"}, calm confident expression. {argument name=\"top color\" default=\"Wine-red\"} top. Dark minimalist background fading to black. {argument name=\"lighting\" default=\"Soft diffused front lighting\"}, gentle shadows, subtle film grain, organic color grading, shallow depth of field, high-end editing texture. Preserve reference subject's facial features exactly.",
+    "title": "Melancholic Cinematic Portrait",
+    "description": "A moody and artistic portrait of a woman with warm natural lighting and subtle film grain, capturing a calm and confident expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291879272_xzp147_HLgMMb0bIAA5sxe.jpg",
+      "https://cms-assets.youmind.com/media/1782291879280_de4c09_HLgMMb1aYAAAzHf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26606,
+    "content": "{argument name=\"subject\" default=\"Young Japanese woman\"} on a casual hiking trip, standing on a {argument name=\"setting\" default=\"rugged forest trail\"} surrounded by trees, fallen leaves, and natural woodland scenery. Wearing an {argument name=\"outfit\" default=\"oversized black outdoor jacket, loose light-gray hiking pants, white sneakers, and a black backpack\"}, holding a phone and sunglasses in one hand. Hair loosely tied back with soft face-framing strands, relaxed expression, candid travel moment. Captured as a quick smartphone photo by a friend during a walk, natural overcast daylight, handheld Android camera shot, slight motion softness, realistic colors, no professional posing, authentic travel snapshot, everyday outdoor adventure vibe, natural skin texture, unfiltered mobile photography, uneven trail details, realistic shadows, casual social-media post aesthetic, spontaneous and genuine, photorealistic, high-quality phone camera image, no cinematic grading, no studio lighting, no DSLR bokeh, just a real mobile photo taken during a hike.",
+    "title": "Authentic Mobile Travel Snapshot",
+    "description": "Generates a realistic, unpolished smartphone photo of a Japanese woman hiking, capturing a candid social media aesthetic without studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291884453_1qv1aa_HLgAqYJWwAEBET3.jpg",
+      "https://cms-assets.youmind.com/media/1782291884445_jjr76a_HLgArn6W8AAyuJ5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26603,
+    "content": "{argument name=\"vibe\" default=\"feeling of a battle-hardened veteran\"}, {argument name=\"character\" default=\"good middle-aged man vibe\"}, {argument name=\"slogan\" default=\"Be a heretic\"}",
+    "title": "Battle-Hardened Veteran Portrait",
+    "description": "An illustration prompt focused on creating a grizzled, experienced middle-aged man with a non-conformist vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291883266_pwvkrr_HLff7wNaUAAPbde.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26618,
+    "content": "Using the attached photo as facial reference, recreate the likeness in the following style\n\n{argument name=\"style\" default=\"Geometric low-poly portrait illustration\"}, faceted polygon artistic style, bust portrait of a {argument name=\"subject\" default=\"male athlete\"}",
+    "title": "Low-Poly Geometric Male Portrait",
+    "description": "A style-transfer prompt that transforms a reference photo into a geometric low-poly illustration, maintaining facial likeness while applying a faceted polygon artistic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291892179_ph6l5h_HLfivjOXYAATSTv.jpg",
+      "https://cms-assets.youmind.com/media/1782291892166_t6kh5k_HLfivjWW4AAK2pH.jpg",
+      "https://cms-assets.youmind.com/media/1782291892123_b46y8w_HLfivjHWcAA5cF3.jpg",
+      "https://cms-assets.youmind.com/media/1782291892830_qqbgau_HLfivjdWIAASazZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26578,
+    "content": "Ultra-realistic cinematic portrait of a {argument name=\"subject\" default=\"handsome young man with thick wavy dark hair\"}, defined jawline, light stubble beard, warm brown eyes, and natural skin texture. He is wearing a {argument name=\"clothing\" default=\"black hoodie over a black t-shirt\"}, standing on a {argument name=\"location\" default=\"luxury seaside terrace\"} during golden hour sunset. Soft warm sunlight illuminates his face, creating natural highlights and subtle shadows. Background features elegant architecture, blurred coastline, distant mountains, warm decorative lights, and creamy bokeh. Direct eye contact with the camera, calm confident expression, shallow depth of field, 85mm lens, f/1.8 aperture, photorealistic skin details, cinematic color grading, warm amber tones, ultra-sharp focus on face, professional fashion photography, HDR, 8K resolution, premium lifestyle editorial style, natural lighting, realistic textures, high detail.\n\nNegative prompt:\nblurry, low resolution, overprocessed skin, cartoon, CGI, extra fingers, distorted face, exaggerated features, harsh shadows, oversaturated colors, noise, watermark, text, logo, duplicate features, unrealistic eyes, bad anatomy.",
+    "title": "Golden Hour Seaside Portrait",
+    "description": "An ultra-realistic portrait of a young man on a luxury terrace during sunset with cinematic lighting and mountains in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291871155_8b3jzq_HLe9Uc4bMAAwTHw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26608,
+    "content": "Startup Founder Editorial Portrait. {argument name=\"subject\" default=\"an adult East Asian male startup founder\"} with clear composition and editorial lighting.",
+    "title": "Founder Editorial Portrait",
+    "description": "An editorial portrait prompt for a startup founder, focused on professional composition and clear subject variables.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291885228_lzm7op_HLe4NerWIAAI2cu.jpg",
+      "https://cms-assets.youmind.com/media/1782291885515_vlxh6v_HLe4NhiXYAEu6qD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26574,
+    "content": "Ultra-realistic studio fashion portrait of a {argument name=\"subject\" default=\"confident young woman\"} (Face given in Refrence Image) , centered composition, looking directly into the camera with a calm and subtle expression. She has {argument name=\"hairstyle\" default=\"medium-long layered dark brown hair\"} with soft volume and slightly windswept strands crossing her face, natural glowing skin, defined brows, warm brown eyes, light makeup, glossy natural lips, and small silver hoop earrings. She wears a {argument name=\"outfit\" default=\"tailored black blazer over a crisp white dress shirt with a loosely tied red-and-black striped necktie\"}. Solid {argument name=\"background color\" default=\"deep red\"} seamless background, creating a bold editorial contrast. Soft beauty lighting with a large octabox positioned slightly above eye level, gentle fill light, smooth skin texture, catchlights in the eyes, high dynamic range, razor-sharp facial details. Luxury magazine cover aesthetic, Korean fashion editorial style, premium beauty campaign photography, shallow depth of field, 85mm lens, f/2.0, ISO 100, ultra-detailed hair strands, cinematic color grading, natural skin tones, professional retouching, photorealistic, 8K resolution, symmetrical framing, chest-up portrait, minimalistic composition.\n\nNegative Prompt:\nlow quality, blurry, overexposed, oversaturated, cartoon, anime, illustration, CGI, distorted face, asymmetrical eyes, extra fingers, bad anatomy, heavy makeup, harsh shadows, messy background, watermark, text, logo, cropped head, duplicate features, unrealistic skin, plastic skin, noise, motion blur.",
+    "title": "Studio Fashion Portrait Red Background",
+    "description": "A professional fashion portrait prompt featuring a woman in a black blazer and necktie against a bold red background, styled like a luxury magazine cover.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291868870_boiqid_HLeHXUCbQAAEmgI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26576,
+    "content": "A photorealistic, ultra-close selfie-style portrait of a {argument name=\"subject\" default=\"young woman\"} occupying nearly the entire frame, creating a cozy and personal atmosphere. She gently leans her head sideways, resting her face against her shoulder while part of her mouth and cheek disappear into the {argument name=\"clothing\" default=\"oversized sleeve of a soft ivory zip-up hoodie\"}. One side of the hoodie casually slips off her shoulder, adding a relaxed, effortless look. Her long, silky dark hair falls naturally across her face, with wispy curtain bangs and loose strands concealing one eye. The visible eye stares directly into the camera with a calm, slightly pouty expression. Makeup is subtle and polished, featuring brushed-up brows, elongated black cat-eye eyeliner, delicate lashes, and muted rose-pink matte lips. The image feels like an authentic webcam or front-camera snapshot taken from very close range with a slight angle rather than perfectly centered. Fine details such as skin texture, individual hair strands, eyelashes, and the thick knit texture of the hoodie sleeve remain crisp, while the background softly melts into blur. The setting is minimal, showing only a {argument name=\"background\" default=\"plain warm taupe-beige wall\"} without decorations. Soft warm indoor light mixed with subtle screen glow illuminates the face from the front-left, creating gentle highlights and natural shadows. The overall color grading is understated and cozy, dominated by cream, charcoal black, beige, and muted pink tones, preserving the spontaneous and realistic feeling of a genuine casual selfie.",
+    "title": "Cozy Close-up Selfie Portrait",
+    "description": "A photorealistic prompt for a close-up selfie-style portrait of a woman in an oversized hoodie with cozy lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291870213_u207c1_HLd9hmZakAAJ0aK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26609,
+    "content": "A cute anime-inspired young woman with {argument name=\"hair style\" default=\"shoulder-length blonde hair\"}, soft side-swept bangs, round eyeglasses, and a {argument name=\"expression\" default=\"gentle smile\"}. She is posing thoughtfully with one finger resting on her chin, wearing a {argument name=\"outfit\" default=\"light blue oversized shirt over a white top and a white pleated skirt\"}. The character stands in the center as the main focus. Behind her is a creative black-and-white doodle collage featuring multiple sketch-style portraits of herself in different frames and poses. Hand-drawn hearts, stars, arrows, sparkles, swirls, and cute comic elements surround the sketches. Playful handwritten words like \"WOW!\", \"LOVE IT!\", \"SO CUTE!\", and \"OMG!\" appear throughout the background. Clean white backdrop, manga sketch aesthetic, mixed with detailed anime illustration, soft lighting, adorable expression, trendy social media sticker style, highly detailed, ultra cute, charming, youthful, whimsical composition, masterpiece quality.",
+    "title": "Anime Character with Doodle Collage",
+    "description": "A detailed prompt for creating a stylized anime illustration of a young woman set against a playful, hand-drawn black-and-white doodle collage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291886266_q1viyn_HLd4MbWaQAEk4DR.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 26512,
@@ -51,11 +170,11 @@
   },
   {
     "id": 26491,
-    "content": "Ultra-cinematic dramatic red silhouette portrait of a {argument name=\"subject\" default=\"young man\"} in side profile, captured from the shoulders up, standing in a contemplative pose. The man has messy textured hair and a short rugged beard, (keep face and hair style 100% same as in uploaded image) wearing a casual {argument name=\"clothing\" default=\"dark hoodie\"} with soft fabric folds and realistic cloth texture. His eyes are closed and his fingers gently touch his temple, suggesting deep thought, emotional tension, or inner conflict.",
-    "title": "Cinematic Red Silhouette Portrait",
-    "description": "Generates a dramatic red silhouette portrait of a man with textured hair and a rugged beard, focusing on emotional tension.",
+    "content": "Ultra-cinematic dramatic {argument name=\"color theme\" default=\"red\"} silhouette portrait of a {argument name=\"subject\" default=\"young man\"} in side profile, captured from the shoulders up, standing in a contemplative pose. The man has {argument name=\"hair style\" default=\"messy textured hair\"} and a short rugged beard, (keep face and hair style 100% same as in uploaded image) wearing a casual dark hoodie with soft fabric folds and realistic cloth texture. His eyes are closed and his fingers gently touch his temple, suggesting deep thought, emotional tension, or inner conflict.",
+    "title": "Cinematic Silhouette Character Portrait",
+    "description": "A cinematic prompt designed to create dramatic silhouette portraits that capture emotional tension and inner conflict, focusing on texture and lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782205393925_ibt9lk_HLbMpLcaoAAfqG8.jpg"
+      "https://cms-assets.youmind.com/media/1782291888022_c6btpj_HLbMpLcaoAAfqG8.jpg"
     ],
     "needReferenceImages": true
   },
@@ -352,18 +471,6 @@
     "needReferenceImages": true
   },
   {
-    "id": 26333,
-    "content": "Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable {argument name=\"companion\" default=\"animal companion\"}, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature, cozy scenic background with {argument name=\"scenic background\" default=\"seaside boardwalk, lakeside village, mountain town or whimsical nature landscape\"}, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.",
-    "title": "Minimalist Japanese Stationery Illustrations",
-    "description": "A detailed prompt for creating kawaii character and animal companion illustrations in a clean, pastel Japanese stationery style, perfect for stickers or children's books.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782205407876_3esji8_HLRCu0fbEAAR7XB.jpg",
-      "https://cms-assets.youmind.com/media/1782205408310_evqr9d_HLRCu4hboAACong.jpg",
-      "https://cms-assets.youmind.com/media/1782205408013_cxsxha_HLRCvToa0AA_YGu.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 26365,
     "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity, face shape, hairstyle, hair texture, beard style, skin tone, eye shape, eyebrows, nose, lips, and all unique facial details with maximum accuracy. Do not change my face or make me look like a different person.\n\nCreate a hyper-realistic cinematic 4-panel vertical collage portrait of the same person in different luxury travel lifestyle scenes. Maintain the same face identity in all four panels.\n\nPanel 1 (top left):\nA man standing casually in front of a {argument name=\"vehicle\" default=\"black off-road SUV\"} on a {argument name=\"weather\" default=\"rainy mountain road\"}. Misty pine forest in the background, cloudy dramatic sky, wet asphalt reflections. Wearing a black denim jacket over a white t-shirt, light blue jeans, and white sneakers. Confident relaxed pose, cinematic moody lighting.\n\nPanel 2 (top right):\nThe same man sitting on a wooden balcony of a mountain resort cabin during evening. Warm fairy lights hanging above, lantern on the table, green mountains in the background. Wearing a {argument name=\"outfit\" default=\"dark green casual shirt\"}, beige pants, sunglasses, relaxed luxury vacation vibe.\n\nPanel 3 (bottom left):\nThe same man sitting on large rocks beside a flowing river in a forest. Natural outdoor setting, soft overcast lighting. Wearing an off-white linen shirt with sleeves rolled up, black pants, white sneakers. Thoughtful cinematic pose.\n\nPanel 4 (bottom right):\nThe same man standing on a seaside wooden deck during golden sunset. Ocean waves, palm trees, warm sunset glow. Wearing a black open shirt and beige pants, looking down with a calm stylish expression.\n\nStyle: ultra-realistic photography, DSLR quality, cinematic color grading, luxury travel aesthetic, natural skin texture, realistic lighting, high detail, 8K, professional portrait photography. Ensure the face remains identical in every panel.",
     "title": "Multi-Scene Identity Preservation Collage",
@@ -573,16 +680,6 @@
     "description": "Generates a realistic full-body Pakistani husband-and-wife style portrait in black formal attire inside an elegant wedding ballroom.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1781945786169_6q0c7z_HLMIuxLaQAADF55.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 26265,
-    "content": "Create a vertical 2:3 cinematic anime illustration of an elegant androgynous young adult in a traditional Japanese kimono, shown from the chest up in a dramatic close portrait. The character has {argument name=\"hair color\" default=\"long pale platinum-blond hair\"} tied loosely into a low ponytail with soft strands glowing around the head, lit by a strong warm golden backlight like sunset or lantern light. Their face is intentionally obscured by a centered plain opaque rectangle in muted brown, covering the facial features from forehead to chin while leaving hair, ears, neck, and clothing visible. They wear a deep purple inner kimono with a translucent lavender outer robe decorated with subtle gold floral embroidery, flowing sleeves, and layered fabric folds. One hand is raised beside the face holding an open folding fan painted with cream peonies, dark green leaves, and black ribs; the fan partly overlaps the right side of the portrait. Add exactly 7 visible drifting pale flower petals around the character: 2 near the upper left, 1 near the upper right, 2 around the left shoulder and hair, 1 near the lower center sleeve, and 1 at the far left midsection. The background is dark, soft, and atmospheric, suggesting blurred temple ropes or ceremonial hanging ornaments, with floating dust motes and warm rim light. Use high-detail anime rendering, painterly linework, rich shadows, amber highlights, delicate fabric texture, luminous hair strands, and a moody romantic historical-Japanese atmosphere. No text, no watermark, no extra characters.",
-    "title": "Golden Kimono Fan Portrait",
-    "description": "A cinematic anime portrait of a kimono-clad figure with glowing hair, floral fan, drifting petals, and a deliberately obscured face.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1781945774211_q61std_HLMDWZsbMAAEUti.jpg"
     ],
     "needReferenceImages": true
   },

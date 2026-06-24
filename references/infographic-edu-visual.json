@@ -41,6 +41,26 @@
     "needReferenceImages": true
   },
   {
+    "id": 26617,
+    "content": "Create a crisp, clean infographic storyboard poster for {argument name=\"title\" default=\"THE DONUT MAKER\"}. Wide 16:9 layout, white background, black borders, bold black typography, {argument name=\"style\" default=\"premium Pixar 3D stylized rendering\"}, bright vivid colors — golden fried dough, rich chocolate",
+    "title": "Pixar Style Infographic Storyboard",
+    "description": "A high-quality prompt for a 3D Pixar-styled infographic storyboard with vivid colors and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291892774_0wlsc4_HLg1vC1WYAAAl1T.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26629,
+    "content": "Using the provided reference image, transform it into a clean doodle / flat illustration. Preserve the original composition, camera angle, room layout, subject positions, indoor-outdoor framing, and overall scene exactly: the view from inside the living room through the large glass doors toward the patio dining table.\n\nStyle: Convert the photograph into a polished flat vector-like cartoon illustration with simple shapes, clean black outlines, medium-weight linework, flat colors, and zero realistic shading or gradients. Simplify textures and details while keeping all major objects recognizable.\n\nPeople and layout: Keep exactly 6 people seated or standing around the outdoor table in the same relative positions as the reference: 1 older man at the left, 1 standing adult behind the table, 1 elderly person near the center, 1 child near center-right, 1 child to the right, and 1 adult woman at the far right. Keep the table, chairs, food, cups, patio plants, glass doors, curtains, sofa with pillows, rug, and lounge chair in their original locations.\n\nColor treatment: Use warm, friendly flat colors inspired by the photo: beige curtains, cream sofa, red accent pillow, striped rug, black window frames, brown patio furniture, gray patio floor, yellow garden wall, and bright green plants and trees.\n\nConstraints: No photorealism, no painterly brushwork, no shadows, no hatching, no extra people, no text, no watermark. The final image should look like a clean editorial flat illustration made from the reference photo.",
+    "title": "Flat Doodle Photo Transformation",
+    "description": "Transforms a family patio photograph into a clean flat doodle illustration while preserving the original composition and subject placement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782291897917_cumf1t_HLfXzFVbEAA9OUF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26510,
     "content": "innovation_ripple_effect_for_{argument name=\"invention\" default=\"[historical_invention]\"} = ( mechanical_anatomy_exploded_view_of_{argument name=\"invention\" default=\"[historical_invention]\"} * 1.8 ) + ( information_velocity_graph_years_to_spread_idea_pre_vs_post_invention * 2.0 ) + ( cognitive_load_shift_diagram_how_society_processed_information_differently * 1.6 ) + ( economic_disruption_matrix_guilds_vs_industry_labor_shift * 1.4 ) + ( material_supply_chain_sourcing_map_for_the_invention * 1.3 ) - ( dusty_museum_artifact_photos / 3.0 ) - ( inventor_as_lone_genius_trope / 3.8 ) - ( boring_patent_office_drawings / 3.5 )",
     "title": "Historical Invention Visualization Formula",
