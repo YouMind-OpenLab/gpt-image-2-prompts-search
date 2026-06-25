@@ -10,12 +10,70 @@
     "needReferenceImages": true
   },
   {
-    "id": 26636,
-    "content": "Create a tall vertical {argument name=\"aspect ratio\" default=\"9:16\"} cinematic concept-art scene of a bright futuristic city boulevard in {argument name=\"season and weather\" default=\"clear daytime with light snow or sparkling particles drifting through the air\"}. The view is from street level looking upward between dense glass-and-steel skyscrapers, with blue reflective towers, rounded balcony structures, skybridges, elevated terraces, and lush greenery integrated into the buildings. Show exactly 7 prominent pedestrians from behind in the lower foreground walking into the city, with a larger soft-focus crowd behind them. Include exactly 2 visible flying vehicles: one small aircraft in the upper-left sky and one rounded saucer-like vehicle hovering on the left side above the street. Use a vibrant optimistic sci-fi style, painterly digital art with realistic lighting, cool blue architecture, warm golden window lights, glossy reflections, bokeh highlights, strong vertical perspective, and a sense of scale and wonder. Make the city feel like {argument name=\"city mood\" default=\"a clean utopian megacity\"}, with no readable text, no logos, no watermark, and no dystopian grime.",
-    "title": "Futuristic Utopian City Boulevard",
-    "description": "A vertical cinematic sci-fi cityscape prompt for creating a bright glass megacity with pedestrians, flying vehicles, greenery, and sparkling atmospheric detail.",
+    "id": 26673,
+    "content": "Cinematic 9:16 five-panel sequence featuring the same young man from the reference image exploring {argument name=\"location\" default=\"Icelandic highlands\"}. Curly dark hair and beard, wearing a {argument name=\"outfit\" default=\"rust-orange wool coat over a mustard hoodie\"}. Panels include: contemplative side-profile close-up, standing on a dramatic green cliff, tiny lone figure crossing vast moss-covered plains, aerial view of volcanic landscapes and winding roads, and a front-facing portrait on a dark gravel path. Arthouse film stills, 35mm film grain,photorealistic, {argument name=\"lighting\" default=\"moody overcast skies\"}, warm orange tones contrasting cool greens and blues, lonely introspective atmosphere, award-winning cinematography",
+    "title": "Icelandic Highland Cinematography",
+    "description": "A multi-panel sequence prompt depicting a journey through the Icelandic highlands with cinematic lighting and film grain.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782291901276_4u4xfq_HGgZ0duW4AAMWBq.jpg"
+      "https://cms-assets.youmind.com/media/1782377894809_rc4tbv_HLk8UBWa0AAn58A.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26701,
+    "content": "Goal: Create a 4:5 vertical image titled {argument name=\"artwork concept\" default=\"Paper Becomes Real · Ancient-Style Costume Draft\"}, showing an elegant ancient Chinese clothing design sketch awakening into reality on paper.\n\nCanvas and camera: Overhead view with a slight diagonal perspective, warm natural studio lighting, photorealistic details mixed with pencil fashion-sketch illustration. A large off-white garment-design sheet is clipped to a wooden drawing board on a warm brown wooden worktable.\n\nMain subject: One adult Chinese ancient-style beauty lies diagonally across the design paper as if emerging from the drawing. Her upper body is realistic and three-dimensional, while the lower skirt gradually transitions into pale watercolor fabric and pencil sketch lines. Her face is intentionally covered by a soft square mosaic blur. She has long black hair styled half-up with delicate silver floral hairpins, pearl tassels, and a small pale green ornament. Outfit: {argument name=\"costume palette\" default=\"moon-white sheer gauze with pale mist-blue layers\"}; translucent Hanfu-style robe, soft white inner wrap, pale blue embroidered collar and sash, layered gauze sleeves, flowing ribbon belt, pearl tassel accessory at the waist, and a long skirt fading into sketchy lines near the hem.\n\nLayout and visible design labels: Include exactly 5 handwritten annotation groups on the paper: 1) top right title “LOOK 01” underlined; 2) near the head, “hair ornament” with Chinese-style notes and a small floral hairpin sketch; 3) left side, “sleeve volume” with a sleeve silhouette sketch; 4) right side, “ribbon flow” with arrows and ribbon movement lines; 5) lower left, “skirt movement” with arrows and skirt-flow sketch lines. Use neat pencil handwriting with small bilingual-looking notes, but keep the English labels readable.\n\nSurrounding objects: Place exactly 7 studio props around the board: 1) a pale ceramic teacup at the upper left; 2) small paper color swatches at the left edge; 3) a pale jade pendant with tassel near the lower left; 4) two fabric swatches in white and mist blue at the bottom left; 5) a calligraphy paperweight or carved wooden block with a vertical calligraphy strip at the upper right; 6) two drawing pens on the right side; 7) one artist hand entering from the lower right holding a pencil and actively sketching the skirt hem.\n\nVisual style: High-end ancient Chinese fashion portrait plus costume design manuscript, delicate fabric transparency, realistic skin and hands, graphite pencil construction lines, pale blue-gray watercolor washes, soft shadows, tactile paper texture, cinematic but quiet atelier atmosphere. Emphasize the illusion that a 2D/3D costume sketch is breaking through the page into real life.\n\nConstraints: No extra characters, no modern clothing on the main subject, no clutter beyond the listed props, preserve the 4:5 vertical composition, keep the annotations subtle and hand-drawn, avoid logos or watermarks.",
+    "title": "Ancient Hanfu Sketch Comes Alive",
+    "description": "A photorealistic ancient Chinese costume design sheet where a gauzy Hanfu-clad beauty emerges from pencil and watercolor sketches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782377910834_qf7o0q_HLk27vFWsAAoPjG.jpg",
+      "https://cms-assets.youmind.com/media/1782377910807_2py4be_HLk27vCWwAAd8nh.jpg",
+      "https://cms-assets.youmind.com/media/1782377910843_i7pdqh_HLk28CGWEAA3Stw.jpg",
+      "https://cms-assets.youmind.com/media/1782377911884_lib3yf_HLk28dtXcAAmQxz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26648,
+    "content": "Use the uploaded photo as the only character reference and create a professional 2x4 character design sheet. The image must show the same person from the uploaded photo repeated in 8 variations. Do not create different people. Preserve the character’s identity, facial impression, hairstyle, face shape, age impression, body type, skin tone, natural posture, and overall personality across all panels. Arrange the character in a clean {argument name=\"layout\" default=\"2x4 grid layout\"} on a {argument name=\"background\" default=\"pure white background\"}. Each panel should show a full-body standing pose with consistent proportions and the same recognizable character design. Create 8 different variations of the same character, changing only the outfit, expression, pose, and small accessories. Use {argument name=\"fashion style\" default=\"casual modern Korean street fashion\"} with summer styling: lightweight jacket, short-sleeve shirt, oversized T-shirt, shorts, loose pants, sneakers, backpack, tote bag, cap, or minimal accessories. Keep all outfits realistic, stylish, and suitable for everyday urban life. Each variation should have a different natural expression and pose, such as calm, smiling, surprised, confident, shy, playful, thoughtful, or slightly annoyed. Poses should feel relaxed and natural, not exaggerated. Style: 2020s animation character design sheet, Japanese manga-influenced illustration, hand-drawn sketch, thin clean linework, crisp outlines, subtle imperfect contours, high-detail fashion illustration, muted retro flat color palette, subtle paper texture, editorial fashion mood. Use flat colors only. No heavy shading, no soft gradients, no realistic lighting, no dramatic shadows, no photorealism. Keep the composition clean, balanced, and professional, like an animation pre-production character sheet. Aspect ratio: 16:9 horizontal.",
+    "title": "Professional Character Design Sheet",
+    "description": "A prompt for creating a consistent character design sheet in a 2x4 grid layout using a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782377880742_0cmhyd_HLkv82EW4AAkrTU.jpg",
+      "https://cms-assets.youmind.com/media/1782377880740_jf4nqx_HLkv9TdWoAARQhb.jpg",
+      "https://cms-assets.youmind.com/media/1782377880776_9plen5_HLkv9tQaYAATwzn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26676,
+    "content": "Transform this photo into a {argument name=\"style\" default=\"whimsical folk flat illustration\"} with doodle elements. Preserve the original composition and characters, but simplify all details into clean {argument name=\"color scheme\" default=\"colorful flat shapes\"} with a handmade childlike feel. Use {argument name=\"palette\" default=\"pastel and vibrant colors\"}, rosy cheeks, playful line art, cute decorative symbols, flowers, birds, swirls, and cozy urban background details. The overall mood should feel warm, joyful, artistic, and charming like a modern children’s book illustration.",
+    "title": "Whimsical Folk Art Illustration",
+    "description": "A prompt for transforming a photo into a charming children's book style illustration with handmade folk art elements and vibrant colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782377896470_o33okb_HLjWl5NWoAATKwK.jpg",
+      "https://cms-assets.youmind.com/media/1782377896562_zg0hm8_HLjWl5FXcAE5YTi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26679,
+    "content": "Generate five sub-panels, each depicting a different fantasy setting: \n\n- {argument name=\"scene one\" default=\"An island city floating in the sky with waterfalls falling from the air\"}.\n- {argument name=\"scene two\" default=\"A library built inside a giant tree trunk\"}.\n- {argument name=\"scene three\" default=\"An oriental tea house on the lunar surface\"}.\n- An underwater classical opera house with glowing jellyfish as the audience.\n- An abandoned train engulfed by plants in the middle of a desert.\n\nRequirements: Complete world-building, rich details, and high imagination.",
+    "title": "Fantasy Multi-panel World Scenes",
+    "description": "A creative prompt designed for multi-panel fantasy setting generation, including sky cities, lunar tea houses, and underwater opera houses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782377897776_sqo3d3_HLjI_oKXcAAjdv6.jpg",
+      "https://cms-assets.youmind.com/media/1782377898023_a9utnr_HLjJAfcWIAAUkJ5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26716,
+    "content": "Using the provided reference image as the character base, create a horizontal magical-girl transformation storyboard for a {argument name=\"video length\" default=\"15 seconds\"} sequence. Analyze and preserve the character’s face, hairstyle, hair color, eyes, body type, outfit details, accessories, motifs, and overall pink magical world aesthetic from the reference while showing the transformation as a cinematic sequence.\n\nFormat: Wide storyboard sheet with exactly 10 panels arranged in a 2-row by 5-column grid. Each panel must have a small storyboard table layout with Japanese labels, including Scene number, time range, split image, scene description, camera work, and video generation prompt. Use a clean pink-bordered production storyboard style.\n\nPanel sequence and timing: 1: 0.0–1.5s, the character stands before transforming on a glowing magic circle in a dreamy pink sky. 2: 1.5–3.0s, close-up of feet as magic circles and light particles rise. 3: 3.0–4.5s, shoes, socks, and leg decorations appear in sparkling light. 4: 4.5–6.0s, skirt forms as ribbons and luminous fabric wrap around the waist. 5: 6.0–7.5s, upper-body outfit forms with blouse, bow, and shoulder details. 6: 7.5–9.0s, arm accessories, sleeves, gloves, and wrist decorations appear. 7: 9.0–10.5s, close-up of the face and upper body as hair ornaments, ribbons, ears/head accessories, and a small crown-like ornament sparkle into place. 8: 10.5–12.0s, the character receives or summons a signature magical item/weapon, with face partially obscured by bright transformation light if needed. 9: 12.0–13.5s, full-body reveal with hair, skirt, and ribbons swirling dramatically in radiant pink light. 10: 13.5–15.0s, final heroic pose with a large magic circle behind her and cute mascot-like elements around the scene.\n\nStyle: pastel pink anime magical-girl aesthetic, soft clouds, hearts, sparkles, glowing runes, ribbons, luminous particles, dreamy fantasy lighting, delicate line art, high saturation pinks and whites. Keep the storyboard readable and production-oriented, with Japanese text blocks in each panel. Add a title-free grid only; no watermark.\n\nCustomization: The transformation theme should be {argument name=\"transformation theme\" default=\"pink heart-and-ribbon magical girl\"}, and the final magical item should be {argument name=\"magical item\" default=\"a cute pink wand-like weapon\"}.",
+    "title": "Magical Girl Transformation Storyboard",
+    "description": "Creates a 10-panel horizontal storyboard that turns a reference character into a 15-second pastel magical-girl transformation sequence.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782377922238_lrdbya_HLik8J2WAAAABLZ.jpg",
+      "https://cms-assets.youmind.com/media/1782377922189_76r0su_HLik8JabcAAn06k.jpg"
     ],
     "needReferenceImages": true
   },
@@ -171,16 +229,6 @@
     "description": "A whimsical watercolor-style meadow scene with a toddler, daisies, ladybugs, and a smiling sun for cheerful storybook artwork.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782205421472_mchcj4_HLbOPPZbYAAO7eS.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 26552,
-    "content": "{argument name=\"style\" default=\"Psychedelic\"}, {argument name=\"theme\" default=\"fanatical god cult\"}, {argument name=\"art type\" default=\"anime-style illustration\"}",
-    "title": "Psychedelic Anime Cult Art",
-    "description": "An abstract, anime-style illustration featuring psychedelic colors and religious-themed cult imagery.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782291882336_a8lpf9_HLas7_IasAATjUt.jpg"
     ],
     "needReferenceImages": true
   },
@@ -498,18 +546,6 @@
     "description": "A technical instruction for GPT-image-2 to control line thickness for character outlines and internal details.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782032867360_rwvhn5_HLRWCz7bcAAvpUZ.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 26333,
-    "content": "Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable animal companion, inspired by modern Japanese stationery art and children's picture books, clean vector linework, {argument name=\"background\" default=\"soft cream background\"}, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including {argument name=\"companion\" default=\"llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature\"}, cozy scenic background with {argument name=\"landscape\" default=\"seaside boardwalk, lakeside village, mountain town or whimsical nature landscape\"}, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.",
-    "title": "Kawaii Minimalist Pastel Doodle Illustration",
-    "description": "A comprehensive prompt for creating cute, minimalist pastel illustrations of characters and animal companions inspired by Japanese stationery.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782291889146_xo0sau_HLRCu0fbEAAR7XB.jpg",
-      "https://cms-assets.youmind.com/media/1782291889135_t5p8l8_HLRCu4hboAACong.jpg",
-      "https://cms-assets.youmind.com/media/1782291889334_35thh6_HLRCvToa0AA_YGu.jpg"
     ],
     "needReferenceImages": false
   },
