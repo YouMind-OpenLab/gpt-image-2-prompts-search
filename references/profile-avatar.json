@@ -1,5 +1,94 @@
 [
   {
+    "id": 26809,
+    "content": "Using the provided reference image, upscale and restore it into an ultra-premium 8K cinematic-quality photograph. Preserve 100% of the kitten’s identity, pose, framing, color pattern, and overall composition. Remove blur, noise, pixelation, and compression artifacts while recovering realistic microdetails: sharp glossy eyes, individual fur strands, whiskers, ear texture, nose detail, natural shadows, and the soft fabric foreground. Keep the same simple blue background and beige foreground, but make them clean, smooth, and studio-quality. Make the result photorealistic with high contrast, natural lighting, crisp focus on the kitten’s face, and no added objects, text, watermark, or style change.",
+    "title": "8K Pet Photo Restoration",
+    "description": "Transforms a blurry pet reference photo into a sharp, photorealistic cinematic-quality restoration while preserving identity and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464882562_gx69us_HLrfe-bWkAAX0fx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26764,
+    "content": "[Information Entry Field]\n\nCharacter Name: [{argument name=\"character name\" default=\"\"}] (Required)\n\nPose Number: [{argument name=\"pose number\" default=\"0\"}] (Optional: Select from 0-10, auto-generated if blank)\n\nAdditional Notes: [{argument name=\"additional notes\" default=\"\"}] (Enter anything specific you want to tell the AI)\n\n-----------------\n\nAnalyze the attached image and generate a high-quality 2D animation-style illustration named [Character Name]. The final image should be a 'shadow-style watercolor poetic single illustration' where the character's presence quietly floats on white to off-white paper. Focus on silhouettes, soft bleeding, negative space, and paper texture rather than detailed drawings. Adopt the pose specified by [Pose Number]. If 0 or blank, the AI should choose one that fits the character's look/personality. The AI should determine the most suitable main color based on the character's hair, eyes, and clothing instead of fixing a color. Use a palette centered on the main color with dark shadow colors and light watercolor bleeding. Do not over-draw features; keep the hairstyle outline, clothing shape, and unique traits recognizable as a silhouette. Background should have wide negative space with minimal watercolor bleeding, plant shadows, or star dust. Automatically create a short, beautiful title based on the atmosphere and place it with the character name in the upper right or an unobtrusive spot. Maintain silence, elegance, and a poetic atmosphere throughout. Style: High-quality 2D animation. Aspect Ratio: 3:4.",
+    "title": "Watercolor Silhouette Character Story",
+    "description": "An extensive prompt for transforming character images into poetic watercolor shadow-style illustrations with titles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464843756_8iv2dn_HLrVqs4aAAAIJxq.jpg",
+      "https://cms-assets.youmind.com/media/1782464844109_eb32x0_HLrVsxxbIAEXZui.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26747,
+    "content": "Ultra detailed FIFA World Cup 2026 pop-art anime illustration of {argument name=\"subject\" default=\"[SUBJECT]\"}, close-up portrait, leaning forward, winking left eye, right eye looking directly at viewer, left hand holding a miniature {argument name=\"country emblem\" default=\"[COUNTRY LOGO / EMBLEM]\"} in front of her face, face partially hidden behind the miniature emblem, confident playful expression. Aspect Ratio: 4:5 (vertical). Fixed composition: Keep original pose exactly the same. Object: Miniature {argument name=\"country emblem\" default=\"[COUNTRY LOGO / EMBLEM]\"}, detailed design. Background: Clean {argument name=\"background color\" default=\"[BACKGROUND COLOR]\"} square-inspired background with thin border, minimal retro manga poster design. Typography: Large bold vintage retro lettering below character displaying: \"{argument name=\"custom text\" default=\"[CUSTOM TEXT]\"}\". Style: Japanese pop art, manga illustration, fashion editorial poster, bold black outlines, vibrant cel shading, premium vector artwork.",
+    "title": "FIFA World Cup Anime Poster",
+    "description": "A high-detail Japanese pop-art anime illustration style for World Cup 2026 portraits, maintaining identity and pose from a reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464828600_ez7quq_HLrJIIlagAAPvGO.jpg",
+      "https://cms-assets.youmind.com/media/1782464829045_bjyube_HLrJJI3asAAx0Pi.jpg",
+      "https://cms-assets.youmind.com/media/1782464828603_3o7jtq_HLrJJ_faMAAszdC.jpg",
+      "https://cms-assets.youmind.com/media/1782464829667_lq2bwo_HLrJLCebYAEWL93.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26805,
+    "content": "Create a vertical 9:16 monochrome sepia anime illustration of an androgynous young noble with {argument name=\"hair color\" default=\"silvery white\"} tousled layered hair, posed in a melancholic Victorian-gothic garden scene. The character wears a glossy white ruffled blouse with a high frilled collar, a black ribbon bow at the neck, one visible white glove touching the cheek, and one visible cuff with exactly 3 round buttons. Their long hair is tied into one low side ponytail over the right shoulder. Place one ornate antique hand mirror along the left side, with carved metallic floral scrollwork, reflecting the character’s downcast face and closed or half-lidded eye. Add an opaque centered square censor block in muted warm gray-taupe covering the main face area, about one third of the image width, with sharp clean edges. Surround the portrait with white flowers: exactly 3 large orchid blossoms in the upper background, plus multiple clusters of small five-petal white flowers near the right side and lower left foreground. Use delicate manga linework, painterly grayscale shading, soft highlights, intricate hair strands, romantic dark foliage, shallow depth of field, high detail, elegant sorrowful mood, no text, no watermark.",
+    "title": "Sepia Anime Noble With Mirror",
+    "description": "A vertical gothic anime portrait prompt featuring a white-haired noble, ornate mirror, orchids, and a central taupe face-obscuring square.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464881148_5v88je_HLqgbo7agAAPYuH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26768,
+    "content": "[Subject] Refer to Image 1 and Image 2 [Signature] At the bottom right, there is a small Threads logo operated by Meta, and above it, \"{argument name=\"signature\" default=\"CHAse\"}\" is written in small white cursive like a signature.\n\n[Pose and Expression]\nA portrait pose looking directly at the camera with the chin resting on the palm of the right hand. The intense and deep gaze through the stray hairs overwhelms the viewer, and the serious and dreamy expression with slightly closed lips exudes a romantic yet lonely charisma.\n\n[Clothing]\nA {argument name=\"hat style\" default=\"wide-brim cowboy hat\"} with unique zigzag stitch decorations along the edge is pressed down low on the head. The subject wears a white blouse, showing a natural Western-inspired look.\n\n[Hairstyle and Makeup Details]\nLong, wavy hair with a messy, roughly groomed texture. Strands of stray hair naturally cover the face line and eyes, creating a raw and free mood. The makeup is a minimal look that preserves freckles and the skin's natural texture, with the depth of the lips and eyes emphasized in the black-and-white contrast.\n\n[Lighting and Direction]\nDramatic backlighting coming strongly from the back-left of the figure is the main light source. This intense light creates a dazzling rim light highlight along the outline of the messy hair and the edge of the hat brim, while the front of the face is submerged in soft shadow, maximizing the depth and three-dimensionality of the features.\n\n[Texture and Color Mood]\nExpressed in a classic {argument name=\"color tone\" default=\"Monochrome\"}, focusing entirely on the contrast of light and shadow without color interference. The fine texture of thick hair, the matte and soft leather or felt texture of the hat, and the smooth skin texture contrast vividly within a deep grayscale, creating an artistic and sensual fine-art pictorial mood.\n\n[Film and Camera Specs]\nShot using a f/2.0 aperture, 1/250s shutter speed, ISO 400, and an 85mm telephoto prime lens. A tight close-up shot captured at eye level to fully immerse in the subject's intense gaze and expression. Shallow depth of field is applied, focusing sharply on the eyes and front of the face while softly blurring the back of the hat and the ends of the hair. The subtle film grain characteristic of high-sensitivity black-and-white film completes the classic cinematic sensibility.\n\n[Background (Optional)]\nA minimal, flat, light-toned background with no details to highlight the silhouette of the subject and hat. By excluding complex visual elements, the focus is entirely on the emotional line and formal beauty of the foreground figure.\n\nSet aspect ratio to 1:1.",
+    "title": "Monochrome Western Cowgirl Portrait",
+    "description": "A highly detailed Korean prompt for generating a cinematic, black-and-white portrait of a woman in a cowboy hat with dramatic rim lighting and a telephoto lens aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464846988_d767qg_HLZpJq4bAAAV2dT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26746,
+    "content": "Create a square-inspired FIFA World Cup 2026 profile portrait in a 4:5 aspect ratio using the uploaded image as the exact reference for pose, composition, identity, and pixel art style. Create the subject in a detailed {argument name=\"art style\" default=\"retro pixel art style\"} with large visible pixels, defined stair-stepped edges, strong dark outlines, dramatic pixelated shading, vibrant colors, and a crisp 16-bit/32-bit arcade sprite appearance. Use only a flat solid background color representing the {argument name=\"country\" default=\"selected country’s primary national color\"}. The raised goalkeeper glove must feature the {argument name=\"national symbols\" default=\"selected country’s national flag\"} or official national colors. No gradients, textures, text, logos, extra objects, or photorealism. Subtly incorporate the FIFA World Cup 2026 theme and atmosphere while preserving the exact pose and composition from the reference. Maintain the raised glove, facial features, framing, and overall visual style exactly as shown in the reference image. Output aspect ratio: 4:5.",
+    "title": "Retro World Cup Pixel Sprite",
+    "description": "Converts a reference photo into a detailed 16-bit retro pixel art sprite inspired by the FIFA World Cup 2026.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464828017_pz8iz8_HLoikkZbMAARpNd.jpg",
+      "https://cms-assets.youmind.com/media/1782464828121_klj5lv_HLoilUZa4AAQpAt.jpg",
+      "https://cms-assets.youmind.com/media/1782464827991_as6w3y_HLoil6VbEAA7Bba.jpg",
+      "https://cms-assets.youmind.com/media/1782464828730_qwyqvw_HLoime4agAA7MTc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26734,
+    "content": "Create a square 1:1 profile picture using the uploaded image as the exact reference for the pose, composition, and pixel art style. Recreate the subject as detailed retro pixel art with large, clearly visible pixels, crisp stepped edges, bold dark outlines, dramatic pixelated shading, vibrant colors, and the sharp look of a classic 16-bit/32-bit arcade sprite. Use only a solid {argument name=\"background color\" default=\"Pantone 354C green\"} background ({argument name=\"hex code\" default=\"#00B140\"}). Do not include gradients, textures, text, logos, extra objects, or any photorealistic elements. Keep the raised glove, facial features, framing, and overall style exactly the same as in the reference image.",
+    "title": "Retro Pixel Art Profile Picture",
+    "description": "Creates a retro 16-bit or 32-bit pixel art profile picture from an uploaded reference image, maintaining the original pose and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464821297_axcbxi_HLoXnjjaUAAI98N.jpg",
+      "https://cms-assets.youmind.com/media/1782464821559_vvi577_HLoXnjkbAAEhtpP.jpg",
+      "https://cms-assets.youmind.com/media/1782464821397_asj1dd_HLoXnjcbAAEYisN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26694,
+    "content": "Using REFERENCE_0 as the base, transform the photo into a polished anime-style illustration while preserving the same overall pose, camera angle, white oversized shirt, shark plush being hugged, window-side indoor setting, and warm backlit mood. Replace the obscured face with a cute expressive anime face: soft blush, slightly shy eyes, and the hand still raised near the mouth. Keep the short black bob silhouette but make it glossy and stylized, with red-tinted hair tips and 3 visible hair accessories: 2 silver rectangular hair clips and 1 gray X-shaped pin. Render the scene with clean line art, detailed painterly shading, luminous sunlight, soft highlights on fabric, and a high-quality visual-novel/anime key art finish.\n\nAdd and clarify the room details that were only vague in the reference: a teal-green wall, a framed ocean-and-cloud picture on the wall, a wooden dresser on the right, a white vase with exactly 3 yellow flowers, and 1 small framed photo on the dresser. Add a few subtle floating dust motes/bubbles in the sunlight. Make the shark plush more cute and crisp, with a blue top, white belly, black eye, gill marks, fin, tail, and open mouth with triangular teeth.\n\nCustomizable details: anime character with {argument name=\"eye color\" default=\"red\"}, {argument name=\"hair accent color\" default=\"red\"}, wearing {argument name=\"shirt style\" default=\"oversized white button-up shirt\"}, holding {argument name=\"plush toy\" default=\"blue shark plush\"}, in a {argument name=\"background mood\" default=\"warm sunlit bedroom by a window\"}.\n\nConstraints: do not crop out the plush, keep the composition vertical, keep the pose and outfit close to the reference, avoid photorealism, avoid extra characters, avoid text or watermarks.",
+    "title": "Photo to Sunlit Anime Character",
+    "description": "Transforms a reference photo into a polished anime illustration while preserving the pose, outfit, plush toy, and cozy window-side setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464884328_f620gc_HLoCDD9bwAAIvXy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26653,
     "content": "Use the reference image as the only identity source. Preserve her exact face, facial proportions, skin tone, hairline, body shape, and all unique features with complete identity consistency. No face changes, beautification, age alteration, body reshaping, or identity drift. Ultra-realistic {argument name=\"scene\" default=\"lazy morning selfie in bed\"}, head resting on a white pillow, {argument name=\"hair style\" default=\"slightly messy long hair\"}, {argument name=\"clothing\" default=\"oversized sleep T-shirt\"}. Holding a phone above her face, relaxed sleepy expression. Soft morning sunlight through sheer curtains, cozy luxury bedroom, natural skin texture, realistic shadows, shallow depth of field, DSLR 50mm look, HDR, sharp focus, photorealistic 8K, candid lifestyle photo.",
     "title": "Lazy Morning Bedroom Selfie",
@@ -8,17 +97,6 @@
       "https://cms-assets.youmind.com/media/1782377881849_s0f593_HLk_SS6WQAAkGf1.jpg",
       "https://cms-assets.youmind.com/media/1782377881854_7evo9u_HLk_SSVWYAA6qqx.jpg",
       "https://cms-assets.youmind.com/media/1782377881829_yc0r8d_HLk_SOHXEAAU272.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 26717,
-    "content": "Create a polished anime-style illustration of a young female ninja sitting on a sloped traditional Japanese tiled rooftop at dusk, shown in a vertical 2:3 composition. She has {argument name=\"hair color\" default=\"bright orange coral\"} hair in two high twin ponytails tied with scrunchies, long bangs framing the face, and a playful pose with one hand raised making a peace sign; add a small yellow sparkle beside the gesture. Her face is intentionally hidden by a centered square censor block with a soft pink-to-gray gradient, covering the eyes, nose, and mouth completely. She wears an orange sleeveless kunoichi outfit with a deep wrap-style neckline, black trim, black belt and hanging ties, visible fishnet mesh side panels, black tight shorts under a short orange skirt panel, black fingerless gloves with wrist guards, black shin wraps, and open-toe black ninja sandals with red ties. The camera is close and slightly above, emphasizing her seated pose with bent legs in the foreground and one arm braced behind her on the roof. Background: dark blue rooftops with ceramic tiles, shadowy trees and chimney silhouettes, and a clear teal-blue evening sky. Use clean crisp linework, cel-shaded anime rendering, glossy skin highlights, saturated orange accents against cool blue shadows, cinematic lighting, high detail, no text, no watermark, no extra characters.",
-    "title": "Anime Ninja Girl on Rooftop",
-    "description": "Generates a vertical anime illustration of an orange-haired kunoichi posing on a tiled rooftop at dusk with a censored face block.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782377922457_q71cqs_HLkhmV8WAAAkoRb.jpg",
-      "https://cms-assets.youmind.com/media/1782377922457_oqj75y_HLkhmVhawAAavAP.jpg"
     ],
     "needReferenceImages": true
   },

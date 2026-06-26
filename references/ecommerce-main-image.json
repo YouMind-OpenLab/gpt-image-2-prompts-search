@@ -1,5 +1,26 @@
 [
   {
+    "id": 26774,
+    "content": "Create a stylized collectible toy package featuring {argument name=\"character name\" default=\"[CHARACTER NAME]\"}.\n\nPackaging color: {argument name=\"packaging color\" default=\"[COLOR]\"}\nTop text: \"{argument name=\"title\" default=\"[TITLE]\"}\"\nFigure style: adorable vinyl designer toy, oversized head, simplified proportions.\nPose: [POSE]\nExpression: [EXPRESSION]\n\nAccessories:\n• [ITEM 1]\n• [ITEM 2]\n• [ITEM 3]\n• [ITEM 4]\n• [ITEM 5]\n\nOutfit:\n[OUTFIT DESCRIPTION]\n\nProfessional product photography, molded plastic tray, luxury collectible packaging, front view, symmetrical layout, soft shadows, matte finish, ultra-detailed 3D render.",
+    "title": "Collectible Toy Packaging Designer",
+    "description": "A structured prompt for creating professional 3D renders of vinyl collectible toy packaging, complete with custom character names, colors, and branding details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464854871_buhamj_HLqI8Ita8AAe0kq.jpg",
+      "https://cms-assets.youmind.com/media/1782464854900_7jqck7_HLqI80yaMAAfXLk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26766,
+    "content": "Use the input image as a {argument name=\"character\" default=\"character\"} reference. Create a photo-style image with a 3:4 aspect ratio of a silver potato chip bag of a fictional brand placed on a realistic wooden table. Convert the character from the input image into a black-and-white hand-drawn manga-style illustration that appears directly on the silver bag. The illustration should occupy a large portion of the empty space on the bottom half of the bag. Maintain the presence of the face, hairstyle, outfit, characteristic decorations, and any partner characters. The potato chips must be from a fictional brand; do not use real company names, logos, or product designs. Determine the product name for the potato chips based on the motif, atmosphere, race, outfit, and partner elements of the character in the input image. The product name should be short, memorable, and sound like something you would see in a convenience store. Use short names like '{argument name=\"product name\" default=\"OO Potato\"}', 'OO Chips', or 'OO Age' whenever possible. The flavor name for the potato chips should also be naturally determined based on the character's impression, choosing from {argument name=\"flavor\" default=\"Japanese-style, salty, seaweed, black pepper, dashi, or sweet and spicy\"} flavors that fit Japanese snacks. The top half of the bag should feature the product package design with a large product name, flavor name, catchphrase, bold black-and-white text, hand-drawn speech bubbles, and playful star or doodle decorations. The bottom half should feature the black-and-white hand-drawn character illustration. The bag should look like a Japanese snack with metallic silver film, wrinkles, reflections, bold printed text, and limited-edition collaboration style decorations. The background and bag should be realistic, while only the character on the bag is in a rough pen, manga line art, or hand-drawn sketch style. The overall atmosphere should be cute, playful, and natural-looking like a collaboration product. Create the image.",
+    "title": "Anime Character Potato Chip Packaging",
+    "description": "A comprehensive prompt for generating a realistic product photo of a metallic potato chip bag featuring a hand-drawn manga style character based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464846177_hc9bx9_HLnqglDbYAA21Mu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26637,
     "content": "Create a square luxury macro product photograph of an {argument name=\"jewelry type\" default=\"emerald solitaire ring\"} staged like precious botanical alchemy. Place one ring centered in the lower-middle of the frame, resting horizontally on a curled glossy green leaf that forms a shallow cradle. The ring has a polished yellow-gold band, four rounded gold prongs, and one vertical oval-cut {argument name=\"gemstone\" default=\"deep emerald green stone\"} with crisp facets and internal sparkle. Surround it with exactly three large background leaves or petals: one curved green leaf sweeping from the left foreground toward the ring, one curled green leaf rising on the right edge, and one blurred burgundy-red petal mass in the upper background. The surface beneath is wet black volcanic stone or lacquered rock, with small puddles and mirrorlike highlights. Add visible water droplets on the leaves and rock, including several bright beads near the right leaf and tiny specks on the left leaf. Lighting should be dramatic and cinematic: warm golden rim light from the upper right, soft frontal reflection on the gemstone, deep shadows, high contrast, shallow depth of field, luxurious editorial jewelry advertising style. Use a dark moody palette of emerald green, yellow gold, burgundy, and glossy black. Camera angle is close-up at leaf level, 1:1 square crop, ring tack-sharp while background petals and foreground edges fall into creamy bokeh. No text, no hands, no packaging, no extra jewelry, no logo, no watermark.",
     "title": "Emerald Ring Botanical Luxury Macro",

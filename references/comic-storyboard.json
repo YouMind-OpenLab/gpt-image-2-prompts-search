@@ -10,12 +10,160 @@
     "needReferenceImages": true
   },
   {
+    "id": 26789,
+    "content": "Create a dramatic vertical anime fantasy illustration of {argument name=\"character name\" default=\"a pale silver-haired battle maiden\"} in the ruins of a shattered Gothic cathedral. She is shown in a dynamic low-angle three-quarter action pose, lunging forward through broken stone and smoke, her long {argument name=\"hair color\" default=\"white-silver\"} hair and many translucent ribbon-like veils streaming wildly in the wind. She wears an ornate dark black-and-charcoal combat dress with layered ruffles, lace trim, floral decorations around the collar and headpiece, and fitted armored details, mixing gothic lolita elegance with battle-worn fantasy armor. Her expression is calm, focused, and almost emotionless, eyes partly hidden by bangs. One arm extends toward a huge transparent oval magical shield on the right side of the image; the shield is glasslike, luminous, and covered with concentric circular sigils, radial mechanical patterns, cracks of light, and sparkling fragments. Her other arm holds or is fused with a massive cylindrical weapon or gauntlet cannon angled down toward the lower left, metallic, heavy, smoking, and glowing faintly with orange heat. The background is a towering ruined cathedral interior with broken arches, jagged walls, distant spires, tall arched windows, collapsed masonry, dust clouds, drifting ash, and small ember sparks. Use a mostly monochrome palette of cool gray, ivory, charcoal, and muted blue-gray, with warm orange highlights from embers and magical impact light. The style should be highly detailed Japanese anime concept art with painterly watercolor textures, ink-like linework, cinematic lighting, volumetric dust, motion blur in the ribbons, intricate fabric folds, and a sense of impact and sacred devastation. Composition: portrait orientation, character centered slightly left, shield dominating the right edge, weapon entering from the bottom left, bright backlight from the cathedral windows and glowing shield, no text, no watermark.",
+    "title": "Gothic Cathedral Battle Maiden",
+    "description": "A detailed prompt for generating a dramatic anime fantasy warrior in a ruined cathedral with a luminous magical shield and smoky weapon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464868089_p9u1e5_HLqx_r1bgAAgnfH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26803,
+    "content": "Create a square gothic monochrome anime illustration with an antique book-cover feel. The composition shows an androgynous young man with {argument name=\"hair color\" default=\"pale silver-white\"} tousled medium-length hair, wearing a high-collared ruffled blouse, dark ribbon tie, vest-like formal layers, fitted gloves, and buttoned cuffs. He is positioned slightly right of center, leaning forward with one gloved hand raised near his mouth in a secretive, melancholy pose; keep the central face area intentionally obscured by a flat opaque square censor block in warm gray-beige, covering most facial features from forehead to mouth. Behind him on the left is an ornate oval Victorian mirror with a carved baroque frame, reflecting a soft ghostly side profile of the same character. Surround the figure with dense flowers and foliage: large pale orchids in the upper right, many small clustered blossoms across the lower left and center, leaves and buds throughout. Add vertical Japanese title text on the left reading {argument name=\"vertical title text\" default=\"擬花\"}, set in elegant serif/calligraphic characters with thin decorative horizontal flourishes. Use a muted sepia-gray palette, watercolor and ink wash texture, soft shading, high detail, delicate linework, dreamy dark background, and subtle paper grain. Frame the entire image with a thin antique border and ornate corner filigree decorations on all four corners, plus small centered ornamental flourishes at the top and bottom. Canvas: 1:1 square. Constraints: exactly one main character, exactly one mirror reflection, exactly one opaque square over the face, exactly two visible Japanese title characters, and four ornate corner decorations; no modern objects, no bright colors, no watermark.",
+    "title": "Gothic Mirror Flower Anime Cover",
+    "description": "A square sepia gothic anime book-cover illustration featuring a silver-haired figure, ornate mirror, flowers, Japanese title text, and a censored face block.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464880093_ewesbx_HLr4-D8aoAA3_3g.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26764,
+    "content": "[Information Entry Field]\n\nCharacter Name: [{argument name=\"character name\" default=\"\"}] (Required)\n\nPose Number: [{argument name=\"pose number\" default=\"0\"}] (Optional: Select from 0-10, auto-generated if blank)\n\nAdditional Notes: [{argument name=\"additional notes\" default=\"\"}] (Enter anything specific you want to tell the AI)\n\n-----------------\n\nAnalyze the attached image and generate a high-quality 2D animation-style illustration named [Character Name]. The final image should be a 'shadow-style watercolor poetic single illustration' where the character's presence quietly floats on white to off-white paper. Focus on silhouettes, soft bleeding, negative space, and paper texture rather than detailed drawings. Adopt the pose specified by [Pose Number]. If 0 or blank, the AI should choose one that fits the character's look/personality. The AI should determine the most suitable main color based on the character's hair, eyes, and clothing instead of fixing a color. Use a palette centered on the main color with dark shadow colors and light watercolor bleeding. Do not over-draw features; keep the hairstyle outline, clothing shape, and unique traits recognizable as a silhouette. Background should have wide negative space with minimal watercolor bleeding, plant shadows, or star dust. Automatically create a short, beautiful title based on the atmosphere and place it with the character name in the upper right or an unobtrusive spot. Maintain silence, elegance, and a poetic atmosphere throughout. Style: High-quality 2D animation. Aspect Ratio: 3:4.",
+    "title": "Watercolor Silhouette Character Story",
+    "description": "An extensive prompt for transforming character images into poetic watercolor shadow-style illustrations with titles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464843756_8iv2dn_HLrVqs4aAAAIJxq.jpg",
+      "https://cms-assets.youmind.com/media/1782464844109_eb32x0_HLrVsxxbIAEXZui.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26731,
+    "content": "Create a highly detailed black-and-white manga illustration based on the uploaded photo while preserving the exact pose, composition, facial expressions, clothing, and camera angle. {argument name=\"subject\" default=\"Two friends are taking a mirror selfie inside a modern elevator. The girl stands in the foreground holding a smartphone, wearing an oversized black hoodie, long dark hair, making an exaggerated screaming expression with one eye squinted. Behind her, the boy wears an oversized white hoodie with the hood up, also screaming dramatically with wide eyes and an open mouth, fists clenched in a playful pose.\"}\n\nIllustrate everything using bold manga ink lines, clean contour work, expressive cross-hatching, fine pen strokes, subtle screentone shading, and dynamic comic-style line weight. Keep the elevator background minimal but recognizable with metallic panels and reflections. Add tiny manga emphasis lines around both heads to enhance the comedic energy.",
+    "title": "Manga Style Photo Transformation",
+    "description": "A specialized prompt for transforming a realistic selfie into a detailed black-and-white manga illustration while maintaining exact proportions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464818753_j7qjm7_HLrB-EYbcAAG3o2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26767,
+    "content": "Graffiti-inspired sketch animation, expressive ink scribbles, loose gestural drawing, energetic spray paint textures, constantly morphing sketch lines, exaggerated squash and stretch, elastic cartoon physics, playful visual chaos, dynamic hand-drawn motion, lively brush strokes, abstract character animation, spontaneous artistic imperfections, fast-paced slapstick energy, vibrant urban art aesthetic.",
+    "title": "Graffiti Ink Animation Style",
+    "description": "An energetic prompt for GPT-Image 2 that generates graffiti-inspired sketch animations with loose ink scribbles and urban textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464844659_dqxzdt_HLqWz-KbcAAUZCn.jpg",
+      "https://cms-assets.youmind.com/media/1782464844748_phw4f4_HLqW08makAAHel5.jpg",
+      "https://cms-assets.youmind.com/media/1782464844784_vptb9m_HLqW1-tbcAAhTLV.jpg",
+      "https://cms-assets.youmind.com/media/1782464846191_g5wlca_HLqXh1XbEAAIsVX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26765,
+    "content": "[The Shopkeeper from Another World]\nA fire that cannot return, lit in the capital of Slovenia.\n\n{argument name=\"protagonist\" default=\"Mireia, a dragon-tribe girl from the land of flame scales, Nevia\"}.\nWhile escaping from a crumbling volcanic temple, she was sucked into a burning mirror and transported to {argument name=\"location\" default=\"the riverside of Ljubljana, the capital of Slovenia\"}.\n\nAlthough she hasn't found a way back yet, she has hands that can handle fire.\n\nOn the shelves are:\n{argument name=\"product\" default=\"Magic lamps that don't cool down even at night\"},\nsmall fire bottles that glow blue when touched,\nglass candle holders that mimic dragon scales,\nand tinderboxes shaped like old keys.\n\nThe old lady, the boy, and the passing painter all smile a little when they see the light.\n\nSo today, she opens her shop in this city again.",
+    "title": "Otherworldly Dragon Girl Fire Shop",
+    "description": "A rich, narrative-driven prompt describing a dragon-girl shopkeeper in Slovenia who sells magical fire-themed items like lamps and candle holders.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464844546_c5ekq8_HLqV7TEacAA4R7i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26817,
+    "content": "Goal: Create a wide 21:9 storyboard image for a 15-second Japanese 2D anime cooking short about making {argument name=\"dish name\" default=\"tonjiru set meal\"}. The image should look like a very rough pencil storyboard drawn quickly by hand, messy and unfinished, with black graphite lines on a white background, no color, no clean inking, no shading beyond loose scribbles, and visible sketch construction marks.\n\nCanvas: Ultra-wide horizontal 21:9 composition, divided into exactly 12 rectangular storyboard panels arranged in a 3-row by 4-column grid. Use thin hand-drawn panel borders with slight wobble. Keep the whole sheet monochrome and rough.\n\nLayout and panel count: Show exactly 12 discrete cooking shots, left to right, top to bottom:\n1. Close-up of hands slicing a daikon radish or large white root vegetable on a cutting board with a chef knife; several round slices on the left.\n2. Close-up of a hand and knife cutting small crescent slices of another vegetable, with chopped pieces piled to the right.\n3. Bowl of water or stock seen from the side/top, with sliced green onions or vegetable rings falling into the liquid.\n4. Hands placing irregular cubes of konjac or tofu-like ingredients into a rectangular tray; one round vegetable piece held above the tray.\n5. Close-up of thin pork strips being sliced on a cutting board with a large knife; cut strips stacked on the left.\n6. Pot or pan close-up with pork being stirred by chopsticks in a shallow layer of liquid or oil.\n7. Top view of a handled pot filled with chunky vegetables and meat, chopsticks stirring through the mixture.\n8. Close-up of liquid broth being poured from a pitcher into a pot full of ingredients.\n9. Simmering pot with visible bubbles, steam, root vegetables and tofu/konjac chunks; a ladle or skimmer enters from the upper right.\n10. Ladle lifting a mound of miso paste or seasoning over the steaming pot while chopsticks or a spoon help dissolve it.\n11. Soup being ladled into a bowl, with chopped green onions falling from above as garnish.\n12. Final serving shot: a bowl of finished tonjiru topped with green onion rings and chunky ingredients, with a small bowl of white rice placed to the left rear.\n\nVisual style: Extremely rough Japanese animation storyboard pencil sketch, rushed human drawing, dirty construction lines, uneven perspective, loose energetic strokes, simple anatomy for hands, minimal background, no polished illustration. Use cinematic close-ups and cooking-action framing. The overall feeling should be like production storyboard thumbnails for an anime food scene.\n\nConstraints: No captions, no speech bubbles, no printed text, no color, no photorealism, no clean line art, no watercolor, no 3D render. Keep all 12 panels clearly separated and preserve the exact 3 by 4 storyboard grid.",
+    "title": "Rough Tonjiru Cooking Storyboard",
+    "description": "Generates a monochrome 12-panel rough pencil storyboard for a Japanese anime cooking short about preparing tonjiru.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464890256_5m7fp9_HLpxSipbEAA-I6n.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26758,
+    "content": "Cinematic ultra-realistic close pursuit scene, camera positioned less than one meter in front of the fleeing husband, extreme close-up perspective, {argument name=\"man expression\" default=\"terrified\"} man dominating 80% of the frame, sweat on skin, visible pores, bloodshot eyes, veins bulging in neck, mouth wide open screaming in pure panic, messy hair blown backward from sprinting, wrinkled dark pajama shirt, one slipper missing. Behind him, slightly out of focus but still clearly visible, furious woman exploding out of the front door wearing a {argument name=\"wife outfit\" default=\"bathrobe and fluffy slippers\"}, wielding a heavy cast iron frying pan raised above her head, face twisted with uncontrollable rage, hair flying wildly in every direction. Breakfast chaos erupting through the air between them, shattered coffee mugs, flying toast, scrambled eggs, orange juice droplets frozen in motion, tiny debris particles catching sunlight. Real suburban house entrance, concrete walkway, front lawn, authentic residential neighborhood. Shot on {argument name=\"camera model\" default=\"Arri Alexa 35\"}, Zeiss Supreme Prime 35mm T1.5, camera operator running backwards directly in front of the husband, cinematic chase photography, realistic motion blur only on limbs and background, sharp focus locked on the husband's terrified face. Golden hour morning sunlight from side angle, physically accurate skin rendering, subsurface scattering, natural shadows, realistic reflections in eyes, documentary-style realism, Hollywood comedy movie frame, practical lighting, Kodak Vision3 film emulation, subtle film grain, hyperrealistic, ultra detailed, RAW photo quality, photorealistic, no CGI, no cartoon, no AI look, no overprocessed HDR, 8K, masterpiece, award-winning cinematic photography, dynamic Dutch angle, extreme sense of speed and urgency, vertical composition --ar 9:16 --style raw --v 8",
+    "title": "Cinematic Suburban Chase Scene",
+    "description": "An intense and comedic chase scene captured with cinematic precision in a suburban neighborhood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464840246_ygfu0u_HLpPwl3bwAAuGgT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26759,
+    "content": "{\n    \"style\": \"ultra-detailed cinematic fantasy realism, magical cottagecore aesthetic, high-end CGI, photorealistic, storybook fantasy, Unreal Engine 5 quality\",\n    \"quality\": \"4K UHD\",\n    \"aspect_ratio\": \"9:16\",\n    \"camera\": {\n      \"shot_type\": \"medium full-body portrait\",\n      \"angle\": \"slightly low eye-level angle\",\n      \"lens\": \"85mm portrait lens\",\n      \"depth_of_field\": \"shallow DOF with creamy bokeh\",\n      \"focus\": \"sharp focus on woman and dog, softly blurred background\"\n    },\n    \"scene\": {\n      \"location\": \"{argument name=\\\"location\\\" default=\\\"enchanted lakeside garden at twilight\\\"}\",\n      \"environment\": \"lush flower garden beside a calm reflective lake\",\n      \"season\": \"late spring\",\n      \"time_of_day\": \"blue hour, early evening sunset\",\n      \"mood\": \"peaceful, cozy, magical, romantic, serene\"\n    },\n    \"subject\": {\n      \"gender\": \"young woman\",\n      \"pose\": \"sitting gracefully on a picnic blanket, legs folded to one side\",\n      \"expression\": \"soft gentle smile, calm and focused\",\n      \"action\": \"reading an open book\",\n      \"hair\": {\n        \"color\": \"dark chestnut brown\",\n        \"style\": \"long wavy hair with soft curls\",\n        \"length\": \"waist-length\"\n      },\n      \"outfit\": {\n        \"dress\": \"{argument name=\\\"dress style\\\" default=\\\"flowing black embroidered gown\\\"}\",\n        \"fabric\": \"sheer layered fabric with floral embroidery\",\n        \"details\": \"pink floral patterns on sleeves and hem, elegant bohemian design\"\n      }\n    },\n    \"companion\": {\n      \"animal\": \"{argument name=\\\"dog breed\\\" default=\\\"small fluffy Shih Tzu dog\\\"}\",\n      \"pose\": \"lying beside the woman\",\n      \"expression\": \"looking up lovingly at her\"\n    },\n    \"props\": {\n      \"book\": \"black hardcover book with silver floral detailing\",\n      \"food\": [\n        \"wooden tray with grapes\",\n        \"ceramic cup of tea or coffee\"\n      ],\n      \"decorations\": [\n        \"multiple glowing candles\",\n        \"vintage lanterns\",\n        \"basket filled with white roses\",\n        \"soft picnic blankets and cushions\"\n      ]\n    },\n    \"background\": {\n      \"architecture\": {\n        \"structure\": \"wooden lakeside gazebo or cottage veranda\",\n        \"style\": \"cozy rustic architecture with curtains and warm interior lighting\"\n      },\n      \"nature\": [\n        \"blooming hydrangeas\",\n        \"pink and white roses\",\n        \"lush green grass\",\n        \"large tree canopy\",\n        \"calm reflective lake\",\n        \"distant tree silhouettes\"\n      ],\n      \"water_feature\": \"ornamental stone fountain with candles\",\n      \"lighting_elements\": [\n        \"hanging lanterns\",\n        \"warm fairy string lights\",\n        \"glowing candles throughout the garden\"\n      ]\n    },\n    \"lighting\": {\n      \"type\": \"cinematic ambient twilight lighting\",\n      \"key_light\": \"warm candlelight and lantern illumination\",\n      \"fill_light\": \"soft blue evening sky light\",\n      \"effect\": \"golden glow, dreamy atmosphere, magical realism\"\n    },\n    \"color_palette\": {\n      \"primary_colors\": [\n        \"deep black\",\n        \"warm gold\",\n        \"soft pink\",\n        \"cream\"\n      ]\n    }\n}",
+    "title": "Magical Cottagecore Lakeside Portrait",
+    "description": "A cinematic fantasy realism prompt for a woman reading in an enchanted garden at twilight with her dog.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464840509_cktmet_HLosaDDacAEFFmB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26752,
+    "content": "Convert the uploaded photo into a cute black-and-white hand-drawn doodle illustration in the exact style of a {argument name=\"art style\" default=\"minimalist marker sketch\"}. Preserve the original composition, pose, camera angle, facial expressions, clothing, and positioning of all subjects. Transform the people into adorable {argument name=\"character style\" default=\"chibi/cartoon characters\"} with simplified features, large expressive eyes, rounded faces, and clean outlines. Style requirements:",
+    "title": "Minimalist Marker Sketch Doodle",
+    "description": "A transformation prompt that converts photos into cute, black-and-white chibi-style marker sketches while preserving the original pose and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464831076_vppspw_HLoRB-tawAA32JC.jpg",
+      "https://cms-assets.youmind.com/media/1782464831057_pl5btq_HLoREr9bYAA2mpT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26744,
+    "content": "Transform this photo into a {argument name=\"style\" default=\"whimsical folk flat illustration\"} with doodle elements. Preserve the original composition and characters, but simplify all details into {argument name=\"aesthetic\" default=\"clean colorful flat shapes with a handmade childlike feel\"}. Use {argument name=\"color palette\" default=\"pastel and vibrant colors\"}, rosy cheeks, playful line art, cute decorative symbols, flowers, birds, swirls, and cozy urban background details. The overall mood should feel warm, joyful, artistic, and charming like a modern children’s book illustration.",
+    "title": "Whimsical Folk Doodle Illustration",
+    "description": "A prompt to transform photos into a charming, colorful folk flat illustration with a handmade children's book aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464826701_zu4hxg_HLoJWu0acAAxJVf.jpg",
+      "https://cms-assets.youmind.com/media/1782464826705_gx9nre_HLoJWusawAAn6C5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26674,
+    "content": "Whimsical Korean-inspired illustration, soft pastel color palette, cozy aesthetic, hand-painted digital art, cute doodle elements scattered around the scene (hearts, stars, swirls, birds, flowers, clouds), warm sunlight and dreamy atmosphere, clean outlines, blushy cheeks, charming cartoon-style characters, subtle paper texture, highly detailed background, storybook feeling, kawaii aesthetic, gentle shadows, vibrant yet soft colors, playful composition, Instagram-worthy artwork, cozy and romantic mood, full-body characters, floral decorations, magical sparkles, ultra-detailed digital painting, adorable slice-of-life scene.\n\nImage 1 Variation (couple in café):\nCute young couple standing outside a cozy café, holding paper shopping bags, casual streetwear, shy expressions, leaning against a wall decorated with colorful doodles and a cute mascot poster, warm indoor lighting, flowers and potted plants around them, romantic everyday moment, whimsical Korean illustration style.\n\nImage 2 Variation (girl selfie):\nCute girl in oversized black outfit and wide-brim hat taking a selfie with her phone, bright blue sky background, fluffy clouds, smiling sun, colorful flowers, floating doodle hearts and stars, cheerful spring atmosphere, playful Korean illustration style, dreamy and aesthetic.\n\nImage 3 Variation (couple handshake):\nYoung couple holding hands and greeting each other under a leafy tree, matching black jackets and caps, flowing white dress, flowers blooming around them, soft afternoon sunlight casting beautiful tree shadows on the wall, romantic and peaceful atmosphere, whimsical Korean storybook illustration style.",
+    "title": "Korean-Inspired Whimsical Doodle Art",
+    "description": "A dreamy, pastel-toned digital art style featuring kawaii doodle elements and cozy slice-of-life scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464835536_zadeei_HLoBZiAbUAAtTM8.jpg",
+      "https://cms-assets.youmind.com/media/1782464835541_tyhxjf_HLoBZhwbkAE2HQP.jpg",
+      "https://cms-assets.youmind.com/media/1782464834206_a9ooke_HLoBZhgbgAADbPc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26819,
+    "content": "Goal: Create a cinematic 16-panel storyboard contact sheet for {argument name=\"story title\" default=\"ZAREYA — The Song That Buried a Kingdom\"}, showing a mythic desert singer wandering through the ruins of a buried empire. The mood is epic, tragic, mystical, and wind-swept, like 2.5D cel-shaded animation concept art with painterly anime backgrounds, stylized lighting, soft bloom, sand particle simulation, and warm sunset grading.\n\nCanvas: Wide 16:9 storyboard sheet, arranged as an exact 4-column by 4-row grid with thin pale dividing lines. Each panel is a separate cinematic shot with consistent golden-orange desert lighting, high detail, and no visible UI. Use a warm amber, bronze, ochre, and sepia palette, with occasional turquoise magical light.\n\nVisual style: Studio Ghibli atmosphere mixed with Arcane-style painterly rendering and Prince of Persia fantasy architecture. Highly cinematic composition, dramatic backlight, volumetric dust, wind-driven cloth, flowing hair, ornate jewelry, ancient sandstone ruins, colossal statues, and swirling sand. The heroine is {argument name=\"main character\" default=\"Zareya\"}, a solitary desert bard/princess with long dark braided hair, turquoise beads, gold ornaments, patterned desert robes, bangles, and a wooden flute. Her face is partly obscured or cropped in several close-ups; include flat dark-brown rectangular censor-like blocks over the face in exactly 3 panels to match the generated contact sheet.\n\nPanel layout: Include exactly 16 discrete panels:\n1. Extreme close-up of the heroine's closed eye, eyelashes, hanging gold chains, turquoise beads, and dust motes glowing in sunset light.\n2. Another close-up of the closed eye and cheek, framed by windblown hair and a dangling turquoise ornament.\n3. Low-angle wide shot of the heroine standing on a broken stone statue or fallen colossal head, cloak and hair blown by a sandstorm under a glowing sky.\n4. Close side view of braided hair, bead strands, and patterned headscarf, with a dark-brown rectangular block covering the face area.\n5. Medium close-up of the heroine playing a wooden flute, hands covered in bracelets, hair whipping in the wind, face hidden by a dark-brown rectangular block.\n6. Full-body shot of her walking alone through a circular vortex of sand and cloud, centered in a golden storm.\n7. Tiny figure walking toward monumental ruined columns and stone giants in a buried kingdom, sand curling around the architecture.\n8. Grand ruin vista with towering statues and palace remnants, the heroine as a small silhouette at the bottom, sky full of dust and light.\n9. Wide fantasy shot of enormous serpentine sand-dragon forms or storm spirits arcing above ancient ruins while the heroine stands on a rock ledge.\n10. Heroic medium shot of the heroine holding the flute near her shoulder, robe billowing, a dragon-shaped sandstorm behind her, face covered by a dark-brown rectangular block.\n11. Symmetrical temple-gate shot with two colossal statues, the heroine facing a tall vertical turquoise glow in the doorway, sand waves rising on both sides.\n12. Interior or gate shot looking into a vast carved doorway flooded with cyan-blue magical light, a small human silhouette standing at the threshold, sand drifting inward.\n13. Rear view of the heroine walking toward the glowing turquoise temple gate, cloak tattered and windblown, ornate ruins on both sides.\n14. Very wide desert landscape with rolling dunes, distant buried city, and a tiny lone traveler approaching a small blue-lit portal or doorway.\n15. Extreme wide aerial-like view of endless golden dunes and mountains, the traveler reduced to a tiny dark figure in the lower center.\n16. Final black title card with centered small serif text reading exactly: {argument name=\"closing text\" default=\"Every forgotten kingdom\\nstill remembers her song.\"}\n\nText content: Only the final panel contains text. Use elegant off-white serif typography, centered slightly right of the middle on a pure black background. Keep the line break between the two lines.\n\nConstraints: Maintain the exact 4x4 grid and exactly 16 panels. Do not add extra captions, logos, watermarks, speech bubbles, modern objects, sci-fi machinery, or additional characters. Keep the character design consistent across all panels. Emphasize wind-driven fabric, flying sand particles, painterly brush texture, cinematic sunset lighting, and the contrast between amber desert ruins and turquoise sacred light.",
+    "title": "Zareya Desert Kingdom Storyboard",
+    "description": "A cinematic 16-panel fantasy storyboard contact sheet about a desert bard whose song awakens the memory of a buried kingdom.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464891900_q6y76b_HLnls4zbAAAFpq0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26673,
     "content": "Cinematic 9:16 five-panel sequence featuring the same young man from the reference image exploring {argument name=\"location\" default=\"Icelandic highlands\"}. Curly dark hair and beard, wearing a {argument name=\"outfit\" default=\"rust-orange wool coat over a mustard hoodie\"}. Panels include: contemplative side-profile close-up, standing on a dramatic green cliff, tiny lone figure crossing vast moss-covered plains, aerial view of volcanic landscapes and winding roads, and a front-facing portrait on a dark gravel path. Arthouse film stills, 35mm film grain,photorealistic, {argument name=\"lighting\" default=\"moody overcast skies\"}, warm orange tones contrasting cool greens and blues, lonely introspective atmosphere, award-winning cinematography",
     "title": "Icelandic Highland Cinematography",
     "description": "A multi-panel sequence prompt depicting a journey through the Icelandic highlands with cinematic lighting and film grain.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782377894809_rc4tbv_HLk8UBWa0AAn58A.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26802,
+    "content": "Using REFERENCE_0 as the character base, redraw the rough black-and-white sketch into a polished, original anime character design sheet while keeping the same bust-up composition, short bob hairstyle, blazer-and-blouse outfit, and face-obscuring rectangle placement. Convert the sketch into clean expressive ink lines with soft watercolor-style coloring: warm brown hair, natural skin tones, a light beige blazer, white blouse, and a small delicate necklace. Keep the background plain white and expand the canvas horizontally so there is empty space on the left for handwritten character notes.\n\nAdd exactly 4 handwritten Japanese text lines on the left side, in black ink with subtle pink underline accents:\n1. {argument name=\"character name\" default=\"桜井 梓（35）\"}\n2. {argument name=\"profile line one\" default=\"仕事はデキるけど、\"}\n3. {argument name=\"profile line two\" default=\"恋愛はちょっぴり不器用。\"}\n4. {argument name=\"profile line three\" default=\"本当は素直になりたい。\"}\n\nStyle: refined but still sketch-like anime illustration, clean corrected anatomy, loose hand-drawn linework, soft marker/watercolor shading, gentle contemporary character-concept art feel. Do not add a detailed background, props, or extra characters.",
+    "title": "Polished Anime Character Sheet",
+    "description": "Transforms a rough bust sketch into a clean watercolor anime character concept sheet with handwritten Japanese profile notes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464879875_vujn5l_HLk37cBWoAA93yA.jpg"
     ],
     "needReferenceImages": true
   },
@@ -137,6 +285,19 @@
       "https://cms-assets.youmind.com/media/1782291896390_2k4zoe_HLfFn8lbUAAAAQe.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 26526,
+    "content": "Cute whimsical hand-drawn illustration in a playful {argument name=\"style\" default=\"kawaii storybook style\"}, bright pastel color palette, clean white background, doodle elements scattered around the scene (hearts, flowers, stars, clouds, swirls, leaves, sparkles), thick soft outlines, flat colors with subtle texture, cozy and cheerful atmosphere, charming {argument name=\"characters\" default=\"cartoon characters\"} with round eyes, rosy cheeks, simplified features, decorative {argument name=\"accents\" default=\"floral accents\"}, colorful objects and storefronts, aesthetic café and lifestyle vibes, highly detailed yet minimal, digital gouache illustration, children’s book aesthetic, sticker-like composition, vibrant composition, adorable and cozy mood, modern cute illustration, Instagram-worthy artwork, high resolution.",
+    "title": "Whimsical Kawaii Storybook Illustration",
+    "description": "A cozy hand-drawn illustration in a playful kawaii style, filled with doodle elements and a soft pastel palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782464859043_xe7rj9_HLeKxyKaMAAuqOq.jpg",
+      "https://cms-assets.youmind.com/media/1782464859399_a16f4v_HLeKxyAboAAGIaG.jpg",
+      "https://cms-assets.youmind.com/media/1782464858992_dod4gj_HLeKxyGaoAATMoo.jpg",
+      "https://cms-assets.youmind.com/media/1782464860480_q6p7zh_HLeKxySbwAA3LFa.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 26517,
