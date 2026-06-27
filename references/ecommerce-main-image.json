@@ -1,5 +1,37 @@
 [
   {
+    "id": 26861,
+    "content": "Premium product shot of {argument name=\"item\" default=\"[item]\"}, floating in a minimal {argument name=\"colors\" default=\"forest green and premium white\"} environment, soft shadows, studio lighting, reflections on surface, hyper-realistic textures, commercial advertising style, ultra-clean composition",
+    "title": "Premium Product Shot",
+    "description": "A clean and professional commercial prompt for showcasing products in a minimalist studio environment with hyper-realistic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549926246_6opz7b_HLv7fLRbMAAK2BW.jpg",
+      "https://cms-assets.youmind.com/media/1782549926289_nclyia_HLv7fLQawAAP0W0.jpg",
+      "https://cms-assets.youmind.com/media/1782549927045_zld35v_HLv7fLKbUAArMkZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26892,
+    "content": "Premium product shot of a {argument name=\"product name\" default=\"iPhone 17 Pro Max\"} floating diagonally above a glossy white circular pedestal in a minimal {argument name=\"background color\" default=\"pale mint green and warm cream\"} studio environment. Show exactly one smartphone, front-facing at a three-quarter angle, tilted slightly left, with a slim black bezel, metallic dark side rails, visible side buttons, bottom speaker holes, charging port, and a pill-shaped dynamic-island cutout at the top. The screen displays an elegant green abstract wallpaper with soft translucent oval shapes and centered white text reading “{argument name=\"screen text\" default=\"iPhone 17 Pro Max\"}”; include small lock-screen icons near the bottom. Use soft studio lighting, smooth gradients, a large curved mint backdrop, a creamy vertical light area on the right, realistic glass reflections, subtle highlights along the metal frame, and a diffused shadow directly beneath the floating phone on the glossy surface. Hyper-realistic textures, commercial advertising style, ultra-clean composition, wide landscape crop, no extra objects, no hands, no watermark.",
+    "title": "Floating iPhone Product Shot",
+    "description": "Creates a clean premium commercial product render of a floating smartphone in a soft mint studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549952132_g5jyed_HLthvIubYAA-4QW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26918,
+    "content": "Using REFERENCE_0 as the creature design base, turn the rough sketch into a polished collectible toy/garage-kit render. Preserve the monster’s core silhouette and features from the sketch, but convert it into a glossy translucent green vinyl figure with soft sculpted details, rounded toy-like proportions, pearly off-white claws/teeth/belly highlights, and black-and-white glossy eyes.\n\nCreate a clean product turnaround sheet with exactly 3 vertical panels separated by white gutters: 1) front view, 2) left side profile, 3) right side / rear three-quarter profile. Keep the figure standing upright in the same general pose, with the horns, many eyes, small wings, multiple arms, segmented belly, chunky legs, tail, claws, bumps, scales, and kaiju-toy texture translated into a finished 3D sculpt.\n\nStyle: {argument name=\"toy material\" default=\"translucent emerald green glossy vinyl\"}, studio product photography, soft even lighting, subtle shadows, neutral light gray background, high detail, playful Japanese sofubi monster aesthetic. Do not include text, logos, hands, tools, or sketch lines. The final image should look like rendered photos of a physical prototype ready for 3D modeling or sculpting reference.",
+    "title": "Green Vinyl Monster Turnaround",
+    "description": "Creates a three-view product-style turnaround render of a sketched monster as a glossy translucent sofubi toy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549971969_6ex96s_HLs5zejbQAAvYZk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26774,
     "content": "Create a stylized collectible toy package featuring {argument name=\"character name\" default=\"[CHARACTER NAME]\"}.\n\nPackaging color: {argument name=\"packaging color\" default=\"[COLOR]\"}\nTop text: \"{argument name=\"title\" default=\"[TITLE]\"}\"\nFigure style: adorable vinyl designer toy, oversized head, simplified proportions.\nPose: [POSE]\nExpression: [EXPRESSION]\n\nAccessories:\n• [ITEM 1]\n• [ITEM 2]\n• [ITEM 3]\n• [ITEM 4]\n• [ITEM 5]\n\nOutfit:\n[OUTFIT DESCRIPTION]\n\nProfessional product photography, molded plastic tray, luxury collectible packaging, front view, symmetrical layout, soft shadows, matte finish, ultra-detailed 3D render.",
     "title": "Collectible Toy Packaging Designer",

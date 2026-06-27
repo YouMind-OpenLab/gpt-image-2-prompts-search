@@ -10,22 +10,124 @@
     "needReferenceImages": true
   },
   {
-    "id": 26800,
-    "content": "Create a cheerful vertical anime-style illustration of a cute pudding mascot greeting the viewer in a sunny riverside forest. The main subject is a plump custard pudding creature with a glossy caramel top, small rounded limbs, shiny black oval eyes, and a wide happy open mouth; it sits on bright green grass beside a sparkling blue stream. On top of the pudding place exactly 2 dessert toppings: one swirl of white whipped cream and one shiny red cherry with a stem. Add large playful Japanese greeting text across the upper sky reading {argument name=\"greeting text\" default=\"こんにちは\"}, in thick rounded orange lettering with a white outline, decorated with exactly 2 small flower icons: one pink flower at the upper left of the text and one yellow-orange flower at the upper right. Surround the mascot with exactly 4 colorful music-note icons: one orange note near the left upper side, one yellow note at the left middle, one pink note at the right middle, and one yellow note at the upper right. Include small white sparkles and curved magical motion lines around the character. The environment should show a clear blue sky with soft clouds, dense sunlit green trees, a flowing river on the left with foam and glittering highlights, rounded river stones in the foreground, and small yellow and white wildflowers in the grass. Use warm golden sunlight, soft painterly anime rendering, saturated colors, cute kawaii mood, shallow depth of field, polished digital art, no watermark, no extra text beyond the greeting.",
-    "title": "Kawaii Pudding Riverside Greeting",
-    "description": "A cute anime pudding mascot greeting scene for cheerful social posts, stickers, or character art.",
+    "id": 26891,
+    "content": "Create a premium, modern {argument name=\"style\" default=\"high-fashion\"} {argument name=\"type\" default=\"character concept art sheet\"} in a {argument name=\"layout\" default=\"16:9 widescreen layout\"} on a pure white background, following this exact structured composition and visual aesthetic: [STYLE]: high-contrast digital anime illustration with clean,",
+    "title": "Anime High Fashion Character Sheet",
+    "description": "A professional prompt for generating modern high-fashion character concept art sheets in a digital anime style with a widescreen layout.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782464878389_un6gke_HLuD0H6bcAAdlHp.jpg"
+      "https://cms-assets.youmind.com/media/1782549951058_9blz3z_HLxyf8KbYAAwZAS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26890,
+    "content": "Create a {argument name=\"aspect ratio\" default=\"16:9\"} energetic {argument name=\"subject\" default=\"villain-duel\"} cinematic storyboard sheet image.",
+    "title": "Cinematic Villain Duel Storyboard",
+    "description": "A cinematic storyboard prompt designed for an energetic villain duel, formatted for a 16:9 widescreen layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549950748_1nykdz_HLwK86MXIAAZrYf.jpg",
+      "https://cms-assets.youmind.com/media/1782549950818_4aqci4_HLwK86JXYAEccM-.png",
+      "https://cms-assets.youmind.com/media/1782549950975_zfjb90_HLwK86WWoAAu2bi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26907,
+    "content": "Create a highly detailed vertical cinematic concept art scene set in a snowy cyberpunk Japanese mountain city at night. The viewpoint is from street level, looking up a wet stone stairway through a massive red wooden torii-style gate with a snow-covered roof beam and a central wooden sign reading {argument name=\"gate sign text\" default=\"山形道\"}. Two large glowing paper lanterns hang on the left and right sides of the gate, each also marked {argument name=\"lantern text\" default=\"山形道\"}, and exactly two smaller square lanterns hang beneath the gate beam. In the foreground, place exactly two young travelers seen mostly from behind, both wearing long weathered sci-fi kimono coats, layered armor, backpacks, belts, pouches, boots, and subtle cybernetic equipment; the left traveler is slightly taller with short dark hair and turns toward the right traveler, while the right traveler has a shorter bob haircut and looks back at the left traveler. Around them, include exactly four armed armored guards clearly visible near the gate area, plus one robed civilian with a straw hat at the far left and a small street vendor stall at the right. The city rises vertically in dense stacked wooden-and-metal buildings, pipes, catwalks, bridges, balconies, windows, neon signs, and hanging paper signs, blending Edo-period architecture with dystopian industrial science fiction. Use many warm amber window lights and lantern glows against cold blue-gray snow, mist, and towering dark structures. Snow falls through the air, rooftops and railings are dusted with snow, and the pavement is glossy with puddles reflecting orange lantern light. Mood: mysterious, immersive, lived-in, grand scale, quiet before an adventure. Style: ultra-detailed anime-realistic digital painting, intricate environmental design, cinematic lighting, atmospheric depth, sharp foreground detail, deep perspective, 9:16 vertical composition, no modern cars, no English signage, no watermark.",
+    "title": "Snowy Cyberpunk Yamagata Gate",
+    "description": "Generates a vertical cinematic anime-realistic scene of two travelers entering a snowy neon-lit Japanese cyberpunk mountain district.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549964870_bg0qu5_HLv5p2xaYAAWyoW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26888,
+    "content": "Please enter the name in the name field 🔸Prompt🔸 Use the attached character illustration as the most critical reference,",
+    "title": "Reference Character Image Styling",
+    "description": "An instructional prompt for gpt-image-2 to use an attached character illustration as the primary visual reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549949048_eyz1yi_HLvdQ-fbkAAZ27w.jpg",
+      "https://cms-assets.youmind.com/media/1782549949069_pao081_HLvdTCsaIAA_N_Q.jpg",
+      "https://cms-assets.youmind.com/media/1782549949054_vyav7v_HLvdT-haoAAXoHv.jpg",
+      "https://cms-assets.youmind.com/media/1782549949988_0kv68i_HLvdU_5bsAA4kSI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26863,
+    "content": "A cute {argument name=\"character\" default=\"handcrafted clay character\"} in a whimsical 3D stop-motion style, standing in front of giant bold black typography on a clean white background. The character has oversized sneakers, simplified facial features, a cheerful expression, rounded proportions, and a playful pose interacting with the word behind them. Soft matte polymer clay texture, visible hand-sculpted imperfections, {argument name=\"colors\" default=\"vibrant pastel colors\"}, minimal composition, studio lighting, soft shadows, high detail, premium toy design, modern graphic poster aesthetic, centered composition, ultra-clean background, Pixar-inspired but handcrafted clay animation look, high-resolution.",
+    "title": "Clay Stop-Motion Character",
+    "description": "Generates a whimsical 3D stop-motion style clay character with playful typography, perfect for modern poster aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549928402_j52pnt_HLurx9LawAAPrdq.jpg",
+      "https://cms-assets.youmind.com/media/1782549927256_y3sw2y_HLurx9UbEAA4Z-q.jpg",
+      "https://cms-assets.youmind.com/media/1782549927339_2gukiw_HLurx9OaYAAxT7s.jpg",
+      "https://cms-assets.youmind.com/media/1782549927821_0ldjpy_HLurx9PbEAApwxu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26869,
+    "content": "Subject: Android in the Rain Person/Expression: A clearly adult female android in her {argument name=\"age range\" default=\"late 20s\"}. {argument name=\"hairstyle\" default=\"Silver short bob\"}, bangs lightly over eyes, with faint pink and cyan reflections on the tips. Raindrops on transparent skin, lips slightly parted. Chin slightly raised, with a cool and composed gaze looking down at the camera. Outfit/Pose: Futuristic bodysuit composed of white glossy armor and a black internal frame. Streamlined white armor wrapping the chest and waist, with black mechanical joints and glowing lines visible from neck to shoulders, armpits, and arms. Glowing colors are cyan and magenta. The person's own right arm is raised behind the head on the left side of the screen, with the wet forearm crossing over the forehead. The left arm is naturally lowered to the bottom right of the screen, with fingertips resting on a wet railing. Sitting on the edge of a rooftop with one knee forward, leaning the upper body slightly back. Background/Light: Futuristic city at midnight in the rain. High-rise building window lights, blue and pink vertical neon signs, wet metal railings, translucent hologram UI on the left of the screen. Abstract unreadable glowing signs in the background. Main light is magenta neon from the front left, auxiliary light is cyan blue from the back right. White rim light on top of the hair, small reflections in raindrops on cheeks and chest. Shadows fall deeply on the black mechanical frame side, neon reflecting long on the wet floor. Composition/Camera: Portrait 2:3. Close-up portrait from upper thighs to above the head. The person is placed large, slightly to the right of center, with the face in the upper third of the screen. Slightly upward angle from a low camera position. Compression typical of a medium-telephoto lens, background city lights lightly blurred. Focus is on eyes and face, fine reflections of raindrops and armor preserved. Texture/Style: Realistic cyberpunk SF visual. Precise depiction of wet skin, black carbon-like frame, transparent water droplets, and neon reflections. High contrast centered on blue-purple and magenta, with raindrops and mist adding depth to the atmosphere. Not an overly stylized anime face, but a texture of skin and metal materials with a photographic feel. Negative: Expressions that look underage, unnatural face or gaze, extra or missing fingers, broken wrists or elbows, fusion of arms and armor, unnatural deformation of chest armor, floating parts, inconsistent wetness, shadows that don't match light sources, garbled readable text, logos, watermarks, unwanted persons, excessive sexual expression, nudity, plastic-like skin.",
+    "title": "Cyberpunk Rain Android Portrait",
+    "description": "An incredibly detailed professional prompt for a high-quality cyberpunk female android in a rainy neon city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549933797_8iahs7_HLuPV6PacAIfBpp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26846,
+    "content": "{\"style\": \"Highly detailed GTA San Andreas-inspired cinematic poster illustration with modern urban editorial aesthetics, bold comic-book shading, dramatic lighting, rich contrast, vivid color grading, layered textures, graffiti details, sticker graphics, distressed poster textures, premium typography, and dynamic street-style composition. Ultra-detailed 8K render quality.\", \"subject\": {\"description\": \"Young charismatic man with curly hair, beard, and glasses, portrayed as the central focal point in a modern GTA San Andreas loading-screen inspired artwork.\", \"pose\": \"Relaxed yet confident seated pose with expressive natural body language, slightly leaning forward with one hand near the chin, giving a stylish international fashion-model vibe.\", \"expression\": \"Confident, charismatic, friendly smile with strong personality and modern urban attitude.\", \"outfit\": {\"style\": \"Modern premium streetwear fashion\", \"details\": [\"Layered varsity jacket\", \"Oversized hoodie\", \"Graphic typography elements\", \"Streetwear patches\", \"Luxury casual accessories\", \"Chain necklace\", \"Modern watch\"], \"colors\": [\"dark green\", \"cream white\", \"black\", \"gold accents\"], \"materials\": [\"wool\", \"cotton\", \"leather textures\"]}}, \"background\": {\"theme\": \"Dynamic Indonesian urban atmosphere mixed with GTA San Andreas cinematic environment\", \"landmarks\": [{\"name\": \"Monas\", \"city\": \"Jakarta\"}, {\"name\": \"Gedung Sate\", \"city\": \"Bandung\"}, {\"name\": \"Borobudur Temple\", \"city\": \"Yogyakarta\"}, {\"name\": \"Suramadu Bridge\", \"city\": \"Surabaya\"}, {\"name\": \"Pura Ulun Danu\", \"city\": \"Bali\"}], \"elements\": [\"sunset cinematic sky\", \"urban skyline\", \"palm trees\", \"classic lowrider car\", \"graffiti walls\", \"street poster textures\", \"editorial collage overlays\", \"sticker graphics\", \"paint splashes\", \"grunge textures\", \"comic ink outlines\"]}, \"typography\": {\"main_title\": \"Kings Landing\", \"subtitle\": \"Indonesia Is My Playground\", \"style\": \"Bold premium urban typography inspired by GTA San Andreas promotional artwork\", \"details\": [\"layered title composition\", \"distressed fonts\", \"street-style lettering\", \"graffiti-inspired accents\", \"sticker typography\", \"dynamic hierarchy\", \"modern editorial placement\"]}, \"lighting\": {\"style\": \"Cinematic dramatic sunset lighting\", \"details\": [\"high contrast shadows\", \"warm orange glow\", \"deep blacks\", \"golden highlights\", \"soft atmospheric haze\"]}, \"composition\": {\"layout\": \"Highly engaging non-generic poster layout with layered depth and asymmetrical balance\", \"camera_angle\": \"Medium close-up with cinematic perspective\", \"render_quality\": \"Ultra detailed 8K\", \"mood\": [\"vibrant\", \"cinematic\", \"stylish\", \"premium\", \"urban\", \"modern\", \"energetic\"]}, \"art_direction\": {\"inspirations\": [\"GTA San Andreas loading screens\", \"modern streetwear campaigns\", \"urban editorial posters\", \"comic-book illustration\", \"luxury urban branding\"], \"avoid\": [\"flat composition\", \"stiff pose\", \"minimal details\", \"generic typography\", \"plain clothing\", \"empty background\"]}}",
+    "title": "GTA San Andreas Indonesian Style Illustration",
+    "description": "A stylistic prompt that merges GTA San Andreas loading screen art with Indonesian urban landscapes and modern streetwear aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549918757_qjnqh6_HLucRqsa0AAB0cu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26856,
+    "content": "{argument name=\"lighting style\" default=\"Warm golden hour sunlight\"} fills the scene, glowing dust particles drifting through volumetric light rays, creating a soft magical atmosphere. {argument name=\"background\" default=\"Rustic wooden village\"} background softly blurred with shallow depth of field. {argument name=\"art style\" default=\"Pixar / Disney-style 3D render\"} — cute, cozy, whimsical. Cinematic lighting with a soft rim light on hair. Ultra-detailed, high quality, warm color palette, 4k, bokeh, soft focus.",
+    "title": "Whimsical Pixar Style Golden Hour Render",
+    "description": "Generates a magical 3D render of a rustic village with cinematic golden hour lighting, volumetric light rays, and whimsical Pixar-style aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549922588_54nc2v_HLuWUefagAAxKpq.jpg",
+      "https://cms-assets.youmind.com/media/1782549923500_nqcb9l_HLuWUdma0AAxtJX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26923,
+    "content": "Goal: Create a futuristic anime/cyberpunk character identity board for {argument name=\"character name\" default=\"KAIYŌ\"}, an operative from a covert faction, presented like a clean confidential concept-art sheet.\n\nCanvas: Landscape 4:3 white studio background, high-resolution digital illustration, lots of negative space, thin pale pink divider lines, dark charcoal typography with hot-pink accent labels.\n\nLayout: Large faction logo on the far left with the text “CIAO SYNDICATE” beneath it. Top-left identity block with the huge title “KAIYŌ” and small Japanese text “海洋” to the right, subtitle “Operative / Infiltration Specialist,” then six compact dossier rows: Real Name: KAIYŌ; Code Name: WAVE; Faction: CIAO SYNDICATE; Role: INFILTRATION SPECIALIST; Origin: UNKNOWN; Weapon: CUSTOM SMG. Add the quote “THE QUIETEST WAVE LEAVES THE DEEPEST MARK.” in pink below the dossier.\n\nMain subject: Center-dominant full-color illustration of a young female infiltration specialist kneeling in a tense crouch, one knee up and one knee down, holding a compact custom SMG pointed downward. She has {argument name=\"hair color\" default=\"long silver-lavender hair with pink highlights\"}, a high ponytail with loose strands, sharp intense eyes, and a patterned tactical respirator mask covering the lower half of her face. Outfit is a layered loose tactical kimono-style jacket over dark undersuit pieces, baggy cargo pants, black knee pads and shin guards, chunky combat sneakers, fingerless gloves, side straps, belts, dangling fabric ribbons, and magenta tactical accents. Lighting and painting style are energetic concept art with angular brush strokes, cel-shaded anime realism, magenta/cyan rim lighting, deep violet shadows, and crisp edges.\n\nLeft-side detail panels: Include exactly 3 panels on the left below the identity block: 1) “FULL BODY” panel showing a small standing full-body version of the character holding the SMG at her side; 2) “COLORS” panel with exactly 5 vertical color swatches: pale lavender gray, hot magenta, dark purple, deep teal, and near-black charcoal; 3) “WEAPON” panel showing a side-view compact custom SMG with suppressor, optic, magazine, foregrip, collapsible stock, and a small magenta ribbon tag.\n\nRight-side detail panels: Include exactly 4 cropped head-detail views under the pink label “HEAD DETAILS”: 1) front view with mask and direct stare, 2) three-quarter side view showing high ponytail and mask profile, 3) rear head view showing ponytail and jacket collar, 4) a small additional head crop integrated in the upper cluster if needed for balance. Below them, include the label “TURNAROUND” and exactly 4 full-body turnaround figures: front, three-quarter/front-side, side profile, and back view.\n\nVisual style: Premium game-character concept sheet, inspired by modern tactical anime design and slick sci-fi identity boards, clean editorial layout, thin pink guide lines, subtle gray shadows under figures, no heavy background scenery. Use {argument name=\"accent color\" default=\"hot magenta\"} as the main graphic accent and rim-light color.\n\nConstraints: Keep all visible text in English except the small “海洋” next to the character name. Use exactly the counted panels and detail views listed above. Do not add extra characters, logos, UI windows, watermarks, or background environments.",
+    "title": "Cyberpunk Operative Character Sheet",
+    "description": "Generates a polished sci-fi anime identity board for a masked infiltration specialist with dossier text, detail studies, weapon art, color swatches, and turnaround views.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549976344_4z6kxl_HLuUrBVasAAKS00.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 26789,
-    "content": "Create a dramatic vertical anime fantasy illustration of {argument name=\"character name\" default=\"a pale silver-haired battle maiden\"} in the ruins of a shattered Gothic cathedral. She is shown in a dynamic low-angle three-quarter action pose, lunging forward through broken stone and smoke, her long {argument name=\"hair color\" default=\"white-silver\"} hair and many translucent ribbon-like veils streaming wildly in the wind. She wears an ornate dark black-and-charcoal combat dress with layered ruffles, lace trim, floral decorations around the collar and headpiece, and fitted armored details, mixing gothic lolita elegance with battle-worn fantasy armor. Her expression is calm, focused, and almost emotionless, eyes partly hidden by bangs. One arm extends toward a huge transparent oval magical shield on the right side of the image; the shield is glasslike, luminous, and covered with concentric circular sigils, radial mechanical patterns, cracks of light, and sparkling fragments. Her other arm holds or is fused with a massive cylindrical weapon or gauntlet cannon angled down toward the lower left, metallic, heavy, smoking, and glowing faintly with orange heat. The background is a towering ruined cathedral interior with broken arches, jagged walls, distant spires, tall arched windows, collapsed masonry, dust clouds, drifting ash, and small ember sparks. Use a mostly monochrome palette of cool gray, ivory, charcoal, and muted blue-gray, with warm orange highlights from embers and magical impact light. The style should be highly detailed Japanese anime concept art with painterly watercolor textures, ink-like linework, cinematic lighting, volumetric dust, motion blur in the ribbons, intricate fabric folds, and a sense of impact and sacred devastation. Composition: portrait orientation, character centered slightly left, shield dominating the right edge, weapon entering from the bottom left, bright backlight from the cathedral windows and glowing shield, no text, no watermark.",
-    "title": "Gothic Cathedral Battle Maiden",
-    "description": "A detailed prompt for generating a dramatic anime fantasy warrior in a ruined cathedral with a luminous magical shield and smoky weapon.",
+    "content": "Create a vertical 2:3 high-detail anime fantasy illustration of {argument name=\"character name\" default=\"a silver-haired battle maiden\"} in a ruined gothic cathedral during combat. The character is centered in a dynamic low-angle three-quarter pose, leaning forward with one arm extended to the right holding a huge translucent circular shield or magical glass barrier, and the other arm lowered to the left with a heavy mechanical gauntlet cannon emitting smoke and orange heat. She has long flowing {argument name=\"hair color\" default=\"silver-white\"} hair, pale skin, a calm serious expression with half-lidded eyes, and delicate white floral head ornaments with ribbon-like streamers whipping through the air. Her outfit is a dark, ornate, tattered gothic dress with lace trim, layered white underskirt, black bodice, armored sleeves, and frayed cloth strips swirling around her. The environment is a vast collapsed stone cathedral with pointed arches, broken stained-glass windows, crumbling walls, distant ruined towers, dust, fog, rubble, and shafts of cold daylight. The shield is an oversized oval disk of clear glass-like energy with etched concentric circles and radial patterns, catching bright highlights on the right side of the image. Use a monochrome gray, ash, ivory, and charcoal palette with small warm ember sparks and glowing orange accents. Style should be painterly Japanese anime concept art, extremely detailed linework, dramatic motion, cinematic lighting, high contrast, watercolor-and-ink texture, atmospheric smoke, flying debris, no visible text, no watermark, no border.",
+    "title": "Silver-Haired Cathedral Battle Maiden",
+    "description": "A cinematic anime fantasy prompt for generating a silver-haired gothic warrior defending herself with a glass-like shield in a ruined cathedral.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782464868089_p9u1e5_HLqx_r1bgAAgnfH.jpg"
+      "https://cms-assets.youmind.com/media/1782549957587_becp1w_HLqx_r1bgAAgnfH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26852,
+    "content": "Masterpiece quality 9:16 aspect ratio\n@image1 = {argument name=\"reference character\" default=\"primary character reference\"}\nPreserve the referenced characters’ face shape, hairstyle, hair color, eye color, correct number of limbs and fingers, personality, body language, signature color palette, outfit motifs, species traits, accessories, silhouette, body shape, body proportions, and overall character vibe. If the character has a mask, do not change it. If the character does not have a head, do not invent one. Do not lose character recognizability. Do not turn the character into a generic person or unrelated design. Do not overcrowd the composition. Do not introduce extra characters or duplicates. Do not break anatomy unless clearly justified by transformation concept. Do not make the scene visually confusing or unreadable. Do not explicitly list or name the hidden influences used. Do not let environment overpower the character.\nUse your Python environment (Code Interpreter) to generate a pseudo-random number. Do not guess or rely on your language modeling weights to pick the number. \nPlease follow these exact constraints:\n1. Range: Between [1] and [4], inclusive.\n2. Type: [Integer]\n3. Execution: Import the 'random' or 'secrets' library to compute the result.\n4. Output: Do not provide the final random number(s) as the output. Do not include conversational filler. Use the number to select the setting from the list below.\n1. Wild West\n2. Edwardian England\n3. 1920’s Jazz Era\n4. Medieval\nDraw two versions of @image1. Draw a diagonal line separating both versions. The line’s color, shape, and material effect will be determined by the visual personality of @image1. @image1 will be On the left, standing in a parlor fitting to the chosen setting and wearing a formal outfit, also fitting the chosen setting, by a fireplace. The outfit must adhere to the visual personality of @image1. The expression and posture will one of peaceful contentment. This setting will be midday.\nThe right side will have @image1 wearing a superhero costume fitting to the chosen setting. The costume must be intricate, elegant, designed for maximum stealth, adhere to the visual personality of @iamge1, and have a powerful aura. They will be outdoors at night, and they will be stalking potential criminals. @image1 will use weapons or magic fitting to their character and visual personality. If @image1 is a child, they will use magic and ensure their costume is appropriate and cute. The expression and posture will one of a stealthy assassin.",
+    "title": "Superhero Era Transformation Split Portrait",
+    "description": "A complex logic-based prompt that uses reference images to transform a character into two versions (normal and superhero) across different historical eras.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549920804_xxf6nf_HLssDvzXgAAYuNp.jpg",
+      "https://cms-assets.youmind.com/media/1782549920797_37oh0x_HLssDvzW4AA1lbo.jpg",
+      "https://cms-assets.youmind.com/media/1782549920747_ublv37_HLssDvwXUAASakz.jpg",
+      "https://cms-assets.youmind.com/media/1782549921554_ppgsgf_HLssDvyXAAAD2lZ.jpg"
     ],
     "needReferenceImages": true
   },
@@ -87,11 +189,21 @@
   },
   {
     "id": 26802,
-    "content": "Using REFERENCE_0 as the character base, redraw the rough black-and-white sketch into a polished, original anime character design sheet while keeping the same bust-up composition, short bob hairstyle, blazer-and-blouse outfit, and face-obscuring rectangle placement. Convert the sketch into clean expressive ink lines with soft watercolor-style coloring: warm brown hair, natural skin tones, a light beige blazer, white blouse, and a small delicate necklace. Keep the background plain white and expand the canvas horizontally so there is empty space on the left for handwritten character notes.\n\nAdd exactly 4 handwritten Japanese text lines on the left side, in black ink with subtle pink underline accents:\n1. {argument name=\"character name\" default=\"桜井 梓（35）\"}\n2. {argument name=\"profile line one\" default=\"仕事はデキるけど、\"}\n3. {argument name=\"profile line two\" default=\"恋愛はちょっぴり不器用。\"}\n4. {argument name=\"profile line three\" default=\"本当は素直になりたい。\"}\n\nStyle: refined but still sketch-like anime illustration, clean corrected anatomy, loose hand-drawn linework, soft marker/watercolor shading, gentle contemporary character-concept art feel. Do not add a detailed background, props, or extra characters.",
-    "title": "Polished Anime Character Sheet",
-    "description": "Transforms a rough bust sketch into a clean watercolor anime character concept sheet with handwritten Japanese profile notes.",
+    "content": "Using REFERENCE_0 as the character base, cleanly redraw the sketch as a polished original anime character concept sheet portrait. Preserve the same front-facing bust composition, gentle smile, short bob haircut, and calm adult expression, but convert the rough black-and-white line drawing into refined manga/anime key art with delicate ink lines, soft watercolor-like coloring, warm skin tones, light blush, glossy brown eyes, and natural medium-brown hair with highlights. Add a professional outfit: a light beige blazer over a white blouse, plus a small gold necklace. Keep the background plain white.\n\nAdd handwritten character notes on the left side of the portrait, with exactly 4 visible lines of Japanese text:\n1. 「{argument name=\"character name and age\" default=\"桜井 梓（35）\"}」\n2. 「仕事はデキるけど、」\n3. 「恋愛はちょっぴり不器用。」\n4. 「本当は素直になりたい。」\nUnderline the first line and the final phrase with thin pink marker strokes.\n\nStyle: clean Japanese anime illustration, semi-realistic josei character design, soft transparent watercolor shading over sketchy but controlled line art, light and airy, no heavy background details, no extra characters, no watermark.",
+    "title": "Anime Character Sheet Redraw",
+    "description": "Transforms a rough portrait sketch into a polished watercolor-style anime character concept sheet with handwritten profile notes.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782464879875_vujn5l_HLk37cBWoAA93yA.jpg"
+      "https://cms-assets.youmind.com/media/1782549974213_9fjjru_HLk37cBWoAA93yA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26701,
+    "content": "Create a vertical photorealistic fantasy fashion design sheet on a wooden desk: a full-body ancient Chinese hanfu model appears to come alive from a cream sketch paper clipped to a drawing board, blending 3D realism in the upper body with pencil sketch and pale watercolor fashion illustration in the lower skirt. The model is {argument name=\"character name\" default=\"Look 01\"}, a delicate young East Asian woman with fair skin, soft makeup, long black hair in a loose half-up style, and a silver floral hair ornament with dangling beads. She wears {argument name=\"outfit color palette\" default=\"moon-white and misty pale blue\"} layered hanfu: translucent gauze sleeves, white inner robe, pale blue embroidered collar trim, wrapped blue-gray waist sash with a bow and pearl tassel, and a flowing semi-transparent skirt that dissolves into visible graphite construction lines near the hem and feet. The pose is graceful and seated/reclining on the paper, head turned slightly upward to the right, one hand resting near the waist and the other touching the paper. Add exactly 5 handwritten fashion annotation areas on the page: 1) top right title “Look 01” underlined, 2) “hair ornament” with Chinese note “发髻结构” and a small ornament sketch, 3) left side “sleeve volume” with Chinese note “袖型” and a sleeve diagram, 4) right middle “ribbon flow” with Chinese note “飘带走势” and flowing ribbon arrows, 5) lower left “skirt movement” with Chinese note “裙摆动态” and a skirt motion sketch. Surround the board with traditional design-studio props: a ceramic teacup at upper left, paper and color swatches at left, a pale jade pendant/tassel at lower left, fabric swatches in white and blue at bottom left, calligraphy paper and wooden tray at upper right, two drawing pens on the right, and a visible hand at lower right sketching the dress with a pencil. Use warm natural window light, shallow depth of field, realistic paper texture, graphite lines, soft watercolor washes, cinematic top-down three-quarter composition, high detail, elegant ancient Chinese aesthetic, no extra text beyond the specified annotations.",
+    "title": "Living Hanfu Fashion Sketch",
+    "description": "A photorealistic ancient Chinese fashion design sheet where a moon-white hanfu model emerges from pencil and watercolor sketches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549975134_k1jjgh_HLk27vFWsAAoPjG.jpg"
     ],
     "needReferenceImages": true
   },
@@ -115,6 +227,16 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782464892154_l2z2lh_HLkhmV8WAAAkoRb.jpg",
       "https://cms-assets.youmind.com/media/1782464892235_iz27d2_HLkhmVhawAAavAP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 26883,
+    "content": "Maintain the character from the reference image perfectly, including face, hairstyle, hair color, eyes, ears, build, skeletal structure, shoulder width, neck thickness, arm silhouette, age, gender expression, and atmosphere. The screen is a split-screen composition divided into left and right. Both sides capture the same moment from different cameras, featuring the same vehicle on the same corner and time axis. [Vehicle] The vehicle in both screens is the same. Model: {argument name=\"vehicle type\" default=\"sports car or tuned car\"}. Both screens show the same vehicle from different viewpoints. [Left Screen] Driver camera. Diagonal low-angle waist-up shot from inside the car. The character is driving, holding the steering wheel with both hands while cornering. Their gaze is fixed forward with a serious, focused expression. G-forces act on the body, with hair and clothing swaying slightly. Outfit: {argument name=\"outfit\" default=\"motorsport fashion\"}. The character's face and expression are prominent. Roll cage, bucket seats, and meters appear naturally inside the car. [Right Screen] Third-person chase camera. A viewpoint following the same vehicle from behind and slightly above. A Japanese mountain pass (touge). A winding road surrounded by forest with guardrails and road markings. Realistic hairpin curves. Pose changes reflecting the vehicle's weight shift during cornering. High-speed driving, dynamic movement, tire grip, and a sense of unity with the road. [Visual Effects] Racing game screenshot style. Minimal or no HUD. Reality like a sports broadcast. The left and right screens are not separate scenes; they capture the exact same moment from two cameras. The character's steering and the vehicle's behavior are perfectly synchronized. High-quality anime characters and background. A sense of dynamism and speed. A scene from a cinematic work.",
+    "title": "Split Screen Racing Game Driver View",
+    "description": "A complex split-screen prompt that captures both the driver's interior perspective and an external follow camera during a high-speed race on a Japanese mountain pass.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782549945787_hi2cdf_HLjhzTyaUAAm-Hx.jpg"
     ],
     "needReferenceImages": true
   },
