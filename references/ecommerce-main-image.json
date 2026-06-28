@@ -1,5 +1,16 @@
 [
   {
+    "id": 26946,
+    "content": "Generate a photorealistic studio image of a custom bobble-head collectible figure modeled after {argument name=\"player name\" default=\"PLAYER NAME\"}, based entirely on the attached reference photo. The reference image is the absolute and sole source of truth for all physical characteristics — do not rely on any prior knowledge, training data, or assumptions about how [PLAYER NAME] looks. Every visual decision must be driven exclusively by what is visible in the attached photo.\nFollow all of the rules below without exception:\nLikeness & Identity\n•Engrave the name ”[PLAYER NAME]” in clean white lettering on the front face of the two-tiered base beneath the figure.\n•Reproduce every distinctive facial feature — bone structure, eye shape, nose, lips, skin tone, and complexion — exactly as seen in the reference. Do not smooth, soften, generalize, or idealize any feature.\n•The hairstyle must match the reference with exact fidelity — preserve natural curl, wave, coil, frizz, volume, length, and direction. Never straighten, flatten, or restyle the hair.\n•Replicate facial hair (beard, mustache, stubble) at the precise density and pattern shown in the reference. If the subject appears clean-shaven, add absolutely no facial hair.\n•Include accessories such as glasses, earrings, or a hat only if they are visibly present in the reference photo. If no accessories appear, add none whatsoever.\nFigure Design & Style\n•The figure must follow a classic sporty bobble-head aesthetic — proportionally large head, compact body, and an overall collectible toy feel. This is not a Funko Pop, not a caricature, and not a hyper-stylized vinyl figure.\n•The neck must be short and thick in proportion, with absolutely no spring, coil, or hinge mechanism visible.\n•Dress the figure in the {argument name=\"national kit\" default=\"official national football kit\"} that corresponds to [PLAYER NAME]’s country — use the correct jersey color, shorts, and socks as worn by their national team. Do not default to any generic or incorrect kit.\nPose & Base\n•Pose the figure standing upright with one foot casually resting on top of a standard soccer ball, which sits directly on the base.\n•The base must be two-tiered, with a top surface that mimics the texture of matte natural grass — no gloss, no shine, no reflection of any kind.\nBackground & Lighting\n•The background must show a {argument name=\"background location\" default=\"football stadium\"} that is softly blurred using a shallow depth-of-field bokeh effect, so the figure remains the clear focal point.\n•The stadium lighting must evoke a warm golden hour — rich amber and soft orange tones, low sun angle, cinematic warmth.\nFormat\n•Final output must be in 4:5 portrait orientation.",
+    "title": "Custom Sports Bobblehead Figurine",
+    "description": "A detailed technical prompt for turning any athlete's photo into a photorealistic collectible bobblehead with stadium lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782636846057_2ylw4o_HL14VNuacAE0-tG.jpg",
+      "https://cms-assets.youmind.com/media/1782636846032_uvdyer_HL14VNtbEAAjSko.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26861,
     "content": "Premium product shot of {argument name=\"item\" default=\"[item]\"}, floating in a minimal {argument name=\"colors\" default=\"forest green and premium white\"} environment, soft shadows, studio lighting, reflections on surface, hyper-realistic textures, commercial advertising style, ultra-clean composition",
     "title": "Premium Product Shot",
@@ -8,6 +19,17 @@
       "https://cms-assets.youmind.com/media/1782549926246_6opz7b_HLv7fLRbMAAK2BW.jpg",
       "https://cms-assets.youmind.com/media/1782549926289_nclyia_HLv7fLQawAAP0W0.jpg",
       "https://cms-assets.youmind.com/media/1782549927045_zld35v_HLv7fLKbUAArMkZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26866,
+    "content": "Generate a creative, realistic shot of an 'out-of-body' moment for any subject: the physical entity occupies the main visual weight in a quiet, relaxed, and slightly defenseless posture, lying, leaning, or resting on a clean display stand like a real object or soft plush toy. From above the body or its core, a translucent avatar derived from the same subject rises; its form has a clear kinship with the body, but the material becomes a thin, transparent ghost-like shell with fine wrinkles and edge highlights, like an extracted consciousness or a second layer of life. At first glance, the viewer sees the displacement between the entity and the transparent avatar; at second glance, they see the avatar still lingering near the body, maintaining a slight hovering, leaning, or climbing motion, making the absurdity feel gentle rather than terrifying. The background remains bright, clear, and clean, using large areas of high-brightness neutral colors and a small amount of soft supporting colors derived from the subject. Black or dark colors are only used for tiny areas like eyes, outlines, seams, or information points. The overall atmosphere is bright, breezy, and well-ventilated, avoiding dull grays, smoke, or old filters. The lighting is soft and even; the transparent layer needs visible refraction, a sheer texture, partial bright edges, and slight shadows to make it look like both a real material and a spiritual projection. The composition maintains a display-style negative space and a low-interference environment, with small labels, supports, or props added as cues for scale and reality, though the information layer remains restrained so as not to steal focus from the mysterious relationship between the entity and its double.\n\nTheme: {argument name=\"theme\" default=\"Hello Kitty plush toy\"}",
+    "title": "Out-of-Body Spirit Photography",
+    "description": "A creative prompt for generating surreal photography where a translucent 'soul' or shell rises from an object, ideal for artistic still-life.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782636849904_tldfw3_HLvtSacb0AAIkGc.jpg",
+      "https://cms-assets.youmind.com/media/1782636849902_jfftu4_HLvtTsnbEAAv-f3.jpg"
     ],
     "needReferenceImages": false
   },
