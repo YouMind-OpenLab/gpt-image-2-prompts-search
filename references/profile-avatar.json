@@ -1,5 +1,110 @@
 [
   {
+    "id": 27059,
+    "content": "Transform the uploaded portrait into a surreal cinematic artwork where the person seamlessly becomes the living flame of a giant candle. The lower body naturally merges into melted candle wax with realistic dripping wax flowing down the candle. The upper body is engulfed in vivid, dynamic flames while preserving the person’s exact facial features, identity, expression, hairstyle, beard, clothing, and pose. Create a dramatic fire effect with glowing embers, smoke, volumetric lighting, warm orange and golden tones, realistic reflections, and cinematic contrast. The candle should appear massive and luxurious, with highly detailed wax texture and a softly blurred dark background that emphasizes the glowing fire. Ultra-realistic, hyper-detailed, photorealistic, masterpiece quality, 8K, dramatic composition, no text, no watermark.",
+    "title": "Living Flame Candle Surreal Portrait",
+    "description": "A surreal prompt that transforms a portrait into a cinematic artwork where the subject becomes the living flame of a melting wax candle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725776379_tltonx_HL7gi7yXAAA_4JT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27047,
+    "content": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity, face shape, hairstyle, hair texture, beard style, skin tone, eye shape, eyebrows, nose, lips, and all unique facial details with maximum accuracy. Do not change my face or make me look like a different person.\nCreate a hyper-realistic cinematic portrait inspired by the reference image: I am standing in the middle of a {argument name=\"scene\" default=\"crowd of people wearing black outfits\"}",
+    "title": "Identity Preserving Cinematic Portrait",
+    "description": "A prompt designed to maintain the exact facial identity of a reference image while placing the subject in a cinematic crowd environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725770184_l77x28_HL6-sjIXwAANmvw.jpg",
+      "https://cms-assets.youmind.com/media/1782725770227_4dmhob_HL6-seWX0AAeHMZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27070,
+    "content": "Without changing your facial features, create an ultra-realistic macro selfie shot from below to above. The woman holding the camera from below captures the bright summer atmosphere in the frame, along with the sunlight and the cloudless blue sky. A woman looks at the camera with a slight challenge, slightly lifting her chin and tilting her head forward. Her gaze is hidden behind narrow chic {argument name=\"sunglasses color\" default=\"pink-brown\"} lensed sunglasses that reflect her surroundings. She has flawless makeup, sun-tanned skin, and dusty pink lips.\n\nOn her head, there is a bandana with stylish blue and white patterns that contrasts with the smooth skin of her shoulders and face, creating a relaxed summer style. You can see the straps from her white top. Very long, {argument name=\"hair style\" default=\"wet wavy hair\"}. Her right hand is touching her lips, her nails show short square {argument name=\"nail color\" default=\"yellow\"} manicure and a large gold ring. The open shadow hat emphasizes the skin texture, while the warm natural light increases the depth and saturation of the colors.\n\nPhotorealism, photo taken on iPhone, film grain, no 'staged' feeling, graininess, photo 9:16",
+    "title": "Summer Low-Angle Macro Selfie",
+    "description": "A stylized prompt designed for GPT Image 2 to generate an ultra-realistic iPhone-style selfie with a bright summer atmosphere and specific fashion details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725788313_1no397_HL6ToFeaAAA7Fc2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27040,
+    "content": "{argument name=\"subject\" default=\"young Japanese girl with long black hair tied in a low ponytail, soft wispy bangs, fair skin, natural glossy lips, and subtle everyday makeup\"}. Wearing a {argument name=\"outfit\" default=\"light blue short-sleeve school blouse with a gray plaid tie and matching plaid skirt\"}, taking a casual selfie with one arm extended toward the phone camera. Head slightly tilted, relaxed expression, looking naturally into the lens. Cozy indoor room with {argument name=\"lighting\" default=\"warm ambient lighting\"} and a simple neutral background. Captured as an authentic handheld smartphone selfie, natural phone-camera perspective, slight wide-angle distortion from the front camera, realistic skin texture, true-to-life colors, soft mobile HDR processing, unedited everyday snapshot, authentic iPhone camera quality, natural indoor lighting, candid social-media aesthetic, no professional posing, no studio lighting, no cinematic color grading, photorealistic, high-quality mobile photography. Style: Natural Smartphone Selfie. Aspect ratio: 4:5. Camera: Handheld smartphone front camera. Lighting: Warm indoor ambient lighting. Quality: Photorealistic, high detail, authentic mobile camera look. Mood: Casual, natural, youthful, everyday. Negative prompt: DSLR look, studio lighting, cinematic grading, beauty filter, anime, cartoon, CGI, illustration, plastic skin, overprocessed HDR, unrealistic colors, heavy bokeh, watermark, logo, text, blur, low quality.",
+    "title": "Authentic Japanese Schoolgirl Smartphone Selfie",
+    "description": "A highly detailed prompt for generating a realistic smartphone selfie of a Japanese schoolgirl with natural lighting and everyday aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725766939_bqjvf1_HL6Q25AWUAAD2Xc.jpg",
+      "https://cms-assets.youmind.com/media/1782725766928_evci1j_HL6Q27_XEAAsFeo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27074,
+    "content": "Transform the photo into the same visual style as the reference image, not a 3D render. Create one life-size realistic version of the person sitting naturally in the center, surrounded by 6–8 miniature cartoon/chibi versions of the same person.\n\nThe miniature characters must have:\n\nThe exact same face, hairstyle, skin tone, and identity as the original.\n\nA cute 2D cartoon / illustrated chibi style (not 3D, not Pixar, not clay).\n\nOversized heads with small bodies while keeping the facial identity recognizable.\n\nDifferent playful poses and expressions.\n\nThe mini characters should interact with the main person:\n\nOne kissing the cheek.\n\nOne hugging the shoulder.\n\nOne sitting on the shoulder.\n\nOne holding a teddy bear.\n\nOne pulling the sleeve.\n\nOne sitting on the lap.\n\nOne waving happily.\n\nOne cuddling next to the main person.\n\nThe main person should wear the {argument name=\"outfit\" default=\"same outfit as in the uploaded photo\"}. Surround the scene with {argument name=\"decorations\" default=\"soft teddy bears, tiny hearts, sparkles, and playful doodle elements\"}. Use a {argument name=\"background\" default=\"clean white background with yellow accents\"} and soft natural lighting.\n\nDo not add any text, captions, logos, watermarks, stickers, or typography.\n\nThe final image should look exactly like the reference composition, with one realistic human in the center and multiple cute 2D cartoon mini versions of the same person around them. Keep the face perfectly consistent across every character. Ultra-detailed, premium illustration quality, vibrant colors, clean composition, high resolution, masterpiece.",
+    "title": "Realistic Person with Chibi Miniatures",
+    "description": "This prompt stylizes a photo to feature a realistic central figure surrounded by multiple cute 2D chibi versions of themselves interacting in a playful, whimsical scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725792000_5qhp01_HL6ELOnbsAAuAbg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27082,
+    "content": "Create a realistic golden-hour outdoor portrait of a young woman with {argument name=\"hair color\" default=\"long dark brown hair\"}, warm tan skin, soft brown eyes, defined brows, subtle natural makeup, and a gentle closed-mouth smile with a visible dimple. She is seated close to the camera, leaning slightly forward with her arms relaxed in front of her, making direct eye contact. She wears a fitted light beige ribbed long-sleeve scoop-neck henley top with three small buttons and a delicate gold necklace with a tiny round pendant. Frame her from the chest upward in a vertical 2:3 composition, using a shallow depth of field and photorealistic detail. The setting is a cozy porch or garden area with a softly blurred white picket fence, white posts, greenery, and warm sunset backlighting that creates a glowing rim light around her hair. Use natural skin texture, warm cinematic tones, soft bokeh, flattering diffused highlights, and an intimate lifestyle-photography mood. Avoid text, logos, extra people, exaggerated retouching, or artificial-looking skin.",
+    "title": "Golden Hour Garden Portrait",
+    "description": "A photorealistic vertical lifestyle portrait of a smiling young woman outdoors in warm sunset light, useful for generating natural social-media-style portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725801325_krsire_HL54ZQJWMAAQJ9I.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27062,
+    "content": "Subject: {argument name=\"subject\" default=\"Night Heart\"}\n\nPerson/Expression: {argument name=\"age\" default=\"20s\"} woman. Bright ivory-beige skin with a smooth texture and a hint of pink. Soft highlights on cheeks, nose tip, and collarbone, preserving natural skin grain. Rounded adult silhouette, elegant and calm femininity. Makeup is clear and precise Japanese-style photography makeup. Light rose-pink blush, champagne beige and pink-brown eye shadow, thin eyelashes, natural tear bags, soft brown eyebrows, translucent pink-beige gloss lip. Small catchlights in eyes. Tilting head slightly, smiling gently at the camera.\n\nClothing/Pose: Wearing a {argument name=\"clothing\" default=\"pale pink-beige rib knit cardigan\"} over a delicate lace camisole. Chest is modestly arranged. Tight knit skirt in matching tone. Light milk tea ash brown hair, thin see-through bangs, layered cut along the face, medium-long past the shoulders. Tips are loosely curled inward with a natural clumped feel. Sitting on a bed, leaning slightly toward the camera. Hands in front of the chest, thumbs below and index fingers above joined to form a clean heart shape. Elbows slightly outward, wrists and fingertips naturally soft.\n\nBackground/Light: Small Japanese bedroom in pale pink and ivory. White futon, soft bedspread, sheer white curtains in the back. Indirect pink-purple light from the right, weak warm indoor light from the left softly illuminating skin and hair. Soft light on face, collarbone, and back of hands; shadows fall thinly along bed wrinkles. Quiet indoor atmosphere before night, clean and sweet air.\n\nComposition/Camera: Vertical 2:3. Medium portrait from upper thighs to above head. Person in center, face near the upper third, hand-made heart in the center. Camera slightly from above, intimate distance like a smartphone shot. Focus on face and hands, background curtains and bed softly blurred.\n\nTexture/Style: High-quality Japanese photography, soft indoor portrait. Sweet and quiet tones based on pale pink, ivory, and light purple. Skin is not over-polished, preserving natural texture. Detailed depiction of individual hair strands, fine highlights, knit ribs, and delicate lace. Gentle, literary atmosphere suitable for a pre-sleep greeting.\n\nNegative: Faces looking like minors, infantalization, copy of real people, same face, excessive sexual expression, vulgar exposure, transparent clothes, exposure, nudity, brand logos, text, watermarks, unnatural faces or gazes, extra or missing fingers, collapsed heart shape, broken wrists or joints, body distortion, plastic-like skin, excessive skin correction, excessive HDR, too much sharpness, obvious AI feel.",
+    "title": "Soft Night Heart Portrait",
+    "description": "A highly detailed prompt for a soft, warm indoor portrait of a woman making a heart shape with her fingers, featuring Japanese photographic style and gentle lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725777659_avzbg5_HL5nwyNakAAE8Bi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27072,
+    "content": "Create an ultra-detailed monochrome graphite pencil masterpiece featuring a graceful {argument name=\"portrait type\" default=\"HALF-FACE\"} portrait emerging from a {argument name=\"background\" default=\"pure white background\"}. Position the face on the {argument name=\"alignment\" default=\"far right\"} side of the composition, with eyes gently closed in peaceful reflection. The visible half of the face should be large, elegant, and highly detailed with realistic graphite shading and delicate pencil textures.\n\nBehind the subject, place a MASSIVE luminous full moon dominating the background, occupying nearly half of the artwork. Surround it with tiny graphite stars, subtle stardust, and soft celestial particles. Long flowing black hair dissolves into dreamy smoke-like wisps, delicate butterflies, and elegant swirling pencil strokes that blend into the moonlit atmosphere.\n\nMaintain a minimalist fine-art composition with generous negative space, museum-quality graphite rendering, ultra-realistic pencil textures, soft shadows, emotional elegance, ethereal beauty, luxury gallery artwork, vertical phone wallpaper, masterpiece, 8K, hyper-detailed, Moon Whisper theme.",
+    "title": "Graphite Pencil Celestial Portrait",
+    "description": "An elegant prompt for GPT Image 2 to generate a monochrome graphite pencil masterpiece featuring a half-face portrait against a large luminous moon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725790651_jrdeas_HL4DC79aMAAQ6if.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27055,
+    "content": "Take this photo and transform it into an illustration in the style of 1990s anime. Capture the authentic aesthetic of that era, with a particular focus on the visual style of male anime protagonists from the 90s. Use a muted, slightly desaturated color palette to evoke the look and feel of classic cel animation. Preserve the person's key facial features and likeness from the original photo, but adapt them naturally to the 90s anime style. Give the character a strong-willed, confident, and slightly rebellious personality. A cigarette in his mouth is acceptable as part of the character design.",
+    "title": "90s Anime Style Photo Transformation",
+    "description": "Transforms a real-life photo into a classic 1990s cel-shaded anime illustration while preserving facial features and character identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725774291_ol75pg_HL33_bKaYAAzzxc.jpg",
+      "https://cms-assets.youmind.com/media/1782725774329_tv2rd1_HL33_cqa0AAEol5.jpg",
+      "https://cms-assets.youmind.com/media/1782725774489_ob4jnz_HL33_dQaoAEAUUc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27077,
+    "content": "Convert the uploaded photo into a {argument name=\"style\" default=\"cute black-and-white hand-drawn doodle illustration\"} in the exact style of a {argument name=\"medium\" default=\"minimalist marker sketch\"}. Preserve the original composition, pose, camera angle, facial expressions, clothing, and positioning of all subjects. Transform the people into {argument name=\"character style\" default=\"adorable chibi/cartoon characters\"} with simplified features, large expressive eyes, rounded faces, and clean outlines.",
+    "title": "Photo to Chibi Marker Sketch",
+    "description": "A prompt to transform uploaded photos into minimalist black-and-white marker doodle illustrations with chibi-style characters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725796204_qnmuj2_HL3nWMLbkAAw7Ch.jpg",
+      "https://cms-assets.youmind.com/media/1782725796266_kdkhxw_HL3nXGdboAAPn7-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27010,
     "content": "Create a cute chibi anime sticker illustration on a black background, shaped like a die-cut vinyl sticker with a thick white outer border and a thin teal outline. The main subject is a cheerful chibi virtual singer girl with {argument name=\"hair color\" default=\"turquoise twin-tail hair\"}, big glossy teal eyes, one eye winking, rosy cheeks, and an open smiling mouth. She wears oversized black headphones with teal accents and a small sunflower hair accessory on the right side. Dress her in a white hoodie with teal cuffs and hem, a small red-and-green emblem on the chest, tiny peach bow ties at the twin-tails, white socks, and teal shoes. Pose her floating energetically, one hand raised in a wave with five visible fingers and the other hand clenched in excitement. Place a black studio microphone on a boom arm in the lower left foreground, angled toward her. Behind her, add a large rounded speech-bubble sign with a scalloped cloud shape, white fill, teal border, and soft pastel confetti. Inside the bubble, write large bubbly Japanese text {argument name=\"greeting text\" default=\"おはよー\"} in warm orange-yellow with a white inner outline, dark brown stroke, and subtle shadow. Add exactly 8 decorative motifs around the sticker: 1 orange paw-print sun in the upper left, 2 small yellow exclamation rays in the upper right, 1 yellow sparkle near the text, 2 pink flowers, 1 teal flower, and 1 yellow star near the bottom right. Use a clean kawaii mascot style, rounded proportions, bold outlines, soft cel shading, glossy highlights, playful morning greeting mood, high resolution, no watermark, no extra text.",
     "title": "Chibi Morning Greeting Sticker",
@@ -11,11 +116,11 @@
   },
   {
     "id": 27000,
-    "content": "Create a cute anime chibi illustration on a clean pure white background with a large empty blank space in the center, as if the characters are peeking in from the edges of a page. Use exactly 4 copies of the same chibi girl, {argument name=\"character name\" default=\"a penguin-themed silver-haired chibi girl\"}, each partially cropped by the canvas border: 1) one upside-down head peeking from the top edge near the upper left, showing only the head and a little collar; 2) one sideways head peeking from the left edge around the lower-left quadrant, with a small hand making a peace sign; 3) one sideways head peeking from the right edge around the upper-right quadrant, with a tiny blue-and-yellow penguin accessory visible near her hair; 4) one larger front-facing chibi peeking up from the bottom center, visible from the head to tiny raised hands. The girl has a round face, huge glossy blue-gray eyes, soft blush, a tiny smiling mouth, short bob-cut {argument name=\"hair color\" default=\"silvery white hair with light cyan-blue tips\"}, smooth rounded bangs, and delicate blue line accents. Outfit hints should be dark navy and blue, suggesting a sailor or penguin-inspired costume, but keep most clothing cropped. Style: polished Japanese anime sticker art, soft cel shading, clean thin outlines, glossy highlights in the hair and eyes, pastel blue accents, adorable playful morning-greeting mood. Composition should feel spacious and minimal, with no text, no border, no watermark, and no extra characters or objects beyond the 4 peeking chibi copies and the small penguin accessory.",
-    "title": "Peeking Chibi Girl Border",
-    "description": "A minimal white-background anime composition with four cropped chibi girl poses peeking in from the canvas edges.",
+    "content": "Create a cute anime chibi wallpaper on a pure white background with a large empty blank center, designed like playful peeking stickers around the edges. Show exactly 4 visible copies of the same chibi girl, all partially cropped by the canvas edges: 1 upside-down head peeking from the top edge near the upper left, 1 sideways head and hand peeking from the left edge in the lower-left quadrant, 1 sideways head peeking from the right edge in the upper-right quadrant with a tiny penguin accessory visible near her hair, and 1 main chibi girl peeking up from the bottom center with only her head, small hands, and upper shoulders visible. The character is {argument name=\"character name\" default=\"a tiny penguin-themed chibi girl\"} with glossy {argument name=\"hair color\" default=\"silver-white bob hair with cyan-blue tips\"}, large sparkling {argument name=\"eye color\" default=\"blue-gray eyes\"}, soft blush, a small gentle smile, rounded baby-face proportions, and short layered bangs. Outfit hints should be {argument name=\"outfit\" default=\"a navy-blue penguin-inspired hoodie or sailor-style top\"}. Use clean modern anime line art, soft cel shading, high-detail reflective hair highlights, bright eyes with star-like reflections, pastel colors, and an airy kawaii mood. Composition should be minimal and spacious, with no text, no border, no watermark, no background objects, and no extra characters beyond the 4 counted peeking chibi copies.",
+    "title": "Peeking Chibi Penguin Girl Wallpaper",
+    "description": "Generates a minimalist kawaii anime wallpaper with four cropped chibi copies peeking in from the canvas edges.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782636874599_f1mn6p_HL2oVQeboAA-L9O.jpg"
+      "https://cms-assets.youmind.com/media/1782725822410_5ce152_HL2oVQeboAA-L9O.jpg"
     ],
     "needReferenceImages": true
   },
@@ -137,11 +242,11 @@
   },
   {
     "id": 26977,
-    "content": "Create a square-format cinematic film photograph of a young East Asian girl, about 8–10 years old, standing outdoors on a high hill or mountain overlook with a vast open landscape behind her. She has {argument name=\"hair color\" default=\"short black bob hair with wispy bangs\"}, a calm slightly melancholic expression, and looks directly back toward the camera over her shoulder. She wears {argument name=\"dress style\" default=\"a simple cream-white short-sleeve cotton dress with a gathered waist and small ruffled neckline\"}. Compose her slightly left of center in a medium portrait from about mid-thigh upward, her body turned sideways while her face turns toward the viewer. The background should show a distant hazy coastline or sea on the horizon, dark rolling fields and hills below, and a very wide dramatic sky with layered blue-gray clouds, conveying the feeling of {argument name=\"mood\" default=\"a wide open place, quiet solitude, and late-afternoon stillness\"}. Use warm golden-hour sunlight illuminating her face and dress from the side, with muted shadows, shallow-to-medium depth of field, natural wind-touched hair, realistic skin tones, and a nostalgic analog film look with soft grain, slight blur, subdued contrast, and vintage color grading. No text, no watermark, no extra people, no buildings in the foreground.",
-    "title": "Girl on a Vast Hilltop",
-    "description": "A nostalgic square film-style portrait of a young girl in a white dress standing before a wide coastal landscape at golden hour.",
+    "content": "Create a square cinematic film photograph of {argument name=\"subject\" default=\"a young East Asian girl\"} standing on a high rocky overlook above a vast open landscape. She is shown from mid-thigh up, positioned slightly left of center, body turned in profile to the right while looking back directly at the camera with a quiet, serious expression. She has a short black bob haircut with loose windblown strands and wears {argument name=\"dress\" default=\"a simple cream-white short-sleeved cotton dress with a gathered waist and small ruffled neckline\"}. The background is an expansive dark valley or plain stretching to a distant coastline or city lights, softly out of focus, with a wide dramatic cloudy sky occupying the upper half of the frame. Use warm golden-hour sunlight from the left/front to illuminate her face and dress, contrasting with cool blue-gray clouds and a hazy distant horizon. Style it like an analog 35mm film snapshot: natural skin tones, soft focus, gentle grain, subtle vignetting, muted colors, realistic lens blur, nostalgic atmosphere, no text, no watermark, no extra people.",
+    "title": "Girl on Vast Overlook",
+    "description": "A cinematic analog-style portrait of a young girl in a white dress standing before a vast cloudy landscape.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782636861095_ndktoy_HLycsGVbgAAwnMF.jpg"
+      "https://cms-assets.youmind.com/media/1782725826859_9w63ty_HLycsGVbgAAwnMF.jpg"
     ],
     "needReferenceImages": true
   },
@@ -380,19 +485,6 @@
     "needReferenceImages": true
   },
   {
-    "id": 26747,
-    "content": "Ultra detailed FIFA World Cup 2026 pop-art anime illustration of {argument name=\"subject\" default=\"[SUBJECT]\"}, close-up portrait, leaning forward, winking left eye, right eye looking directly at viewer, left hand holding a miniature {argument name=\"country emblem\" default=\"[COUNTRY LOGO / EMBLEM]\"} in front of her face, face partially hidden behind the miniature emblem, confident playful expression. Aspect Ratio: 4:5 (vertical). Fixed composition: Keep original pose exactly the same. Object: Miniature {argument name=\"country emblem\" default=\"[COUNTRY LOGO / EMBLEM]\"}, detailed design. Background: Clean {argument name=\"background color\" default=\"[BACKGROUND COLOR]\"} square-inspired background with thin border, minimal retro manga poster design. Typography: Large bold vintage retro lettering below character displaying: \"{argument name=\"custom text\" default=\"[CUSTOM TEXT]\"}\". Style: Japanese pop art, manga illustration, fashion editorial poster, bold black outlines, vibrant cel shading, premium vector artwork.",
-    "title": "FIFA World Cup Anime Poster",
-    "description": "A high-detail Japanese pop-art anime illustration style for World Cup 2026 portraits, maintaining identity and pose from a reference.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782464828600_ez7quq_HLrJIIlagAAPvGO.jpg",
-      "https://cms-assets.youmind.com/media/1782464829045_bjyube_HLrJJI3asAAx0Pi.jpg",
-      "https://cms-assets.youmind.com/media/1782464828603_3o7jtq_HLrJJ_faMAAszdC.jpg",
-      "https://cms-assets.youmind.com/media/1782464829667_lq2bwo_HLrJLCebYAEWL93.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
     "id": 26805,
     "content": "Create a vertical 9:16 monochrome sepia anime illustration of an androgynous young noble with {argument name=\"hair color\" default=\"silvery white\"} tousled layered hair, posed in a melancholic Victorian-gothic garden scene. The character wears a glossy white ruffled blouse with a high frilled collar, a black ribbon bow at the neck, one visible white glove touching the cheek, and one visible cuff with exactly 3 round buttons. Their long hair is tied into one low side ponytail over the right shoulder. Place one ornate antique hand mirror along the left side, with carved metallic floral scrollwork, reflecting the character’s downcast face and closed or half-lidded eye. Add an opaque centered square censor block in muted warm gray-taupe covering the main face area, about one third of the image width, with sharp clean edges. Surround the portrait with white flowers: exactly 3 large orchid blossoms in the upper background, plus multiple clusters of small five-petal white flowers near the right side and lower left foreground. Use delicate manga linework, painterly grayscale shading, soft highlights, intricate hair strands, romantic dark foliage, shallow depth of field, high detail, elegant sorrowful mood, no text, no watermark.",
     "title": "Sepia Anime Noble With Mirror",
@@ -570,6 +662,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 26773,
+    "content": "Use the attached image only as a strong visual inspiration for general facial proportions and vibe, while ensuring the generated subject remains fully original, non-identifiable, and not a face copy. Semi-realistic, clean sharp linework, smooth gradient shading, {argument name=\"background color\" default=\"neon yellow\"} background, dark circular shadow halo behind subject, dramatic front lighting, high contrast {argument name=\"color scheme\" default=\"black and yellow\"} color scheme, bold eyeliner detail, soft skin gradient, diagonal shadow streaks, modern Japanese digital art, editorial illustration, vibrant pop aesthetic, --ar 3:4 --stylize 750 --v 6",
+    "title": "Neon Pop Art Editorial Illustration",
+    "description": "A vibrant, high-contrast pop-art editorial illustration featuring bold colors, sharp linework, and modern Japanese digital art aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725786812_rhdqzd_HLguRa2bAAA7qc0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 26599,
     "content": "Ultra-realistic iPhone photograph taken by the {argument name=\"setting\" default=\"seaside during sunset\"}. A {argument name=\"subject\" default=\"handsome Korean young man\"} is sitting naturally on a large coastal rock, captured from slightly to the side in a waist-up composition. His soft dark hair reaches his ears and gently blows in the ocean breeze, with a few strands falling across his face. He has smooth light warm-toned skin, delicate Korean facial features, straight brows, soft lips, and a calm, peaceful expression with a subtle smile. He is wearing a {argument name=\"clothing\" default=\"relaxed white linen button-up shirt\"} with a few top buttons undone, loose light gray-blue wide-leg trousers, and gray Nike Dunk sneakers. His physique is lean and athletic with broad shoulders and a slim waist. Around his neck is a delicate silver necklace with the letter \"N\" surrounded by small diamonds. The background features a calm gray-blue sea and a glowing golden sunset reflecting softly on the water. He is looking slightly toward the camera instead of directly at it, creating a candid atmosphere. His face is perfectly visible and sharply focused. Natural skin texture, realistic details, soft cinematic lighting, gentle wind movement, authentic iPhone photography aesthetic, ultra-photorealistic, high detail, serene mood, shallow depth of field, editorial lifestyle photography.",
     "title": "Seaside Sunset Portrait",
@@ -643,6 +745,19 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1782291885228_lzm7op_HLe4NerWIAAI2cu.jpg",
       "https://cms-assets.youmind.com/media/1782291885515_vlxh6v_HLe4NhiXYAEu6qD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 26526,
+    "content": "Cute whimsical hand-drawn illustration in a playful {argument name=\"style\" default=\"kawaii storybook\"} style, bright {argument name=\"color palette\" default=\"pastel\"} color palette, clean white background, doodle elements scattered around the scene (hearts, flowers, stars, clouds, swirls, leaves, sparkles), thick soft outlines, flat colors with subtle texture, cozy and cheerful atmosphere, charming cartoon characters with round eyes, rosy cheeks, simplified features, decorative floral accents, colorful objects and storefronts, aesthetic café and lifestyle vibes, highly detailed yet minimal, digital gouache illustration, children’s book aesthetic, sticker-like composition, vibrant composition, adorable and cozy mood, modern cute illustration, Instagram-worthy artwork, high resolution.",
+    "title": "Kawaii Storybook Doodle Illustration",
+    "description": "A charming and cozy hand-drawn illustration in a playful kawaii storybook style, filled with pastel colors and whimsical doodle elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782725785601_wb0vng_HLeKxyKaMAAuqOq.jpg",
+      "https://cms-assets.youmind.com/media/1782725785530_97e95j_HLeKxyAboAAGIaG.jpg",
+      "https://cms-assets.youmind.com/media/1782725785528_ilbxok_HLeKxyGaoAATMoo.jpg",
+      "https://cms-assets.youmind.com/media/1782725788776_fmavap_HLeKxySbwAA3LFa.jpg"
     ],
     "needReferenceImages": false
   },
