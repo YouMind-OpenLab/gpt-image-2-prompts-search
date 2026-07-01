@@ -1,21 +1,149 @@
 [
   {
-    "id": 27148,
-    "content": "35mm analog film photo, {argument name=\"aesthetic\" default=\"soft Japanese minimalist aesthetic\"}, airy and slightly overexposed, gentle diffused natural light from a window with white sheer curtains, pastel color tones, low contrast, soft highlights, simple indoor backdrop with clean light wall, natural eye-level composition, slightly closer full-body framing from mid-thigh to head, {argument name=\"subject\" default=\"young East Asian woman\"}, minimal natural-looking makeup, soft realistic skin, long slightly tousled dark hair, {argument name=\"clothing\" default=\"oversized white button-up shirt\"}, light casual shorts, barefoot, effortlessly relaxed styling, standing naturally with arms loosely at sides or gently behind, facing camera with a soft smile and quiet stillness, warm dreamy film grain, understated everyday atmosphere --ar 9:16",
-    "title": "Japanese Minimalist Analog Film Photo",
-    "description": "A beautiful prompt for achieving a soft Japanese minimalist film aesthetic with 35mm analog grain and airy indoor lighting.",
+    "id": 27265,
+    "content": "Create a square close-up comic book / graphic novel portrait of {argument name=\"character description\" default=\"a young Black man with short cropped black hair, warm brown skin, dark brown eyes, full lips, and a calm neutral expression\"}. Frame the head and upper shoulders centered, facing straight toward the viewer with symmetrical composition. Preserve realistic facial proportions and identity-like detail, but render everything as bold superhero-style illustration: thick black ink outlines, detailed cross-hatching on the face and neck, expressive engraved shadow lines, glossy highlights on the forehead, nose, cheeks, and lips, and rich warm orange-brown skin shading. Add a simple dark crew-neck shirt with subtle ink folds. Use a vibrant {argument name=\"background color\" default=\"blue\"} halftone comic background with dense dot texture, radial burst energy lines shooting inward from the edges toward the face, distressed print grain, and a thick black rectangular comic panel border. Lighting should be dramatic but frontal, with high contrast, crisp linework, saturated colors, and a polished modern graphic novel finish. No text, no speech bubbles, no logos, no watermark.",
+    "title": "Cosmic Comic Portrait",
+    "description": "Generates a bold square superhero-style comic portrait with halftone background and dramatic inked graphic novel rendering.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782810219179_tbsbn2_HMCFz4WW0AA8D2r.jpg"
+      "https://cms-assets.youmind.com/media/1782896959717_c7dj8m_HMFyfKrXEAAd2qy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27293,
+    "content": "Create a square-to-portrait 90s anime transformation portrait of {argument name=\"character name\" default=\"a young woman\"} in a gritty urban night setting. Show a close-up bust portrait turned slightly over one shoulder, with a long slender neck, pale warm skin, heavy-lidded expressive eyes, full parted lips, and a cool melancholic gaze. Give her messy chin-length {argument name=\"hair color\" default=\"dark brown-black\"} bob hair with wispy bangs and many loose flyaway strands, drawn with fine ink outlines and hand-painted cel shading. She wears a simple oversized {argument name=\"outfit\" default=\"black ribbed knit sweater\"}. Use authentic late-1980s/1990s anime aesthetics: muted unflattering colors, grainy film texture, soft airbrushed shadows, imperfect analog linework, dramatic eyelashes, angular nose bridge, slightly exaggerated lips, and subdued teal/green/orange color grading. Background: blurred Japanese city street at dusk or night with exactly 5 visible urban elements: a white car on the left, a crosswalk at the bottom, dark building silhouettes, rectangular shop signs above, and one glowing red circular traffic signal or sign on the right. Add a small rectangular inset reference-photo preview in the lower-right corner showing the same real-life woman in a modern photographic style, bordered subtly, occupying about one-sixth of the image. Preserve the subject’s facial structure and hairstyle while adapting everything else to nostalgic 90s anime. No extra text, no watermark, no modern glossy digital look.",
+    "title": "90s Anime Urban Selfie Portrait",
+    "description": "Generates a nostalgic 90s anime-style portrait from a modern selfie concept with muted urban night atmosphere and a small reference-photo inset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896971849_5sba6b_HME7luma4AAUMhW.jpg",
+      "https://cms-assets.youmind.com/media/1782896971867_0oyrwj_HME7olzasAAJ4f5.jpg",
+      "https://cms-assets.youmind.com/media/1782896971823_k2sp4m_HME7q9maMAAJ_nG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27292,
+    "content": "Create a cinematic golden-hour portrait of {argument name=\"subject\" default=\"a young adult man\"} seen from behind in a three-quarter back view, turning his head slightly upward toward the bright sun at the upper right. He has short dark wavy hair, a neatly trimmed beard, and wears thin round eyeglasses plus a {argument name=\"clothing\" default=\"black ribbed turtleneck sweater\"}. The composition is a tight vertical portrait from mid-back to head, with the face in right-facing side profile and the body mostly in shadow. Use extremely warm amber sunlight, intense backlighting, glowing rim light around the hair, ear, beard, shoulders, and sweater edge, with soft haze and lens flare washing across the right side of the frame. The background should be dark, blurred, and minimal, like shaded trees or an indistinct outdoor backdrop, creating strong contrast against the golden sun. Style it as an ultra-realistic cinematic photograph shot at golden hour with shallow depth of field, natural skin texture, soft atmospheric bloom, high dynamic range, warm color grading, dramatic mood, and no text or watermark.",
+    "title": "Cinematic Golden Hour Backlit Portrait",
+    "description": "A warm cinematic portrait prompt for creating a realistic backlit male profile with golden-hour haze and dramatic rim lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896971832_b50035_HMD_pXoW0AIJ8XT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27284,
+    "content": "Create an ultra-realistic casual smartphone selfie of a {argument name=\"subject\" default=\"young adult East Asian woman\"} indoors, framed in a close-up horizontal 16:9 composition. She has {argument name=\"hair style\" default=\"straight dark brown shoulder-length hair with wispy bangs\"}, large glossy brown eyes, soft natural makeup, and smooth skin. She is leaning very close to the camera with a shy playful expression, looking directly into the lens while covering the lower half of her face and nose with one hand, the long ribbed cuff of her oversized {argument name=\"sweater color\" default=\"beige\"} sweater pulled over part of her hand. Use warm dim bedroom lighting, realistic phone-camera optics, slight wide-angle distortion, subtle noise, natural skin texture, and shallow depth of field. Background details: a cream textured wall, a small light switch on the right, white bedding at the lower right, and a narrow shelving unit on the left holding glassware and small pink items. Make it look like an authentic unedited personal selfie, not a studio portrait, with no text, no watermark, and no artificial glamour lighting.",
+    "title": "Realistic Shy Bedroom Selfie",
+    "description": "Generates an ultra-realistic casual indoor smartphone selfie with a shy close-up pose for lifestyle or social media style imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896968401_so0qfe_HL_bMxCaIAAeejD.jpg",
+      "https://cms-assets.youmind.com/media/1782896968475_be4c2j_HL_bNf7bgAAn_zr.jpg",
+      "https://cms-assets.youmind.com/media/1782896968484_reahpd_HL_bZgsbAAEaYJB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27260,
+    "content": "Transform the uploaded image into a {argument name=\"visual style\" default=\"futuristic glowing wireframe portrait\"} while preserving the person's exact identity, facial features, hairstyle, body proportions, pose, clothing, and composition. Convert the entire subject into a {argument name=\"mesh type\" default=\"luminous white neon mesh\"} made of fine polygonal wireframe lines and glowing energy contours. Surround the body with electric plasma, sparkling particles, light streaks, and digital energy bursts, creating the effect of a powerful holographic athlete. Keep the background {argument name=\"background style\" default=\"completely black with subtle floating particles\"} and a glossy reflective floor beneath the subject. Use a high-contrast black-and-white palette with brilliant white neon outlines, ultra-detailed mesh topology, cinematic volumetric lighting, realistic glow, and a premium sci-fi cyber aesthetic. Preserve every detail of the original image while applying only the glowing wireframe energy effect. 8K, ultra-realistic, masterpiece quality, dramatic lighting, no text, no logos, no watermarks, no UI elements.",
+    "title": "Futuristic Neon Wireframe Athlete Portrait",
+    "description": "A sophisticated prompt that transforms a standard portrait into a luminous white neon mesh athlete with electric plasma effects and sci-fi aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896956064_1bc10j_HMD1TvrWIAAWrGG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27259,
+    "content": "Surreal, dark cinematic, ethereal portrait. Close-up from chest upward of a woman with the features of the {argument name=\"subject\" default=\"reference image\"}, head tilted back, eyes closed, expression of freedom and release. She wears a {argument name=\"clothing\" default=\"long-sleeve blouse made of organic, layered deep matte black raven feathers\"}, with large black hoop earrings. Her hair is loose, dynamically suspended, blowing upward and forward by wind, dissolving into feathers and hair merging with black ink splatters, charcoal dust, and wisps of dark smoke. Fine black ink splatters and wisps spread across her face and neck. Background: {argument name=\"background\" default=\"smoky gray moody atmosphere\"}, thick dense layered smoke swirling throughout the frame. High-resolution, cinematic moody lighting diffused through smoke.",
+    "title": "Dark Ethereal Raven Feather Portrait",
+    "description": "A detailed prompt for a surreal and dark cinematic portrait of a woman whose hair and clothing dissolve into raven feathers and smoke.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896955236_8lt9o2_HMDYJnQXUAAags3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27286,
+    "content": "Create a clean full-body anime character design on a plain white background: a confident young woman with a gyaru-inspired cyberpunk survivor look, standing front-facing with a relaxed slight contrapposto pose and a soft smile. She has {argument name=\"hair color\" default=\"blonde hair fading into pink tips\"}, long loose hair, pink eyes, tan glossy skin with strong cel-shaded highlights, and a bright pink bow headband. Dress her in a shiny black strapless latex bandeau crop top with a small oval chest cutout and a tiny white tech logo on one side, an open transparent pink vinyl cropped jacket with short sleeves and small green digital patch details on both sleeves, glossy black micro shorts, and a vivid pink belt with silver buckle and studs. Include exactly 10 visible outfit/accessory elements: 1 pink bow headband, 1 black choker with a ring charm, 1 transparent pink vinyl cropped jacket, 1 black latex bandeau top, 1 pink belt, 1 pair of glossy black shorts, 1 pair of long black opera gloves with wrist buckles, 1 single thigh-high glossy pink cyber stocking on her left leg with subtle white geometric markings and black thigh band, 1 shorter pink knee sock on her right leg with two white stripes, and 1 pair of chunky black lace-up platform boots. Use crisp Japanese anime line art, polished digital coloring, high-gloss reflections on vinyl and latex, slim athletic proportions with curvy hips, clean white negative space, no background props, no text except the tiny unreadable clothing logo, and a fashionable pink-and-black cyberpunk color palette.",
+    "title": "Pink Cyberpunk Survivor Anime Girl",
+    "description": "Generates a full-body anime fashion character in a glossy pink-and-black cyberpunk survivor outfit for costume concept art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896969513_ebh6if_HMDWsrTWQAAV9wY.jpg",
+      "https://cms-assets.youmind.com/media/1782896969522_wykjf8_HMDWoiHW0AA0loW.jpg",
+      "https://cms-assets.youmind.com/media/1782896969544_b5qkab_HMDWpqyXEAAWIVg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27263,
+    "content": "Create an ultra-realistic fine-art portrait of a young woman using {argument name=\"character name\" default=\"the uploaded person\"} as the primary face reference with extreme identity preservation. She faces forward in a centered bust-length composition, calm soft smile, large natural eyes, smooth luminous skin, and natural makeup. Style her with {argument name=\"hair color\" default=\"warm chestnut brown\"} hair parted in the middle and arranged in a vintage low bun with curled side tendrils. She wears an off-shoulder ivory lace dress with ornate scalloped lace trim and {argument name=\"earrings\" default=\"pink gemstone drop earrings\"}. Frame her head and shoulders with handcrafted raised floral embroidery on coarse beige linen: exactly 6 large prominent flowers visible around her, including a large pink daisy-like flower at upper left, a pink peony at upper right, a large peony at lower left, a large central bottom pink blossom, a peach flower at lower right, and a smaller pink flower near her right temple, plus many embroidered green leaves, winding stems, and unopened buds. The embroidery should look tactile and three-dimensional with thread texture, satin stitches, knots, and layered petals partially overlapping the portrait, especially across the lower foreground. Use soft studio lighting, warm cinematic color grading, shallow depth of field, extremely detailed fabric fibers, elegant romantic vintage mood, 8K masterpiece quality, vertical portrait format. No text, no watermark, no modern accessories, no harsh shadows.",
+    "title": "Embroidered Floral Fine-Art Portrait",
+    "description": "Generates a realistic vintage portrait framed by tactile floral embroidery on beige linen for elegant profile or keepsake artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896958876_49o1rb_HMCu3WvXIAAl-G1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27241,
+    "content": "Ultra-realistic mirror selfie of a handsome {argument name=\"ethnicity\" default=\"Indian\"} man using the uploaded face as the 100% exact facial reference with no changes to facial characteristics. Vertical 9:16 composition, mid-torso to upper-thigh crop. Camera positioned at chest height facing the mirror, creating a straight-on perspective with a subtle downward visual axis from the subject's lowered gaze. The subject stands upright with relaxed shoulders, holding a smartphone naturally in his right hand at sternum level while taking the mirror selfie. Thick wavy black hair, neatly groomed full beard, clear skin with natural texture, realistic eyes, and a calm, confident expression. Wearing a premium casual outfit in neutral tones. Soft cinematic indoor lighting with realistic reflections on the mirror, shallow depth of field, luxurious modern interior, ultra-detailed textures, HDR, DSLR photography, 85mm lens, f/1.8, photorealistic, natural skin tones, sharp focus, 8K quality.",
+    "title": "Realistic Indian Man Mirror Selfie",
+    "description": "A professional photography prompt for a highly detailed mirror selfie, specifically using an uploaded photo as a facial reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896946218_pm9wx0_HMCrg2rWsAAC93G.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27237,
+    "content": "Using the uploaded face image, preserve the person's facial identity with absolute accuracy (100% identity preservation), maintaining the exact face shape, bone structure, forehead, eyebrows, eyes, nose, lips, ears, jawline, hairstyle, hairline, facial hair, skin tone, complexion, age, and natural expression without beautifying or altering the individual. Create an ultra-premium Gen-Z fashion editorial portrait of the same person seated casually on a perfectly cylindrical matte {argument name=\"furniture color\" default=\"purple\"} ottoman, leaning slightly forward with elbows resting naturally on the thighs and hands loosely clasped together, projecting effortless confidence and modern attitude while making direct eye contact with the camera. Dress the subject in an oversized luxury monochromatic {argument name=\"outfit color\" default=\"purple\"} trench coat layered over a matching purple crew-neck t-shirt, relaxed-fit white trousers, premium white and purple designer sneakers, and a sophisticated stainless steel wristwatch. Place the subject inside a seamless monochromatic purple studio where both the floor and background are the same rich matte purple with a clean {argument name=\"aesthetic style\" default=\"minimalist\"} aesthetic and no additional props or distractions. Illuminate the scene using high-end professional fashion studio lighting with a large softbox positioned slightly above and to camera left, complemented by subtle fill lighting and gentle cinematic shadows that sculpt the face while preserving realistic skin texture and premium fabric details. Capture the image in a perfectly balanced 4:5 vertical composition with the full body and shoes visible, centered framing, shot using an 85mm medium-format portrait lens with shallow depth of field, ultra-sharp focus, hyper-realistic skin pores, luxury editorial color grading, Apple-style minimalism, Vogue campaign quality, commercial advertising photography, HDR, photorealistic 8K resolution. Negative prompt: different person, identity change, face swap, altered facial features, beautified face, different hairstyle, incorrect facial hair, asymmetrical face, distorted anatomy, extra fingers, missing fingers, duplicate limbs, bad hands, blurry image, low quality, low resolution, cartoon, anime, CGI, illustration, plastic skin, oversmoothed skin, fisheye lens, wide-angle distortion, cluttered background, text, watermark, logo, cropped shoes, cropped body, artifacts.",
+    "title": "High-End Gen-Z Editorial Portrait",
+    "description": "An incredibly detailed prompt for GPT Image 2.0 designed to preserve facial identity while creating a luxury fashion editorial look in a monochromatic studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896944080_nveqwb_HMCWv0hWEAEElgG.jpg",
+      "https://cms-assets.youmind.com/media/1782896944079_48klp5_HMCWv2PW8AEriVI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27252,
+    "content": "Photorealistic candid smartphone snapshot of a {argument name=\"subject\" default=\"cute young woman with short wavy ash-brown hair\"} styled in a soft updo, wispy bangs, and large bright blue eyes. Wearing a {argument name=\"outfit\" default=\"white ruffled blouse under an oversized pastel pink knitted cardigan\"} with chunky buttons and a light pleated skirt. She is standing in a {argument name=\"setting\" default=\"cozy café corner\"}, making a heart shape with her hands and smiling gently at the camera. Warm indoor lighting, white orchids decorating the background, wooden furniture, soft ambient glow, intimate café atmosphere. Captured with an iPhone camera, natural handheld framing, slightly imperfect composition, authentic mobile photography aesthetic, realistic skin texture, subtle shadows, warm colors, soft background blur, casual candid moment, unedited smartphone photo look, high detail, vertical composition.",
+    "title": "Candid Smartphone Cafe Portrait",
+    "description": "A photorealistic prompt for generating iPhone-style candid snapshots of a young woman in a cozy café setting with authentic handheld framing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896951626_pxvbev_HMCOZ0KWsAAsEbG.jpg",
+      "https://cms-assets.youmind.com/media/1782896951621_r5paup_HMCOakwWoAE3F7q.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 27206,
-    "content": "Create a cute chibi anime sticker illustration on a black background, shaped like a die-cut vinyl sticker with a thick white border and teal outline. Center the image on a cheerful small girl mascot with {argument name=\"hair color\" default=\"turquoise twin-tail hair\"}, oversized black headphones with teal accents, and a sunflower hair clip on the right side of her head. She is winking, smiling with an open mouth, blushing, raising her left hand in a friendly wave with five visible fingers, and holding her right fist up excitedly. Dress her in an oversized white hoodie with teal cuffs and hem, a small red-and-green emblem on the chest, pink bow ties at the twin-tail bases, short skirt/shorts mostly hidden by the hoodie, white socks, and teal shoes. Place a black studio microphone with shock mount and arm in the lower left foreground, angled upward toward her as if she is streaming or greeting viewers. Above her, draw a large rounded speech-bubble sign with scalloped edges, white fill, teal outline, and orange bubble-letter Japanese text reading {argument name=\"greeting text\" default=\"おはよー\"}, with dark brown shadow/outline around the letters. Add exactly 12 decorative surrounding elements inside and around the sticker: 1 orange sun/paw-like icon in the upper left, 3 orange emphasis rays in the upper right, 2 pink flowers, 2 blue flowers, 2 yellow star shapes, 1 small sparkle, and 1 teal speech-tail accent. Use a bright kawaii palette, soft cel shading, glossy highlights, rounded forms, clean line art, sticker-like composition, playful morning greeting energy, high resolution, no watermark, no extra text beyond the greeting.",
-    "title": "Kawaii Chibi Morning Greeting Sticker",
-    "description": "Generates a cheerful chibi anime streamer sticker with Japanese morning greeting text, headphones, microphone, and cute decorative icons.",
+    "id": 27148,
+    "content": "35mm analog film photo, {argument name=\"aesthetic\" default=\"soft Japanese minimalist aesthetic\"}, airy and slightly overexposed, gentle diffused natural light from a window with white sheer curtains, pastel color tones, low contrast, soft highlights, simple indoor backdrop with clean light wall, natural eye-level composition, slightly closer full-body framing from mid-thigh to head, {argument name=\"subject\" default=\"young East Asian woman\"}, minimal natural-looking makeup, soft realistic skin, long slightly tousled dark hair, {argument name=\"clothing\" default=\"oversized white button-up shirt\"}, light casual shorts, barefoot, effortlessly relaxed styling, standing naturally with arms loosely at sides or gently behind, facing camera with a soft smile and quiet stillness, warm dreamy film grain, understated everyday atmosphere --ar 9:16",
+    "title": "Quiet Japanese Film Aesthetic Portrait",
+    "description": "A 35mm analog film aesthetic prompt for generating minimalist and airy portraits of a young woman with a gentle Japanese cinematic feel.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782810261349_ngftff_HMBbzWybMAA_9WX.jpg"
+      "https://cms-assets.youmind.com/media/1782896951467_vcuce1_HMCFz4WW0AA8D2r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27267,
+    "content": "Create a photorealistic golden-hour fantasy portrait of {argument name=\"character name\" default=\"a beautiful young woman\"} standing naturally on a quiet mountaintop viewpoint path after rain. She has long flowing dark brown hair, soft natural makeup, delicate drop earrings, and a serene smile while looking at her raised right hand. She wears an ethereal sheer white crystal-embellished gown covered with countless iridescent beads, rhinestones, hanging strands, and large prism-like teardrop crystals; her left hand gently lifts part of the sparkling skirt. Around her, floating transparent crystal shards and prisms catch the sunlight and create vivid rainbow refractions, small lens flares, and glittering specks across the dress and air. The background shows misty green mountain ridges, a wet stone trail with a tiny group of hikers far behind on the left, wild greenery on the right, and dramatic clouds lit by a bright low sun in the upper right. Use shallow depth of field, cinematic backlighting, realistic skin texture, wind-blown hair, luminous highlights, high-detail fabric and jewelry, dreamy magical realism, vertical 2:3 composition, ultra-realistic fashion photography. Avoid text, logos, watermarks, distorted hands, extra fingers, or plastic-looking skin.",
+    "title": "Crystal Gown Mountain Portrait",
+    "description": "A photorealistic fantasy fashion portrait of a woman in an iridescent crystal gown on a misty mountaintop at golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896960747_scvujw_HMBcAJ7bIAAmTsi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27206,
+    "content": "Create a cute chibi anime sticker illustration on a black background, with a thick white die-cut sticker border and a teal outline. Center a tiny cheerful virtual idol girl, {argument name=\"character name\" default=\"Hatsune Miku-inspired chibi mascot\"}, with bright {argument name=\"hair color\" default=\"turquoise twin-tail hair\"}, one large teal-green eye open and the other eye winking, rosy cheeks, and an open smiling mouth. She wears oversized black headphones with teal accents and a yellow sunflower decoration on one side, a white hoodie with teal cuffs and hem, small peach bows tying the twin tails, short socks, and teal shoes; the hoodie has a simple red-and-green emblem on the chest. Pose her floating or bouncing forward, left hand raised in a friendly wave with five fingers visible, right hand clenched happily near her side. Place a large rounded speech-bubble sign above and behind her, filled white with teal trim, containing big playful Japanese text {argument name=\"greeting text\" default=\"おはよー\"} in thick rounded orange letters with cream highlights, dark brown shadow outline, and a white sticker-like stroke. Add a stylized orange sun paw-print icon in the upper left of the bubble, three yellow exclamation rays in the upper right, small pastel confetti dots, one yellow sparkle, and exactly 4 simple flowers around the sticker: two pink flowers with white centers and two teal flowers with white centers. Add exactly 3 yellow star-like accent shapes around the lower half. Include a black studio microphone on a boom/shock mount at the lower left, angled diagonally upward toward the character. Overall style: glossy kawaii anime art, clean bold outlines, soft cel shading, vibrant pastel palette, rounded sticker aesthetic, high detail but uncluttered, vertical composition.",
+    "title": "Chibi Anime Morning Greeting Sticker",
+    "description": "Generates a kawaii chibi virtual idol sticker with Japanese morning-greeting text, ideal for social posts, emotes, or streamer graphics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782896964009_9b1atb_HMBbzWybMAA_9WX.jpg"
     ],
     "needReferenceImages": true
   },
@@ -31,11 +159,11 @@
   },
   {
     "id": 27165,
-    "content": "Photorealistic sci-fi portrait, young woman in left-facing side profile, dressed in a {argument name=\"jacket style\" default=\"mirror-finish chrome-blue jacket\"} and a futuristic helmet with a wide glossy visor obscuring her eyes. Helmet features smooth curves, white trim, clear side panels with subtle tech detailing. Visor has a cool blue reflective sheen, cyberpunk meets space-age fashion. Clean, minimal framing against a gradient blue backdrop. Cinematic studio lighting, high contrast, mirror-like reflections across jacket and helmet surfaces. Razor-sharp detail on facial features and material textures, slight bokeh, 8K resolution, hyper-realistic editorial aesthetic.",
-    "title": "Cyberpunk Editorial Chrome Portrait",
+    "content": "Photorealistic sci-fi portrait, {argument name=\"subject\" default=\"young woman\"} in left-facing side profile, dressed in a {argument name=\"jacket style\" default=\"mirror-finish chrome-blue jacket\"} and a futuristic helmet with a wide glossy visor obscuring her eyes. Helmet features smooth curves, white trim, clear side panels with subtle tech detailing. Visor has a cool blue reflective sheen, cyberpunk meets space-age fashion. Clean, minimal framing against a {argument name=\"background style\" default=\"gradient blue backdrop\"}. Cinematic studio lighting, high contrast, mirror-like reflections across jacket and helmet surfaces. Razor-sharp detail on facial features and material textures, slight bokeh, 8K resolution, hyper-realistic editorial aesthetic.",
+    "title": "Cyberpunk Chrome Sci-Fi Portrait",
     "description": "A photorealistic sci-fi editorial portrait of a woman in a mirror-finish chrome jacket and futuristic helmet.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1782810231625_6jfb0z_HMAzWwqbAAAkvrM.jpg"
+      "https://cms-assets.youmind.com/media/1782896947995_gx1qmh_HMAzWwqbAAAkvrM.jpg"
     ],
     "needReferenceImages": false
   },
