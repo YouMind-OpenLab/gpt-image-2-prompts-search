@@ -10,6 +10,121 @@
     "needReferenceImages": true
   },
   {
+    "id": 27342,
+    "content": "Draw the person in the provided image as {argument name=\"style\" default=\"high-definition concept art\"} and create a {argument name=\"medium\" default=\"pencil\"} design document (text is handwritten Japanese, lines are freehand). Render in 4:5 aspect ratio.",
+    "title": "Character Reference Sheet Style",
+    "description": "Transforms a provided image into a high-definition concept art character sheet featuring handwritten-style pencil sketches and annotations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984828410_s1a7xd_HMMhsHNa0AAXfXS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27388,
+    "content": "Create a vertical 3:4 high-detail anime fantasy key visual featuring two royal mages in a dramatic magical city at sunrise. In the foreground, place {argument name=\"female character\" default=\"a young violet-haired princess mage\"} facing forward-right with an intense expression, luminous purple eyes, long flowing deep purple hair, and an ornate gold filigree tiara set with purple and green jewels. Dress her in a luxurious white, black, and violet robe with heavy gold embroidery, layered necklaces, dangling earrings, gemstone ornaments, and sparkling trim. She grips a long black-and-gold magic staff diagonally across the lower half of the image; the staff has a large faceted emerald orb and ornate golden crescent details, emitting bright neon-green circular spell rings, spiraling ribbons of energy, and glittering particles. Behind her on the left, show {argument name=\"male character\" default=\"a black-haired prince sorcerer\"} in three-quarter profile looking over his shoulder with sharp eyes, tousled black hair, and a high-collared crimson cloak covered in gold floral embroidery and glowing red sparks. His raised hand casts dark red-black magical tendrils that curl across the upper left sky like ink and fire. Background: a vast fantasy kingdom with dense rooftops and a tall radiant white-gold castle on the right, mountains in the distance, and a brilliant blue sky with warm sunrise clouds and lens-flare sunlight. Use an ultra-polished Japanese light novel cover style, cinematic composition, vivid saturated colors, intricate jewelry and fabric detail, dynamic wind-swept hair and robes, sparkling magical particles everywhere, dramatic rim lighting, high contrast, sharp focus, and epic romantic fantasy atmosphere. Keep exactly two main characters, one ornate staff, one castle, green magic around the staff, and red-black magic around the male sorcerer. No text, no logo, no watermark.",
+    "title": "Royal Anime Mages at Sunrise",
+    "description": "A vivid fantasy anime key visual of two ornate royal spellcasters casting green and red magic before a glowing castle city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984847347_u6jwtl_HMJyBD2bIAAVOmH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27352,
+    "content": "Using REFERENCE_0 as the character and costume base, transform the photo into a polished full-body anime illustration. Keep the same maid-idol outfit design, blonde hair, headpiece, wrist cuffs, thigh-high stockings, and cheerful double peace-sign gesture, but change the composition from a cropped overhead photo into a clean standing character pose: front-facing, eyes closed in a joyful smile, both hands raised with V signs, one leg straight down and the other bent backward playfully. Extend the character to full body and add matching shiny gold shoes. Replace the real wooden room with a simple pale lavender background. Add exactly 3 floating pink heart icons around the head: 2 on the left side and 1 on the right side. Style: vibrant modern anime key visual, crisp line art, glossy highlights, soft blush, cute energetic expression, clean cel shading, high detail, no photorealism, no text, no watermark. Optional customization: make the background {argument name=\"background color\" default=\"pale lavender\"}, set the mood to {argument name=\"character mood\" default=\"joyful and cute\"}, and keep the accent effects as {argument name=\"floating icons\" default=\"3 pink hearts\"}.",
+    "title": "Anime Maid Transformation",
+    "description": "Creates a full-body anime character illustration from a cosplay reference photo while preserving the outfit and adding a cute standing pose.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984832965_cvvyow_HMC2NS0WAAACM7G.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27320,
+    "content": "Create a cinematic realistic character design board for a high-budget film production.\\n\\nAvoid generic grids, perfect symmetry, or template-style layouts.\\nThe composition should feel art-directed, slightly asymmetrical, and visually intentional like a premium movie pitch presentation.\\n\\nDesign a realistic human character with grounded proportions, believable anatomy, natural imperfections, and expressive acting energy.\\n\\nInclude:\\n\\n* Full-body turnaround (front, 3/4, side, back, 3/4 back)\\n* Expressive head studies from multiple angles\\n* Cinematic portrait shot\\n* Wardrobe and prop breakdown\\n* Fabric, skin, and material texture realism\\n* Annotation callouts and production notes\\n* Height reference scale\\n\\nCharacter should feel like a real actor captured mid-moment, not a posed model sheet.\\n\\nStyle:\\nSemi-realistic cinematic character design, film-production quality, soft natural lighting, emotional readability, subtle exaggeration, realistic materials, shallow depth of field, premium studio presentation aesthetic.\\n\\nImportant:\\nMaintain strict consistency in face, proportions, hairstyle, outfit, and details across every angle and section.",
+    "title": "Cinematic Film Character Design Board",
+    "description": "A professional character design board prompt for film production, including turnarounds, portraits, and texture studies with a premium studio aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984816792_1a6fty_HMJ3IzxbMAAOIMq.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27387,
+    "content": "Create a square anime-style mascot portrait on a dark navy blue background. Center a confident anthropomorphic wolf character from the waist up, facing forward with a slight three-quarter angle, smirking and pointing directly at the viewer with one gloved hand. The wolf has spiky gray fur, white cheek and muzzle fur, tall pointed ears, sharp blue eyes, a black nose, and a mischievous expression. Put red-lensed steampunk goggles with a black strap on top of the head. Dress the character in a white futuristic racing jacket with red stripes and gray panel accents, plus a deep red scarf wrapped around the neck, trailing to the right with a small gold tassel fringe at the end. Use polished digital anime rendering with clean line art, soft cel shading, high contrast highlights, and a slightly glossy game-avatar look. At the bottom, add large bold Korean text reading {argument name=\"bottom text\" default=\"엘베스\"} in bright cyan, blocky sans-serif lettering with a subtle shadow, centered beneath the character. Keep the composition simple: exactly 1 wolf mascot, 1 pair of goggles, 1 red scarf, 1 pointing hand gesture, and 1 bottom text label. No extra characters, no watermark, no border.",
+    "title": "Anime Wolf Mascot with Korean Text",
+    "description": "Generates a square anime-style anthropomorphic wolf mascot avatar with goggles, red scarf, pointing pose, and bold Korean name text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984845810_imkh4g_HMJkzC2bYAAahqN.jpg",
+      "https://cms-assets.youmind.com/media/1782984846247_bu9uam_HMJkzDKbwAA67U9.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27350,
+    "content": "ultra-detailed anime illustration, cinematic character design sheet, soft fantasy realism, high-end game concept art, clean UI layout, professional character bible, studio design board, luminous",
+    "title": "Anime Character Design Sheet",
+    "description": "A professional character design sheet prompt for generating ultra-detailed anime illustrations with a soft fantasy realism style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984832392_jn004d_HMJfR-QaYAExyUc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27340,
+    "content": "You are a specialized pixel art director who converts anime, game, and manga characters into MapleStory-style player avatar sprites.\n\n[Tasks]\n1. Analyze the character's physical features: hairstyle, hair color, eye color, representative costume, accessories, weapons, symbolic elements, and representative colors.\n2. Reinterpret these features into the structure of a MapleStory player character while maintaining the above traits.\n3. Ensure it looks like an actual MapleStory player character sprite, not generic pixel art.\n────────────────────\n[Character Structure Specifications]\n- Head + Hair: 60-65% of the total size\n- Torso: 15-18%\n- Legs: 20-25%\n- 2 to 2.3 heads tall\n- 35-45 degree quarter-view\n- Angles where both eyes are visible (near front)\n- Nearly flat 2D sprite face\n- Eyes placed at the bottom of the face\n- Wide eye spacing\n- Horizontally wide flat eyes\n- Large pupils with highlights\n- No nose representation\n- Very small mouth\n- Soft blush\n- No neck representation (head connects directly to torso)\n- Costume starts immediately below the chin\n\nHairstyle:\n- Core of character identity\n- Volume larger than the head\n- Silhouette priority\n- Minimal hair strand detail\n- Highlight on top\n\nBody:\n- Very small torso\n- Short arms and legs\n- Simple cylindrical limbs\n- Minimal joint representation\n\nEquipment Layer Structure:\nHair / Hat / Face Accessory / Top / Bottom / Shoes / Cape / Weapon\n\nPose:\n- Standing pose (character selection screen style)\n- No jumping, battle poses, or action effects\n────────────────────\n[Pixel Rendering Specifications]\nGoal: Atmosphere of an enlarged 32-64px game sprite\n- Low-resolution game sprite feel\n- Chunky pixel structure\n- Grid-aligned pixel art\n- Visible pixel blocks\n- Clean 1px outline\n- Limited color palette\n- Flat color shading with minimal shadows\n- No dithering, smooth gradients, or airbrush effects\n\n[Prohibited Styles]\nPokemon-style / Terraria-style / Stardew Valley-style\nRealistic / 3D rendering / Illustration-style\nAnime illustration / Digital painting\nHD pixel art / Smooth gradients\n────────────────────\n[Output Conditions]\n- Canvas size: 1080x1080\n- Background: Pure white (#FFFFFF)\n- Only one character\n- Full body display, centered\n- Occupies about 75% of canvas height\n- No text, logos, watermarks, background objects, or ground\n────────────────────\nGenerate the character as an actual MapleStory player avatar sprite. Ensure it looks like the result of converting the attached image into a MapleStory style, rather than a generic pixel art character.",
+    "title": "MapleStory Style Pixel Avatar Generator",
+    "description": "A specialized prompt that transforms images of characters into MapleStory-style pixel art sprites with specific technical constraints on proportions and rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984827518_34s4wo_HMITcc5aIAA27Wj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27383,
+    "content": "Goal: Create a clean studio character reference sheet for {argument name=\"character name\" default=\"a young East Asian woman\"}, designed for consistent AI image generation across shot distances and angles.\n\nCanvas: Landscape 4:3 image, 1024×768 style, divided by thick white grid lines into four equal rectangular panels. Use a neutral medium-gray seamless photography background in every panel, soft even studio lighting, realistic photo quality, no text, no logos, no watermark.\n\nLayout: Use exactly 4 panels. Top-left panel: a close-up front-facing head-and-shoulders portrait with the face clearly visible, centered, calm neutral expression. Top-right panel: a three-view full-body character turnaround on the gray background, showing exactly 3 standing figures side by side: front view with the face intentionally replaced by a smooth gray oval/blank mask, right side profile with the face blanked, and back view with hair and outfit visible. Bottom-left panel: a close-up left-facing side-profile portrait with the face clearly visible, head and shoulders composition. Bottom-right panel: a single full-body front view standing pose, centered far away with the head cropped off or omitted above the neck, emphasizing outfit and body proportions.\n\nSubject details: The character is a slim petite young woman with fair skin, shoulder-length dark brown softly layered hair, wispy straight bangs, slightly curled-out ends, natural makeup, large brown eyes in the visible portraits, and a composed neutral expression. Outfit: {argument name=\"outfit\" default=\"a pale cream short-sleeve ribbed polo knit top tucked into a matching high-waisted pleated mini skirt\"}, white mid-calf socks, and chunky white lace-up shoes. Keep the same hairstyle, body shape, clothing, socks, and shoes consistent across all panels and all views.\n\nVisual style: Minimal fashion model character sheet, realistic studio photography, soft shadows on the gray floor/backdrop, muted cream-and-gray palette, accurate human proportions, no stylization, no manga or illustration look.\n\nConstraints: Exactly 6 depictions of the character are visible across the sheet: 1 front close-up portrait, 3 full-body turnaround views, 1 side-profile close-up portrait, and 1 headless full-body front view. Keep the face visible only in the two close-up portrait panels; in the top-right turnaround, simplify or hide the face with a gray oval; in the bottom-right full-body panel, omit or crop the head. Do not add extra poses, labels, props, accessories, or background objects.",
+    "title": "Gray Studio Character Reference Sheet",
+    "description": "Generates a realistic four-panel studio character sheet with portraits, turnaround views, and simplified faces for consistent character reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984844599_uwamxv_HMIACpYbUAAZnDb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27317,
+    "content": "Create an ultra-photorealistic, cinematic 4:5 masterpiece using the uploaded reference image as the exact facial and identity reference. Preserve the person's face, hairstyle, skin tone, physique, expression, and overall likeness with absolute accuracy. The scene takes place inside a luxurious, museum-quality collector's studio where the football legend is meticulously hand-painting a premium 1/7 scale commercial collectible figurine of himself using a fine sable brush. The figurine must perfectly replicate the uploaded reference, featuring an incredibly accurate facial sculpt, realistic proportions, authentic tailored suit, lifelike skin texture, detailed fabric stitching, polished leather shoes, and museum-grade paint quality. It stands on a thick crystal-clear transparent acrylic display base with a subtle levitating effect above a glossy black glass desk, softly illuminated from below. The workspace is filled with premium sculpting tools, paint bottles, digital calipers, precision brushes, resin prototypes, and a large ultra-thin OLED monitor displaying a rotating 3D blueprint of the figurine. Behind him, floor-to-ceiling luxury display shelves showcase beautifully lit collectibles celebrating his real football career, including accurate club and national team jerseys, officially won trophies, medals, golden boots, signed footballs, bust sculptures, career-era figurines, stadium miniatures, framed memorabilia, and limited-edition collectibles—only featuring genuine achievements with no fictional awards. Every shelf contains hidden Easter eggs that reward viewers who zoom in. The environment features warm museum lighting, cinematic volumetric rays, soft rim light, floating dust particles, realistic reflections, rich contrast, and an elegant luxury atmosphere. Every fingerprint, skin pore, hair strand, fabric thread, acrylic edge, metallic surface, paintbrush fiber, marble reflection, and dust particle must be rendered with breathtaking 16K commercial-quality realism. Use a cinematic 50mm composition with the figurine dominating the foreground while the real footballer carefully works on it in the background, creating the illusion of a premium luxury collectible advertisement so realistic and visually stunning that viewers instinctively zoom in, convinced they are looking at a real photograph rather than CGI.",
+    "title": "Legendary Footballer Figurines Studio",
+    "description": "A complex, 16K realism prompt featuring a football legend painting a collectible figurine of himself in a luxury studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984814724_j65j73_HMHB7FzbkAAzvjQ.jpg",
+      "https://cms-assets.youmind.com/media/1782984814727_bva30l_HMHB7vybYAAev8i.jpg",
+      "https://cms-assets.youmind.com/media/1782984814711_y98fef_HMHB8Z_bUAAyEDu.jpg",
+      "https://cms-assets.youmind.com/media/1782984815703_yu3zpc_HMHB9CMbwAAgv4O.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27389,
+    "content": "Goal: Create a clean 3D character design sheet for a cute stylized toddler girl named {argument name=\"character name\" default=\"AIKO\"}, presented like a professional toy/animation reference board.\n\nCanvas: Wide horizontal character sheet on a warm off-white background with faint grey guide lines, thin section dividers, and a subtle hand-drawn annotation feel. Use soft studio lighting, high-quality 3D render style, rounded childlike proportions, plush toy/Pixar-inspired realism, and gentle pastel colors.\n\nHeader: Top left text reads “{argument name=\"character name\" default=\"AIKO\"} | 3D CHARACTER SHEET”. Top right include exactly 5 small rounded color swatches labeled: Cream, Blue, Red, Yellow, Pink.\n\nLayout: Show exactly 5 character views across the sheet: 1 side view on the far left, 1 back view left-center, 2 front-area full-body views in the middle (one straight front pose and one 3/4 pose), and 1 close-up face view on the far right. Above the full-body columns place neat uppercase labels “SIDE VIEW”, “BACK VIEW”, and “FRONT VIEW”. Along the bottom, use handwritten-style captions: “SIDE VIEW”, “BACK VIEW”, “FRONT VIEW”, “3/4 VIEW”, and “CLOSE-UP FACE”.\n\nSubject details: The character is a shy, sweet young girl with oversized golden-brown eyes, rosy cheeks, tiny smile, small nose, rounded face, and black hair gathered into a messy high bun with side bangs. Hair accessories: pink star clips. Outfit: cream ribbed long-sleeve sweater under a light blue denim pinafore dress with a small front pocket and embroidered patch detail, cherry-red tights, yellow rain boots, and a quilted pink backpack. The far-left side view shows her profile and backpack straps; the back view clearly shows the quilted backpack and rear of the bun; the front view shows hands clasped shyly; the 3/4 view shows the backpack and outfit volume; the close-up face is a large floating head cropped at the neck.\n\nAnnotations: Add thin curved callout arrows and handwritten labels pointing to exactly 9 details: “Black Hair Bun”, “Pink Star Clip”, “Quilted Backpack”, “Denim Pinafore”, “Cherry-Red Tights”, “Yellow Rain Boots”, “Shy Posture”, “Oversized Golden Eyes”, and “Rosy Cheeks”. Keep labels legible, black or dark brown, placed around the figures without clutter.\n\nConstraints: No extra characters, no scenery, no watermark, no logo, no photorealistic adult proportions. Maintain a tidy concept-art sheet composition with consistent scale between full-body views and a larger close-up face.",
+    "title": "Aiko 3D Character Sheet",
+    "description": "Creates a polished wide 3D character reference sheet for a cute stylized child character with multiple views, outfit callouts, and color swatches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984847571_c0frht_HMG4UFnbkAAdFOu.jpg",
+      "https://cms-assets.youmind.com/media/1782984847575_ainr4u_HMG4Pq5bIAAB3rQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27336,
+    "content": "A {argument name=\"style\" default=\"McQuarrie-style\"} Jedi and AT-AT standing on an {argument name=\"location\" default=\"ancient planet\"}, with a cinematic atmosphere.",
+    "title": "McQuarrie Style Jedi Scene",
+    "description": "A cinematic prompt that creates a Star Wars-inspired landscape featuring a Jedi and an AT-AT on an ancient planet, mimicking the iconic Ralph McQuarrie art style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984825787_y5ngfr_HMGo5_nWMAAsF7J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27285,
     "content": "Create an ultra-wide cinematic mobile game cut-in banner in a dramatic fantasy anime-realism style. Canvas is a very wide horizontal rectangle, about 21:9, framed with thick black letterbox bars above and below the action area for a movie-like special attack screen. The subject is a heroic brown tabby cat, close-up from the shoulders up, positioned mostly on the left half and facing right with intense large green eyes, detailed fur, long white whiskers, and a determined expression. The cat wears a dark olive-green adventurer cloak with folds flowing backward and one visible round bronze clasp near the lower left. The background is a dark starry cosmic battle scene filled with glowing gold shards, sparks, triangular crystal fragments, streaking light trails, and bright white lightning bolts radiating across the right half. Place one large bold Japanese attack phrase across the lower-middle foreground, centered and spanning almost the full width: {argument name=\"attack phrase\" default=\"星のかけらの力で　空へ！\"}. The typography should be thick, heavy, game-like, pale cream to warm gold gradient with subtle beveling, dark shadow, and a thin horizontal golden line passing behind or through the text, making it feel like a special move title card. Keep the cat partially behind the text so the words dominate the cut-in. Use high contrast, sharp details, dynamic diagonal energy, glittering particles, and a premium fantasy RPG visual style. No extra logos, UI buttons, watermarks, or additional text.",
     "title": "Heroic Cat RPG Cut-In Banner",
@@ -19,6 +134,26 @@
       "https://cms-assets.youmind.com/media/1782896969039_lw1n6l_HMFzPTjbgAAYRKh.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 27256,
+    "content": "Create image A {argument name=\"paper style\" default=\"clean sketchbook page\"} filled with multiple black ink {argument name=\"subject\" default=\"human silhouette gesture drawings\"} on a plain white background. Various anonymous figures in different poses: standing, walking, sitting, kneeling, leaning, and expressive arm gestures. Rough black marker linework, loose hand-drawn outlines, scribbled interior shading, minimal facial detail, simple clothing shapes, fashion figure thumbnail study, character silhouette exploration, quick gesture drawing practice, raw concept art sketch style, high contrast black and white, clean paper texture, artistic composition.",
+    "title": "Sketchbook Human Gesture Studies",
+    "description": "A prompt for generating a clean sketchbook page filled with various human silhouette gesture drawings in black ink, perfect for character design and anatomy practice.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984811862_v7j5lz_HMEObQBX0AADiba.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27334,
+    "content": "{argument name=\"aspect ratio\" default=\"9:16\"} vertical orientation, high-precision ancient style fantasy {argument name=\"character\" default=\"goddess\"} portrait, Tang-style fantasy aesthetic, magnificent high-status female character poster feel. The overall image is sacred, noble, bright, and powerful, with a strong sense of goddess ritual. The main subject is a young adult oriental woman, visual age 20–28, with clear oriental features. She has a classic oval face, phoenix eyes, and a commanding presence. The skin is porcelain white and refined. Makeup is vivid crimson, emphasizing lips and a floral forehead mark. Hair is long, black, and straight, half-draped with heavy-duty golden headwear and rubies. Clothing is a court-style ancient robe in a {argument name=\"color scheme\" default=\"white, red, and gold\"} palette, featuring intricate silk embroidery and divine patterns. The scene is a mountain peak altar with a sunset cloud sea. Lighting is warm from the rosy clouds with soft side-backlighting. The overall image is high-precision, sacred, and magnificent with a strong character poster aesthetic.",
+    "title": "Ancient Chinese Goddess Portrait",
+    "description": "A highly detailed prompt for an ancient Chinese goddess portrait in Tang-style fantasy aesthetics, featuring sacred rituals, ornate palace attire, and a sunset cloud sea background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984824815_cewfey_HMEs9OzaoAEArAF.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 27240,
@@ -397,6 +532,16 @@
       "https://cms-assets.youmind.com/media/1782636858452_nvgx0e_HLz6ediaMAAu1bl.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 27396,
+    "content": "Using the provided reference image as the character base, transform the cosplay photo into a polished 2D chibi game-character illustration. Keep the same recognizable costume, blue twin braids, weapon, tattoos, gloves, belts, torn purple pants with bandage patches, and black boots, but redraw everything as cute stylized anime art with clean linework, simplified proportions, a large head, small body, and glossy cel-shaded coloring. Change the pose from sitting on the floor to a confident full-body standing pose: one hand on the hip and the other hand raised holding the pistol upright. Replace the gritty alley/photo environment with a soft light gray studio background, and add one large, semi-transparent faded silhouette of the same illustrated character behind the main figure as a backdrop. Composition should show exactly 1 main chibi character, 1 raised pistol, and 1 oversized faded background silhouette. Make the image vertical, centered, crisp, high-resolution, and suitable as a character sticker or game asset. Avoid photorealism, avoid extra characters, avoid added text, and do not include a watermark. Optional customization: render in {argument name=\"art style\" default=\"polished 2D chibi anime game-character style\"} with a {argument name=\"background color\" default=\"soft light gray\"} background.",
+    "title": "Cosplay to Chibi Game Character",
+    "description": "Transforms a cosplay reference photo into a clean chibi anime game-character illustration with a faded silhouette backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1782984849823_dmtu41_HLuX_W8aEAAUbXz.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 27019,
