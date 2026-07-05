@@ -10,14 +10,17 @@
     "needReferenceImages": true
   },
   {
-    "id": 27550,
-    "content": "Theme Direction: Oriental Zen Minimalist Poster\nStyle Branch: High-contrast Propagation Type\nMain Content: {argument name=\"main subject\" default=\"A person with a lantern standing in the middle of a bridge\"}\nEmotional Motif: Waiting, sense of story, night tension\nScene and Imagery: {argument name=\"scene\" default=\"Royal blue night sky, orange-gold light, stone bridge, water surface, full moon, light mist\"}\nComposition and Space: Centered contrast composition, with the bridge and figure in the middle, the night sky and water forming large spaces, and the light becoming a strong focal point\nColor Control: {argument name=\"color scheme\" default=\"Deep royal blue for the night sky and water, orange-gold only for the lantern, local reflections, and a bit of warm moonlight, moon white for the moon and mist layers, and dark gray for the bridge structure; avoid the whole image turning into a blue-orange commercial photography filter\"}\nLighting and Texture: Contrast between cold moonlight and warm lantern light, light texture on the water surface, digital Oriental poster texture\nAspect Ratio: 9:16\nAdditional Requirements: The blue-orange contrast should be obvious, the image should be high-end, clear, and have a sense of appeal, do not darken it into a pure night scene",
-    "title": "Oriental Moonlight Bridge Aesthetic Poster",
-    "description": "A high-contrast aesthetic prompt for an Oriental Zen poster featuring a person with a lantern on a stone bridge under a blue night sky and full moon.",
+    "id": 27702,
+    "content": "Goal: Create a refined portfolio homepage hero design for {argument name=\"designer name\" default=\"Ari Vale\"}, a designer/developer, with an editorial Swiss-style layout and layered architectural collage.\n\nCanvas: Wide desktop website screenshot, 16:9 aspect ratio, off-white warm paper background, lots of negative space, subtle grain texture, premium minimalist aesthetic.\n\nLayout: Top navigation bar with 6 visible items: left wordmark “Ari Vale” followed by a small blue dot, centered navigation links “Work”, “About”, “Studio”, “Notes”, and a rounded outlined “Menu” pill on the far right with a blue dot. Main hero content sits slightly left of center with a small eyebrow label, oversized typography, short description, and two calls to action. Layer abstract monochrome architectural images around the text: a collage on the left and a larger stepped architectural image on the right, with a small still-life image below it. Bottom footer strip contains availability text on the left, a thin horizontal divider line through the center, and social links on the right.\n\nText content: Eyebrow above headline reads “ARI VALE — DESIGNER & DEVELOPER” with a small blue dot. Main headline reads exactly: “I design digital experiences, brands, and creative web.” Make the word “design” italic, elegant serif, while the rest of the headline is large modern sans serif. Supporting copy reads: “Strategy-led design and development for forward-thinking companies and cultural projects.” Primary button text: “View Selected Work” with a small arrow. Secondary text link: “About Ari” with an arrow. Left black project card reads “REFIX ANADOL”, “Machine Hallucinations”, and “Immersive Exhibition”, with a small arrow in the bottom-right corner. Small right-side stacked words read “VISION”, “MADE”, “DIGITAL”. Bottom-left text reads “AVAILABLE FOR NEW PROJECTS”. Bottom-right social links are exactly 3 items: “LINKEDIN”, “DRIBBBLE”, “INSTAGRAM”, followed by an arrow. Add a vertical coordinate label on the far right reading “40.7128° N, 74.0060° W”.\n\nVisual details: Use a restrained palette of warm ivory, black, charcoal gray, pale concrete gray, and vivid cobalt blue accents. Typography should combine a clean grotesk sans serif with one high-contrast italic serif word. Use thin hairline rules, tiny uppercase labels with generous letter spacing, and precise alignment. Add exactly 5 blue accent elements: the wordmark dot, the eyebrow dot, the menu dot, a blue tape-like diagonal rectangle over the left architectural photo, and a small blue plus/cross near the right-side words. Add a faint circular stamp graphic near the lower-right collage with tiny unreadable uppercase text and a small arrow inside.\n\nImage elements count: Include exactly 5 photographic/texture blocks: 1 tall beige concrete rectangle behind the left collage, 1 pale curved building photo on the left, 1 small rocky texture photo below it, 1 large pale architectural staircase/ribbed structure image on the right, and 1 small still-life image with a white sphere and stone beneath the right image. Also include exactly 1 black overlay project card on the left collage.\n\nConstraints: Make it look like a high-end live website landing page, not a poster. Keep all text crisp and legible, avoid browser chrome, avoid extra navigation items, avoid extra images, avoid colorful gradients, avoid stock-photo people, and preserve spacious asymmetrical balance.",
+    "title": "Minimalist Designer Portfolio Homepage",
+    "description": "Generates a sophisticated editorial-style portfolio homepage hero for a designer or creative studio website.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1783154559084_gt8s59_HMXi8MwbMAAIFqu.jpg"
+      "https://cms-assets.youmind.com/media/1783241311029_l2i4l1_HMYhgQIWoAAk3Iq.jpg",
+      "https://cms-assets.youmind.com/media/1783241311028_nildgu_HMYhhKSWcAAmWCB.jpg",
+      "https://cms-assets.youmind.com/media/1783241311031_jaqy70_HMYhj0VWcAAEMVR.jpg",
+      "https://cms-assets.youmind.com/media/1783241311663_xb6izd_HMYhlGIXoAAZjzC.jpg"
     ],
-    "needReferenceImages": false
+    "needReferenceImages": true
   },
   {
     "id": 27600,
@@ -50,16 +53,6 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1783154552612_z5ighw_HMT3ck1aoAECE8V.jpg",
       "https://cms-assets.youmind.com/media/1783154552238_0ovpcj_HMT3ckzbYAALLIf.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 27549,
-    "content": "Theme Direction: Oriental Zen Minimalist Poster\nStyle Branch: High-contrast New Chinese Style\nMain Content: {argument name=\"main content\" default=\"A small figure standing before a semi-open vermilion circular door, about to enter a courtyard\"}\nEmotional Motif: Entrance, subtle, Oriental courtyard, bright summer\nScene and Imagery: {argument name=\"scene\" default=\"Vermilion circular door, off-white wall, emerald green bamboo shadows, bright courtyard inside the door, silhouette of a small figure\"}\nComposition and Space: Centered composition, with the circular door as a strong symbolic subject, large areas of white space on the wall, and the figure located in a small proportion in front of the door\nColor Control: {argument name=\"color scheme\" default=\"Off-white as the wall base, vermilion for the circular door subject, emerald green only for bamboo shadows and a few plants inside the door, and dark cyan silhouette for the figure; avoid the wall also becoming red and green\"}\nLighting and Texture: Natural daylight, light paper texture on the wall, clear bamboo shadows, clean edges\nAspect Ratio: 9:16\nAdditional Requirements: The circular door should be simple and high-end, the figure should be small and have a sense of story, overall looking like a bright New Chinese-style brand poster",
-    "title": "Oriental Zen Courtyard Poster",
-    "description": "A minimalist prompt for creating a new Chinese-style poster featuring a small figure at a red circular door leading into a bright summer courtyard.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1783154558944_j0gtgo_HMS6FbXa8AAFM00.jpg"
     ],
     "needReferenceImages": false
   },

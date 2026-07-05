@@ -1,5 +1,38 @@
 [
   {
+    "id": 27691,
+    "content": "Create a cinematic portrait from the attached image. The scene has a pronounced {argument name=\"color filter\" default=\"cyan and turquoise\"} color filter, with a soft haze effect and a {argument name=\"light flare color\" default=\"bright blue\"} light flare on the left. A blurred night background features {argument name=\"bokeh color\" default=\"bright yellow\"} bokeh lights at the top. The style is analog photography, with subtle grain, a dreamy feel, soft lighting, and low saturation of warm tones.",
+    "title": "Cinematic Analog Portrait Transformation",
+    "description": "A detailed prompt for transforming an existing portrait into a cinematic, analog-style photograph featuring cool cyan filters and bright bokeh lighting effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783241303449_ki1u8b_HMO7Gj3XoAAVJMP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27677,
+    "content": "Generate a high-end pop idol typography cover poster.\n\nTheme: {argument name=\"theme\" default=\"music cover / idol visual / pop editorial / campaign concept\"}\nDirection: {argument name=\"style direction\" default=\"Dynamic red typography cover / Red-background focused portrait cover / Dynamic idol stage poster / Headphone pop editorial cover\"}\nMain Title: {argument name=\"main title\" default=\"[Fill in main title]\"}\nSubtitle: [Fill in short subtitle]\nEdition Small Text: [Fill in issue number / edition / minor info]\nSubject: [Adult young female idol / Adult young male idol / Pop artist / Performer from different countries]\nCountry Setting: [China / Korea / Japan / Thailand / France / USA / Brazil / Argentina / UK, etc.]\nAtmosphere: [bold / stylish / emotional / kinetic / youthful / graphic / editorial]\nColor System: [Red / White / Black / Crimson / Soft White]\n\nThe overall effect should resemble a high-end pop music visual cover or a fashion magazine poster.\n\nUse oversized typography as part of the visual structure, not just a simple title.\n\nAllow significant interaction between the subject and the text through: occlusion, interweaving, cropping, perspective, spatial layering, partial blurring, and foreground/background relationships.\n\nLayout should be clean and impactful, retaining only a small amount of auxiliary text.\n\nChoose one of the following four directions:\n\n1. Dynamic Red Typography Cover\nUse a white or off-white background with oversized bold red text. Feature an adult young female or male idol in a dynamic pose, interacting strongly with the text.\n\n2. Red Background Focused Portrait Cover\nUse a rich red background with a close-up or half-body portrait of an idol. Include elegant white serif text with a subtle focus box over the eyes; a dreamy atmosphere with clear eyes.\n\n3. Dynamic Idol Stage Poster\nUse strong performance poses and exaggerated perspective (e.g., legs, boots, or arms closer to the lens). Large text is partially cut by the body, creating a stage visual or concert poster feel.\n\n4. Headphone Pop Editorial Cover\nFeature an idol wearing headphones in a close-up or half-body shot. Incorporate tall vertical text interacting with the subject's silhouette, paired with 1-2 small label text boxes for a stylish, non-crowded look.\n\nAvoid: Cheap template feel, excessive small text, cluttered composition, weak fonts, fake brand logos, deformed limbs, incorrect fingers, plastic skin, or piled-up sticker elements.\n\nRequirements: Bold, clean, modern, and design-oriented. Generate only one high-quality standalone poster.",
+    "title": "Pop Idol Typography Cover Art",
+    "description": "A professional template for creating high-end music covers and magazine posters where the subject interacts dynamically with large typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783241293786_thr1fm_HMXaeW0aIAAiu_6.jpg",
+      "https://cms-assets.youmind.com/media/1783241294175_tpwfhl_HMXaeWyaEAAK0Vt.jpg",
+      "https://cms-assets.youmind.com/media/1783241293724_ke5b97_HMXaeYFawAALVqF.jpg",
+      "https://cms-assets.youmind.com/media/1783241294720_z0w1qn_HMXaeWxbYAALFgz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27650,
+    "content": "Create an international-quality cinematic movie poster for a film titled \"{argument name=\"title\" default=\"Algorithm Fog City\"}.\" Make it look like a masterfully designed festival-grade sci-fi thriller poster: a fog-drowned megacity, a lone figure in the lower foreground, a giant translucent human profile merged with glowing data streams and prediction-interface graphics, {argument name=\"atmosphere\" default=\"cold blue-gray atmosphere\"} with subtle {argument name=\"accent color\" default=\"amber UI accents\"}, dramatic vertical typography for the title, premium theatrical composition, realistic lighting, dense atmospheric depth, and polished high-end film poster design.",
+    "title": "Algorithm Fog City Movie Poster",
+    "description": "A gpt-image-2 prompt for a high-end sci-fi thriller movie poster featuring a foggy megacity and digital overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783241277713_ftvxcy_HMWDK3Ha8AAxukm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27535,
     "content": "Ultra-realistic lifestyle photography of a confident young man standing outside a luxurious modern villa beside a premium sports car. He is wearing a perfectly tailored suit, an elegant wristwatch, polished shoes, and stylish sunglasses. The background features contemporary architecture, a beautifully landscaped garden, and warm golden-hour sunlight. His posture is confident and relaxed, creating an atmosphere of success and sophistication. Cinematic lighting, premium editorial photography, ultra-detailed, photorealistic, 8K, shallow depth of field, elegant composition, clean negative space for branding or text, portrait aspect ratio 4:5. Ultra-realistic lifestyle photography of a humble young man standing outside a simple brick house in a modest neighborhood. He is wearing clean, simple everyday clothes and comfortable shoes, with a calm, hopeful smile. The surroundings include a bicycle, small plants, and a peaceful residential street in soft morning sunlight. The atmosphere conveys dignity, hard work, resilience, and optimism. Cinematic natural lighting, premium editorial photography, ultra-detailed, photorealistic, 8K, authentic expressions, shallow depth of field, elegant composition, clean negative space for branding or text, portrait aspect ratio 4:5.",
     "title": "Luxury Lifestyle Villa Photography",
@@ -7,6 +40,19 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1783154552093_bnc2jv_HMTi_CUacAAIyKi.jpg",
       "https://cms-assets.youmind.com/media/1783154552341_zp5pv3_HMTi_brawAIdZfu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27553,
+    "content": "Subject: {argument name=\"subject\" default=\"Introduction to 10 types of summer fruits and vegetables\"} \nContinuously generate {argument name=\"count\" default=\"10\"} images, each featuring a different fruit or vegetable introduction, including quote logic, knowledge logic, as well as color scheme and layout logic. Similar to a PPT, generate {argument name=\"count\" default=\"10\"} slides, ensuring layout differences between each. Aspect ratio 16:9.",
+    "title": "AI PowerPoint Slide Presentation",
+    "description": "A prompt designed to generate a series of matching presentation slides with consistent logic, layout, and visual themes for educational or business topics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783241292687_k7rthk_HMSreFqasAAGekX.jpg",
+      "https://cms-assets.youmind.com/media/1783241292698_xlrf4n_HMSryqtbMAAR5KQ.jpg",
+      "https://cms-assets.youmind.com/media/1783241292698_yjgg4n_HMSrgDvacAAHOkZ.jpg",
+      "https://cms-assets.youmind.com/media/1783241293295_ut1y3g_HMSrhRxaoAACgdK.jpg"
     ],
     "needReferenceImages": false
   },
