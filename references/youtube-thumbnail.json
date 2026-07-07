@@ -1,5 +1,15 @@
 [
   {
+    "id": 27831,
+    "content": "Goal: Create a wide 21:9 Japanese article thumbnail / YouTube-style banner advertising a low-cost AI video creation strategy, with bold energetic typography and a futuristic creator-workstation theme.\n\nCanvas: Ultra-wide horizontal banner, 1200×514 style aspect ratio, bright blue-and-white tech background with slight vignette, glossy lighting, and high contrast for readability.\n\nLayout: Use a dynamic diagonal composition. The left two-thirds is dominated by oversized headline typography on layered white slanted panels with drop shadows. The right third shows a young male creator seen from behind at a laptop, looking at floating video-production screens. The bottom left contains a dark navy slanted caption bar with a secondary Japanese message. Add small icon circles along the lower right edge.\n\nText content: Main headline must read exactly: 「Low Costで」 on the top white strip, 「AI動画」 in huge blue letters below it, 「をやるなら」 in smaller dark text beside it, and 「コレ!!」 in large hot pink letters with white outline on the right. Bottom caption bar must read exactly: 「12社のCPPに参加している筆者が、今ゼロから始めるならこの戦略で行く」 with 「12社」 and 「この戦略」 emphasized in yellow and the rest in white. Add a small handwritten note in the bottom right: 「はじめてでも安心！」 with a yellow underline.\n\nSubject details: Show {argument name=\"main character\" default=\"a young Japanese male creator in a navy jacket, viewed from behind, hand on chin, facing a laptop\"}. The laptop screen should show a video editing interface with timeline tracks and preview frames. Around the character, include exactly 4 floating media panels: 1 cinematic sci-fi hallway scene, 1 futuristic city skyline at sunset, 1 fantasy mountain landscape, and 1 software/dashboard screen. Add exactly 1 black-and-white movie clapperboard near the upper center, exactly 1 translucent play-button tile near the headline, and exactly 3 circular icons at the lower right: a pink piggy bank with yen symbol, a blue rising bar chart, and a checklist clipboard.\n\nVisual style: Polished Japanese marketing thumbnail, crisp vector typography mixed with semi-realistic digital illustration, electric blue gradients, white glow, subtle circuit-board lines in the background, dotted halftone accents, energetic shadows, yellow paint-stroke highlight behind the top headline, strong outlines around text, clean professional finish.\n\nParameters: The main headline concept is {argument name=\"headline concept\" default=\"Low Costで AI動画をやるならコレ!!\"}; the bottom copy theme is {argument name=\"bottom message\" default=\"12社のCPPに参加している筆者が、今ゼロから始めるならこの戦略で行く\"}; the accent color for the callout word is {argument name=\"accent color\" default=\"hot pink\"}.\n\nConstraints: Keep all visible text in Japanese exactly as specified, avoid misspellings, avoid extra logos or watermarks, preserve the 21:9 thumbnail readability, and make the headline occupy most of the left side.",
+    "title": "Low-Cost AI Video Thumbnail",
+    "description": "A wide Japanese tech-marketing thumbnail for an article or video about starting AI video production with a low-cost strategy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783415108302_q3eh0j_HMf03HLbsAA-BKo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27691,
     "content": "Create a cinematic portrait from the attached image. The scene has a pronounced {argument name=\"color filter\" default=\"cyan and turquoise\"} color filter, with a soft haze effect and a {argument name=\"light flare color\" default=\"bright blue\"} light flare on the left. A blurred night background features {argument name=\"bokeh color\" default=\"bright yellow\"} bokeh lights at the top. The style is analog photography, with subtle grain, a dreamy feel, soft lighting, and low saturation of warm tones.",
     "title": "Cinematic Analog Portrait Transformation",
@@ -40,19 +50,6 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1783154552093_bnc2jv_HMTi_CUacAAIyKi.jpg",
       "https://cms-assets.youmind.com/media/1783154552341_zp5pv3_HMTi_brawAIdZfu.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 27553,
-    "content": "Subject: {argument name=\"subject\" default=\"Introduction to 10 types of summer fruits and vegetables\"} \nContinuously generate {argument name=\"count\" default=\"10\"} images, each featuring a different fruit or vegetable introduction, including quote logic, knowledge logic, as well as color scheme and layout logic. Similar to a PPT, generate {argument name=\"count\" default=\"10\"} slides, ensuring layout differences between each. Aspect ratio 16:9.",
-    "title": "AI PowerPoint Slide Presentation",
-    "description": "A prompt designed to generate a series of matching presentation slides with consistent logic, layout, and visual themes for educational or business topics.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1783241292687_k7rthk_HMSreFqasAAGekX.jpg",
-      "https://cms-assets.youmind.com/media/1783241292698_xlrf4n_HMSryqtbMAAR5KQ.jpg",
-      "https://cms-assets.youmind.com/media/1783241292698_yjgg4n_HMSrgDvacAAHOkZ.jpg",
-      "https://cms-assets.youmind.com/media/1783241293295_ut1y3g_HMSrhRxaoAACgdK.jpg"
     ],
     "needReferenceImages": false
   },

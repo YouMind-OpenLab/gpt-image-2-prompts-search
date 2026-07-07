@@ -1,5 +1,37 @@
 [
   {
+    "id": 27748,
+    "content": "{argument name=\"subject\" default=\"The ocean in the attic\"}",
+    "title": "Surreal Ocean in the Attic Illustration",
+    "description": "A short prompt creating a surreal image of an entire ocean landscape contained within the interior of an attic, produced using GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783415065245_ihzu3p_HMi82xTWUAANhAu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27754,
+    "content": "A {argument name=\"character\" default=\"solitary traveler in a long black coat\"} crosses an endless glowing glass bridge high above the clouds. An {argument name=\"background element\" default=\"enormous moon\"} dominates the horizon, with stars mirrored beneath the transparent floor. Dreamlike surreal atmosphere, {argument name=\"color palette\" default=\"blue and silver\"} palette, cinematic fantasy realism, ultra-detailed, masterpiece quality, 8K.",
+    "title": "Moonlit Glass Bridge Fantasy Scene",
+    "description": "A surreal fantasy prompt featuring a traveler on a glowing glass bridge beneath a massive moon, with a cinematic blue and silver aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783415067912_kxggfm_HMggk0naMAAvuHY.jpg",
+      "https://cms-assets.youmind.com/media/1783415067978_0h2evk_HMggk0pasAAjfgk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 27842,
+    "content": "Create a highly detailed magical-realism pop-up book scene on a wooden table, where an open antique book transforms into a miniature classical Chinese garden in warm golden autumn light. The left page stands upright like parchment, with aged paper, decorative corner borders, creeping vines, and vertical Chinese calligraphy headed {argument name=\"poem title\" default=\"赠刘景文\"}, followed by {argument name=\"author line\" default=\"宋·苏轼\"} and the poem text {argument name=\"poem text\" default=\"荷尽已无擎雨盖，菊残犹有傲霜枝。一年好景君须记，最是橙黄橘绿时。\"}. The right and lower pages unfold into a three-dimensional garden: a tranquil koi pond, one arched wooden bridge, a traditional tiled-roof pavilion and courtyard wall in the background, mossy scholar rocks, one bamboo fence, orange and green citrus trees heavy with fruit, dried chrysanthemums, lotus seed pods, and fallen leaves. Include exactly 2 visible birds perched on the left page branches, exactly 3 koi fish in the pond, exactly 3 butterflies fluttering near flowers and rocks, exactly 3 stone lanterns or garden lamps, and exactly 1 squirrel sitting on a mossy rock at the right side. Use {argument name=\"season\" default=\"late autumn\"} atmosphere with orange-yellow foliage, frosty moss details, soft haze, sparkling backlight, shallow depth of field, and volumetric sunlight filtering through leaves. Style: ultra-detailed cinematic 3D diorama, handcrafted paper-and-miniature texture, realistic book pages and water reflections, warm amber palette, whimsical but elegant Song dynasty garden mood, no modern objects, no watermark.",
+    "title": "Autumn Chinese Garden Pop-Up Book",
+    "description": "A cinematic prompt for generating a magical antique pop-up book that unfolds into a detailed autumn Chinese garden with calligraphy and miniature wildlife.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783415114241_xxdpv3_HMcGPrZbUAAuXUE.jpg",
+      "https://cms-assets.youmind.com/media/1783415114287_s01ddq_HMcGPrZbgAEWr6I.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 27479,
     "content": "Create a stylized semi-abstract digital painting of a single polar bear walking directly toward the viewer through shallow icy water. The bear is centered, large, and imposing, with a lowered head, dark nose and eyes, rounded ears, thick white fur rendered with painterly angular brushstrokes, and one front paw stepping forward into the water. Show cold splashes around both front legs and a clear reflection of the bear on the water surface. The environment is an arctic ice landscape with flat snowbanks and broken ice shelves on both sides, using only color and shape to express coldness and silence rather than photorealism. In the background, create tall abstract vertical glacier or ice-cliff silhouettes like a frozen city skyline, in deep teal, blue-gray, and muted navy layers. Include exactly one polar bear, many small white droplets and specks around the splashing water, no other animals or humans, no text. Use a limited palette of icy whites, pale blue-gray, desaturated teal, and dark blue shadows; soft diffused lighting; high contrast on the bear; painterly concept-art style with broad geometric brush marks, crisp splash details, calm atmosphere, square-ish landscape composition.",
     "title": "Abstract Polar Bear in Icy Water",
