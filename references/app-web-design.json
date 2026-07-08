@@ -10,6 +10,29 @@
     "needReferenceImages": true
   },
   {
+    "id": 27899,
+    "content": "Use the uploaded wireframe / prototype as a reference to generate a high-fidelity design draft.\n\nDesign Type: {argument name=\"design type\" default=\"marketing landing page\"}\n\nRequirements:\n1. Maintain the layout structure, information hierarchy, and module division of the original page.\n2. Replace placeholders in the wireframe with real content.\n3. Automatically add color schemes, images, icons, and typography details.\n4. Enhance visual hierarchy, whitespace, alignment, and module relationships.\n5. Output a high-completion, professional high-fidelity design draft.\n\nVisual Style: {argument name=\"visual style\" default=\"minimalist modern\"}\nPrimary Color: {argument name=\"primary color\" default=\"blue\"}\nSecondary Color: [Enter color]\nAspect Ratio: [e.g., 9:16 / 4:3 / 16:9]\n\nNote:\nPreserve the original structure; do not randomly reorder modules.\nFocus on optimizing visual expression and realistic content presentation to make it look like a complete design draft suitable for presentation.\n\nKeep the original information architecture of the wireframe unchanged, only enhancing visual fidelity and realism.",
+    "title": "Wireframe to High-Fidelity Design",
+    "description": "This prompt transforms low-fidelity wireframes or prototypes into professional high-fidelity design drafts while preserving the original layout structure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783500626008_yvrkbf_HMrfNPDaAAAjNjp.jpg",
+      "https://cms-assets.youmind.com/media/1783500626011_p6l92t_HMrfNPAb0AEaVmP.jpg",
+      "https://cms-assets.youmind.com/media/1783500626009_nzp0in_HMrfReMbMAA_e98.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 27873,
+    "content": "Aspect ratio 1:1, ultra-modern fashion editorial designed like a {argument name=\"interface style\" default=\"luxury smartphone gallery interface\"}. Multiple floating {argument name=\"element\" default=\"image cards\"} stacked with subtle depth, each showing the {argument name=\"subject\" default=\"same female fashion model in different editorial poses\"}.",
+    "title": "Luxury Smartphone Interface Fashion Editorial",
+    "description": "A creative fashion editorial prompt designed as a luxury smartphone gallery interface with multiple floating image cards displaying model poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783500614347_fu70o3_HMne-3nXgAAJH79.jpg",
+      "https://cms-assets.youmind.com/media/1783500614351_tpv8d2_HMne-3kW4AA0Ufd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 27789,
     "content": "Please create a {argument name=\"pattern\" default=\"Damascus pattern\"} swatch based on this monogram. Keep the coloring monochrome. Please ensure the monogram is placed at equal intervals.",
     "title": "Monogram Damascus Pattern Swatch",
@@ -1787,6 +1810,19 @@
       "https://cms-assets.youmind.com/media/1780130298232_ogck63_HJbRVvobcAAO8ha.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 27912,
+    "content": "Generate a set of professional interior design soft furnishing proposal images, 4 in total, each generated independently and not merged. Uniform 4:5 vertical aspect ratio. The theme is \"{argument name=\"theme\" default=\"Milanese Italian Luxury Living Room Proposal\"}.\" The overall style is {argument name=\"style\" default=\"Italian light luxury, modern elegance, low saturation, restrained high-end, warm and comfortable\"}.",
+    "title": "Interior Design Soft Decoration Proposal Set",
+    "description": "A professional interior design prompt set for generating 4-image proposals including visual boards and 3D diagrams.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783500632484_9hwxrs_HMovCQQXMAAKA2u.jpg",
+      "https://cms-assets.youmind.com/media/1783500632472_38tv9o_HMovC8HWEAAaxAN.jpg",
+      "https://cms-assets.youmind.com/media/1783500632504_4svjj4_HMovD4dWMAAeIoQ.jpg",
+      "https://cms-assets.youmind.com/media/1783500633231_ud0qao_HMovOlTWEAEEezq.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 23115,
