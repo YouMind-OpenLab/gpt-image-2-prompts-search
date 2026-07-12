@@ -1,16 +1,58 @@
 [
   {
-    "id": 28142,
-    "content": "masterpiece, best quality, ultra-detailed anime illustration, fierce {argument name=\"character\" default=\"samurai girl warrior\"}, low-angle heroic portrait, centered composition, intense glowing eyes with sharp red eyeliner, pale skin, long white or black hair with dramatic strands and ornate hair ornaments, wearing highly detailed futuristic feudal Japanese armor, layered kimono-samurai outfit, {argument name=\"color palette\" default=\"black/red/white\"} color palette, multiple katanas strapped on back and waist, one sword drawn in foreground, intricate sword hilts and scabbards, ropes, charms, tassels, medals, metal plates, lacquered armor details, mechanical and ceremonial accessories, confident intimidating expression, cinematic sunlight, hard rim lighting, glossy highlights, dramatic shadows, clean {argument name=\"background\" default=\"white\"} background, large rising sun circle behind character, Japanese rising-sun aesthetic, lens flare, dynamic perspective, sharp linework, painterly cel-shaded rendering, extremely detailed fabric folds, polished metal reflections, high contrast, stylized manga/anime key visual, full body to mid-body vertical character poster, epic composition, trending pixiv art style, concept art, 8k",
-    "title": "Futuristic Samurai Warrior Anime Art",
-    "description": "An ultra-detailed anime-style prompt for generating a fierce female samurai warrior in futuristic armor, featuring dramatic lighting and a classic rising sun aesthetic.",
+    "id": 28258,
+    "content": "Impasto oil painting of a {argument name=\"landscape\" default=\"marsh at sunset\"}, with {argument name=\"foreground elements\" default=\"tall reeds and cattails\"} dominating the left foreground, a calm reflective pond in the lower half, a low glowing sun near the horizon, and three dark birds flying across the upper sky. {argument name=\"composition\" default=\"Vertical composition\"}",
+    "title": "Sunset Marsh Impasto Oil Painting",
+    "description": "A descriptive prompt for an impasto oil painting depicting a marshland at sunset with reeds and birds in a vertical composition.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1783674281694_xhyrtt_HM1rJdjbYAAs5t2.jpg",
-      "https://cms-assets.youmind.com/media/1783674281673_xaqtyg_HM1rJemaUAAhwiG.jpg",
-      "https://cms-assets.youmind.com/media/1783674281694_k6m5vk_HM1rJgja8AAvBtz.jpg",
-      "https://cms-assets.youmind.com/media/1783674282341_lfyvth_HM1rJk8bsAArarT.jpg"
+      "https://cms-assets.youmind.com/media/1783759610128_im27xu_HM3Q3h_WIAAyFHf.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 28261,
+    "content": "以参考图中的成年女性作为人物一致性参考，保留她精致清冷的五官、深邃眼神、纤细脸型和长黑发特征。将人物置于一间充满未来感的诡异医疗实验室中：青蓝色冷光、白色软包墙面、多个悬挂的黑色显示器、检查床、金属器械架、输液瓶、滚轮座椅、电线与工业金属设备，空间干净却带有轻微失控感。",
+    "title": "Future Medical Lab Scene",
+    "description": "A detailed scene description for a futuristic, clinical medical laboratory with blue lighting and high-tech equipment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783759612317_g369hh_HM3Ljf3a4AAIJDU.jpg",
+      "https://cms-assets.youmind.com/media/1783759612526_wqrhmk_HM3LjgAbQAAlgSn.jpg",
+      "https://cms-assets.youmind.com/media/1783759612351_nvs4iv_HM3Ljf2b0AAOKBT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28269,
+    "content": "Create a photorealistic cinematic portrait of {argument name=\"character name\" default=\"a young woman miniature artist\"} working in a cozy premium miniature painter studio. She sits at a wooden desk beside a sunlit window, in three-quarter side profile, carefully painting a small realistic figurine of herself with a fine detail brush. Preserve the person’s identity as if based on a face reference: {argument name=\"hair color and style\" default=\"long wavy chestnut-brown hair parted to the side\"}, soft natural features, calm focused expression, warm skin tone, and elegant minimal makeup. She wears a crisp {argument name=\"outfit\" default=\"white button-up blouse with black trousers\"}. The miniature stands on a clear acrylic display base labeled exactly “MINIATURE SELF,” wearing a white top and dark pants to match the artist. The workspace includes exactly 14 visible creative props: 1 computer monitor showing a character reference board with 6 portrait/body reference images of the same woman, 1 keyboard, 1 black articulated desk lamp switched on, 1 clear cup of paintbrushes, 1 white paint palette with color wells, 4 paint bottles/jars, 3 loose detail brushes lying on the desk, and 2 designer vinyl toy figures in the background near the monitor. Add a warm wooden bookshelf in the background with books, framed sketches, a camera, and a small collectible figure, softly blurred. Lighting should be golden-hour window light mixed with the desk lamp glow, shallow depth of field, realistic skin texture, glossy acrylic base reflections, detailed art supplies, premium creative-studio atmosphere, 35mm editorial photography, high resolution. Avoid extra text except the base label, avoid distorted hands, avoid malformed miniatures, avoid clutter beyond the listed props.",
+    "title": "Miniature Painter Studio Portrait",
+    "description": "A photorealistic scene of a woman painting a miniature version of herself in a warm designer studio, useful for personalized artist portrait generations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783759617063_hd7ged_HM3JqnlbUAAd-KS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28274,
+    "content": "Create a high-resolution anime illustration of {argument name=\"character name\" default=\"Atri\"}, a delicate young anime girl sitting on a large mossy river rock with her bare feet dipped in clear shallow water. She has very long {argument name=\"hair color\" default=\"silvery white\"} hair flowing past her waist, soft bangs, two small black ribbon hair bows near the sides of her head, large pink-red eyes, fair skin, and a gentle open-mouth smile while looking toward the viewer. She wears a frilly white summer camisole and matching ruffled shorts, with small dark navy bow accents on the chest and at the side of the shorts. The pose is relaxed and graceful: seated three-quarter view, one hand resting behind her on the rock for support, the other near her thigh, both legs extended diagonally into the sparkling stream.\n\nSet the scene in a bright idyllic mountain riverside during {argument name=\"season and weather\" default=\"a sunny summer afternoon\"}: transparent green-blue water revealing rounded pebbles beneath, sunlight glittering on ripples around her feet, a rocky bank lined with grass and wild greenery, dense leafy trees casting dappled shade, distant forested mountains, a small bridge or rural building far in the background, and a vivid blue sky with soft white clouds. Use a polished Japanese visual novel / modern anime key visual style with highly detailed hair strands, luminous skin highlights, crisp linework, saturated natural colors, soft atmospheric depth, cinematic composition, and 4K-level detail. Emphasize sparkling water reflections, warm sunbeams through leaves, peaceful rural freshness, and a wholesome serene mood. No text, no watermark, no extra characters, no damaged artifacts, no distorted anatomy.",
+    "title": "Anime Girl by Mountain Stream",
+    "description": "Generates a polished summer anime key visual of a white-haired girl sitting by a sparkling mountain stream.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783759618960_1f5bcz_HM18mecbsAANx9Y.jpg",
+      "https://cms-assets.youmind.com/media/1783759619175_6tlqv6_HM18mecagAA5r7O.jpg",
+      "https://cms-assets.youmind.com/media/1783759619007_dg22vm_HM18meQaMAAhnaW.jpg",
+      "https://cms-assets.youmind.com/media/1783759620285_c6pacj_HM18meRbAAA7OQY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28277,
+    "content": "Create a dark cinematic full-body portrait of {argument name=\"character name\" default=\"a young female jiangshi\"} standing centered in an ancient Chinese ancestral hall at night. She has an ethereal porcelain-pale face, large melancholy eyes, subtle red eye makeup, straight black bangs, and extremely long loose {argument name=\"hair color\" default=\"black hair\"} falling past her waist. She wears a traditional Qing dynasty-inspired jiangshi outfit: a deep navy-black robe with wide layered sleeves, gold trim, ornate embroidered wave patterns at the cuffs and hem, a square chest panel embroidered with a white crane, vertical gold frog-button closures down the front, black embroidered shoes, and a long pearl prayer-bead necklace with a red tassel. On her head is a black-and-red Qing official hat with a small gold finial, and a yellow talisman paper hangs over the center of her forehead with red Chinese calligraphy. Her hands are folded calmly in front of her body, expression still and haunting. The environment is a shadowy temple interior with wet reflective stone flooring, old wooden pillars, a large dim lantern overhead, two vertical hanging calligraphy banners in the background, one small floor lantern glowing at lower left, an altar or candle stand at lower right, drifting blue ghost flames and low mist around her. Use a vertical 9:16 composition, symmetrical framing, gothic Chinese fantasy atmosphere, muted blue-black palette with warm amber lantern highlights, highly detailed fabric embroidery, realistic-anime dark fantasy rendering, soft volumetric light, shallow depth of field, no modern objects, no extra characters, no watermark.",
+    "title": "Dark Jiangshi Temple Portrait",
+    "description": "A cinematic vertical fantasy portrait of a young jiangshi girl in ornate Qing-inspired robes inside a haunted ancient Chinese temple.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1783759622285_1co7bw_HM1Lsqba0AAtud2.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 28128,
