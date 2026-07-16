@@ -10,6 +10,19 @@
     "needReferenceImages": true
   },
   {
+    "id": 28807,
+    "content": "Organize {argument name=\"subject\" default=\"any content\"} into a bright and clean flat poster. The initial impression is order established by large areas of white space, thin-lined large text, and a low-position diffuse theme-colored mist. The image maintains a high-brightness background like blank paper. Main text appears in a very thin, uniform linear skeleton similar to engineering drawings, with generous spacing but significant scale jumps: a few oversized characters near edges create pillar-like visual weight, multi-language titles hang horizontally, and local theme characters are enlarged like path nodes. A fluorescent color block derived from the theme is placed in the lower-middle section, with clear, high-brightness, slightly acidic supporting colors. The center is fuller while edges dissipate with fine spray dots and vertical translucent smoke pillars. Text color uses high-saturation warm tones separated from the mist color, serving as a unified voice for titles and info; small text is grouped to leave wide breathing room. All graphics maintain digital printing flatness, with spray edges showing graininess and uneven density, avoiding heavy shadows or photo textures. The final effect is like an experimental open word field: quiet, striking, and slightly unstable.\\n\\n——————\\n\\nImage elements: {argument name=\"city\" default=\"city\"}+{argument name=\"date\" default=\"2026-07-08\"}+Good Morning quote+5 different information points+rhythmic composition\\n1 city per generation, each with different color and compositional logic\\nTotal 10 cities, 10 images generated in sequence\\nNote: Each image must have a unique layout and composition.\\nAspect ratio 16:9 horizontal",
+    "title": "Minimalist Linear Skeleton Poster",
+    "description": "A detailed prompt for clean, minimalist posters featuring skeleton typography and diffuse fluorescent accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784191450754_1i3san_HNTmiwTaAAAZS7j.jpg",
+      "https://cms-assets.youmind.com/media/1784191452230_lytsih_HNTmkf4bkAAcw3D.jpg",
+      "https://cms-assets.youmind.com/media/1784191450739_cgl58i_HNTmmB-boAAcnb0.jpg",
+      "https://cms-assets.youmind.com/media/1784191452716_trhqpd_HNTmnMMbwAAyPCf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28733,
     "content": "Create a highly photorealistic empty cinema auditorium very closely inspired by a real {argument name=\"theater type\" default=\"4DX\"} with {argument name=\"screen style\" default=\"ScreenX\"} room, matching the look of a modern commercial theater with a {argument name=\"focus\" default=\"centered front screen\"} and projection continuing across the tall left and right side",
     "title": "Photorealistic 4DX Cinema Auditorium",
