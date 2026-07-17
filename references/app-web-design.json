@@ -10,6 +10,38 @@
     "needReferenceImages": true
   },
   {
+    "id": 28946,
+    "content": "Create an elegant editorial studio portrait poster for {argument name=\"brand initials\" default=\"ABKR\"}. Use a square canvas with a warm off-white textured paper background. Center a large rounded-rectangle photo panel in very dark forest green, leaving generous cream margins. Inside the panel, show a photorealistic waist-up portrait of a young Black man with deep brown skin, short close-cropped black hair, clean-shaven face, defined jawline, full lips, straight nose, and expressive dark eyes looking off to the viewer’s left. He wears a plain black crewneck T-shirt with a small gold handwritten signature logo reading {argument name=\"signature text\" default=\"Abkr\"} across the chest. Pose him three-quarter view with shoulders angled slightly left and head turned left, calm confident expression, soft studio lighting, crisp skin detail, natural shadows, premium fashion look. At the top, set the large spaced serif letters {argument name=\"top monogram\" default=\"A B K R\"} in dark green, centered, with a thin gold ornamental divider beneath it. At the bottom right, add small gold issue numbering {argument name=\"issue number\" default=\"01\"} with a thin horizontal line below. Minimal luxury branding, refined typography, muted color palette of cream, dark green, black, and gold, high-end magazine cover aesthetic, no extra text, no watermark.",
+    "title": "Luxury ABKR Portrait Poster",
+    "description": "A refined fashion-brand portrait poster featuring a young male model, monogram typography, gold accents, and a premium editorial layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784278025113_v2u9gq_HNYOuO9WoAArpJa.jpg",
+      "https://cms-assets.youmind.com/media/1784278025077_m3gbsj_HNYOu-xWQAANSe_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28908,
+    "content": "Walking inside a {argument name=\"location\" default=\"luxury shopping arcade\"} where {argument name=\"light source\" default=\"sunlight\"} streams through the {argument name=\"architectural feature\" default=\"huge glass ceiling\"}, creating beautiful light patterns across the floor.",
+    "title": "Luxury Arcade with Sunlight Patterns",
+    "description": "A cinematic prompt for generating a high-end shopping arcade scene featuring intricate light patterns from a glass ceiling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784277995880_iz1hvn_HNVjZskaMAAak1r.jpg",
+      "https://cms-assets.youmind.com/media/1784277995855_86i9fr_HNVjbgXaIAAws3S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 28937,
+    "content": "Create a vibrant vertical anime-style celebration illustration featuring a single adorable golden hamster as the main subject. The hamster is extremely round and fluffy, floating upward in the center with tiny raised paws, small pink feet, round ears, glossy sparkling black eyes, rosy cheeks, a tiny buck tooth, and a wide open joyful smile. Surround it with exactly six dark rounded-rectangle progress panels, each showing the text “0%” in glowing white and a thin empty neon progress bar beneath it: one large panel at the upper left, one medium panel at the upper right, one smaller panel at mid-left, one smaller panel at mid-right, one small panel at lower left, and one small panel at lower right. Use a dramatic dark navy-to-black background filled with purple neon outlines, orange and pink confetti, curled ribbons, small stars, sparkles, dots, and firework-like light streaks. At the bottom, create a bright golden stage-like burst of light on a reflective horizon, with rays shooting upward behind the hamster. The mood should be triumphant, cute, chaotic, and festive, like a “failed loading but still celebrating” mascot poster. Use glossy digital painting, high-detail anime rendering, soft fur texture, strong rim lighting, glowing purple neon accents, cinematic contrast, and a vertical smartphone wallpaper composition. Customize the central animal as {argument name=\"animal\" default=\"golden hamster\"}, the progress text as {argument name=\"progress text\" default=\"0%\"}, the celebration theme as {argument name=\"theme\" default=\"neon confetti celebration\"}, the main glow color as {argument name=\"main glow color\" default=\"purple\"}, and the background color as {argument name=\"background color\" default=\"dark navy black\"}.",
+    "title": "Cute Hamster 0% Celebration",
+    "description": "Generates a vertical anime wallpaper of a joyful fluffy hamster surrounded by glowing 0% loading panels, neon confetti, and fireworks.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784278018397_dtzldn_HNUkL5NbwAAskUQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28807,
     "content": "Organize {argument name=\"subject\" default=\"any content\"} into a bright and clean flat poster. The initial impression is order established by large areas of white space, thin-lined large text, and a low-position diffuse theme-colored mist. The image maintains a high-brightness background like blank paper. Main text appears in a very thin, uniform linear skeleton similar to engineering drawings, with generous spacing but significant scale jumps: a few oversized characters near edges create pillar-like visual weight, multi-language titles hang horizontally, and local theme characters are enlarged like path nodes. A fluorescent color block derived from the theme is placed in the lower-middle section, with clear, high-brightness, slightly acidic supporting colors. The center is fuller while edges dissipate with fine spray dots and vertical translucent smoke pillars. Text color uses high-saturation warm tones separated from the mist color, serving as a unified voice for titles and info; small text is grouped to leave wide breathing room. All graphics maintain digital printing flatness, with spray edges showing graininess and uneven density, avoiding heavy shadows or photo textures. The final effect is like an experimental open word field: quiet, striking, and slightly unstable.\\n\\n——————\\n\\nImage elements: {argument name=\"city\" default=\"city\"}+{argument name=\"date\" default=\"2026-07-08\"}+Good Morning quote+5 different information points+rhythmic composition\\n1 city per generation, each with different color and compositional logic\\nTotal 10 cities, 10 images generated in sequence\\nNote: Each image must have a unique layout and composition.\\nAspect ratio 16:9 horizontal",
     "title": "Minimalist Linear Skeleton Poster",
