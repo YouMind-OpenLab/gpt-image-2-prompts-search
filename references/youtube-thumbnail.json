@@ -1,5 +1,18 @@
 [
   {
+    "id": 28993,
+    "content": "Input an article, go through three rounds of Q&A, and it directly outputs cover prompts that can be used for image generation. No need to understand design, no need to write prompts yourself, the aspect ratio is fixed at 3:4, and facial consistency can be maintained.👇 👹 The entire workflow is as follows: 1. Skill installation and first-time configuration (save a photo of your own face + confirm the image generation model) 2. Give the article content to the agent, which automatically reads and refines it 3. Round 1: Recommend composition styles based on content (10 options to choose from) + automatically come up with candidate titles 4. Round 2: Face reference images + materials such as UI screenshots/product images 5. Round 3: Choose expressions, background tones, fonts, and font colors all at once, or leave it all to the model if you're lazy 6. Output complete prompts: 3:4 composition, safety zone, multi-reference image writing for Image 1 (face) + Image 2 (materials) are all included 7. Take it to Jimeng / Nano Banana / GPT-Image to generate images (if your agent has an image generation API configured, you can have it generate directly in the conversation) 8. Check if the titles have typos, and regenerate any parts you're unhappy with. 🧐 Tips: You must choose an image generation model that supports multiple reference images, otherwise facial consistency cannot be guaranteed. The skill has 8 built-in sets of example prompts reverse-engineered from real trending covers, and the model will automatically use them as references, pushing the image detail to the maximum.",
+    "title": "Consistent Social Media Cover Agent Skill",
+    "description": "A workflow description for an AI agent skill that generates consistent social media covers using multi-reference images, compatible with GPT-Image models.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784363335923_d89xsc_HNZUAHTa4AAC1GZ.jpg",
+      "https://cms-assets.youmind.com/media/1784363336014_09ihov_HNZUAHeaYAETOiX.jpg",
+      "https://cms-assets.youmind.com/media/1784363336627_gcthid_HNZUMeHaIAAplf_.jpg",
+      "https://cms-assets.youmind.com/media/1784363337479_2ccaze_HNZUU8yawAAQMBG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28933,
     "content": "Create a retro 2.5D anime thumbnail in a cinematic 16:9 frame, showing a close-up of {argument name=\"character name\" default=\"a mischievous gothic anime girl\"} leaning toward the camera in a cluttered analog electronics room. She has long straight {argument name=\"hair color\" default=\"black hair\"} with blunt bangs, teal-green eyes, pale skin, small blush marks, pointed ears, and a wide unsettling grin with sharp triangular teeth. She wears a black top and a thin black choker, with her face centered and dominating the composition, shoulders cropped at the bottom, direct eye contact, playful but eerie expression. The background is a dim retro tech studio with exactly two visible CRT televisions: one large CRT on the left displaying bright cyan static and one darker CRT on the lower right with a small blue glow; include shelves, cables, ceiling pipes, hanging wires, old equipment, and a high window with washed-out daylight. Use a NORINORI CORE-inspired retro 2.5D aesthetic: cel-shaded anime character over a semi-realistic grungy room, thick ink outlines, muted olive-gray shadows, teal and magenta chromatic aberration along edges, VHS scanline noise, slight fisheye wide-angle distortion, low-light atmosphere, crisp face details, gritty analog texture, 1990s cyberpunk anime mood. Keep the image text-free, no logos, no watermark, no extra characters.",
     "title": "Retro 2.5D Anime CRT Girl",

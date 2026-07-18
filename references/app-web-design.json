@@ -10,6 +10,26 @@
     "needReferenceImages": true
   },
   {
+    "id": 28989,
+    "content": "A simple {argument name=\"shape and color\" default=\"blue circle\"} centered on a plain {argument name=\"background color\" default=\"white\"} background, no text, no watermark",
+    "title": "Minimalist Diagnostic API Test",
+    "description": "A simple diagnostic prompt used within a CLI script to test gpt-image-2 API connectivity and output by generating a basic geometric shape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784363334664_p8odmm_HNckj4taoAIlBXx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29012,
+    "content": "Create a minimalist flat vector illustration of {argument name=\"number of people\" default=\"four people\"} standing in a line as if waiting in a queue, all shown in left-facing side profile on a warm off-white background. Use a simple editorial style with thick dark charcoal outlines, flat muted colors, and very little facial detail. The scene contains exactly 4 discrete human figures from left to right: 1) a young man in a black jacket and black pants wearing a rounded black backpack, standing upright with arms down; 2) a young woman with dark hair in a ponytail, wearing a muted blue long-sleeve top, slim black pants, black shoes, and a black crossbody shoulder bag; 3) a young man in a black outfit with a black backpack, holding a smartphone in one hand at chest height while looking slightly downward; 4) a young woman with shoulder-length dark hair wearing a muted blue top, long black skirt, black shoes, and carrying a white tote bag over one shoulder. Keep the figures evenly spaced, cropped slightly at the far right edge for the fourth person, with no text, no scenery, no shadows, and no extra objects beyond the 4 bags and 1 smartphone. Use a restrained palette of {argument name=\"accent color\" default=\"muted blue\"}, black, charcoal gray, white, and cream, with clean hand-drawn linework and a calm modern urban mood.",
+    "title": "Minimal Queue Illustration",
+    "description": "A clean flat vector illustration of four side-profile commuters waiting in line, suitable for editorial, transit, or social behavior visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784363351545_6mb1cm_HNZQ5jrawAAT4uN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 28946,
     "content": "Create an elegant editorial studio portrait poster for {argument name=\"brand initials\" default=\"ABKR\"}. Use a square canvas with a warm off-white textured paper background. Center a large rounded-rectangle photo panel in very dark forest green, leaving generous cream margins. Inside the panel, show a photorealistic waist-up portrait of a young Black man with deep brown skin, short close-cropped black hair, clean-shaven face, defined jawline, full lips, straight nose, and expressive dark eyes looking off to the viewer’s left. He wears a plain black crewneck T-shirt with a small gold handwritten signature logo reading {argument name=\"signature text\" default=\"Abkr\"} across the chest. Pose him three-quarter view with shoulders angled slightly left and head turned left, calm confident expression, soft studio lighting, crisp skin detail, natural shadows, premium fashion look. At the top, set the large spaced serif letters {argument name=\"top monogram\" default=\"A B K R\"} in dark green, centered, with a thin gold ornamental divider beneath it. At the bottom right, add small gold issue numbering {argument name=\"issue number\" default=\"01\"} with a thin horizontal line below. Minimal luxury branding, refined typography, muted color palette of cream, dark green, black, and gold, high-end magazine cover aesthetic, no extra text, no watermark.",
     "title": "Luxury ABKR Portrait Poster",
@@ -43,14 +63,14 @@
   },
   {
     "id": 28807,
-    "content": "Organize {argument name=\"subject\" default=\"any content\"} into a bright and clean flat poster. The initial impression is order established by large areas of white space, thin-lined large text, and a low-position diffuse theme-colored mist. The image maintains a high-brightness background like blank paper. Main text appears in a very thin, uniform linear skeleton similar to engineering drawings, with generous spacing but significant scale jumps: a few oversized characters near edges create pillar-like visual weight, multi-language titles hang horizontally, and local theme characters are enlarged like path nodes. A fluorescent color block derived from the theme is placed in the lower-middle section, with clear, high-brightness, slightly acidic supporting colors. The center is fuller while edges dissipate with fine spray dots and vertical translucent smoke pillars. Text color uses high-saturation warm tones separated from the mist color, serving as a unified voice for titles and info; small text is grouped to leave wide breathing room. All graphics maintain digital printing flatness, with spray edges showing graininess and uneven density, avoiding heavy shadows or photo textures. The final effect is like an experimental open word field: quiet, striking, and slightly unstable.\\n\\n——————\\n\\nImage elements: {argument name=\"city\" default=\"city\"}+{argument name=\"date\" default=\"2026-07-08\"}+Good Morning quote+5 different information points+rhythmic composition\\n1 city per generation, each with different color and compositional logic\\nTotal 10 cities, 10 images generated in sequence\\nNote: Each image must have a unique layout and composition.\\nAspect ratio 16:9 horizontal",
-    "title": "Minimalist Linear Skeleton Poster",
-    "description": "A detailed prompt for clean, minimalist posters featuring skeleton typography and diffuse fluorescent accents.",
+    "content": "Organize {argument name=\"subject content\" default=\"arbitrary subject content\"} into a bright and clean flat poster. At first glance, the order is established by large areas of white space, thin-lined large characters, and a low-level diffusion of theme-colored spray. The image maintains a high-brightness background like a blank piece of paper. The main text appears in an extremely thin, uniform linear skeleton similar to engineering drawings. The character spacing is sparse but the scale jumps significantly: a small number of oversized characters are close to the edges to form a pillar-like visual weight, multilingual titles or subtitles hang horizontally above, and partial theme characters are disassembled and enlarged, appearing like logos or path nodes. Place a fluorescent mist block derived from the theme at the lower middle. The color is extracted from the theme's clearest, highest-brightness, and slightly acidic supporting colors. The center is fuller, and the edges dissipate outwards with a large number of tiny spray dots, vertically trailing several semi-transparent smoke pillars, making the text look like it is floating in front and behind the mist rather than pressed against the pattern. The text color uses high-saturation warm tones or theme-contrast colors clearly separated from the mist color, with a restrained area, serving as the unified voice for titles, descriptions, symbols, and bottom contact information; small characters are grouped in short lines, leaving wide room to breathe without filling the white space. All graphics maintain the flatness and cleanliness of digital printing, with only the edges of the spray appearing grainy, leaky, and of uneven density, avoiding heavy shadows, photo textures, gradient decorations, and crowded layouts; the final effect should be like an open field of characters in experimental communication, quiet, eye-catching, and slightly unstable.\n\nEach picture element: {argument name=\"subject\" default=\"city\"} + 2026-07-08 + {argument name=\"greeting\" default=\"good morning quote greeting\"} + 5 different forms of information points + rich compositional rhythm changes\n1 city each time, each city has different color matching logic and compositional logic changes\nA total of 10 cities, 10 images, generated in sequence\nNote: Each image has a different compositional layout.\nRatio 16:9 Landscape",
+    "title": "Bright Minimalist Poster with Linear Typography",
+    "description": "A sophisticated prompt for creating bright, clean minimalist posters that feature wide whitespace, delicate technical-style skeletal fonts, and a central focal point of fluorescent color spray for an artistic, slightly unstable look.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784191450754_1i3san_HNTmiwTaAAAZS7j.jpg",
-      "https://cms-assets.youmind.com/media/1784191452230_lytsih_HNTmkf4bkAAcw3D.jpg",
-      "https://cms-assets.youmind.com/media/1784191450739_cgl58i_HNTmmB-boAAcnb0.jpg",
-      "https://cms-assets.youmind.com/media/1784191452716_trhqpd_HNTmnMMbwAAyPCf.jpg"
+      "https://cms-assets.youmind.com/media/1784363348046_e2p763_HNTmiwTaAAAZS7j.jpg",
+      "https://cms-assets.youmind.com/media/1784363348093_3bj5e8_HNTmkf4bkAAcw3D.jpg",
+      "https://cms-assets.youmind.com/media/1784363348040_6lr039_HNTmmB-boAAcnb0.jpg",
+      "https://cms-assets.youmind.com/media/1784363349564_qoffr1_HNTmnMMbwAAyPCf.jpg"
     ],
     "needReferenceImages": false
   },

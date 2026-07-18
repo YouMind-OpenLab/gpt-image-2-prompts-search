@@ -1,5 +1,37 @@
 [
   {
+    "id": 28986,
+    "content": "premium {argument name=\"beverage\" default=\"iced coffee\"} product photo, glass, {argument name=\"visual details\" default=\"milk swirls, ice refraction\"}, {argument name=\"lighting\" default=\"soft studio light\"}",
+    "title": "Premium Iced Coffee Product Photography",
+    "description": "A commercial photography prompt for GPT Image 2 designed to create high-end cafe product shots featuring realistic milk swirls, condensation, and soft studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784363332503_xjjdvp_HNcg5ata0AAEkle.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29016,
+    "content": "Goal: Create a premium vertical e-commerce beverage poster for an iced caramel sea-salt latte / dessert drink, with a cool crystalline summer aesthetic and bold Chinese typography.\n\nCanvas: Vertical 3:4 poster, high-resolution commercial product photography style. Use an icy pale-blue background with bright daylight, sparkling highlights, water droplets, and flying ice fragments. The composition should feel refreshing, cold, glossy, and high-end.\n\nLayout: Place the main product glass in the lower-right half, tilted slightly to the right and cropped close for impact. Surround it with large transparent blue ice cubes in the foreground and background, including exactly 5 prominent ice blocks: one large block at bottom left, one large block at bottom right, one medium block behind the cup on the right, one medium block behind the cup on the left, and one small floating cube near the left side. Add small ice shards and droplets scattered through the air. Reserve the upper-left area for typography. Add a black bottom footer bar occupying about 7% of the canvas height.\n\nSubject details: The drink is a clear cylindrical glass filled with dark coffee at the bottom, milk and cream swirling above, topped with thick white foam. Golden caramel sauce drips down the foam and glass. Add amber sugar crystals on top of the foam and around the ice; show exactly 9 clearly visible amber crystal chunks on the foam and rim area. The glass surface has condensation beads and cold mist. Use strong macro product lighting, crisp reflections, and shallow depth of field.\n\nText content: At the very top-left, add a small thin white slogan: {argument name=\"top slogan\" default=\"烘焙新品  清凉上新\"}. Below it, create a huge bold block-style Chinese headline in two lines: first line in white, {argument name=\"main headline\" default=\"海盐焦糖\"}; second line in deep navy blue, {argument name=\"product name\" default=\"拿铁\"}. Under the headline, add a rounded blue gradient pill button with white text: {argument name=\"promotion text\" default=\"限时尝鲜  第二杯半价\"}. In the bottom black footer bar, center widely spaced white uppercase text: {argument name=\"brand text\" default=\"BAKERY LAB\"}.\n\nTypography style: Use heavy geometric sans-serif Chinese characters with a chunky, squared, slightly futuristic look. The headline should be very large, clean, tightly kerned, and slightly shadowed for separation. The promotional pill should have a glossy blue-to-cyan gradient and rounded corners.\n\nVisual style: Hyper-realistic commercial food photography mixed with graphic advertising design; icy crystal aesthetics, high contrast between deep coffee browns, caramel amber, bright whites, and cool blues. No watermark, no extra logos, no additional text beyond the specified four text areas.",
+    "title": "Iced Caramel Latte Poster",
+    "description": "Creates a vertical Chinese e-commerce product poster for an iced caramel sea-salt latte with crystal ice aesthetics and bold promotional typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784363355944_3par9e_HNbjLZVbcAAuu5c.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 28978,
+    "content": "Minimalist product advertisement featuring [{argument name=\"product\" default=\"the Vanilla & Blues Eau de Parfum 100ml — a round frosted sky-blue glass bottle filled with pale blue liquid, topped with a twisted seashell-shaped cap in matching light blue and a slim silver collar band, \"Vanilla & Blues Eau De Parfum\" printed on the rounded face\"}] shot from a low upward angle so the bottle looms large and slightly tilted, with its matching blue-and-white floral watercolor box positioned softly out of focus behind it, seen through a vertical corrugated glass panel, with [{argument name=\"backdrop\" default=\"a pale icy-white studio backdrop with a faint cool blue gradient wash\"}] visible behind the object. Use [a palette of powder blue, frosted ice-white, silver, and soft hydrangea lavender-blue], soft directional lighting with a gentle silver rim-light along the cap and glass edge, semi-obscured contours through the corrugated distortion, elongated vertical distortion lines, elegant editorial mood, asymmetrical off-center composition, subtle depth, smooth gradients, polished commercial styling, delicate blue hydrangea petals and fine water droplets suspended mid-air beside the bottle to evoke its [{argument name=\"scent notes\" default=\"sweet vanilla, soft floral bouquet, and clean powdery musk\"}] notes, and the title \"[VANILLA & BLUES]\" in refined serif typography arched gently above the bottle's shoulder, vertical 4:5.",
+    "title": "Minimalist Blue Perfume Advertisement",
+    "description": "A professional minimalist product advertisement prompt for a sky-blue perfume bottle with a shell-shaped cap, featuring elegant distortions and a floral backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784363327827_stlzk4_HNbOLFdbEAAa1D2.jpg",
+      "https://cms-assets.youmind.com/media/1784363327880_db2ymi_HNbOLaiaEAEf55-.png",
+      "https://cms-assets.youmind.com/media/1784363327939_6ihke2_HNbOLn8agAAAX0o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 28893,
     "content": "unbranded transparent perfume bottle, one {argument name=\"flower type\" default=\"tulip-like flower\"} enclosed inside, {argument name=\"background color\" default=\"champagne ivory\"} background, {argument name=\"glass color\" default=\"honey-gold\"} glass, luxury product photography, no logos, no readable text, no watermark.",
     "title": "Unbranded Luxury Perfume Bottle Poster",
@@ -116,6 +148,17 @@
       "https://cms-assets.youmind.com/media/1783932905735_hfib32_HNBHhd3bwAAHsVr.jpg",
       "https://cms-assets.youmind.com/media/1783932905501_af5e3o_HNBHii3bkAAYs9P.jpg",
       "https://cms-assets.youmind.com/media/1783932906525_suyrjk_HNBHjd1bUAAZbWl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29010,
+    "content": "Outfit: {argument name=\"top style\" default=\"a fitted pale baby-blue cropped long-sleeve top in lightweight stretch ribbed knit, featuring a softly ruched sweetheart neckline, thin crisscross halter straps around the neck, and a small tonal button placket at the center front\"}, paired with {argument name=\"bottom style\" default=\"an ivory-white ultra-short tiered ruffle skort in lightweight matte woven fabric with multiple softly flared cascading layers and a finely gathered inner-shorts hem visible underneath\"}, white knee-high floral lace socks, black chunky platform loafers in smooth leather-like material with a small generalized triangular metal plaque and thick lugged rubber soles, and a {argument name=\"bag style\" default=\"pale blue-and-white gingham drawstring shoulder bag with a softly structured rounded body, slim shoulder strap, and tied side cords\"}, no bag charms, premium fabric texture, realistic garment construction, clean stitching, natural seam tension, believable fabric weight, subtle wrinkles, realistic drape, refined edge finishing, visible seams, real folds, well-made clothing details, high-quality material feel, detailed garment realism, natural high-quality everyday fashion, not costume-like, not cheap-looking, plus a random mix of delicate silver-tone feminine Y2K accessories with a clean romantic mood and light visual volume",
+    "title": "Summer Girly Fashion Outfit Style",
+    "description": "A highly detailed fashion generation prompt describing a summer girly ensemble with a baby-blue cropped knit top, tiered ruffle skort, and Y2K-inspired lace and platform accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784363348295_qerd11_HM5eWTdbkAAMEuD.jpg",
+      "https://cms-assets.youmind.com/media/1784363349479_c20net_HM5eWTrbsAAE-lV.jpg"
     ],
     "needReferenceImages": false
   },
