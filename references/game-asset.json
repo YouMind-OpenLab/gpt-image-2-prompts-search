@@ -10,22 +10,129 @@
     "needReferenceImages": true
   },
   {
-    "id": 29409,
-    "content": "Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background, following this exact structured composition and visual aesthetic:\n\n[STYLE]: highly polished {argument name=\"style\" default=\"2D digital anime\"}",
-    "title": "High-Fashion Anime Character Sheet",
-    "description": "Generates a modern high-fashion character concept art sheet in a clean digital anime style, featuring structured compositions and polished outlines.",
+    "id": 29539,
+    "content": "Create a full-body monochrome manga character standing pose on a clean white background: a slim young Japanese male character, {argument name=\"character name\" default=\"unnamed bishonen student\"}, with pale skin, a serious quiet expression, large sharp anime eyes, and glossy {argument name=\"hair color\" default=\"black\"} medium-length hair parted near the center with long bangs partly covering one eye. He stands slightly turned in a relaxed upright pose, one hand hanging at his side and the other tucked into his sleeve or pocket area, looking forward with a reserved, melancholy mood. Dress him in a formal traditional Japanese outfit: exactly 5 visible outfit pieces, consisting of a crisp white collared shirt under a dark black kimono-style top with wide sleeves, a wrapped obi belt tied at the front, long gray vertically pleated hakama trousers reaching the ankles, and polished black lace-up leather boots. Use high-detail black-and-white manga line art with delicate hatching, realistic fabric folds, glossy highlights in the hair and shoes, elegant proportions, clean thin outlines, subtle grayscale shading, no color except grayscale, no text, no props, no background scenery, centered composition with ample negative space, fashion character-sheet style.",
+    "title": "Monochrome Manga Hakama Boy",
+    "description": "Generates a full-body black-and-white manga standing character design wearing a modern traditional Japanese hakama outfit.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784710334067_uewom3_HNybANnakAAx5T1.jpg"
+      "https://cms-assets.youmind.com/media/1784796597004_ljjmu6_HN4jPtLbQAASyF4.jpg",
+      "https://cms-assets.youmind.com/media/1784796596757_05o8hl_HN4jPtIbgAA9_qu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29535,
+    "content": "Create a cinematic wide-screen sci-fi concept art scene in a dark, ruined megastructure interior. The canvas is 16:9, low-angle and very wide, dominated by a massive collapsed black metal ceiling overhead and jagged architectural debris forming diagonal silhouettes. In the lower right third, place one lone female figure with long black hair, pale skin, and a slim silhouette, wearing a flowing dark-and-white layered robe or coat; she stands still on fractured metal flooring, small compared with the immense environment, looking forward with a calm, mysterious presence. The setting should feel like the inside of a destroyed spaceship, orbital station, or futuristic city shell: enormous broken ribs, torn panels, dangling cables, bent beams, shattered hull plates, and distant structural arcs receding into fog. Use strong backlighting from a bright white opening on the left and behind the character, creating high contrast, deep shadows, atmospheric haze, and a desaturated monochrome palette of black, charcoal, steel gray, and cold white. Emphasize seamless integration between character and environment, epic scale, cinematic composition, realistic digital painting texture, sharp foreground silhouettes, misty depth, moody post-apocalyptic science fiction atmosphere, no text, no watermark. Optional customization: make the lone figure {argument name=\"character gender\" default=\"female\"}, with {argument name=\"hair color\" default=\"black\"} hair, wearing {argument name=\"outfit style\" default=\"a flowing dark-and-white layered robe or coat\"}, inside {argument name=\"ruined structure type\" default=\"a destroyed spaceship or orbital station\"}, lit by {argument name=\"main light source\" default=\"a bright white opening on the left\"}.",
+    "title": "Lone Figure in Ruined Megastructure",
+    "description": "A cinematic sci-fi concept art prompt for creating a small character seamlessly integrated into a vast collapsed futuristic environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796594513_kjzl2o_HN3XpuaasAAVefL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29493,
+    "content": "Create an illustration. Create an original Japanese itasha vehicle based entirely on the uploaded illustration. Design a fully fictional vehicle and manufacturer naturally born from the artwork's universe, never resembling any real vehicle or brand. First, carefully analyze the uploaded illustration and determine the single most suitable vehicle category. The choice must arise naturally from the character, worldbuilding, culture, technology, architecture, personality, lifestyle, and atmosphere. The vehicle may be a {argument name=\"vehicle type\" default=\"kei car, hatchback, sedan, wagon, coupe, limousine, SUV, pickup, microvan, camper, utility vehicle, military vehicle, luxury vehicle, retro-futuristic vehicle, magical vehicle\"}, or another original type. Never default to the same vehicle category. Each illustration must begin from a completely blank design process and produce a vehicle with a unique body architecture, proportions, roofline, cabin position, and driving purpose. Sports cars, race cars, GT cars, and supercars must only be chosen when the uploaded illustration clearly and naturally requires them. The body shape, proportions, cockpit, wheels, lighting, materials, interior, and every design detail must naturally evolve from the illustration's atmosphere, colors, fashion, architecture, magic, technology, and worldbuilding. All decals, logos, symbols, typography, crests, and sponsor-style graphics must be completely original fictional designs inspired only by the uploaded illustration. If a character exists, preserve the original face, hairstyle, clothing style, colors, proportions, and personality, and place the character naturally beside or interacting with the vehicle. Compose the illustration in a {argument name=\"format\" default=\"vertical 9:16\"} format. The full vehicle must remain visible while the character becomes the primary focal point. Use a {argument name=\"perspective\" default=\"dramatic low-angle perspective\"} that emphasizes both the character and the vehicle, creating a powerful smartphone wallpaper composition. Cinematic automotive photography, anime-inspired photorealism, masterpiece quality, ultra detailed, dynamic lighting, dramatic reflections, no watermark.",
+    "title": "Custom Japanese Itasha Vehicle Designer",
+    "description": "A comprehensive image-to-image prompt that creates a unique, fictional itasha vehicle based on the universe and character of an uploaded illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796553590_6vkngz_HN3WcNWaUAAQ-qG.jpg",
+      "https://cms-assets.youmind.com/media/1784796553639_nq2qhr_HN3WcNWaMAAughq.jpg",
+      "https://cms-assets.youmind.com/media/1784796553689_9dm8lk_HN3WcNKbcAANKQU.jpg",
+      "https://cms-assets.youmind.com/media/1784796554998_n1udol_HN3WcNMbYAA6daJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29528,
+    "content": "Goal: Create a clean photographic character reference sheet for {argument name=\"character name\" default=\"a young East Asian woman\"}, designed like a model identity sheet for consistent AI character generation.\n\nCanvas: Wide horizontal 16:9 layout on a pure white studio background, divided by thin light-gray grid lines into multiple rectangular panels. Use soft even studio lighting, realistic skin texture, neutral color grading, sharp editorial photography, and no decorative background elements.\n\nLayout and count: Include exactly 12 visible character views/panels. Panel 1 is a very large close-up frontal portrait occupying the entire left third of the sheet. Panels 2 and 3 are upper head-and-shoulders three-quarter angled portraits in the top center. Panels 4 and 5 are left and right side-profile head portraits in the middle center. Panels 6, 7, and 8 are full-body standing views on the top right: front view, side view, and back view. Panels 9, 10, 11, and 12 form a bottom row of facial-expression portraits: neutral, slight smile, broad smile showing teeth, and surprised parted-lips expression.\n\nVisible labels: Add small black Japanese section labels near the top-left of relevant grid areas, using {argument name=\"section labels\" default=\"正面, 斜め, 横顔, 全身, 表情\"}. Keep the labels minimal, plain sans-serif, and unobtrusive.\n\nSubject details: The woman has long {argument name=\"hair color\" default=\"black\"} wavy hair parted near the center, soft natural makeup, fair skin, large dark eyes, delicate eyebrows, a small straight nose, and muted rose lips. Her expression is calm and elegant. Maintain the same face, hair length, facial proportions, and styling consistently across all 12 panels.\n\nWardrobe and accessories: She wears a fitted {argument name=\"top color\" default=\"white\"} long-sleeve scoop-neck knit top, high-waisted wide-leg dark charcoal trousers, black pointed shoes, a short pearl necklace, and small pearl earrings. In the full-body panels her posture is upright with arms relaxed at her sides.\n\nConstraints: Make it look like a real studio photo reference sheet, not anime or illustration. Avoid extra people, props, logos, watermarks, heavy shadows, colorful backgrounds, or additional text. Keep the full-body back view showing long hair falling down the back and the trousers clearly visible.",
+    "title": "Photorealistic Female Character Sheet",
+    "description": "Generates a realistic multi-view character reference sheet with portraits, profiles, full-body views, and facial expressions for identity consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796590846_16j5bo_HN2Qv0saoAAWVgI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29540,
+    "content": "Create a pure black-and-white binary walkable-area mask for a top-down video game map. Use a square 1:1 canvas, about 768×768 pixels, with a solid black background and a single connected irregular white region representing traversable ground. The white shape should resemble a fantasy dungeon/island silhouette: a broad central vertical open area, jagged organic edges, narrow corridors and protruding rooms branching left and right. Include exactly 6 prominent side features around the central white mass: 1 large rounded oval platform on the upper left connected by a thin neck, 1 smaller mushroom-like platform on the lower left connected by a winding corridor, 1 jagged crescent-shaped protrusion at the upper left edge, 1 irregular upper-right chamber with three narrow black vertical cutouts inside it, 1 large black enclosed blob-like obstacle intruding from the right-center edge with a curled hook tip, and 1 round lower-right room-like protrusion partially separated by black negative space. Add several small triangular notches and pixel-stepped jagged edges, but keep the image strictly two colors only: pure white for walkable space and pure black for non-walkable space. No text, no grayscale, no antialiasing, no shadows, no perspective, no texture; make the edges slightly pixelated and mask-like as if intended for SDF or collision-map conversion.",
+    "title": "Binary Walkable Area Mask",
+    "description": "Generates a stark black-and-white top-down walkable-area mask for game maps, collision layouts, or SDF conversion tests.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796598242_rw644l_HN1Zk6DbIAAOCA0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29557,
+    "content": "Goal: Create an ultra-detailed 16:9 fantasy character design sheet for {argument name=\"character name\" default=\"LUNARIA\"}, titled {argument name=\"character title\" default=\"MOONLIGHT WITCH\"}, in the style of an official AAA fantasy RPG character bible.\n\nCanvas: Wide horizontal character sheet on an elegant ivory parchment background with a thin delicate gold decorative border, ornamental corner flourishes, soft pastel lighting, refined editorial spacing, and a luxury magical-girl fantasy aesthetic.\n\nMain character: A petite anime moon witch girl with a gentle cheerful expression, pale skin, large rabbit ears, very long {argument name=\"hair color\" default=\"white-to-blush pink\"} hair in thick braided twin tails, warm pink eyes, and small ornate hair accessories including dark crescent-moon decorations, ribbons, and gold accents. Her outfit is a short white layered dress with translucent lavender underskirt, a large red bow at the chest, gold filigree trim, floral embroidery, pink tassels, and an oversized dark navy-black cape with huge kimono-like sleeves lined in rose pink. Include moon, rabbit, blossom, ribbon, bell, tassel, and soft magical sparkle motifs. She wears high platform sandals with rabbit decorations, ankle frills, and pink-lavender socks. Pose the main full-body illustration on the left, floating lightly with arms open and one leg lifted, as if presenting herself.\n\nLayout: Top-left typography reads exactly “LUNARIA” in large elegant serif letters, with “MOONLIGHT WITCH” below in smaller serif text and a tiny decorative butterfly icon. Arrange the sheet into clearly labeled sections on the right and bottom while keeping the design airy and symmetrical.\n\nSections and exact counts: Include 1 large main full-body character illustration on the left. Include 3 smaller turnaround full-body views across the upper right labeled “TURNAROUND”: front view, side view, and back view. Include 3 accessory items in a rounded display panel labeled “ACCESSORIES”: one glowing rabbit moon lantern with tassel, one pink ribbon bow with twin tassels, and one gold spherical charm with tassel. Include 4 circular portrait expressions labeled “EXPRESSION”: happy open-mouth smile, neutral or shy pout, excited smile, and closed-eye content smile. Include 4 rectangular close-up panels labeled “DETAILS”: chest bow and bodice, layered skirt and waist ornament, embroidered cape sleeve with rabbit/floral motifs, and rabbit-ear hair accessory close-up. Include 6 square color swatches labeled “COLOR PALETTE”: coral pink, mauve purple, deep plum/navy, warm gold, cream ivory, and pale blush white. Include 4 rabbit companion drawings: one larger fluffy white rabbit sitting near the main character, plus a bottom rounded panel showing the rabbit in exactly 3 views: front, side, and back.\n\nStyle: Highly polished anime concept art, delicate linework, soft cel shading blended with painterly highlights, pastel pink and lavender accents, ornate gold detailing, crisp character-design-sheet presentation, clean readable labels, no clutter.\n\nConstraints: Keep all text in English, preserve the visible labels “TURNAROUND,” “ACCESSORIES,” “EXPRESSION,” “DETAILS,” and “COLOR PALETTE,” use exactly the counted elements above, avoid watermark or logos, and keep the background mostly empty ivory so the character sheet remains readable.",
+    "title": "Lunaria Moonlight Witch Character Sheet",
+    "description": "Creates a polished fantasy RPG anime character design sheet with turnaround views, accessories, expressions, detail panels, palette swatches, and rabbit companion views.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796613141_z7dwoz_HN1XNuYaAAA80q5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29529,
+    "content": "Create a highly detailed cinematic anime illustration of a cyberpunk feudal Japan city. In the foreground, a young elf-eared anime girl with {argument name=\"hair color\" default=\"short pale blue bob hair\"} and red eyes sits calmly on the edge of a dark tiled temple roof, legs forward, one hand resting behind her. She wears an ornate black-and-crimson futuristic samurai kimono armor outfit with layered sleeves, straps, belts, small hanging talismans, red trim, floral embroidery, mechanical details, white thigh-high socks, and black armored geta-like footwear. Add a small red flower hair clip near her bangs. Beside and beneath her lies a long black-and-red mechanical polearm/naginata with a polished curved blade extending toward the lower left foreground. Behind her, show an enormous rust-red mechanical samurai bird or crane-like war machine towering over the city, made of layered armor plates, exposed pistons, cables, gears, rivets, glowing red optics, and a long blade-like beak or weapon arm; it should feel ancient, damaged, and industrial. The background is a vast dense dystopian Japanese megacity with pagoda rooftops, scaffolded towers, vertical signs with stylized kanji-like markings, misty skyscrapers, smokestacks, and a large multi-tiered cyber-temple on the right. Use a cool gray overcast sky, drifting debris and tiny birds, atmospheric haze, deep perspective, and muted desaturated colors with strong crimson accents. Composition: wide 4:3 landscape, character slightly right of center, giant mech on the left, city filling the horizon, roof tiles leading diagonally into the scene. Style: ultra-detailed anime concept art, intricate linework, realistic lighting, gritty sci-fi texture, cinematic scale, sharp focus on the character, no modern UI, no watermark, no readable English text.",
+    "title": "Cyberpunk Samurai Elf on Temple Roof",
+    "description": "A cinematic anime concept art prompt for creating a blue-haired elf samurai girl overlooking a dystopian feudal cyberpunk city with a giant mechanical war machine.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796590470_ipvn59_HN1UOBKaEAAssz4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29549,
+    "content": "Create a luxurious vertical anime playing card illustration featuring {argument name=\"character name\" default=\"an original pink-haired magician girl\"} as the unique Queen of Spades. The canvas is a tall rounded-corner poker card with a cream background and an ornate gold filigree border, deep navy enamel panels, tiny star motifs, blue jewel accents, and pink rose decorations in the top-right and bottom-left corners. Put a large navy “Q” and spade symbol in the top-left corner and a matching rotated “Q” with spade symbol in the bottom-right corner. In the center, show a cheerful idol-magician anime girl in a dynamic seated pose reaching one hand toward the viewer while holding a decorated playing card in her other hand. She has {argument name=\"hair color\" default=\"soft pastel pink\"} twin-tail hair with braids, ribbons, small flower clips, bright blue eyes, rosy cheeks, and a gentle smile. Her outfit is an elaborate pink, white, and navy stage costume: tiny tilted top hat with ribbons and gold trim, frilly blouse, striped pink corset bodice, navy bow with gemstone brooch, gold chains, layered ruffled skirt, thigh-high white stockings, garter charm, lace cuffs, and many small heart and jewel accessories. The background inside the card frame is a magical casino-stage scene with glowing confetti, floating playing cards, triangular bunting, balloons, crystalline shards, sparkles, and soft pastel lights in pink, lavender, blue, and gold. Use extremely detailed shoujo anime rendering, glossy highlights, delicate line art, ornate fantasy card design, luminous atmosphere, high saturation but soft pastel palette, dramatic depth, and premium collectible card quality. Keep exactly one main character, exactly two visible corner index sets, and exactly two rose clusters; no extra text besides the card rank and suit.",
+    "title": "Anime Queen of Spades Card",
+    "description": "Creates an ornate collectible anime playing card featuring a pink-haired magician girl as the Queen of Spades.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796607005_x798vj_HN1RYg-boAA2RGr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29520,
+    "content": "Create a breathtaking vertical 3D Guoman-style portrait of {argument name=\"character name\" default=\"a young woman\"} in a romantic cherry-blossom atmosphere, preserving a realistic yet idealized facial identity with soft natural features, warm brown eyes, delicate eyebrows, a small straight nose, full pink lips, fair skin, and a calm gentle expression looking directly at the viewer. She has long {argument name=\"hair color\" default=\"warm chestnut-brown\"} hair gathered into a high flowing ponytail with loose face-framing strands, decorated on the right side with translucent white flower hair ornaments and crystal-like beads. Dress her in a crisp white collared school blouse with sleeves rolled slightly, a deep burgundy ribbon bow at the neck, and a matching burgundy pleated skirt. Pose her seated or leaning forward in a dynamic three-quarter view from slightly above, shoulders angled, one arm extending downward out of frame, with the skirt fanning softly across the lower image. The background is a dark dreamy burgundy and charcoal bokeh scene with branches of pale cherry blossoms in the upper right and many drifting white petals throughout the air. Use cinematic soft lighting, luminous skin shading, shallow depth of field, gentle rim light on hair, realistic fabric folds, glossy anime-realism eyes, high-detail 3D rendering, elegant Guoman fantasy aesthetic, warm romantic color grading, and no text, watermark, or extra characters.",
+    "title": "3D Guoman Cherry Blossom Schoolgirl Portrait",
+    "description": "Generates a cinematic 3D Guoman-style portrait of a young woman in a school uniform surrounded by cherry blossoms and drifting petals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796583970_ba64zh_HN1EWWmbAAA8NRH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29489,
+    "content": "Use the uploaded image as the sole reference while preserving the exact identity, facial structure, expression, eye shape, eyebrows, eyelashes, nose, lips, jawline, ears, hairstyle silhouette, body proportions, pose, composition, camera angle, perspective, framing, and recognizability. Transform the entire subject into a luxurious {argument name=\"style\" default=\"three-dimensional abstract botanical filament composition\"} where the pattern is deeply infused into every visible surface rather than placed on top. Reconstruct the face using flowing layered petal-like contours, delicate organic filaments, elegant floral veins, rippling botanical curves, and sculpted abstract forms that naturally follow the facial anatomy while preserving every defining feature. Transform the hair into dense flowing botanical ribbons composed of layered petals, fine silk-like fibers, graceful leaf structures, curved floral folds, and sweeping organic strands instead of individual hairs, creating rich dimensional volume. Extend the same interconnected floral pattern seamlessly across the clothing, accessories, and background so the entire composition appears organically grown from one continuous botanical structure. Render with silky satin petals, velvety floral textures, translucent layered membranes, fine filament veins, soft sculpted ridges, polished organic surfaces, subtle ambient occlusion, realistic depth, and cinematic lighting for a premium 3D appearance. Use a vibrant palette of {argument name=\"colors\" default=\"crimson, scarlet, coral, magenta, golden yellow, turquoise, teal, emerald, lime, ivory, and deep sapphire\"} with luminous color transitions, ensuring the botanical pattern remains dominant, highly detailed, abstract, and visually integrated throughout the entire subject and scene.",
+    "title": "Floraverse Botanical Filament Fusion",
+    "description": "An artistic image-to-image prompt that transforms a reference subject into a complex 3D botanical composition made of petals and organic filaments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796549175_ughizt_HNzsUkCakAAiGfM.jpg",
+      "https://cms-assets.youmind.com/media/1784796549182_s5onqn_HNzsVQhbYAA7urX.jpg",
+      "https://cms-assets.youmind.com/media/1784796549246_hdvdls_HNzsV-wasAA_GZ9.jpg",
+      "https://cms-assets.youmind.com/media/1784796549979_ki0u1r_HNzsXEtawAA84r6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29409,
+    "content": "Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a {argument name=\"background\" default=\"pure white background\"}, following this exact structured composition and visual aesthetic: [STYLE]: {argument name=\"style\" default=\"highly polished 2D digital anime\"}",
+    "title": "Fashion Anime Character Sheet",
+    "description": "A comprehensive prompt for generating high-fashion character concept art sheets in a 2D digital anime style using GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796580167_os5tlh_HNybANnakAAx5T1.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 29408,
     "content": "Create a premium, modern high-fashion CHARACTER CONCEPT ART on a pure white background, following this exact visual aesthetic:\n\n[STYLE]: highly polished 2.5D cel-shaded digital animation style, characterized by uniform thin black ink outlines, completely flat",
-    "title": "Character Prompt:\n\nCreate a premium, modern high-f",
-    "description": "",
+    "title": "High-Fashion Character Concept",
+    "description": "Character art prompt for 2.5D cel-shaded digital animation.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784710333797_s0zqeu_HNyblhjbwAA9Y92.jpg"
+      "https://cms-assets.youmind.com/media/1784796580084_ix581e_HNyblhjbwAA9Y92.jpg"
     ],
     "needReferenceImages": false
   },
@@ -9318,6 +9425,19 @@
     "description": "A cinematic anime sci-fi action illustration of a winged giant robot firing a massive neon beam cannon in a smoky battlefield sky.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1778835911750_jwx0bg_HIRV3CvaIAArZ2Y.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 20223,
+    "content": "Create an original Japanese itasha vehicle based entirely on the uploaded illustration. Design a fully fictional car and manufacturer naturally born from the artwork’s universe, never resembling real vehicles or brands. The design must adapt to the illustration itself: cute rounded styling for soft fantasy or shrine themes, elegant luxury styling for regal worlds, aggressive mechanical styling for cyberpunk or military themes, sporty styling for energetic characters, mystical styling for magical worlds, or retro-futuristic styling for nostalgic sci-fi. Body shape, proportions, cockpit, wheels, headlights, aero parts, glowing elements, materials, and interior must visually match the illustration’s atmosphere, colors, fashion, architecture, magic, and technology. All decals, logos, symbols, typography, crests, and sponsor-style graphics must be fully original fictional designs inspired only by the illustration. If a character exists, place them naturally beside the vehicle. Cinematic automotive photography, anime-inspired photorealism, masterpiece quality.",
+    "title": "Custom Japanese Itasha Vehicle Designer",
+    "description": "A detailed prompt for generating fictional Japanese itasha vehicles based on an uploaded illustration, matching the car's manufacturer and style to the artwork's aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784796582675_xva0lw_HIRKNY4a8AALLUp.jpg",
+      "https://cms-assets.youmind.com/media/1784796582681_ue9sg9_HIRKNZTbgAAcG3Y.jpg",
+      "https://cms-assets.youmind.com/media/1784796582696_pcwn9x_HIRKNY7a8AAekve.jpg",
+      "https://cms-assets.youmind.com/media/1784796583639_s8lpxj_HIRKNZFaYAASLSa.jpg"
     ],
     "needReferenceImages": true
   },
