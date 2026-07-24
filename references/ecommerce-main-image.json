@@ -1,5 +1,28 @@
 [
   {
+    "id": 29595,
+    "content": "Please generate 8 different product poster schemes based on this product image. Product Name: [{argument name=\"product name\" default=\"fill in product name\"}]. Usage Scenario: [{argument name=\"usage scenario\" default=\"fill in product usage\"}]. Output Quantity: {argument name=\"output quantity\" default=\"8 images\"}. Aspect Ratio: 3:4. Platforms: [Xiaohongshu / Taobao / WeChat / Douyin]. Requirements: 1. Keep the product's appearance, packaging, colors, and core identification points accurate. 2. Each image should use different scene atmospheres, compositions, and visual styles. 3. Each image must look like an independently completed commercial poster, not just a background swap. 4. Suitable for social media marketing with clear visual focus and atmosphere. Style directions can include: minimalist white, camping, Japanese, dark-toned texture, summer fresh, artistic retro, breakfast scene, lifestyle. Image requirements: different product placement angles, different scene combinations, different lighting atmospheres, different compositional rhythms, and high overall completion suitable for e-commerce proposals.",
+    "title": "Batch Product Poster Proposal Generator",
+    "description": "A professional business prompt designed to generate 8 diverse commercial poster options for a single product, ensuring brand consistency while exploring different themes and angles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784882707415_lh6qhc_HN9ZlBCawAAg6PO.jpg",
+      "https://cms-assets.youmind.com/media/1784882706498_5l87tx_HN9ZlBDagAAU3pb.jpg",
+      "https://cms-assets.youmind.com/media/1784882706464_vzylza_HN9ZlBCboAMDNLd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29612,
+    "content": "A luxury commercial product photography shot featuring a sleek {argument name=\"bottle color\" default=\"matte emerald green\"} glass bottle with a tall cylindrical neck, rounded shoulders, and a premium brushed gold cap. The fictional brand name {argument name=\"brand name\" default=\"VERDARA\"} is elegantly printed in embossed gold typography with a minimalist botanical emblem. The bottle is centered against a rich emerald green textured paper backdrop. The paper is dramatically torn open across the middle, revealing an overflowing bed of fresh green grapes, sliced kiwi, mint leaves, and sparkling lime wedges hidden beneath. A curled section of torn paper on the lower left adds depth and realism. Several fruits are scattered naturally across the foreground. Elegant editorial typography appears in the upper left: “{argument name=\"slogan\" default=\"Sip Into Pure Freshness\"}” “Sip\" in modern handwritten brush script, “Into Pure Freshness” in sophisticated high-fashion serif typography. The bottle label features premium botanical illustrations of kiwi, grapes, mint, and lime with subtle metallic foil accents. Hyper-realistic glass reflections, natural condensation droplets, premium studio lighting, soft shadows, vibrant colors, razor-sharp focus, luxury beverage advertisement, photorealistic, ultra-detailed, award-winning commercial product photography, minimalist composition, 8K.",
+    "title": "Luxury Emerald Green Product Photography",
+    "description": "A sophisticated commercial product photography prompt featuring a matte emerald green bottle with gold detailing and fresh fruit accents for a high-end beverage aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784882721110_ddzt80_HN5mq1ha0AEQPGU.jpg",
+      "https://cms-assets.youmind.com/media/1784882721158_m34id2_HN5mq1qa8AAUakt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29446,
     "content": "Create a clean premium product photograph of {argument name=\"product\" default=\"black Sennheiser over-ear wireless headphones\"} standing upright at a three-quarter angle on a seamless light gray studio background. The headphones have a thick padded black leather headband with subtle stitching, soft oval memory-foam ear cushions, matte black yokes and hinges, and large circular earcups with a satin radial-brushed finish. Show exactly two earcups, one in front and one partially behind; the front earcup displays small centered white text reading {argument name=\"brand text\" default=\"SENNHEISER\"}, and the upper hinge plate shows the stylized Sennheiser logo. Include small visible details: one USB-C port on the lower left earcup, tiny microphone/indicator holes, and realistic seams where the pads meet the cups. Use controlled studio lighting with soft highlights on the black leather and metal, a faint shadow beneath the headphones, shallow but crisp product focus, no hands, no props, no packaging, no extra text, no watermark. Composition should be vertical 3:4, centered, minimal, high-end e-commerce style, photorealistic, ultra-detailed, with a subtle gradient from pale gray to white in the background.",
     "title": "Premium Black Headphones Product Photo",

@@ -41,6 +41,51 @@
     "needReferenceImages": true
   },
   {
+    "id": 29642,
+    "content": "Goal: Create a warm, child-friendly Japanese medical explanation infographic for a clinic exam room, explaining the difference between hand, foot and mouth disease and herpangina, including daycare attendance guidance.\n\nCanvas: Vertical poster, portrait orientation, cream paper background, soft pastel palette, rounded hand-drawn style, pediatric clinic friendly. Use thick dark-brown handwritten Japanese typography, watercolor-like medical illustrations, and colored rounded rectangles. Overall title at top: 「手足口病とヘルパンギーナ」 with small decorative confetti marks and a pink wavy underline.\n\nLayout: Stack exactly 5 numbered sections from top to bottom, each inside a rounded rectangular card with a different accent color. Use large circular number badges on the left: 1 pink, 2 blue, 3 orange, 4 green, 5 orange. Keep the design clear enough for parents to read quickly.\n\nSection 1: Pink-bordered card. Heading text: 「手・足・口に小さな水疱、おしりにも」. Show exactly 4 medical illustrations in a row: an open palm with small red blister spots, the sole of a foot with red spots, an open mouth/throat with sores, and a diapered baby bottom/thighs with spots. Add a small sun icon and text below: 「夏〜秋に小さい子に多い」.\n\nSection 2: Blue-bordered card. Heading text: 「原因はコクサッキーウイルス」. Smaller text: 「ありふれたかぜのウイルス」. On the right, draw one cute round blue virus character with small protrusions, smiling face, and blue accent marks.\n\nSection 3: Yellow-bordered card. Create a Venn diagram with exactly 2 overlapping translucent circles: left circle pink, right circle blue, overlap pale green. Left circle text: 「のどの奥に 白い水疱 →ヘルパンギーナ」. Right circle text: 「手のひら・足のうらに発疹 →手足口病」. Under the diagram, add explanatory text: 「原因ではなく『どこに出たか』でつけた病名。ヘルパンギーナでも全身に発疹が出ることがあり、厳密には区別できない」.\n\nSection 4: Green-bordered card. Heading text: 「特効薬なし・対症療法」. Smaller text: 「約1週間で治る」. Include exactly 4 supportive-care illustrations: a glass of water, a sleeping child under a blue blanket with moon and stars, a digital thermometer reading about 36.6°C, and a cheerful recovered child in a green striped shirt raising a fist.\n\nSection 5: Orange scalloped-border card. Large heading text: 「登園の目安」. Include exactly 2 checklist conditions: 「① 熱がない」 and 「② 普通にご飯が食べられる」. Add a large emphasized orange message: 「発疹が残っていても 普通の生活・登園OK」. Add smaller note: 「ウイルスは治った後も長く出続けるので、発疹が消えるまで待つ意味はありません」. On the right, draw a happy young boy wearing a yellow hat, striped shirt, shorts, and blue backpack, walking toward daycare; include a small school building with clock and simple flowers.\n\nVisual style: Cute Japanese nursery-health handout, soft watercolor shading, rounded corners, clean spacing, pastel pink/blue/yellow/green/orange accents, no harsh realism, no scary symptoms. Make all text legible and spelled correctly.\n\nCustomizable text slots: Use the title {argument name=\"poster title\" default=\"手足口病とヘルパンギーナ\"}, main disease name {argument name=\"main disease\" default=\"手足口病\"}, comparison disease name {argument name=\"comparison disease\" default=\"ヘルパンギーナ\"}, virus name {argument name=\"virus name\" default=\"コクサッキーウイルス\"}, and attendance headline {argument name=\"attendance headline\" default=\"登園の目安\"}.",
+    "title": "Japanese Pediatric Disease Infographic",
+    "description": "A friendly Japanese clinic poster explaining hand, foot and mouth disease, herpangina, symptoms, treatment, and daycare attendance guidance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784882745657_1upwyf_HN8obTgbsAAu4dF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29591,
+    "content": "Theme: {argument name=\"city characteristics\" default=\"City characteristic cultural elements\"} + Good Morning Greeting + {argument name=\"date\" default=\"2026-07-24\"} + Today's Quote. A total of {argument name=\"number of cities\" default=\"10\"} different cities, each with its own unique beautiful image. Japanese-style fresh and artistic color palette. Aspect ratio 16:9. Each image features different color logic and compositional differences, resulting in distinct hues at a glance.",
+    "title": "City Aesthetic Morning Poster Collage",
+    "description": "A creative prompt for generating city-themed morning posters with a fresh Japanese aesthetic, featuring culture-specific elements and a multi-grid layout for different hues.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784882705327_cjw4n7_HN778YxbUAAuGhw.jpg",
+      "https://cms-assets.youmind.com/media/1784882705328_l2yzct_HN78ABra8AEKTEo.jpg",
+      "https://cms-assets.youmind.com/media/1784882705279_t9umpm_HN78WDRboAAfrml.jpg",
+      "https://cms-assets.youmind.com/media/1784882705787_48t520_HN78HZCaIAAToGA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29598,
+    "content": "Create a Korean infographic about the {argument name=\"subject\" default=\"BIP110 operating mechanism\"}",
+    "title": "BIP110 Korean Infographic",
+    "description": "A prompt used to test and compare the Korean text rendering capabilities of GPT Image 2 vs other models.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784882710190_5tnswu_HN53YuNbMAARzcZ.jpg",
+      "https://cms-assets.youmind.com/media/1784882710219_8k838w_HN53YuNbYAAZHdi.jpg",
+      "https://cms-assets.youmind.com/media/1784882710386_cbq98p_HN53YuKaMAAC9V6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29574,
+    "content": "A {argument name=\"subject\" default=\"luminous jellyfish\"} suspended against a {argument name=\"background\" default=\"pure black background\"}, presented like a futuristic scientific specimen plate. Its translucent bell glows in {argument name=\"colors\" default=\"saturated neon magenta, ultraviolet purple, electric cyan, cobalt blue, and toxic green\"}, with branching vein-like structures and fine cellular textures visible inside. Long ribbon-like tentacles trail downward in elegant curves, each edge illuminated by fluorescent light. Along the left side, six clean rectangular swatches show gradients and macro texture studies derived from the jellyfish’s membranes. High-contrast ultraviolet photography, iridescent biological detail, crisp symmetry, minimal composition, deep black negative space, surreal natural-history aesthetic, intensely radiant neon color.",
+    "title": "Neon Jellyfish Scientific Specimen",
+    "description": "A striking prompt for a futuristic scientific specimen illustration featuring a luminous neon jellyfish against a pure black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784882688224_zvtz65_HN4sihIWsAApx6R.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29511,
     "content": "I need to understand the development history of the entire {argument name=\"topic\" default=\"AI vibe coding\"}, including the roles played by models such as {argument name=\"models\" default=\"Claude, ChatGPT, Kimi, GLM, DeepSeek\"} throughout this process. Generate a layout map and chart that is as detailed as possible.",
     "title": "AI Vibe Coding Evolution Map",
