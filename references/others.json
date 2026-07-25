@@ -1,21 +1,21 @@
 [
   {
+    "id": 29743,
+    "content": "Create a square, painterly surreal oil painting of {argument name=\"main subject\" default=\"an astronaut riding a horse through outer space\"}. The astronaut wears a bulky white EVA spacesuit with a large backpack life-support unit, glossy black gold-tinted helmet visor, small red and blue suit markings, thick gloves and boots, seated upright in a brown leather saddle and holding red-brown reins. The horse is {argument name=\"horse color\" default=\"chestnut brown with a white blaze and white lower legs\"}, shown in a dynamic mid-gallop pose facing right, with wind-swept mane and tail, raised front legs, detailed bridle, and expressive realistic head. The setting is a deep navy-black cosmic background filled with swirling brushstrokes, tiny stars, faint nebulas, and exactly two large ringed planets: one colorful planet in the upper left with blue rings and yellow-green landlike shapes, and one bluish-purple ringed planet in the upper right. Use an expressive traditional oil-on-canvas look with visible thick brush texture, dramatic soft highlights, whimsical retro sci-fi fantasy mood, rich blues and browns, and no text or watermark.",
+    "title": "Astronaut Riding Horse in Space",
+    "description": "A surreal painterly prompt for creating a whimsical oil-style scene of an astronaut galloping through outer space on a horse.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784968637488_d8jgw6_HOBHLwSXIAANbES.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 29649,
     "content": "Create a cinematic vertical anime illustration of a young Japanese woman at a summer festival standing in a narrow old-fashioned shopping alley at night. She is shown from behind in a three-quarter turn, looking back softly toward the viewer with a calm, wistful expression, holding one glossy red candied apple on a stick near her face. She wears a dark navy yukata with pale floral patterns and a warm ochre obi tied in a bow at the back; her dark brown hair is loosely pinned up with stray windblown strands and one pale flower hair ornament. The alley is covered by a high arched glass-and-metal arcade roof with an opening to the night sky, where a large golden firework explodes directly above the street. Surround both sides with aged wooden storefronts, closed metal shutters, hanging Japanese shop signs, and glowing orange paper lanterns; include wet stone pavement reflecting lantern light, fireworks, and shop lights after rain. Use exactly these main visible repeated elements: 1 female subject, 1 candied apple, 1 large firework burst, 1 prominent hair flower, 1 back obi bow, multiple Japanese lanterns and shop signs receding into depth. Style should be highly detailed modern anime key visual, dramatic perspective looking down the alley, warm amber lighting mixed with cool blue night shadows, volumetric mist and steam, sparkling firework embers, glossy reflections, shallow depth of field, richly textured architecture, romantic nostalgic mood, no modern cars, no watermark, no readable English text.",
     "title": "Anime Yukata Festival Alley",
     "description": "A cinematic vertical anime scene of a yukata-clad girl holding a candied apple in a lantern-lit rainy festival alley beneath fireworks.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1784882749698_fwqc15_HNyvD6abQAAt_mv.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 29644,
-    "content": "Create a cinematic photorealistic vertical portrait of an intimate rainy-night scene outside an elegant old European storefront or café window. Two adults stand extremely close beneath warm available light: a {argument name=\"woman description\" default=\"beautiful woman with long wet dark wavy hair, olive skin, wearing an oversized dark charcoal blazer over a low dark top\"} leans back against the rain-speckled glass, looking up with parted lips, while a {argument name=\"man description\" default=\"handsome tall man with wet curly dark hair, light stubble, white dress shirt with sleeves down, black waistcoat and dark trousers\"} faces her in profile, head tilted down toward her, one hand in his pocket. Their faces are inches apart, creating romantic tension without kissing. Use only practical available light from the glowing shop window and distant street lamps, with amber reflections, rain droplets on glass, wet fabric, and strong subsurface scattering on wet skin. The window shows partial vintage lettering reading {argument name=\"window lettering\" default=\"RIVERA\"}. Background is a dark narrow street with soft golden bokeh lights and shallow depth of field. Style: high-end cinematic editorial photography, 85mm lens look, natural skin texture, moody warm color grading, realistic rain, glossy highlights, soft shadows, intimate composition, no flash, no studio lighting, no text overlays beyond the storefront lettering.",
-    "title": "Rainy Night Romantic Street Portrait",
-    "description": "A cinematic photorealistic prompt for creating an intimate couple portrait in warm rain-soaked available light.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784882747013_4f1tj1_HN8NoFIbEAA0EP-.jpg"
     ],
     "needReferenceImages": true
   },
@@ -69,16 +69,6 @@
     "description": "A cinematic cyberpunk poster showing a boar exterminator chasing a black GPT-X creature through a server room.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1784882749959_zsc21l_HN6UAcUaUAA5QKJ.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 29651,
-    "content": "Create a wide cinematic food poster in a fresh Japanese literary aesthetic color palette, pale ivory and light spring green with soft mist. The scene is a surreal miniature landscape where Changsha breakfast foods become mountains: exactly 5 main food-landform elements are visible, including 1 large square stinky-tofu cube mountain on the right topped with chopped green scallions, 1 smaller square tofu block hill on the left, 1 smaller tofu block hill in the lower right foreground, and 2 red chili relish mound hills, one near center-left and one far right. Add steaming white vapor ribbons winding horizontally through the landscape like clouds, with faint ink-wash mountains in the background and a hazy Changsha city skyline: include a pagoda and low buildings on the left and a slender tower silhouette on the right. Along the very bottom, add tiny human silhouettes and exactly 3 small breakfast-stall scenes with parasols and Chinese shop signs, integrated like a miniature marketplace at the foot of the food mountains. Use elegant poster typography: at the top center place a small rounded date capsule reading {argument name=\"date label\" default=\"09 · 2026-07-22\"}; below it, large green Chinese headline text reading {argument name=\"headline text\" default=\"早安·长沙\"}; beneath the headline, small spaced English subtitle reading {argument name=\"English subtitle\" default=\"GOOD MORNING · CHANGSHA\"}. In the vertical center, add a thin column of Chinese quote text reading {argument name=\"vertical quote\" default=\"今日金句：有烟火气的人生，最有抵达幸福的力气。\"}. Keep the composition airy, premium, and calm, with soft morning light, no harsh shadows, realistic food textures, subtle watercolor atmosphere, and clean commercial poster design.",
-    "title": "Good Morning Changsha Food Landscape",
-    "description": "A wide cultural food poster showing Changsha breakfast dishes transformed into misty mountains for morning greetings or creative food advertising.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784882751089_6mbn37_HN3vp-zbQAASn-x.jpg"
     ],
     "needReferenceImages": true
   },

@@ -10,14 +10,25 @@
     "needReferenceImages": true
   },
   {
-    "id": 29623,
-    "content": "Create an ultra-realistic modern gallery wall mockup in a luxury interior, vertical 4:5 composition. Show a smooth matte off-white wall with exactly three framed portrait photographs arranged horizontally in a straight row with equal spacing. Each frame is portrait-oriented, slim black metal or wood frame, white mat border, glass front with subtle reflections, and realistic shadows. The three framed photos show the same {argument name=\"portrait subject\" default=\"young Black man\"} in three different professional portrait styles: left frame shows a front-facing head-and-shoulders portrait wearing a {argument name=\"left outfit\" default=\"blue and gold patterned African print shirt\"}; center frame shows him looking downward while adjusting his cuff or watch, wearing a {argument name=\"center outfit\" default=\"royal blue traditional-style shirt with glasses and a pocket square\"}; right frame shows a formal front-facing business portrait wearing a {argument name=\"right outfit\" default=\"navy suit, white shirt, navy tie, tie bar, and white pocket square\"}. Place one long, thin black picture light centered above the frames, casting a warm soft glow across the wall and the top edges of the frames. Include a blurred green indoor plant in the lower left foreground, a dark modern wooden sideboard cabinet in the lower right, a simple white baseboard, and a gray stone or polished concrete floor. Lighting should be warm, high-end, calm, and gallery-like, with soft natural shadows and shallow depth of field in the foreground. No text, no logos, no watermark, no extra frames, keep exactly three portraits.",
-    "title": "Luxury Three-Portrait Gallery Wall",
-    "description": "Creates a realistic upscale interior mockup with three framed portrait photos on a softly lit gallery wall.",
+    "id": 29733,
+    "content": "Goal: Create a polished mobile app prototype mockup showing two iPhone screens side by side for a gentle bedtime companion app centered on {argument name=\"character name\" default=\"this child\"}, with a dreamy night-sky theme and a cute plush guardian character.\n\nCanvas: Square 1:1 image on a plain white background. Place exactly 2 black iPhone mockups next to each other, left and right, both with rounded corners, Dynamic Island, status bar, and bottom home indicator. Use realistic device frames with subtle shadows.\n\nVisual style: Dark navy-to-indigo gradient backgrounds, tiny scattered stars, soft glowing moonlight, premium Japanese wellness-app design, calm and minimal. Use rounded UI elements, subtle glassmorphism, muted lavender panels, and warm orange accent buttons. The overall mood should feel sleepy, tender, safe, and magical.\n\nShared character details: In both screens, show exactly 1 central mascot: a pastel lavender teddy-bear-like baby creature with small rounded ears, simple black eyes, tiny smile, soft plush texture, sitting pose, and small cream angel wings. Add a soft glow around the mascot. Include exactly 1 crescent moon icon per screen near the upper right area.\n\nLeft screen layout: Status bar at top shows 18:11 with small signal, Wi-Fi, and battery icons. Near the top left, display the greeting {argument name=\"greeting text\" default=\"こんばんは\"} in white, with a smaller line beneath reading {argument name=\"sleep countdown text\" default=\"睡眠時間 0:30\"}. Near the upper right, include exactly 1 small circular speaker/audio button. Center the winged plush mascot in the upper-middle. Below it, add small Japanese explanatory text: “TikTok・Instagram Reels・YouTube Shorts を見ていた君が、ここで一緒に眠れるれるよ。” Near the bottom, place exactly 1 large rounded cream-colored primary button labeled {argument name=\"primary button text\" default=\"この子と、夜を終える\"}. Under it, place exactly 4 small rounded navigation buttons in a row, each with a simple line icon and Japanese labels: 1) sparkle icon, “森”; 2) phone/rectangle icon, “日々みる”; 3) crescent/sleep icon, “おやすみ”; 4) gear icon, “せってい”. Add exactly 1 floating orange circular action button overlapping the lower-right edge of the large cream button.\n\nRight screen layout: Status bar at top again shows 18:11 and phone icons. At the very top center, include a short thin lavender handle line. Centered below, show the title {argument name=\"memory title\" default=\"この子の思い出\"} in white. Place the winged plush mascot below the title, slightly smaller than on the left screen. Put the crescent moon to the upper right of the mascot. Under the mascot, add centered small Japanese text: “まだ思い出はないよ。今夜が、最初の一夜になるかも。” Leave the lower half mostly empty with sparse stars. Add exactly 1 small orange floating circular button near the lower-right side of the screen. Include the white home indicator at the bottom.\n\nConstraints: Use exactly 2 phone screens, exactly 2 mascots total, exactly 2 crescent moons total, exactly 4 bottom navigation buttons on the left screen, and exactly 2 orange floating action buttons total. Keep all typography crisp and legible, with Japanese text rendered cleanly. Do not add extra panels, logos, watermarks, or additional characters.",
+    "title": "Bedtime Companion App Mockup",
+    "description": "A two-screen iPhone app prototype for a calming Japanese bedtime companion experience with a winged plush mascot and night-sky UI.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784882729188_ay7yxw_HN-RjEiWgAAUIYS.jpg"
+      "https://cms-assets.youmind.com/media/1784968629376_dy31fm_HN-3PXVakAAGjym.png"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 29690,
+    "content": "Generate a 'picture-in-picture' image with visual depth. The outermost layer is a realistic {argument name=\"programming interface\" default=\"VSCode programming interface\"}, nested with a {argument name=\"app name\" default=\"Qwen App\"} chat interface. In the chat, I am sending a message saying: '{argument name=\"request content\" default=\"help me generate a hand-brewed coffee poster\"}'. The app replies with an exquisite coffee poster, which is also clearly displayed in the chat interface. Each UI layer must maintain realistic style and detail, with clear micro-details like time digits and button text.",
+    "title": "Nested Picture-in-Picture Software UI",
+    "description": "A complex prompt used to test the rendering depth and detail of GPT Image 2, featuring a software editor nested within a chat app and artwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784968585723_khtl4f_HN-ydubbcAAPs_n.png",
+      "https://cms-assets.youmind.com/media/1784968585713_69f1jf_HN-yelfakAAjQN9.png"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 29634,
@@ -83,6 +94,19 @@
       "https://cms-assets.youmind.com/media/1784796549979_ki0u1r_HNzsXEtawAA84r6.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 29718,
+    "content": "Product design concept: a {argument name=\"car details\" default=\"[year, make, model]\"} reimagined as a sofa, with its signature design details (grille, tailfins, headlights, and trim) translated into upholstery and furniture forms, color-matched to the car's original paint. Split-view layout, 9:16 vertical: top third front perspective, bottom two-thirds isometric view, same sofa design, upholstery, and color consistent in both. Centered rule-of-thirds composition, generous negative space. Full-plan solid background matching the car's color exactly, no gradient, studio product lighting. Vintage LUT: warm faded tones, soft film grain, muted saturation, subtle vignette.",
+    "title": "Vintage Car Sofa Design Concept",
+    "description": "A product design prompt for reimagining classic automobiles as luxury sofas, translating signature automotive details like grilles and tailfins into furniture forms with a vintage film aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1784968614311_3mblxc_HNw-QSBXoAALBz1.jpg",
+      "https://cms-assets.youmind.com/media/1784968614231_hw9pwk_HNw-Q6HWAAAn_Rf.jpg",
+      "https://cms-assets.youmind.com/media/1784968614586_awwniz_HNw-RrQWYAExM-I.jpg",
+      "https://cms-assets.youmind.com/media/1784968615722_1u7trn_HNw-SlVXoAAFCFn.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 29428,
