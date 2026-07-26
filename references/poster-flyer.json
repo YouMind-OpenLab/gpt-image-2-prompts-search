@@ -1,14 +1,102 @@
 [
   {
-    "id": 29672,
-    "content": "Create TWO completely different anime illustrations from the uploaded everyday photo while preserving the same person's identity. Keep the facial shape, facial feature proportions, recognizable hairstyle, age impression, and overall personality consistent, but fully transform the image into a vibrant, high-quality anime style. Both images should be unmistakably animated rather than photorealistic, with expressive linework, clean cel shading, bold graphic shadows, vivid high-saturation colours, crisp facial detail, and a polished poster-quality finish. IMAGE 1 — {argument name=\"style one\" default=\"Urban Pop Anime\"} A playful, energetic anime poster with a dynamic wide-angle perspective and dynamic pose. The character has an expressive smile, lively hand gesture, and confident body language. Reimagine the background as a colourful anime city filled with neon signs, floating hearts, sparkling stars, comic speech bubbles, motion lines, kawaii stickers, tiny mascots, hand-drawn doodles, colourful geometric graphics, and fun sound effects. The composition should feel youthful, exciting, bold, and instantly eye-catching, with excellent visual hierarchy and strong social-media appeal. IMAGE 2 — {argument name=\"style two\" default=\"Dreamy Fantasy Anime\"} Create a completely different composition with a magical fantasy atmosphere. Use a {argument name=\"perspective\" default=\"cinematic low-angle perspective\"} and graceful, expressive pose with flowing movement. Replace the original background with a whimsical fantasy world featuring glowing skies, floating islands, oversized flowers, magical sparkles, butterflies, glowing stars, cute fantasy creatures, ribbons, clouds, colourful gradients, decorative frames, and elegant anime-inspired graphic elements. The mood should feel charming, emotional, imaginative, and visually rich while maintaining a clean silhouette, expressive face, polished illustration quality, and a vibrant, premium anime aesthetic suitable for viral social-media artwork.",
-    "title": "Photo to Anime Transformation",
-    "description": "A versatile prompt to transform a real-life photo into two distinct anime styles: Urban Pop and Dreamy Fantasy, while maintaining identity.",
+    "id": 29817,
+    "content": "Create a single 4:5 vertical editorial photo-real image of a young woman standing beside a black hand-drawn doodle alter ego on a plain indoor wall. The real person is {argument name=\"character description\" default=\"a shy young East Asian woman with long dark brown hair and straight bangs\"}, full body, positioned on the left third of the frame, leaning lightly against an off-white concrete wall, smiling bashfully with one hand covering her mouth and the other arm relaxed down. She wears {argument name=\"outfit\" default=\"a cream fitted camisole, dark denim cutoff shorts, bracelets, and black platform flip-flops\"}. Use soft natural sunlight from the upper left, with diagonal window-shadow shapes on the wall and concrete floor, realistic skin, realistic fabric, quiet minimal background, no text.\n\nOn the right two-thirds of the wall, draw exactly 1 energetic manga-style black ink doodle character as if sketched directly on the wall: a cartoon version of the same woman with long hair and bangs, huge laughing open mouth, closed happy eyes, freckles, sleeveless top, dark shorts, bracelets, and flip-flops. The doodle character is mid-jump with arms stretched wide, one leg bent backward, body tilted forward, and one sketched hand reaching toward the real woman’s shoulder as if her chaotic inner self is bursting out beside her. The doodle should be monochrome black line art with expressive hatching, messy sketch strokes, motion lines, and no color fill except black ink shading.\n\nSurround the doodle with exactly 15 decorative doodle elements: 4 stars/sparkles, 3 hearts, 2 cloud puffs, 1 speech bubble containing a heart, 1 exclamation mark cluster above the head, and 4 short motion-burst line groups. Keep the contrast between the composed real woman and the wild doodle persona clear and humorous. Composition should feel like a trendy social-media portrait, clean wall backdrop, realistic photography blended seamlessly with wall-drawn illustration, high detail, natural perspective, no collage, no split panels, no watermark.",
+    "title": "Real Woman With Doodle Alter Ego",
+    "description": "Generates a trendy photoreal portrait of a shy woman beside a chaotic manga-style doodle version of herself drawn on the wall.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784968567074_yjf62y_HODwIh0WsAAO8y_.jpg",
-      "https://cms-assets.youmind.com/media/1784968566934_rczdsc_HODwJnWWIAA4ENS.jpg"
+      "https://cms-assets.youmind.com/media/1785055081727_w4uaga_HOFwRNsaEAAPzwI.jpg",
+      "https://cms-assets.youmind.com/media/1785055081768_g1sznn_HOFwRNsbMAAmYzx.jpg",
+      "https://cms-assets.youmind.com/media/1785055081717_py38k1_HOFwRNcaMAAjAxU.jpg",
+      "https://cms-assets.youmind.com/media/1785055083107_0s5mer_HOFwRNsbAAE2BUL.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 29832,
+    "content": "Create a vertical fashion editorial portrait at an ancient Greek temple ruin in bright natural daylight. A young East Asian woman with {argument name=\"hair color\" default=\"dark brown shoulder-length hair\"} stands in a relaxed three-quarter pose slightly right of center, head tilted down and eyes softly lowered, with a calm introspective expression. Wind blows loose strands of hair across her face. She wears an airy {argument name=\"shirt style\" default=\"white sheer linen button-up shirt\"} with rolled sleeves, open collar, and the front tied in a knot at the waist, paired with high-waisted cream trousers and a matching cream belt with a rectangular buckle. Add delicate gold jewelry: small dangling earrings and a fine necklace with a small pendant. Background: sunlit classical stone columns and marble ruins resembling the Parthenon, softly blurred with shallow depth of field, warm beige stone tones, pale blue sky, scattered ancient blocks underfoot, and a few tiny distant tourists barely visible. Camera and composition: medium portrait from thighs to head, 2:3 vertical crop, subject occupying the right half while temple columns fill the left background, natural perspective, editorial travel-fashion photography. Lighting and style: warm Mediterranean sunlight, soft shadows, subtle film grain, creamy highlights, muted ivory and sand palette, realistic skin texture, elegant minimal styling. Add a small white bottom-center brand mark reading {argument name=\"brand text\" default=\"WILDCORE | Kuro\"} in a clean spaced sans-serif plus handwritten script style. Avoid extra text, logos, heavy makeup, exaggerated posing, or modern city elements.",
+    "title": "Linen Fashion Portrait at Greek Ruins",
+    "description": "A realistic vertical editorial fashion portrait of a woman in white linen posing among ancient Greek temple ruins for travel or lifestyle branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055093421_zn5m56_HOFtQiUacAAqJNs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29777,
+    "content": "Ultra-realistic design culture magazine cover featuring a creative {argument name=\"subject\" default=\"Korean woman\"} in a {argument name=\"outfit\" default=\"bold yellow structured blazer and black wide-leg trousers\"} — matching the product's colorway — holding a {argument name=\"synthesizer\" default=\"Teenage Engineering OP-1 Field synthesizer\"} horizontally with both hands, fingers hovering over the tiny keys mid-composition, deep in creative flow. Bold graphic makeup, sharp geometric liner, yellow eyeshadow accent. Sleek straight bob.\n\nBackground: clean white \n\nBauhaus-inspired studio with bold yellow color block wall panels, ultra-graphic composition. \"DEZEEN\" masthead in precise sans-serif with \"INSTRUMENTS OF DESIGN ISSUE\" callout. 50mm lens, ultra-detailed OP-1 tiny key and OLED display, 8K photorealistic design editorial.\n\nNegative: cartoon, blurry, incorrect product shape, watermark, distorted.",
+    "title": "Bauhaus-Inspired Design Magazine Cover",
+    "description": "A detailed prompt for creating a 'DEZEEN' magazine cover featuring a Korean woman in high-fashion attire holding a synthesizer in a geometric studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055045129_lzqy2d_HOFmBIVa0AAeBRu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29773,
+    "content": "A stylish young football player wearinga retro-inspired white national teamjersey with deep red and gold accents, number 19 on the chest, standingagainst a clean solid crimson-redstudio background. Relaxed smile, slightly tilted pose, short curly hair with blonde highlights, cinematic softlighting, premium sportswear editorial photography, ultra-realistic skintexture, high-fashion magazine cover aesthetic, shallow depth of field, rich contrast, minimal composition, 85mmlens, photorealistic, 8K, sharp focus, luxury sports campaign, adidas-inspired vintage football jersey, vibrant colors. A dynamic digital illustration of a young football player wearing a classic white retro national team jersey with number 19, confidently walking forward while looking upward. Large bold red typography filling the background with the player's name in a modern sports-poster layout. Cream-colored background, clean vector-inspired digital painting, detailed facial features, dramatic shadows, premium football artwork, bold graphic design, high-detail illustration, realistic anatomy, vibrant red and white color palette, modern sports branding aesthetic, collectible poster design, ultra-high resolution, crisp edges, professional concept art.",
+    "title": "Retro National Team Football Player Portrait",
+    "description": "A high-end editorial sports photography prompt for a stylish young football player in a vintage national team jersey, featuring soft cinematic lighting and a clean studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055042386_659cr6_HOFGUacaQAA-YLv.jpg",
+      "https://cms-assets.youmind.com/media/1785055040873_vmoxbk_HOFGUaZbkAA2ESV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29816,
+    "content": "Create a vertical full-body fashion portrait in a minimalist sunlit studio: on the left, a photorealistic young East Asian woman with {argument name=\"hair color\" default=\"long black hair\"} poses gracefully against a plain warm gray wall, wearing a fitted ivory ribbed knit long-sleeve maxi dress with a scoop neckline and a high side slit, plus white pointed high heels. She forms a heart shape above her head with both hands, smiles softly while looking slightly to the side, stands on one leg, and bends the other leg back in a cute playful pose. On the right side of the same wall, draw a large black pencil manga-style sketch version of her, matching the pose and outfit but exaggerated with an anime face, one eye winking, open cheerful smile, long flowing hair, curvy silhouette, and sketched high heels. Surround the manga figure with exactly 5 hand-drawn hearts, 4 sparkle/star doodles, and 3 short exclamation marks above the head. Use a seamless blend of real photography and wall illustration, as if the drawing is sketched directly onto the wall beside the model. The scene has soft natural daylight, diagonal window-shadow stripes across the floor and lower right wall, a clean concrete floor, warm neutral tones, realistic skin texture, elegant editorial styling, and no visible text or watermark. Keep the composition balanced with the real model occupying the left half and the manga sketch occupying the right half, both full-body and similar scale. Optional customization: make the model's outfit {argument name=\"dress color\" default=\"ivory\"}, set the background to {argument name=\"studio wall color\" default=\"warm light gray\"}, and make the overall mood {argument name=\"mood\" default=\"cute, elegant, playful\"}.",
+    "title": "Model With Manga Wall Sketch",
+    "description": "A photorealistic studio portrait of a woman posing beside a matching manga-style wall sketch, useful for fashion, cosplay, or social media visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055083015_zev736_HOFD1iBbQAAAvke.jpg",
+      "https://cms-assets.youmind.com/media/1785055081829_zlu87m_HOFD1jGbUAAB8NG.jpg",
+      "https://cms-assets.youmind.com/media/1785055081957_sbsvn0_HOFD1jRb0AAQfmi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29812,
+    "content": "Create a photorealistic vertical magazine-style fashion photo of {argument name=\"character name\" default=\"a young East Asian woman\"} running away from the camera on an empty wide asphalt road at golden hour, captured from an extremely low rear tracking angle with a dynamic wide-angle lens. She is mid-stride and turning her head back over her shoulder toward the camera with a bright spontaneous smile, short black bob hair blowing dramatically in the wind. She wears {argument name=\"top\" default=\"a dusty pink sleeveless tie-back tank top\"}, {argument name=\"shorts\" default=\"dark charcoal fitted athletic shorts\"}, and white sneakers. Emphasize long legs in perspective, natural skin texture, cinematic sunset rim light, warm orange sunlight from the low horizon on the left, blue sky with scattered soft clouds, subtle film grain, motion blur streaking along the road surface, shallow depth of field, realistic lens distortion, lively candid energy, and an editorial summer road-trip mood. Keep the composition vertical 9:16, subject centered slightly right, no text, no watermark, no extra people, no vehicles close to the subject.",
+    "title": "Golden Hour Running Fashion Photo",
+    "description": "A photorealistic vertical editorial shot of a smiling woman looking back while running on an open road at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055080260_ti25uh_HOE94RnaoAAdsYP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29821,
+    "content": "Create a vibrant summer anime illustration in a polished gacha-game key visual style, vertical 3:4 composition. Show exactly 2 horse-girl characters sitting in the shade of a rustic wooden bus stop shelter beside a vast sunflower field under a blazing blue sky. The main character on the right is {argument name=\"main character\" default=\"Daiwa Scarlet\"}, a tall red-haired horse girl with long twin ponytails, horse ears, red eyes, a jeweled headband, and a fluffy blue hair accessory; she wears a dark navy-blue sleeveless sundress with ruffles and small gold buttons, looking slightly flustered from the heat while eating a translucent bright-blue ice pop. The second character on the left is {argument name=\"second character\" default=\"Tokai Teio\"}, a smaller brown-haired horse girl with horse ears, bright blue eyes, a wide straw sunhat decorated with a sunflower, and a red summer dress with pale blue ribbon trim; she also eats a translucent bright-blue ice pop. Count and include exactly 2 blue ice pops, exactly 2 horse-girl characters, exactly 1 straw hat, exactly 1 sunflower ornament on the hat, exactly 1 wicker picnic basket filled with colorful cold treats, exactly 1 red-and-white bus stop sign reading “SunFlower COAST CARE” and “BUS STOP,” exactly 1 hanging blue-and-white wind chime, and exactly 1 cicada clinging to the shelter post. Add large vertical white Japanese calligraphy on the left side reading {argument name=\"summer greeting text\" default=\"暑中お見舞い申し上げます\"}. The setting should feel extremely hot yet refreshing: intense sunlight and lens flare from the upper left, sparkling highlights, small decorative fireworks-like white bursts in the sky, a tiny airplane leaving a white contrail, fluffy cumulus clouds, distant green mountains, and a sea of yellow sunflowers behind a low fence. Use saturated colors, glossy skin highlights, crisp cel-shaded anime rendering, detailed hair strands, dramatic warm rim lighting, strong blue-yellow contrast, and soft atmospheric bloom. Keep the composition close-up and character-focused, with the shelter roof framing the top and the vertical greeting text clearly legible on the left. No watermark, no extra characters, no additional signs or text beyond the specified lettering.",
+    "title": "Summer Horse Girls at Bus Stop",
+    "description": "A vivid anime summer greeting illustration featuring two horse-girl characters eating blue ice pops at a sunflower-field bus stop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055086289_9hu2oq_HOEeEA7aEAEgICx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29672,
+    "content": "Create TWO completely different anime illustrations from the uploaded everyday photo while preserving the same person's identity. Keep the facial shape, facial feature proportions, recognizable hairstyle, age impression, and overall personality consistent, but fully transform the image into a vibrant, high-quality anime style. Both images should be unmistakably animated rather than photorealistic, with expressive linework, clean cel shading, bold graphic shadows, vivid high-saturation colours, crisp facial detail, and a polished poster-quality finish.\n\nIMAGE 1 — {argument name=\"style one\" default=\"Urban Pop Anime\"}\nA playful, energetic anime poster with a dramatic wide-angle perspective and dynamic pose. The character has an expressive smile, lively hand gesture, and confident body language. Reimagine the background as a colourful anime city filled with neon signs, floating hearts, sparkling stars, comic speech bubbles, motion lines, kawaii stickers, tiny mascots, hand-drawn doodles, colourful geometric graphics, and fun sound effects. The composition should feel youthful, exciting, bold, and instantly eye-catching, with excellent visual hierarchy and strong social-media appeal.\n\nIMAGE 2 — {argument name=\"style two\" default=\"Dreamy Fantasy Anime\"}\nCreate a completely different composition with a magical fantasy atmosphere. Use a cinematic low-angle perspective and graceful, expressive pose with flowing movement. Replace the original background with a whimsical fantasy world featuring glowing skies, floating islands, oversized flowers, magical sparkles, butterflies, glowing stars, cute fantasy creatures, ribbons, clouds, colourful gradients, decorative frames, and elegant anime-inspired graphic elements. The mood should feel charming, emotional, imaginative, and visually rich while maintaining a clean silhouette, expressive face, polished illustration quality, and a vibrant, premium anime aesthetic suitable for viral social-media artwork.",
+    "title": "Photo to Anime Style Transformation",
+    "description": "A comprehensive prompt for transforming a real photo into two distinct anime styles—Urban Pop and Dreamy Fantasy—while maintaining character identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055046780_otbnf3_HODwIh0WsAAO8y_.jpg",
+      "https://cms-assets.youmind.com/media/1785055046807_vex410_HODwJnWWIAA4ENS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29779,
+    "content": "Vintage mascot poster in a vertical 4:5 layout on a cream paper background using only {argument name=\"color palette\" default=\"[COLOR1], [COLOR2], [COLOR3], and [COLOR4]\"}. At the top, place the bold rounded headline “{argument name=\"headline\" default=\"[TITLE]\"}”. In the center, show a rubber hose style {argument name=\"subject\" default=\"[HUMAN]\"} wearing {argument name=\"outfit\" default=\"[CLOTHES]\"} walking beside [ANIMAL] through [BACKGROUND], both with pie-cut eyes, simple smiling faces, thick clean outlines, rounded limbs, oversized shoes, and a playful mid-step pose. Add subtle register misalignment in the outlines and fills, light distressed screen-print grain, a simple circular stamp graphic, and a horizontal checker stripe near the lower section. At the bottom, place the bold rounded tagline “[TAGLINE]”. Clean retro t-shirt graphic, flat colors, no gradients, crisp simple composition.",
+    "title": "Vintage Rubber Hose Mascot Poster",
+    "description": "A retro-style poster prompt for creating vintage mascots in a rubber hose animation style with distressed screen-print textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055045768_h959r9_HODOskwa4AAfRru.jpg",
+      "https://cms-assets.youmind.com/media/1785055045767_7tiqin_HODOtVgaUAAnmTJ.jpg",
+      "https://cms-assets.youmind.com/media/1785055045751_8pv2gw_HODOuDXa8AAPJhZ.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 29678,
@@ -24,6 +112,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 29793,
+    "content": "Cinematic vintage beauty portrait of an elegant young woman applying {argument name=\"lipstick color\" default=\"deep burgundy\"} lipstick while looking into a mirror, warm golden tungsten lighting casting dramatic shadows across her face, soft wavy brown hair in a slightly messy updo, flawless skin, bold makeup with winged eyeliner and dark red lips, wearing a black satin blouse. Reflection visible in the mirror, intimate dressing-room atmosphere, walls covered with old newspapers and vintage clippings, moody amber color grading, film-noir aesthetic, shallow depth of field, soft glow, editorial fashion photography, luxurious cinematic mood, realistic skin texture, ultra-detailed eyes, professional beauty shoot, 85mm lens, f/1.4, photorealistic, masterpiece, rich contrast, Vogue-style portrait, 8k.\nNegative Prompt:\nblurry, low quality, pixelated, overexposed, underexposed, bad anatomy, extra fingers, distorted hands, duplicate reflection, unrealistic face, plastic skin, cartoon, anime, CGI, watermark, text, logo, noise, grain, motion blur, harsh flash, o…",
+    "title": "Vintage Beauty Portrait with Lipstick",
+    "description": "A moody, film-noir inspired beauty portrait of a woman applying lipstick in a vintage dressing room with warm tungsten lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055065241_p8w0a5_HOCy6S7aUAAy_Yp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 29689,
     "content": "A striking monochrome editorial portrait suspended inside a massive floating {argument name=\"monolith material\" default=\"obsidian\"} monolith with impossible spatial distortion. The rectangular frame appears sliced into multiple layers drifting independently while remaining physically connected in impossible ways. Tiny floating dust particles catch {argument name=\"lighting\" default=\"cinematic studio lighting\"}. Deep matte textures, brutalist luxury aesthetic, dramatic contrast, premium fashion magazine cover style, perfectly centered composition, ultra-realistic skin pores, {argument name=\"lens type\" default=\"85mm\"} portrait lens, impossible dimensional illusion, surreal architecture meets fine art photography.",
     "title": "Monochrome Surreal Obsidian Monolith",
@@ -32,6 +130,16 @@
       "https://cms-assets.youmind.com/media/1784968584555_dr03og_HOCyTaebwAAyVko.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 29826,
+    "content": "Create a dynamic vertical anime summer illustration featuring {argument name=\"character name\" default=\"Kiyoka\"}, a cheerful teenage girl in a sporty one-piece racing swimsuit, fully clothed and non-suggestive. She is at a tropical swimming pool or beachside water park under an intense blue sky, with palm trees, sparkling ocean-blue water, and strong sunlight flaring from the upper left. The camera is close and low with a dramatic wide-angle perspective: she leans toward the viewer while aiming a large blue-and-yellow water gun directly at the camera, water spraying from the nozzle. Her expression is playful and energetic, with one eye winking, one bright blue eye open, an open smiling mouth with a small fang-like tooth, and wet skin and hair covered in droplets. She has short dark navy-purple wet hair with messy strands, glowing blue highlights, pointed elf-like ears, small blue flower earrings, and a slim black choker. Her swimsuit is white in the center with dark navy side panels and a small black athletic-style logo reading {argument name=\"swimsuit logo\" default=\"athleis\"} on the chest. Add vivid water splashes, floating bubbles, cyan glow effects, and exactly 6 small luminous blue butterfly or flower-like motifs around her and the water. Include vertical glowing Japanese text on the right side reading {argument name=\"vertical Japanese text\" default=\"暑中見舞い申し上げます\"}, set in large white Mincho-style characters with a soft cyan outer glow. Use highly polished anime key visual rendering, saturated blues, crisp linework, glossy water reflections, cinematic lighting, bokeh droplets, and a festive midsummer postcard atmosphere. Keep the composition portrait-oriented, action-packed, bright, refreshing, and safe-for-work.",
+    "title": "Anime Summer Water Gun Postcard",
+    "description": "A vivid vertical anime postcard illustration of a sporty swimsuit girl aiming a water gun in a sparkling tropical summer pool scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055088971_kyre4w_HOCmabHa0AAzIQm.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 29720,
@@ -44,14 +152,34 @@
     "needReferenceImages": false
   },
   {
-    "id": 29687,
-    "content": "Ultra-realistic outdoor food lifestyle magazine cover featuring a joyful {argument name=\"subject nationality\" default=\"Korean\"} woman in a linen apron over a casual summer outfit, sliding a perfectly blistered {argument name=\"food item\" default=\"Neapolitan pizza\"} into an Ooni Koda 16 gas pizza oven on a stone outdoor kitchen, laughing naturally in the warm fire glow. Sun-kissed glowing skin, fresh no-makeup look, hair pulled back loosely. Background: {argument name=\"background setting\" default=\"gorgeous Italian-style outdoor terrace\"} — warm evening light, stone walls, blurred vineyard backdrop, fire glow dancing. \"BON APPÉTIT\" masthead in bold warm sans-serif with \"FIRE & FEAST ISSUE\" callout. 35mm lens, ultra-detailed pizza char texture and Ooni oven steel body, 8K photorealistic warm lifestyle.",
-    "title": "Outdoor Pizza Lifestyle Magazine Cover",
-    "description": "A vibrant magazine cover style prompt featuring an outdoor kitchen scene with a wood-fired pizza oven and a joyful atmosphere.",
+    "id": 29833,
+    "content": "Create a literary magazine cover style poster about {argument name=\"city greeting\" default=\"Nanjing, good morning\"}. Use a wide horizontal 16:9 canvas with a muted pale olive-green background and lots of quiet negative space. Place the main typographic weight in the upper-right: huge black Chinese calligraphic serif characters reading {argument name=\"main headline\" default=\"南京,早安\"}, thick, elegant, slightly oppressive like inked magazine masthead typography. Directly beneath the headline, add a thin horizontal rule on both sides of a small Chinese subtitle reading “城市清晨问候特辑”, and to the right add italic English text “Good Morning, Nanjing”. On the right-middle, set the date {argument name=\"date\" default=\"2026.07.25\"} in refined black serif numerals, with smaller Chinese text below: “星期六　农历六月十三”, then a tiny centered dash. Below that, create a compact almanac-style information block with a small red sun icon and the label “今日宜忌”, dotted divider lines, and exactly 2 circular badges: one labeled “宜” followed by “散心、看树、尝鲜”, and one labeled “忌” followed by “仓促、发呆过头、错过晨光”. At the bottom-right, add spaced small caps English “CITY MORNING GREETINGS”, a diagonal slash, and a small Chinese quote: “把日子过成诗 / 把清晨过成喜欢的样子”. In the lower-left, depict the theme object as naive crayon drawing rather than realism: exactly 2 illustrated food objects, a decorative handheld fan and a plate of sliced salted duck with orange egg-like centers. The fan should be ornate, rounded, outlined in dark green, filled with childlike swirls, flowers, cloud motifs, yellow, blue, white, and green crayon scribbles, with a brown handle and teal tassel. The plate should be a simple blue-outlined oval containing several thick slices of duck rendered with rough white, brown, orange, and red crayon strokes. Add small playful doodles around them: one red star, one green circle, one yellow squiggle, one tiny green vine flourish, three short white accent strokes, and a few small blue dash marks near the plate. Overall style: calm editorial cover, literary magazine layout, refined black typography contrasted with innocent wax-crayon illustration, minimal color palette, soft paper texture, no photorealism, no extra objects, no watermark.",
+    "title": "Literary Nanjing Morning Magazine Cover",
+    "description": "A refined editorial poster combining bold Chinese magazine typography with naive crayon illustrations of Nanjing morning food and decorative motifs.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784968583436_scql3m_HOCWeo4awAA3r1v.jpg"
+      "https://cms-assets.youmind.com/media/1785055094393_w7em74_HOCYRGUacAAdnPm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29687,
+    "content": "Ultra-realistic outdoor food lifestyle magazine cover featuring a joyful {argument name=\"subject\" default=\"Korean woman\"} in a linen apron over a casual summer outfit, sliding a perfectly blistered {argument name=\"food item\" default=\"Neapolitan pizza\"} into an {argument name=\"appliance\" default=\"Ooni Koda 16 gas pizza oven\"} on a stone outdoor kitchen, laughing naturally in the warm fire glow. Sun-kissed glowing skin, fresh no-makeup look, hair pulled back loosely. Background: gorgeous Italian-style outdoor terrace — warm evening light, stone walls, blurred vineyard backdrop, fire glow dancing. \"BON APPÉTIT\" masthead in bold warm sans-serif with \"FIRE & FEAST ISSUE\" callout. 35mm lens, ultra-detailed pizza char texture and Ooni oven steel body, 8K photorealistic warm lifestyle. \n\nNegative: cartoon, blurry, incorrect oven shape, watermark, cold tones.",
+    "title": "Italian Outdoor Pizza Magazine Cover",
+    "description": "A high-quality lifestyle magazine cover prompt featuring a woman cooking fresh pizza in a traditional outdoor oven within a beautiful Italian terrace setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055058109_3bezxq_HOCWeo4awAA3r1v.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 29831,
+    "content": "Using REFERENCE_0 as the design/style base, regenerate the same Mixtape broadcast-zine webpage as a revised issue mockup. Keep the bold retro editorial layout, electric blue/cream/yellow/black palette, oversized block typography, circular clock-selector motif, curator panel, running-order strip, and bottom category-card structure, but update the page to look like a new edition with changed content and slightly cleaner spacing.\n\nKey changes to apply:\n- Change the top metadata to a new issue: Friday, July 24, Edition 001, with a small “Live Today” indicator.\n- Update the top-right headline to: “One hour of YouTube. Picked by a superfan. Ready now.”\n- Reposition the large circular hour dial farther left so it overlaps the main title more dramatically. Keep the center label “Today’s Hour / Music Videos / Curated by Mara Ortiz,” but rotate the outer five segments to match the new active order.\n- Make the active “On Now” feature the final act, with large timecode {argument name=\"current timecode\" default=\"00:48\"}, headline {argument name=\"featured act title\" default=\"The Future Arrives Early\"}, and “12 min left.” Replace the feature artwork with a cinematic dark blue scene of a suited man standing in a modern architectural setting, with small now-showing/director credit text in the lower-right.\n- Preserve the curator as Mara Ortiz, but use a darker blue-black portrait crop and keep the curator-card structure: portrait, name, short bio, curator’s note, and “Become a curator →”.\n\nRunning order strip: create exactly 5 act cells, left to right:\n1. “Public Access Fever” — 00:00, played, 8 min\n2. “The Beat Goes Global” — 00:08, played, 12 min\n3. “Directors Turn Auteur” — 00:20, played, 15 min\n4. “Deep Cuts, Big Swings” — 00:35, played, 13 min\n5. “The Future Arrives Early” — 00:48, on now, 12 min\nKeep the bold left label “Today’s Running Order” and the right slogan “One hour. Five acts. Curated live. Ready now.”\n\nBottom section: replace the previous lower grid with a cleaner set of exactly 3 large preview cards plus a side list.\n1. {argument name=\"first preview card\" default=\"Animation After Dark\"} — labeled “Today at 9 PM,” with a blue-toned anime eye image.\n2. {argument name=\"second preview card\" default=\"Cult Sci-Fi\"} — labeled “Today at 11 PM,” with a retro astronaut/space helmet image.\n3. {argument name=\"third preview card\" default=\"Game Design\"} — labeled “Tomorrow at Noon,” with a blue pixel-art landscape image.\nAdd a left blue panel reading “Explore More Hours” with short supporting copy and “Browse all categories →”. Add a right black “Also Playing” panel listing exactly 5 items: Internet Lore, Fashion Forward, Reality TV Canon, Hip-Hop Deep Cuts, Skate Culture, plus a yellow “See today’s full guide →” link.\n\nStyle constraints: preserve the reference’s high-contrast zine aesthetic, sharp grid, thick borders, condensed uppercase type, imperfect print-like texture, and screen-poster feel. Do not add extra sections, watermarks, browser chrome, or unrelated UI.",
+    "title": "Mixtape Zine Webpage Redesign",
+    "description": "Transforms a reference Mixtape broadcast-zine layout into a refreshed issue mockup with updated program timing, feature art, and bottom preview cards.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055092918_bija1q_HOCE-6yaEAAq_hO.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 29740,
@@ -384,11 +512,11 @@
   },
   {
     "id": 29719,
-    "content": "Ultra-realistic coffee lifestyle magazine cover featuring a stylish {argument name=\"subject\" default=\"Korean woman\"} in a {argument name=\"outfit\" default=\"caramel-toned silk blouse and tailored trousers\"}, placing a Nespresso Vertuo Next pod into the machine with one hand, holding the freshly brewed espresso cup to her lips with the other, eyes bright with anticipation. Warm glowing skin, polished casual makeup, terracotta lip. Loose elegant waves. Background: sleek modern European kitchen — brushed gold hardware, cream marble countertop, warm morning window light. \"{argument name=\"magazine title\" default=\"FOOD & WINE\"}\" masthead in warm editorial serif with \"COFFEE CULTURE ISSUE\" callout. 50mm lens, ultra-detailed Nespresso machine chrome surface and crema espresso texture, 8K photorealistic. \n\nNegative: cartoon, blurry, incorrect machine design, watermark, cold light.",
-    "title": "Coffee Lifestyle Magazine Cover",
-    "description": "An editorial-style prompt for creating a professional magazine cover featuring a woman preparing coffee in a high-end, modern European kitchen.",
+    "content": "Ultra-realistic {argument name=\"beverage\" default=\"coffee\"} lifestyle magazine cover featuring a stylish {argument name=\"ethnicity\" default=\"Korean\"} woman in a caramel-toned silk blouse and tailored trousers, placing a Nespresso Vertuo Next pod into the machine with one hand, holding the freshly brewed espresso cup to her lips with the other, eyes bright with anticipation. Warm glowing skin, polished casual makeup, terracotta lip. Loose elegant waves. Background: sleek modern European kitchen — brushed gold hardware, cream marble countertop, warm morning window light. \"{argument name=\"magazine\" default=\"FOOD & WINE\"}\" masthead in warm editorial serif with \"COFFEE CULTURE ISSUE\" callout. 50mm lens, ultra-detailed Nespresso machine chrome surface and crema espresso texture, 8K photorealistic. \n\nNegative: cartoon, blurry, incorrect machine design, watermark, cold light.",
+    "title": "Nespresso Coffee Lifestyle Magazine Cover",
+    "description": "An ultra-realistic magazine cover prompt for 'Food & Wine' featuring a stylish woman preparing coffee with a Nespresso machine in a sunlit European kitchen.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784968615206_mn4v7j_HN1rCa3aAAAMv3Y.jpg"
+      "https://cms-assets.youmind.com/media/1785055077254_0yrb6u_HN1rCa3aAAAMv3Y.jpg"
     ],
     "needReferenceImages": false
   },
@@ -10790,6 +10918,16 @@
       "https://cms-assets.youmind.com/media/1781774864188_7jxsu5_HKmXqf-XsAAbcb0.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 29807,
+    "content": "[SUBJECT]: A sharp, focused {argument name=\"subject\" default=\"young woman\"} in a structured blazer working on a {argument name=\"device\" default=\"Samsung Galaxy Tab\"}, a sleek Siamese cat sitting beside the tablet watching the screen with equal curiosity\n\n[COLORS]: Samsung midnight navy, brushed platinum silver, cool white, soft electric blue\n\n[KEY PROP]: Samsung Galaxy Tab S9 Ultra with S Pen hovering above the screen mid-sketch, Samsung Galaxy Buds beside it on a clean desk\n\n[BACKGROUND]: Sleek modern co-working space with floor-to-ceiling glass, city skyline view, warm afternoon light, minimal Scandi-style furniture\n\n[MOOD]: Ambitious, focused and modern — Samsung cinematic lifestyle editorial, creative professional aesthetic\n\n[MAGAZINE NAME]: {argument name=\"magazine name\" default=\"CREATE MAGAZINE\"}\n\n[HEADLINE]: \"Do More. Be More.\"\n\n[TAGLINE]: The Tab Built For Girls Who Build Things — The Creator Issue\n\n[BRAND NAME]: SAMSUNG — Galaxy Tab S9 Ultra Creator Edition\n\n[STYLE NOTES]: Hyper-realistic cinematic photography, shallow depth of field on tablet screen, natural window light, clean corporate editorial aesthetic with warm lifestyle feel",
+    "title": "Samsung Galaxy Tab Creative Magazine Cover",
+    "description": "A professional editorial photography prompt featuring a focused young woman sketching on a Samsung tablet alongside a curious Siamese cat in a modern co-working space.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055077119_2qa1rj_HKmXXyZWEAEqWBj.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 25234,
@@ -32742,6 +32880,16 @@
     "description": "This prompt turns a simple reference photo of cut melon into a polished high-end promotional poster for premium fruit branding.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1777280830977_d9n9bu_HG041vWa4AAxBLK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29834,
+    "content": "Goal: Create a vertical ancient-Chinese style literature teaching PPT poster analyzing {argument name=\"work title\" default=\"登岳阳楼记\"}, with an ink-wash historical illustration, dense text-and-image layout, and Song/Yuan classroom handout aesthetics.\n\nCanvas: Portrait 3:4 poster, warm off-white rice paper background with subtle fibers, gray ink stains, light cloud textures, aged edges, and muted black, sepia, red seal, and pale blue-gray tones. High information density but elegant and readable.\n\nLayout: Top third contains a huge expressive black brush-calligraphy title across the page, with a small red seal and a vertical author label at the upper right. Under the title, place two centered subtitle lines in small serif Chinese type: “洞庭天下水，岳阳天下楼” and “以楼观湖，以景寄志，以文见心”. The left column is a structured knowledge-analysis panel; the center contains three large quoted key sentences; the right half is dominated by a dramatic Yueyang Tower illustration above cliffs and Dongting Lake. Bottom third contains comparison cards, a location map, two small literary reference cards, an author-ideal card, and a keyword strip.\n\nMain illustration: Paint Yueyang Tower as a multi-eaved traditional wooden pavilion on a high rocky cliff, facing a vast misty lake at sunset. Include layered mountains, drifting clouds, birds, tiny boats on the lake, water reflections, rugged rocks, pine-like vegetation, and mist rising from the cliff. At lower right, show one robed ancient Chinese scholar seen from behind in gray ink, standing on rocks and looking toward the tower. Add a vertical inscription beside the tower reading “洞庭天下水 / 岳阳天下楼” with a small red seal.\n\nLeft knowledge panel: Use a vertical heading in a gray ink blot reading “知识解析”. Include exactly 8 numbered analysis items, each with a circled number and short Chinese body text: 1 Author, 2 Text genre, 3 Creative background, 4 Place, 5 Famous sentence, 6 Structural features, 7 Emotional layers, 8 Cultural meaning. Add one small red boxed date label near item 3 reading “庆历六年”. Keep all text compact, like a teaching slide.\n\nCenter quote section: Add a narrow vertical label reading “核心引文”. Include exactly 3 large quoted excerpts, separated by thin decorative horizontal rules with small red dots: “先天下之忧而忧，后天下之乐而乐。”; “此则岳阳楼之大观也。”; “览物之情，得无异乎？”.\n\nBottom middle comparison card: Draw a bordered cream card titled “情景对照：景随情转，借由景生”. Inside it, create exactly 2 contrasting columns: left column “阴雨霏霏” describing gloomy rain, waves, and melancholy; right column “春和景明” describing bright spring, calm waves, and joy. Put a round center badge reading “对照”, with small ink cloud and sun doodles.\n\nBottom information row: Create exactly 4 boxed sections from left to right. Section 1 is a “位置示意” location card with a simplified map of Hunan and a red dot labeled “湖南·岳阳”. Section 2 is a Dongting Lake card titled “洞庭湖” with a small sailboat illustration and brief notes about vast lake water and mist. Section 3 is a reference card titled “巴陵胜状（节选）” with a small mountain-water sketch and brief excerpt text. Section 4 is a card titled “士大夫人格理想” explaining concern for the world, responsibility, and moral character.\n\nBottom keyword strip: Add a red label “关键词”, followed by exactly 6 keyword groups separated by slashes and small icons: “岳阳楼”, “洞庭湖”, “忧乐精神”, “家国情怀”, “北宋散文”, “千古名篇”. Add two small red square seal stamps at the bottom right.\n\nTypography and style: Combine bold wild brush calligraphy for the title, neat traditional Chinese serif type for educational notes, and thin line dividers. Use ink-wash realism mixed with PPT infographic layout. Keep all visible text in Chinese, crisp and legible. Avoid modern sans-serif UI styling, neon colors, cartoon effects, watermarks, or English text.",
+    "title": "Ancient Chinese Literature PPT Poster",
+    "description": "Creates a dense antique ink-wash Chinese teaching poster for analyzing a classical literary work such as Yueyang Tower.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055094464_8ejh3z_HG00b05b0AAJGut.jpg"
     ],
     "needReferenceImages": true
   },

@@ -1,23 +1,118 @@
 [
   {
-    "id": 29667,
-    "content": "A candid nighttime street portrait of a young woman with long black hair wearing oversized rectangular glasses and a dark brown oversized knit sweater. She raises her hand toward the camera, partially covering her face, creating a playful \"no photos\" pose. Shot with an iPhone flash, featuring strong motion blur, soft focus, cinematic low-light atmosphere, glossy white tiled wall on the side, dark urban street with distant streetlights, Y2K aesthetic, natural skin tones, moody, spontaneous, unedited, 35mm flash photography, high ISO, authentic nightlife vibes, vertical composition (9:16). A candid flash photo of a young woman at night wearing a blue-and-white striped puff-sleeve dress. She smiles subtly while covering part of her face with her hand, creating a playful and shy expression. Captured with direct iPhone flash and intentional motion blur, soft focus, glossy tiled wall beside her, dark city sidewalk with blurred streetlights in the background, nostalgic 2000s digital camera aesthetic, cinematic, natural lighting, realistic skin texture, casual street photography, dreamy nightlife mood, vertical composition (9:16). Candid nighttime flash photography, direct iPhone flash, motion blur, soft focus, playful hand covering the face, glossy tiled wall, dark city street, blurred streetlights, authentic street photography, Y2K digital camera aesthetic, nostalgic, cinematic, realistic, natural skin tones, shallow depth of field, unedited, spontaneous moment, high ISO, grainy, vertical 9:16.",
-    "title": "Candid Nighttime Flash Photography Portrait",
-    "description": "A prompt for generating spontaneous, high-ISO flash photography with a Y2K digital camera aesthetic, featuring a subject in a moody urban setting.",
+    "id": 29785,
+    "content": "Ultra-realistic studio portrait of a person transformed to resemble the reference face, centered composition, head-and-shoulders framing, neutral facial expression, looking directly at the camera, wearing a {argument name=\"outfit\" default=\"plain black crewneck sweatshirt and transparent acetate eyeglasses\"}, clean modern haircut matching the reference, detailed skin texture, subtle facial hair if applicable, cinematic {argument name=\"colors\" default=\"magenta and cyan rim lighting\"}, smooth {argument name=\"background\" default=\"purple gradient\"} background, soft beauty lighting, high contrast, sharp focus, 85mm lens, shallow depth of field, photorealistic, ultra-detailed, editorial photography, symmetrical composition, 8K. Place a small inset reference image in the bottom-right corner with a thin white rounded border.",
+    "title": "Studio Portrait with Rim Lighting",
+    "description": "A prompt for generating high-detail studio portraits with vibrant magenta and cyan rim lighting against a purple gradient background.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784968563133_n925ew_HODv9OoaQAA_BGt.jpg",
-      "https://cms-assets.youmind.com/media/1784968563174_imwhi8_HODv9OdaoAAVteo.jpg"
+      "https://cms-assets.youmind.com/media/1785055054957_h6ilql_HOH9i-vaUAAgp1x.jpg",
+      "https://cms-assets.youmind.com/media/1785055053985_8h56h2_HOH9i-7awAAkn3N.jpg",
+      "https://cms-assets.youmind.com/media/1785055054010_mvrfwh_HOH9i_CbUAALrpJ.jpg",
+      "https://cms-assets.youmind.com/media/1785055056054_4tshfb_HOH9i-6bcAAIf9A.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29747,
+    "content": "Using uploaded face as reference. hyper-realistic, 8k, medium shot, profile portrait of a person looking towards the right side of the frame, captured with a 50mm lens equivalent, emphasizing sharp detail and depth. The subject has an uploaded face as reference, with {argument name=\"hair style\" default=\"dark, medium-length textured hair styled back\"} and a well-groomed dark beard. They are wearing black Ray-Ban Wayfarer-style sunglasses and a single, {argument name=\"earbud color\" default=\"bright yellow\"} wireless earbud in their right ear. The subject is dressed in a highly detailed black leather motorcycle jacket, featuring subtle quilted patterns on the shoulders and a visible zipper. The lighting is cinematic and high-contrast, characterized by strong cool teal-cyan rim lighting from the left, illuminating the contours of the jacket, the beard, and the side of the face, while warmer yellow highlights catch the hair and the opposite side of the face. Behind the subject's head, slightly off-center, is a large, graphic, perfectly circular, vibrant yellow disk, creating a distinct halo effect. This stylized element is set against a solid, deep purple-blue background, enhancing the dramatic color contrast and modern studio aesthetic",
+    "title": "High-Contrast Cyberpunk Studio Portrait",
+    "description": "A cinematic profile portrait with high-contrast teal and yellow rim lighting, featuring a leather jacket and a graphic yellow disk background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055057075_9h8ai4_HOFFcU5WwAEo2CQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29790,
+    "content": "use the uploaded image as the character reference. 3×2 grid collage consisting of 6 hyper-realistic PHOTOISM photobooth photos, featuring thick black PHOTOISM-style borders with clear vertical “{argument name=\"sidebar text\" default=\"MY DAY\"}” text on the right side of each frame. Indoor photobooth setting with a solid {argument name=\"background color\" default=\"light gray\"} wall background, warm iPhone flash lighting with slight overexposure, and authentic photobooth film grain texture. playful vibe, outfit random, {argument name=\"emojis\" default=\"⚾,🥊\"}, Overall style: Korean photobooth realism, absurd and chaotic energy, warm playful thigh-resolution facial details, consistent facial features across all frames. Clean composition, high contrast, soft studio lighting, ultra-detailed, sharp focus, sophisticated atmosphere, aesthetic look, 8K resolution. \n\nNegative Prompt: overly vibrant colors, messy background, blur, low quality, distorted faces, malformed hands, bad proportions, messy typography, excessive noise, cartoon style, unrealistic details.",
+    "title": "Korean Photoism Photobooth Grid",
+    "description": "A creative prompt for generating a Korean-style photobooth collage (Photoism) featuring multiple expressions of the same character in a grid layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055062295_x3b7ne_HOESU0pXQAAqjOA.jpg",
+      "https://cms-assets.youmind.com/media/1785055062323_18rev4_HOESU0wXAAAw6L_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29778,
+    "content": "An extreme close-up portrait of the face. This is a {argument name=\"style\" default=\"black-and-white photograph\"} with a cinematic look and subtle film grain. The subject is a {argument name=\"subject\" default=\"woman\"} shown in a three-quarter profile, with long hair partially covering her face as it is blown by the wind. No visible clothing.\nThe background is a {argument name=\"background\" default=\"plain white wall\"}.\nThe image has a soft motion blur and a double-exposure effect, creating a dreamy, artistic atmosphere.\nDo not change the facial features.\nFull, glossy lips.\nAspect ratio: 9:16.",
+    "title": "Cinematic B&W Double Exposure Portrait",
+    "description": "An artistic prompt for a black-and-white, three-quarter profile portrait with film grain, soft motion blur, and a dreamy double-exposure effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055045305_x09y1t_HOEOZb-bIAAQ4ne.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 29709,
-    "content": "Authentic luxury mirror selfie inside a {argument name=\"setting\" default=\"contemporary boutique hotel elevator\"} during a quiet afternoon. An exceptionally beautiful {argument name=\"subject\" default=\"Korean female idol\"} stands naturally in front of a brushed stainless-steel mirror wearing an {argument name=\"clothing\" default=\"strapless light-wash denim corset romper\"} with a sculpted waistline and structured tailoring, decorative flap pockets, taupe suede knee-high boots. Platinum-blonde hair with soft movement and delicate flyaway strands, hydrated skin with visible pores, minimal Korean editorial makeup, calm introspective expression. Boutique hotel elevator with brushed steel walls, smoked bronze mirror panels, walnut trim, stone flooring, brass accents, warm architectural LED lighting, subtle daylight entering through opening doors, quiet luxury atmosphere. Documentary-fashion hybrid inspired by Mark Borthwick, Mario Sorrenti, Cass Bird, Lachlan Bailey, and Vogue Korea. Hasselblad X2D, 50–55mm lens, f/1.2, shallow depth of field, creamy cinematic bokeh, Kodak Portra 400 and Kodak Vision3 250D color science, Boutique Hotel Neutral LUT, authentic optical rendering, urban travel fashion diary, lived-in elegance, captured rather than generated, 3:4 aspect ratio.",
-    "title": "Luxury Boutique Hotel Mirror Selfie",
-    "description": "A sophisticated prompt for generating a high-end fashion mirror selfie in a luxury boutique hotel elevator, featuring a Korean female idol in a denim romper.",
+    "id": 29822,
+    "content": "Create a soft pastel anime illustration of {argument name=\"character name\" default=\"a shy squid-themed maid girl\"} sitting on the edge of a high bed in a bright minimalist bedroom, viewed from a low angle so her oversized platform shoes dominate the foreground and her face looks down toward the viewer. She is a petite teenage anime girl with {argument name=\"hair color\" default=\"short black bob hair with pink-dyed inner ends\"}, pale skin, sleepy half-lidded eyes, and a slightly embarrassed expression. Her outfit is a black-and-white frilly maid-inspired dress with an off-shoulder cut, long detached black sleeves with white trim, a white ruffled apron edge, black garter straps, white knee socks, puffy white leg warmers, and chunky black Mary Jane platform heels with pink trim. Use {argument name=\"accent color\" default=\"mint turquoise and soft pink\"} throughout the design. Include exactly 7 visible squid/octopus motifs: one mint squid hat perched on her maid headband, one mint squid hair clip, one mint squid emblem on her chest, one mint squid plush held in her lap, one mint squid print on her sock, one pink octopus emblem on the shoe, and one mint squid graphic on the drink cup. Include exactly 4 visible bows: a mint bow at her collar, a mint bow on her sleeve, a pink bow at the top of her sock, and a pink bow on her leg warmer. Place her in a clean pastel room with pale blue walls, white ceiling, white furniture, a pale blue mattress, a round white side table with a pink band, and a transparent drink cup with ice and a pink straw on the table. Add soft background props: a white door with a pale blue keyhole-like poster, a low white cabinet or desk with stacked books and a pink-framed object. The style should be high-quality Japanese anime character art, delicate linework, airy lighting, low contrast, glossy highlights, subtle blush, clean cel shading, soft white negative space, and a cute futuristic kawaii aesthetic. Use a vertical {argument name=\"aspect ratio\" default=\"2:3\"} composition, no text, no watermark, no extra characters.",
+    "title": "Pastel Squid Maid Bedroom Illustration",
+    "description": "Generates a low-angle pastel anime illustration of a squid-themed maid girl sitting in a bright kawaii bedroom.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784968606437_h45dil_HODROe6bgAA3Z_a.jpg",
-      "https://cms-assets.youmind.com/media/1784968606434_vdbhd4_HODROfGbwAAiec3.jpg"
+      "https://cms-assets.youmind.com/media/1785055086775_1ctgy5_HOD4t6abwAAwcfM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29830,
+    "content": "Create a studio portrait on a vertical 4:5 canvas with a plain dark gray seamless background and soft, realistic photography lighting. Show one real young adult Asian man standing slightly left of center, full body visible, wearing {argument name=\"outfit\" default=\"an oversized black hoodie, a white undershirt peeking out, loose light-wash denim shorts, white crew socks, and white-and-red sneakers\"}. He has {argument name=\"hair and glasses\" default=\"short textured black hair with straight fringe and black rectangular glasses\"}, a mildly confused, skeptical expression, and he looks to his right toward the empty space. His posture is relaxed with arms down, feet planted, and shoulders slightly turned. Above his head, add exactly 2 black hand-drawn question marks, one larger and one smaller, as doodle accents. To the right of him, create his mischievous doodle shadow as if drawn in rough black charcoal or marker directly on the background: a cartoon version of the same man, larger and more energetic, grinning widely with oversized glasses, wearing a hoodie, shorts, socks, and sneakers. The doodle shadow is in a playful dancing pose with one knee raised, one foot on the ground, both arms up making peace signs; include exactly 2 visible peace-sign hands. Add expressive sketch marks around the doodle: exactly 3 small exclamation strokes above the doodle head, exactly 1 tiny question mark near the left raised hand, exactly 5 curved motion marks around the arms, leg, and body, and a scribbled dark ground shadow under the doodle foot. Style the doodle with loose, messy, crosshatched black lines, semi-transparent enough to read as a drawn shadow but bold enough to stand out. Keep the real person photorealistic and the doodle shadow 2D hand-sketched, with no other objects, no watermark, and no extra text.",
+    "title": "Mischievous Doodle Shadow Portrait",
+    "description": "Generates a photorealistic studio portrait of a person beside an energetic hand-drawn cartoon shadow for playful social media edits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055092679_35uzi4_HOD3PxibIAAkJoe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29823,
+    "content": "Create a square digital 3D illustration of a stylized deformed human girl bust portrait on a deep black background. The character is shown from the upper torso up, turned slightly three-quarters to the viewer’s left, with a large head, small chin, short neck, slim shoulders, and a mildly annoyed or unimpressed expression. She has heavy-lidded eyes looking sideways to the left, downturned brows, a tiny nose, and a small closed frown. Her hair is an abstract sculptural bob made of thick rounded ribbon-like masses: one large sweeping bang across the forehead, two puffy side locks, and rounded layered hair volumes behind the ears. Remove natural object-specific colors and render the entire character as smooth matte clay-like forms with luminous gradients instead of outlines: blend {argument name=\"main gradient colors\" default=\"hot pink, violet, cyan, soft blue, peach, and mint green\"} across the skin, hair, and clothing so all parts share the same iridescent color language. Dress her in a simple short-sleeve hooded top with a soft rounded hood opening and rolled sleeve cuffs, also made from the same smooth inflated abstract shapes. Use soft studio lighting, subtle ambient occlusion in the creases, velvety subsurface shading, high-quality 3D render detail, and a dreamy toy-sculpture aesthetic. Composition should place the face in the upper center, torso cropped near the lower edge, with generous black negative space and no scenery. Add a small elegant handwritten signature and date in the bottom-right corner reading {argument name=\"date text\" default=\"July 25, 2026\"} and {argument name=\"signature text\" default=\"Oyagi\"}.",
+    "title": "Iridescent Abstract Girl Portrait",
+    "description": "A prompt for generating a smooth 3D stylized girl bust with abstract rounded forms and vivid gradient lighting on a black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055087402_puw9bc_HODrXY8acAEpXfv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29776,
+    "content": "Ultra-realistic lifestyle selfie photograph.\n\nDo not change the woman's face. Preserve 100% facial identity, facial features, proportions, eye shape, skin tone, hair color and overall appearance exactly as the reference.\n\nShot on iPhone with built-in flash in complete darkness.\n\nComposition:\nStrictly a handheld selfie taken with an extended arm. The phone itself must NOT be visible in the frame. Close-up portrait selfie. Camera positioned slightly above eye level and angled slightly downward toward the face. Natural front camera perspective with realistic selfie distortion.\n\nMotion:\nA spontaneous candid moment captured mid-movement. At the exact moment the photo is taken, the woman quickly turns her head to the right, creating natural motion blur across her face, jawline and hair from the fast head movement. Her face remains recognizable. Her long hair follows the movement with realistic motion trails and soft blur on individual strands. The body, clothing and background remain sharp. No artificial blur.\n\nPose:\nThe woman is holding the phone with her right arm extended forward, outside the frame. Her left arm is raised behind her head with the elbow bent. Her head is caught during a quick turn, gaze slightly away from the lens rather than direct eye contact. Calm, confident expression with a natural spontaneous feeling.\n\nHair:\nVery long thick hair falling below the waist. Loose hairstyle with voluminous soft curls. Hair lifted by the wind and movement, with several strands flowing across the shoulders and creating realistic motion blur.\n\nClothing:\n{argument name=\"outfit\" default=\"White fitted long-sleeve top\"} made of smooth stretchy fabric. Elegant central decorative knot detail on the chest. The fabric follows the body naturally.\n\nAccessories:\n{argument name=\"earrings\" default=\"Small heart-shaped earrings\"}.\nShort square French manicure.\n\nMakeup:\nThin cat-eye eyeliner.\nSoft contouring.\nLips with a blended brown lip liner effect.\nNatural glowing skin texture with visible pores, realistic imperfections.\n\nEnvironment:\n{argument name=\"setting\" default=\"Open field with tall grass stretching into the distance\"}. Night landscape. Deep blue evening sky above the horizon. Small crescent moon and bright visible stars. The background remains fully readable and detailed.\n\nLighting:\nStrong direct built-in iPhone flash illuminating the face and clothing. Bright flash highlights on skin and fabric. The background remains visible with rich dark blue tones. Low exposure nighttime photography. High contrast between illuminated subject and dark surroundings.\n\nPhotography style:\nAuthentic iPhone night flash selfie. Candid captured moment. Realistic motion blur from a fast head turn, 35mm film look, subtle digital noise, natural grain, realistic lens imperfections. Maximum photorealism. Natural skin texture, realistic pores. No AI beauty effect. No plastic skin. No artificial glossy look. No filters. No text. No watermark.\n\nManicure: short square French manicure.",
+    "title": "Night Flash iPhone Selfie with Motion Blur",
+    "description": "An authentic iPhone-style night selfie prompt featuring motion blur, direct flash, and a scenic night field background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055044439_daafel_HODStPPbIAA5AdF.jpg",
+      "https://cms-assets.youmind.com/media/1785055044458_wcj0qg_HODSttmbwAArD-C.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29709,
+    "content": "Authentic luxury mirror selfie inside a {argument name=\"elevator style\" default=\"contemporary boutique hotel elevator\"} during a quiet afternoon. An exceptionally beautiful Korean female idol stands naturally in front of a brushed stainless-steel mirror wearing an {argument name=\"clothing\" default=\"strapless light-wash denim corset romper with a sculpted waistline and structured tailoring, decorative flap pockets, taupe suede knee-high boots\"}. {argument name=\"hair color\" default=\"Platinum-blonde\"} hair with soft movement and delicate flyaway strands, hydrated skin with visible pores, minimal Korean editorial makeup, calm introspective expression. Boutique hotel elevator with brushed steel walls, smoked bronze mirror panels, walnut trim, stone flooring, brass accents, warm architectural LED lighting, subtle daylight entering through opening doors, quiet luxury atmosphere. Documentary-fashion hybrid inspired by Mark Borthwick, Mario Sorrenti, Cass Bird, Lachlan Bailey, and Vogue Korea. Hasselblad X2D, 50–55mm lens, f/1.2, shallow depth of field, creamy cinematic bokeh, Kodak Portra 400 and Kodak Vision3 250D color science, Boutique Hotel Neutral LUT, authentic optical rendering, urban travel fashion diary, lived-in elegance, captured rather than generated, 3:4 aspect ratio.",
+    "title": "Luxury Boutique Hotel Elevator Mirror Selfie",
+    "description": "A high-fashion mirror selfie prompt set in a contemporary luxury hotel elevator, capturing a Korean idol in a denim corset romper with Hasselblad-style color science.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055042649_oll86a_HODROe6bgAA3Z_a.jpg",
+      "https://cms-assets.youmind.com/media/1785055042656_78jwll_HODROfGbwAAiec3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29808,
+    "content": "Create an ultra-realistic, high-end professional lifestyle portrait of a stylish young African man seated confidently behind a clean white desk in a modern office studio. He is centered in the frame, facing the camera with a calm, confident, approachable expression, his chin resting lightly on one hand. He has {argument name=\"skin tone\" default=\"warm medium-brown skin\"}, {argument name=\"hairstyle\" default=\"short neat black cropped hair\"}, clear-framed eyeglasses, natural facial features, and smooth professional grooming. Dress him in a textured light blue overshirt or smart casual jacket over a dark charcoal-blue crew-neck shirt, with a silver metal wristwatch and a simple silver ring visible. Place an open silver laptop on the right foreground edge of the white desk, partially cropped, and keep his other hand relaxed on the tabletop. The background is a softly blurred dark gray textured wall with exactly two office decor elements: a small green plant in a white pot on the left rear shelf and a black angled desk lamp glowing warmly on the right. Use premium corporate portrait photography lighting: soft diffused key light from the front, gentle highlights on the face and glasses, subtle shadow depth, shallow depth of field, crisp facial detail, natural skin texture, realistic reflections, 85mm portrait lens look, clean composition, muted cool color palette, no text, no watermark, no extra people.",
+    "title": "Professional Office Portrait",
+    "description": "Creates a realistic corporate lifestyle portrait of a confident young African man seated at a desk for professional branding or LinkedIn-style use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055077323_emzlb1_HODPYYXW8AEHFIE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29676,
+    "content": "Create a 1970s black-and-white close-up portrait in a {argument name=\"setting\" default=\"windswept outdoor setting\"}, black and white noise . Camera/look: eye-level, front ¾ view (~30° off-axis); 85–105 mm portrait perspective; vertical 2:3, tight head-and-shoulders crop; shallow DoF f/2.8–f/4; subject centered . Lighting: {argument name=\"lighting\" default=\"hard natural sunlight from upper camera-left\"} with minimal fill; crisp shadows; subtle rim on hair; sky as bright mid-tone background; no blown highlights.Pose & expression: subject faces camera, chin slightly down, lips parted with a {argument name=\"prop\" default=\"cigarette\"} held between them; gaze relaxed/half-lidded; hair blown across the face by wind, partially covering one eye.Wardrobe & styling: dark collared shirt with open neck; thin black neck scarf tied loosely; no logos/jewelry.Grade: high-contrast monochrome with rich blacks, bright highlights, medium–heavy film grain (Tri-X/HP5 vibe), slight halation, faint vignette; keep skin texture natural (no plastic smoothing).Composition: simple sky background, no extra props; clean verticals; ensure sharp focus on near eye and cigarette.Output: high-resolution, editorial/classic cinema mood; no text or watermarks.",
+    "title": "1970s Monochrome Close-up Portrait",
+    "description": "A cinematic prompt for generating 1970s style black-and-white portraits with heavy film grain and high-contrast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785055050962_la6d2i_HODKksnaIAABWI1.jpg",
+      "https://cms-assets.youmind.com/media/1785055051238_e0lvtw_HODKkr1bsAAFMVB.jpg"
     ],
     "needReferenceImages": false
   },
@@ -32,22 +127,22 @@
     "needReferenceImages": false
   },
   {
-    "id": 29686,
-    "content": "Ultra-realistic portrait of a beautiful young {argument name=\"ethnicity\" default=\"East Asian\"} woman standing on a high-rise balcony overlooking a modern city skyline during soft daylight. She has long, slightly messy dark brown hair, natural makeup, and a calm expression while looking directly at the camera. She is wearing a {argument name=\"clothing\" default=\"white ribbed crop top\"}, light blue denim jeans with a visible Calvin Klein waistband, and an oversized white shirt draped off her shoulders. Cinematic lighting, shallow depth of field, soft gray tones, photorealistic skin texture, editorial fashion photography, {argument name=\"lens type\" default=\"85mm\"} lens, bokeh background, luxury magazine aesthetic, subtle sparkle effects around the subject, highly detailed, 8K, vertical composition (3:4).",
-    "title": "Urban Balcony Editorial Portrait",
-    "description": "An editorial fashion portrait of a young woman on a high-rise balcony with a cinematic city skyline backdrop.",
+    "id": 29787,
+    "content": "Ultra-realistic DSLR portrait photograph of a naturally beautiful young {argument name=\"subject\" default=\"Korean woman\"} with shoulder-length layered dark brown hair, soft wispy curtain bangs, warm brown eyes, flawless natural skin, subtle freckles, and a gentle genuine smile. She is wearing a {argument name=\"outfit\" default=\"minimalist ivory oversized knit sweater\"} with matching cream lounge pants, delicate layered gold necklaces, small gold hoop earrings, and no heavy makeup.\n\nShe is sitting comfortably indoors with one knee folded, looking directly into the camera with a calm, peaceful expression. Cozy {argument name=\"interior style\" default=\"Scandinavian-inspired apartment\"} interior featuring light oak wooden furniture, beige walls, soft linen curtains, blurred hanging clothes, and warm neutral home decor.\n\nSoft natural window light from the left side creates beautiful diffused lighting across her face with smooth skin tones and subtle shadows. Extremely shallow depth of field, creamy background bokeh, authentic lifestyle photography, intimate candid atmosphere, luxury Pinterest aesthetic, Muji-inspired minimalist…",
+    "title": "Cozy Minimalist Korean Woman Portrait",
+    "description": "A prompt for generating a hyper-realistic DSLR portrait of a woman in a cozy Scandinavian-style interior, characterized by warm neutral tones and soft natural light.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784968582105_92c9jc_HOC7rlvaYAAHBwy.jpg"
+      "https://cms-assets.youmind.com/media/1785055059926_dv8g3h_HOCyO5gaMAAF3q7.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 29688,
-    "content": "Use the uploaded face as the exact facial reference and preserve all facial features, skin tone, hairstyle, and identity. Create a cinematic low-angle portrait shot on a 50mm lens with a shallow depth of field and realistic lighting. The man is casually leaning against a weathered concrete railing with both elbows resting on it. He is wearing a {argument name=\"clothing material\" default=\"premium black silk\"} shalwar kameez with the sleeves rolled up, {argument name=\"accessory\" default=\"dark rectangular sunglasses\"}, a white wristwatch on his left wrist, and a stylish chain bracelet on his right wrist. He is looking upward toward the right with a calm, confident expression. The background features a {argument name=\"time of day\" default=\"golden-yellow sunset\"} with warm cinematic light, soft bokeh, and subtle lens flare. Ultra-realistic, highly detailed skin texture, natural color grading, HDR, professional photography, sharp focus on the face, 8K resolution, premium editorial portrait, dramatic composition.",
-    "title": "Cinematic Face Reference Portrait",
-    "description": "A high-detail cinematic portrait prompt designed to work with an uploaded face reference, emphasizing fabric textures and sunset lighting.",
+    "content": "Use the uploaded face as the exact facial reference and preserve all facial features, skin tone, hairstyle, and identity. Create a cinematic low-angle portrait shot on a 50mm lens with a shallow depth of field and realistic lighting. The man is casually leaning against a weathered concrete railing with both elbows resting on it. He is wearing a {argument name=\"outfit\" default=\"premium black silk shalwar kameez\"} with the sleeves rolled up, dark rectangular sunglasses, a white wristwatch on his left wrist, and a stylish chain bracelet on his right wrist. He is looking upward toward the right with a calm, confident expression. The background features a golden-yellow sunset with warm cinematic light, soft bokeh, and subtle lens flare. Ultra-realistic, highly detailed skin texture, natural color grading, HDR, professional photography, sharp focus on the face, 8K resolution, premium editorial portrait, dramatic composition.",
+    "title": "Man in Silk Shalwar Kameez Sunset Portrait",
+    "description": "A dramatic low-angle cinematic portrait of a man in traditional black silk attire leaning against a railing during a golden sunset.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784968584468_yfq9c0_HOCxejIWkAAxYiI.jpg"
+      "https://cms-assets.youmind.com/media/1785055064543_ikhz5f_HOCxejIWkAAxYiI.jpg"
     ],
     "needReferenceImages": true
   },
@@ -58,18 +153,6 @@
     "description": "A sophisticated prompt for an indoor fashion portrait of a woman wearing sunglasses, with a focus on lighting and material textures.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1784968587655_ji2om0_HN1Rc2la0AAYJv7.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 29700,
-    "content": "{argument name=\"subject\" default=\"A young adult East Asian woman\"} sitting in {argument name=\"setting\" default=\"a minimalist white interior space\"}, medium close-up to half-body composition, centered slightly left. Body leaning slightly forward, shoulders naturally inward, arms forward, pose is quiet, relaxed, and slightly fragile. Head slightly tilted, facing the camera, gaze is calm, soft, and slightly detached, lips naturally parted, no obvious smile.\n\nExquisite soft oval face, almond-shaped dark brown eyes, natural thin eyebrows, slender bridge of the nose, light nude pink lips. Very light makeup, only natural eyelashes, slight eyeliner, and soft blush. Fair warm skin tone, retaining real pores, fine peach fuzz, natural skin variations, soft highlights, and light shadows, no plastic smoothing.\n\nDeep dark brown long hair, naturally loose, voluminous with slight messy waves. Fluffy but real hair strands, with some wisps falling on forehead, eyes, cheeks, neck, and chest, creating a casual, unstyled home texture.\n\nShe wears {argument name=\"clothing\" default=\"a thin white loose shirt\"}, buttons partially undone, fabric soft and slightly wrinkled with a light semi-transparent gauzy feel; collar and one shoulder naturally sliding off, revealing neck, collarbone, and a white spaghetti strap camisole underneath. Overall clothing is fresh, clean, and subtle, not overexposed.\n\nBackground is a minimalist white or light gray wall, no clutter, quiet and clean space. Light is soft natural window light or high-key studio diffused light, coming from the front left, very shallow shadows, overall low saturation and low contrast, dominated by cream white, light gray, and natural skin tones. Photography style: 85mm portrait lens, f/1.8, shallow depth of field, eyes and face in focus, soft background blur, slight film grain, real photographic texture, Japanese soft lifestyle portrait, photorealistic.\n\nAvoid: Cartoon, CG, illustration, over-smoothing, heavy makeup, exaggerated expressions, exaggerated body, wrong fingers, deformed arms, messy background, strong HDR, over-sharpening, text, watermarks, logos.",
-    "title": "Soft Japanese Lifestyle Portrait",
-    "description": "A photorealistic prompt for a gentle and minimalist indoor portrait of a woman, featuring soft natural lighting and realistic skin details in a Japanese lifestyle aesthetic.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1784968594600_ntf3pl_HN86jS8XoAAkT8O.jpg",
-      "https://cms-assets.youmind.com/media/1784968593904_c8pb8m_HN86jS6W8AA7foI.jpg",
-      "https://cms-assets.youmind.com/media/1784968594938_6ck2o2_HN86jS6XwAAoR59.jpg"
     ],
     "needReferenceImages": false
   },
