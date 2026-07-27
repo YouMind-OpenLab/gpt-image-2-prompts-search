@@ -1,5 +1,25 @@
 [
   {
+    "id": 29918,
+    "content": "Create a square fantasy music cover artwork for {argument name=\"title text\" default=\"Emerald Frequency\"}. The scene is an ornate emerald-and-gold crystal resonance world: a huge faceted glowing emerald crystal floats at the center, radiating green light and surrounded by a thin horizontal audio waveform that stretches across the image. In the foreground, place a glossy dark emerald electric guitar angled from lower center toward the right edge, with gold hardware, visible strings, pickups, knobs, cable, and reflective marbled green body. Behind it, show a mystical landscape of jagged crystal forests and distant spires under a starry night sky, with a bright full moon in the upper right. Add many floating emerald shards of varied sizes, sparkling particles, and luminous mist. Frame the composition with intricate golden circular astrolabe rings, compass-like mechanisms, gears, and celestial geometry, including exactly 5 prominent mechanical/celestial devices: one large circular compass in the lower left, one small astrolabe in the upper left, one small astrolabe in the upper right, one vertical gear-like instrument at the right edge, and one circular device in the lower right. Use the palette {argument name=\"primary color palette\" default=\"deep emerald green, glowing mint green, antique gold, black, and moonlit teal\"}. Typography: set the large centered title in elegant high-contrast serif lettering, pale mint-white with subtle glow, split into exactly 2 lines: “Emerald” above “Frequency”; add a small star ornament above the title and a tiny glowing diamond ornament between the title and crystal. At the bottom, add widely spaced small-cap serif text reading {argument name=\"bottom caption\" default=\"INSTRUMENTAL MELODIC FUSION\"}, flanked by delicate gold line ornaments. Overall style: highly detailed cinematic fantasy album cover, luxurious crystal-dragon-lancer aesthetic, symmetrical central composition, magical realism, luminous reflections, sharp gem facets, atmospheric depth, no people, no watermark, no extra text.",
+    "title": "Emerald Frequency Album Cover",
+    "description": "A detailed fantasy album-cover prompt featuring a glowing emerald crystal, electric guitar, sound waveform, and ornate celestial machinery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785143504070_yapfv1_HN8-0b_agAADjHb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 29890,
+    "content": "The color tone should be {argument name=\"color tone\" default=\"sepia\"}, and for the line art, use {argument name=\"drawing style\" default=\"pen drawing\"} with sepia color tracing.",
+    "title": "Sepia Pen Art Illustration",
+    "description": "A stylized prompt for creating illustrations with sepia tones and pen-drawn line art, effective for blending subjects into complex backgrounds with soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785143476743_ximj3u_HOHt1YAagAA0puv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 29743,
     "content": "Create a square, painterly surreal oil painting of {argument name=\"main subject\" default=\"an astronaut riding a horse through outer space\"}. The astronaut wears a bulky white EVA spacesuit with a large backpack life-support unit, glossy black gold-tinted helmet visor, small red and blue suit markings, thick gloves and boots, seated upright in a brown leather saddle and holding red-brown reins. The horse is {argument name=\"horse color\" default=\"chestnut brown with a white blaze and white lower legs\"}, shown in a dynamic mid-gallop pose facing right, with wind-swept mane and tail, raised front legs, detailed bridle, and expressive realistic head. The setting is a deep navy-black cosmic background filled with swirling brushstrokes, tiny stars, faint nebulas, and exactly two large ringed planets: one colorful planet in the upper left with blue rings and yellow-green landlike shapes, and one bluish-purple ringed planet in the upper right. Use an expressive traditional oil-on-canvas look with visible thick brush texture, dramatic soft highlights, whimsical retro sci-fi fantasy mood, rich blues and browns, and no text or watermark.",
     "title": "Astronaut Riding Horse in Space",
