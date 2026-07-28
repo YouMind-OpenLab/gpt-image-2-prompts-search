@@ -10,17 +10,50 @@
     "needReferenceImages": true
   },
   {
-    "id": 29877,
-    "content": "This is a {argument name=\"font type\" default=\"sans-serif\"} typeface with a wide face, slightly low center of gravity, and open counters. The skeleton is primarily based on humanist structures, and the overall feel is compact but not crowded.\nLow stroke contrast, with horizontal strokes slightly thinner than vertical ones. The outer curves are full while the inner ones are tight. Corners use small-radius rounds, and ends are mostly slightly slanted.\nLetter spacing is tight, but internal white space is sufficient. Repeated parts maintain the same curvature. Lowercase a, e, the number 2, and uppercase R are the core identifying characters. Bold versions increase weight by expanding the inner side of the strokes rather than compressing the counters.\n——\nText: {argument name=\"text\" default=\"Shanghai tap water comes from the sea\"}\nAspect Ratio: {argument name=\"ratio\" default=\"16:9\"}",
-    "title": "Humanist Sans-Serif Typography Design",
-    "description": "A specialized prompt for designing a wide-face, humanist sans-serif font with specific attention to stroke contrast, curvature, and legibility.",
+    "id": 29987,
+    "content": "A centered front-facing vector portrait of a person in a {argument name=\"style\" default=\"modern flat illustration style\"}. Clean geometric shapes, smooth gradients, crisp outlines, minimal facial details, symmetrical composition, soft skin tones, expressive eyes, subtle shading, and a simple solid-color background. The subject occupies most of the frame from the banner up. Contemporary digital avatar aesthetic, Adobe Illustrator style, high contrast, professional profile picture, sharp edges, vibrant colors, no texture, no photorealism, no background objects, 1:1 aspect ratio, high resolution. For variations like the examples: Avatar 1: Young man with thick swept-back brown hair, full beard, round black glasses, black crew-neck shirt, orange background. Avatar 2: Young woman with short black bob haircut, round gold glasses, black turtleneck and blazer, blue background. Avatar 3: Young man with curly dark hair, short beard and mustache, round black glasses, black shirt, purple background. Avatar 4: Young woman with shoulder-length wavy brown hair, floral bucket hat, white top, delicate necklace, gray background.",
+    "title": "Modern Flat Vector Avatars",
+    "description": "A versatile prompt for creating clean, geometric flat vector portraits suitable for professional digital profile pictures.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785143469640_xsfyhp_HONi3-LaEAALwVV.jpg",
-      "https://cms-assets.youmind.com/media/1785143470681_ln1oab_HONi6VMagAAQ55Q.jpg",
-      "https://cms-assets.youmind.com/media/1785143469711_5joold_HONi8EYagAA7mYH.jpg",
-      "https://cms-assets.youmind.com/media/1785143471111_oj9f43_HONjMQSaoAAjXbG.jpg"
+      "https://cms-assets.youmind.com/media/1785228534775_37i0rm_HOSp6OvacAARPXu.jpg",
+      "https://cms-assets.youmind.com/media/1785228534798_p131gw_HOSp6OoboAAqZSM.jpg",
+      "https://cms-assets.youmind.com/media/1785228534741_wm11pz_HOSp6OqbQAASGac.jpg",
+      "https://cms-assets.youmind.com/media/1785228535866_aivt6s_HOSp6OuboAASLyt.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 29985,
+    "content": "Create an ultra-detailed anime fashion editorial portrait inspired by {argument name=\"style\" default=\"retro pop art and contemporary Japanese character illustration\"}. Depict a stylish young woman with fair skin, a sleek {argument name=\"haircut\" default=\"jet-black chin-length bob\"}, bold glossy red lips, and large round silver sunglasses with deep red-tinted lenses. She wears oversized silver over-ear headphones, a fitted {argument name=\"top\" default=\"red ribbed mock-neck knit top\"}, and a sculptural white shoulder accent. Pose her in a relaxed three-quarter profile while looking confidently toward the viewer. Use a clean solid crimson-red studio background with soft diffused lighting, crisp cel shading, elegant linework, vivid color contrast, premium editorial composition, and ultra-detailed 8K illustration quality.",
+    "title": "Retro Pop Art Anime Illustration",
+    "description": "A vibrant anime fashion editorial prompt inspired by retro pop art, featuring a stylish woman with a black bob and crimson studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785228534633_71ehvk_HOSNQKlbYAA4VPW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29877,
+    "content": "This is a sans-serif font with a wider face, slightly lower center of gravity, and open counters, based on a humanist structure. The overall layout is compact but not crowded. Strokes have low contrast, with horizontals slightly thinner than verticals. Curves are full on the outside and tight on the inside, using small-radius rounded corners and slight diagonal cuts at the ends. Character spacing is tight but internal whitespace is sufficient. Repeating components maintain identical curvature. Core identifying characters include lowercase a, e, the number 2, and uppercase R. Bold versions increase weight by expanding the inner stroke rather than compressing counters.\n——\nText: {argument name=\"text\" default=\"Shanghai tap water comes from the sea\"}\nAspect Ratio: {argument name=\"aspect ratio\" default=\"16:9\"}",
+    "title": "Chinese Typography Sans-Serif Design",
+    "description": "A specialized prompt for GPT Image 2 to design a humanist sans-serif typeface for Chinese characters, featuring low contrast strokes and a wide, stable structure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785228556517_6ndhol_HONi3-LaEAALwVV.jpg",
+      "https://cms-assets.youmind.com/media/1785228556527_esc2nl_HONi6VMagAAQ55Q.jpg",
+      "https://cms-assets.youmind.com/media/1785228556454_wrl9ir_HONi8EYagAA7mYH.jpg",
+      "https://cms-assets.youmind.com/media/1785228557425_qnxy17_HONjMQSaoAAjXbG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 29920,
+    "content": "Create a stylish modern portrait collage of {argument name=\"character name\" default=\"a young East Asian woman\"} in an outdoor park or tree-lined setting, preserving the same face, long dark hair, slim build, natural makeup, and calm elegant identity across all panels. Use a square 1:1 canvas with a clean magazine-style layout made of exactly 6 rounded rectangular portrait panels separated by thick soft white gutters and rounded outer corners. Place one large full-body cutout portrait in the foreground, overlapping the collage from lower left to center: she stands casually with hands in trouser pockets, wearing dark sunglasses, a loose dusty {argument name=\"shirt color\" default=\"rose pink\"} linen button-up shirt with rolled sleeves, light beige trousers, and a wristwatch; add a crisp white sticker-like outline around this foreground figure. Behind her, create 5 monochrome black-and-white rounded panels: 1 wide top panel showing a close-up of her leaning against a tree and looking at camera without sunglasses; 2 middle-right panel showing her in sunglasses with one hand under her chin; 3 right-center panel showing her smiling upward in sunglasses; 4 bottom-right panel showing a smaller full-body walking/standing pose in sunglasses; 5 a large blurred grayscale background panel occupying the lower-left area behind the foreground figure. Keep the foreground figure in soft natural color while the background panels are grayscale, with shallow depth of field, blurred bokeh trees, soft cinematic daylight, gentle contrast, realistic photography, premium clean editorial design, no text, no logos, no watermark.",
+    "title": "Modern Portrait Collage",
+    "description": "Generates a clean editorial square portrait collage with one color foreground figure layered over six rounded monochrome photo panels.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785228609591_2c8ffu_HOMxFW3a8AASGjG.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 29835,
