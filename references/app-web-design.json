@@ -10,6 +10,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 30102,
+    "content": "Create a clean, modern flat vector portrait illustration of the same person in the reference image. Preserve the exact facial features, face shape, expression, black round eyeglasses, and overall hairstyle. Use natural jet-black hair with realistic highlights and texture, styled exactly like the reference—thick, voluminous, slightly messy, and swept upward. Make the beard full, neatly trimmed, and natural black. Dress the person in a plain black crew-neck T-shirt. Replace the background with a solid {argument name=\"background color\" default=\"vibrant green (#2E7D32)\"}. Use smooth gradients, crisp edges, minimal shadows, and a professional Adobe Illustrator/Dribbble-style vector aesthetic. Center the portrait, front-facing, symmetrical composition, shoulders visible, high detail, clean lines, high resolution (4K), with no text, logos, watermarks, or extra objects.",
+    "title": "Flat Vector Professional Avatar",
+    "description": "Generates a clean Dribbble-style vector portrait illustration from a reference image, emphasizing crisp lines and vibrant backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785314945199_v41dus_HOVIprha0AAjrBc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 29987,
     "content": "A centered front-facing vector portrait of a person in a {argument name=\"style\" default=\"modern flat illustration style\"}. Clean geometric shapes, smooth gradients, crisp outlines, minimal facial details, symmetrical composition, soft skin tones, expressive eyes, subtle shading, and a simple solid-color background. The subject occupies most of the frame from the banner up. Contemporary digital avatar aesthetic, Adobe Illustrator style, high contrast, professional profile picture, sharp edges, vibrant colors, no texture, no photorealism, no background objects, 1:1 aspect ratio, high resolution. For variations like the examples: Avatar 1: Young man with thick swept-back brown hair, full beard, round black glasses, black crew-neck shirt, orange background. Avatar 2: Young woman with short black bob haircut, round gold glasses, black turtleneck and blazer, blue background. Avatar 3: Young man with curly dark hair, short beard and mustache, round black glasses, black shirt, purple background. Avatar 4: Young woman with shoulder-length wavy brown hair, floral bucket hat, white top, delicate necklace, gray background.",
     "title": "Modern Flat Vector Avatars",
@@ -23,14 +33,24 @@
     "needReferenceImages": false
   },
   {
-    "id": 29985,
-    "content": "Create an ultra-detailed anime fashion editorial portrait inspired by {argument name=\"style\" default=\"retro pop art and contemporary Japanese character illustration\"}. Depict a stylish young woman with fair skin, a sleek {argument name=\"haircut\" default=\"jet-black chin-length bob\"}, bold glossy red lips, and large round silver sunglasses with deep red-tinted lenses. She wears oversized silver over-ear headphones, a fitted {argument name=\"top\" default=\"red ribbed mock-neck knit top\"}, and a sculptural white shoulder accent. Pose her in a relaxed three-quarter profile while looking confidently toward the viewer. Use a clean solid crimson-red studio background with soft diffused lighting, crisp cel shading, elegant linework, vivid color contrast, premium editorial composition, and ultra-detailed 8K illustration quality.",
-    "title": "Retro Pop Art Anime Illustration",
-    "description": "A vibrant anime fashion editorial prompt inspired by retro pop art, featuring a stylish woman with a black bob and crimson studio background.",
+    "id": 30033,
+    "content": "Full-length candid editorial photo of a {argument name=\"subject\" default=\"young woman\"} with long, voluminous, wavy blonde hair running barefoot across a lush green grassy lawn. She is wearing a {argument name=\"dress\" default=\"backless, flowing dusty pink satin dress\"} that catches the motion of the wind. She turns her upper body back to look over her shoulder at the camera with a gentle, joyful expression. Background features a {argument name=\"background\" default=\"dense line of deep green trees\"} under soft, natural overcast daylight. Cinematic 35mm film texture, shallow depth of field, candid outdoor fashion photography, --ar 9:16",
+    "title": "Candid Outdoor Fashion Editorial Photo",
+    "description": "Generates a breezy and joyful outdoor fashion photo of a woman in motion, perfect for editorial or social media aesthetics using GPT Image 2.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785228534633_71ehvk_HOSNQKlbYAA4VPW.jpg"
+      "https://cms-assets.youmind.com/media/1785314930387_hhvjkv_HOSSxtWWoAAWC1v.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 30048,
+    "content": "Create a clean vertical 2:3 portrait illustration of a stylized 3D anime-inspired girl bust on a pure white background, rendered like a smooth clay/vinyl figurine with soft subsurface scattering and no outlines. The character is {argument name=\"character type\" default=\"a young girl with large blank almond eyes and a calm, slightly distant expression\"}, shown from the upper torso up in a three-quarter pose, body turned left while the head looks slightly back over the shoulder toward the viewer. She has rounded, plush, petal-like hair sections resembling soft floppy ears: one large oval lock draped over the forehead, two long side locks hanging down, and smaller rounded locks on the crown and right side. Her facial features are minimal and doll-like: smooth cheeks, small nose, tiny closed lips, no visible eyebrows, pupil-less eyes. She wears {argument name=\"outfit\" default=\"a simple oversized short-sleeve T-shirt with thick rolled sleeves\"}. Cover the entire character with a seamless iridescent rainbow gradient material, blending saturated hot pink, coral orange, lemon yellow, mint green, cyan, cobalt blue, and violet across the face, hair, shirt, and arms, with soft transitions and gentle studio lighting. Composition should crop just below the chest and upper arm, leaving generous white negative space, with the figure centered slightly left and the head near the top. Add a small handwritten-style signature and date in the bottom-right corner reading {argument name=\"signature text\" default=\"Oyagi\"} and {argument name=\"date text\" default=\"July 28, 2026\"}. Use high-resolution, polished 3D render aesthetics, matte-satin surface, pastel neon color bloom, soft shadows only, no extra objects, no border, no watermark beyond the signature.",
+    "title": "Rainbow Vinyl Anime Girl Portrait",
+    "description": "Generates a soft 3D rainbow-gradient anime girl bust portrait suitable for social media AI art posts or character concept visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785315025946_bm57hr_HORrzyAagAAOfxW.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 29877,
