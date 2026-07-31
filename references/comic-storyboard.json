@@ -10,12 +10,161 @@
     "needReferenceImages": true
   },
   {
-    "id": 30170,
-    "content": "Create a monochrome anime-style portrait of a {argument name=\"character description\" default=\"beautiful young adult businesswoman\"} standing in a busy modern business district during rush hour. She is shown from the waist up in a three-quarter pose, turning back over her shoulder toward the viewer with a soft confident smile and large expressive eyes. She has {argument name=\"hair style\" default=\"medium-length wavy dark hair with loose windblown strands\"}, delicate facial features, subtle makeup, and a small earring. She wears a sharp {argument name=\"outfit\" default=\"black business suit jacket over a crisp white collared shirt\"} and holds exactly 1 item: a structured black leather briefcase with a handle and metal clasp, cradled in both hands near the lower foreground. The background is a canyon of tall glass office buildings with exactly 8 prominent building masses visible, strong perspective lines, reflective windows, and bright backlight filtering between skyscrapers. Include a crowd of commuters in dark business suits walking away and around her, softly blurred by depth of field; keep them secondary and anonymous. Use pure black-and-white / grayscale rendering, high-contrast cinematic lighting, glossy highlights on hair and suit, soft rim light from behind, realistic urban atmosphere, polished manga illustration detail, shallow depth of field, vertical composition, no color accents, no text, no watermark.",
-    "title": "Monochrome Businesswoman City Portrait",
-    "description": "Generates a black-and-white anime portrait of a stylish businesswoman holding a briefcase in a bustling corporate city street.",
+    "id": 30303,
+    "content": "Create a warm, intimate anime-style illustration of two young adults relaxing together on a plush sofa in a sunlit living room. The scene features exactly 2 characters: a gentle young woman with {argument name=\"hair color\" default=\"long dark brown hair\"}, soft brown eyes, a shy affectionate smile, and a loose cream cardigan over a white lace-trim blouse; and a young man with tousled brown hair and brown eyes, wearing a pale hoodie, lying with his head resting on her lap or against her arm. The woman tenderly places one hand on his hair while her other hand rests near his hand, creating a quiet romantic mood. Use golden-hour sunlight streaming through a large window at the left, with sheer curtains glowing in the backlight and dappled highlights across the sofa and blanket. The room should feel cozy and lived-in, with exactly 2 ceramic mugs on a wooden coffee table in the lower right foreground, exactly 2 potted plants near the window, framed pictures and a vase with branches on a wooden dresser in the background, and soft patterned cushions around them. Render in a polished modern Japanese anime visual novel style with delicate linework, expressive eyes, subtle blush, painterly lighting, warm peach and amber color grading, soft depth of field, and highly detailed fabric folds and hair strands. The composition is a close, square-format domestic scene centered on tenderness and comfort, with no text, no watermark, and no exaggerated action. Customize the emotional tone as {argument name=\"mood\" default=\"quiet affectionate warmth\"}, the room setting as {argument name=\"setting\" default=\"cozy sunlit living room\"}, and the time of day as {argument name=\"time of day\" default=\"golden hour late afternoon\"}.",
+    "title": "Cozy Anime Couple on Sofa",
+    "description": "A warm anime illustration prompt for generating an intimate sunlit living-room scene with a tender couple relaxing together.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785315019161_thih1y_HOX3v2tbcAAyoE0.jpg"
+      "https://cms-assets.youmind.com/media/1785401424960_w5wdj3_HOdZgvCaMAEXXO2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30241,
+    "content": "Using the uploaded photo as the definitive likeness reference, generate a tall, high-end portrait that pairs a photorealistic rendering of the subject with a smaller, {argument name=\"anime style\" default=\"stylized anime version\"} of the same person matching facial features, hair, clothing, and overall vibe. The anime figure should be actively {argument name=\"anime action\" default=\"affectionate (clinging to the arm, snuggling close, making finger hearts, gazing up with bright, shining eyes)\"}, while the real-life figure wears a {argument name=\"expression\" default=\"cute, mock-grumpy expression\"} that hints at hidden fondness underneath. Aim for a strong contrast in energy: an overtly affectionate anime companion against a real person who's playfully feigning annoyance while clearly charmed. Style should evoke Korean influencer content soft pastel backdrop, flattering light, photoreal main figure, refined anime companion art, strong likeness, and overall polished quality.\nAvoid: hostility, coldness, overly serious tone, unsettling vibes, weak resemblance, 3D-doll look, anatomical errors, extra limbs or fingers, visual clutter, text, or watermarks.",
+    "title": "Real-Life and Anime Duo Portrait",
+    "description": "A creative prompt that generates a split-style portrait pairing a photorealistic version of a person with a stylized, affectionate anime version of themselves.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401368058_5uhweh_HOc06yqasAESKGk.jpg",
+      "https://cms-assets.youmind.com/media/1785401368075_hz2ek0_HOc07QGbsAAQlko.jpg",
+      "https://cms-assets.youmind.com/media/1785401368077_ysb8gi_HOc072xaoAAErDj.jpg",
+      "https://cms-assets.youmind.com/media/1785401369061_j1rdqj_HOc08VFacAADNmk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30289,
+    "content": "Create a vertical cinematic portrait in a warm, sepia-toned rustic room. A handsome young man with {argument name=\"shirt color\" default=\"deep burgundy\"} button-up shirt, dark jeans, and sneakers is crouching on the left side, gently touching one finger to the raised paw of a golden retriever puppy sitting on the right. The puppy has soft golden fur, floppy ears, and wears a black-and-white checkered bandana. Behind them on the textured plaster wall, include a large charcoal-pencil mural or sketch of a smiling young woman in a loose hoodie interacting with a sketched version of the same puppy, echoing the real pose; the mural should look hand-drawn, monochrome, and integrated into the wall texture. Use dramatic golden window light from the upper left, casting clear diagonal window-frame shadows across the wall and floor. The mood is tender, nostalgic, and slightly magical, blending photorealistic foreground figures with a delicate wall illustration. Use shallow depth of field, realistic skin and fur detail, soft dust in the light, warm earthy colors, and a cinematic fine-art photography style. No text, no watermark, no extra animals or people.",
+    "title": "Man and Puppy With Wall Sketch",
+    "description": "A cinematic photoreal portrait of a young man training a golden retriever puppy beneath a nostalgic charcoal mural on a sunlit wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401412009_du4wfp_HOcunMNbsAAzigs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30283,
+    "content": "Two-dimensional alternative character illustration of {argument name=\"character\" default=\"a mischievous creature\"}, occupying approximately seventy-five percent of the frame in {argument name=\"pose\" default=\"a dynamic crouch\"}, with {argument name=\"hair\" default=\"spiky dark hair\"} and {argument name=\"expression\" default=\"an asymmetrical grin\"}. Oversized rounded cranium, a short flattened lower face, a narrow jaw, a long thin neck, slightly oversized ears, huge pale oval eyes with tiny off-center pupils, extremely thick horizontal black eyebrows, heavy black upper eyelids, muted mauve under-eye rings, a tiny broad triangular nose, and a wide asymmetrical grin showing individually drawn irregular rectangular teeth, one clearly missing upper tooth, one chipped tooth and deep black gaps. Dress the character in [CLOTHING], simplified into broad graphic shapes with chunky seams, minimal folds and small hand-drawn accessories. Confident black ink contours using thick outer silhouettes, medium-weight facial lines, thin angular hair strands and only a few short scratch marks around the eyes, hair and clothing seams; use flat opaque color fields, one hard-edged cel-shadow shape per form, sparse pencil hatching, subtle ink wobble, slight color misregistration and restrained worn-paper texture. Controlled {argument name=\"color palette\" default=\"muted earth tones\"} palette, keeping every color clearly separated and moderately saturated. Place the character against [BACKGROUND], reduced to large flat shapes, a few loosely drawn environmental details and oversized rough hand-painted lettering reading “[TEXT]”; use an off-center waist-up composition, a slight camera tilt, cropped background typography, loose poster margins and lightly weathered printed edges. 4:5 AR.",
+    "title": "Alternative Graphic Character Illustration",
+    "description": "A stylized, two-dimensional character illustration with exaggerated features and a hard-edged cel-shaded aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401403943_dfgu9g_HOclh6Za0AA6anl.jpg",
+      "https://cms-assets.youmind.com/media/1785401403943_fwvydw_HOcljFybsAAHrK6.jpg",
+      "https://cms-assets.youmind.com/media/1785401403953_pc73j2_HOclkSCbcAA4yl5.jpg",
+      "https://cms-assets.youmind.com/media/1785401405014_fuoir4_HOcllcmb0AADg3Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30286,
+    "content": "A 4-view character reference sheet of a stylish {argument name=\"age\" default=\"20\"}-year-old girl with long wavy {argument name=\"hair color\" default=\"black\"} hair, trendy sunglasses pushed up on her head, wearing a {argument name=\"top color\" default=\"yellow\"} crop top and high-waist jeans, holding a smartphone. 3D animated cartoon",
+    "title": "3D Animated Character Reference Sheet",
+    "description": "A detailed 4-view character reference sheet for a stylish young woman, designed in a 3D animated cartoon style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401410484_b1m7ch_HOchD-ObUAAHPUf.jpg",
+      "https://cms-assets.youmind.com/media/1785401410479_nyvufq_HOchEL-bwAAJ1v2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30228,
+    "content": "Use my picture reference for the exact face, hairstyle, bangs, facial proportions, skin tone, body posture, and overall silhouette accuracy. Maintain high identity consistency from the reference image.\n\ncinematic portrait of a subjek standing alone in a dark exhibition room, She wearing {argument name=\"shirt style\" default=\"vintage white shirt\"} combined with {argument name=\"outer style\" default=\"pink outer\"}, with black vintage material skirt , minimal make up front-profile pose with body facing camera , relaxed posture, one shoulder slightly lowered, hands adjust hair  calm mysterious expression, intellectual and elegant aura, positioned in the lower center of frame, surrounded by darkness with a single dramatic diagonal spotlight cutting across the scene from top right to bottom left, half of her body illuminated while the rest fades into shadow, {argument name=\"background mural\" default=\"colorful vintage Japanese mural\"} wall behind her with retro cartoon illustrations and traditional art details, cinematic negative space composition, foreground shadows naturally framing the image like torn darkness, moody museum atmosphere, lonely artistic vibes, contemplative mood, realistic photography, subtle film grain, analog texture, muted blacks with vibrant mural accents\n\ncamera angle: eye-level shot, medium-close portrait framing, subject captured from side at approximately 70-degree profile angle, slight distance from subject for environmental storytelling, centered cinematic composition\n\ncamera settings:  cinematic low-light photography, shallow depth of field, realistic shadow falloff, Kodak Portra film color grading\n\nlighting: harsh focused spotlight from upper right creating strong diagonal beam and high contrast shadows, minimal ambient light, deep blacks, soft warm highlight on face and glasses edge\n\nvibes: mysterious, artistic, museum-core aesthetic, intelligent quiet energy, melancholic cinematic atmosphere, indie film still, luxury editorial photography, solitary night mood, understated elegance\n\nstyle: ultra realistic, cinematic photography, analog grain, editorial fashion portrait, natural skin texture, subtle imperfections, realistic color science, masterpiece quality\n\nnegative prompt: anime, smiling, overexposed, extra limbs, bad anatomy, colorful outfit, cyberpunk neon, blurry face, low quality, distorted hands, unrealistic skin, HDR overload, exaggerated makeup, busy composition, duplicate person",
+    "title": "Mysterious Museum Exhibition Portrait",
+    "description": "A complex prompt for a cinematic, low-light portrait in a museum setting. It uses a specific color palette and lighting style to create a moody, intellectual, and solitary atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401358816_5y8pu6_HOcSsMJbUAAS3M0.jpg",
+      "https://cms-assets.youmind.com/media/1785401357600_5hp9db_HOcSsMDbcAAq8oe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30285,
+    "content": "Generate a {argument name=\"aspect ratio\" default=\"9:16 vertical\"} image of a single, full-body oriental mythical character with a visible green fish tail, featuring cinematic live-action realistic quality. Above a quiet lake shrouded in mist, the 500-year-old green fish spirit \"{argument name=\"character name\" default=\"Qingqing\"}\" reveals her human-body fish-tail form. Suspended just an inch above the water, she is cutting through the evil energy approaching the lake with a smooth, restrained {argument name=\"action\" default=\"spinning blade strike\"}.",
+    "title": "Oriental Mythical Fish Spirit",
+    "description": "A cinematic mythical portrait of a fish spirit performing a sword dance on a misty lake, optimized for vertical screens.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401409359_x3so4f_HOcCcrRaoAAlOm5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30270,
+    "content": "Create a breathtaking cinematic fantasy scene on a charming {argument name=\"setting\" default=\"European street\"} just after sunset during a gentle rain. A {argument name=\"subject\" default=\"beautiful young woman\"} wearing an elegant long coat and flowing dress slowly opens a classic {argument name=\"object\" default=\"black umbrella\"}. Instead of ordinary fabric, the inside of the umbrella reveals an entire living universe filled with magnificent spiral galaxies, glowing nebulae, colorful planets, distant moons, comets, constellations, and brilliant stars stretching infinitely overhead.\n\nAs she gazes upward in quiet wonder, tiny stars begin falling from the umbrella like delicate raindrops, glowing softly before disappearing into the wet cobblestone street. Every raindrop reflects miniature galaxies, while the puddles mirror the entire universe above. Soft golden street lamps blend beautifully with the cool blue, violet, turquoise, and magenta light radiating from the cosmic umbrella, creating a magical harmony between reality and space.\n\nAround her, historic European architecture, flower-filled balconies, vintage cafés, and glowing windows create a timeless atmosphere. A few curious birds fly through the cosmic sky inside the umbrella while gentle mist drifts across the street. The rain remains soft and elegant, with sparkling droplets suspended in the air. Rich reflections cover the wet pavement, enhancing the dreamlike lighting.\n\nThe composition should feel peaceful, emotional, and impossible yet completely believable. Hyper-realistic, cinematic masterpiece, impossible realism, volumetric lighting, god rays, atmospheric perspective, ultra-detailed textures, HDR, 8K, Unreal Engine quality, award-winning fantasy photography, magical realism, National Geographic meets fantasy cinema, dramatic color contrast, no text, no logos, no watermark, vertical 4:5 composition.",
+    "title": "Cosmic Universe Umbrella Fantasy Scene",
+    "description": "A breathtaking cinematic prompt for creating a magical scene where a woman's umbrella reveals a living universe, complete with spiral galaxies and falling stars on a rainy European street.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401391171_ntftn8_HObwXfHaMAAB-SH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30316,
+    "content": "Goal: Create a black-and-white vertical manga page about an absurd office emergency involving a tiny hamster employee and a confused young salaryman.\n\nCanvas: Tall vertical manga page in grayscale, about 2:3 aspect ratio, with thick black outer border and four stacked horizontal panels separated by bold gutters.\n\nVisual style: Detailed Japanese seinen manga line art, screentone shading, clean office perspective, expressive faces, dramatic speed lines and jagged speech balloons. High contrast in the final panel. No color.\n\nSetting: A modern open-plan Japanese office with rows of desks, desktop monitors, keyboards, binders, shelves, partitions, windows, fluorescent corporate atmosphere, and paperwork. The hamster has a miniature office setup on the desk.\n\nMain subjects: Use exactly three recurring characters: 1) a young Japanese male office worker in a dark suit, white shirt, striped tie, short black hair, seated at a large desk with a desktop computer; 2) a small fluffy hamster, cute but serious, seated in a tiny office chair at a miniature desk with tiny monitor, keyboard, paperwork, and office supplies; 3) an angry middle-aged male boss in a suit and tie, glasses, stern face, seated or standing at a rear desk. The young worker is {argument name=\"character name\" default=\"a young Japanese salaryman\"}; the hamster is {argument name=\"hamster role\" default=\"a tiny hamster office worker\"}; the boss is {argument name=\"boss role\" default=\"an angry middle-aged department manager\"}.\n\nPanel layout and action, exactly 4 panels:\n1. Panel 1, calm establishing shot: the young worker sits at the right foreground typing at his computer, looking mildly concerned toward the hamster on the left foreground. The hamster sits at its tiny chair and miniature desk on top of the main desk. The boss sits in the background behind them, looking annoyed at his monitor. Office binders stand at the far right edge.\n2. Panel 2, sudden command: the boss in the background explodes with anger, shouting from a jagged speech balloon with dramatic burst lines. The young worker recoils in surprise, mouth open and sweat drop, hands near the keyboard. The hamster looks up from its mini desk. Add small handwritten sound effects near the hamster and worker. Large Japanese text in the jagged balloon: 「今すぐヤ〇トの集荷呼べ！！今日中！！熊本に支援物資を送るから！！」. Add sound effect text 「びくっ」 near the startled reactions.\n3. Panel 3, explanation and escalation: the boss leans forward screaming with a huge jagged balloon on the left reading 「はぁ!?」. The young worker turns back anxiously toward the boss, sweating, with a rounded speech balloon on the right saying 「く、熊本ですか……？配送ストップしてると思いますが……」. The hamster types quickly at its tiny keyboard, with a rounded speech balloon saying 「はい、どの配送会社も熊本への配送は全域ストップしてます」 and small typing sound effect 「カタカタカタ」.\n4. Panel 4, bleak punchline: the background becomes mostly black with heavy shadows. A wall clock near the top center shows about 6:30. The young worker is on the right, pale and exhausted, blank white eyes, sweat drops, expression of helpless dread. The hamster is on the left behind its tiny keyboard, also with blank white eyes, paws resting on the desk. A huge jagged speech balloon at upper left reads: 「そんなの無理を通してこい！！話せばどっかしら受け取ってくれるだろ！！片っ端から当たれ！！」. The final mood is deadpan horror and workplace absurdity.\n\nText constraints: Preserve the Japanese dialogue exactly as shown above. Use bold hand-lettered manga lettering. Keep the censored company reference as 「ヤ〇ト」, not a real brand. Do not add extra captions, logos, watermarks, or page numbers.\n\nComposition constraints: The page must contain exactly four panels, exactly three recurring characters, one miniature hamster workstation, one normal workstation for the young worker, and one wall clock visible only in the final panel. Emphasize the contrast between the cute hamster and the grim, overworked office drama.",
+    "title": "Hamster Office Manga Emergency",
+    "description": "A four-panel black-and-white manga page showing a tiny hamster office worker and salaryman facing an absurd delivery crisis at work.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401433114_kgu9bn_HObt4gIbIAErPwH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30322,
+    "content": "Create a dark, cinematic medieval battlefield panorama in ultra-wide 16:9 format. The scene shows a vast army of {argument name=\"army size\" default=\"thousands of armored soldiers\"} spread across a muddy, trampled plain under heavy storm clouds. Viewpoint is from a slightly elevated hill behind the front ranks, looking out over dense formations of infantry, cavalry, pikes, spears, shields, and banners stretching toward a distant walled city on the horizon. In the foreground, place armored medieval soldiers with steel helmets, chainmail, round shields, polearms, and worn cloaks, their backs and profiles visible as they descend into battle. Include exactly 5 prominent foreground banners: 1 large torn crimson standard on the far left, 1 blue-and-white flag below it, 1 green-and-white flag near the left-center, 1 red battle flag in the mid-left distance, and 1 blue-and-white cross flag near the center-left. The middle ground should be packed with marching formations, raised spears, scattered cavalry groups, smoke plumes, and small fires. In the far distance, show a fortified city or castle silhouette with towers on a ridge, partially obscured by mist and battlefield smoke. Use a grim desaturated color palette of {argument name=\"color palette\" default=\"cold grays, muddy browns, muted steel, and faded crimson\"}, with dramatic overcast lighting, volumetric haze, rain-darkened earth, and a brutal historical war atmosphere. Style should be realistic dark fantasy concept art, highly detailed, gritty, epic scale, no modern objects, no text, no watermark.",
+    "title": "Epic Medieval Battlefield Panorama",
+    "description": "A cinematic dark fantasy prompt for generating a vast medieval army advancing across a stormy battlefield toward a distant fortified city.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401437071_s4c5b9_HOa9V80asAAsGhm.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30252,
+    "content": "Create a direct contrast between traditional pencil sketches and high-purity digital lighting effects. * Aggressive graphite cross-hatching, smudged charcoal Skin, fabric, and armor are all shaped using visible cross-hatching, graphite smudges, and charcoal smudges; the rough texture of the paper is preserved, and no smooth shading is applied. * Pure white negative space, cool-gray monochrome base Keep the background clean and pure white, with the subject rendered in cool gray and blue-gray tones; the more white space left, the more the line art and modeling will resemble a high-end RPG art book. * blinding flat amber glow, unblended digital overlay Allow the amber glow to appear only suddenly in the form of cracks, particles, and light sources, with hard edges and pure color; avoid soft gradients—the clash between cool gray and golden light is what makes the composition truly impactful. Create a completely original ultra-premium character concept art illustration with a newly invented theme: \"The Amber-Bound Eidolon,\" a powerful, athletic female phantom guardian holding a vintage glass astrolabe filled with glowing golden moths, with her lower body dissolving into smudged charcoal and glowing golden sand. The subject and lore must be fully original, but the visual style must maintain 100% exact fidelity to high-end RPG tabletop character design sheets, isolated on a pure white background. The absolute highest priority is the extreme visual collision between raw, dry, cool-grey pencil sketching (graphite hatching) and blinding digital luminescence. No environment, no readable text, no logo. Style direction: This is the absolute priority. Fully recreate the exact image-family style: premium fantasy character concept art isolated on a stark white negative-space background, heavily emphasizing \"Graphite Hatching\" and \"Smudged Charcoal\" effects. All shadow areas on the female character's skin, armor, and clothing must feature highly visible, aggressive pencil cross-hatching. The illustration must feel like a master-level traditional graphite drawing on textured paper that has been violently interrupted by blazing, flat digital colors. The contrast between the extremely dry, cool-grey pencil rendering and the piercing, neon-bright digital amber glow is the core of the image. Core composition: Use a tall vertical composition focused entirely on a single female character floating in a void of pure white paper space. The figure is posed dynamically: one arm is raised, holding a heavy, dangling, brilliantly glowing glass astrolabe. Her upper torso is muscular and solidly drawn, while from the waist down, her draped clothing and legs completely unravel and disintegrate into rising, stylized smoke. This smoke must look like aggressive charcoal smudging mixed with glowing, particle-like golden sand fading into the white background. Theme & Character design: Design the Amber-Bound Eidolon: She must have a strong, healthy Western athletic female physique with firm, defined muscle lines (strong shoulders, sculpted core), projecting fierce dignity and power—absolutely avoiding any generic, soft, or \"internet-celebrity\" facial features. Her body is rendered almost entirely in cool slate-grey and ash-blue pencil tones. Deep, piercing, blindingly bright cracks of liquid amber run across her athletic chest, shoulders, and arms. She wears tattered waist wrappings and extremely intricate, aged bronze bracers featuring razor-sharp pencil filigree. Prop design: Hanging from her hand is a massive, ornate vintage glass astrolabe or lantern. Its interior blazes with a blinding, intensely hot neon-gold and pure yellow light, swarming with magical glowing moths. Wisps of golden heat drift upward from it, casting a harsh, luminous orange-gold rim-light that cuts aggressively across the dry graphite textures of her arm and athletic torso. Texture and finish: The surface tactility is everything. The white background must be pure and clean. The character's matte surfaces must show visible paper grain, dry graphite drag, and raw hatching lines. The glowing liquid amber cracks and the astrolabe fire must look like pure, unblended, intensely bright digital overlays that pop aggressively against the desaturated sketch. Mood: Epic, raw, aggressive contrast, dark fantasy, powerful feminine strength, imposing, highly detailed studio-grade sketch. Rendering style: ultra-premium RPG character concept art, isolated on pure white background, extreme graphite cross-hatching, smudged charcoal smoke, blinding digital amber glow, stark cool-grey vs neon-gold contrast, intricate bronze filigree, athletic female warrior, lower body dissolving into pencil strokes and golden sand, world-class illustration, 8k. Negative prompt: background environment, scenery, readable text, logo, photorealism, 3D render, smooth airbrushing, plastic texture, generic beauty face, weak anatomy, soft anime girl, full solid legs, flat cartoon shading, muddy colors, soft glowing gradients.",
+    "title": "Pencil Sketch RPG Character Concept",
+    "description": "A stylized prompt blending traditional graphite sketching with neon digital effects for high-end RPG character design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401375132_gt832x_HOa27z4aIAAm_4W.jpg",
+      "https://cms-assets.youmind.com/media/1785401375239_7gjcpk_HOa27z5bgAARRUU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30305,
+    "content": "Create a vertical monochrome black-and-white fantasy portrait of {argument name=\"character name\" default=\"a young female knight\"} in a refined semi-realistic anime style. Show her from the waist up in a three-quarter back pose, turning her head over her shoulder to look directly at the viewer with large expressive eyes, delicate lips, pale luminous skin, and a calm serious expression. She has {argument name=\"hair color\" default=\"jet-black\"} hair tied in one high ponytail, with long flowing strands and wispy bangs blown by the wind. She wears exactly 5 visible armor and clothing elements: one glossy engraved breastplate, one rounded engraved shoulder pauldron with rivets, one chainmail sleeve, one dark cloak trailing behind her, and one armored glove gripping the weapon. Add exactly 1 vertical sword beside her body, with a dark wrapped grip, crossguard, and ornate pommel. The armor should be highly polished with floral filigree engravings, bright highlights, tiny specks of light, and realistic metallic reflections. Set the scene in a windswept field of soft grasses with exactly 1 blurred medieval castle on a hill in the distant background, under a cloudy bright sky. Use shallow depth of field, cinematic rim lighting from the upper right, soft atmospheric haze, drifting white particles, elegant high-detail linework, smooth grayscale gradients, dramatic contrast, and no color at all. No text, no watermark, no extra characters, no modern objects.",
+    "title": "Monochrome Female Knight Portrait",
+    "description": "A cinematic black-and-white fantasy portrait prompt for generating an armored anime-style female knight with a sword and distant castle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401426166_ty4qes_HOaxhYbbMAA3TIm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30284,
+    "content": "Create a premium cinematic character bible sheet for a {argument name=\"occupation\" default=\"Wing Chun master\"} named {argument name=\"name\" default=\"IP MAN\"}. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, hair, skin tone and outfit. Do not change his appearance.",
+    "title": "Cinematic Character Bible for Wing Chun Master",
+    "description": "A detailed prompt for generating a professional character sheet of a martial arts master, focusing on facial consistency and traditional attire based on a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401406277_5m6kyh_HOZStxKXAAAMhV-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30170,
+    "content": "Create a high-resolution monochrome anime-style illustration of one elegant young businesswoman in a modern city business district. She has {argument name=\"hair color\" default=\"dark shoulder-length wavy hair\"}, soft realistic anime facial features, large reflective eyes, a slight confident smile, and a small earring visible on one ear. She is shown from the waist up in a three-quarter pose, looking back toward the viewer over her shoulder while walking through a busy downtown street. She wears {argument name=\"outfit\" default=\"a black tailored business suit over a white collared shirt\"} and holds exactly one structured black leather briefcase with a handle and metal clasp in both hands at the lower left foreground. The scene includes exactly one main subject, exactly one briefcase, and 12 blurred background commuters in dark business suits walking away or crossing behind her. Set the background in {argument name=\"location\" default=\"a canyon of tall glass-and-steel office towers\"}, with strong morning or late-afternoon backlight streaming between skyscrapers, glossy pavement reflections, deep shadows, rim lighting on her hair, and cinematic depth of field. Use pure black-and-white grayscale only, no color, no text, no logo, no watermark. The style should combine polished Japanese manga character rendering with semi-realistic urban lighting, delicate linework, soft gradients, and a dramatic business-city atmosphere.",
+    "title": "Monochrome Anime Businesswoman City Portrait",
+    "description": "A black-and-white cinematic anime portrait of a suited businesswoman holding a briefcase in a bustling modern office district.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401436059_flq9gz_HOX3v2tbcAAyoE0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30113,
+    "content": "A raw, expressive ink and watercolor portrait of a man (image Uploaded), in three-quarter view, holding a delicate red-orange butterfly on his outstretched hand; frenetic, gestural black ink lines, splatters and drips form rough cross-hatching and scribbled contours, contrasted with warm washes of brown and burnt sienna on skin and hair, the butterfly rendered with vivid red and subtle white highlights for fragile contrast; stark white negative background, high-contrast lighting, tactile mixed-media texture, emotional, contemplative mood, loose sketchy strokes, dynamic energy, fine detail around face and hand, atmospheric, minimalist composition, painterly yet graphic, evocative and melancholic, --ar 9:16",
+    "title": "Ink and Watercolor Butterfly Portrait",
+    "description": "An expressive mixed-media style prompt for GPT Image 2 creating an ink and watercolor portrait of a man holding a delicate butterfly with dynamic, sketchy energy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401372094_m6pxnh_HOXun9NbAAAwri_.jpg"
     ],
     "needReferenceImages": true
   },
@@ -29,6 +178,26 @@
       "https://cms-assets.youmind.com/media/1785314983314_yuuoft_HOXNoumbcAAirCr.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 30292,
+    "content": "Using the provided reference image as the only source, transform the photo into a vibrant hand-painted storybook illustration while preserving the exact composition, subject identity, pose, outfit, facial proportions, hairstyle, and Times Square setting. Keep the central woman in the same position and preserve the shirt graphic text exactly as {argument name=\"shirt text\" default=\"I ♥ NY\"}.\n\nStyle: Convert the scene into a whimsical gouache/acrylic children’s book painting with visible brush texture, softened facial details, warm rosy cheeks, simplified shapes, saturated colors, playful outlines, and a cheerful nighttime city glow. Make the lighting feel bright, colorful, and magical rather than photographic.\n\nBackground transformation: Repaint the Times Square billboards and street details as hand-lettered illustrated signs, keeping the dense city-canyon composition but replacing realistic ads with playful fictional signage. Include exactly these prominent readable sign texts: 1) “THE GREAT GATSBY”, 2) “BROADWAY”, 3) “SAMSUNG”, 4) “CocaCola”, 5) “TIMES SQUARE”, 6) “LITTLE HOPP”, 7) “hey hey hey”, 8) “LIVE LOVE DREAM”, 9) “I ♥ SOCCER”, 10) “wear channel outdoor”, 11) “LET YOUR LIGHT SHINE”, and 12) “FUN”. Add simplified illustrated pedestrians, yellow taxis, street carts, barricades, and colorful pavement reflections matching the original layout.\n\nAdded decorative elements: Overlay playful white doodles and small graphic marks across the scene, including stars, hearts, squiggles, flower shapes, dots, and motion lines, especially near the lower corners and on the billboards.\n\nConstraints: Use no other reference images, do not change the woman’s pose or outfit, do not alter the overall camera angle or framing, keep all original major objects in their approximate positions, avoid photorealism, and make the final image look like a charming painted travel-storybook poster.",
+    "title": "Storybook Times Square Photo Transformation",
+    "description": "Transforms a Times Square portrait into a vibrant hand-painted storybook illustration while preserving the original subject and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401413784_ort9pc_HOXDK5taIAA0eKq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30140,
+    "content": "\"A realistic full-body photograph of a {argument name=\"subject\" default=\"young South Asian woman\"} leaning casually against a white wall. She has dark brown hair tied in a low messy bun with soft strands framing her face, warm medium skin tone, and a bright cheerful smile. She is wearing {argument name=\"clothing\" default=\"an oversized black button-down shirt with sleeves rolled up over a plain white crew-neck t-shirt, paired with black skinny jeans\"}. Her right hand is raised making the ‘rock on’ hand gesture (index and pinky fingers extended), left hand resting behind her head. Soft warm lighting with out-of-focus bokeh lights visible in a dark hallway on the right. Clean studio composition, high detail, photorealistic.\n\nTo her left on the white wall is a large black-and-white line-art cartoon illustration of the same woman in a matching pose: right hand making the ‘rock on’ gesture, smiling, with the bold {argument name=\"text\" default=\"handwritten text “ROCK STAR!”\"} above her head, plus several star shapes and sparkles around her. The cartoon figure has the same hairstyle, open shirt over t-shirt, and jeans, drawn in a clean modern cartoon style with bold outlines and motion lines.\n\nVertical portrait orientation, natural colors, sharp focus on the real woman, artistic contrast between photorealism and line art.\"",
+    "title": "Real Woman and Line Art Cartoon Comparison",
+    "description": "A unique creative prompt that places a realistic photo of a woman next to a matching line-art cartoon illustration of herself on a wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401355162_il7bph_HOW3mE-aQAABJQT.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 30185,
@@ -49,6 +218,16 @@
       "https://cms-assets.youmind.com/media/1785315029941_yl52vm_HOW70GXXMAApbg-.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 30288,
+    "content": "Create a premium, modern high-fashion CHARACTER & VEHICLE CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background, following this exact structured composition and visual aesthetic:\n\n[STYLE]: highly polished 2.5D cel-shaded",
+    "title": "Modern Fashion Character Concept Art",
+    "description": "A high-fashion concept art sheet for characters and vehicles, utilizing a polished 2.5D cel-shaded style on a white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785401411619_e2mx99_HOWLacXbQAARPd-.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 30164,
@@ -672,18 +851,6 @@
       "https://cms-assets.youmind.com/media/1784968617648_w8aebv_HN-1VgnawAAqsz9.jpg"
     ],
     "needReferenceImages": false
-  },
-  {
-    "id": 29913,
-    "content": "Use the uploaded character reference image as the strict identity and outfit reference.\n\nPreserve the reference character’s:\n- face identity\n- facial proportions\n- eye shape\n- nose\n- lips\n- skin tone\n- hairstyle\n- hair color\n- visible hair accessories\n- overall recognizable vibe\n- outfit and styling shown in the reference image\n\nDo not hardcode any specific character traits that are not present in the uploaded reference.\nAll identity, hairstyle, accessories, and clothing details must be inferred directly from the uploaded reference image.\n\nCreate a high-quality mixed-style vertical portrait showing:\n1. a realistic full-body version of the uploaded character/person\n2. a black hand-drawn doodle-shadow version of the same character/person on the wall beside them\n\nCore concept:\nThe real person and their doodle-shadow are doing a playful mischievous pose together.\nThe real person performs a cute realistic version of the pose, while the doodle-shadow performs a much more exaggerated, chaotic, cartoonish version of the same pose idea.\nThe mood should feel {argument name=\"mood\" default=\"cute, playful, mischievous, stylish, funny, and social-media-friendly\"}.\n\nReal person:\n- Must remain realistic and photogenic\n- Must wear the same outfit style and key visible details from the uploaded reference image\n- Do not replace the reference styling with unrelated fashion\n- Expression should be cute, slightly confused, mildly embarrassed, playful, as if thinking: “Why am I doing this with my shadow?”\n- The real person should not stand stiffly\n- The real person should actively participate in the pose, but in a natural realistic way\n\nDoodle-shadow:\n- Must be a black hand-drawn sketch version of the same person, drawn directly on the wall\n- Not a realistic second person\n- Not a normal physical shadow\n- Not a full-color anime character\n- Black sketch line-art only\n- Should resemble the person through hairstyle silhouette, accessories, outfit silhouette, and pose structure\n- The doodle-shadow should look more energetic, sillier, and more chaotic than the real person\n- Add manga-like motion lines, hearts, stars, sparkles, and comic marks around the doodle if helpful\n\nRandom mischievous pose rule:\nThe pose must NOT be fixed.\n\nFor each generation, invent a new playful mischievous pose for both the real person and the doodle-shadow.\nThe real person and the doodle-shadow should share the same general pose idea, but they do not need to match perfectly.\nThe real person performs a cute realistic version.\nThe doodle-shadow performs a much more exaggerated, chaotic, cartoonish version.\n\nDo not repeatedly use pointing poses.\nDo not repeatedly use finger-gun poses.\nDo not repeatedly use the same standing pose.\nDo not always make both figures simply point at each other.\n\nCreate a different mischievous pose each time.\n\nPossible pose directions are loose inspiration only, not a fixed menu:\n- playful idol pose\n- silly dance pose\n- leaning sideways with one arm curved overhead",
-    "title": "Realistic Character and Doodle Shadow",
-    "description": "A sophisticated prompt for generating a vertical portrait of a realistic character alongside a hand-drawn doodle shadow performing exaggerated, mischievous poses while maintaining identity consistency.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1785314994178_qv2v3j_HN-02VYbAAAzoT5.jpg",
-      "https://cms-assets.youmind.com/media/1785314994162_menbtn_HN-02W4agAA2Fmr.jpg",
-      "https://cms-assets.youmind.com/media/1785314994124_eno147_HN-02VrbAAAihmH.jpg"
-    ],
-    "needReferenceImages": true
   },
   {
     "id": 29618,
