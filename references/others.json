@@ -1,5 +1,36 @@
 [
   {
+    "id": 30528,
+    "content": "Create a photorealistic cinematic street portrait in a busy Japanese nightlife district at dusk. The frame is a wide 16:9 landscape image with the subject occupying the right half, tightly cropped so only the right side of her face, neck, shoulder, and hair are visible while the left half opens into a deep city street perspective. Show a young {argument name=\"character ethnicity\" default=\"East Asian\"} woman with {argument name=\"hair color\" default=\"dark brown\"} shoulder-length slightly wind-tousled hair, soft natural makeup, closed or downcast eyes, relaxed lips, a delicate dangling teardrop earring, pale sunglasses resting on top of her head, and a dark leather jacket catching magenta neon reflections. She should look calm, introspective, and stylish, facing slightly downward and away from the camera. The background is a dense urban street lined with tall buildings and many vertical illuminated Japanese signs, including red, orange, green, white, and blue kanji/kana restaurant and entertainment signs; keep the signage authentic-looking but not the main focus. Add a large bright pink-red marquee or lightbox glow behind her head on the upper right, rows of small bulbs along a sign edge, and a cloudy gray evening sky visible above the street. Use shallow depth of field with the woman sharply detailed and the street signs slightly softened, realistic skin texture, natural lens perspective, rich neon color contrast, moody overcast ambient light, high dynamic range, and documentary fashion-photography realism. No watermark, no extra people in the foreground, no cartoon or illustration style.",
+    "title": "Neon Tokyo Street Portrait",
+    "description": "A cinematic photorealistic portrait prompt for creating a stylish woman against glowing Japanese nightlife signage at dusk.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785573894648_gceo4h_HOmXtsEaoAAGQYp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30535,
+    "content": "Create a luminous vertical oil painting in a romantic impressionist / luminist style, full-body portrait of a beautiful adult woman walking barefoot through a sunlit white Mediterranean seaside veranda. She has {argument name=\"hair color\" default=\"dark brown\"} long voluminous curly hair, warm bronzed skin, delicate facial features, and a calm direct gaze. She wears a sheer gauzy white wrap dress tied at one hip, with layered translucent fabric, a high slit revealing one leg, bare shoulders, subtle jewelry including small hoop earrings, a pendant necklace, and bracelets. The pose is elegant and centered, one foot stepping forward, arms relaxed at her sides. Surround her with flowing white curtains catching golden sunlight, textured white stucco walls, a stone floor with bright reflected patches, and an open view of a sparkling blue sea on the right. Include exactly one woven basket of pale white and light blue flowers on a ledge to the left. Use warm golden afternoon light, shimmering highlights, thick expressive brushstrokes, soft edges, painterly fabric texture, glowing skin reflections, and an airy coastal atmosphere. No text, no watermark, no modern objects, no extra people.",
+    "title": "Luminous Seaside Woman Portrait",
+    "description": "Generates a romantic luminist oil-painting style portrait of an elegant woman in a sheer white dress on a sunlit Mediterranean veranda.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785573900862_mi51ab_HOkwRL9W4AEq3Ca.jpg",
+      "https://cms-assets.youmind.com/media/1785573900844_aumrwr_HOkwRxFW8AAtsSS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30523,
+    "content": "Create a breathtaking photorealistic wide-angle scene inside a colossal natural ice cave, viewed from ground level looking down a snowy tunnel toward a glowing opening in the distance. The cave walls and ceiling are translucent layered glacier ice in rich cyan, turquoise, teal, and deep blue, with sweeping curved striations, frozen ripples, glossy wet surfaces, icicles, embedded bubbles, and sparkling frost particles suspended in the air. Bright white sunlight pours through an oval skylight high in the upper right, forming visible shafts of light and lens-like glints across the icy ceiling, while a second intense glow illuminates the far end of the tunnel. The foreground is a rough snow-covered floor with scattered ice boulders and chunks on both sides, crisp footprints leading inward, and reflective patches of frozen surface. Place exactly one tiny human explorer near the center bottom of the composition, wearing {argument name=\"jacket color\" default=\"red\"} outerwear, dark pants, a backpack, and holding trekking poles, emphasizing the immense scale of the cave. Use a {argument name=\"camera perspective\" default=\"ultra wide angle low perspective\"}, cinematic adventure photography style, high dynamic range, sharp detail, cool blue color grading, realistic volumetric light, natural textures, and awe-inspiring arctic atmosphere. No text, no watermark, no extra people, no animals, no artificial structures.",
+    "title": "Explorer in a Vast Blue Ice Cave",
+    "description": "A cinematic photorealistic prompt for generating an immense glowing glacier cave with a lone explorer for scale.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785573891786_kdsuib_HOkOLkDWUAAcRJO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 30423,
     "content": "Create a cinematic retro-futuristic sci-fi film still of {argument name=\"character description\" default=\"a young blonde woman with shoulder-length softly waved hair, pale skin, and blue eyes\"} seated at the command console of a spaceship cockpit. She wears {argument name=\"uniform description\" default=\"a fitted black high-collar space officer uniform with structured shoulder panels, ribbed harness straps, a wide belt buckle, and subtle silver insignia patches on the shoulders\"}. Frame her from the waist up, centered slightly left, with both hands resting on a glowing orange holographic control panel in the foreground. Her expression is serious, calm, and focused, gazing off to the left rather than at the camera. The background is a dim starship bridge with exactly three main cockpit window areas visible: one large dark window behind her right side, one angled window behind her left side, and one partial window at the far left, showing deep space with small blue stars. Surround her with many softly blurred illuminated control panels, buttons, and rectangular displays in warm amber, red, and cool blue light. Use {argument name=\"visual style\" default=\"1970s analog sci-fi cinema, practical set design, soft film grain, muted colors, shallow depth of field, slightly dreamy lens softness\"}. Lighting should be low-key and atmospheric, with warm console glow on her hands and face, cool blue rim light from the windows, and a dark green-black cockpit ambiance. Vertical portrait composition, 2:3 aspect ratio, realistic photography, vintage film still quality, no text, no watermark, no modern touchscreen minimalism, no cartoon style.",
     "title": "Retro Sci-Fi Starship Officer",
@@ -9,6 +40,26 @@
       "https://cms-assets.youmind.com/media/1785487802638_d8mx2c_HOhO1ZmW0AAmW7j.jpg",
       "https://cms-assets.youmind.com/media/1785487802576_q898t1_HOhO_40WIAAw87g.jpg",
       "https://cms-assets.youmind.com/media/1785487804087_iuf2ku_HOhO_40XYAADSib.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30470,
+    "content": "{argument name=\"colors\" default=\"olive green, lemon yellow, cream white\"}",
+    "title": "Tritone Color Palette Design",
+    "description": "A simple but effective prompt for generating images with a specific three-tone color scheme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785573844795_wpx6yl_HOhFUlmbYAAPyIx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30525,
+    "content": "Create a photorealistic cinematic close-up portrait of a menacing adult man, shot from a high overhead angle looking down at him as he glares upward directly into the camera. He has {argument name=\"hair color\" default=\"dark brown almost black\"} hair in a blunt short fringe with a sharp center part, shaved or tightly faded sides, intense pale gray-green eyes, heavy brow, sweaty textured skin, stubble, and a fresh diagonal scar above one eyebrow. His lower face is covered by a rugged brown leather cage muzzle mask made from horizontal and vertical leather straps, secured with small dark metal rivets and buckles; the mask should feel handmade, worn, and slightly grimy. He wears a dark distressed denim or canvas jacket with broad shoulders fading into shadow. The mood is hostile, claustrophobic, and gritty, like a psychological thriller or dystopian character portrait. Use {argument name=\"lighting style\" default=\"low-key dramatic overhead lighting\"}, strong contrast, dark vignette edges, shallow depth of field, warm brown and charcoal color grading, sharp focus on the eyes and mask, blurred dark industrial floor background, realistic skin pores, hair strands, leather grain, metal rivets, sweat, dirt, and cinematic lens distortion. Compose tightly with the top of the head near the upper edge, eyes centered, shoulders cropped, and no text, no watermark, no extra characters.",
+    "title": "Menacing Leather Muzzle Portrait",
+    "description": "A cinematic photorealistic thriller portrait of a hostile man glaring upward while wearing a rugged leather cage muzzle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1785573892948_xumhj4_HOgWwSkWkAAF-En.jpg"
     ],
     "needReferenceImages": true
   },
