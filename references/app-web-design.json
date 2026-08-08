@@ -10,6 +10,83 @@
     "needReferenceImages": true
   },
   {
+    "id": 30575,
+    "content": "A surreal conceptual composition in {argument name=\"color tone\" default=\"monochromatic deep red tones\"}, featuring {argument name=\"subject\" default=\"[MAIN SUBJECT]\"}, isolated in a clean minimalist studio environment. Floating elements, sculptural composition, dramatic negative space, soft cinematic lighting with subtle shadows, ultra-smooth gradients, matte and glossy texture contrast, modern editorial aesthetic, hyper-detailed, high contrast, dreamlike atmosphere, precise geometric balance, 8k resolution --ar 4:5 --raw --sref 2841943223 --profile 2iqiaiu --stylize 400 --v 7.0",
+    "title": "Monochromatic Red Surreal Conceptual Art",
+    "description": "A minimalist and sculptural conceptual art piece featuring a monochromatic deep red palette with dramatic negative space.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786090894935_v6ugia_HPFm7v9bwAAI0Gd.jpg",
+      "https://cms-assets.youmind.com/media/1786090894999_mkthtu_HPFm7wJaIAAzLHG.jpg",
+      "https://cms-assets.youmind.com/media/1786090895585_iv9u1w_HPFm7wMasAAstc-.jpg",
+      "https://cms-assets.youmind.com/media/1786090896391_p0qnoz_HPFm7xmbsAAslPy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30687,
+    "content": "Create a minimalist botanical silhouette illustration on a vertical 2:3 canvas. Use a deep nearly black teal background with a tall rounded-arch window shape centered in the composition, glowing warm golden yellow like sunset light. In front of the arch, place exactly 3 main lotus-plant silhouettes in pure black: 1 large wavy-edged lotus leaf entering from the upper left with a long thin curved stem sweeping downward across the arch, 1 large wavy lotus leaf near the bottom center-left with its stem dropping out of frame, and 1 closed lotus bud on the right side attached to a tall curved stem that crosses another stem near the lower right. Add exactly 1 small dragonfly perched delicately on the tip of the lotus bud, shown in black with faint translucent golden wings and fine line details. Keep the composition elegant, flat, high-contrast, and graphic, with smooth vector-like shapes, no text, no border, no watermark, and generous negative space.",
+    "title": "Lotus Silhouette Sunset Arch",
+    "description": "A minimalist high-contrast botanical illustration of black lotus silhouettes and a dragonfly against a glowing golden arched window.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786090977797_v44bh5_HPCmShGaMAEyGx8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30657,
+    "content": "Create a vertical Chinese aesthetic wallpaper in a minimalist poetic silhouette style. Use a 9:16 portrait canvas with a deep midnight navy-blue background, softly textured like a dim interior wall at night. In the exact center, place one tall, narrow, vertical glowing rectangle of warm golden-yellow light, like a paper lantern or illuminated window slit, with softly feathered amber bloom around its edges. In the foreground, render black ink-like silhouettes: slender orchid or wild grass stems rising from the lower left, with long arcing blade leaves crossing the bottom and sweeping upward; include exactly 3 small flower clusters on thin stems in front of the glowing rectangle, each with delicate pointed petals and leaves. On the lower right, place exactly 1 small bird silhouette perched on a curved grass blade, facing left toward the flowers and light. Composition should feel calm, elegant, and asymmetrical, inspired by traditional Chinese ink painting and moonlit garden imagery. Keep all foreground plants and the bird as pure black silhouettes with crisp edges, while the golden rectangle glows softly against the blue. No text, no border, no people, no extra animals, no watermark.",
+    "title": "Chinese Silhouette Lantern Wallpaper",
+    "description": "A vertical Chinese-inspired night wallpaper with orchid silhouettes, a perched bird, and a glowing golden window-like lantern.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786090954557_a0pbd7_HPCeZ9QbsAAS4J6.jpg",
+      "https://cms-assets.youmind.com/media/1786090954594_zn016e_HPCeEPBbEAAZjTB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30576,
+    "content": "A stunning, highly detailed digital art piece featuring a vibrant {argument name=\"butterfly species\" default=\"orange monarch butterfly\"} perched gracefully on a blade of grass. The composition is set against an intricate, shimmering background composed of mosaic-like silver and gold triangular shards, creating a brilliant reflective effect. Scattered throughout the foreground are delicate purple crocus flowers and slender green grass stalks, all adorned with crystal-clear, realistic dew drops that catch the light. The overall atmosphere is ethereal, serene, and magical, emphasizing a high-contrast aesthetic where the warm tones of the butterfly pop against the cool, fractured metallic backdrop. The style is a blend of mosaic art and macro photography, with precise light refraction through the water droplets. The lighting is bright and crisp, highlighting the textures of the butterfly's wings, the fine blades of grass, and the sharp facets of the background, creating a sense of depth and crystalline elegance, 8k resolution, artistic masterpiece\n\nA faceted, low-poly style {argument name=\"object\" default=\"white teacup\"} filled with steaming dark coffee sits centrally amidst a lush, triangular-geometric green grass field dotted with small, crystalline white flowers and sparkling dew drops. Behind the cup, a striking background mural displays a swirling, mosaic-inspired golden sun with textured, shimmering gold leaf details radiating outwards in concentric patterns against a stark white and silver geometric backdrop. The lighting is ethereal and magical, casting a bright, dreamlike glow over the scene. The entire composition utilizes sharp, clean polygon art aesthetics, blending nature with high-end digital design. Intricate light particles dance above the steam, reflecting a sense of tranquility and luxury. High contrast, vibrant color palette of {argument name=\"colors\" default=\"gold, deep forest green, and crisp white\"}, 8k resolution, stylized digital illustration with sharp edges and faceted textures, conceptual art masterpiece",
+    "title": "Mosaic Butterfly and Geometric Coffee Art",
+    "description": "A series of artistic prompts for creating highly detailed digital art featuring a monarch butterfly on mosaic shards and a low-poly coffee cup scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786090897494_5h37n0_HPBrhh8XgAA1YHK.jpg",
+      "https://cms-assets.youmind.com/media/1786090897388_frmkrt_HPBrkvYWEAALubo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30616,
+    "content": "[Mode] character_workspace_synthesis\n[Input] 1 reference character image\n[Output] 1 final image only\n\n[Core Binding]\nBind identity to source-character tokens:\n- face topology\n- eye geometry / iris color\n- hair shape / color mapping / accent placement\n- body proportion\n- age read\n- costume mood\n- signature accessories\n- source rendering logic if non-photographic\n\n[Latent Derivation]\nInfer vocation-language from observable signals only:\nchromatic cues, expression tone, styling logic, silhouette character, object affinity, atmospheric read.\nDo not assign a generic real-world office role by default.\nTranslate the observed signals into one character-specific fictional occupation.\nPrefer interpretive divergence across different characters.\n\n[Occupation Synthesis]\nCreate one original job that feels naturally owned by the character.\nThe vocation may be creative, fantastical, artisan, research-based, service-based, archival, atmospheric, or semi-magical, as long as it remains visually legible.\nThe role must feel specific rather than broad.\nExamples of acceptable directionality:\nmemory repairer, dream courier, color researcher, sound archivist, moonlight florist, relic conservator, weather note keeper.\nAvoid overused defaults such as “barista”, “idol”, or “office worker” unless the reference strongly supports them.\n\n[Workspace Assembly]\nConstruct a believable dedicated workplace for that vocation:\nworkbench / desk / storage / tools / display surfaces / task materials / lighting / signage / wall elements / small process artifacts.\nThe environment must communicate the job through object selection and spatial planning.\nInclude traces of ongoing work.\nNot messy-chaotic. Not showroom-sterile.\nThe space should feel functional, inhabited, and tailored to the character.\n\n[Costume Adaptation]\nAllow wardrobe adjustment only as needed to support the fictional job.\nPreserve identity lock while adapting into work-appropriate styling:\napron, coat, gloves, utility accessories, badge, tool belt, or other profession-linked details if relevant.\nDo not erase the source character’s core visual identity.\n\n[Framing]\nCharacter present inside the workspace as main subject.\nEnvironment must remain readable and clearly tied to the vocation.\nSingle character only.\nApprox framing: knees-up to full figure.\nFace visibility priority high.\n\n[Text Budget | optional]\nworkplace name\njob title\nshort copy\nup to 3 micro-profile or service cues\nKeep sparse and readable.\n\n[Result Goal]\nStylish character-workspace reveal image with strong lifestyle, profession, and worldbuilding value.\nThe viewer should feel:\n“this job was designed specifically for this character.”\n\n[Canvas] vertical 3:4",
+    "title": "Character Workspace Generator",
+    "description": "A comprehensive prompt designed to generate a unique, fictional workspace based on a character's reference image, capturing their vocation and personality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786090925357_yt9pow_HPBQCEWagAAWrkr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30611,
+    "content": "[Mode] character_room_synthesis\n[Input] 1 reference character image\n[Output] 1 final image only\n\n[Core Binding]\nBind identity to source-character tokens:\n- face topology\n- eye geometry / iris color\n- hair shape / color mapping / accent placement\n- body proportion\n- age read\n- costume mood\n- signature accessories\n- source rendering logic if non-photographic\n\n[Latent Derivation]\nInfer room-language from observable signals only:\nchromatic cues, expression tone, styling logic, object affinity, atmospheric read.\nTranslate into one owned private room.\nPrefer per-character divergence; avoid generic “cute room” defaults.\n\n[Scene Assembly]\nConstruct a believable inhabited room:\nfurniture + storage + desk/bed/shelf system + lighting + wall elements + hobby artifacts + small daily-use objects.\nThe room must communicate personality through space planning and object selection.\nNot messy-chaotic. Not showroom-sterile.\n\n[Framing]\nCharacter present in-room as main subject.\nEnvironment must remain legible.\nSingle character only.\nApprox framing: knees-up to full figure.\nFace visibility priority high.\n\n[Text Budget | optional]\nroom name\nshort copy\nup to 3 micro-profile items\nKeep sparse and readable.\n\n[Result Goal]\nStylish character-room reveal image with lifestyle and worldbuilding value.\n\n[Canvas] vertical 3:4\n\nAvoid converging on a universal ideal room; let each output reflect a distinct interpretation of the attached character.",
+    "title": "Character-Specific Room Synthesis Prompt",
+    "description": "A sophisticated prompt for GPT Images that generates a personalized private room based on a character's visual identity, mood, and color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786090924285_cikc0p_HPAexswa4AAzQI_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30646,
+    "content": "Theme: {argument name=\"theme\" default=\"8.5 Good Morning Greeting\"} Number: {argument name=\"number\" default=\"8.5\"} Each image has a city element, 10 cities total meaning 10 different images. Each image uses a distinct color palette logic to avoid repetition. Ratio 16:9",
+    "title": "Urban Silhouette Aesthetic Greeting",
+    "description": "A clean silhouette-style prompt logic for creating city-themed greeting cards with numerical elements and coordinated color palettes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786090947858_pv42pb_HO7LnzKa4AAQ4R-.jpg",
+      "https://cms-assets.youmind.com/media/1786090947894_peypwo_HO7LIuSbUAEJVaA.jpg",
+      "https://cms-assets.youmind.com/media/1786090948096_c4efoi_HO7LY2sbAAAkU8P.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30481,
     "content": "Design a brand visual proposal homepage for a beauty brand, themed '{argument name=\"design theme\" default=\"interpreting nighttime skincare as a slow descending blue weather\"}'. The visual serves a fictional skincare brand's Key Visual (KV), avoiding common splashes or large facial models. Instead, it uses a translucent blue essence bottle, soft mist glass countertop, nighttime window view, and a thin film structure unfolding like a weather layer as the main visual. The composition adopts a vertical brand proposal cover feel, with the main product in the center and restrained layer relationships at the top-left and bottom-right, featuring ample white space. The lighting is low-illumination cold blue ambient light with extremely thin white bottle rim lighting, emphasizing glass thickness, liquid refraction, and packaging edges. The color system must include specific values: {argument name=\"color palette\" default=\"Midnight Blue #24364A, Frost Blue #9EB9CA, Bottle Cold White #E8EEF2, Deep Graphite #2F3138, a touch of Moonlight Silver #BDC6CD, very light Grey-Purple #8A8395\"}. Material descriptions focus on {argument name=\"material details\" default=\"glass refraction, soft mist acrylic, liquid suspension feel, packaging box embossing, and silver foil stamped logos\"}. A small amount of dominant Chinese text is needed, including the brand name, a very short brand slogan, one English auxiliary subtitle, and a small function label, with a light, thin, and breathable layout. Suitable for brand KVs, website splash screens, launch event main visuals, and brand case study covers.",
     "title": "Blue Weather Skincare Visual Proposal",
@@ -2112,19 +2189,6 @@
       "https://cms-assets.youmind.com/media/1780911044942_rqpcr2_HKCpUMXa4AAw1vr.jpg",
       "https://cms-assets.youmind.com/media/1780911044951_eq41y7_HKCpVfRaoAAwF0x.jpg",
       "https://cms-assets.youmind.com/media/1780911045643_5adzfj_HKCpWnvbsAAu_2L.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 24111,
-    "content": "Generate a fresh summer handwritten font visual around specific subject content: the background is a large area of theme-derived fresh color schemes or bright color fields. The main text uses a white, slender handwritten font with smooth strokes, long arcs, and wind-like tails; some characters can be interspersed with small English text and decorative lines. The center of the composition is left for the main text to breathe, with light displacement between characters, overall resembling wind, weather, or a lifestyle brand. Colors maintain a high-saturation but clean primary base, bright white text, and a few light-colored thin lines, creating a transparent, brisk, and airy mood. The key is the floating direction of the strokes and the whitespace; do not write it as heavy slogan characters.\n\nText: {argument name=\"text\" default=\"Summer Breeze\"}\nNote: {argument name=\"color scheme\" default=\"white text on black background\"}\nRatio: {argument name=\"ratio\" default=\"16:9\"}",
-    "title": "Summer Breeze Handwritten Typography",
-    "description": "A specialized prompt for generating clean, summer-themed typography visuals with thin handwritten fonts, airy compositions, and fresh color palettes.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1780735269587_t11kmx_HKA5PfubAAAorFh.jpg",
-      "https://cms-assets.youmind.com/media/1780735269555_q5xw4w_HKA5QufbsAAn5qu.jpg",
-      "https://cms-assets.youmind.com/media/1780735269641_0rldv5_HKA5R_ubcAAxTfe.jpg",
-      "https://cms-assets.youmind.com/media/1780735271487_hxjhjy_HKA5TXGawAAdCMX.jpg"
     ],
     "needReferenceImages": false
   },
