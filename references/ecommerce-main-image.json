@@ -1,5 +1,50 @@
 [
   {
+    "id": 30884,
+    "content": "Change the character's top to a {argument name=\"outfit\" default=\"red hoodie\"}, keeping the face, hairstyle, cat ears, collar, pose, the cat paw cup in hand, and the background completely unchanged. Add a red corner label in the top right with the text \"{argument name=\"label text\" default=\"limited time 9.9\"}\"; do not modify any other existing content in the original image.",
+    "title": "Character Outfit and Text Overlay Edit",
+    "description": "A precise image editing prompt designed to change a character's clothing color while maintaining all other visual elements and adding a promotional corner label.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263542241_57fhnc_HPPey3uakAArLg3.jpg",
+      "https://cms-assets.youmind.com/media/1786263542487_fkgjui_HPPey3ubgAAEsQs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30888,
+    "content": "只把画面中喵喵酱手里的白色猫爪咖啡杯整体改成绿色（杯身、杯沿、把手可统一偏绿），\n猫爪浮雕与粉色小爱心保留，人物脸、发型、服装、桌子、背景植物完全不动。",
+    "title": "EDIT-01 杯子改绿\n\n⑤ 编辑：局部改色\n底图：2.5D轻写实喵喵酱 + 猫爪杯（3:2）\n考",
+    "description": "",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263545509_sbzykh_HPPexgOawAASTuX.jpg",
+      "https://cms-assets.youmind.com/media/1786263545466_g1h7nd_HPPexgKbkAAOS5k.jpg",
+      "https://cms-assets.youmind.com/media/1786263545683_d6gwwq_HPPexgGacAE6AD6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30873,
+    "content": "ワードローブ： トップス： スタイリング： - フロントクロージャー：フロント中央のクロージャーの上部約3分の1だけを開け、胸より下のクロージャーはすべて裾まで留めたままにする。上部の開口部は左右対称に保つ。開口部を下部まで広げたり、上部を閉じ直したりしない。 - 袖：各袖口を外側にちょうど2回折り返し、両腕にダブルロールのバンドを作る。両方のバンドを前腕の中ほど、肘の折り目より下で手首より上の位置に配置する。他のスタイリング指示で衣服が肩から下がった場合でも、この巻き数と高さを維持する。袖を肘まで押し上げたり、袖口を隠したりしない。 - 仕上げ — ナチュラル： - フロントクロージャー：選択した上部開口部のみを外し、下の留め具はすべて留めたままにする。その間隔を変更せず、固定された留め状態に隣接するパネルのドレープのみを調整する。 - 袖：選択した数、位置、向き、レイヤー順序を変更しない。固定された袖の高さより下のロール構造のみを調整し、元の袖口を保持する。適度な重なりとわずかな非対称性を持つ柔らかい折り目を使用する。 淡いスカイブルーと白の垂直ピンストライプの長袖クロップドボタンアップシャツ。軽量なポプリン風の織物で、パリッとしたマットな質感。ボクシーなシルエットで、ウエストより上で終わる裾を持つ。白いポインテッドカラーと、小さな白いボタンが並ぶフロント前立てを備える。袖山に軽いギャザーがあり、広いピンストライプのバレルカフスはボタンで閉じられている。左胸にパッチポケットがあり、全体に白い植物風の刺繍やオープンワークが施されている。左胸ポケットには、半透明の花びらのアップリケやビーズを用いた立体的な装飾が集中している。ジッパーや余計な装飾のない、一貫したデザインのシャツである。 ボトムス：淡いクールグレーのハイライズフレアミニスカート。中重量のコンパクトなポンチニット製で、マットな質感。太もも上部丈のスケーターシルエット。伸縮性のあるアッパーバンドを備え、複数のパネルとシームラインで構成されている。ポケットやジッパーのないプルオンタイプで、素材の厚みと放射状のフレアを維持している。 レッグウェア：温かみのある白のショートクルーソックス。上質な垂直リブニット製で、左右対称の設計。リブ編みのアッパーカフと補強されたかかと・つま先を持ち、装飾のないシンプルなデザイン。適度な不透明度とストレッチ性を備えている。 フットウェア：温かみのあるアイボリーのロートップチャンキーレザースニーカー。丸いつま先と厚いプラットフォームソールが特徴。アッパーはスエード調の素材とオフホワイトのメッシュを組み合わせ、幾何学的なオーバーレイを配置。オフホワイトの靴紐が左右対称に通されている。頑丈なラグトレッドを備えた厚底ソールを持ち、細部まで一貫した配色と質感で仕上げられている。 バッグ： スタイリング： - バッグの持ち方：ストラップを左肩からのみ下げ、バッグ本体を左脇腹に置く。胸を横切らせず、手は添えない。バッグとストラップは衣服の外側に完全に露出させ、衣服の下や中を通さないこと。 - 仕上げ — ナチュラル：選択したストラップのルートに沿って、素材に忠実な緩みと体への接触のみを調整する。選択したルートとすべての取り付けを維持する。",
+    "title": "Pinstriped Button-Up Shirt Design",
+    "description": "A highly technical fashion prompt detailing the construction, styling, and embroidery of a cropped pinstriped shirt with rolled sleeves and botanical threadwork.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263529784_6yixdn_HPOChOnbgAAKott.jpg",
+      "https://cms-assets.youmind.com/media/1786263529696_alws2f_HPOCzavbEAAA6n-.jpg",
+      "https://cms-assets.youmind.com/media/1786263529661_zq4nne_HPOCzZNaIAA7zyn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30854,
+    "content": "Create a premium photorealistic commercial advertisement for a luxury face cream called “{argument name=\"product name\" default=\"LUMÉA GLOW\"}”. Vertical 4:5 composition, ultra-realistic 8K beauty product photography, high-end skincare campaign aesthetic. Place an elegant white and frosted-glass cream jar prominently on the right side, slightly elevated above a glossy reflective surface. The jar has a luxurious champagne-gold lid and a minimal clean label reading “LUMÉA GLOW”, “RADIANCE CREAM”, and “HYDRATING + BRIGHTENING”. The cream should be visible inside the open jar with a smooth rich texture. Surround the product with fresh white flowers, soft cream swirls, water droplets, glowing particles and delicate translucent petals. Create a luxurious, fresh and radiant atmosphere with subtle mist and floating droplets. Use a sophisticated palette of {argument name=\"color palette\" default=\"pearl white, soft champagne gold, warm beige and subtle pastel pink\"}. Dramatic studio lighting from the upper-right, soft glowing backlight, realistic reflections, beautiful highlights, gentle shadows and cinematic depth of field. On the left side, add elegant advertising typography: “LUMÉA GLOW” Large bold text: “{argument name=\"headline\" default=\"GLOW LIKE NEVER BEFORE\"}” Below it in elegant handwritten script: “Pure Radiance.” Small text: “Hydrate. Nourish. Glow.” At the bottom, create a clean premium information bar divided into three sections: “24H HYDRATION” “RADIANCE BOOST” “SKIN NOURISHMENT” Luxury skincare commercial, realistic cream texture, physically accurate reflections and shadows, premium beauty campaign, cinematic composition, flawless product presentation, perfectly readable typography, accurate spelling, no people, no hands, no watermark, no extra products.",
+    "title": "Luxury Skincare Product Advertisement",
+    "description": "A professional-grade prompt for generating a high-end skincare commercial poster, complete with premium typography, product staging, and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263514375_lhq81z_HPNbtIhW8AAkqgm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 30755,
     "content": "Cinematic Pepsi energy drink commercial, ultra-realistic product photography style. A sleek blue and silver Pepsi can standing upright on a reflective dark surface with a soft gradient grey background. Condensation water droplets cover the can. A strong male hand reaches in and pulls the ice-cold Pepsi can out of a metal ice bucket filled with clear ice cubes. Extreme close-up of water droplets on the metallic surface of the can. The pull-tab opens with a burst of cold mist and vapor rising from the top. Golden amber liquid pours from the can into a clear glass filled with ice cubes, creating bubbles and fizz. A shirtless, extremely muscular, fit young man with sharp jawline and short brown hair drinks from the Red Bull can, eyes closed in satisfaction, then smiles confidently while holding the can. Dynamic action shot of the Red Bull can floating in mid-air surrounded by exploding ice cubes, water splash, and light rays. Final shot: Pepsi logo (two red Pepsi and yellow sun) appears above the cold, wet Pepsi can on a reflective surface. High-end commercial lighting, sharp details, cold blue and silver color grading, steam and condensation effects, 8K, photorealistic.",
     "title": "Cinematic Pepsi Energy Drink Video Sequence",

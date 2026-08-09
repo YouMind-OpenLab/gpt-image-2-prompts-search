@@ -1,5 +1,30 @@
 [
   {
+    "id": 30920,
+    "content": "Create a cinematic wide-angle superhero action scene at sunset over a dense modern city skyline, with {argument name=\"superhero appearance\" default=\"a muscular speedster in a sleek dark red armored suit with glowing orange-red lightning veins\"} running vertically along the reflective glass facade of a skyscraper on the right side of the frame. Show his body in dynamic mid-stride, back and side view, one knee raised, fists clenched, surrounded by crackling red-orange electrical arcs that wrap around his limbs and trail behind him; include his reflection in the dark window panels beside him. In the sky to the left-center, place {argument name=\"main threat\" default=\"a huge flaming meteor breaking through smoke clouds\"} descending toward the city, with a bright molten core, fiery debris, black smoke plume, and sparks. Add exactly 4 smaller meteor streaks in the sky: one near the upper center, one near the left horizon, one near the central skyline, and one small glowing impact trail near the main meteor. The city below should contain many high-rise buildings with warm lit windows, silhouetted towers, a recognizable financial-district feel, and glowing orange street grids fading into haze. Use dramatic golden-hour lighting, stormy blue-gray clouds mixed with orange sunset, intense rim light on the hero, volumetric smoke, reflections on glass, high contrast, epic scale, motion blur, ultra-detailed realistic digital art, 16:9 composition, no text, no logo, no watermark.",
+    "title": "Speedster vs Meteor Cityscape",
+    "description": "A cinematic prompt for generating an epic superhero speedster racing up a skyscraper as meteors threaten a sunset city skyline.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263570923_9biwon_HPPPwG6WsAAiM6w.jpg",
+      "https://cms-assets.youmind.com/media/1786263570921_yq744q_HPPPwyvXkAAotfC.jpg",
+      "https://cms-assets.youmind.com/media/1786263570894_8z5983_HPPPxYCWYAE4iul.jpg",
+      "https://cms-assets.youmind.com/media/1786263572107_ugxtb8_HPPPx12WoAAMyST.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30917,
+    "content": "Create a cinematic photorealistic still from a live talk show or interview on a dark studio stage. The main subject is a young East Asian woman, about early 20s, seated or standing center-right, facing slightly left but looking toward the camera with a calm, neutral, attentive expression. She has {argument name=\"hair color\" default=\"dark brown\"} shoulder-length softly wavy hair with wispy bangs, natural makeup, clear skin, and large expressive eyes. She wears a {argument name=\"jacket color\" default=\"camel beige\"} blazer over a beige V-neck knit vest and a crisp white button-up shirt. In the extreme left foreground, include exactly 1 blurred male host in profile, an East Asian man in a dark navy suit and white shirt, holding exactly 1 handheld microphone close to his mouth while speaking; keep him intentionally out of focus with shallow depth of field. The woman should be sharply focused while the host, microphone, and foreground are blurred. Background: a deep navy-black studio backdrop with subtle blue lighting, a vertical silver stage truss behind the host, faint purple-blue accent lights, and a few soft rectangular bokeh lights on the right. Composition: widescreen 16:9, medium shot, woman occupying the right half of frame, host cropped on the left, realistic event lighting, soft key light on the woman’s face, professional broadcast photography, no visible text, no logos, no watermark.",
+    "title": "Cinematic Studio Interview Scene",
+    "description": "A photorealistic widescreen talk-show still featuring a sharply focused young woman and a blurred male host speaking with a microphone.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263568886_2kmwrg_HPLzyRpaIAAK91Y.jpg",
+      "https://cms-assets.youmind.com/media/1786263569047_5zsqmc_HPLz0XWasAAUF5L.jpg",
+      "https://cms-assets.youmind.com/media/1786263568885_rv62vk_HPLz1w8boAA0uLX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 30683,
     "content": "Create a vertical 9:16 photorealistic glamour weather-broadcast studio image. A young Japanese female weather presenter, {argument name=\"character name\" default=\"Sayaka\"}, stands full-body on the left side, smiling gently at the camera, with short silver-gray bob hair, natural makeup, slim build, and white high heels. She wears a bright {argument name=\"outfit color\" default=\"coral orange\"} sleeveless cropped vest with matching high-waisted mini skirt, plus a teal scarf tied at the neck and a small black lavalier microphone on her chest. Her right hand holds a thin silver pointer angled toward the weather map behind her; her left arm rests naturally by her side. The studio is glossy and luxurious, with warm golden bokeh lights, reflective gold floor, soft spotlights, and a curved modern TV set. On the right side, place a large curved digital screen showing a blue ocean map of Japan with green land and sunny weather markers. At the top of the screen, display the headline “Sayaka’s ChatGPT weather report” in playful green lettering with a small flower icon at the far right. On the map, include Japanese text for the date and title: {argument name=\"date text\" default=\"今日の天気 4月30日(水)\"}. Include exactly 9 visible sunny forecast cards, each a small white rounded rectangle with an orange sun icon and city/temperature label: Sapporo 13°C, Niigata 17°C, Sendai 18°C, Tokyo 23°C, Nagoya 22°C, Osaka 21°C, Hiroshima 20°C, Fukuoka 20°C, and Naha 27°C. Use realistic photography, high detail skin and fabric texture, shallow depth of field, studio lighting, clean composition, no watermark, no extra people, no additional forecast cards, and keep all visible text legible.",
     "title": "Sayaka Weather Presenter Studio",

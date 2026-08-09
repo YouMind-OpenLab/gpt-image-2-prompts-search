@@ -10,14 +10,162 @@
     "needReferenceImages": true
   },
   {
-    "id": 30777,
-    "content": "Using the provided reference image as the character base, transform the armored samurai into a cute chibi pixel-art sprite while preserving the same futuristic samurai armor design, horned helmet, black/teal/magenta color accents, glowing cyan energy details, ragged cape, and katana. Make the proportions short and super-deformed with a large helmet/head, compact body, stubby limbs, and a slightly heroic standing pose. Render exactly 1 chibi samurai character holding exactly 1 glowing cyan katana angled down to the left. Add small cyan flame/energy wisps around the helmet and blade, simplify the armor into readable pixel clusters, and use crisp retro game sprite shading with a clean white background. Keep the full body visible and centered, with no text, no UI, and no extra characters. Optional customization: make the character feel like {argument name=\"character archetype\" default=\"cyber samurai warrior\"} in {argument name=\"art style\" default=\"high-detail chibi pixel art\"} with {argument name=\"energy color\" default=\"cyan\"} glow accents.",
-    "title": "Chibi Pixel Samurai Transformation",
-    "description": "Transforms a detailed samurai reference into a compact chibi pixel-art game sprite while preserving its key armor and weapon design.",
+    "id": 30906,
+    "content": "Goal: Create a clean anime character design sheet for {argument name=\"character name\" default=\"a gothic eyepatch girl\"}, showing consistent proportions and outfit details from multiple angles.\n\nCanvas: Wide horizontal white-background character sheet, about 16:9, with no borders, no captions, no logos, and plenty of empty space between views.\n\nLayout: Include exactly 4 character views: 1 full-body front view on the left, 1 full-body side/back three-quarter view in the center, 1 bust close-up front three-quarter view in the upper right, and 1 bust side profile view in the lower right. Keep all views of the same character, same outfit, same hairstyle, and same eyepatch design.\n\nSubject details: A petite stylized anime girl with a large head, slim elongated legs, pale skin, small neutral mouth, and one visible large pinkish-red eye. She has {argument name=\"hair color\" default=\"soft peach-orange\"} long straight hair reaching past the shoulders, blunt bangs, thin face-framing strands, and slightly uneven wispy ends. Her right eye is covered by a black eyepatch with a bold white cross; the eyepatch strap runs horizontally around her head and is visible in every angle.\n\nOutfit details: Dress her in {argument name=\"outfit color\" default=\"black\"} gothic lolita clothing: high-neck ruffled blouse or short dress, layered sheer lace panels, puffy long sleeves, frilled cuffs, scalloped skirt hem, and subtle dark floral/lace texture. Add black Mary Jane high heels with ankle straps and slim heels. The front full-body pose should show the dress layers and shoes clearly; the center view should show the back of the hair, strap, skirt volume, and heels.\n\nVisual style: Soft watercolor anime concept art, delicate thin linework, muted warm shading, semi-transparent painterly texture, minimal shadows, elegant gothic mood, cute but slightly melancholic expression, accurate character-sheet consistency. Use warm peach hair against black clothing for contrast.\n\nConstraints: Exactly 4 views, exactly 1 visible eye in front-facing views, exactly 1 eyepatch with a white cross, no extra accessories, no text labels, no background scenery, no duplicate characters beyond the four specified reference views.",
+    "title": "Gothic Eyepatch Anime Character Sheet",
+    "description": "Generates a clean multi-view anime character sheet for a gothic lolita girl with peach hair and a cross eyepatch.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786178679515_4sh5d1_HPLnIkSbQAA1PcM.jpg",
-      "https://cms-assets.youmind.com/media/1786178679267_y1pcbs_HPLnUHbbIAAY036.jpg",
-      "https://cms-assets.youmind.com/media/1786178679734_e94ewj_HPLnUHYa4AAy9st.jpg"
+      "https://cms-assets.youmind.com/media/1786263561864_hwvpky_HPQjAvxaoAAnMci.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30913,
+    "content": "Goal: Create an ultra-rare collectible anime character card for an underwater fantasy idol/healer theme, featuring {argument name=\"character name\" default=\"シロイルカ\"} as a smiling beluga-whale girl companion character.\n\nCanvas: Vertical trading-card layout, 4:5 ratio, pastel iridescent fantasy style, high detail, glossy gacha-game SSR presentation. Fill the full image with an ornate pearly frame, shell and jewel decorations, rainbow highlights, bubbles, sparkles, and soft underwater caustic lighting.\n\nMain subject: Center-right anime girl with short fluffy bob hair in pale pink fading to aqua blue at the ends, large sparkling turquoise eyes, light blush, open happy smile, and small white beluga-like animal ears. Add exactly 5 visible hair accessories: one pink flower clip, one blue rectangular hair clip, one small blue dolphin charm clip, one pink bobby pin, and one tiny pearl-like accent. She wears an off-shoulder translucent frilly dress in white, lavender, and aqua with sheer sleeves, pearl straps, star details, a shell choker, dangling charms, and a large iridescent bow at the waist. Her right hand touches her cheek in a cute pose. Beside her on the lower right, include exactly 1 smiling white beluga whale with an open mouth looking up at her.\n\nBackground: Dreamy aquarium ocean scene with blue water, coral, sea plants, tiny orange fish, bubbles, glowing particles, and jellyfish. Include exactly 3 prominent jellyfish: one pink jellyfish near the upper right, one blue-white jellyfish at mid-right, and one smaller glowing jellyfish below it. Keep the mood healing, gentle, rare, and magical.\n\nCard frame and UI layout: Top-left has exactly 6 large gold stars. Below the stars, place the large Japanese name text {argument name=\"card name text\" default=\"シロイルカ\"} in thick white letters with blue-purple outline. Under the name, add a purple rarity bar with exactly 5 small white stars and the label 「(極上レア)」. Top-right has a circular ornate badge reading 「図鑑番号」 and {argument name=\"catalog number\" default=\"No.0777\"}.\n\nLeft information panels: Include exactly 2 ornate cream panels in the upper-left/middle-left. Panel 1 title: 「性格タイプ」, content: 「癒し系・天然」. Panel 2 title: 「特技」, include a simple line icon of a beluga and the text 「オーロラメロディ」 plus smaller text 「優しい歌声で みんなの心を溶かす♪」.\n\nBottom stats: Include exactly 3 small rounded stat bars stacked at the lower-left. Bar 1 reads 「出現率」 and {argument name=\"appearance rate\" default=\"0.7%\"}. Bar 2 reads 「色違い」 and 「オーロラ」. Bar 3 reads 「好感度」 and 「♥ 0~100」.\n\nBottom quote ribbon: Across the bottom, add a pink rounded message ribbon with shell icons and sparkles. Text reads {argument name=\"bottom quote\" default=\"一緒にゆらゆら…今日もいっぱい癒してあげるね〜♪\"}.\n\nVisual style: Pastel kawaii anime illustration, luminous watercolor gradients, iridescent pearlescent materials, intricate decorative borders, soft glow, high-resolution card-game UI, cute rare gacha-card aesthetic. Ensure all text is legible and do not add extra panels, extra stars, extra whales, or additional stat rows.",
+    "title": "Ultra-Rare Beluga Anime Card",
+    "description": "Creates a pastel underwater gacha-style character card with Japanese UI labels, rarity stars, stats, and a cute beluga-themed anime girl.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263565863_fa6x4y_HPPR4xUagAA2P9B.jpg",
+      "https://cms-assets.youmind.com/media/1786263564137_zgh58g_HPPR4xeawAAsLQq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30894,
+    "content": "Create a dark cinematic fantasy portrait of a {argument name=\"character name\" default=\"Yi ethnic Bimo high priest\"} standing full-body in a stormy sacred mountain valley at night, portrayed as a solemn middle-aged East Asian shaman with weathered skin and white ritual face markings, looking slightly up and to the right with a powerful, calm expression. He wears an ornate black, deep red, and antique-gold embroidered ceremonial robe with layered brocade panels, tassels, amulets, metal pendants, bells, braided cords, and a wide belt; add a broad round woven ritual hat topped with exactly 7 small perched black birds. In his left hand he grips a tall carved wooden staff crowned with an eagle or raven head, hanging feathers and cords; on his right forearm he carries a round bronze ritual shield or astrolabe disk with sunburst, concentric rings, engraved symbols, dangling straps, and a small bell. Behind him, place a huge glowing circular mystical sigil made of concentric rings, Yi-script-like glyphs, runes, eye symbols, star marks, and radiant golden lines, centered like a halo. The environment should include exactly 5 tall carved stone steles around him: 1 large stele on the far left foreground, 1 smaller central-left stele behind him, 1 mid-right stele, 1 far-right stele, and 1 partially visible carved stone near the left edge; all covered in ancient engravings. Add dramatic jagged mountains, heavy clouds, mist, sparks, small ritual fires near the ground, and lightning-like golden energy cracks. Include exactly 3 large birds flying in the sky: 1 near the bright moon on the upper left, 1 large wings-spread bird near the glowing sun or second moon on the upper right, and 1 smaller bird beneath it. Lighting is high-contrast and epic, with cold blue moonlight from the left and warm golden supernatural light from the right and behind, ultra-detailed textures, realistic fantasy concept art, vertical 4:5 composition, sharp focus on the priest, volumetric clouds, cinematic depth, no modern objects, no readable Latin text, no watermark.",
+    "title": "Yi Bimo High Priest Fantasy Portrait",
+    "description": "A cinematic dark-fantasy prompt for generating an ornate Yi Bimo shaman-priest in a mystical mountain ritual scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263549836_4hh3lr_HPPqSgpWsAET2Ma.jpg",
+      "https://cms-assets.youmind.com/media/1786263549960_9y7m8e_HPPqSgrXwAAqWXl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30923,
+    "content": "Goal: Create a clean anime character reference sheet in a loose hand-drawn concept-art style for {argument name=\"character name\" default=\"an elegant androgynous swordsman\"}.\n\nCanvas: Wide horizontal white background, high-resolution, no scenery, no title text, no labels, plenty of negative space. Use thin sketchy ink lines, slightly rough edges, flat cel shading, restrained painterly texture, and a polished Japanese fantasy game character-design aesthetic.\n\nLayout: Show exactly 6 discrete character views arranged across the canvas: 1 full-body front view on the far left, 1 full-body three-quarter front view beside it, 1 full-body right side profile in the center, 1 full-body back view slightly right of center, 1 large bust portrait facing forward in the upper right, and 1 large head-and-shoulders side-profile portrait in the lower right. Keep proportions consistent across all views.\n\nSubject details: The character is a slim young adult with pale skin, sharp golden amber eyes, a calm serious expression, and very long layered {argument name=\"hair color\" default=\"deep navy blue\"} hair with messy bangs, side locks, and a long flowing back section reaching past the waist. Add long red dangling earrings visible on both portraits and front views. The face is refined and slightly melancholic, with narrow eyes and a small mouth.\n\nCostume: Design an ornate East Asian-inspired fantasy outfit in {argument name=\"main outfit colors\" default=\"white, black, antique gold, and deep red\"}. Include a high black collar with gold knot-like ornamentation, structured black-and-gold shoulder armor with filigree cutouts, wide white sleeves, black gloves, layered black trousers, fitted black boots with gold trim, a long white outer robe or coat with elaborate gold cloud-and-scroll patterns, black inner panels, red lining, and multiple red tassels and cords around the waist and shoulders. Add a prominent red knotted waist ornament with hanging tassels and gold details. The back view should clearly show the long white coat panels with symmetrical gold embroidery and the character’s long hair falling down the back.\n\nStyle constraints: Keep the sheet clean and model-sheet focused, with no weapons, no props, no background objects, no decorative frame, and no text. Maintain accurate costume continuity between all 6 views, emphasize the ornate gold embroidery and red tassel accents, and make the image feel like a production-ready hand-drawn character turnaround for animation or game development.",
+    "title": "Ornate Anime Character Turnaround Sheet",
+    "description": "Generates a wide hand-drawn anime fantasy character reference sheet with six consistent views for character design or animation planning.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263573946_pt03t5_HPPnakUboAAB8ki.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30886,
+    "content": "Remove the background, table, and plants, keeping only the {argument name=\"character\" default=\"Miao Miao Jiang character\"} and the {argument name=\"item\" default=\"cat paw cup\"} in her hand. Ensure the edges are clean and suitable for use on a transparent background.",
+    "title": "Anime Character Background Removal",
+    "description": "An image editing prompt used to isolate an anime character and a cup by removing the background elements like furniture and plants for a clean, transparent-ready look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263542258_1h8bzm_HPPeyNCbQAEvkH9.jpg",
+      "https://cms-assets.youmind.com/media/1786263542199_n6gcw5_HPPeyNEaYAAh52_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30937,
+    "content": "Create a clean studio character turnaround reference sheet in a 16:9 widescreen canvas. Show exactly 3 vertical panels separated by thin white dividers: left panel labeled “FRONT”, center panel labeled “SIDE”, right panel labeled “BACK”. Each panel must depict the same {argument name=\"character description\" default=\"28-year-old East Asian woman\"} as a full-body realistic fashion photo, standing upright against a plain light gray-white studio wall with a pale gray floor. Keep her identity, body proportions, outfit, hair, and accessories consistent across all three views; only the camera angle changes. She has {argument name=\"hair style\" default=\"short black bob-length hair, softly layered and tucked around the ears\"}, a calm neutral expression when visible, and natural minimal makeup. Outfit: {argument name=\"top\" default=\"beige knit button-front cardigan with long sleeves pushed slightly up\"}, {argument name=\"pants\" default=\"light blue straight-leg jeans\"}, white low-top sneakers, and a silver wristwatch on her left wrist. Panel 1: front view, arms relaxed at sides, looking toward camera. Panel 2: true side profile view facing left, arms relaxed, the silver watch visible on the left wrist. Panel 3: back view, arms relaxed, cardigan back and jean pockets visible. Use soft even studio lighting, realistic proportions, crisp details, no extra props, no additional people, no watermark, and keep the three labels centered below their panels in simple black uppercase sans-serif text.",
+    "title": "Three-View Character Turnaround",
+    "description": "Generates a realistic three-panel front, side, and back studio reference sheet for checking character and outfit consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263583455_wuva55_HPPew1ubUAAijSc.jpg",
+      "https://cms-assets.youmind.com/media/1786263583530_4rb5r5_HPPew1takAACRk6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30920,
+    "content": "Create a cinematic wide-angle superhero action scene at sunset over a dense modern city skyline, with {argument name=\"superhero appearance\" default=\"a muscular speedster in a sleek dark red armored suit with glowing orange-red lightning veins\"} running vertically along the reflective glass facade of a skyscraper on the right side of the frame. Show his body in dynamic mid-stride, back and side view, one knee raised, fists clenched, surrounded by crackling red-orange electrical arcs that wrap around his limbs and trail behind him; include his reflection in the dark window panels beside him. In the sky to the left-center, place {argument name=\"main threat\" default=\"a huge flaming meteor breaking through smoke clouds\"} descending toward the city, with a bright molten core, fiery debris, black smoke plume, and sparks. Add exactly 4 smaller meteor streaks in the sky: one near the upper center, one near the left horizon, one near the central skyline, and one small glowing impact trail near the main meteor. The city below should contain many high-rise buildings with warm lit windows, silhouetted towers, a recognizable financial-district feel, and glowing orange street grids fading into haze. Use dramatic golden-hour lighting, stormy blue-gray clouds mixed with orange sunset, intense rim light on the hero, volumetric smoke, reflections on glass, high contrast, epic scale, motion blur, ultra-detailed realistic digital art, 16:9 composition, no text, no logo, no watermark.",
+    "title": "Speedster vs Meteor Cityscape",
+    "description": "A cinematic prompt for generating an epic superhero speedster racing up a skyscraper as meteors threaten a sunset city skyline.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263570923_9biwon_HPPPwG6WsAAiM6w.jpg",
+      "https://cms-assets.youmind.com/media/1786263570921_yq744q_HPPPwyvXkAAotfC.jpg",
+      "https://cms-assets.youmind.com/media/1786263570894_8z5983_HPPPxYCWYAE4iul.jpg",
+      "https://cms-assets.youmind.com/media/1786263572107_ugxtb8_HPPPx12WoAAMyST.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30930,
+    "content": "Create a highly detailed cinematic fantasy solarpunk harbor city at sunset, wide panoramic 16:9 composition, magical realism, warm golden-hour lighting after rain, wet cobblestone foreground reflecting neon and lantern glow. The scene is {argument name=\"city theme\" default=\"a lush terraced clockwork garden city built around waterfalls and a turquoise bay\"}: on the left, layered domed buildings covered in vines, trees, glowing windows, hanging gardens, and multiple cascading waterfalls pouring into the harbor; on the right, an ivy-covered stone clocktower and elevated terrace with a small family looking out over the water. The sky is dramatic with peach clouds, a crescent moon, two bright rainbows, sparkling comet-like arcs, and a giant luminous dotted-line bird constellation. Include exactly 5 colorful flying fish or birdlike gliders near the rainbows. In the center distance, a gigantic floating whale-island covered with grass and tiny trees carries exactly 2 standing human figures on its back. Over the bay, include exactly 10 orange paper sky lanterns rising in a curved vertical trail, several printed with the word “HOPE”; include boats in the water, with one sailboat labeled “AURORA.” In the foreground, create a cozy human-scale story: exactly 2 children run left-to-right making glowing light trails; a neon sign on the wet pavement spells {argument name=\"neon word\" default=\"JOY\"}; a child in a yellow raincoat offers a red fruit to a friendly round white gardener robot labeled “UNIT-7 GARDENER”; a seated cellist performs on a small round floating platform in the harbor; an elderly woman in purple weaves cloth at a tea stall while an orange fox sleeps beside her. Add exactly 3 prominent signs on the right: a blue transit board listing “MERIDIAN — ON TIME,” “NORTH SPIRE — ON TIME,” and “ORBITAL GARE — ON TIME”; a tea shop sign reading {argument name=\"teahouse name\" default=\"TIDE AND THYME TEAHOUSE\"} with the subtitle “OPEN UNTIL THE STARS COME OUT”; and a menu board listing “STEAMED BUNS 3,” “JASMINE TEA 2,” and “KINDNESS FREE.” Include a large heron standing near a seated fisherman on the left, glowing flowers, bicycles, baskets of bread and sunflowers, tiny lamps, mossy stone railings, and intricate architectural detail everywhere. Mood: hopeful, whimsical, utopian, richly textured, awe-inspiring but peaceful. Style: ultra-detailed digital painting, painterly realism with storybook fantasy, volumetric sunset rays, mist from waterfalls, crisp foreground details, deep atmospheric perspective, no modern cars, no harsh sci-fi weapons, no blank areas.",
+    "title": "Solarpunk Harbor of Joy",
+    "description": "A richly detailed fantasy solarpunk harbor scene with waterfalls, lanterns, whimsical characters, signs, and a hopeful sunset atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263578972_3ohsd4_HPOh6F5WsAASGji.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30844,
+    "content": "2x2 grid, 16:9 do this for open source real book universes { input variables: [{argument name=\"primary hero\" default=\"[insert primary superhero]\"}] [{argument name=\"allied heroes\" default=\"[insert allied heroes]\"}] [{argument name=\"action\" default=\"[insert team action]\"}] [{argument name=\"tools\" default=\"[insert workshop tools]\"}] workflow: base setup: busy maker's workbench with [insert workshop tools], partially assembled figures, and open team-up comics. core action/composition: [insert primary superhero] leading the burst, with [insert allied heroes] following out of the exploding pages in [insert team action]. variants and details: scattered variant sketches and color tests around the scene. narrative/interactive elements: implied unity and teamwork through overlapping emergence paths. god-level details: overhead dynamic angle, warm workshop lighting with dust motes, detailed material contrasts between paper and figures, 8k realistic mod designer toy rendering with energetic composition. </instructions>}",
+    "title": "Superheroes Emerging from Comics Grid",
+    "description": "A detailed workbench grid prompt for gpt-image-2 featuring superheroes bursting from exploding comic book pages in a cinematic 2x2 layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263507113_cqhdzr_HPAfvofWUAAhrV9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30933,
+    "content": "Goal: Create a premium cinematic character bible sheet for a martial artist named {argument name=\"character name\" default=\"JACKIE\"}, presented as a wide professional concept-art reference board.\n\nCanvas: Extra-wide horizontal white canvas, roughly 21:9 aspect ratio, clean negative space, polished entertainment-design layout.\n\nVisual style: High-end illustrated character design, semi-realistic anime/comic concept art with painterly shading, crisp ink accents, athletic anatomy, dramatic brush textures, watercolor splashes, and cinematic action energy. Use a mostly neutral palette with warm skin tones, black hair, white tank top, dark loose pants, black sneakers, and subtle market-scene colors.\n\nTop-left text: Huge black dry-brush title reading {argument name=\"character name\" default=\"JACKIE\"}. Beneath it, small uppercase subtitle: {argument name=\"subtitle text\" default=\"MARTIAL ARTIST / THE KITCHEN IS HIS DOJO.\"}\n\nLeft action illustration: One large dynamic action scene of the same martial artist leaping through the air in a crowded wet street market, holding a long wooden staff with both hands, kicking over an opponent in a brown shirt. Add colorful produce stalls, hanging market lights, blurred bystanders, puddle reflections, and watercolor splashes behind the action. The pose should feel explosive and acrobatic.\n\nCenter character turnaround: Show exactly 3 full-body standing reference poses of the martial artist on a white background: 1 front view, 1 back view, and 1 three-quarter side view. He is lean but muscular, with tousled medium-length black hair, tan skin, a serious focused expression, a white sleeveless tank top, dark high-waisted loose martial-arts pants tied with a black sash, and black low-top sneakers. Keep proportions and outfit consistent across all three views.\n\nRight-side detail panels: Create exactly 4 boxed detail sections stacked vertically with thin black borders and small uppercase labels: 1 FACE panel showing a close-up of his head and shoulders with sweat, cuts, messy hair, and intense expression; 1 EYES panel showing an extreme close-up of narrowed eyes and brows; 1 HANDS panel showing two hand studies, one open veiny hand and one clenched fist; 1 SHOE DETAIL panel showing two sneaker studies, one side view and one rear/heel view.\n\nBottom text: Large black dry-brush slogan across the lower middle reading {argument name=\"slogan text\" default=\"EVERYTHING IS A WEAPON.\"}\n\nColor swatches: Add exactly 6 square palette swatches along the bottom right: 1 light warm gray, 1 tan skin tone, 1 medium brown, 1 dark blue-gray, 1 near-black navy, and 1 black.\n\nConstraints: Maintain a clean premium character-sheet composition, no extra characters outside the left action scene, no additional labels beyond the specified title, subtitle, panel labels, slogan, and swatches. Make the image look like a finished studio character bible page.",
+    "title": "Cinematic Martial Artist Character Bible",
+    "description": "Generates a wide premium character design sheet with action art, turnaround poses, detail panels, typography, and palette swatches for a martial artist hero.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263581613_vqf1jx_HPNnNy2WAAAIN-8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30887,
+    "content": "“Create a premium cinematic character bible sheet for a capoeira practitioner named PEDRO. Use the uploaded character sheet as the strict visual reference for his exact face, body, proportions, hair, skin tone and outfit. Do not change his appearance.",
+    "title": "Character sheet prompt:\n\n“Create a premium cinemat",
+    "description": "",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263544246_f6kwok_HPNHVf9WAAA0a80.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 30842,
+    "content": "A cinematic, science-fiction shot of the attached model, her expression, clothing, and appearance completely unaltered, standing alone on a {argument name=\"terrain\" default=\"rocky, misty terrain\"}. In the background rises a gigantic metal lattice tower with enormous parabolic antennas shrouded in mist. To the left, a {argument name=\"sky element\" default=\"bright red sun\"} shines on a hazy horizon. The entire scene is overlaid with {argument name=\"UI elements\" default=\"futuristic holographic HUD interfaces\"}, cyan wireframe 3D analytics graphics surrounding the main antenna, and data panels with text and graphics in the corners. Hyperrealistic, cinematic style, atmospheric and melancholic lighting, cool color palette with red accents",
+    "title": "Sci-Fi Misty Antenna Terrain",
+    "description": "A cinematic sci-fi prompt for gpt-image-2 that places a model in a melancholic, misty landscape filled with giant metal antennas and holographic HUD elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263505223_vlle5s_HPHkw7AWYAANGX5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30924,
+    "content": "Create a full-body fantasy anime character illustration on a clean off-white parchment background, centered with lots of empty space and a small handwritten signature reading “{argument name=\"character name\" default=\"Megumi\"}” in the bottom right. The character is a mischievous, innocent chibi-like forest faun girl with a large head, petite body, warm tan skin, big sparkling brown eyes, a tiny fang grin, and long messy wavy {argument name=\"hair color\" default=\"honey-blonde\"} hair in loose twin-tail curls. She has exactly 2 large pointed elf ears, exactly 2 rough branch antlers growing from her head with small buds and leaves, exactly 1 blue butterfly hair ornament beside a small red bow on the right side of her hair, and exactly 1 long deer-like tail ending in leafy tufts. Outfit: a worn cream blouse with puffy sleeves and star-shaped stains, a dark loose necktie, a dusty rose hooded capelet fastened by exactly 1 round brooch, a short dark pleated skirt, exactly 1 brown crossbody satchel with dangling trinkets, mismatched leg warmers with exactly 2 colors/patterns, one muted red and one gray plaid, and bare paw-like feet with small claws. Pose her standing front-facing with arms relaxed at her sides, toes turned slightly inward, conveying playful foolish charm and woodland innocence. Use delicate watercolor-and-ink line art, soft sepia shadows, muted earthy colors, tiny paint splatters, sketchy textured edges, and whimsical fantasy character-design detail. Avoid a detailed background, extra characters, or modern objects.",
+    "title": "Mischievous Forest Faun Girl",
+    "description": "Generates a full-body watercolor anime character design of a cute woodland faun girl for fantasy manga or character concept art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263573456_d9xv71_HPM4R-NbMAAufSg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30903,
+    "content": "Goal: Create a dark cinematic presentation board for a worldbuilding / image-generation workflow, showing how a consistent fantasy character, locations, and props are built image by image.\n\nCanvas: Wide 4:3 composition on a nearly black background with rounded rectangular cards arranged in a clean grid, soft gaps, subtle shadows, and a muted premium UI feel.\n\nLayout: Use exactly 6 visible cards. Card 1 is a tall text card on the upper left. Card 2 is a large wide character card on the upper right. Cards 3 and 4 are two medium landscape location cards across the middle row. Cards 5 and 6 are two smaller prop cards along the lower left and lower center, with a third lower-right character card partially visible/cropped at the edge if the canvas framing allows. Each image card has a small dark pill label in the top-left corner.\n\nText content: On the upper-left text card, include small spaced uppercase text “ONE WORLD” near the top. In the lower half, include the headline “Built image by image” and the body text “A character, her locations, and the props she carries — generated separately, holding one look.” Use clean modern sans-serif typography, white headline, muted gray body text.\n\nVisible labeled image cards: 5 fully visible labeled image cards plus 1 text card. The labels are: 2 cards labeled “Character,” 2 cards labeled “Location,” and 2 cards labeled “Prop” if the lower-right crop is included; otherwise keep the main visible set as 1 Character, 2 Location, and 2 Prop. Do not add extra labels.\n\nSubject details: The main character is {argument name=\"character description\" default=\"a pale young blonde medieval archer girl with braided hair, serious expression, wool cloak and leather quiver of arrows\"}. Place her in a snowy stone castle courtyard, holding a long wooden bow, with cold blue-gray lighting and shallow cinematic depth of field. The locations show {argument name=\"world setting\" default=\"a grim Nordic medieval winter world\"}: one frozen harbor with Viking-style longships trapped in ice, torchlight, mountains and snow; one fortified snowy military camp with tents, wooden palisades, watchtowers, smoke rising, and stormy clouds. The props show exactly 2 close-up items: a weathered leather pouch or wrist guard marked with pale runic symbols and small bones, and a row of antler or horn pieces in snow with blurred background.\n\nVisual style: Photorealistic cinematic dark fantasy, desaturated blue-gray winter palette, falling snow, realistic textures, high detail, moody natural lighting, consistent medieval wardrobe and materials across all cards. Rounded card corners, elegant spacing, no bright colors.\n\nConstraints: Keep the interface minimal and editorial, like a premium AI image-generation case study. Preserve the exact headline and body copy. Avoid logos, watermarks, charts, anime style, modern objects, or extra UI clutter.",
+    "title": "Dark Fantasy Worldbuilding Board",
+    "description": "A cinematic grid presentation showing a consistent medieval archer character, snowy locations, and props for worldbuilding or image-generation showcases.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263560716_d219au_HPL5AoraYAAlYpZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 30777,
+    "content": "Create a full-body chibi pixel art character on a plain white background: a tiny cyber-samurai warrior named {argument name=\"character name\" default=\"neon shadow samurai\"}, centered with lots of empty space around him. The character has a large helmeted head and small body proportions, wearing ornate black samurai armor with dark gunmetal plates, gold trim, and magenta cord knots. The helmet has a tall crescent-shaped golden maedate, side armor flaps, a circular gold crest on the forehead, and a black face mask with glowing cyan eyes. Add exactly one glowing katana held downward in the left hand, with a cyan energy blade and light electric aura. The armor includes layered shoulder guards, chest plates, skirt plates, shin guards, boots, gauntlets, braided cords, small tassels, and a magenta waist bow. Behind him is exactly one tattered black cloak flowing to the right, edged with cyan and magenta flame-like markings. Add cyan electrical wisps around the helmet, sword, shoulders, and cloak, but keep the silhouette readable. Style should be crisp retro game sprite art with detailed pixel shading, high contrast outlines, subtle dithering, and a fantasy RPG character-sheet feel. Use {argument name=\"armor color\" default=\"black and gunmetal\"} as the dominant armor palette, {argument name=\"accent color\" default=\"cyan\"} for all glow effects, and {argument name=\"secondary accent color\" default=\"magenta\"} for cords and decorative highlights. No text, no logo, no scenery, no shadow-heavy background, no extra characters.",
+    "title": "Neon Chibi Cyber Samurai Pixel Art",
+    "description": "Generates a detailed chibi cyber-samurai sprite with glowing armor and a cyan energy katana for game character art or avatar concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263568175_ddt1nj_HPLnIkSbQAA1PcM.jpg",
+      "https://cms-assets.youmind.com/media/1786263568183_04qr77_HPLnUHbbIAAY036.jpg",
+      "https://cms-assets.youmind.com/media/1786263568181_v48otz_HPLnUHYa4AAy9st.jpg",
+      "https://cms-assets.youmind.com/media/1786263569120_uyicpe_HPLnZGfbEAE3SpW.jpg"
     ],
     "needReferenceImages": true
   },
@@ -30,6 +178,16 @@
       "https://cms-assets.youmind.com/media/1786178675250_0d4cbb_HPLB2W6boAAjkJx.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 30890,
+    "content": "Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background, following this exact structured composition and visual aesthetic: [STYLE]: {argument name=\"style\" default=\"high-contrast digital anime illustration\"}",
+    "title": "High-Fashion Anime Character Concept Art Sheet",
+    "description": "A specialized prompt for generating professional character concept art sheets in a high-contrast digital anime style with a focus on high-fashion aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263545675_8ky5tz_HPKKFG2acAAsR4B.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 30779,
@@ -272,6 +430,16 @@
       "https://cms-assets.youmind.com/media/1786090923373_1pind8_HPAHycfagAAX-R8.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 30882,
+    "content": "9:16 vertical version, high-precision ancient style xianxia female lead character portrait, {argument name=\"style\" default=\"Tang Dynasty fantasy\"} aesthetic. The overall image is bright, majestic, cool, noble, and powerful, with a strong sense of pressure and authority. The main subject is a young adult Oriental woman, visual age about {argument name=\"age range\" default=\"20–28 years old\"}. The makeup is a {argument name=\"makeup style\" default=\"bright crimson makeup\"}, emphasizing eye makeup, lip makeup, and flower patterns. The hairstyle is a high bun, full at the top, wearing a large gold crown and phoenix-patterned headwear. The character sits on the edge of the high steps of the Phoenix Golden Hall, body slightly turned, one hand on her knee, looking directly into the lens. The camera uses a large half-body low-angle composition, with a blurred golden hall relief in the background.",
+    "title": "Regal Tang-Style Empress Portrait",
+    "description": "A high-precision prompt for GPT Image 2 to generate a majestic and authoritative Tang Dynasty-inspired female lead portrait with ornate details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786263540155_1153jt_HO5FfiIawAQoKbI.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 30476,
