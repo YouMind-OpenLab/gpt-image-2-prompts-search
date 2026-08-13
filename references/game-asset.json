@@ -10,12 +10,43 @@
     "needReferenceImages": true
   },
   {
-    "id": 31241,
-    "content": "Using REFERENCE_0 as the character base, transform the rough pencil sketch into a polished, high-resolution anime character concept portrait. Preserve the same bust-up 3/4 head angle, calm serious expression, neck length, updo hairstyle silhouette, loose side locks, and the handwritten name/title placement on the left.\n\nRendering style: clean modern anime illustration with crisp line art, soft cel shading, glossy highlights, detailed eyes, and a plain white background. Replace the sketch lines with finished color artwork.\n\nCharacter finish: give the character {argument name=\"hair color\" default=\"deep ruby red\"} hair, vivid {argument name=\"eye color\" default=\"green\"} eyes, fair skin, refined eyelashes, and a composed noble look.\n\nCostume and accessories: redesign the simple neckline into an ornate imperial high collar with cream fabric, gold filigree embroidery, and white lace ruffles. Add exactly 3 visible red gemstone accessories: 1 elaborate gold-and-red hair ornament on the bun, 1 dangling red gemstone earring, and 1 oval red gemstone brooch at the collar. Make the gold details intricate and regal but keep the original portrait composition uncluttered.\n\nText: convert the rough handwritten notes into stylized dark red calligraphy on the left, preserving exactly 2 text blocks: {argument name=\"character name\" default=\"Mariel Trust\"} near the upper left and {argument name=\"title text\" default=\"Ice Emperor\"} near the lower left. Do not add any other text.\n\nConstraints: keep the crop close to the original bust portrait, keep the background blank white, avoid changing the face direction or expression, and make the final image look like a finished character sheet illustration rather than a sketch.",
-    "title": "Polished Anime Noble Portrait",
-    "description": "Transforms a rough character sketch into a finished regal anime bust portrait with ornate jewelry, costume details, and preserved handwritten name/title text.",
+    "id": 31308,
+    "content": "Create a premium, modern high-fashion {argument name=\"subject\" default=\"CHARACTER CONCEPT ART SHEET\"} in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering",
+    "title": "High-Fashion Character Concept Art Sheet",
+    "description": "A professional prompt for creating modern high-fashion character concept art sheets in a widescreen format, using a reference image to define and maintain a specific artistic style.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786523366521_37x1um_HPgatesawAAFfA0.jpg"
+      "https://cms-assets.youmind.com/media/1786609303456_5faxty_HPkCmwjbkAAHUEA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31323,
+    "content": "Goal: Create a clean 3D character design turnaround sheet for a dark fantasy humanoid bird-shaman character, suitable for modeling and rigging reference.\n\nCanvas: Wide horizontal canvas, 16:9 aspect ratio, light warm gray studio background with no props, no shadows beyond soft contact shading, centered full-body figures with generous spacing.\n\nLayout: Show exactly 4 full-body character views in a straight row, all in a rigid T-pose with arms extended horizontally: 1 front view, 2 left side profile view, 3 back view, 4 right side profile view. Keep all four views the same height and scale, evenly spaced, feet aligned on the same baseline.\n\nCharacter details: The character is {argument name=\"character archetype\" default=\"a dark fantasy bird-masked tribal shaman\"} with a slim humanoid body, black fitted under-suit or dark skin-tight body layer, birdlike plague-doctor mask or long beak helmet, and a crown of thin red-orange feather or tendril plumes emerging from the head. The face is hidden by the mask; the front mask has a long pale bone-colored beak, dark eye openings, and carved ornamental markings. The back view shows a darker head with red tendrils visible from behind.\n\nOutfit: The costume has exactly these visible main clothing pieces: 1 long open sleeveless olive-green robe or coat with split front and pointed tails, 2 short pale green sleeves over the upper arms, 3 black fitted forearm guards or gloves, 4 black leggings, 5 open-toe sandals, 6 layered dark feather collar around the shoulders, 7 pale leaf-like feather necklace around the neck, 8 circular bronze ring ornaments at the waist and knees, 9 hanging strap details at the hips, 10 a vertical laced panel down the upper back. The robe color is {argument name=\"robe color\" default=\"muted olive green\"} with weathered fabric texture and faded salmon-pink circular patterns on the sides and lower back. Use bronze, bone, leather, and dark charcoal materials.\n\nPose and anatomy: T-pose character sheet, arms perfectly straight and level, palms facing down or slightly inward, legs straight, feet shoulder-width apart. The figure should feel game-ready and sculptural, with consistent proportions across all views.\n\nVisual style: High-quality 3D render, realistic stylized fantasy design, matte materials, subtle worn fabric texture, crisp details, neutral orthographic camera, no dramatic lighting, no text labels, no grid, no watermark. Emphasize symmetry, readable silhouettes, and production-art clarity. Use {argument name=\"render style\" default=\"realistic stylized 3D game character turnaround\"}.",
+    "title": "Bird Shaman Character Turnaround",
+    "description": "Creates a four-view T-pose fantasy bird-shaman character sheet for 3D modeling, rigging, or concept art reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786609313502_ljeeqj_HPkA7VzbMAARaO2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31334,
+    "content": "Goal: Create a cinematic character design sheet for a {argument name=\"character name\" default=\"21-year-old Indigenous Mesoamerican female warrior\"}, showing her costume, face paint, hairstyle, and multiple angles for concept-art reference.\n\nCanvas: Wide horizontal 3:1 character sheet on a neutral medium-gray studio background, high-resolution photorealistic fantasy concept art with soft cinematic lighting and sharp fabric/leather detail.\n\nLayout: Use exactly 11 visible views arranged across the canvas: 4 small stacked portrait studies on the far left, 1 large central front-facing three-quarter body portrait, 5 smaller full-body turnaround/action reference views in the middle-right, and 1 large close-up face portrait on the far right.\n\nSubject details: The warrior is a young Indigenous Mesoamerican woman with olive-tan skin, intense pale hazel-green eyes, strong brows, full lips, and an alert, controlled warrior expression. Her {argument name=\"hair color\" default=\"black\"} hair is intricately braided into many tight braids with a center part, long length, braided side sections, and loose baby hairs at the hairline. She wears subtle dark obsidian war paint: a smoky horizontal mask-like band across the bridge of the nose and under both eyes, with faint red accent marks around the eyes in some portrait studies. Add natural skin texture, light sweat or dew on the close-up face, and realistic pores.\n\nCostume: Dress her in a dark-gray fitted leather warrior tunic with sculpted paneling, high neck, layered chest armor, ribbed seams, long sleeves in muted gray woven fabric, dark bracers, black fitted pants, and dark boots. The shoulders have dramatic carved obsidian-black feather or scale-like pauldrons with glossy jagged pieces, giving a volcanic stone armor look. Overall palette: charcoal, graphite, black obsidian, muted gray fabric, and warm natural skin tones.\n\nExact view count and descriptions: 1) far-left top small frontal head-and-shoulders portrait looking forward; 2) far-left second small three-quarter portrait looking to the viewer's right; 3) far-left third small three-quarter portrait with sterner expression and red eye accents; 4) far-left bottom small side-profile portrait facing right; 5) large central front-facing half-to-three-quarter body view with hands on hips; 6) middle-right rear full-body turnaround view showing long braids down the back; 7) middle-right side full-body view facing left; 8) lower middle top-down full-body view looking down at the head and shoulders; 9) lower right top-down full-body view in a slightly different stance; 10) far-right large cinematic close-up of the face, cropped from forehead to upper chest; 11) include the central figure as the main hero view, larger than all reference views.\n\nVisual style: Photorealistic AAA game character concept sheet, realistic materials, detailed leather stitching and armor paneling, clean studio presentation, subtle depth of field on the close-up, dramatic but controlled lighting, no weapons visible, no text labels, no watermark, no extra characters. Emphasize the {argument name=\"mood\" default=\"alert warrior stance\"} and the cultural-fantasy warrior identity without adding modern accessories.",
+    "title": "Mesoamerican Warrior Character Sheet",
+    "description": "A wide photorealistic fantasy character sheet showing an Indigenous Mesoamerican female warrior with braided hair, obsidian face paint, armor, and multiple reference angles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786609326123_kh3k2x_HPhmQhxWMAEmuK0.jpg",
+      "https://cms-assets.youmind.com/media/1786609325529_fbwzky_HPhmWh8X0AAgRAk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31241,
+    "content": "Using the provided reference image as the character base, convert the rough sketch into a fully rendered, clean anime-style character illustration while preserving the same head angle, bust portrait framing, facial direction, and general silhouette. Keep the white background and the handwritten name/signature placement on the left.\n\nTransformation: Replace the loose pencil lines with polished line art, smooth cel-shading, glossy highlights, and high-detail coloring. Give the character {argument name=\"hair color\" default=\"deep red\"} hair styled into the same swept-back bun shape, with loose front strands, and make the eyes {argument name=\"eye color\" default=\"bright green\"}. Refine the expression into a calm, elegant, slightly aloof look.\n\nCostume and added details: Add an ornate aristocratic fantasy outfit with a tall cream-and-gold embroidered collar, lace ruffles around the neck, and rich metallic trim. Add exactly 3 prominent jewelry/accessory elements: 1 large gold-and-red jeweled hair ornament on the bun, 1 dangling gold earring with a red teardrop gem, and 1 oval red gemstone brooch at the front of the collar.\n\nText: Preserve the handwritten sketchbook feel of the left-side annotations, but make them cleaner and dark red. Include exactly 2 visible text blocks: {argument name=\"character name\" default=\"Mariel Trust\"} near the upper left, and {argument name=\"artist signature\" default=\"IceEmperor\"} near the lower left.\n\nStyle constraints: High-resolution polished anime illustration, crisp facial features, luminous eyes, detailed hair shine, refined fantasy noble design, no extra background objects, no additional text, no watermark.",
+    "title": "Polished Anime Noble Portrait",
+    "description": "Transforms a rough character sketch into a refined fantasy anime bust portrait with ornate aristocratic costume details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786609322641_vkx4pt_HPgatesawAAFfA0.jpg"
     ],
     "needReferenceImages": true
   },
@@ -60,6 +91,16 @@
     "description": "A structural prompt for generating a character design sheet with a specific 25/75 split, featuring three-view full-body diagrams and face close-ups on a gray background.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1786523330548_awa79e_HPb6tLpbUAAkgT1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31309,
+    "content": "Create one complete high-detail professional storyboard sheet image for a 30-second 3D animated short film titled “{argument name=\"film title\" default=\"The Little Charger and the Last 1%\"}” — Storyboard Part 1.",
+    "title": "3D Animation Storyboard Part 1",
+    "description": "A detailed prompt for generating a professional storyboard sheet for the first part of a 3D animated short film, establishing characters and scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786609305364_zonyy4_HPfixAYawAEr9gZ.jpg"
     ],
     "needReferenceImages": false
   },

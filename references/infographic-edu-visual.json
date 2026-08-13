@@ -41,12 +41,34 @@
     "needReferenceImages": true
   },
   {
-    "id": 31255,
-    "content": "Create a vertical comparison-result image with a clean white header occupying the top quarter and a cinematic cyberpunk portrait below. In the header, center large black sans-serif text reading {argument name=\"model label\" default=\"GPT image 2.0\"} on a plain white background, with generous margins and no other graphics. Below the header, show a realistic nighttime futuristic city scene in a 3:4 vertical frame: a serious {argument name=\"subject description\" default=\"handsome dark-haired man in his early 30s\"} standing in the foreground, cropped from chest up, slightly left of center, wearing a black leather trench coat with a high raised collar over a dark shirt. His face is moody and partly shadowed, with subtle stubble, wavy tousled hair, and his gaze turned off to the left as if alert or contemplative. The background is a rain-slick neon skyline with glass skyscrapers, mist, reflections, and strong blue and magenta lighting. On the right-side building, include exactly 2 visible neon text elements: large cyan stacked words {argument name=\"building slogan\" default=\"BUILD THE FUTURE\"} and smaller magenta text {argument name=\"role label\" default=\"CO-FOUNDER\"}. Add distant vertical neon signs on the left, blurred city windows, wet railings at the bottom edge, and cinematic high-contrast lighting with shallow depth of field. Use photorealistic detail, noir atmosphere, 35mm film still composition, dramatic rim light, and no logos, watermarks, or extra text beyond the header and the two building sign texts.",
-    "title": "Cyberpunk Founder Portrait",
-    "description": "Generates a vertical AI model comparison-style image with a white label header above a cinematic cyberpunk founder portrait.",
+    "id": 31302,
+    "content": "{argument name=\"goal\" default=\"Create an image predicting what this baby will look like on their 50th day of life using this ultrasound photo.\"} The positions of the eyes, nose, and mouth must remain exactly the same as the current image, and the positions must match exactly when the two images are overlaid. This baby is a {argument name=\"baby gender and nationality\" default=\"Korean boy\"}.",
+    "title": "Ultrasound to Baby Portrait Transformation",
+    "description": "A prompt designed to transform a baby's ultrasound image into a realistic 50-day-old infant portrait while maintaining anatomical alignment.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786523376170_wdm84z_HPgP8PKbAAAqppU.jpg"
+      "https://cms-assets.youmind.com/media/1786609295386_zc2a7f_HPkxZiOa8AIHlnk.png",
+      "https://cms-assets.youmind.com/media/1786609295312_jr5rvo_HPkxerjbcAAzvDw.png",
+      "https://cms-assets.youmind.com/media/1786609295348_y84ipf_HPkyBOVboAADteu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31330,
+    "content": "Goal: Create a vertical comparison image showing the same white Toyota Celica GT-Four in three stacked photographic panels, comparing three realism styles: a real car, a real car photographed to look like a miniature, and a plastic model photographed to look like a real car.\n\nCanvas: Portrait 3:4 composition, 768 × 1024 style, divided into exactly 3 equal horizontal panels separated by thin white divider lines. No captions or overlay text outside the car details.\n\nSubject: A {argument name=\"car model\" default=\"white Toyota Celica GT-Four ST205\"} shown from a front-left three-quarter angle, low stance, white multi-spoke wheels, large rear wing, hood vent, round twin headlamps, front bumper fog lights, side decal reading “GT-FOUR,” and a Japanese license plate with the visible number {argument name=\"license plate number\" default=\"22-31\"}. The car should remain visually consistent across all three panels.\n\nSetting: Nighttime urban industrial road scene in {argument name=\"location style\" default=\"Japan\"}, wet asphalt after rain, reflective puddles, concrete pillars, chain-link fencing, bridge or elevated roadway structures, and warm streetlights receding into the background with bokeh.\n\nPanel 1: Top panel shows the real full-size car photographed naturally. Sharp, realistic automotive photography, crisp body details, accurate proportions, deep reflections on wet pavement, moderate background blur, cinematic night lighting.\n\nPanel 2: Middle panel shows the same real car but photographed to look miniature. Use tilt-shift depth of field, stronger blur at foreground and background, slightly toy-like scale illusion, softened details, shiny wet road reflections, and a more diorama-like feel while still using the same viewpoint.\n\nPanel 3: Bottom panel shows a plastic scale model of the same car photographed to look like a real full-size car. Keep the car highly realistic but subtly model-like in the surface finish and fine details; use shallow depth of field, realistic reflections, convincing low-angle automotive composition, and the same wet night street environment.\n\nVisual style: High-quality photorealistic comparison, cinematic contrast, glossy white paint, warm orange and cool blue night tones, realistic lens bokeh, no people, no extra vehicles, no logos or watermarks. Maintain exactly 3 panels and exactly 1 car per panel.",
+    "title": "Celica Real vs Miniature Comparison",
+    "description": "Generates a three-panel photorealistic comparison of a white Toyota Celica GT-Four as a real car, a miniature-looking real car, and a realistic plastic model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786609321763_7n7y2j_HPihBR9bsAAD7S3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31311,
+    "content": "Create a highly detailed photorealistic X-ray image of a transparent grand piano, shown in clean side profile on a pure black background. The piano should look like it is made of glowing translucent glass and pale blue-white radiographic material, revealing all internal mechanisms: the harp-shaped frame, dense parallel strings, soundboard ribs, cross braces, tuning pin area, keyboard action, hammers, dampers, pedal rods, and structural supports. Show exactly 3 visible legs: one front left leg under the keyboard, one central support/pedal assembly area with thin vertical rods, and one rear right leg under the body. Include exactly 6 large circular sound holes along the upper curved rim of the piano frame. Make the outer casing thick and transparent with bright illuminated edges, fine screws and hardware visible, and layered internal components overlapping like a medical scan. Use crisp high-contrast lighting, luminous cyan-white highlights, subtle bloom, sharp technical detail, and no text, no people, no watermark. Center the object vertically and horizontally, with the full piano visible and cropped only by the image frame margins. The overall effect should be a futuristic museum-quality X-ray scan of a {argument name=\"object\" default=\"grand piano\"}, combining engineering cutaway precision with dramatic black-background radiography.",
+    "title": "X-Ray Transparent Grand Piano",
+    "description": "Generates a photorealistic black-background X-ray view of a grand piano with its internal strings, frame, action, legs, and hardware visible.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786609306688_lwmh5o_HPh9fexWwAAyapr.jpg"
     ],
     "needReferenceImages": true
   },
