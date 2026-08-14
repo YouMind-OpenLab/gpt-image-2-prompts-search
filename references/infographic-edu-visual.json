@@ -41,6 +41,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 31401,
+    "content": "Blueprint for a robot from the '{argument name=\"organization name\" default=\"Metropolitan Police Heavy Equipment Task Force Robot Unit\"}'",
+    "title": "Police Robot Blueprint",
+    "description": "A technical concept art prompt for a robot blueprint from a fictional Metropolitan Police heavy equipment department.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786695887426_yfyu9q_HPm6JpWbEAAVnaW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31302,
     "content": "{argument name=\"goal\" default=\"Create an image predicting what this baby will look like on their 50th day of life using this ultrasound photo.\"} The positions of the eyes, nose, and mouth must remain exactly the same as the current image, and the positions must match exactly when the two images are overlaid. This baby is a {argument name=\"baby gender and nationality\" default=\"Korean boy\"}.",
     "title": "Ultrasound to Baby Portrait Transformation",
@@ -49,6 +59,16 @@
       "https://cms-assets.youmind.com/media/1786609295386_zc2a7f_HPkxZiOa8AIHlnk.png",
       "https://cms-assets.youmind.com/media/1786609295312_jr5rvo_HPkxerjbcAAzvDw.png",
       "https://cms-assets.youmind.com/media/1786609295348_y84ipf_HPkyBOVboAADteu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31458,
+    "content": "Create an abstract topographic mixed-media artwork on a horizontal {argument name=\"aspect ratio\" default=\"4:3 landscape\"} canvas, resembling a large aerial geological map or energetic convergence diagram. The composition centers on a bright glowing circular hub slightly below the middle, made of concentric translucent rings in warm gold, cream, and gray, with thin radial lines extending outward. From this center, four broad organic terrain-like regions flow outward: a dark charcoal and slate-black river-shaped mass sweeping from the left edge into the center and down toward the lower left, a rusty burnt-orange and sienna canyon-like band expanding from the center to the lower right, a pale cream and sand-colored open field filling the upper and right areas, and muted gray-beige layered landforms in the upper left and lower middle. Cover the image with delicate contour lines, hairline curves, dotted paths, small node circles, and fine white and black route-like lines that weave across the colored regions. Include exactly 3 small orange dots near the upper center, exactly 2 large ochre circular stains in the upper right, and numerous tiny scattered black, white, gray, and gold dots arranged like constellations and map markers. Use a restrained palette of {argument name=\"main palette\" default=\"ivory, charcoal black, warm gray, ochre gold, burnt orange, rust brown\"}, with watercolor washes, mineral textures, translucent paper layers, ink scratches, stippling, and subtle grain. The style should feel like an elegant abstract cartographic painting, a cosmic topography, or a geological energy map, with no readable text, no labels, no border, no people, and no recognizable objects. Lighting should be soft and diffuse, with the central hub as the brightest point, creating a sense of motion and convergence. Render highly detailed fine linework and tactile handmade textures, suitable for a gallery-quality generative art print.",
+    "title": "Abstract Topographic Energy Map",
+    "description": "Generates a refined abstract cartographic artwork with layered terrain textures, contour lines, dotted paths, and a glowing central convergence point.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786695933960_0p7a86_HPkPz6KbcAAdKvC.jpg"
     ],
     "needReferenceImages": true
   },
