@@ -1,5 +1,174 @@
 [
   {
+    "id": 31484,
+    "content": "Ultra-realistic cinematic black-and-white portrait of a {argument name=\"subject description\" default=\"handsome young man with tousled wavy dark hair, subtle stubble, defined masculine facial features, and classic round black eyeglasses\"}, seated in a {argument name=\"setting\" default=\"luxurious dark leather armchair\"}. He wears a {argument name=\"outfit\" default=\"perfectly tailored black blazer over a black turtleneck\"}, with one hand resting naturally near his neck and a sophisticated metal luxury wristwatch visible on his wrist. Calm, confident, slightly mysterious expression, looking directly toward the camera. Extremely low-key chiaroscuro lighting, a single narrow window light cutting diagonally across the scene and illuminating one side of his face while the other side falls into deep shadow. Strong geometric light and shadow patterns on the textured wall, deep blacks, crisp highlights, rich monochrome tonal range, subtle analog film grain, realistic skin pores, detailed hair strands, natural facial proportions, soft background falloff, dark elegant interior, intimate luxury editorial mood, timeless film-noir aesthetic. Shot on a full-frame professional camera with an 85mm lens, shallow depth of field, cinematic composition, high contrast, photorealistic, refined photographic texture, vertical 4:5 composition, no color, no text, no watermark.",
+    "title": "Cinematic B&W Male Portrait",
+    "description": "An ultra-realistic cinematic black-and-white portrait prompt featuring a handsome man in a luxury setting with chiaroscuro lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781668505_ukvm4j_HPvu-fjaYAAAkBL.jpg",
+      "https://cms-assets.youmind.com/media/1786781670005_g98s1i_HPvvABJbYAAeQIg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31490,
+    "content": "Create an ultra-realistic fashion portrait using the reference image as the exact identity source. Preserve facial features, proportions, skin tone, asymmetry, and natural skin texture without retouching or beautification.\n\n{argument name=\"poses\" default=\"Three vertically stacked smartphone-photo frames\"} of a young woman with {argument name=\"hair style\" default=\"long, voluminous dark-brown wavy hair\"} resting on a plush white bed:\n\nTop: Chin resting on one hand, looking at camera with a gentle smile.\n\nMiddle: Soft profile, looking away and smiling, hair flowing across face and shoulder.\n\nBottom: Cheek on hand, playful wink with an affectionate smile.\n\n{argument name=\"outfit\" default=\"Minimal black thin-strap top\"}, natural makeup, soft brows, pink lips, flushed cheeks. Bright minimalist bedroom, white bedding/walls, sheer curtain, dark-grey headboard. Soft natural morning side-light, realistic smartphone exposure, wide-angle selfie perspective, crisp facial focus, photorealistic, unedited, natural pores.\n\nNegative: CGI, 3D, cartoon, anime, deformed eyes, extra limbs, blur, heavy makeup, plastic/smooth skin, oversaturation, filters, harsh shadows, low resolution, bad anatomy.",
+    "title": "Multi-Pose Wavy Dark Hair Portrait",
+    "description": "A prompt for generating three vertically stacked photos of a woman with long dark-brown wavy hair on a bed, using a reference image for identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781673379_0c5p7c_HPvtArHbgAAhX-m.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31487,
+    "content": "Cinematic studio portrait of a young {argument name=\"ethnicity\" default=\"East Asian\"} woman with {argument name=\"hair type\" default=\"voluminous wavy dark hair\"}, and understated bronze makeup, gazing calmly toward the camera in a refined three-quarter pose. Wrapped in a {argument name=\"outfit\" default=\"glossy copper jacket\"} slipping from one shoulder, she is lit by soft golden highlights against a deep, blurred background for an elegant, editorial finish.",
+    "title": "Cinematic East Asian Woman Portrait",
+    "description": "A cinematic studio portrait prompt for a young East Asian woman, featuring soft golden lighting and an editorial finish.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781671950_b33v4f_HPvVOA5boAAnhCU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31493,
+    "content": "A cute candid indoor portrait of a young woman leaning toward the camera at a cozy modern café or restaurant. She has long, softly wavy dark-brown hair with a natural side part, and white chunky sunglasses resting on top of her head. She wears a relaxed oversized white T-shirt and poses playfully with both hands raised beside her cheeks, making a cute paw-like gesture.\nHer face has soft natural makeup, rosy cheeks, subtle eyeliner, and a gentle playful expression. Her fingernails feature colorful pastel nail art with different cute designs. She wears delicate bracelets and minimal jewelry.\nThe background shows a warm contemporary café interior with pale walls, recessed ceiling lights, modern air-conditioning units, wooden furniture, and a decorative hanging chandelier. Soft indoor lighting, slightly dreamy smartphone photography, natural skin texture, warm muted tones, shallow depth of field, candid youthful aesthetic, high detail, vertical portrait composition, 4:5 aspect ratio.",
+    "title": "Candid Cafe Portrait Photography",
+    "description": "Generates a youthful and candid portrait of a woman in a cafe, featuring natural lighting, specific fashion choices, and a smartphone photography aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781676252_oe9hgb_HPu7Lo3a4AAoi_U.jpg",
+      "https://cms-assets.youmind.com/media/1786781676323_uiucmz_HPu7M6IasAA_11e.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31495,
+    "content": "Create a hyper-realistic full-length mirror selfie of a clearly adult woman, maintaining her exact facial identity, facial structure, proportions, skin tone, and natural asymmetry. She is standing inside a sleek contemporary elevator with brushed-metal walls and subtle cool reflections. Her pose is relaxed and sophisticated: gently leaning against the elevator wall, one leg extended naturally while the other is bent with her foot resting lightly against the wall. She holds an iPhone close beside her cheek, while her free hand carries a small bouquet of pink roses together with a white shopping bag.\nShe wears a fitted black mini dress beneath an oversized black blazer, elegant black strappy heels, a delicate necklace, and small hoop earrings. Keep makeup light and realistic. Use subdued overhead elevator lighting with cool metallic highlights and believable shadows. Capture authentic iPhone 15 Pro Max photography characteristics, including natural skin pores, subtle texture, realistic fabric detail, mild smartphone grain, accurate mirror reflections, and natural perspective. Vertical full-body composition, 9:16, sharp facial detail and clothing.\nAvoid identity changes, face beautification, artificial skin smoothing, extra fingers, malformed hands, duplicated people, duplicate reflections, distorted phone geometry, warped limbs, unrealistic reflections, CGI appearance, or plastic-looking skin.",
+    "title": "Hyper-realistic Elevator Mirror Portrait",
+    "description": "Detailed generation instructions for a sophisticated full-length mirror selfie inside a sleek contemporary elevator, focusing on texture and realistic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781678332_5oduc7_HPu65eVaMAAFwdf.jpg",
+      "https://cms-assets.youmind.com/media/1786781678372_7qdyct_HPu66HQaIAAHPub.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31526,
+    "content": "Tight frontal portrait of {argument name=\"subject\" default=\"[Subject]\"}, face filling most of the frame, direct gaze, clean pale or white background. Predominantly monochrome black-and-white rendering with high editorial contrast, fine photographic texture, and ultra-detailed skin, hair, and material surfaces. One side of the portrait is interrupted by a sharp vertical rupture or glitch seam, revealing vivid fluorescent liquid color, acid magenta, cyan, electric green, orange, and violet, flowing like molten holographic marbling. One eye glows intensely with concentric neon rings. Geometric glyphs, nested square motifs, pixel fragments, and subtle biomechanical textures spread across the forehead, temple, cheek, and neck. Cyber-organic surrealism, sleek but unsettling, asymmetrical interference within an otherwise balanced composition.",
+    "title": "Glitch Aesthetic Surreal Portrait",
+    "description": "A high-contrast monochrome portrait prompt featuring a sharp vertical glitch rupture that reveals vibrant neon colors and biomechanical details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781707214_vku9a5_HPud49jWAAAAsOc.jpg",
+      "https://cms-assets.youmind.com/media/1786781707155_2b6otn_HPud49lW0AAXo3a.jpg",
+      "https://cms-assets.youmind.com/media/1786781706868_syt7zu_HPud49iXQAAb7Ir.jpg",
+      "https://cms-assets.youmind.com/media/1786781708195_lhhrg2_HPud49kWMAATVdX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31521,
+    "content": "A refined New Chinese-style editorial portrait that blends {argument name=\"elements\" default=\"timeless elegance with modern luxury\"}, and {argument name=\"lighting\" default=\"soft studio lighting\"}.",
+    "title": "New Chinese-Style Editorial Portrait",
+    "description": "A refined prompt for generating high-end fashion portraits that combine traditional Chinese elegance with contemporary luxury elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781703129_cpi2rl_HPucGW8bYAAsUOP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31517,
+    "content": "Subject:\n{argument name=\"subject\" default=\"Turning back in the night blue\"}\n\nMain Subject:\nA single adult woman sitting by a {argument name=\"location\" default=\"night pool at a tropical resort\"}. A night portrait from the head to below the waist, wearing {argument name=\"attire\" default=\"a gray thin-strap bikini\"}, showing her back in the lower center of the screen while looking back at the camera.\n\nPerson/Expression:\nA slightly slender oval face with a small chin, light brown almond-shaped eyes, thin natural eyebrows, a small nose, and glossy coral-pink lips. The face is turned toward the camera over her own left shoulder, gaze directed forward, with a calm expression and slightly parted lips. Light brown long hair reaching below the chest is parted near the center, with translucent thin bangs, fine strands along the cheeks, and loosely waving ends flowing down her back. Delicate eyeliner, faint blush, and smooth skin reflecting a warm flash light.\n\nClothing/Pose:\nA plain, muted gray bikini. The top has thin shoulder straps and multiple thin straps crossing the back, with long strings tied in a ribbon at the bottom center. Simple high-cut bottoms. Sitting sideways on the stone edge of the pool with knees bent, hips moved to the right side of the frame, supporting the upper body with both hands on the floor by her side.\n\nBackground/Light:\nA deep blue rectangular pool occupies most of the frame, with underwater lighting and warm lights reflecting off fine ripples. In the background are a wooden deck, lined lounge chairs, closed parasols, a wooden pergola, tall palms, and dense greenery. Vertical warm-colored lights are scattered across the black night sky. A soft warm flash near the camera serves as the main light on the subject, keeping the background dark while adding blue reflected light from the pool to her silhouette.\n\nComposition/Camera:\n3:4 vertical. A close-up portrait taken from a rear-diagonal angle, slightly looking down from a camera position higher than the seated subject's shoulders. The subject is placed largely in the lower half, centered to the right, leaving a wide night view of the pool, deck, and palms above. Captures from the head to the bent waist and thighs, with knees cropped near the bottom edge. Focus is on the face and back, while the chairs and greenery in the distance are blurred with a shallow depth of field.\n\nTexture/Style:\nHigh-definition photorealistic night photography. Precisely depicts wet skin, gray swimsuit fabric, long hair, stone floors, the blue water surface, and warm reflections. A quiet, high-quality resort night with strong contrast between deep blue, black, and amber.",
+    "title": "Night Resort Pool Side Portrait",
+    "description": "A highly detailed structured prompt for a photorealistic night portrait of a woman sitting by a resort pool, featuring specific details on lighting, textures, and camera composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781698382_b1a9vg_HPiDzmXbYAARbH1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31518,
+    "content": "A beauty of {argument name=\"nationality/martial art\" default=\"Chinese martial arts\"}, {argument name=\"character name\" default=\"Anri\"}, embodying justice, mysterious beauty, and grace.",
+    "title": "Chinese Martial Arts Beauty Portrait",
+    "description": "A short prompt for generating a beautiful woman embodying the grace and mystery of Chinese martial arts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781699355_7d42uh_HPtQtATaMAARQIM.jpg",
+      "https://cms-assets.youmind.com/media/1786781699478_5p3m2c_HPtQue0aYAAiFUr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31498,
+    "content": "Do not change the facial features or hair color. 100% likeness. Create a realistic image.\\n\\nA three-frame vertical collage (photo booth / photo booth grid) consisting of three close-up selfies of the same girl, showing different natural, lively emotions.\\n\\nCamera angle: Close-up face / portrait, vertical format.\\n\\nFrames & Emotions\\n\\nTop frame:\\nThe girl has her eyes closed and is making a duck-face pout.\\n\\nMiddle frame:\\nPlayfully bold expression — the girl slightly scrunches her nose and casually bites her finger while looking sideways.\\n\\nBottom frame:\\nA carefree, confident expression — looking directly into the camera through a slightly falling strand of hair, with her lips slightly parted in a flirtatious expression. Around her neck is a delicate silver chain with a pendant. Well-groomed manicure.\\n\\nClothing, Background & Lighting\\n\\nClothing:\\n{argument name=\"clothing item\" default=\"Black (charcoal) oversized hoodie / zip-up hoodie with a red “RED FLAG\" print.\"}\\n\\nBackground & Lighting:\\nMinimalist white/light-colored wall.\\n\\nLighting is a harsh direct camera flash, creating sharp, defined shadows of the girl on the wall, in a Y2K and late-night party photography style.\\n\\nShot on an iPhone 17, with realistic mobile-phone processing, no excessive plastic-like skin smoothing, natural depth of field, subtle digital noise, and delicate film grain.",
+    "title": "Y2K Style Photo Booth Collage",
+    "description": "A realistic prompt for generating a three-frame vertical photo booth collage of close-up selfies with natural expressions and Y2K aesthetic flash lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781681645_uzulh7_HPszZXrboAAit4N.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31488,
+    "content": "RAW 8K smartphone photograph with an authentic, unretouched front-camera look. Preserve the subject’s identity with exact facial geometry and recognizable features—no beautification, face reshaping, skin smoothing, or artificial perfection. Natural pores, fine lines, subtle skin variations, tiny imperfections, realistic hair texture, and mild smartphone sensor grain should remain visible. Avoid any CGI, overly polished, or synthetic appearance.\n\nA young woman takes an intimate close-range bedroom selfie from a slightly upward camera angle. Her face is angled subtly upward, with her head turned just enough to create a natural candid composition. She maintains relaxed eye contact with the lens and a calm, self-assured expression.\n\nHer hair is long, thick, and naturally wavy, featuring a {argument name=\"hair color\" default=\"dramatic two-tone color treatment: deep black at the roots gradually blending into vivid hot-pink and magenta\"}. The hair is parted near the center, with loose strands, flyaways, uneven texture, and individually defined strands for believable realism.\n\nMakeup features a modern East Asian-inspired Douyin aesthetic: luminous but naturally textured skin, softly sculpted brows with a feathered finish, elongated black winged eyeliner, delicate separated lower lashes, a subtle rosy flush across the upper cheeks, and glossy pink gradient lips with realistic moisture.\n\nShe wears a {argument name=\"outfit\" default=\"fitted black ribbed cotton scoop-neck crop tank\"}, paired with a fine layered silver necklace and a small crystal-detailed crucifix pendant. Large minimalist silver hoop earrings complete the look.\n\nThe {argument name=\"setting\" default=\"setting is an ordinary lived-in bedroom\"} rather than a studio. Soft daylight enters from a nearby window on the left through translucent white curtains. A small white bedside table holds a leafy green houseplant. Behind her are naturally rumpled white bedsheets and a softly textured pale neutral wall.\n\nUse realistic smartphone front-camera optics, slight natural lens distortion, imperfect exposure, subtle grain, authentic depth separation, and believable daylight. The final image should feel like an unedited personal selfie captured spontaneously on a real phone—raw, intimate, imperfect, and completely photorealistic.",
+    "title": "Pink Hair Bedroom Selfie Photography",
+    "description": "A prompt for a raw, unretouched smartphone selfie featuring a woman with two-tone pink and black hair in a bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781671966_e2z04h_HPsxuAXa4AA9cFs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31520,
+    "content": "Subject: {argument name=\"theme\" default=\"A window overlooking a flower garden\"}\n\nSubject details: A single adult woman in pale light blue loungewear by an open white wooden window. A portrait from head to mid-thigh, leaning her hands on the windowsill looking out at the garden and looking back over her shoulder in the center of the screen.\n\nCharacter/Expression: A small oval face with a rounded chin, large dark brown almond-shaped eyes, thin natural eyebrows, a small nose, and pale pink lips. Facing over her right shoulder toward the upper right of the screen, looking up at the garden with a quiet profile and lips slightly parted. Dark brown chin-length bob with a center part, thin bangs, fine strands along the cheeks, and slightly wispy ends. Light eye makeup, pale blush, and skin warmed by natural light.\n\nOutfit/Pose: {argument name=\"outfit\" default=\"A light gray-blue fine-ribbed cropped camisole top with thin shoulder straps and matching fitted shorts\"}. White trim and straps. Standing inside, leaning her torso deep toward the window from the waist, with arms extended and hands on the wooden windowsill. Back to the camera, with hips shifted to the left of the screen while looking back to the right.\n\nBackground/Light: {argument name=\"background\" default=\"White wall on the left, sheer ecru lace curtains, a small wooden chest, and a white vase\"}. Potted plant in a rattan basket at the bottom right, ecru bedding at the bottom edge. Outside the open window is a garden densely lined with purple, white, and pale pink flowers and green pots, a white deck chair, and a large ecru parasol. Warm, soft direct sunlight from the garden at the top right outlines the hair, shoulders, back, and hips, casting leaf shadows on the windowsill and indoors.\n\nComposition/Camera: 3:4 aspect ratio. Shot from a horizontal perspective, slightly lower than the person's waist, diagonally from behind. The person is placed large from center to left, capturing head to mid-thigh, with the thigh cropped at the bottom edge. The window frame acts as a vertical border enclosing the person and the garden, with the curtain on the left and the pot on the bottom right creating depth. Focus on the face and back, with the back of the garden softly blurred with a medium depth of field.\n\nTexture/Style: High-definition photorealistic live-action photo. Naturally depicts the fine rib fabric, short hair, wooden frame, thin curtains, flowers, and leaves in soft morning light. A bright and calm cottage-style color scheme centered on pale blue, ecru, and green.",
+    "title": "Woman Looking Out Garden Window",
+    "description": "A detailed prompt for a high-definition photorealistic shot of a woman in lounge wear looking out a wooden window at a blooming garden.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781701287_bnrmp4_HPiBfiRaYAAzU20.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31387,
+    "content": "Ultra-realistic, breathtaking high-fashion black-and-white beauty portrait designed to instantly stop the scroll. A stunning {argument name=\"ethnicity\" default=\"young East Asian woman\"} with an effortlessly captivating presence, long, thick, slightly tousled dark hair naturally framing and partially covering her face. Her luminous skin has realistic pores, delicate texture, subtle highlights, and soft natural radiance.\nHer face is the undeniable focal point: expressive almond-shaped eyes with intense natural catchlights, perfectly defined yet realistic brows, elegant winged eyeliner, long separated lashes, a refined sculpted nose, softly defined cheekbones, and naturally full glossy lips slightly parted with a subtle glimpse of teeth. Her gaze locks directly onto the camera with a quietly confident, mysterious, magnetic expression that creates immediate visual connection.\nShe poses in an elegant three-quarter angle, head slightly tilted toward the camera, with one hand naturally resting behind her hair. A graceful bare shoulder enters the foreground.",
+    "title": "High-Fashion B&W Beauty Portrait",
+    "description": "A sophisticated prompt for an ultra-realistic black-and-white beauty portrait, capturing fine skin texture, magnetic expressions, and high-fashion composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781706929_daqmt0_HPqpnKobUAAFPiw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31372,
+    "content": "An exquisite oil painting portrait of an elegant woman featuring visible, textured brushstrokes that give the artwork a classic, classical-impressionist feel. She wears a wide-brimmed {argument name=\"hat color\" default=\"deep blue\"} hat adorned with textured floral elements and ribbon details, paired with a matching rich blue lace-patterned dress. Her dark hair frames a soft, gentle face with expressive dark eyes, subtle blush, and a delicate smile, while small hoop earrings catch the light. The background is a neutral, textured off-white wall with soft lighting that accentuates the depth and dimensionality of the subject.",
+    "title": "Classic Impressionist Oil Portrait",
+    "description": "Generates an exquisite oil painting with visible brushstrokes and a classical-impressionist feel, featuring an elegant woman in a wide-brimmed hat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781712895_oehmpc_HPqpJnXaUAAtOr-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31361,
+    "content": "A candid outdoor lifestyle portrait of a young woman sitting on the edge of a grassy park walkway, holding an acoustic guitar across her lap and smiling warmly at the camera. She has long, straight light-brown hair, natural makeup, and a relaxed cheerful expression. She wears a delicate cream short-sleeve textured top, high-waisted brown wide-leg pants, a simple necklace, and white casual sandals.\nThe camera looks down from a slightly elevated angle, capturing her full seated pose, the acoustic guitar, and the surrounding environment. Lush green grass with tiny white wildflowers surrounds her, with large natural rocks along the upper left and a blue-gray paved brick walkway running beside her. A smartphone rests casually on her lap. Soft natural daylight, fresh outdoor atmosphere, realistic photography, warm natural tones, gentle shadows, subtle depth of field, candid smartphone photo aesthetic, high detail, vertical composition, 4:5 aspect ratio.",
+    "title": "Outdoor Park Guitar Portrait",
+    "description": "A candid outdoor lifestyle prompt for generating a warm, cheerful portrait of a woman with an acoustic guitar in a park setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781679658_vgedp4_HPqod5EasAAcK4p.jpg",
+      "https://cms-assets.youmind.com/media/1786781679644_fshpv0_HPqojsYbMAAN4bQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31534,
+    "content": "Create a premium glossy 3D designer toy render of a single floating head of a cheerful young woman, cropped cleanly just below the jaw with a short visible neck, full head comfortably framed and centered. She has {argument name=\"skin tone\" default=\"warm medium tan skin\"}, a soft rounded face, thick dark eyebrows, a small nose, glossy peach lips, and a subtle confident smile. Give her {argument name=\"hair color\" default=\"dark chocolate brown\"} shoulder-length wavy hair with exaggerated smooth sculpted strands, deep side volume, high specular highlights, and a polished vinyl-toy finish. Add oversized wraparound visor sunglasses with a bright pink frame and reflective blue-to-purple gradient lenses; the eyes are faintly visible behind the tinted lenses. Decorate the hair and glasses with exactly 3 cute glossy accessories: 1 pink star hair clip on the left side of her hair, 1 pink heart hair clip on the right side, and 1 small white-and-blue cloud charm attached near the left hinge of the sunglasses. Use a high-end collectible toy aesthetic: rounded stylized proportions, smooth plastic skin, glossy reflections, clean seams-free modeling, vivid colors, soft studio-quality lighting mixed with sunny outdoor highlights, shallow depth of field. Background: {argument name=\"background\" default=\"bright blue sky with soft fluffy white clouds\"}, blurred slightly so the head stands out. Composition: vertical portrait, close-up bustless floating head, no body, no shoulders, no duplicate heads, no text, no watermark, no extra accessories beyond the 3 listed.",
+    "title": "Glossy Designer Toy Floating Head",
+    "description": "Generates a premium 3D collectible-style floating head portrait with glossy hair, visor sunglasses, cute clips, and a bright sky background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781716819_73h2n7_HPqAskHbEAA360H.jpg",
+      "https://cms-assets.youmind.com/media/1786781716836_cgpne0_HPqAskQaEAAKIcw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 31369,
     "content": "Create an insanely photorealistic, stop-scrolling vertical portrait that feels like a perfectly timed candid selfie someone captured by accident—but looks unbelievably beautiful and cinematic.\\n\\nA {argument name=\"subject\" default=\"beautiful young woman\"} stands close to the camera in a cozy modern interior, creating an intimate, instantly eye-catching composition. Her long, luxurious {argument name=\"hair color\" default=\"honey-blonde\"} hair flows naturally over both shoulders and down her torso, with thousands of individually visible strands catching the warm sunlight. Subtle golden highlights and soft flyaway hairs create an authentic, effortless look.\\n\\nHer face is the undeniable focal point: luminous natural skin with visible realistic pores and delicate texture, softly flushed cheeks, elegant facial proportions, naturally full rosy lips, and mesmerizing light blue-gray eyes with intricate iris detail, realistic moisture, sharp catchlights, and subtle reflections of the room. Her expression is soft, confident, slightly mysterious, and effortlessly captivating—as if she just noticed the camera.\\n\\nHer head is tilted slightly toward the viewer, creating a natural, flattering perspective. Her eyes make direct contact with the lens, producing a strong “you had to stop and look twice” feeling.\\n\\nShe wears a {argument name=\"attire\" default=\"sophisticated cream-white textured button-up shirt over a fitted white camisole\"}. A tiny gold pendant necklace and delicate hoop earrings add understated luxury. The styling feels expensive without looking overly produced.\\n\\nLighting is the hero: intense but natural golden-hour sunlight enters from the side, wrapping around her face and hair, producing glowing highlights, subtle rim light, realistic skin shadows, and beautiful dimensional contrast. A few illuminated strands of hair glow almost magically against the darker background.\\n\\nBehind her is a minimalist charcoal-gray interior with subtle architectural details and a partially visible framed artwork, heavily softened by shallow depth of field. The darker background dramatically separates her illuminated face and golden hair from the scene.\\n\\nPhotography style: ultra-realistic smartphone flagship camera aesthetic, candid luxury lifestyle photography, cinematic realism, natural imperfections, authentic skin texture, realistic hair physics, physically accurate shadows, HDR, subtle film grain, soft highlight roll-off, realistic exposure, crisp eyes, gentle background bokeh, 50mm portrait look, f/1.8, high dynamic range, 8K detail.\\n\\nViral visual priorities: immediate eye contact, mesmerizing eyes, glowing hair, flattering natural light, emotional expression, luxurious simplicity, realistic imperfections, strong foreground/background separation, intimate framing, and an effortlessly beautiful “caught in the moment” feeling.",
     "title": "Candid Flagship Camera Selfie",
@@ -12,37 +181,57 @@
   },
   {
     "id": 31366,
-    "content": "Preserve the clearly adult woman’s exact identity, facial features, proportions, skin tone, and natural asymmetry. Hyperrealistic Pinterest-style iPhone 15 Pro Max mirror selfie inside a {argument name=\"setting\" default=\"modern brushed-steel elevator\"}. She leans lightly against the wall, one leg straight and the other bent with foot resting naturally against the wall, relaxed elegant pose. She holds an iPhone beside her cheek while her other hand carries {argument name=\"accessories\" default=\"pink roses and a white shopping bag\"}. {argument name=\"attire\" default=\"Fitted black mini dress, oversized black blazer, black strappy heels\"}, delicate necklace, small hoop earrings, light makeup. Dim overhead lighting, cool metallic reflections, realistic skin texture, authentic phone-camera grain, natural mirror perspective, full-length vertical 9:16, sharp face and clothing, believable hands and reflections. --no altered identity, extra fingers, extra people, duplicated reflection, warped phone, CGI, plastic skin.",
-    "title": "Hyperrealistic Mirror Selfie Prompt",
-    "description": "A prompt for creating a realistic iPhone mirror selfie in an elevator, preserving subject identity from a reference.",
+    "content": "Preserve the clearly adult woman’s exact identity, facial features, proportions, skin tone, and natural asymmetry. Hyperrealistic Pinterest-style iPhone 15 Pro Max mirror selfie inside a modern brushed-steel elevator. She leans lightly against the wall, one leg straight and the other bent with foot resting naturally against the wall, relaxed elegant pose. She holds an iPhone beside her cheek while her other hand carries pink roses and a white shopping bag. Fitted black mini dress, oversized black blazer, black strappy heels, delicate necklace, small hoop earrings, light makeup. Dim overhead lighting, cool metallic reflections, realistic skin texture, authentic phone-camera grain, natural mirror perspective, full-length vertical 9:16, sharp face and clothing, believable hands and reflections. --no altered identity, extra fingers, extra people, duplicated reflection, warped phone, CGI, plastic skin.",
+    "title": "Hyperrealistic Mirror Selfie Portrait",
+    "description": "A high-quality prompt for generating hyperrealistic mirror selfies with specific clothing, accessories, and atmospheric lighting details for identity preservation.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786695860754_dfc1y5_HPpwYsxbUAAjwNU.jpg",
-      "https://cms-assets.youmind.com/media/1786695860781_63lmo9_HPpwZ82bUAA1UVm.jpg"
+      "https://cms-assets.youmind.com/media/1786781676276_4gpabc_HPpwYsxbUAAjwNU.jpg",
+      "https://cms-assets.youmind.com/media/1786781676255_n2dz1d_HPpwZ82bUAA1UVm.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 31436,
-    "content": "Create a delicate single-character anime-style illustration on a clean white background. Show a young woman in a three-quarter back view, turned over her shoulder toward the viewer with a calm, slightly wistful expression. She has very long {argument name=\"hair color\" default=\"black\"} hair gathered into a high loose ponytail, with many fine stray strands and a large {argument name=\"hair ribbon color\" default=\"navy blue\"} bow tied near the top. Her face is soft and pale with subtle blush, narrow gray eyes, small lips, and refined linework. She wears a romantic vintage outfit: an off-white blouse with a ruffled high collar, ruffled cuffs, loose puffed sleeves, and a deep {argument name=\"skirt color\" default=\"navy blue\"} high-waisted skirt or corset waist with black lace-up ties visible at the back. Her right hand is raised delicately, holding exactly 1 dandelion puff on a thin green stem beside her face. Use an airy hand-drawn manga illustration style with clean sketchy black outlines, very light watercolor-like shading, muted colors, minimal background detail, graceful proportions, and lots of negative space. Keep the composition vertical, waist-up to upper-thigh framing, the hair flowing down the left side of the image, and avoid any text, watermark, extra characters, or additional objects.",
+    "content": "Create a delicate single-character anime illustration on a clean white background, showing a young woman with {argument name=\"hair color\" default=\"long black hair\"} tied in a high ponytail with a large {argument name=\"ribbon color\" default=\"deep navy blue\"} bow. She is turned three-quarters away from the viewer, looking back over her shoulder with a calm, slightly wistful expression, soft gray eyes, pale skin, and loose wispy strands of hair framing her face. She wears a cream-white vintage blouse with ruffled collar and ruffled cuffs, softly puffed sleeves, and a high-waisted {argument name=\"skirt color\" default=\"dark navy\"} skirt with a visible corset-style lace-up back. In her raised right hand she gently holds one slender dandelion seed head on a thin stem. Use refined hand-drawn line art, thin sketchy black outlines, minimal shading, muted colors, subtle fabric folds, graceful anatomy, and an airy romantic mood. Composition should be vertical, waist-up to mid-thigh, with the character occupying most of the frame and plenty of negative space around her; no text, no watermark, no extra objects.",
     "title": "Anime Girl Holding Dandelion",
-    "description": "A clean text prompt for generating a delicate anime-style portrait of a long-haired girl in vintage clothing holding one dandelion puff.",
+    "description": "A refined anime-style character illustration of a wistful young woman in vintage clothing holding a dandelion, useful for soft romantic portrait art.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786695915334_u98oeh_HPpporoacAAhhke.jpg",
-      "https://cms-assets.youmind.com/media/1786695915326_ur3zmc_HPppyYSaUAAZ1kQ.jpg",
-      "https://cms-assets.youmind.com/media/1786695915378_5rxa0y_HPpp2nqaEAAh6Js.jpg"
+      "https://cms-assets.youmind.com/media/1786781721078_juyl2x_HPpporoacAAhhke.jpg",
+      "https://cms-assets.youmind.com/media/1786781721056_lbcic1_HPppyYSaUAAZ1kQ.jpg",
+      "https://cms-assets.youmind.com/media/1786781721044_vblaxx_HPpp2nqaEAAh6Js.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 31398,
-    "content": "{argument name=\"lighting\" default=\"Soft and transparent light, as if shot in natural light\"}. 9:16 aspect ratio. A Japanese woman in her early 20s. {argument name=\"body type\" default=\"Chubby build\"}. Fair-skinned round face. Cute smile. Appearance varies significantly with each generation. Shot as a portrait. Pose, composition, and location are randomly generated each time.",
-    "title": "Natural Light Portrait Base",
-    "description": "A foundational prompt structure for achieving soft, transparent natural lighting in portraits of a young Japanese woman, suitable for window or outdoor settings.",
+    "content": "{argument name=\"aspect ratio\" default=\"9:16\"} aspect ratio. A Japanese woman in her {argument name=\"age\" default=\"early 20s\"}. {argument name=\"body type\" default=\"Chubby\"} build. Fair-skinned round face. A cute smile. Features vary significantly with each generation. Photographed as a portrait. Poses, compositions, and shooting locations are randomized for each generation. Soft, transparent light as if shot in natural light. No strong artificial lighting or harsh shadows.",
+    "title": "Natural Light Portrait Template",
+    "description": "A versatile Japanese prompt template for generating soft, transparent portraits with natural lighting and randomized appearances.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1786695884307_5g5fmy_HPo3aAtbgAAD4w7.jpg",
-      "https://cms-assets.youmind.com/media/1786695884270_3i1sxf_HPo3aAvboAA5SJG.jpg",
-      "https://cms-assets.youmind.com/media/1786695884256_aaurj0_HPo3aAvb0AA_vzw.jpg",
-      "https://cms-assets.youmind.com/media/1786695885173_62ccux_HPo3aA1aAAA7TJG.jpg"
+      "https://cms-assets.youmind.com/media/1786781701854_tcx2ir_HPo3aAtbgAAD4w7.jpg",
+      "https://cms-assets.youmind.com/media/1786781701882_o4jvz5_HPo3aAvboAA5SJG.jpg",
+      "https://cms-assets.youmind.com/media/1786781701948_xeb8kk_HPo3aAvb0AA_vzw.jpg",
+      "https://cms-assets.youmind.com/media/1786781703137_se1b8l_HPo3aA1aAAA7TJG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31515,
+    "content": "Subject:\nAmber Morning Preparation\n\nMain Subject:\nAn indoor portrait capturing a single adult woman sitting on an {argument name=\"off-white bed\" default=\"off-white bed\"}, shown from her head down to her bent legs. She occupies the center of the frame, with her {argument name=\"pale beige satin slip dress\" default=\"pale beige satin slip dress\"} catching the morning light.\n\nPerson/Expression:\nA slightly elongated oval face with a small chin, dark brown almond-shaped eyes, thin natural eyebrows, a small nose, and full dusty pink lips. Her face is tilted toward the bottom left of the frame, with her gaze also dropped to the bottom left, and a quiet expression with closed lips. Long dark brown hair parted near the center, leaving thin bangs and fine strands falling along the cheeks, flowing naturally from shoulders to back. Light eye makeup, soft coral blush, and warm, smooth skin.\n\nClothing/Pose:\nA pale champagne beige above-the-knee satin slip dress. Features ultra-thin shoulder straps, a deep V-neck, delicate matching floral lace at the bust and hem, and loose draping transitioning below the bust. Sitting on the bed with both knees bent, her left thigh toward the front and her right leg folded under her body. Her left hand is placed on the bedding to her left, while her right arm is placed behind her to support her upper body, with shoulders slightly shrugged.\n\nBackground/Lighting:\nOff-white duvet and pillows, with a beige upholstered headboard behind. To the right of the screen is a small wooden side table and a transparent glass bottle with pale dried flowers. The window at the top right has white sheer curtains and beige thick curtains. Soft diffused morning light from the window on the right acts as the primary light source, warmly illuminating her cheeks, bust, satin, and thighs, while casting gentle shadows to the left.\n\nComposition/Camera:\nVertical 14:19 aspect ratio. A close-up portrait taken from a camera slightly above bed height at a very light high-angle view. The person is placed in the center with a small amount of headroom, capturing from the left hand to the vicinity of the right toes. The toes at the right edge are naturally cropped, with focus on the face and upper body, while the background vase is softly blurred with a shallow depth of field.\n\nTexture/Style:\nWarm-toned photorealistic live-action photograph. Renders the smooth luster of satin, lace details, bedding wrinkles, and skin and hair with high definition and naturalness. A quiet and intimate morning atmosphere centered on beige, off-white, and amber tones.\n\nNegative:\nDo not change to a white cotton dress; do not use a straight-ahead gaze or standing pose.",
+    "title": "Amber Morning Bedside Portrait",
+    "description": "A soft, intimate portrait of a woman in a satin slip dress sitting on a bed, captured in warm morning light with high attention to textile details like lace and satin.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781697713_o1vk2k_HPh49uubwAAitl8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31483,
+    "content": "A young East Asian woman with {argument name=\"hair description\" default=\"long, wavy dark brown hair cascading over its shoulders\"}, fair skin, soft natural makeup, gentle smile, and slightly tilted head. She is posing outdoors with her {argument name=\"pose\" default=\"right hand lightly resting against her cheek and her left arm crossed over her midsection\"}. She wears a {argument name=\"outfit\" default=\"fitted cream/off-white short-sleeve top with delicate scalloped lace trim along the square neckline and thin ribbon bows tied at each shoulder\"}. Paired with a soft beige/taupe pleated mini skirt. Soft natural daylight, lush dense green leafy bushes filling the background, clean and feminine Korean-style fashion aesthetic, cute girl casual summer look, high detail, photorealistic.",
+    "title": "Korean Summer Fashion Portrait",
+    "description": "A soft and feminine portrait prompt for a young woman in Korean-style fashion, set in a lush outdoor greenery background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781669929_qf3t4b_HPbMxMeaYAAzqpN.jpg"
     ],
     "needReferenceImages": false
   },

@@ -41,6 +41,36 @@
     "needReferenceImages": true
   },
   {
+    "id": 31553,
+    "content": "Goal: Create a cinematic widescreen digital collage about Beethoven's Violin Sonata Op. 96 being rediscovered through modern high-resolution audio, blending a 19th-century Viennese salon performance with a futuristic DSD listening studio.\n\nCanvas: 16:9 horizontal composition, dark dramatic chiaroscuro, ultra-detailed, painterly realism mixed with cybernetic audio visualization. The image should read left-to-right as a transformation from old classical performance to modern digital sound.\n\nLayout: Split the scene into two connected halves with no hard border. Left half is a warm amber-brown historical oil-painting scene inside an ornate Viennese salon. Right half is a cool blue-black futuristic audiophile studio. A single horizontal audio waveform runs across the entire center of the image, starting as gold on the historical side and shifting into white, cyan, orange, magenta, and blue on the digital side.\n\nHistorical left side: Show exactly 2 main historical men in the foreground: 1 famous violinist in black formal 19th-century clothing playing a violin with a languid, tired expression, and 1 intense curly-haired Beethoven-like composer standing behind him, watching sternly. Add a small salon audience in the background, candlelit chandeliers, gilded walls, dark framed paintings, and aristocratic spectators. In the lower center-left foreground, include several large aged sheet-music pages with handwritten notation, tilted toward the viewer. Add a small monochrome ghostly orchestra scene in the lower-left corner as a memory-like vignette.\n\nModern right side: Show exactly 1 sleek black rectangular digital audio converter on a table, labeled \"DSD 256\" on its front panel, with a small round knob on the right. Place exactly 1 large black studio monitor speaker on the far right. Behind and around the device, create glowing cyan holographic equalizer bars, translucent circuit-like panels, soundwave diagrams, and floating fragments of musical notation. Below the device, show a vivid red-orange waveform falling downward like molten sound, merging into a glowing blue and magenta holographic architectural concert hall made of music staves and light.\n\nVisual style: Hyper-detailed, moody, cinematic lighting, baroque oil-painting texture on the left, glossy high-tech cyber-audio rendering on the right, dense layered transparency, gold dust and smoky particles, deep blacks, amber candlelight, electric cyan and magenta neon. Make the transition feel emotional and profound, as if the true meaning of {argument name=\"musical work\" default=\"Beethoven Violin Sonata Op. 96\"} is revealed by {argument name=\"audio format\" default=\"DSD 256\"} in {argument name=\"recording year\" default=\"2025\"}.\n\nText constraints: The only readable device text should be \"DSD 256\". Do not add captions, titles, logos, watermarks, or extra typography.",
+    "title": "Beethoven Sonata DSD 256 Collage",
+    "description": "A cinematic historical-to-futuristic music collage visualizing Beethoven's sonata performance transformed by modern DSD 256 audio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781733181_6gk88x_HPr-7rbWsAA21M4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31528,
+    "content": "Loose watercolor and pen sketch inside {argument name=\"location\" default=\"[LOCATION / SUBJECT]\"}, seen from {argument name=\"viewpoint\" default=\"[VIEWPOINT]\"} toward {argument name=\"focal point\" default=\"[ARCHITECTURAL FOCAL POINT]\"}, {argument name=\"central feature\" default=\"[CENTRAL FEATURE]\"} at center, {argument name=\"overhead structure\" default=\"[OVERHEAD ARCHITECTURAL FEATURE]\"} overhead. Ink line drawn first and left visible through every wash — {argument name=\"linework details\" default=\"[ARCHITECTURAL LINEWORK]\"} and {argument name=\"floor grid\" default=\"[GROUND / FLOOR GRID]\"} overshooting into blank paper, one long confident arc for {argument name=\"major curve\" default=\"[MAJOR CURVE]\"}. Wash about 65%, warm below and cool above: {argument name=\"warm palette\" default=\"[WARM ARCHITECTURAL PALETTE]\"} on {argument name=\"lower elements\" default=\"[LOWER ARCHITECTURAL ELEMENTS]\"}, {argument name=\"cool palette\" default=\"[COOL PALETTE]\"} over {argument name=\"upper feature\" default=\"[UPPER ARCHITECTURAL FEATURE]\"} thinning to bare line at the crown. Diagonal light shafts left as reserved white paper, the brightest value. Floor in {argument name=\"floor wash\" default=\"[FLOOR COLOR / WASH]\"} with a backrun. Figures in three depth bands, clustered and gapped, never in a row: {argument name=\"near figures\" default=\"[NEAR FIGURES AND SCALE]\"}, one cropped by the bottom edge; {argument name=\"mid figures\" default=\"[MID FIGURES AND SCALE]\"} scattered at different distances, {argument name=\"midground cluster\" default=\"[MIDGROUND CLUSTER]\"} clustered at {argument name=\"focal point\" default=\"[FOCAL POINT]\"}; {argument name=\"far figures\" default=\"[FAR FIGURES AND SCALE]\"} dissolving into strokes. Different actions each — {argument name=\"action 1\" default=\"[ACTION 1]\"}, {argument name=\"action 2\" default=\"[ACTION 2]\"}, {argument name=\"action 3\" default=\"[ACTION 3]\"}",
+    "title": "Architectural Watercolor Sketch",
+    "description": "A customizable architectural sketching prompt that combines ink linework with loose watercolor washes to create vibrant, atmospheric interiors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781708798_pe2yws_HPqqTMAaEAA_rC4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31497,
+    "content": "Hand-drawn botanical illustration of {argument name=\"plant or flower\" default=\"lavender\"}, delicate ink outlines, fine pencil shading, scientific sketchbook aesthetic, natural imperfections, textured paper background, elegant composition",
+    "title": "Hand-Drawn Botanical Sketchbook Illustration",
+    "description": "A prompt for generating delicate, scientific-style botanical illustrations with ink outlines and pencil shading on textured paper.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786781681454_eh0ggb_HPqp9NlbkAAhXbw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 31401,
     "content": "Blueprint for a robot from the '{argument name=\"organization name\" default=\"Metropolitan Police Heavy Equipment Task Force Robot Unit\"}'",
     "title": "Police Robot Blueprint",
