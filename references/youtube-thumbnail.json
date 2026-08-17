@@ -1,5 +1,25 @@
 [
   {
+    "id": 31728,
+    "content": "Goal: Create a clean Japanese promotional thumbnail/banner for a GPT Image 2 tutorial about using reference images to keep the same person consistent.\n\nCanvas: 16:9 horizontal banner, 1200×675 style, soft pale blue and white background with large organic blob shapes. Use a polished educational course-thumbnail aesthetic, airy spacing, high readability, no harsh shadows.\n\nLayout: Split composition with a realistic portrait on the left occupying about 40% of the canvas, and a text-heavy information panel on the right occupying about 60%. The right side has a large white rounded organic shape as the main text area. Add small decorative dotted grids in the top-right and bottom-left corners, a light diagonal hatch pattern near the lower-right edge, and coral accent marks beside the headline.\n\nSubject details: On the left, show one smiling Japanese woman in her late 20s to early 30s, photographed from the waist/chest up, facing the camera. She has shoulder-length softly layered black hair, natural makeup, warm friendly expression, and wears a peach sheer button-up shirt over a white ribbed camisole with a delicate gold necklace. Background behind her is bright, soft-focus, and slightly green-white like daylight through a window.\n\nText content: Include exactly 4 text blocks on the right: 1) a dark navy rounded pill at the top reading 「GPT Image 2 実践編 ③」; 2) a large navy Japanese headline reading 「基準画像を\\n作った、その次は？」 with a coral underline under the final phrase; 3) a thin outlined rectangle subtitle reading 「人物固定の具体的な使い方」 with 「具体的な」 highlighted in coral; 4) a bottom checklist row with a pale blue circular check icon followed by 「毎回どの基準画像を使う？」. Keep all Japanese text crisp, centered within its area, and use elegant Mincho-style serif for the main headline with modern sans-serif for smaller labels.\n\nColor palette: Deep navy text, pale powder blue background, white panels, peach/coral accents matching the woman's shirt, and light blue-gray icon details.\n\nConstraints: Use exactly one person, exactly four text blocks, exactly one check icon, and exactly three main decorative accent types: dotted grids, coral rays/underline, and diagonal hatching. Avoid extra logos, watermarks, English translations, or additional text.",
+    "title": "GPT Image 2 Reference Tutorial Banner",
+    "description": "A Japanese course-style thumbnail featuring a smiling woman and text explaining how to use reference images for consistent characters in GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786954606372_11w537_HP1o-qmbsAEz2Jv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31628,
+    "content": "Create a soft pastel anime close-up portrait of a cute chibi-style girl with {argument name=\"hair color\" default=\"bubblegum pink\"} hair in fluffy twin tails, large sleepy blue eyes, a tiny pouting mouth, and heavy rosy blush across both cheeks. She rests her chin on one hand with a shy, dreamy expression, wearing a loose white long-sleeve top with a frilled cuff and a visible shoulder cutout. Add exactly 1 pale yellow star hair clip on the right side of her hair, exactly 1 small white kitten with pink ears sleeping on top of her head, and exactly 2 glowing yellow sparkle stars floating to the left of her head. Use a warm indoor background with soft brown and cream tones, shallow depth of field, gentle bloom, glossy highlights on the hair and eyes, delicate line art, rounded proportions, kawaii Japanese MV-thumbnail aesthetic, square 1:1 composition, cropped close around the face and upper shoulders. Keep the mood sweet, sleepy, innocent, and pastel; no hard shadows, no realistic rendering, no extra characters, no readable text or watermark.",
+    "title": "Sleepy Pink-Haired Chibi Girl",
+    "description": "A soft kawaii anime portrait prompt for creating a pastel chibi girl with pink twin tails, a sleeping kitten, and star accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1786954604621_p9pklu_HP0f6adWUAAVuc1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 31590,
     "content": "A cinematic {argument name=\"art style\" default=\"Ralph McQuarrie–inspired\"} scene on the {argument name=\"location\" default=\"storm-lashed ridges of a volcanic planet\"}, where a massive, {argument name=\"structure\" default=\"half-buried Imperial research bunker with Brutalist concrete fin\"}",
     "title": "Imperial Research Bunker on Volcanic Planet",
