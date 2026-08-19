@@ -10,48 +10,146 @@
     "needReferenceImages": true
   },
   {
-    "id": 31852,
-    "content": "A person standing in a dark forest at night, holding a {argument name=\"object\" default=\"glowing ancient book\"} with floating runes and {argument name=\"light color\" default=\"soft golden light\"}. Moody cinematic lighting, mysterious atmosphere. Replace the face with the person from the uploaded photo, photorealistic.",
-    "title": "Dark Forest Glowing Book",
-    "description": "A fantasy prompt for a person in a dark forest holding a magical glowing book, with face replacement instructions.",
+    "id": 31956,
+    "content": "Goal: Create a wide minimalist character sheet illustration for {argument name=\"character name\" default=\"a young man with curly black hair\"}, showing two separate character sheet designs side by side on one horizontal canvas.\n\nCanvas: Very wide panoramic aspect ratio, about 4:1, pale light gray background, clean empty margins, no borders, no shadows, no watermark.\n\nLayout: Split the canvas into two equal halves. Each half is its own character sheet with the same basic layout: a bold title at the top, three full-body turnaround poses arranged left to right, and one larger face/head close-up on the far right. Use exactly 2 character sheet panels total.\n\nLeft panel details: Use a soft flat cartoon style with warm skin tone and muted colors. Show exactly 4 character drawings: 1 front full-body view, 1 side full-body view, 1 back full-body view, and 1 large face close-up. The character has rounded curly black hair, a simple friendly face, a long neck in the close-up, a loose dark navy/black sweatshirt, cropped white pants, and black shoes. Place the full-body poses evenly spaced, with the face close-up larger than the body poses.\n\nRight panel details: Use a thinner, more monochrome sketch-like flat style with dark navy outlines and minimal color accents. Show exactly 4 character drawings: 1 front full-body view, 1 side full-body view, 1 back full-body view, and 1 large face close-up. The same character wears a dark oversized sweater, white straight pants, and dark shoes. Add subtle purple accent lines on the sweater sleeves. The face close-up is simplified, with short dark hair, ears visible, and a black collar shape beneath the head.\n\nText content: Draw only the following text labels, each spelled exactly as written. In the left panel: CHARACTER SHEET, FRONT, SIDE, BACK, FACE. In the right panel: CHARACTER SHEET, FRONT, SIDE, BACK, FACE. Use bold uppercase hand-drawn sans-serif text for the titles and small uppercase labels under each view.\n\nVisual style: Clean vector-like illustration, simple rounded forms, slightly imperfect hand-drawn lines, limited palette of black, dark navy, white, pale peach skin, and light gray background. Keep the composition airy and balanced.\n\nConstraints: Do not add any other letters, symbols, logos, signatures, dates, URLs, watermarks, or decorative text. Keep exactly 8 character drawings total: 6 full-body turnaround views and 2 face close-ups.",
+    "title": "Wide Minimal Character Sheet",
+    "description": "Generates a clean panoramic character turnaround sheet with two side-by-side design styles and controlled text labels.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787044604606_s29c5y_HP_c0eiaMAA56Bk.jpg",
-      "https://cms-assets.youmind.com/media/1787044604584_2yx3h7_HP_c0e1bwAAR0jR.jpg"
+      "https://cms-assets.youmind.com/media/1787127662045_f4oj3l_HQEDnZRXsAAtM6N.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31954,
+    "content": "Create a dramatic fantasy manga-style battle scene in a vertical 4:5 composition. A colossal ancient stone golem towers over a lone armored warrior in ruined temple grounds, viewed from a low cinematic angle that makes the golem feel gigantic. The golem is built from thousands of irregular gray-brown stone blocks and broken masonry, with patches of green moss and hanging vines between the rocks. It has glowing cyan-blue magical eyes and exactly 4 visible glowing blue rune cores: one in the center of its chest, one on its forehead, one on its right shoulder, and one on its left forearm. Its massive left hand reaches forward toward the viewer with oversized stone fingers, while the other arm is pulled back in a fist as if charging an attack. In the foreground, show one human warrior seen from behind, wearing dark medieval armor, boots, and a long tattered navy-black cape with gold trim, holding a sword in the right hand and a round shield on the left arm, braced in a defensive stance facing the giant. Surround them with swirling stylized dust clouds and speed-line smoke ribbons, rendered like inked manga effects: exactly 8 major white dust plumes curling around the scene, with black outlines and dynamic motion arcs. Add flying pebbles, cracked stone debris, broken columns, scattered ruins, and mossy rubble across the ground. The background is a vivid bright blue sky with scattered white clouds and distant ruined stone towers. Visual style: highly detailed anime fantasy illustration, sharp black ink outlines, comic-book crosshatching, dynamic perspective, saturated colors, strong sunlight, high contrast, epic action energy, no text, no watermark. Use {argument name=\"hero description\" default=\"a lone dark-armored warrior with a tattered navy-black cape and sword\"}, {argument name=\"monster description\" default=\"a colossal moss-covered stone golem with glowing cyan rune cores\"}, {argument name=\"setting\" default=\"ancient ruined temple courtyard under a bright blue sky\"}, {argument name=\"magic glow color\" default=\"cyan blue\"}, and {argument name=\"dust effect\" default=\"large white manga-style swirling dust plumes\"}.",
+    "title": "Warrior Versus Stone Golem",
+    "description": "Generates an epic manga-style fantasy battle scene with a lone armored hero confronting a towering rune-lit stone golem in ancient ruins.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127660061_en85mg_HQC6d7magAA0A8L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31944,
+    "content": "Create a charming cinematic 3D animated macro scene in a Pixar-like style: {argument name=\"number of ants\" default=\"5\"} glossy red cartoon ants with oversized expressive eyes march in a line down a narrow stone channel like a miniature canyon path. The front ant is closest to the camera, smiling and pushing a tiny wooden sled made from two parallel twig runners and cross sticks, carrying one large shiny {argument name=\"carried object\" default=\"golden yellow berry or seed\"}. Behind it are exactly 4 more red ants following along the same path: one directly behind the leader, one behind that, one farther up the slope, and one tiny ant barely visible in the upper-right background. The ants have rounded segmented bodies, thin legs, curved antennae, friendly faces, and toy-like orange-red shells. The environment is a sunlit garden floor with weathered gray stone walls on both sides of the channel, small patches of moss, tall green blades of grass, and soft natural shadows. Use a vertical {argument name=\"aspect ratio\" default=\"9:16\"} composition, low macro camera angle looking slightly downhill toward the sled, shallow depth of field with the foreground ant and yellow object sharp while background ants and plants blur gently. Lighting should be warm midday sunlight with cinematic highlights, vibrant colors, whimsical adventure mood, high-quality 3D render, no text, no watermark, no humans.",
+    "title": "Cartoon Ants Carrying a Golden Seed",
+    "description": "A vertical cinematic 3D macro scene of five cute red ants transporting a shiny yellow seed through a stone garden path.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127650561_z0xxgv_HQChbXQbcAAXhqI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31930,
+    "content": "Based on model size and freedom of speech, please render me a graphic of 4 archetypes of the following AI models: - {argument name=\"models\" default=\"Claude Mythos / Fable 5, ChatGPT 5.6 Sol, Kimi K3, GLM 5.2\"} Please represent them as {argument name=\"style\" default=\"Spirit Animals\"} or anthropomorphic fantasy animals. Landscape format, semi-realistic, not photorealistic or drawn. Lots of details, high-contrast colors. GPT please in {argument name=\"GPT color\" default=\"Cherenkov blue\"}, Claude in Copper Orange.",
+    "title": "AI Model Spirit Animal Archetypes",
+    "description": "A prompt for rendering four different AI models as fantasy spirit animals with specific color themes and a semi-realistic art style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127636273_2vti2p_HQChJXPWMAAx4eV.jpg",
+      "https://cms-assets.youmind.com/media/1787127636049_5fbrh4_HQChJyqWYAE2WHH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 31968,
+    "content": "Create a full-body anime fantasy character design on a plain white background: a cute young female adventurer summoner named {argument name=\"character name\" default=\"Yura\"}, standing front-facing in a relaxed neutral pose. She has very long flowing {argument name=\"hair color\" default=\"pale blonde\"} twin-tail hair with soft wispy strands, small white flower hair ornaments on both sides, bright {argument name=\"eye color\" default=\"blue\"} eyes, fair skin, and a gentle shy smile. Her outfit is an ornate beige-and-brown adventurer costume mixing summoner, cleric, and explorer elements: a cream lace-trimmed short dress with layered fabric, embroidered panels, a tan hooded capelet and long tattered translucent cloak, leather shoulder armor, many brown belts crossing the torso and waist, pouches at the hips, fingerless brown gloves, and tall rugged brown lace-up boots with buckles and folded cuffs. She holds an old embossed leather-bound grimoire in one hand, with exactly 3 dangling antique keys attached by chains from the book. Emphasize delicate line art, watercolor-like shading, soft pastel colors, intricate leather textures, lace details, buckles, straps, stitching, and fantasy RPG character-sheet clarity. Keep the composition centered, full body visible from head to boots, no cropped limbs, no text, no logo, no scenery, clean high-resolution character concept art in a polished Japanese light-novel illustration style.",
+    "title": "Anime Summoner Adventurer Character",
+    "description": "Generates a full-body fantasy anime summoner girl character design suitable for RPG concept art or music-video character reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127673704_7s33jj_HQAwRLmbcAAdJs9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31940,
+    "content": "Create a premium cinematic character bible sheet for {argument name=\"character name\" default=\"NAIA\"}. Use uploaded character sheet as strict visual reference. Do not change her appearance. LEFT SIDE: Massive bold brushstroke text {argument name=\"text top left\" default=\"NAIA\"} top left, deep teal. Small text: THE WAVE / SATURDAY",
+    "title": "Strict Visual Consistency Character Sheet",
+    "description": "A character concept sheet prompt that emphasizes maintaining a strict visual reference for the character while adding stylized layout and teal brushstroke typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127645775_21mrnm_HQAvGbLW0AAhkJj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31967,
+    "content": "Create a vibrant anime-style fantasy adventure illustration of {argument name=\"character name\" default=\"a young male adventurer\"} traveling with a tamed slime companion. The scene is a sunlit mountain path in a lush high-fantasy valley, vertical 4:5 composition. In the left foreground, show the adventurer walking forward with an excited smile, looking toward the right and slightly upward, with tousled dark brown hair, warm brown eyes, a blue hooded cloak fluttering in the wind, white tunic, layered leather belts and pouches, brown gloves, tall worn leather boots, a rolled bedroll on his back, and a staff or wand in one hand. In the right foreground, place exactly 1 large translucent glossy blue slime companion, floating or bouncing beside him, with a rounded teardrop body, a small curved droplet antenna on top, 2 black oval eyes, and 1 open happy smiling mouth. Add exactly 6 tiny blue slime droplets around it: one near the adventurer’s waist, one beside the large slime’s left lower edge, one on the path in front, one near the grass at the bottom, one to the right in the wildflowers, and one behind the slime. The background should show a sweeping valley with green hills, cliffs, a river or lake, distant snowy mountains, and a grand white fairytale castle city with many towers on the right hillside. Use a bright blue sky with scattered white clouds, sparkling midday sunlight, saturated colors, detailed painterly anime rendering, crisp character detail, atmospheric depth, joyful adventurous mood, no text, no watermark.",
+    "title": "Adventurer and Tamed Slime Journey",
+    "description": "A bright anime fantasy scene showing a young adventurer walking through a scenic valley with a cheerful blue slime companion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127672869_28ab43_HQAZbgiaMAAf6s1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31961,
+    "content": "Create a dramatic vertical anime key visual of an androgynous elegant young noble with {argument name=\"hair color\" default=\"silvery white\"} tousled medium-length hair, long curled side locks, and a low side ponytail tied with a small black ribbon. The character has luminous {argument name=\"eye color\" default=\"golden amber\"} eyes, pale skin, a calm mysterious expression, and holds one white-gloved index finger vertically against their lips in a “shh” gesture while the other gloved hand lightly touches the wrist. Dress them in a refined black formal suit with gold piping, white shirt, black tie, vest, cuff buttons, and fitted white gloves. Use a close-up portrait composition from chest up, centered, slightly low angle, with the face occupying the upper middle of a 9:16 canvas. The setting is a grand shadowy interior resembling an old cathedral or manor hall, with tall arched windows behind the character and intense warm sunset light pouring in from the left and behind, creating golden rim lighting through the hair, glowing edges, dust motes, floating dark petal or ash-like fragments, and cinematic lens flare. Visual style: high-detail modern anime illustration, beautiful linework, painterly shading, soft luminous highlights, warm amber and deep black color palette, dramatic chiaroscuro, ethereal atmosphere, elegant gothic fantasy mood. No text, no watermark, no extra characters.",
+    "title": "Golden Shh Anime Noble Portrait",
+    "description": "A cinematic vertical anime portrait of a mysterious white-haired noble making a shh gesture in warm cathedral-like backlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127665515_dfysrm_HQAPhZ4a8AAWAJU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31980,
+    "content": "Goal: Create a stylized animated-film character design sheet for {argument name=\"character name\" default=\"a severe aristocratic villain\"}, showing consistent costume and facial design from multiple angles.\n\nCanvas: Wide horizontal character reference sheet, approximately 16:9, with an off-white studio background and clean white margins. Split the page into two main panels: a large left panel for full-body turnarounds and a narrower right panel for a dramatic portrait close-up.\n\nLayout: Include exactly 4 character depictions total: 1 front full-body view on the left, 1 side profile full-body view in the center, 1 rear full-body view on the right side of the large panel, and 1 large close-up head-and-shoulders portrait in the separate right panel. Add a thin vertical column of small red decorative lettering along the far left margin, reading like abstract production-sheet text.\n\nSubject details: The character is extremely tall, gaunt, and angular, with a long pale greenish-gray face, sharp hooked nose, heavy red under-eye shadows, drooping eyelids, yellow-green eyes, thin downturned lips, an elongated chin, and exaggerated large red ears. He has messy black hair swept over one eye, with loose stringy strands falling across the face. His expression is stern, tired, suspicious, and aristocratic.\n\nCostume: Dress him in a dramatic {argument name=\"coat color and pattern\" default=\"deep crimson and black plaid\"} long tailcoat with broad squared shoulders, high collar, oversized lapels, black buttons, tapered waist, and long pointed tails. Under it he wears a dark red waistcoat, white shirt collar, and a large burgundy cravat. He has narrow {argument name=\"trouser color\" default=\"muted olive-green striped\"} trousers cropped above polished black formal shoes. The rear view should emphasize the long structured back of the coat and the plaid grid wrapping around the shoulders.\n\nVisual style: High-end 3D animation concept art with painterly digital rendering, exaggerated caricature proportions, sharp graphic shapes, elegant gothic mood, subtle gradients, clean silhouette design, and polished studio lighting. Use saturated reds and blacks against pale skin and muted green clothing accents. The portrait close-up should be more detailed, with visible brush strokes in the hair, skin planes, eye bags, ears, and collar.\n\nConstraints: Keep the character design identical across all 4 depictions. Do not add props, scenery, logos, or extra characters. Keep the background minimal and uncluttered, like a professional animation production turnaround sheet.",
+    "title": "Gothic Villain Character Sheet",
+    "description": "A stylized animation character turnaround sheet showing a gaunt aristocratic villain in full-body front, side, back views and a detailed portrait close-up.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127688484_1uq56p_HQAIlkvWcAAJC6q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31852,
+    "content": "A person standing in a {argument name=\"setting\" default=\"dark forest at night\"}, holding a {argument name=\"object\" default=\"glowing ancient book with floating runes and soft golden light\"}. Moody cinematic lighting, mysterious atmosphere. Replace the face with the person from the uploaded photo, photorealistic.",
+    "title": "Mysterious Dark Forest Ritual Portrait",
+    "description": "A moody cinematic portrait of a person holding a glowing ancient book in a dark forest, designed for face-swapping with an uploaded reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127591461_8j19fm_HP_c0eiaMAA56Bk.jpg",
+      "https://cms-assets.youmind.com/media/1787127591538_iihup1_HP_c0e1bwAAR0jR.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 31867,
-    "content": "Using REFERENCE_0 as the facial and hairstyle base, transform the rough close-up sketch into a polished full-body fantasy character illustration of {argument name=\"character name\" default=\"Stephan\"}. Clean up the messy construction lines into refined anime line art, reinterpret the subject as a graceful young male knight, and expand the crop to show the entire standing figure from head to boots.\n\nPose and composition: Create exactly 1 character, standing in a calm three-quarter pose, facing forward with a composed slight smile. Keep the delicate eyes and long flowing hair impression from the reference, but make the design more elegant and finished.\n\nNew costume and props: Add exactly 1 ornate knight outfit in a white, navy, silver, and pale gold palette: fitted tunic, layered belts, gloves, tall boots, silver shoulder armor, bracers, decorative clasps, and embroidered trim. Add exactly 1 long translucent blue cape flowing behind him. Add exactly 1 sheathed or lowered sword held near the front of the body, with decorative gold detailing.\n\nStyle: Convert the sketch into a soft watercolor fantasy character sheet style with thin clean linework, pale washes, subtle paper texture, refined shoujo-anime proportions, and a luminous gentle atmosphere. Use {argument name=\"main color palette\" default=\"white, navy blue, silver, and pale gold\"}.\n\nBackground: Replace the blank sketch page with a minimal off-white watercolor wash background, very light blue-gray mist, and tiny soft sparkles; no scenery, no text, no border, no watermark.",
-    "title": "Fantasy Knight From Sketch Reference",
-    "description": "Creates a polished full-body watercolor fantasy knight character design from a rough anime face sketch reference.",
+    "content": "Using REFERENCE_0 as the loose facial sketch and mood basis, reinterpret the character as a polished full-body fantasy character design sheet: change the close-up rough head sketch into {argument name=\"character name\" default=\"Stefan\"}, an elegant young male knight standing in a calm three-quarter pose. Clean up the messy construction lines into refined anime-style line art, preserve only the delicate eye-focused beauty of the reference, and redesign the rest from scratch.\n\nAdditions and transformation: create exactly 1 full-body character, exactly 1 long sword held point-down in front of him, exactly 1 flowing blue translucent cape, and exactly 1 ornate white-and-navy knight outfit with silver armor accents. Give him long flowing silver-gray hair, a composed confident expression, and a slim princely silhouette. Outfit details should include layered white tunic panels, navy underclothes, belts, gloves, tall boots, shoulder armor, forearm armor, gold filigree trim, and star-like decorative clasps.\n\nStyle: convert the rough sketch into a clean, softly colored watercolor anime illustration with delicate pencil-like outlines, pale washes, subtle texture, and high-fantasy elegance. Use a light misty background with no scenery, no text, and no extra characters. Keep the composition centered on a vertical canvas, showing the entire figure from head to boots.",
+    "title": "Watercolor Fantasy Knight Redesign",
+    "description": "Transforms a rough anime face sketch into a polished full-body watercolor fantasy knight character design.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787044684459_3tlgj0_HP_Xc8haYAA8g1f.jpg"
+      "https://cms-assets.youmind.com/media/1787127669827_rtv2dh_HP_Xc8haYAA8g1f.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 31845,
-    "content": "Create a cinematic ultra-wide alien planet landscape with no spaceships and no city, focused on an impossible horizon of discovery. The canvas is a 16:9 panoramic sci-fi concept art scene in rich deep-space colors. In the foreground, show jagged black crystalline mountain ridges and sharp spires on both sides, with glowing blue and violet mineral reflections; include a winding luminous river or energy stream starting near the bottom center and leading the eye through the valley toward a brilliant sunrise-like glow on the distant horizon. Across the sky, place one enormous spiral galaxy dominating the upper left and center, tilted diagonally, with a bright warm white-orange core and swirling pink, violet, blue, and gold nebula arms. On the upper right, show exactly 4 spherical celestial bodies: 1 large ringed gas giant with subtle purple-brown bands and a thin Saturn-like ring system, plus 3 smaller moons nearby, one above-left of the giant, one left-lower of that moon, and one overlapping near the lower-left edge of the giant. Fill the background with dense stars, blue star clusters, magenta nebula clouds, and cosmic dust. The horizon should glow with peach, lavender, and electric blue atmospheric light, silhouetting distant needle-like mountain peaks. Style: highly detailed digital matte painting, epic space fantasy, dramatic scale, luminous volumetric clouds, sharp rocky textures, vibrant astrophotography-inspired lighting, awe and wonder, no text, no watermark. Optional naming mood: a mysterious planet called {argument name=\"planet name\" default=\"Horizon's Edge\"}, with {argument name=\"dominant sky color\" default=\"violet and electric blue\"} tones and a {argument name=\"horizon glow color\" default=\"peach-gold\"} glow.",
-    "title": "Alien Horizon with Ringed Planet",
-    "description": "A cinematic panoramic alien landscape with crystalline mountains, a glowing river, a spiral galaxy, and four celestial bodies for epic sci-fi worldbuilding art.",
+    "id": 31939,
+    "content": "Create a premium cinematic character bible sheet for {argument name=\"project name\" default=\"FUTURE VIBES AI\"}. Use the uploaded reference image as the STRICT facial and identity reference. Preserve the exact face, hairstyle, eyebrows, eyes, nose, lips, skin tone, body proportions, and overall",
+    "title": "Cinematic AI Character Bible Sheet",
+    "description": "A specialized character concept sheet prompt designed to maintain strict facial and anatomical identity based on a reference image for production use.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787044668802_uidg92_HP91OxAaIAAUaKM.jpg"
+      "https://cms-assets.youmind.com/media/1787127644113_r5gk2k_HP_PFfVasAAp4Z4.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 31837,
-    "content": "Goal: Create a black-and-white manga character design sheet for {argument name=\"character name\" default=\"a sharp-eyed shonen manga boy evolving toward a Kaiji-like style\"}, with Japanese annotation text and multiple reference drawings on one vertical page.\n\nCanvas: Tall vertical page, approximately 2:3 aspect ratio, clean white background, crisp black ink line art, professional manga production-guide layout.\n\nLayout: Divide the page into a technical character-sheet upper half and three finished manga panels along the bottom. Use thin vertical divider lines and boxed callouts. The overall style should be monochrome manga with strong blacks, screentone, halftone dots, gray gradients, and dramatic high-contrast inking.\n\nMain character details: Draw a teenage boy with a very angular triangular face, long pointed nose, small vertical black pupils inside inverted trapezoid eyes, stern expression, spiky jagged hair with large white and black zigzag chunks, slim tall body, high-collared fitted jacket, dark undershirt, narrow pants, and chunky shoes. His silhouette should feel like a battle shonen protagonist pushed toward a sharper gambling-manga look.\n\nUpper section, exact visible elements: Include 10 discrete study/reference elements: 1 large front-facing head bust on the upper left-center; 1 close-up eye diagram at far left; 1 side-profile face/nose diagram below it; 1 line-thickness sample with two horizontal strokes; 1 small boxed side-profile hair/bangs study; 1 full-body front pose in the upper center-right labeled 「6頭身」; 1 full-body side pose on the far right; 1 vertical head-proportion guide with exactly 6 stacked oval head units between the two full-body figures; 1 screentone/gradation sample box with a horizontal gray gradient and 4 square tone swatches; 1 text box explaining monochrome tones.\n\nJapanese annotation text: Add these labels in Japanese, placed as in a design reference sheet: 「逆台型の目 縦長の小さい黒丸」 beside the eye diagram; 「逆三角形の顔 とんがった鼻と顎」 beside the side-profile diagram; 「線の太さ」 above the line samples; 「外側の輪郭線：4mmペン」 beside the thicker line; 「内側の線：2mmペン」 beside the thinner line; 「髪型はギザギザで描く」 above the small hair-study box; 「6頭身」 above the front full-body pose; 「白と黒のツートーンとハーフトーンやグラデーションを使ったモノクロ漫画」 beside the tone swatches.\n\nBottom section, exact visible elements: Include exactly 3 separate manga panels across the bottom row. Panel 1 on the left: close three-quarter portrait of the boy looking serious in an urban street with tall buildings, smoky sky, and heavy screentone. Panel 2 in the center: dynamic action pose of the boy reaching one arm forward toward the viewer, dramatic radial speed lines exploding behind him. Panel 3 on the right: close-up side portrait of the boy looking determined against a cloudy textured background.\n\nVisual style: Use clean vector-like manga linework but keep organic pen variation, thick outer contours and thinner inner detail lines, sharp geometric hair spikes, stark black fills, halftone shadows, grayscale gradients, and polished manga page composition. Avoid color entirely except black, white, and gray. Keep the page legible and instructional, like a professional manga drawing guide or character model sheet.",
-    "title": "Monochrome Manga Character Design Sheet",
-    "description": "Generates a Japanese annotated black-and-white manga model sheet for a sharp spiky-haired teenage protagonist with technical studies and three finished manga panels.",
+    "id": 31942,
+    "content": "Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact",
+    "title": "High-Fashion Character Style Bible",
+    "description": "A character concept sheet prompt that utilizes a reference image as a strict 'style bible' to reproduce specific art styles and fashion aesthetics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787044672605_la447a_HP9rUgvakAACxlY.jpg",
-      "https://cms-assets.youmind.com/media/1787044673058_4eyc11_HP9rUgxbcAAyFHc.jpg",
-      "https://cms-assets.youmind.com/media/1787044673028_rimnme_HP9rUguaEAAFgeS.jpg",
-      "https://cms-assets.youmind.com/media/1787044673603_di770x_HP9tABEaUAEd3ld.jpg"
+      "https://cms-assets.youmind.com/media/1787127646843_vsznjo_HP-WRswaYAAUI-y.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 31812,
+    "content": "Function DrawArchitecture(input building/architect)\nInput Variable: {argument name=\"building or architect\" default=\"Fallingwater\"}\n\nSystem Instruction:\nGenerate a hyper-realistic, 1:1 product photo of a \"Blueprint-to-Model Desk Diorama\" (Isometric miniature).\n\n1. Semantic Extraction:\n- Identify style (brutalist, modernist, gothic), key forms, and one signature feature (cantilever, arch, atrium).\n- Figure: Chibi “architect” avatar holding a tiny scale ruler.\n- Finish: Matte PVC.\n\n2. Container (Drafting Corner Box):\n- Structure: U-shaped cardboard drafting station (two walls + floor), desktop scale.\n- Props: tiny triangle ruler, pencil, scale bar.\n\n3. Background (Blueprint Walls):\n- Walls: B&W blueprint lines, elevation drawings, annotations (original, inspired).\n- Floor: Blueprint fragments “explode” upward into paper folds.\n\n4. Integration:\n- A 2D blueprint line rises into a 3D model piece (a wall or arch popping out) that the figure points at.\n\n5. Visual Syntax:\n- Palette: Strict B&W blueprint world; full color figure + one accent prop.\n- Lighting: soft product photo, crisp details.\n- Label: \"[Subject] — [Style/Architect]\"\n\nReturn: ONE image, 1:1, museum-miniature realism.\n\n<instructions>\nInput: building/architect\nAnalyze style, era, signature geometry. Find 4 MUCH lesser-known buildings/architects in same lineage.\nOutput: a 2x2 grid, each panel is DrawArchitecture for a lesser-known recommendation.\n</instructions>",
+    "title": "Blueprint-to-Model Desk Diorama",
+    "description": "A technical prompt for generating isometric miniature product photos of architect-themed dioramas with a blueprint aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787127589781_ypsx19_HPu3QAIXMAApBba.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 31835,
@@ -65,11 +163,11 @@
   },
   {
     "id": 31833,
-    "content": "Create a dramatic vertical anime-style illustration of a smug young female military commander standing in a ruined battlefield, viewed from a low angle to make her look dominant and intimidating. She has a short light-brown bob haircut with straight bangs and vivid pink eyes, wearing a confident half-smile. Her outfit is an ornate black imperial officer dress uniform with glossy fabric, gold embroidery, gold buttons, braided cords, medals on the chest, a white belt with a gold buckle, black gloves, epaulettes with gold fringe, a dark red cape lining, garter straps, and thigh-high black stockings. She holds an enormous black anti-materiel sniper rifle with a long barrel and large scope slung diagonally across her shoulders, the weapon dominating the upper left-to-right composition. The background is a devastated gothic war zone with broken stone ruins, jagged rubble in the foreground, torn crimson banners, distant spires, smoke, embers, and a blazing backlit cloudy sky with sunbeams breaking through. Use high-detail cinematic lighting, strong rim light, warm fire glow, dark shadows, polished metal highlights, dynamic cape movement, floating sparks, ultra-detailed anime rendering, sharp linework, rich contrast, and a powerful revenge-themed mood. No text, no watermark, no extra characters.",
-    "title": "Anime Imperial Sniper Commander",
-    "description": "A cinematic anime battlefield portrait of a smug female imperial commander carrying a massive sniper rifle, ideal for dark fantasy military character art.",
+    "content": "Create a dramatic vertical anime illustration of a smug young female military commander standing in a ruined battlefield, viewed from a low angle for dominance. The character has a short chin-length bob haircut in {argument name=\"hair color\" default=\"light chestnut brown\"}, vivid {argument name=\"eye color\" default=\"pink\"} eyes, pale skin, and a confident half-smile as if calmly promising retaliation. She wears an ornate black imperial officer mini-dress uniform with glossy fabric, high collar, gold trim, gold buttons, decorative braids, epaulettes, medals on the chest, a white belt with gold buckle, black gloves, garter straps, and black thigh-high boots. A dark crimson cape with black exterior billows behind her. She holds one enormous futuristic sniper rifle, nearly as tall as her body, angled diagonally from lower left to upper right across her shoulder; include a long barrel, large scope, tactical rails, heavy mechanical details, and matte black metal. The background is a devastated gothic war zone with crumbling stone walls, rubble in the foreground, torn red banners, distant spires, smoke, glowing embers, and a blazing cloudy sky with strong backlight breaking through the clouds. Use cinematic lighting, high contrast, rim light around the hair and weapon, sparks and ash floating in the air, detailed linework, polished anime rendering, dark fantasy military aesthetic, dynamic perspective, sharp focus on the character, no text, no watermark. Aspect ratio: {argument name=\"aspect ratio\" default=\"3:4 vertical\"}. Overall mood: {argument name=\"mood\" default=\"vengeful, triumphant, elegant, intimidating\"}.",
+    "title": "Anime Commander With Giant Sniper Rifle",
+    "description": "A cinematic dark-fantasy anime prompt for generating a smug imperial military girl standing in battlefield ruins with an oversized sniper rifle.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787044665854_k78w9q_HP9f4hAaEAAFA5k.jpg"
+      "https://cms-assets.youmind.com/media/1787127670931_2560nd_HP9f4hAaEAAFA5k.jpg"
     ],
     "needReferenceImages": true
   },
