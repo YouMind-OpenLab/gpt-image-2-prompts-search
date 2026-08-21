@@ -10,12 +10,33 @@
     "needReferenceImages": true
   },
   {
-    "id": 31945,
-    "content": "Using REFERENCE_0 as the exact floor plan, convert the flat black-and-white 2D apartment layout into a realistic furnished 3D dollhouse/top-down cutaway rendering. Preserve the same room arrangement, wall positions, openings, doors, closets, and major furniture placement, but extrude the walls into thick dark gray 3D walls and replace the schematic symbols with believable modern furniture and decor.\n\nStyle: photorealistic architectural visualization, warm neutral interior design, light wood flooring throughout, soft beige and white furnishings, realistic shadows, top-down isometric perspective on a clean white background.\n\nLayout to preserve: exactly 7 labeled zones from the plan — 2 bedrooms, 1 living area, 1 kitchen, 1 bathroom, 1 entry area, and 2 closet/storage zones including the laundry closet. Keep the kitchen island with 3 stools, living sofa and lounge chairs, dining table, two beds, bathroom fixtures, closet shelving, washer/dryer area, and entry corridor in their corresponding locations.\n\nAdditions and conversion details: turn all doors into open wooden hinged doors, add realistic windows along the bottom exterior wall, add rugs under beds and seating areas, add closet clothing/shelves, add countertops, sink, stove, refrigerator, bathroom vanity, bathtub/shower curtain, toilet, small plants, lamps, pillows, and subtle decor. Keep only the visible laundry text {argument name=\"laundry label\" default=\"WASH DRY\"} on the washer/dryer surface; remove other floor-plan room labels and blueprint linework.\n\nConstraints: no people, no exterior landscaping, no extra rooms, no major layout changes, no exaggerated colors, maintain the same apartment footprint and orientation as the reference.",
-    "title": "2D Floor Plan to 3D Dollhouse View",
-    "description": "Transforms a flat apartment floor plan into a realistic furnished 3D top-down architectural visualization.",
+    "id": 32013,
+    "content": "A stylized forest scene with tall pine trees rendered in shimmering gold and deep black tones, set against a dark background. The composition features a textured, wavy golden ground and delicate golden outlines of distant mountains and birds in the sky, creating an elegant and luxurious atmosphere with a sense of calm and mystery. A minimalist and elegant illustration featuring a dark background with a row of stylized pine trees in shimmering gold tones, above undulating golden waves in the foreground; a small flock of golden birds flies above the treetops, creating a serene and luxurious atmosphere with a balanced composition and a modern, sophisticated style.",
+    "title": "Minimalist Golden Forest Illustration",
+    "description": "A prompt for generating elegant forest scenes with pine trees in shimmering gold and black tones, creating a luxurious and mysterious atmosphere.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787127650916_rluv0g_HQEQ4QpaYAA-eTz.jpg"
+      "https://cms-assets.youmind.com/media/1787213763692_cvqbw0_HQFwLdpXQAAiC8T.jpg",
+      "https://cms-assets.youmind.com/media/1787213763637_du36sm_HQFwWt8WcAALiqT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32012,
+    "content": "Transform the image into a charming minimalist hand-drawn doodle illustration. Preserve the main subject, pose, proportions, and overall composition while simplifying everything into playful, childlike forms. Use loose brush-pen outlines with subtle wobble, uneven pressure, and naturally imperfect handmade strokes. Keep the linework clean and sparse, with tiny expressive details that give the subject personality. Add delicate watercolor-ink touches with very soft, restrained color accents while maintaining plenty of clean white space. Create a naive sketchbook feeling with whimsical cartoon shapes, spontaneous marks, gentle imperfections, and an authentic handmade drawing quality. Avoid excessive detail, realism, heavy shading, or polished digital-vector edges. The final result should feel like a cute artist’s notebook doodle drawn by hand with watercolor ink.",
+    "title": "Minimalist hand-drawn doodle illustration",
+    "description": "A transformation prompt to convert an image into a charming, minimalist watercolor doodle with a sketchbook feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787213763187_9i7jo7_HQFWgOiaMAAmg8-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 31945,
+    "content": "Using the provided 2D apartment floor plan as the exact layout reference, transform it into a realistic top-down 3D dollhouse-style home visualization. Preserve the same room arrangement, wall positions, door and window openings, and the same eight labeled functional areas: 2 bedrooms, 1 kitchen, 1 living area, 1 bathroom, 2 closets, and 1 wash/dry closet. Convert the flat black-and-white symbols into furnished 3D rooms with light wood flooring, thick dark exterior and interior walls, beige/cream neutral decor, realistic furniture, open wooden doors, visible closets with clothing, a bathtub/shower, toilet and vanity in the bathroom, kitchen cabinets and island seating, sofas and chairs in the living area, and beds/nightstands in both bedrooms. Use an elevated isometric/top-down camera angle so the whole apartment is visible in one image, with clean architectural-render lighting, soft shadows, and a white studio background. Keep any floor-plan text minimal; only retain the wash/dry label as visible text if needed. Overall style: photorealistic interior design render, neat, modern, warm, and uncluttered.",
+    "title": "2D Floor Plan to 3D Home Render",
+    "description": "Transforms a flat apartment floor plan into a realistic top-down 3D dollhouse interior render for real estate or design visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787213829706_sq7a85_HQEQ4QpaYAA-eTz.jpg"
     ],
     "needReferenceImages": true
   },
@@ -155,11 +176,11 @@
   },
   {
     "id": 31979,
-    "content": "Using REFERENCE_0 as the floor plan, transform the flat 2D architectural drawing into a polished 3D isometric dollhouse-style interior visualization. Preserve the original footprint, room divisions, wall angles, door/window positions, the two circular floor medallion locations, and the office room placement from the plan. Extrude the black plan walls into clean white waist-height interior walls and remove most measurement labels while keeping the faint AIAI.com watermark in the upper-left background. Add realistic architectural depth: gray polished concrete floors, white walls, glass storefront-style window/door openings along the exterior edges, soft sunlight, shadows, and a bright minimalist presentation on a plain light background. Furnish the layout as a modern {argument name=\"space type\" default=\"home office showroom\"}: add desks, shelving, display tables, storage cabinets, chairs, curtains, pendant lights, and small decor so each room feels functional, but keep the arrangement aligned to the original floor plan. Match the camera to a high three-quarter isometric view, showing the entire layout at once like a cutaway model. Style should be {argument name=\"render style\" default=\"clean realistic architectural visualization\"} with {argument name=\"wall color\" default=\"white\"}, {argument name=\"floor material\" default=\"polished gray concrete\"}, and warm natural lighting. Do not invent extra rooms, do not change the outer shape, and do not crop the building.",
-    "title": "2D Floor Plan to 3D Isometric Interior",
-    "description": "Generates a realistic 3D cutaway interior visualization from a flat architectural floor plan while preserving the original layout.",
+    "content": "Using the provided reference floor plan, transform the flat 2D layout into a realistic 3D isometric cutaway interior visualization. Preserve the overall room geometry, wall positions, door/window openings, and the two circular decorative floor medallions from the plan. Extrude the walls into clean white architectural partitions, remove most dimension lines and drafting annotations, and replace the schematic symbols with a furnished, modern commercial interior.\n\nStyle: {argument name=\"render style\" default=\"photorealistic 3D architectural rendering\"} with soft daylight, realistic shadows, and a premium showroom feel.\n\nMaterials: Use smooth white walls, polished gray concrete floors, dark-framed glass doors/windows, and light wood cabinetry and shelving.\n\nInterior additions: Populate the rooms with retail/showroom and office furniture: display tables, product shelves, counters, storage cabinetry, desks, chairs, pendant lights, and small decor objects. Keep the existing office area on the lower right recognizable as a furnished executive office with a large wooden desk, seating, shelving, and wall decor.\n\nCamera and composition: Render from a high oblique isometric view looking down into the entire floor plan, with the full layout visible on a light neutral background. Make the image feel like a polished architectural model or real-estate visualization.\n\nCustomization: Interpret the plan as a {argument name=\"space type\" default=\"modern retail showroom and office\"}. Use {argument name=\"wall color\" default=\"white\"}, {argument name=\"floor material\" default=\"polished gray concrete\"}, and {argument name=\"furniture material\" default=\"light wood with dark metal and glass accents\"}.\n\nConstraints: Keep exactly 2 circular floor medallions, maintain the asymmetric building footprint, keep the large glass openings along the lower and upper sides, avoid adding people, avoid text labels, and do not change the basic floor-plan proportions.",
+    "title": "2D Floor Plan to 3D Interior",
+    "description": "Transforms a flat architectural floor plan into a realistic isometric 3D furnished interior visualization for real estate, retail, or design presentations.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787127688580_gko6pb_HPbMonwaIAAm500.jpg"
+      "https://cms-assets.youmind.com/media/1787213859534_dukogl_HPbMonwaIAAm500.jpg"
     ],
     "needReferenceImages": true
   },
