@@ -1,5 +1,36 @@
 [
   {
+    "id": 32216,
+    "content": "Create image Ultra-realistic professional studio portrait a {argument name=\"subject\" default=\"stylish man\"}, well-groomed appearance, wearing a small wristwatch. He is dressed in a perfectly tailored {argument name=\"clothing\" default=\"beige three-piece tweed-textured suit\"} (blazer, waistcoat, and trousers), paired with a crisp white dress shirt and a slim dark grey/charcoal necktie.\n\nHe leans slightly against a {argument name=\"background\" default=\"plain textured grey concrete wall\"}, body angled in a three-quarter view, head turned to gaze off to the side with a calm, confident expression. Both hands are raised near the chest, fingers adjusting the blazer.\n\nLighting & Technical: Soft, even studio lighting highlighting fabric texture and natural skin tone. Shallow depth of field with sharp focus on the face. Shot on a full-frame DSLR, 85mm lens, f/1.8 aperture.\n\nNatural skin texture, hyper-detailed, 8K quality. Style & Composition: High-resolution luxury fashion editorial photography style, premium menswear catalog aesthetic, muted grey monochrome color palette throughout, vertical portrait orientation, balanced headroom, sharp facial details, professional photography.",
+    "title": "Professional Studio Portrait in Tweed Suit",
+    "description": "A sophisticated prompt for generating a high-fashion studio portrait of a man wearing a tailored three-piece tweed suit, emphasizing fabric texture and professional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386201793_7x5m81_HQTFmdTboAA2aUx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32236,
+    "content": "Ultra-realistic premium skincare product photography of a tall frosted glass bottle standing upright at the center of the frame, featuring a minimalist cylindrical shape with a smooth satin-translucent finish and a polished silver metallic cap; the bottle contains a subtle cloudy infusion with soft green botanical elements visible inside the glass, and vertical minimalist typography on the front reading “{argument name=\"brand name\" default=\"AUROA\"}” in clean white.",
+    "title": "Premium Skincare Product Photography",
+    "description": "High-end product photography prompt for a frosted glass skincare bottle with minimalist branding and silver metallic accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386216345_ikhibg_HQQCzBIWwAAgwC5.jpg",
+      "https://cms-assets.youmind.com/media/1787386220518_zp8ux2_HQQC2YXXIAAl4Jo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32291,
+    "content": "Create a realistic close-up food photograph of Japanese {argument name=\"dish name\" default=\"tonkatsu with dark demi-glace sauce\"} served on an oval rustic ceramic plate. The main subject is one breaded pork cutlet sliced into exactly 5 thick rectangular pieces, arranged diagonally from lower left to upper right, with crisp golden-brown panko breading and pale pork visible in the cut gaps. Pour a thick, glossy, very dark reddish-brown sauce generously across the center of all 5 cutlet pieces and let it pool heavily around the bottom half of the plate, with bright specular highlights and small chunky texture in the sauce. Behind the cutlet at the upper left, add a large mound of finely shredded {argument name=\"side garnish\" default=\"white cabbage\"} with exactly 3 thin orange carrot strips on top. Use a shallow depth of field, macro restaurant photography style, warm natural lighting, high detail, appetizing texture, and a slightly angled overhead view. The plate should be beige-gray stoneware with a dark rim and subtle speckles, sitting on a dark wooden table with a hint of warm orange background blur. No text, no utensils, no hands, no extra side dishes, no rice, no curry roux separate from the sauce.",
+    "title": "Glossy Tonkatsu Food Photo",
+    "description": "A realistic close-up prompt for generating a Japanese tonkatsu plate with shredded cabbage and rich dark sauce.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386285360_6b4hpv_HQP59-mb0AAlY07.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32058,
     "content": "Create a photorealistic cinematic product photograph of a sleek modern countertop microwave oven in a warm minimalist kitchen. The microwave is the single main subject, positioned slightly right of center on a stone countertop, with a rounded rectangular beige-bronze metal body, black glass front door, thin chrome trim, small feet, and a right-side control panel. The control panel has a soft white digital display reading {argument name=\"timer display\" default=\"0:50\"} above one large circular metal dial surrounded by tiny minimal tick marks and plus/minus-style symbols. Through the dark perforated microwave window, show a warm amber interior light illuminating one shallow ceramic bowl centered on the turntable. The surrounding kitchen is calm and upscale: a large window on the left with blurred greenery outside, sunlight casting soft leaf-shaped shadows across the counter, one ceramic vase with leafy branches behind the microwave on the left, one empty ceramic bowl on the counter in the left foreground, and one floating wooden shelf in the background holding two stacked books, one rounded vase, one small plate stack, and a trailing plant at the far right. Use earthy neutral colors, matte textures, soft golden-hour side lighting, shallow depth of field, realistic reflections on glass and metal, subtle film grain, high dynamic range, and a premium appliance-advertising composition. No people, no logos, no extra text beyond the digital timer.",
     "title": "Warm Minimalist Microwave Product Photo",

@@ -1,5 +1,78 @@
 [
   {
+    "id": 32215,
+    "content": "Using the attached photo as reference, preserve the recognizable identity, hairstyle, expression, pose, clothing, baby animal, and original colors. Redraw it as a cute, clumsy hand-drawn doodle with an oversized crooked head, tiny awkward body, dot eyes, and simple facial features. Use thin, slightly shaky black ballpoint-pen lines and loosely scribbled colored-pencil strokes. Keep it intentionally amateur and adorably awkward, but clean and uncluttered, with a simplified background and plenty of white paper.",
+    "title": "Clumsy Hand-Drawn Photo Doodle",
+    "description": "Transforms a reference photo into a cute, amateur-style doodle with shaky lines and colored pencil textures while preserving key identity features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386201606_5yg3ut_HQTxjljbEAAneqt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32192,
+    "content": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. Use my pic face The image depicts a {argument name=\"subject description\" default=\"young man with dark, same hair\"} sitting confidently at an {argument name=\"setting\" default=\"outdoor dining area during nighttime\"} and catch the drink glass in one hand. He is dressed in a {argument name=\"outfit\" default=\"black kurta pajama\"} with stylish shoes pishwari and with a calm and composed expression on his face. Behind him, there are several other people seated at tables, engaging in conversations and enjoying their evening. The setting features decorative lighting, including two prominent, warm-toned pendant lights hanging from the ceiling, and a blue accent lighting illuminating the background. There are lush plants and foliage along a railing, with hanging flower decorations contributing to a cozy, stylish ambiance. In the background, some people are dressed in traditional or formal attire, and there is a hookah being used, indicating a social, leisure atmosphere. The flooring consists of patterned tiles, adding to the aesthetic appeal of the venue.",
+    "title": "Subject-Preserving Outdoor Night Portrait",
+    "description": "A detailed prompt for creating a realistic outdoor night scene while preserving the facial identity and texture of a reference photo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386219603_iunp2d_HQSd5hEaMAAH0qQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32242,
+    "content": "Subject:\n{argument name=\"subject\" default=\"Composed face at a window cafe\"}\n\nMain Figure:\n{argument name=\"main figure\" default=\"A single woman holding a ceramic cup with both hands by a cafe window in the center of the frame. There is a cake with strawberries and a vase with small flowers on a wooden table in the foreground, and the person is looking to the side.\"}\n\nPerson/Expression:\nWith the face tilted slightly to the left of the frame, the eyes are directed to the top right of the frame, with the lips slightly pursed in a composed look. Round cheeks and a small chin, large dark round eyes, thin eyebrows, a short rounded nose tip, and well-defined rose-colored lips. Pale pink cheeks, thin bangs over the eyes, and a dark brown bob cut ending just below the chin.\n\nClothing/Pose:\nA glossy pale pink-beige camisole dress. Very thin shoulder straps, overlapping drapes at the chest, and fine wrinkles from the torso to the waist are visible. Sitting in a chair, leaning the upper body slightly to the left, and cradling the cup in front of the chest with both hands.\n\nBackground/Lighting:\nA large window and a blurred street on the left, white small flowers in the lower-left foreground, a round wooden table and chairs in the right background, and amber pendant lights above. Warm direct sunlight enters from the window on the left, brightly lighting the edges of the hair, cheeks, and dress, while the back of the room is in soft shadow.\n\nComposition/Camera:\n3:4 aspect ratio, eye-level portrait from the thighs up. The figure occupies a large portion of the center to the right half, with a small amount of margin above the head and to the right, cutting off below the waist at the bottom edge. Focus is on the face and cup, with the window exterior and indoor background blurred with a shallow depth of field.\n\nTexture/Style:\nA photorealistic live-action photo of a warm afternoon. Brightly and finely depicts the textures of satin-like cloth, ceramics, wood grain, glass vases, and baked goods.\n\nNegative:\nDo not make the sideways-looking composed face smile; omit contact between the hands and the cup.",
+    "title": "Cozy Afternoon Cafe Window Portrait",
+    "description": "A detailed prompt for creating a photorealistic image of a woman sitting by a cafe window with a cozy, warm afternoon atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386228909_s5qai5_HQFpmEQacAA4DYE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32253,
+    "content": "9:16 vertical version, ancient style noble woman ink-gold makeup close-up, oriental classical female bust close-up, sitting straight, looking calmly at the camera, mature, cold and elegant, noble, calm. Young adult oriental female, mature classical beauty face. The makeup is {argument name=\"makeup style\" default=\"ink-gold red tea rose makeup\"}: ink brown, red tea and dark gold pearlescent eye makeup, tea rose blush, deep bean paste moisturizing lips. The hairstyle is a black dignified high bun, matched with a black-gold hollow hair crown. The clothing is a {argument name=\"clothing\" default=\"obsidian color stand-up collar long coat\"}, with dark gold embroidery, matched with a pomegranate red horse-face long skirt. The scene is a dark wood hall, a golden screen, warm candlelight, and the background is softly blurred. The skin tone is clean and transparent, high-end ancient style noble woman portrait photography texture.",
+    "title": "Ancient Chinese 'Ink Gold' Makeup Portrait",
+    "description": "A high-end ancient Chinese style portrait prompt featuring 'Ink Gold and Tea Rose' makeup. The scene captures a noble lady in a traditional long robe with intricate gold embroidery and a dark wood hall background, highlighting detailed cosmetic textures and classical accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386242714_slkzko_HQQq-RCboAEapet.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32265,
+    "content": "{ \n  \"prompt_type\": \"ultra_realistic_candid_portrait\", \n  \"subject\": { \n    \"identity\": \"{argument name=\"identity\" default=\"Uploaded Image\"}\", \n    \"identity_note\": \"Preserve the exact facial identity, hairstyle, beard, and overall appearance of {argument name=\"person name\" default=\"subject\"} as accurately as possible\", \n    \"pose\": \"{argument name=\"pose\" default=\"seated indoors, relaxed and natural body language\"}\", \n    \"gaze\": \"looking slightly off to the side, calm and introspective expression\", \n    \"eyewear\": \"dark sunglasses\" \n  }, \n  \"attire\": { \n    \"top\": \"loose-fitting white linen shirt\", \n    \"collar\": \"open collar, unbuttoned at the top\", \n    \"sleeves\": \"long sleeves, slightly rolled or rolled\", \n    \"fit\": \"casual, breathable, effortless drape\" \n  }, \n  \"composition\": { \n    \"shot_type\": \"medium close-up\", \n    \"angle\": \"three-quarter side profile\", \n    \"framing\": \"partially obscured by soft blurred foreground elements such as leaves and a doorway edge, giving depth and a candid observational feel\", \n    \"aspect_ratio\": \"vertical 3:4\" \n  }, \n  \"lighting\": { \n    \"source\": \"warm late-afternoon sunlight entering from the side\", \n    \"effect\": \"soft highlights across the face and shirt, deep cinematic shadows\", \n    \"background\": \"dark, elegant, softly out of focus interior\" \n  }, \n  \"photographic_style\": { \n    \"depth_of_field\": \"shallow with creamy bokeh\", \n    \"texture\": \"realistic skin detail, natural facial hair rendering\", \n    \"grain\": \"subtle film grain\", \n    \"color_grade\": \"muted, warm tones\", \n    \"genre\": \"premium editorial lifestyle photography\", \n    \"lens_simulation\": \"85mm lens, f/1.8 aperture\", \n    \"realism_level\": \"highly detailed, photorealistic\" \n  }, \n  \"output_requirements\": { \n    \"consistency\": \"generate the same final image style, mood, lighting, framing, and attire regardless of who the person is\", \n    \"variable_input\": \"only the person's name changes; all other elements remain fixed\" \n  } \n}",
+    "title": "Luxury Magazine Editorial Portrait",
+    "description": "A professional photography prompt structured for luxury editorial portraits, emphasizing cinematic lighting, shallow depth of field, and identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386255157_f88ax7_HQQi0S0agAAn-hS.jpg",
+      "https://cms-assets.youmind.com/media/1787386255161_f1s0cz_HQQi39HasAEIAq9.jpg",
+      "https://cms-assets.youmind.com/media/1787386255192_vvrqio_HQQi6jmbUAAQ7BX.jpg",
+      "https://cms-assets.youmind.com/media/1787386256322_i1p3xs_HQQi9GMa8AAQpgU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32305,
+    "content": "Create a highly detailed vertical anime-style pastoral portrait of a young woman with {argument name=\"hair color\" default=\"warm light brown\"} hair braided over one shoulder, soft loose bangs, fair skin, blue eyes, and delicate round wire-frame glasses. She is crouching in a sunlit wildflower meadow, turned slightly toward the viewer as if she has just looked back, with a gentle curious expression and parted lips. She wears a traditional European countryside dress: white puff-sleeve blouse with lace trim, dark navy fitted bodice with crisscross lacing, a blue apron over a long dark skirt, white socks, and black strap shoes. Her hands hold one gathered bouquet containing exactly 5 visible flower types: white daisies, yellow daisy-like flowers, blue cornflowers, small pink blossoms, and fine green stems. Around her in the meadow are scattered daisies and wildflowers, with one tall sunflower standing on the right side of the frame. The background shows a soft-focus rural village with small cottages, distant trees, and rolling fields under a bright blue sky with fluffy white clouds. Use warm natural daylight, gentle backlighting, soft depth of field, painterly-realistic anime rendering, luminous skin, fine hair detail, delicate fabric texture, and a serene summer atmosphere. Vertical composition, subject filling most of the frame, cinematic but wholesome, no text, no watermark.",
+    "title": "Anime Girl in Wildflower Meadow",
+    "description": "A detailed text prompt for generating a serene vertical anime pastoral portrait of a braided girl gathering flowers in a sunlit countryside meadow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386298232_7kf23p_HQPwlSYa8AATJMT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32204,
+    "content": "A high-quality vertical portrait of a young woman with long, straight dark-brown hair, wearing stylish {argument name=\"glasses color\" default=\"translucent emerald-green\"} cat-eye glasses and a {argument name=\"outfit color\" default=\"vibrant green\"} outfit. She poses indoors with one arm raised naturally over her head, gently holding her hair. Soft warm ambient lighting creates a cozy golden background. She has subtle natural makeup, softly flushed cheeks, defined eyelashes, and glossy natural pink lips. Delicate layered silver necklaces and a simple silver ring add elegant details. Her expression is calm and confident, looking directly toward the camera. Close-up selfie composition, slightly elevated camera angle, realistic skin texture, detailed hair strands, soft depth of field, warm tones, natural indoor atmosphere, fashion editorial aesthetic, photorealistic, high detail, vertical 9:16.",
+    "title": "Green Cat-Eye Glasses Portrait",
+    "description": "A vibrant vertical portrait prompt of a young woman wearing emerald-green cat-eye glasses and a matching outfit in a cozy indoor setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386194851_f5tuaw_HQPPc32bAAAcBPw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 32175,
     "content": "Create a cute kawaii sticker-style illustration of a smiling green cactus in a terracotta flower pot on a transparent checkerboard background. The cactus should have one large rounded central barrel body with vertical ribbing and two raised curved arms, one on each side. Give it a happy face with two glossy black oval eyes with white highlights, pink circular blush cheeks, and an open smiling mouth with a dark interior and pink tongue. Add many small pale yellow star-shaped spines with orange bases across the cactus: 28 visible spine clusters total, including 11 on the central cactus body, 9 on the left arm/left side, and 8 on the right arm/right side. Place a large red-pink flower on the upper left of the cactus crown with 7 rounded petals and a cluster of 8 yellow pollen dots in the center. The pot should be warm orange terracotta with a thick rounded rim, darker orange shading, glossy white highlight spots, tiny speckles, and visible brown pebbles/soil at the top. Use bright saturated colors, soft gradients, shiny highlights, thick dark green/black cartoon outlines, and a clean white sticker border around the whole cactus and pot. Center the subject, crop close but keep the entire pot and arms visible, square composition, cheerful mascot icon style, no text, no watermark.",
     "title": "Kawaii Cactus Sticker",
@@ -10,35 +83,35 @@
     "needReferenceImages": true
   },
   {
-    "id": 32133,
-    "content": "Use the uploaded image as the main visual reference. Create a highly photorealistic, stylish cinematic portrait of the same {argument name=\"subject\" default=\"young woman\"}, preserving her overall facial appearance, face shape, skin tone, eyes, eyebrows, nose, lips, and natural proportions as closely as possible. She has {argument name=\"hair style\" default=\"long, straight, silky dark-brown to black hair with soft natural volume and wispy curtain bangs\"} falling gently across her forehead. Her hair flows naturally over both shoulders with realistic individual strands and subtle shine. She is wearing sleek black rectangular sunglasses with dark tinted lenses and a glossy black frame. The sunglasses should fit naturally on her face and remain proportional to her features. She is dressed in a {argument name=\"outfit\" default=\"crisp white oversized button-up shirt\"} with a relaxed, elegant fit. The shirt has realistic fabric folds, a classic collar, visible buttons, and naturally loose sleeves. Pose: close-up three-quarter portrait. Her body is angled slightly away from the camera while her face turns toward the camera. One hand is raised naturally near the bridge of her sunglasses, gently touching or adjusting them with relaxed fingers. Her expression is calm, confident, slightly mysterious, and elegant, with soft natural lips and a subtle neutral smile. Add a simple black wristwatch with a round dial and black strap on the wrist of the raised hand. Background: softly blurred modern indoor/outdoor setting with neutral gray, beige, and muted green tones. Use shallow depth of field and creamy cinematic bokeh so the woman remains the clear focal point. Lighting: soft natural daylight, gentle highlights on her hair and sunglasses, realistic shadows, subtle warm-neutral color grading, cinematic contrast, natural skin texture and visible fine facial details. Photography style: ultra-photorealistic Korean-inspired fashion photography, premium editorial portrait, 85mm lens look, shallow depth of field, crisp focus on the face and sunglasses, realistic skin pores, detailed hair strands, realistic hands and fingers, natural body proportions, high dynamic range, professional composition, 4K/8K detail. Keep the overall mood and composition close to the reference image: long dark hair, curtain bangs, black sunglasses, oversized white shirt, raised hand near the sunglasses, black wristwatch, confident expression, and elegant cinematic aesthetic. Negative prompt: cartoon, anime, illustration, artificial face, plastic skin, excessive makeup, distorted facial features, unnatural eyes, deformed hands, extra fingers, missing fingers, malformed wrist, warped sunglasses, distorted watch, unrealistic hair, bad anatomy, blurry face, oversaturated colors, duplicate person, low resolution, text, watermark, logo.",
-    "title": "Photorealistic Cinematic Woman Portrait",
-    "description": "A comprehensive prompt for generating high-quality, photorealistic portraits of a woman with cinematic lighting and detailed fashion elements.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787299927064_977wyh_HQOEokDbYAAwzqN.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 32176,
-    "content": "Create a cute die-cut laptop sticker illustration on a clean white background, in glossy kawaii chibi mascot style with thick black outlines and a bold white sticker border. Center a smiling chibi adult man with {argument name=\"hair color\" default=\"dark brown\"} messy short hair, big shiny brown eyes, thick eyebrows, light stubble beard, rosy cheeks, and an excited open-mouth smile, wearing a {argument name=\"hoodie color\" default=\"black\"} hoodie. He leans forward with both hands pressing down on a large glossy red emergency-style button at the bottom center, mounted on a dark gray circular base; the button has bold white uppercase text reading {argument name=\"button text\" default=\"LIMIT RESET\"}. Behind the character, draw one large red circular reset arrow forming an almost complete loop, ending in a downward arrowhead on the upper right. Add exactly 3 yellow sparkle icons: 2 on the left side of the character and 1 on the right side, plus exactly 4 small yellow burst rays near the lower sides, 2 on the left and 2 on the right. Use vibrant red, black, white, and yellow colors, smooth vector-like shading, glossy highlights on the button and face, playful sticker proportions, centered composition, no extra text, no watermark.",
-    "title": "Limit Reset Chibi Sticker",
-    "description": "A cute die-cut laptop sticker featuring a chibi character pressing a red limit reset button with a circular reset arrow.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787299966430_8ofgb4_HQN8EFzXAAA9o2a.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
     "id": 32123,
     "content": "A photorealistic close-up smartphone selfie of a {argument name=\"subject\" default=\"young Japanese woman\"} in a {argument name=\"setting\" default=\"cozy bedroom\"}, captured naturally with a front-facing phone camera. She has dark brown-black hair tied into a slightly messy low bun, soft wispy straight bangs, warm brown eyes, naturally fair skin, subtle rosy cheeks, minimal makeup, glossy pink lips, and a tiny beauty mark on her cheek. She rests one hand gently against her cheek while making a soft playful pout and looking directly into the camera. She wears an {argument name=\"clothing\" default=\"oversized textured white sweatshirt\"} with partially visible dark navy lettering. The background is a simple lived-in bedroom with warm off-white walls, a white curtain on the left, a small green houseplant, and a light wooden slatted closet/room divider behind her. Natural indoor daylight, slightly uneven smartphone exposure, subtle phone-camera grain, realistic skin pores and fine hair strands, mild lens softness, natural shadows, no studio lighting, authentic unedited mobile-photo appearance, casual candid composition, close framing, realistic proportions, high detail, vertical 3:4 aspect ratio.",
-    "title": "Japanese Woman Candid Bedroom Selfie",
-    "description": "Creates a realistic smartphone selfie of a young Japanese woman in a casual bedroom setting, mimicking the look of authentic front-facing camera photos.",
+    "title": "Authentic Smartphone Selfie Portrait",
+    "description": "A highly descriptive prompt designed to generate a realistic, candid smartphone selfie with natural lighting, minor imperfections, and specific character details.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787299912061_ydy7y7_HQN7lYVb0AAchIw.jpg",
-      "https://cms-assets.youmind.com/media/1787299915696_s6qw7i_HQN7l8gaEAALrf5.jpg"
+      "https://cms-assets.youmind.com/media/1787386221054_n7colj_HQN7lYVb0AAchIw.jpg",
+      "https://cms-assets.youmind.com/media/1787386221074_ezsqw9_HQN7l8gaEAALrf5.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 32290,
+    "content": "Create a photorealistic vertical portrait of {argument name=\"character name\" default=\"a young East Asian woman\"} sitting on lush green grass in a sunny park, leaning beside the thick trunk of a large tree on the right side of the frame. She has {argument name=\"hair color\" default=\"long straight black hair\"}, fair skin, delicate natural makeup, and a calm slight smile while looking directly at the camera over her shoulder. She wears {argument name=\"dress style\" default=\"a flowing white halter sundress with an open back and thin tie straps\"}; the translucent layered skirt spreads softly across the grass. Her body is seated in profile facing left, knees bent, hands resting near her lap while holding {argument name=\"handheld object\" default=\"a black smartphone\"}. The background is a bright green park with exactly 3 visible small tree trunks in the distance, dense leafy shrubs, dappled sunlight, and deep natural shadows under the canopy. Use realistic smartphone photography aesthetics, natural summer daylight, high detail in grass and bark texture, soft skin tones, gentle backlighting from the upper left, shallow-to-medium depth of field, candid elegant composition, vertical 4:5 aspect ratio. Avoid text, watermark, extra people, exaggerated glamour styling, or artificial studio lighting.",
+    "title": "Sunny Park Portrait in White Dress",
+    "description": "A photorealistic outdoor portrait prompt for generating a serene woman in a white dress seated by a tree in a sunlit park.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386278747_q9t9cq_HQN6xjQawAAyU2F.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32117,
+    "content": "Hyper-realistic, high-end cinematic lifestyle portrait of a beautiful {argument name=\"subject ethnicity\" default=\"Indian\"} woman with radiant, dewy, glowing skin and fresh minimal makeup; strictly preserve the exact facial geometry, natural proportions, and identity of the reference model with 100% fidelity. Hair & Pose: Long, glossy espresso-brown hair with soft natural waves cascading gracefully over one shoulder; sitting barefoot in an effortless, relaxed candid posture on a rich dark mahogany wooden indoor daybed layered with textured linen throws. Outfit: Delicate satin-silk spaghetti-strap camisole in {argument name=\"clothing color\" default=\"honey-amber gold\"}, paired with relaxed, high-waisted frayed denim shorts in a soft washed olive-green hue, highlighting realistic fabric weave and organic seams. Environment & Atmosphere: Cozy, rustic bedroom interior with warm vertical wood-paneled walls and a soft sunlit window casting gentle ambient glow. Lighting & Tone: Soft, diffused natural window light creating delicate Rembrandt cheekbone highlights and warm, atmospheric micro-shadows. Technical & Camera Details: Shot on {argument name=\"camera\" default=\"Sony A7R V with an 85mm f/1.4 GM prime lens\"}, eye-level framing, shallow depth of field, authentic micro skin pores, fine stray hair strands, crisp subject isolation against buttery background blur, 8k resolution, RAW color grading. Clean, discreet text positioned in the bottom center. --ar 4:5",
+    "title": "Cinematic Indian Woman Lifestyle Portrait",
+    "description": "A detailed high-end lifestyle portrait prompt for creating high-fidelity images of a model with specific clothing and environment details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386249969_sm74ez_HQN6sbmaIAAqubc.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 32111,
@@ -51,24 +124,45 @@
     "needReferenceImages": false
   },
   {
-    "id": 32116,
-    "content": "Beautiful woman with {argument name=\"hair color\" default=\"long, flowing dark-brown hair\"}, mesmerizing {argument name=\"eye color\" default=\"deep hazel-brown eyes\"} with a soft, gentle gaze, natural lashes and sparkling catchlights. Warm golden-hour sunlight illuminates her face and hair, creating dreamy amber highlights and cinematic shadows. Natural skin texture, glossy lips, minimal makeup, delicate loose hair strands, cute and elegant {argument name=\"aesthetic\" default=\"Japanese fashion-editorial aesthetic\"}, soft charming expression, shallow depth of field, creamy bokeh, 85mm lens, f/1.4, ultra-photorealistic, cinematic, elegant and captivating.",
-    "title": "Japanese Fashion Editorial Portrait",
-    "description": "A detailed prompt for generating a high-quality, photorealistic portrait of a woman with a Japanese fashion aesthetic, featuring cinematic lighting and soft bokeh.",
+    "id": 32264,
+    "content": "Photorealistic Paris street portrait of the {argument name=\"subject\" default=\"same girl as the reference image\"}, preserving her facial identity, facial features, hairstyle, and overall appearance accurately. She is walking along a charming Parisian street and looking back naturally over her shoulder toward the camera, with a subtle candid expression. She has long, wavy dark-brown hair with soft curtain bangs and the same tortoiseshell hair clip. She wears an {argument name=\"attire\" default=\"elegant ivory embroidered blouse\"} paired with a brown leather shoulder bag and gently holds a {argument name=\"accessories\" default=\"small bouquet of delicate white flowers\"}. Behind her are classic Parisian Haussmann buildings and the recognizable exterior of Café de Flore, softly out of focus. Warm natural daylight, authentic Parisian atmosphere, realistic skin texture, detailed individual hair strands, natural facial expression, soft background bokeh, cinematic candid photography, shallow depth of field, subtle filmic tones, realistic proportions, premium editorial photography, no artificial or plastic-looking skin. Vertical 4:5 composition, high detail, photorealistic.",
+    "title": "Parisian Street Candid Portrait",
+    "description": "A photorealistic prompt for a candid street portrait in Paris, featuring a woman looking over her shoulder with soft lighting and a blurred cafe background, emphasizing identity consistency.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787299906483_5c6qt2_HQNo5NtasAA-OqK.jpg",
-      "https://cms-assets.youmind.com/media/1787299906558_t4zbch_HQNo6NoagAEFHTv.jpg"
+      "https://cms-assets.youmind.com/media/1787386255904_2gq4b0_HQNpZvtaIAAP2Ns.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32116,
+    "content": "Beautiful woman with long, flowing {argument name=\"hair color\" default=\"dark-brown\"} hair, mesmerizing {argument name=\"eye color\" default=\"deep hazel-brown\"} eyes with a soft, gentle gaze, natural lashes and sparkling catchlights. Warm golden-hour sunlight illuminates her face and hair, creating dreamy amber highlights and cinematic shadows. Natural skin texture, glossy lips, minimal makeup, delicate loose hair strands, cute and elegant {argument name=\"aesthetic\" default=\"Japanese fashion-editorial\"} aesthetic, soft charming expression, shallow depth of field, creamy bokeh, 85mm lens, f/1.4, ultra-photorealistic, cinematic, elegant and captivating.",
+    "title": "Golden Hour Fashion Editorial",
+    "description": "A cinematic fashion portrait prompt for a woman with dark-brown hair and hazel eyes, optimized for golden-hour lighting and 85mm lens effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386252210_hha8v2_HQNo5NtasAA-OqK.jpg",
+      "https://cms-assets.youmind.com/media/1787386252288_mssrot_HQNo6NoagAEFHTv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32126,
+    "content": "Realistic {argument name=\"location\" default=\"Paris\"} street scene portrait, a young woman looking back, long wavy dark brown hair with ear-length bangs and a tortoiseshell clip, ivory embroidered shirt, {argument name=\"accessory\" default=\"brown leather shoulder bag\"}, holding {argument name=\"handheld\" default=\"delicate white flowers\"}. The background is Paris Haussmann buildings and Café de Flore, natural warm sunlight, soft focus blur, cinematic candid style, realistic skin and hair texture, vertical 4:5.",
+    "title": "Realistic Paris Street Portrait",
+    "description": "A high-fidelity portrait prompt of a young woman in a classic Paris street setting. It captures specific details like embroidered shirts, leather bags, and white flowers against the backdrop of Haussmann architecture and Cafe de Flore with warm natural sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386240037_z1l0gs_HQNdbo6aYAAnHER.jpg",
+      "https://cms-assets.youmind.com/media/1787386240171_blgvjf_HQNdbx7bcAAQ9ST.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 32180,
-    "content": "Create a vertical stylized anime character portrait of {argument name=\"character name\" default=\"a young female cafe barista\"} shown from mid-thigh up against a clean warm off-white studio background. She has {argument name=\"hair color\" default=\"messy black\"} hair with a side-swept fringe, loose strands framing her face, and a low tousled bun at the back; sharp expressive brown eyes behind thin round glasses; delicate angular facial features; a calm, slightly serious expression; and a recognizable slim silhouette. Dress her in a crisp white button-up shirt with rolled sleeves, a black neck scarf tied loosely like a ribbon, and a {argument name=\"apron color\" default=\"rust brown\"} cafe apron with dark brown shoulder straps and a tied waist sash. Her posture is relaxed and professional, one arm bent across her body while holding {argument name=\"held object\" default=\"a takeaway coffee cup with a black lid\"} near her waist. Use a distinctive character-driven anime aesthetic with slightly unconventional facial proportions, clean confident linework, sketchy ink accents, warm muted colors, soft cel shading, subtle fabric folds, and minimal background detail. Add a faint blurred foreground hint of cafe equipment at the lower left for depth, but keep the focus entirely on the character. No text, no logo, no watermark.",
+    "content": "Create a vertical anime-style character portrait of a {argument name=\"character role\" default=\"female cafe barista\"} standing behind a softly blurred cafe counter. She is shown from mid-thigh to head, centered, with a slim elegant build, delicate angular face, sharp expressive brown eyes, and a calm slightly serious expression. Give her {argument name=\"hair color\" default=\"messy black hair\"} in a loose low bun with long side strands and wispy bangs partially covering one eye, plus thin round eyeglasses and small ear piercings. Her outfit includes exactly 5 visible clothing/accessory elements: a crisp white long-sleeve button-up shirt with rolled sleeves, a dark black neck scarf tied loosely at the collar, a rust-brown barista apron, dark brown shoulder straps, and a dark waist tie knotted in front. She holds exactly 1 takeaway coffee cup with both hands near her waist, tan cup with a black lid. Use a distinctive character-driven anime aesthetic with slightly unconventional facial proportions, clean sketchy ink lines, painterly cel shading, warm muted colors, subtle fabric wrinkles, and a recognizable silhouette. Background is plain warm off-white with only indistinct blurred cafe objects at the very bottom edge; no text, no logo, no watermark. Portrait orientation, close cropped, elegant editorial character concept art.",
     "title": "Anime Cafe Barista Portrait",
-    "description": "A clean vertical anime portrait prompt for creating a stylish female cafe barista character with glasses, apron, and coffee cup.",
+    "description": "Generates a stylish vertical anime character portrait of a calm female cafe barista holding a takeaway coffee cup.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787299968622_1vsuvx_HQMmjQzWgAAYHK8.jpg",
-      "https://cms-assets.youmind.com/media/1787299968603_sfjldt_HQMmj-nXoAA2Ff7.jpg"
+      "https://cms-assets.youmind.com/media/1787386305923_zoyc7v_HQMmjQzWgAAYHK8.jpg",
+      "https://cms-assets.youmind.com/media/1787386305807_js4n0m_HQMmj-nXoAA2Ff7.jpg"
     ],
     "needReferenceImages": true
   },
@@ -1656,6 +1750,17 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1786437679268_e1u9k5_HPX3xjtbYAAynXQ.jpg",
       "https://cms-assets.youmind.com/media/1786437679278_ygx7pg_HPX3y-kacAAO4sE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32270,
+    "content": "{\n  \"prompt_template\": {\n    \"subject\": \"{argument name=\"subject\" default=\"Person Name/Uploaded Image\"}\",\n    \"style\": \"hyperrealistic studio portrait photograph, cinematic dual-tone lighting\",\n    \"composition\": {\n      \"framing\": \"chest-up close crop portrait\",\n      \"position\": \"perfectly centered, symmetrical\",\n      \"orientation\": \"vertical, portrait aspect ratio 4:5\",\n      \"gaze\": \"direct eye contact with camera, head facing forward, chin level\"\n    },\n    \"expression\": {\n      \"mood\": \"calm, neutral, slightly serious\",\n      \"mouth\": \"closed, relaxed lips\",\n      \"eyes\": \"sharp, alert, direct\"\n    },\n    \"wardrobe\": {\n      \"clothing\": \"plain oversized white crewneck t-shirt or sweatshirt\",\n      \"details\": \"no logos, no patterns, relaxed loose fit, shoulders fully visible\",\n      \"color\": \"pure white, slightly glowing under fill light\"\n    },\n    \"lighting\": {\n      \"setup\": \"dual-tone split lighting\",\n      \"key_light\": \"warm amber/orange rim light from camera-left, raking across one side of face, neck and shoulder\",\n      \"fill_light\": \"cool blue ambient light filling the rest of the face and body\",\n      \"background_light\": \"soft glow gradient matching blue ambient tone\",\n      \"contrast\": \"high contrast between warm highlight and cool shadow zones\",\n      \"quality\": \"soft studio diffusion with a crisp rim highlight, no harsh shadows on facial features\"\n    },\n    \"background\": {\n      \"type\": \"seamless studio backdrop\",\n      \"color_gradient\": \"deep navy blue to teal, darker at edges\",\n      \"vignette\": \"subtle darkening toward corners\",\n      \"texture\": \"smooth, no props, no patterns\"\n    },\n    \"camera_specs\": {\n      \"lens\": \"85mm equivalent portrait lens\",\n      \"aperture\": \"shallow depth of field, f/2.8 look\",\n      \"focus\": \"tack sharp on eyes and facial features\",\n      \"sensor_feel\": \"medium format digital, ultra high resolution, 8k detail\"\n    },\n    \"skin_and_hair_detail\": {\n      \"skin\": \"natural realistic texture, visible pores, subtle sheen from lighting, no over-smoothing or plastic look\",\n      \"hair\": \"natural texture and volume matching subject's real hairstyle, individual strands visible under rim light\"\n    },\n    \"color_grade\": \"cinematic teal and orange color grade, warm highlights vs cool shadows, filmic contrast\",\n    \"post_processing\": \"professional retouch level, subtle skin evenness, retain natural imperfections, no beautify filter, no plastic AI look\",\n    \"negative_prompt\": \"no text, no watermark, no extra objects, no inset image, no reference photo overlay, no multiple people, no distorted face, no blurry eyes, no cartoon or illustration style, no harsh unnatural shadows\",\n    \"output_settings\": {\n      \"resolution\": \"high resolution, ultra detailed 8k\",\n      \"aspect_ratio\": \"4:5 portrait\",\n      \"realism_level\": \"photorealistic, indistinguishable from a real studio photograph\"\n    }\n  }\n}",
+    "title": "Cinematic Studio Portrait Lighting Setup",
+    "description": "A comprehensive studio lighting framework for GPT Image 2 designed to create hyper-realistic, cinematic portraits with a sophisticated teal and orange dual-tone setup.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386263941_qc1z2t_HPXxv5kbsAAytU5.jpg",
+      "https://cms-assets.youmind.com/media/1787386263895_mom08m_HPXxxuAb0AA41t1.jpg"
     ],
     "needReferenceImages": false
   },

@@ -10,44 +10,229 @@
     "needReferenceImages": true
   },
   {
-    "id": 32149,
-    "content": "Create a cute Q-version sticker-style illustration in PNG format with a transparent background (show it on a gray-and-white checkerboard transparency preview). The subject is exactly 2 Shiba Inu dogs standing side by side, full body, facing forward, happy and friendly: the left dog is a {argument name=\"left dog color\" default=\"black-and-tan\"} Shiba Inu wearing a bright {argument name=\"left harness color\" default=\"orange-red\"} chest harness with small black and yellow straps and a white curved logo mark; the right dog is a {argument name=\"right dog color\" default=\"cream-white\"} Shiba Inu wearing a {argument name=\"right harness color\" default=\"black\"} chest harness with a white curved logo mark. Keep their individual pet features recognizable: upright triangular ears, curled fluffy tails, thick plush fur, round glossy eyes, open smiling mouths, visible pink tongues, small paws, and compact Shiba body proportions. Use a polished digital illustration style with soft realistic fur texture, clean cutout edges, subtle shadows under the feet, bright cheerful expression, and a high-resolution transparent PNG sticker look. Do not add text, background scenery, extra animals, collars beyond the harnesses, or props.",
-    "title": "Transparent Q-Style Shiba Inu Sticker",
-    "description": "Generates a transparent-background PNG sticker illustration of two happy Shiba Inu dogs for chat stickers, social posts, or pet avatar art.",
+    "id": 32286,
+    "content": "Create a high-fantasy magical staff item icon on a clean white or transparent background, isolated with no shadow box or scenery. The staff is a long diagonal wand running from the lower left to the upper right, made of dark twisted carved wood wrapped in elegant curling gold vines and filigree. At the top is an ornate gold crescent-moon frame with engraved swirls, leaf-like gold fittings, and a brilliant translucent {argument name=\"main crystal color\" default=\"purple\"} five-point star crystal set inside the crescent, glowing with bright lens-flare highlights and faceted gemstone reflections. Include exactly 8 visible purple gem elements: 1 large star crystal in the crescent, 1 dangling faceted teardrop crystal on a fine gold chain, 1 round orb gemstone at the bottom pommel, 1 round gem below the crescent, 2 oval inlaid gems along the shaft, 1 small star-shaped gem on the shaft, and 1 tiny oval gem near the lower shaft. Include exactly 5 visible gold star ornaments: 1 at the crescent tip, 1 small star on the left of the main crystal, 1 small star on the right edge of the crescent, 1 tiny star above the dangling crystal, and 1 star setting on the staff shaft. Use a polished game asset / RPG inventory icon style with crisp edges, rich gold metallic highlights, deep brown wood grain, luminous magical sparkle, and highly detailed fantasy ornamentation. Center the full object with generous empty space around it, no text, no hands, no character, no background pattern. The item should feel like a {argument name=\"artifact type\" default=\"celestial wizard staff\"} with luxurious golden craftsmanship and radiant amethyst magic.",
+    "title": "Celestial Purple Crystal Wizard Staff",
+    "description": "Generates an isolated fantasy RPG staff asset with ornate gold crescent details and glowing purple gemstones for game UI or item icon use.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787299946099_l2okot_HQOlbBYaEAE3WC4.jpg"
+      "https://cms-assets.youmind.com/media/1787386278238_0drjp3_HQT10plaUAAfy4X.jpg",
+      "https://cms-assets.youmind.com/media/1787386278344_706kwc_HQT10pabsAAJep_.jpg",
+      "https://cms-assets.youmind.com/media/1787386278296_f5n4xo_HQT10pbaMAABuXt.jpg",
+      "https://cms-assets.youmind.com/media/1787386279156_5t0pcz_HQT10paawAAbeB9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32213,
+    "content": "A detailed portrait of a fierce tribal fantasy warrior woman leaning close to a massive, majestic great horned owl, cinematic lighting, dark moody atmosphere. The woman has long, wavy dark hair adorned with intricate silver chains, beads, and metallic headpieces. She has striking light green eyes, piercing the camera, with silver and icy-white war paint painted across her cheeks and nose. She wears dark leather armor decorated with silver pendants and turquoise gemstones Beside her the giant owl features sharp glowing orange eyes, patterned white and black feathers and an ornate silver circular medallion studded with a blue crystal resting on its forehead. The background is a shadowy, mystical forest in cool blue and dark gray tones. Highly detailed feathers, hyper-realistic, photorealistic textures, 8k resolution, dramatic dark fantasy aesthetic, masterpiece.",
+    "title": "Tribal Fantasy Warrior and Owl Portrait",
+    "description": "A high-detail fantasy prompt for a portrait of a tribal warrior woman and a giant majestic owl in a mystical forest setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386200256_hr10xz_HQTSLQQbYAAFRuu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32275,
+    "content": "Create a retro low-poly 3D spaceflight preview screen inside a desktop application window. Canvas is a wide 16:9 landscape screenshot with a white macOS-style browser/app frame, rounded top corners, three small traffic-light buttons at top left, and the window title “Space 1995 (DEBUG)”. Inside the window is a deep black starfield with many tiny white pixel-like stars and a few larger square stars, plus one large dark blue planet near the top center-left. The main subject is a single orange blocky spaceship centered slightly below the middle, viewed in three-quarter perspective from above, flying toward the right. The ship should look like a 1990s polygonal game asset: chunky rectangular geometry, visible panel-grid details, two side engine pods, a wide flat central body, dark cockpit glass on the front top, small black thrusters, subtle orange emissive glow on the left pod, and crisp voxel-like edges. Add a minimal sci-fi HUD overlay: at upper left a thin cyan horizontal line above the title text “SPACE 1995 // FLIGHT SYSTEM” in glowing cyan pixel/monospace lettering, with smaller subtitle “SHIP PREVIEW” beneath it. At lower right add a dark translucent rectangular status panel with a thin vertical orange accent bar on its left and the text “VX 150 DIABLO // LOADED” in small cyan-white monospaced type. Use exactly 1 spaceship, 1 planet, 1 top-left title HUD block, and 1 bottom-right status HUD panel. Visual style: retro-futuristic 1995 computer game, low-poly Three.js concept art, black space background, teal and orange UI accents, clean composition, no people, no extra labels, no watermark. Customizable elements: spaceship model name {argument name=\"spaceship model name\" default=\"VX 150 DIABLO\"}, main HUD title {argument name=\"main HUD title\" default=\"SPACE 1995 // FLIGHT SYSTEM\"}, subtitle {argument name=\"subtitle\" default=\"SHIP PREVIEW\"}, ship color {argument name=\"ship color\" default=\"orange\"}, planet color {argument name=\"planet color\" default=\"dark blue\"}.",
+    "title": "Retro Low-Poly Spaceflight Preview",
+    "description": "Generates a 1990s-style low-poly spaceship preview screen with a starfield, HUD overlays, and desktop app framing for game concept art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386268047_7u1pji_HQSox_YW0AErBb7.jpg",
+      "https://cms-assets.youmind.com/media/1787386267105_agl7x9_HQSo4DhXIAAYbz3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32280,
+    "content": "Using REFERENCE_0 as the classical mythological painting style and winged celestial figure base, transform the subject into {argument name=\"mythological character\" default=\"a female moon goddess archer inspired by Artemis/Diana\"}. Keep the grand Baroque/classical oil-painting treatment, dramatic clouds, monumental feathered wings, flowing pale drapery, sculptural anatomy, and cinematic wide desktop-wallpaper composition, but change the pose so she is aiming a bow in profile with one arrow drawn taut. Add exactly 5 new key details: 1 ornate crescent-shaped bow, 1 nocked arrow, 1 quiver at her waist, 1 crescent moon ornament in her hair, and 1 distant crescent moon in the sky. Shift the lighting and atmosphere from warm heavenly daylight to {argument name=\"atmosphere\" default=\"dark moonlit night\"}, with a starry cloud-filled sky, silver-gray highlights, glowing mist, and ethereal lunar radiance. Make the image feel like a mythological 4K desktop wallpaper: highly detailed, elegant, epic, painterly, no text, no watermark.",
+    "title": "Winged Moon Goddess Archer Wallpaper",
+    "description": "Creates a classical mythological wallpaper by transforming a winged celestial reference figure into a moonlit goddess archer scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386272425_zmwxob_HQJPxMpbMAAoY8L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32301,
+    "content": "Create a vertical 2:3 cinematic fantasy character illustration of {argument name=\"character name\" default=\"an elven aetheric surveyor\"} standing full-body in a grand gothic steampunk observatory. She is a refined young woman with long windswept {argument name=\"hair color\" default=\"emerald green hair\"}, pale skin, pointed ears, elegant serious expression, and detailed anime-realism facial features. Outfit: dark emerald Victorian military coat with gold embroidery and trim, high ruffled cream blouse, fitted black trousers, belts, pouches, brass instruments, black gloves, tall black leather heeled boots with ornate gold buckles, and a long layered cape lined in cream fabric. Behind her are exactly eight large translucent crystalline wing-like shards radiating from her back, faceted and glowing pale mint green like cut glass. In her left hand she holds a tall ornate staff topped with a large green crystal spearhead framed by gold filigree; with her right hand she touches a floating holographic interface panel. The hologram is a luminous green transparent rectangular sci-fi magic screen containing exactly five main information areas: 1) top title text reading {argument name=\"hologram title\" default=\"AETHERIC SURVEY // LAYER 7\"}, 2) an upper-left circular compass/radar diagram, 3) an upper-right irregular map silhouette, 4) a lower-left circular status gauge reading {argument name=\"status readout\" default=\"STABLE +0.37%\"}, and 5) a lower-right analysis card labeled {argument name=\"analysis label\" default=\"LEYLINE FLUX ANALYSIS\"} with small charts and data lines. Background: towering arched windows, dark cathedral columns, brass pipes, gears, mechanical astrolabe machinery, misty volumetric light, polished stone floor with reflections. Color palette of deep green, black, antique gold, pale crystal mint, and smoky gray. Style: highly detailed fantasy concept art, sharp linework blended with painterly realism, luxurious costume design, glowing magical technology, dramatic rim light, depth of field, intricate textures, no watermark, no extra characters.",
+    "title": "Emerald Aetheric Surveyor",
+    "description": "A detailed fantasy concept art prompt for creating an emerald-haired steampunk elven mage with crystal wings and a glowing holographic survey interface.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386293817_dxrl0k_HQQgeO-awAAE9X8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32285,
+    "content": "Create a cinematic full-body portrait of a {argument name=\"character description\" default=\"young Japanese female samurai warrior\"} standing in a misty autumn temple garden. She wears an ornate black and deep crimson patterned kimono integrated with layered samurai armor: lacquered red shoulder plates, segmented waist and thigh guards, black leather bracers, gold floral embroidery, brocade fabric, and a dark obi belt. She holds one katana at her side with the hilt near her hand, and a second sheathed sword is visible at her waist; include exactly 2 swords. Her pose is calm and powerful, body angled slightly sideways, head turned toward the viewer with a serious, elegant expression. She has long dark hair loosely tied back with windblown strands around her face. Add a wide woven straw kasa hat with dangling red tassels and small gold ornaments; include exactly 4 prominent tassel clusters hanging from the brim. The background shows a softly blurred Japanese pagoda on the left, stone steps below, a massive dark tree trunk on the right, and dense red maple foliage overhead. Add scattered falling red maple leaves, atmospheric haze, shallow depth of field, dramatic rim light, soft backlighting through the trees, realistic skin, intricate textile detail, and a moody red-black-gold color palette. Style: ultra-detailed photorealistic fantasy fashion editorial, cinematic composition, vertical 3:4 frame, high dynamic range, natural lens bokeh, no text, no watermark.",
+    "title": "Autumn Female Samurai Portrait",
+    "description": "A cinematic prompt for generating an ornate female samurai warrior in a red maple temple garden with detailed armor, kimono patterns, and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386276597_e23alk_HQQYct8agAAFj-q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32315,
+    "content": "Create a dark-mode chat screenshot featuring a generated transparent-background asset preview. Canvas: square 768×768 with a pure black app background. At the upper right, place one rounded blue chat bubble containing the exact Chinese text {argument name=\"chat message\" default=\"再帮我生成一张透明背景的中国武将舞剑图，要求剑身带有绚丽的刀光特效。\"} in white sans-serif type, split across two lines, with generous padding and pill-shaped corners. Below it, show a large image-preview panel with a dark gray checkerboard transparency grid. Center the panel on a dramatic Chinese warrior sword-dance cutout: a young male ancient Chinese general with long flowing black hair, intense expression, ornate red, white, black, and gold armor and robes, red ribbons and cape sweeping through the air, embroidered gold details, fur-trimmed shoulder armor, and one extended leg in a dynamic midair lunge. He holds a sword angled diagonally forward from left to right, surrounded by vivid glowing blade-light effects: one large elliptical swirl wrapping around the character, composed of golden sparks, blue-white energy trails, and bright motion streaks. Make the warrior look like a high-detail fantasy game character render with sharp metallic and fabric textures, rim lighting, and no visible background except the checkerboard grid. Add exactly three small UI controls over the bottom of the preview: a rounded dark label at bottom left reading 「编辑」, a circular dark download icon button near the lower center-right, and a circular dark share/upload icon button at the bottom right. Visual style: realistic cinematic fantasy character art inside a modern mobile chat interface, high contrast, polished GPT-style image generation result. Constraints: keep the checkerboard transparency pattern visible behind the character, do not add extra messages, watermarks, or additional UI panels.",
+    "title": "Chinese Warrior Transparent Asset Chat",
+    "description": "A dark chat-interface mockup showing a transparent-background Chinese warrior sword-dance asset with glowing blade effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386305039_t3kqqx_HQQUIknXMAAix6R.png",
+      "https://cms-assets.youmind.com/media/1787386305109_n3q0eo_HQQUIknXEAAJv2-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32311,
+    "content": "Create a full-body high-fantasy anime character concept illustration on a clean off-white background: one young male elf mage-knight with pointed ears, {argument name=\"hair color\" default=\"sandy blond\"} tousled layered hair, sharp amber eyes, and a confident slight smile. He stands in a relaxed heroic pose, body angled slightly left, head facing forward; his left hand is raised palm-up conjuring one glowing golden astrolabe-like magic sigil, while his right arm holds one large ornate spellbook at his hip. Outfit: an elaborate royal mage armor ensemble in {argument name=\"main outfit colors\" default=\"deep navy blue, burgundy, white, and metallic gold\"}, with one high-collared long coat, one flowing split cape with burgundy lining, layered shoulder armor on both shoulders, one prominent sun-compass chest emblem, one wide belt with pouches, fitted trousers, armored gauntlets, knee guards, and white-and-gold armored boots. Include exactly three main celestial motifs: a golden compass/sun emblem on the chest, a matching emblem on the spellbook cover, and a floating circular magic diagram beside the raised hand. The spellbook is burgundy leather with gold corners, geometric trim, and a raised compass symbol. The magic sigil is made of concentric rings, compass points, tiny stars, and fine radial linework, glowing softly in warm gold. Use elegant Japanese RPG character design aesthetics, crisp ink-like line art, refined cel shading, delicate watercolor texture, intricate gold filigree, slim heroic proportions, and no text, logo, watermark, or background scenery.",
+    "title": "Elf Mage-Knight Character Design",
+    "description": "A detailed prompt for generating a full-body anime fantasy elf mage-knight with ornate celestial armor, spellbook, and glowing magic sigil.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386302364_c27ze7_HQQTrrzbcAAcpRV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32271,
+    "content": "Create a clean reusable product asset of a stylized houseplant in a pot on a transparent background, previewed over a dark gray checkerboard transparency grid. Center the subject vertically and horizontally on a portrait canvas. The plant has exactly 7 visible glossy oval leaves: one large upright leaf at the top right, one medium upright leaf at the top left, one long horizontal leaf extending right, one long horizontal leaf extending left, one smaller lower-left leaf, one rounded lower-right leaf, and one small central emerging leaf partly hidden between stems. Use bright fresh green gradients with smooth highlights, subtle central veins and curved side veins, thick green stems clustered from the soil. The pot is a simple rounded white ceramic planter with a wide oval opening, soft shadows, minimal texture, and dark brown pebbly soil visible at the top. Use polished 3D icon / clay-render style, soft studio lighting from the upper left, gentle ambient occlusion under leaves and pot, crisp edges suitable for stickers or UI assets. No text, no logo, no watermark, no extra objects. Keep the background actually transparent, with the checkerboard only representing transparency if shown.",
+    "title": "Glossy Potted Plant Asset",
+    "description": "Generates a polished transparent-background potted plant icon suitable for product mockups, UI stickers, and marketing assets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386265409_fq6i65_HQP4vnbWQAAw4VA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32304,
+    "content": "Create a cinematic photorealistic vertical image of a futuristic Japanese Metropolitan Police Department heavy-duty humanoid robot undergoing an underwater resistance test in a clear blue pool. The robot is large, bulky, and tactical, built from angular white and dark navy armored plates with exposed black mechanical joints, hoses, pistons, bolts, and sensor modules. Its head is a rectangular multi-camera sensor bar with exactly 4 large circular glass lenses facing forward, mounted on a thick mechanical neck, with a small vertical antenna-like mast visible on the robot’s right shoulder/back. The robot has exactly 3 prominent dark armor panels with white markings: one chest panel reading “警視庁” above “MPD,” one left shoulder/arm shield reading “警視庁” and “MPD,” and one right shoulder/arm shield reading “警視庁” and “MPD.” Add red translucent police light strips on the tops of both shoulder shield units. Show the robot partially submerged just beneath the rippling water surface, surrounded by dense air bubbles, splashes, droplets, and shimmering caustic light patterns across the armor. Use a close-up low-front perspective, with the torso centered, arms extending to both sides, and the sensor head near the upper third of the frame. Lighting should be bright aquatic sunlight with high contrast, blue reflections, sparkling highlights, realistic refraction, and a shallow depth-of-field background of pool water. Style: ultra-detailed sci-fi mecha realism, Japanese police robotics concept art, crisp mechanical textures, cinematic action still, no people, no extra text beyond the visible “警視庁” and “MPD” markings.",
+    "title": "Underwater MPD Police Robot Test",
+    "description": "A photorealistic sci-fi image prompt for generating a Japanese police heavy-duty robot submerged in a pool during an underwater durability test.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386297223_numakw_HQPpxwjbQAACJA2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32306,
+    "content": "Create a charming hand-drawn watercolor-and-ink illustration of exactly 2 fluffy cats sitting close together on a plain {argument name=\"background\" default=\"white background\"}. The left cat is smaller, round-bodied, golden-orange with a cream-white chest patch and white front paws, a thick curled tail tucked along its left side, tiny pink nose, blush cheeks, upright triangular ears with pink inner ears, and oversized glossy green eyes looking slightly upward. The right cat is larger and taller, long-haired and very fluffy, {argument name=\"large cat fur color\" default=\"cream-white\"}, with a huge plume tail sweeping to the right, soft shaggy fur strokes around the face, chest, body, and tail, pink inner ears, tiny pink nose, blush cheeks, and oversized glossy green eyes also gazing upward. Both cats have cute small mouths, delicate whiskers, rounded paws, and a gentle innocent expression. Use fine black sketch outlines, visible pencil-like fur texture, soft pastel coloring, subtle watercolor grain, and no text, props, shadows, borders, or extra animals. Center the cats with ample empty space around them, in a cozy kawaii storybook style suitable for a transparent-background sticker or isolated clipart.",
+    "title": "Two Fluffy Kawaii Cats",
+    "description": "A soft watercolor-style illustration of two adorable fluffy cats sitting together, ideal for stickers, clipart, or transparent-background assets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386299132_1gaova_HQPkfqmbYAAJLS4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32255,
+    "content": "Character Three-View Drawing. Please use the attached character image as the main reference image. Create a character three-view drawing of the same character depicted from the following three directions: 1. Front, 2. Side, 3. Back. Faithfully maintain the face, hairstyle, hair color, eye color, body type, skin color, outfit, accessories, and characteristic parts so that the subject can be recognized as the same person as the character in the reference image. In all three directions, draw in the same natural standing pose and at the same scale. Completely unify height, body type, hairstyle, outfit design, and the position/shape of accessories across all three directions. Use a plain white background, neutral lighting, a composition that shows the entire body, and a layout that is easy to read as character setting material. Do not include extreme perspective, dynamic poses, cut-off body parts, different characters, text, or unnecessary background elements. High-quality anime character design, delicate line art, unified proportions, easy-to-read setting material, and front/side/back turnaround.",
+    "title": "Anime Character Turnaround Sheet",
+    "description": "A template for creating a character design sheet with three views (front, side, back) to maintain consistency for AI-generated characters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386243611_hz0mio_HQPgqxnaQAA_Z00.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32307,
+    "content": "Create a cute kawaii sticker-style illustration of a happy potted cactus as a transparent PNG. The main subject is one round barrel cactus with two raised curved arms, bright {argument name=\"cactus color\" default=\"lime green\"} skin, darker vertical grooves, glossy highlights, and a thick dark green outline plus a soft white sticker border. The cactus has a cheerful face with 2 large black oval eyes with white highlights, 2 pink circular blush cheeks, 2 simple curved eyebrow marks, and 1 open smiling mouth with a pink tongue. Add exactly 1 large red-pink flower on top of the cactus with 6 rounded petals and a cluster of small yellow stamens. Add many small star-shaped cream thorns with orange centers along the ribs and arms, evenly distributed. Place the cactus in exactly 1 terracotta flower pot, colored {argument name=\"pot color\" default=\"warm orange terracotta\"}, with a thick rim, subtle speckles, glossy white highlights, and visible brown pebbles/soil at the top. Use a polished digital cartoon rendering with saturated colors, smooth gradients, soft shadows, and a playful commercial sticker aesthetic. The background must be transparent; show no room, table, studio backdrop, scenery, text, watermark, or extra objects. Center the character, full body visible, portrait orientation, high resolution.",
+    "title": "Kawaii Cactus Transparent Sticker",
+    "description": "Generates a cute transparent PNG sticker of a smiling potted cactus with a flower, ideal for icons, merch, and ecommerce assets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386299368_g7l9yn_HQNqPjjbYAA1TbV.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32149,
+    "content": "Create a cute Q-version cartoon PNG sticker with a transparent background, showing exactly 2 Shiba Inu dogs standing side by side and leaning close together, preserving the original pet characteristics: the left dog is a {argument name=\"left dog color\" default=\"black-and-tan Shiba Inu\"} with cream eyebrows, cream muzzle and legs, fluffy curled tail, open smiling mouth, pink tongue out, and an orange-red chest harness with black and yellow trim; the right dog is a {argument name=\"right dog color\" default=\"white Shiba Inu\"} with a soft cream-white coat, curled tail, open smiling mouth, pink tongue out, and a black chest harness. Render them as adorable chibi-style pets with large expressive eyes, rounded faces, slightly oversized heads, soft fluffy fur texture, clean detailed linework, and a friendly happy expression. Both dogs should face forward in a full-body pose, paws visible, ears upright, tails curled over their backs, bodies touching naturally. Use a polished digital illustration style, high detail, warm lighting, subtle soft shadow only if compatible with transparency, no scenery, no props other than the two harnesses, no text, no watermark. Output as PNG with transparent background.",
+    "title": "Transparent Chibi Shiba Duo",
+    "description": "Generates a transparent-background Q-version sticker illustration of two smiling Shiba Inu dogs for pet stickers, social posts, or cutout graphics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386277446_j3pbtj_HQOlbBYaEAE3WC4.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 32161,
-    "content": "Create a cute kawaii sticker illustration of a happy potted cactus on a transparent background, shown as a centered front-facing character with a thick dark green outline and a soft white sticker border. The cactus is bright glossy {argument name=\"cactus color\" default=\"lime green\"}, with one large rounded central barrel body and exactly 2 raised side arms, one on the left and one on the right, both curved upward. Add vertical ribbed shading, shiny highlight spots, and many small star-shaped cream spines with orange bases distributed across the body and arms. Give the cactus a cheerful face with 2 large glossy black oval eyes, 2 pink circular blush cheeks, 2 small curved eyebrows, and a wide open smiling mouth with a red interior and pink tongue. Place exactly 1 large red-pink flower on the upper left of the cactus, with 6 rounded petals and a cluster of small yellow pollen dots in the center. The cactus sits in a warm {argument name=\"pot color\" default=\"orange terracotta\"} flower pot with a thick rounded rim, darker orange shading, speckled texture, and glossy white highlights; show brown soil and exactly 5 visible rounded pebbles along the top. Style should be polished 2D digital art, chibi mascot, vibrant saturated colors, smooth gradients, soft highlights, clean vector-like edges, no text, no watermark, no background scene, transparent PNG look with only a faint checkerboard preview visible outside the sticker silhouette.",
-    "title": "Kawaii Potted Cactus Sticker",
-    "description": "A polished text-to-image prompt for generating a cheerful transparent-background kawaii cactus sticker with a flower and terracotta pot.",
+    "content": "Create a transparent-background sticker illustration of a cute kawaii cactus in a terracotta flower pot. The cactus is bright lime green with a tall rounded central body and exactly two upward-curving side arms, one on each side. Give it a cheerful face with two large glossy black oval eyes, pink circular blush cheeks, and a wide open smiling mouth with a red interior and pink tongue. Add vertical darker green ribs and shiny highlight spots on the cactus. Cover the cactus with many small cream-colored starburst spines with orange bases, distributed across the central body and both arms. Place exactly one large red-pink flower on the top-left of the cactus, with six rounded petals and a cluster of small yellow stamens in the center. The pot is warm orange terracotta with a thick rim, darker orange shading, speckles, and glossy white highlights; show brown soil and exactly four visible rounded pebbles along the top. Use a polished digital cartoon style with bold dark green outlines, soft gradients, high saturation, rounded shapes, and a white sticker-like border around the cactus and pot. The background should be transparent, represented by a gray-and-white checkerboard preview if needed, with no text, no watermark, and no extra objects. Customize the subject as a {argument name=\"plant character\" default=\"kawaii cactus\"}, the flower color as {argument name=\"flower color\" default=\"red-pink\"}, the pot color as {argument name=\"pot color\" default=\"orange terracotta\"}, and the expression as {argument name=\"facial expression\" default=\"happy open-mouth smile\"}.",
+    "title": "Kawaii Cactus Sticker",
+    "description": "Generates a cheerful transparent-background kawaii cactus sticker suitable for icons, decals, emojis, or cute merchandise graphics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787299952194_ddf56z_HQNqPjjbYAA1TbV.png"
+      "https://cms-assets.youmind.com/media/1787386283444_zo1kfh_HQNqPjjbYAA1TbV.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32266,
+    "content": "Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering",
+    "title": "High-Fashion Character Concept Sheet",
+    "description": "Professional character concept art prompt for high-fashion designs, focusing on style consistency using reference images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386257477_amdrnx_HQORUhDaEAAXw3v.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32176,
+    "content": "Create a cute die-cut laptop sticker illustration on a white background with a thick white sticker border and bold black cartoon outlines. Center one chibi-style smiling man with {argument name=\"hair color\" default=\"dark brown spiky hair\"}, large glossy brown eyes, thick eyebrows, light stubble, rosy cheeks, and an excited open-mouth smile, wearing a black hoodie. He leans forward with both hands pressing a huge glossy red emergency push button labeled in large bold white uppercase text {argument name=\"button text\" default=\"LIMIT RESET\"}; the button sits on a dark gray oval base with highlights and shadows. Behind him, place one thick red circular reset arrow forming an almost complete loop, ending in a large downward arrowhead on the right. Add exactly 3 yellow sparkle stars around the character: 2 on the left side and 1 on the right side. Add exactly 4 small yellow emphasis rays near the lower sides of the button: 2 on the left and 2 on the right. Use a vibrant kawaii vector sticker style, high contrast, glossy highlights, clean shading, centered composition, no extra text, no watermark.",
+    "title": "Limit Reset Chibi Sticker",
+    "description": "A cute chibi laptop sticker design featuring a smiling hoodie character pressing a red “LIMIT RESET” button with a circular reset arrow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386272393_dtpqnh_HQN8EFzXAAA9o2a.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32308,
+    "content": "Create a cute kawaii sticker-style illustration of a happy potted cactus on a transparent background, shown with a faint gray checkerboard transparency preview behind it. The subject is centered and fills most of a square canvas. The cactus has one large rounded vertical green barrel body with ribbed segments and glossy highlights, plus exactly two raised side arms, one on the left and one on the right, both curved upward like a cheerful pose. Add many small cream-colored star-shaped spines with orange bases scattered across the body and arms, with a dark green outline around the cactus. Give the cactus an adorable face: two large glossy black oval eyes, small curved eyebrow-like marks above them, rosy pink circular cheeks, and a wide open smiling mouth with a dark interior and pink tongue. Place exactly one large red-pink flower on the top-left of the cactus, with six rounded petals and a cluster of small yellow pollen dots in the center. Put the cactus in a warm orange terracotta flower pot with a thick rounded rim, darker orange shading, glossy white highlights, subtle speckles, and visible brown soil and pebbles along the top. Use bright saturated colors, soft airbrushed shading, smooth vector-like edges, thick dark outlines, and a white sticker border around the entire cactus and pot. No text, no watermark, no extra objects.",
+    "title": "Kawaii Cactus Sticker",
+    "description": "A prompt for generating a cheerful transparent-background kawaii cactus sticker suitable for icons, stickers, presentations, or product graphics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386300422_2phdg7_HQNqPjjbYAA1TbV.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32312,
+    "content": "Create a cute kawaii sticker-style illustration on a transparent background: a smiling green cactus character in an orange terracotta flower pot, centered and filling most of the square canvas. The cactus has one large oval main body with vertical ribbed segments, two raised curved arms, glossy lime-to-deep-green shading, thick dark-green outline, and a soft white sticker border around the entire silhouette. Add exactly 3 cactus sections: 1 central oval body, 1 left upward-curving arm, and 1 right upward-curving arm. Add exactly 24 visible thorn clusters, each a small orange base with pale cream star-like spines, distributed across the central cactus and both arms. The face should be adorable and cheerful: two large glossy black oval eyes with white highlights, two pink circular blush cheeks, a wide open smiling mouth with dark interior and pink tongue. Place one large red-pink flower on the upper left of the cactus head with exactly 6 rounded petals and a cluster of small yellow dots in the center. The pot should be warm orange terracotta with a thick rounded rim, darker orange shading, glossy highlights, subtle speckles, and visible brown pebbles/soil at the top; include exactly 7 visible stones along the pot opening. Use vibrant digital cartoon rendering, soft gradients, high contrast, polished sticker art, no text, no watermark, no extra objects. Background should appear transparent, optionally shown with a light gray checkerboard preview pattern to demonstrate transparency.",
+    "title": "Kawaii Cactus Sticker",
+    "description": "A prompt for generating a transparent-background kawaii cactus sticker with a smiling face, flower, thorns, and terracotta pot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386302826_5bge7b_HQNqPjjbYAA1TbV.png"
     ],
     "needReferenceImages": true
   },
   {
     "id": 32141,
-    "content": "Create a cute kawaii sticker-style illustration of a smiling potted cactus mascot on a transparent background, shown over a faint gray checkerboard transparency preview. The cactus is bright {argument name=\"cactus color\" default=\"lime green\"}, glossy, and vertically ribbed, with a large rounded central body and exactly 2 raised curved arms, one on each side. Give it a happy face with exactly 2 big black oval eyes with white highlights, 2 pink circular blush cheeks, and a wide open smiling mouth with a red interior and pink tongue. Add many small cream-colored starburst cactus spines with orange bases across the body and arms, keeping them cute rather than sharp. Place exactly 1 large flower on the upper left of the cactus head: {argument name=\"flower color\" default=\"coral red\"} petals, yellow round stamens, and a dark green outline. Put the cactus in exactly 1 terracotta flower pot, warm orange with darker shading, glossy highlights, a thick rounded rim, and visible brown pebbles/soil along the top. Use a bold dark green/black outline around all major shapes plus a thick soft white sticker border around the entire character. Style should be polished vector-like digital art with soft gradients, shiny highlights, high saturation, rounded forms, centered composition, no text, no watermark, isolated asset suitable for web or sticker use. {argument name=\"background\" default=\"transparent checkerboard preview\"}",
-    "title": "Kawaii Smiling Cactus Sticker",
-    "description": "Generates a cute transparent-background cactus mascot sticker with a terracotta pot, flower, glossy highlights, and bold outline for web assets or decals.",
+    "content": "Create a cute kawaii sticker-style illustration of a cheerful potted cactus mascot on a transparent background shown with a faint gray checkerboard preview. The main subject is a bright lime-green barrel cactus with three visible vertical ribs and two upward-curving side arms, all outlined with a thick dark green stroke and surrounded by a soft white sticker border. Give the cactus a happy face: two large glossy black oval eyes with white highlights, small curved eyebrow-like marks above, round pink blush cheeks, and a wide open smiling mouth with a dark interior and pink tongue. Add exactly one large red-pink flower on the upper left of the cactus with 6 rounded petals and a cluster of small yellow bead-like stamens in the center. Cover the cactus with exactly 20 visible pale yellow star-shaped thorn clusters, each with a small orange center, distributed across the main body and both arms. Place the cactus in a warm orange terracotta flowerpot with a thick rounded rim, darker orange shading, glossy white highlights, small speckles, and visible brown pebbles in the soil at the top. Use a polished digital cartoon style with soft gradients, shiny highlights, saturated colors, clean vector-like edges, and a playful asset-ready look. Center the character, full body visible, no text, no watermark, no extra objects.",
+    "title": "Kawaii Cactus Sticker",
+    "description": "A prompt for generating a transparent-background cute cactus mascot sticker suitable for web assets, icons, and decorative graphics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787299940533_ioxv7d_HQNqPjjbYAA1TbV.png"
+      "https://cms-assets.youmind.com/media/1787386276621_pbd4u0_HQNqPjjbYAA1TbV.png"
     ],
     "needReferenceImages": true
   },
   {
     "id": 32139,
-    "content": "Create a cute transparent-background sticker illustration of a happy cartoon cactus in a terracotta flower pot. The cactus is bright lime green, glossy, and rounded, with one large central oval barrel cactus body and exactly two raised side arms, one on each side, shaped like curved saguaro arms. Add dark green rib lines and soft highlights on every cactus segment. The face is centered on the main cactus: two large black oval eyes with white sparkle highlights, two small curved closed-looking eyebrow marks above them, round pink blush cheeks, and a wide open smiling mouth with a dark interior and pink tongue. Place a single red-pink flower on top-left of the cactus crown, with exactly 6 rounded petals and a yellow center made of small bead-like dots. Cover the cactus with many small star-shaped pale yellow spines emerging from tiny orange bumps, distributed across the main body and both arms. The pot is orange terracotta with a thick rounded rim, darker red-orange shading, subtle speckles, and glossy white highlights; show brown soil and several rounded pebbles visible above the rim. Use a kawaii vector sticker style with thick dark green outlines, soft gradients, high saturation, clean edges, and a bold white sticker border around the whole cactus and pot. The image should sit on a transparent checkerboard background, centered, with no text, no watermark, and no extra objects.",
-    "title": "Cute Cactus Sticker",
-    "description": "A prompt for generating a kawaii transparent-background cactus sticker suitable for printing or decorating a laptop.",
+    "content": "Create a cute printable sticker illustration on a transparent background: a kawaii green cactus in a terracotta flower pot, centered and filling most of a square canvas. The cactus has one large oval ribbed central body and exactly 2 curved side arms, one on the left and one on the right, both raised upward. Give it a happy face with exactly 2 glossy black oval eyes, 2 pink circular blush cheeks, and 1 open smiling mouth with a dark interior and pink tongue. Add a red-pink flower on top-left of the cactus with exactly 6 rounded petals and a cluster of small yellow dots in the center. Cover the cactus with many small star-shaped cream spines with orange bases, distributed across the main body and both arms. Place the cactus in an orange terracotta pot with a thick rim, darker orange shading, small speckles, and glossy highlights; show brown soil and several rounded pebbles at the top. Use a polished digital cartoon style with thick dark green outlines, soft gradients, shiny highlights, saturated colors, and a clean die-cut sticker look with a thick white border around the entire cactus and pot. Background should be transparent, optionally previewed by a light gray checkerboard only to indicate transparency. No text, no watermark, no extra objects.",
+    "title": "Kawaii Cactus Sticker",
+    "description": "Generates a cute transparent-background cactus sticker illustration suitable for printing, laptop decals, or playful merch designs.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787299936737_4gh6he_HQNqPjjbYAA1TbV.png"
+      "https://cms-assets.youmind.com/media/1787386302741_jf7kfs_HQNqPjjbYAA1TbV.png"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 32254,
+    "content": "This is not a single finished picture, but a material to be used on its own isolated object fully transparent alpha no backdrop no rectangle no plinth no cast shadow",
+    "title": "GPT-Image-2 Transparency Prompting Guide",
+    "description": "Recommended prompt modifiers for generating high-quality assets with transparent backgrounds in GPT-Image-2, ideal for game development and product images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386242877_0a64tt_HQNgZOCbsAA0l0L.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 32169,
@@ -56,6 +241,27 @@
     "description": "Generates a transparent-background chibi animal reaction sticker with comic lettering for chats, merch, and social media.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1787299961983_7jsdq9_HQNYabXa4AEslei.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32309,
+    "content": "Create a polished 3D cartoon mascot of a {argument name=\"fruit character\" default=\"ripe yellow banana\"} as a full-body isolated sticker on a transparent background. The banana stands upright with a slight curve, tilted playfully to the viewer’s left, bright golden-yellow peel with subtle green near the stem and tip, small brown freckles and speckles, glossy highlights, and realistic dark brown cut ends at the top stem and bottom tip. Give it a cheerful anthropomorphic face in the upper-middle of the peel: two large oval brown eyes with white sclera and shiny highlights, two thick curved brown eyebrows, a wide open smiling mouth with white teeth, dark mouth interior, and red tongue. Add exactly two slim yellow arms: the left arm is raised high and waving with an open white cartoon glove showing four rounded fingers plus thumb, and the right arm is bent with a white gloved fist resting on the hip. Add exactly two slim yellow legs wearing white ankle cuffs and oversized sneakers; the sneakers are blue, white, and yellow with white laces and thick white soles. Use a friendly children’s cartoon style, smooth rounded forms, bright saturated colors, soft studio lighting, subtle contact shading, crisp clean edges, no text, no watermark, centered composition, full character visible from head to shoes.",
+    "title": "Waving Banana Mascot",
+    "description": "A cheerful 3D banana character sticker with gloves and sneakers for use as a playful transparent-background mascot asset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386301232_phmbal_HQNXbF2bsAAbP0H.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32153,
+    "content": "Goal: Create a realistic screenshot-style image of a ChatGPT mobile conversation demonstrating transparent-background image generation for a cute robot mascot.\n\nCanvas: Landscape 16:9 mobile screenshot composition, white app background, clean minimal UI, high-resolution, with lots of empty white space in the upper left and center.\n\nLayout: Show exactly 4 main visible UI/content elements: 1 partially cropped robot image at the top right, 1 pale blue user message bubble in the upper middle-right, 1 generated image preview card in the lower left, and 1 rounded chat input bar along the bottom.\n\nTop content: Place the lower half of a cute weathered humanoid robot mascot cropped at the top-right edge, showing only legs, part of torso, one arm, and feet. The robot is white metal with green accent panels, black joints, scuffed grime, chunky feet, and a friendly toy-like industrial design.\n\nUser message bubble: A rounded pale blue chat bubble centered slightly right, containing Japanese text exactly as: {argument name=\"user message\" default=\"GPTちゃん、このかわいらしいロボットのマスコットの透明背景画像を作って。つまり周りの白い部分を透明にして。\"}. Use dark gray Japanese sans-serif text, two lines, with generous padding.\n\nGenerated image preview: In the lower-left area, create one large rounded rectangle preview card with a gray-and-white checkerboard transparency pattern. Inside it, show exactly 1 robot mascot from the waist up, matching the top robot: white scratched metal body, green shoulder and ear-like side panels, black mechanical joints, square head, glowing warm yellow rectangular eyes, small antenna on the right side of the head, and an OpenAI logo plate on the forehead. The robot is waving with its left hand raised. On its chest, include handwritten Japanese text exactly: {argument name=\"chest text\" default=\"ちゃっぴ〜\"}. Crop the robot slightly at the bottom of the preview card. Add exactly 1 small circular download button with a downward arrow at the lower-right corner of the preview card.\n\nBottom input bar: Add one large rounded white input field spanning the bottom width with subtle gray border/shadow. Include exactly 5 visible controls/text items inside it: a plus icon on the far left, placeholder text exactly {argument name=\"input placeholder\" default=\"ChatGPT に質問\"}, a model label exactly {argument name=\"model label\" default=\"高い⌄\"} near the right, a small black microphone icon, and a blue circular voice waveform button at the far right.\n\nVisual style: Photorealistic 3D robot render combined with a clean ChatGPT-like mobile app UI screenshot. Use soft shadows, crisp text, rounded corners, neutral white background, and a realistic transparent checkerboard preview. Keep all Japanese text legible and preserve the UI spacing. No extra messages, no watermark, no browser chrome, no additional icons beyond the specified elements.",
+    "title": "ChatGPT Transparent Robot UI Screenshot",
+    "description": "Generates a clean mobile ChatGPT screenshot showing a cute robot mascot image with a transparent checkerboard background preview.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787386282788_hid8e3_HQNVJr6agAA7Cz-.jpg",
+      "https://cms-assets.youmind.com/media/1787386282829_uwqo6m_HQNVK7DaQAIM1KC.jpg"
     ],
     "needReferenceImages": true
   },
