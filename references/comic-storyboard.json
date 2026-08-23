@@ -10,35 +10,177 @@
     "needReferenceImages": true
   },
   {
-    "id": 32219,
-    "content": "TITLE:\nPremium Crispy Potato Wedges Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Gourmet food product campaign\n• 8 cinematic storyboard scenes\n• Product remains the main visual hero\n• Premium advertising agency presentation\n\nHEADER:\n• Bold luxury typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Cinematic Food Commercial\n  - Product: Crispy Potato Wedges\n  - Audio: Frying + Crispy ASMR\n• Why This Style Works section\n• Warm cream, golden yellow and dark brown aesthetic\n• Minimal food-themed decorative elements\n\nSTORYBOARD:\n1. Premium frozen potato wedges package standing on a clean dark surface\n2. Package opening with golden potato wedges visible\n3. Potato wedges dropping into hot oil in slow motion\n4. Extreme macro shot of bubbling crispy coating\n5. Golden wedges emerging from the fryer with steam\n6. One wedge breaking open to reveal a soft fluffy center\n7. Crispy wedges arranged beside the original product package\n8. Final hero packshot with dramatic golden food splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, high-speed food photography, slow-motion frying, controlled push-in, overhead composition, cinematic hero framing.\n\nSTYLE:\nUltra-realistic food commercial, crispy golden texture, realistic oil bubbles, steam particles, detailed potato surface, dramatic studio lighting, premium packaging, 8K.",
-    "title": "Crispy Potato Wedges Commercial Storyboard",
-    "description": "A detailed storyboard prompt for a gourmet potato wedges commercial, featuring macro shots and high-speed food photography details.",
+    "id": 32326,
+    "content": "TITLE:\nPremium {argument name=\"product\" default=\"Sparkling Fruit Drink\"} Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• {argument name=\"ratio\" default=\"3:4 Portrait ratio\"}\n• Luxury beverage product campaign\n• 8 cinematic storyboard scenes\n• Product remains the central hero\n• Premium advertising agency presentation\n\nHEADER:\n• Modern luxury typography\n• Information cards:\n\nDuration: {argument name=\"duration\" default=\"10 Seconds\"}\n\nStyle: Cinematic Beverage Commercial\n\nProduct: Sparkling Fruit Drink\n\nAudio: Fizz + Refreshing Liquid ASMR\n• Why This Style Works section\n• Silver, citrus orange and deep blue aesthetic\n• Minimal premium decorative accents\n\nSTORYBOARD:\n\n1. Chilled sparkling drink bottle covered in condensation\n\n2. Bottle cap opening with a burst of carbonation\n\n3. Extreme macro shot of bubbles racing through the drink\n\n4. Sparkling drink pouring into a crystal glass\n\n5. Ice cubes falling into the glass in slow motion\n\n6. Fresh citrus slices creating a dramatic splash\n\n7. Macro shot of condensation and carbonation bubbles\n\n8. Final hero bottle and glass surrounded by frozen splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nHigh-speed liquid photography, extreme macro, frozen splash capture, slow-motion pour, dramatic backlighting, condensation close-up, cinematic product hero framing.\n\nSTYLE:\nUltra-realistic beverage advertising, realistic carbonation, detailed water droplets, dynamic liquid splash, premium glass reflections, studio lighting, luxury branding, commercial photography, 8K.",
+    "title": "Premium Beverage Commercial Storyboard",
+    "description": "Creates a high-end 8-scene storyboard for a luxury beverage advertisement, emphasizing cinematic lighting, macro liquid photography, and professional presentation.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787386203339_jqe0ou_HQTgrJUaIAAqZAA.jpg"
+      "https://cms-assets.youmind.com/media/1787472347233_r35rwl_HQYa9tIbUAAKnxi.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 32231,
-    "content": "Use the uploaded photo as the exact background reference. Preserve the original real-life environment, architecture, perspective, lighting, colors, shadows, and camera composition.\n\nAdd a cute, stylish black-and-white hand-drawn anime doodle girl naturally into the real photograph. The character should look like a 2D ink illustration placed physically inside the real-world scene, creating a realistic live-action photo + hand-drawn illustration fusion.\n\nCharacter style:\n- Clean black ink line art\n- White/very light interior with minimal shading\n- {argument name=\"character aesthetic\" default=\"Korean/Japanese manga-inspired aesthetic\"}\n- Natural, elegant proportions\n- Long flowing dark hair\n- Simple facial features with expressive eyes\n- Clearly visible black outline around the entire character, like a hand-cut sticker\n- Slightly imperfect hand-drawn lines for an authentic sketchbook feel\n- No colors on the character except black and white\n\nCharacter integration:\n- Match the character's scale, perspective, and position to the photograph\n- Make her feet properly contact the ground/stairs\n- Add realistic interaction with the environment through natural shadows and overlapping perspective\n- Keep the background completely photographic and detailed\n- Do not turn the background into anime or illustration\n- The character should appear as if a hand-drawn person has stepped into the real photograph\n\nFor the outfit, use casual modern streetwear appropriate for the location. Preserve recognizable clothing details such as oversized T-shirts, jeans, sneakers, shoulder bag, jersey numbers, or accessories when specified in the reference image.\n\nComposition:\n- Full-body character when possible\n- Character positioned naturally in the foreground or middle ground\n- Keep the original landmark, stadium, buildings, stairs, trees, sky, advertisements, and surroundings clearly visible\n- Maintain the original photograph's wide-angle composition\n- Bright natural daylight\n- Crisp details\n- Realistic photographic background\n- Strong contrast between the monochrome illustrated character and colorful real environment\n\nOverall aesthetic: cinematic travel photography + Korean street photography + monochrome manga line art + scrapbook/sticker illustration, with seamless perspective and lighting integration.\n\nDo not make the entire image cartoon-like. Only the character should be illustrated; everything else must remain photorealistic.",
-    "title": "Anime Doodle and Real Photo Fusion",
-    "description": "An innovative prompt that blends a 2D black-and-white ink anime character into a high-resolution real-world photograph with seamless perspective.",
+    "id": 32375,
+    "content": "Goal: Create a vertical Japanese manga page about a fluffy hamster reluctantly trying convenience-store milk tea and instantly falling in love with it. Use black-and-white manga line art for most panels, then switch to full color for the final dramatic reaction panel.\n\nCanvas: Tall comic page, approximately 2:3 aspect ratio, clean white margins, thin black panel borders, right-to-left manga reading feel. Add a small top header reading {argument name=\"top caption\" default=\"セ○ンのミルクティー舐めてた\"} at the upper left and “1/1” at the upper right.\n\nLayout: Use exactly 6 discrete comic panels. Panel 1 is the top-left setup panel with the hamster in a nest. Panel 2 is the top-right product rumor panel showing an iced milk tea cup. Panel 3 is a wide middle panel showing the exterior of a convenience store on a bright day. Panel 4 is a narrow horizontal panel showing the purchased drink and the hamster debating the price. Panel 5 is another narrow horizontal panel showing the hamster taking the first sip. Panel 6 is the large bottom climax panel in color, filled with flowers and sparkling emotion.\n\nSubject details: The main character is {argument name=\"character\" default=\"a round, fluffy dwarf hamster\"}, drawn cute but slightly cynical at first, with tiny paws, small ears, soft fur texture, and expressive eyes. The drink is {argument name=\"drink\" default=\"iced convenience-store milk tea in a clear plastic cup with ice, straw, and domed lid\"}. In panels 1–5, keep the hamster grayscale with delicate hatching and screentone shading. In the final panel, make the hamster blush deeply with enormous glittering eyes, both paws gripping the cup, straw in mouth, overwhelmed by deliciousness.\n\nPanel-by-panel details and text: Include exactly 12 visible Japanese text elements: 1) top caption “セ○ンのミルクティー舐めてた”; 2) panel 1 narration box “今日は日曜日なので、朝活がてらチャレンジしようと思う”; 3) panel 2 narration box “昔に聞く某コンビニのミルクティーが美味しいという噂”; 4) panel 2 smaller narration box “聞いてはいたが、まだ飲んでいない”; 5) panel 3 narration box “……まぁ なんとなく「ロイヤルミルクティーでござい」って感じなんだろう。”; 6) panel 3 speech bubble “いらっしゃいませー”; 7) panel 3 narration box “と思い後回しにしてたんだよね……” ; 8) panel 4 vertical narration “——買ってきた”; 9) panel 4 speech bubble “なんだかんだ「こー言う感じね」”; 10) panel 4 speech bubble “「まぁ二回目はいいかなー」ってなるんだろうけど…”; 11) panel 4 price bubble “300円 ※Lサイズはお高いよね……” ; 12) panel 6 large narration box “また買おうと決意したハムスターであった”. Also add a dramatic reaction bubble in the final panel reading {argument name=\"reaction text\" default=\"——ッ!?\"} and a small slurping sound effect near the straw reading “ズズ……” or “はむ”.\n\nVisual style: Hand-drawn seinen manga style, precise black ink, soft gray screentones, detailed fur hatching, realistic convenience-store architecture, clear plastic cup transparency, ice cubes visible, gentle comedy timing. The final panel should become lush and romantic: pastel pink, peach, and cream flowers, falling petals, warm golden sparkles, glossy star-filled eyes, strong contrast between previous monochrome skepticism and final colorful bliss.\n\nConstraints: Keep the page readable as a single comic page, no watermark, no extra panels, no extra characters except tiny background shoppers if needed, preserve the Japanese text exactly as shown, and emphasize the humorous “instant conversion” from skeptical hamster to devoted milk-tea fan.",
+    "title": "Hamster Milk Tea Manga Page",
+    "description": "A vertical Japanese manga comic page showing a skeptical hamster trying iced milk tea and becoming emotionally overwhelmed by how delicious it is.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787386214907_hfvvua_HQTVtQKbIAA-DUZ.jpg",
-      "https://cms-assets.youmind.com/media/1787386214899_b2meu1_HQTVtQKawAAQLGW.jpg"
+      "https://cms-assets.youmind.com/media/1787472401411_t8tqls_HQX0CunbwAAmS3Q.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 32289,
-    "content": "Create a dramatic vertical Chinese ink-and-wash fantasy war illustration of {argument name=\"character name\" default=\"Lu Bu\"}, the legendary Three Kingdoms warrior, charging through the air on the Red Hare horse. The warrior is centered slightly left, wearing ornate black-and-gold ancient Chinese armor with a flowing crimson cape, fierce expression, dark hair, and a tall crown with two long pheasant-feather plumes curling upward behind him. He raises an enormous Fangtian halberd diagonally from lower left to upper right; the weapon has a long black shaft, intricate jagged metal blade, red tassels, and splattered ink details. The horse is a powerful rearing red warhorse facing right, mouth open, mane flying, front legs raised, decorated with dark leather reins and elaborate gold armor including a dragon-like chest ornament. Behind them, use explosive crimson brush strokes like blood-red battle banners or paint splashes spreading across the pale parchment sky. Below, show a rugged mountain gorge with steep dark blue-black cliffs on both sides and misty white clouds in the valley, painted with heavy textured ink strokes. Add vertical Chinese calligraphy in the upper left reading {argument name=\"main calligraphy\" default=\"吕布\"}, with smaller calligraphy beside it reading {argument name=\"subtitle calligraphy\" default=\"人中吕布 马中赤兔\"}, plus exactly two small red seal stamps beneath the writing. Style: highly detailed painterly xuan paper texture, traditional Chinese splash-ink composition mixed with epic fantasy realism, dynamic motion, strong contrast of red, black, gold, and deep blue, no modern objects, no border, no watermark.",
-    "title": "Lu Bu on Red Hare Ink Painting",
-    "description": "A dramatic Chinese splash-ink fantasy illustration of Lu Bu riding Red Hare through a misty mountain gorge, suitable for heroic historical character art.",
+    "id": 32392,
+    "content": "Create a vibrant vertical anime illustration of {argument name=\"character name\" default=\"Morina\"}, a cute squirrel-girl dragon rider flying through a bright blue sky on a large pastel pink dragon. The composition is dynamic and slightly low-angle, with the dragon swooping diagonally toward the viewer from upper right to lower left, its big head dominating the lower half of the image, open mouth with small sharp teeth, yellow-green eyes with glossy highlights, pink forehead horn plates, purple shading, a pale blue segmented belly, small clawed feet, and wide bat-like wings extending partly off the left and right edges. The rider sits on the dragon’s back near the center top, smiling excitedly and looking forward; she is a petite chibi-style anime girl with {argument name=\"hair color\" default=\"pink\"} short fluffy hair, large purple eyes, catlike/squirrel ears, a big curled squirrel tail, a white flower hair accessory, and rosy cheeks. Her outfit is a cute fantasy rider costume: white and pink dress with a pleated skirt, large pink bow at the chest, small gold shoulder armor, white sleeves or gloves, pink ribbon accents, and thigh-high white boots. Use a clean Japanese kawaii fantasy style with thick dark outlines, glossy cel shading, saturated pastel colors, sparkling highlights, and energetic motion lines. The background is a clear cyan-to-blue sky with white swirling wind arcs and fluffy clouds around the edges, emphasizing the feeling of high-speed flight. No text, no watermark, no border; keep the image crisp, playful, adventurous, and centered on exactly two main characters: one squirrel-girl rider and one pink dragon.",
+    "title": "Squirrel Girl Dragon Rider",
+    "description": "A bright kawaii anime fantasy scene of a cheerful squirrel-girl riding a pink dragon through a swirling blue sky.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787386280663_6r97wh_HQTGPeMbMAE3Khc.jpg"
+      "https://cms-assets.youmind.com/media/1787472415469_9bos5f_HQWkH1OaoAAgadg.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 32391,
+    "content": "Create a polished anime key visual inspired by Durarara!!, set in a busy Ikebukuro/Shibuya-style Tokyo crossing at midday under a vivid blue sky with scattered clouds. The scene features exactly five main characters arranged across the foreground and midground: 1) at far left, a slim black-haired teenage boy in a dark school uniform, hands in pockets, carrying a shoulder bag, looking serious and slightly away from camera; 2) left-center behind the motorcycle, a cheerful blond teenage boy in casual school clothes holding a smartphone and smiling; 3) center foreground, a headless female rider based on {argument name=\"character name\" default=\"Celty Sturluson\"}, wearing a glossy black leather catsuit and a reflective gold cat-eared helmet with a blue mirrored visor, seated beside or leaning on a sleek black futuristic sport motorcycle, with dark smoky shadow tendrils drifting from the neck area; 4) right-center, a shy black-haired schoolgirl with glasses in a blue sailor-style uniform with red neck ribbon, holding her schoolbag straps; 5) far right, a tall blond man in an immaculate white bartender suit and black shirt, sunglasses, casually holding a metal street sign pole across one shoulder. Use dramatic cinematic perspective with the large black motorcycle dominating the lower half of the image, wet reflective pavement, dense pedestrian crowds in the background, red traffic light overhead, and towering buildings covered in colorful Japanese neon billboards and signs including visible shop signage such as {argument name=\"store sign text\" default=\"TSUTAYA\"}. Visual style: high-detail modern anime illustration, sharp linework, glossy highlights, saturated cyan-magenta city lighting, realistic reflections, dynamic urban depth, no borders or watermark. Mood: stylish, cool, mysterious, ensemble cast promotional poster. Include the quote atmosphere of {argument name=\"quote theme\" default=\"The world is not as cruel a place as you think\"} without adding large readable quote text.",
+    "title": "Durarara-Style Tokyo Crossing Key Visual",
+    "description": "A cinematic anime ensemble poster showing five urban characters around a black motorcycle in a neon Tokyo crossing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472415424_ay13vj_HQXOptvagAAT0Jc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32388,
+    "content": "Create a cinematic vertical superhero portrait of {argument name=\"character name\" default=\"Spider-Man\"} reimagined as a dark heroic vigilante in a rainy futuristic city at night. The figure stands in a powerful three-quarter pose from thighs up, centered and imposing, wearing a glossy black armored spider suit with subtle web-line paneling, metallic segmented gauntlets, a tactical utility belt, and large glowing white eye lenses on a black mask. Add a dramatic torn {argument name=\"cloak color\" default=\"deep crimson red\"} hooded cloak draped over the head and shoulders, shredded and wind-whipped at the edges, fastened at the collar by exactly 2 ornate circular silver brooches. On the chest, place one large luminous {argument name=\"emblem color\" default=\"golden\"} spider emblem made of bright energy-like cracks and metallic lines, glowing as the main focal point. The environment is a dense cyberpunk skyline with blurred skyscrapers, neon signs, wet streets, heavy rain streaks, drifting debris, sparks, mist, and splashing water at the bottom edge. Lighting should be high-contrast and epic: cold blue city light from the left, warm golden backlight breaking through storm clouds on the upper right, rim light outlining the hood and shoulders, reflective wet armor, volumetric rain and smoke. Style: ultra-detailed photorealistic comic-book concept art, dark Marvel-inspired atmosphere, sharp facial mask detail, dramatic texture on fabric and armor, shallow depth of field, no text, no logos, no watermark, vertical 9:16 composition.",
+    "title": "Dark Hooded Spider-Man Portrait",
+    "description": "A cinematic vertical prompt for generating a rain-soaked dark Spider-Man-style vigilante in a torn crimson hooded cloak with glowing golden armor details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472411984_btaoti_HQW7IS6X0AAtebY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32364,
+    "content": "“Create a premium cinematic character sheet for NEGAN. Use uploaded character sheet as strict visual reference. Do not change his appearance.\n\nFull bleed layout, no panels, no boxes, no grid. Clean white background.\n\nCENTER: One massive full height hero",
+    "title": "Character sheet prompt:\n\n“Create a premium cinemat",
+    "description": "",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472390812_213eoz_HQV8Z5RXkAACJg9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32384,
+    "content": "Create a cinematic vertical sci-fi action scene in a rainy industrial harbor at night: a massive white-and-black police humanoid mech from the Tokyo Metropolitan Police Department, labeled with Japanese text 「警視庁」 and “MPD,” is capturing a hostile black multi-legged robot using thick tan restraint ropes. The image contains exactly 2 main robots: 1 towering bipedal police robot on the right, bulky armored body, white segmented plates over black mechanical joints, red emergency lights glowing on both shoulders, large launcher/sensor pod mounted on top of its head, gripping multiple ropes with both hands; and 1 dark spider-like quadruped robot on the left, low aggressive posture, glossy black armor, four visible articulated legs, red glowing optical sensor, partially toppled and being pulled back by the ropes wrapped around its body and legs. Set the scene on wet reflective pavement with splashing water around the robot feet, shipping containers, cranes, scaffolding, and distant industrial structures in the background. Use heavy rain streaks, storm clouds, mist, dramatic cold blue-gray lighting, bright red warning LEDs, realistic water reflections, high-detail hard-surface mechanical design, gritty photorealism, cinematic composition, low camera angle, tense motion, shallow atmospheric haze, no people visible, no extra robots, no watermark. Customize the agency marking as {argument name=\"police label\" default=\"警視庁 MPD\"}, the setting as {argument name=\"location\" default=\"rainy industrial harbor\"}, the captured machine as {argument name=\"enemy robot type\" default=\"black multi-legged robot\"}, the weather as {argument name=\"weather\" default=\"heavy rainstorm\"}, and the mood as {argument name=\"mood\" default=\"cinematic tactical confrontation\"}.",
+    "title": "MPD Mech Captures Spider Robot",
+    "description": "A cinematic photorealistic sci-fi action prompt showing a police mech restraining a hostile multi-legged robot in a stormy industrial harbor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472409383_x94l2w_HQVML21b0AAzif_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32381,
+    "content": "Create a dark epic fantasy cinematic illustration of {argument name=\"encounter title\" default=\"Encounter with an Armored Bear\"}: a colossal bear-like monster dominates the frame, lunging forward and roaring with its mouth wide open, fangs exposed, purple-glowing eyes, and enormous metal claws reaching toward the viewer. The bear is covered head to toe in layered blackened steel armor plates like overlapping scales, battered, scratched, riveted, and jagged, with heavy shoulder plates and a large ornate amulet on its chest holding a glowing {argument name=\"gem color\" default=\"purple\"} crystal. In the lower right foreground, show exactly 1 lone human knight seen from behind, much smaller than the beast, wearing dark ornate armor and a tattered cloak, holding exactly 1 long sword angled downward and exactly 1 large kite shield raised defensively. Set the scene in a ruined gothic city or fortress canyon with exactly 2 tall broken stone tower walls framing the left and right sides, storm clouds overhead, drifting ash, sparks, flying debris, shattered rocks, wet reflective ground, and eerie purple magical flames or energy erupting from the ground around the monster. Use a low-angle heroic composition, the bear filling most of the image, the knight providing scale, high contrast chiaroscuro lighting, cold gray-black metal tones with violet magical highlights, ultra-detailed textures, realistic fantasy concept art, dramatic volumetric smoke, sharp focus, vertical 4:5 aspect ratio, no text, no watermark.",
+    "title": "Armored Bear Encounter",
+    "description": "A cinematic dark fantasy scene of a lone knight confronting a colossal armored bear in a ruined magical battlefield.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472407725_a66vio_HQVL-90aIAADy70.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32385,
+    "content": "Create a detailed anime-style vertical portrait of {argument name=\"character name\" default=\"a young woman\"} arranging wildflowers in a rustic countryside kitchen. She is shown from the waist up in three-quarter profile facing right, with a gentle focused smile, fair skin, soft blush and freckles, round thin-rimmed glasses, and {argument name=\"hair color\" default=\"warm chestnut brown\"} hair with wispy bangs and a long loose side braid over her shoulder. She wears a romantic cottagecore outfit: a white puff-sleeve blouse with ruffled lace trim under a deep {argument name=\"dress color\" default=\"royal blue\"} dirndl-style pinafore dress with a lace-up bodice, gathered skirt, and bow at the back. Her hands delicately adjust a bouquet in a cream ceramic pitcher with blue floral patterns on a wooden table. The bouquet contains exactly 3 visible flower types: small white daisy-like flowers, muted blue wildflowers, and tiny pale yellow sprigs, with green stems and leaves; keep the flowers modest and natural rather than overly bright. The setting is a warm old farmhouse kitchen with wooden cabinets, shelves, blurred jars and crockery, a sunlit window on the left, and soft dust-filled morning light streaming across the scene. Use painterly high-detail anime illustration, realistic lighting, delicate linework, shallow depth of field, warm golden highlights, natural skin texture, intricate hair strands, cozy nostalgic atmosphere, portrait composition, no text, no watermark.",
+    "title": "Cottagecore Anime Flower Arrangement",
+    "description": "A warm vertical anime portrait of a bespectacled young woman arranging modest wildflowers in a rustic farmhouse kitchen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472409829_r033sm_HQU5LUba4AAoleW.jpg",
+      "https://cms-assets.youmind.com/media/1787472409811_tpyvod_HQU5PImaAAAAsi_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32393,
+    "content": "Create a polished anime-style vertical illustration of a young woman in a modern sunlit home kitchen, loading dishes into a built-in dishwasher. She is standing in three-quarter view beside the lower cabinet dishwasher with the door open and the rack pulled out, gently placing one large white plate into the front rack; visible dish elements include exactly 4 white plates: 1 plate in her hands and 3 plates already standing in the lower rack. The woman has {argument name=\"hair color\" default=\"dark brown almost black\"} hair with soft bangs and two loose braids, delicate round glasses, fair skin, a calm slight smile, and a gentle domestic atmosphere. Her outfit is a white short-sleeve ribbed henley blouse with small buttons and subtly ruffled edges, tucked into a high-waisted blue denim skirt with a brown belt. The kitchen is narrow and contemporary with glossy dark countertops on the left, a stovetop edge, a black glass kettle, a white electric kettle or coffee pot, a small bottle, upper cabinets, a refrigerator in the soft-focus background, and a bright sink area on the right with a potted plant near a window. Use warm late-afternoon sunlight streaming from the right, soft bokeh background, realistic lighting and reflections, clean linework, detailed fabric folds and denim texture, elegant Japanese anime illustration quality, portrait composition, no text, no watermark, no extra characters.",
+    "title": "Anime Woman Loading Dishwasher",
+    "description": "A detailed vertical anime illustration prompt for a gentle domestic kitchen scene featuring a young woman loading plates into a built-in dishwasher.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472414226_nfw0ts_HQU4Cf5aIAARFEQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32377,
+    "content": "Create a dramatic vertical anime illustration of a terrified {argument name=\"character description\" default=\"blonde high-school girl with twin ponytails, blue eyes, navy blazer, white shirt, red bow tie, plaid skirt, and black knee socks\"} trapped inside a modern glass elevator at night. She is sitting on the elevator floor in the lower center, knees pulled together, hands clamped over her ears, mouth open screaming, tears streaming down her flushed face, with a small blue hairpin near her bangs and dark ribbon bows in her ponytails. The elevator has reflective dark metal walls, a handrail on the left, a floor-number control panel on the right, and a glowing red emergency light above the panel. Behind her, the elevator’s full-height glass doors reveal a dense neon city skyline at night with many lit windows and a tall red-and-blue illuminated tower in the distance. A huge layered paper-like hornet nest protrudes from the upper left wall, textured with overlapping gray-beige ridges. Fill the elevator with exactly 39 visible giant hornets/wasps with black-and-yellow striped bodies and translucent wings: 1 huge close-up hornet blurred at the bottom left foreground, 1 huge close-up hornet blurred at the bottom right foreground, 1 large hornet at the upper right near the emergency light, 1 large hornet mid-right beside the control panel, 1 large hornet lower right edge, 1 large hornet lower left edge, 1 large hornet on the nest surface, 2 hornets clinging near the nest opening, 3 hornets crawling along the left nest rim, 4 hornets flying across the top ceiling area, 5 hornets scattered against the city window, 6 hornets around the girl’s shoulders and sides, 5 hornets near the floor in front of her knees, 4 hornets along the right wall and panel area, and 4 partially cropped hornets at the frame edges. Use cinematic low-angle perspective, intense claustrophobic composition, glossy reflections on the elevator floor, shallow depth of field with some foreground insects motion-blurred, high-detail anime rendering, moody blue-black nighttime lighting contrasted with red emergency glow and neon city colors. Make the emotion extreme and readable: panic, crying, helplessness, and overwhelming swarm danger. No captions, no watermark, no extra characters.",
+    "title": "Terrified Anime Girl in Wasp-Filled Elevator",
+    "description": "Generates a cinematic vertical anime scene of a crying schoolgirl trapped in a glass elevator swarmed by hornets at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472404817_xxjt3a_HQUF4e_bcAEQex1.jpg",
+      "https://cms-assets.youmind.com/media/1787472404742_h7lx2v_HQUF4fGawAAcNDE.jpg",
+      "https://cms-assets.youmind.com/media/1787472404745_vcqxt9_HQUF4fCbEAASGIA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32390,
+    "content": "Create a cinematic anime-style full-body illustration of {argument name=\"character name\" default=\"a graceful young woman\"} captured mid pivot turn in an elegant sunlit hall. She is looking back over her shoulder toward the viewer with a calm, slightly wistful expression, her body twisted dynamically as if dancing. She has {argument name=\"hair color\" default=\"long dark brown hair\"} flowing dramatically in wide arcs from the spin, with many fine loose strands catching the light. Her outfit is a fitted {argument name=\"jacket color\" default=\"deep crimson red\"} tailored blazer with gold buttons on the cuffs, flaring open at the hem from the motion, paired with a voluminous black knee-length skirt with a subtle red inner lining; the skirt is lifted and spiraling outward from the pivot. She wears glossy black ankle-strap high heels, one foot planted and the other crossing behind, emphasizing the elegant turn. The scene is an interior corridor or ballroom with tall windows on the left, warm late-afternoon sunlight streaming in, long rectangular shadows on a polished reflective floor, and softly blurred dark architectural columns in the background. Add exactly 7 small red flower petals drifting through the air around her, enhancing the sense of motion. Use a dramatic backlit composition, warm rim lighting on hair and fabric edges, realistic fabric folds, flowing cloth dynamics, delicate facial features, painterly yet highly detailed rendering, shallow depth of field, vertical portrait framing, no text, no watermark.",
+    "title": "Elegant Pivot Turn Anime Dancer",
+    "description": "A cinematic anime illustration prompt for creating a graceful woman spinning in a sunlit hall with flowing hair, flared skirt, and dramatic fabric motion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472413332_d06ln8_HQT9lE6awAAKg51.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32219,
+    "content": "TITLE:\nPremium {argument name=\"product\" default=\"Crispy Potato Wedges\"} Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Gourmet food product campaign\n• 8 cinematic storyboard scenes\n• Product remains the main visual hero\n• Premium advertising agency presentation\n\nHEADER:\n• Bold luxury typography\n• Information cards:\n  - Duration: {argument name=\"duration\" default=\"20 Seconds\"}\n  - Style: Cinematic Food Commercial\n  - Product: {argument name=\"product\" default=\"Crispy Potato Wedges\"}\n  - Audio: Frying + Crispy ASMR\n• Why This Style Works section\n• Warm cream, golden yellow and dark brown aesthetic\n• Minimal food-themed decorative elements\n\nSTORYBOARD:\n1. Premium frozen potato wedges package standing on a clean dark surface\n2. Package opening with golden potato wedges visible\n3. Potato wedges dropping into hot oil in slow motion\n4. Extreme macro shot of bubbling crispy coating\n5. Golden wedges emerging from the fryer with steam\n6. One wedge breaking open to reveal a soft fluffy center\n7. Crispy wedges arranged beside the original product package\n8. Final hero packshot with dramatic golden food splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, high-speed food photography, slow-motion frying, controlled push-in, overhead composition, cinematic hero framing.\n\nSTYLE:\nUltra-realistic food commercial, crispy golden texture, realistic oil bubbles, steam particles, detailed potato surface, dramatic studio lighting, premium packaging, 8K.",
+    "title": "Potato Wedges Commercial Storyboard",
+    "description": "A professional storyboard prompt for a premium food commercial featuring crispy potato wedges, including cinematic scenes and technical camera directions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472348916_cbfq2r_HQTgrJUaIAAqZAA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32363,
+    "content": "Create a single 16:9 cinematic animation development board for an original {argument name=\"genre\" default=\"high-energy action adventure\"} short film",
+    "title": "Cinematic Action Adventure Storyboard",
+    "description": "An image generation prompt for creating a single-frame animation development board depicting a high-energy action adventure scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472389727_n8gt4i_HQTQDl7bEAAU53V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32289,
+    "content": "Create a dramatic vertical Chinese ink-and-wash fantasy illustration of {argument name=\"character name\" default=\"Lu Bu\"}, the legendary Three Kingdoms warrior, charging through a narrow mountain gorge on a rearing {argument name=\"horse color\" default=\"blood-red\"} warhorse. The warrior wears ornate black-and-gold lamellar armor with sharp gilded details, a fierce expression, dark hair and beard, and a small crested headpiece with two long pheasant-tail plumes arcing high behind him. He raises an enormous Fangtian halberd diagonally across the composition, its jagged double crescent blade pointing to the upper right with red tassels near the head. A vast torn {argument name=\"cape color\" default=\"crimson\"} cape explodes behind him like splashed paint, merging with red ink bursts that fill the upper background. The horse is muscular, mid-leap and rearing, mouth open, mane flying, ornate bridle and chest armor decorated with a fierce beast-mask emblem. Below, dark blue-black rocky cliffs frame a deep misty ravine, painted with rough expressive brush strokes and white fog. Use a textured off-white rice-paper background, dynamic splatter ink, energetic xieyi brushwork, high contrast red against deep navy rocks, painterly realism mixed with traditional Chinese martial art poster aesthetics. Add vertical black Chinese calligraphy in the upper left reading {argument name=\"calligraphy text\" default=\"吕布\"}, with smaller side inscriptions and two small red seal stamps beneath it. No modern objects, no borders, no watermark, keep the image focused on one warrior, one horse, one halberd, one cape, two plume arcs, two red seal stamps, and the mountain gorge.",
+    "title": "Lu Bu Ink Wash Warrior",
+    "description": "A cinematic Chinese ink painting prompt for generating Lu Bu charging on a red warhorse through a misty mountain gorge.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472404259_47vmlw_HQTGPeMbMAE3Khc.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32362,
+    "content": "Create a single high-detail professional storyboard sheet image for PART 2 of the original 3D animated short film titled “{argument name=\"film title\" default=\"THE TINY INVENTOR AND THE SLEEPING SUPERHERO\"}.”\nThis storyboard sheet must cover {argument name=\"timestamp\" default=\"0:15\"}",
+    "title": "Storyboard Image Sheet for Animated Films",
+    "description": "A continuation prompt for storyboard generation, focusing on the second part of an animated short film's development.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472388990_mu2sfm_HQS-s24bYAAE3Nz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32360,
+    "content": "Create a single high-detail professional storyboard sheet image for PART 1 of an original 3D animated short film titled “{argument name=\"film title\" default=\"THE TINY INVENTOR AND THE SLEEPING SUPERHERO\"}”.\nThis storyboard sheet must cover {argument name=\"timestamp\" default=\"0:00\"}",
+    "title": "Professional 3D Animation Storyboard Sheet",
+    "description": "A highly detailed prompt for creating professional storyboard sheets for 3D animation, useful for planning narrative beats and character scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472387631_pgmyf7_HQS-hMPbUAAAs7S.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 32316,
@@ -52,24 +194,14 @@
   },
   {
     "id": 32247,
-    "content": "Step 1: Search for the 10 most classic stills from {argument name=\"movie name\" default=\"'Kikujiro's Summer'\"}. Use each classic still as a reference image. Step 2: Replace the main characters with {argument name=\"target characters\" default=\"Zhang Fei and Zhuge Liang\"}. Be careful to maintain the characters' emotions, the screen grain texture, and the color texture. All stills should maintain their original texture, creativity, and compositional characteristics, just like the original film frames. Please output each image.",
-    "title": "Movie Scene Character Swap Prompt",
-    "description": "A two-step workflow for GPT-image-2 that first identifies classic film stills and then replaces the lead characters with specified new subjects while maintaining the original cinematic texture, grain, and lighting.",
+    "content": "@Create Image\nStep 1: Search for the 10 most classic stills from the movie \"{argument name=\"movie name\" default=\"Kikujiro's Summer\"}\". Use each still as a reference image.\nStep 2: Replace the protagonists with {argument name=\"new characters\" default=\"Zhang Fei and Zhuge Liang\"}. Maintain the characters' emotions, film grain, and color texture. Keep the original composition and creative characteristics. Output each image as if it were an original film still.",
+    "title": "Movie Still Character Swap",
+    "description": "A workflow prompt to search for iconic movie stills and swap the protagonists while preserving the original film's style and grain.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787386233689_1fei7i_HQShf2xbQAA4ceL.jpg",
-      "https://cms-assets.youmind.com/media/1787386233713_rfukpx_HQShi-ZbYAA0JXq.jpg",
-      "https://cms-assets.youmind.com/media/1787386233703_voux0l_HQShmhvboAEfH89.jpg",
-      "https://cms-assets.youmind.com/media/1787386234683_iyt2s0_HQSiPM1bgAAJBr2.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 32294,
-    "content": "Goal: Create a refined vertical exhibition poster combining a fashion-style photographic portrait with a minimalist line-art portrait for {argument name=\"exhibition title\" default=\"SILENCE IN FORM\"}.\n\nCanvas: Portrait orientation, approximately 3:4 aspect ratio. Use a warm ivory, beige, taupe, charcoal, and soft black palette with a quiet luxury editorial mood.\n\nLayout: Split the design into 2 stacked sections. The top section occupies about 45% of the canvas and contains a realistic photographic portrait. The bottom section occupies about 55% and contains exhibition typography on the left with an illustrated portrait on the right. Keep generous negative space and clean margins.\n\nTop section: Show a young East Asian male model from the chest up, centered slightly right, looking down toward the viewer with a calm, distant expression. He has medium-length wavy black hair, natural skin texture, soft lips, and a sculptural face. He wears an oversized off-white wool coat or robe with a high folded collar and broad shoulder volume. Lighting is soft directional sunlight from the upper left, casting muted shadows on a textured beige wall background. The photography should feel realistic, editorial, and understated.\n\nBottom section: Use an ivory background. On the right, create a large monochrome ink line illustration of the same model, cropped from upper torso to head, with expressive thin black contour lines, simplified facial features, and loose wavy hair. Add broad abstract coat shapes in beige, cream, taupe, and charcoal black beneath the line work, echoing the top garment. The illustration should overlap the right half and extend close to the lower edge.\n\nText content: Place exactly 6 visible text groups on the left side of the bottom section: 1) small uppercase label \"EXHIBITION\" near the top left; 2) very large elegant high-contrast serif title \"{argument name=\"exhibition title\" default=\"SILENCE IN FORM\"}\" stacked on two lines; 3) spaced numerals \"{argument name=\"year\" default=\"2024\"}\" below the title; 4) a short thin horizontal divider line; 5) small uppercase subtitle stacked as \"{argument name=\"subtitle\" default=\"PORTRAITS IN CONTEMPORARY IDENTITY\"}\"; 6) small uppercase venue text near the lower left reading \"{argument name=\"venue\" default=\"VERIDIAN GALLERY LONDON\"}\". Use refined editorial typography: the main title in a Didot/Bodoni-like serif, all other text in a small widely tracked sans serif.\n\nVisual style: Minimalist museum poster, high-fashion editorial photography, fine-art exhibition branding, quiet neutral tones, paper-like texture, balanced asymmetry, crisp typography, no bright colors.\n\nConstraints: Keep the top portrait photographic and the bottom portrait illustrated. Do not add extra people, extra text groups, logos, borders, watermarks, or decorative elements beyond the single divider line and abstract coat shapes.",
-    "title": "Silence in Form Exhibition Poster",
-    "description": "A sophisticated museum exhibition poster combining a realistic fashion portrait, minimalist line illustration, and elegant editorial typography.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787386287821_2verpa_HQM4Z2GWEAAlXd3.jpg"
+      "https://cms-assets.youmind.com/media/1787472371884_rqjw3c_HQShf2xbQAA4ceL.jpg",
+      "https://cms-assets.youmind.com/media/1787472371908_0gazrx_HQShi-ZbYAA0JXq.jpg",
+      "https://cms-assets.youmind.com/media/1787472371544_nbnje4_HQShmhvboAEfH89.jpg",
+      "https://cms-assets.youmind.com/media/1787472373295_hnc9n4_HQSiPM1bgAAJBr2.jpg"
     ],
     "needReferenceImages": true
   },
@@ -95,11 +227,11 @@
   },
   {
     "id": 32202,
-    "content": "TITLE: {argument name=\"product name\" default=\"Premium Cold-Pressed Fruit Juice\"} Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Fresh beverage product campaign\n• 8 cinematic storyboard scenes\n• Product remains the main hero\n\nHEADER:\n• Modern premium typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Fresh Beverage Commercial\n  - Product: Cold-Pressed Fruit Juice\n  - Audio: Refreshing Liquid ASMR\n• Why This Style Works section\n• Orange, green and cream aesthetic\n\nSTORYBOARD:\n1. Juice bottle covered with condensation\n2. Bottle cap opening in macro close-up\n3. Fresh orange juice pouring from the bottle\n4. Juice splash frozen in mid-air\n5. Fresh fruit pieces falling around the bottle\n6. Extreme macro showing natural juice texture\n7. Ice cubes dropping into a glass of juice\n8. Final hero bottle with refreshing splash and fruit\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nHigh-speed liquid photography, macro close-ups, slow-motion splash, condensation detail, dramatic backlight, cinematic hero shot.\n\nSTYLE:\nUltra-realistic beverage commercial, realistic liquid physics, condensation droplets, fresh fruit textures, vibrant natural lighting, premium packaging, 8K.",
-    "title": "Fruit Juice Commercial Storyboard",
-    "description": "A comprehensive storyboard prompt for a cold-pressed juice commercial, featuring macro liquid photography and fresh fruit textures.",
+    "content": "Premium Cold-Pressed Fruit Juice Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Fresh beverage product campaign\n• 8 cinematic storyboard scenes\n• Product remains the main hero\n\nHEADER:\n• Modern premium typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Fresh Beverage Commercial\n  - Product: {argument name=\"product\" default=\"Cold-Pressed Fruit Juice\"}\n  - Audio: Refreshing Liquid ASMR\n• Why This Style Works section\n• {argument name=\"color aesthetic\" default=\"Orange, green and cream\"} aesthetic\n\nSTORYBOARD:\n1. Juice bottle covered with condensation\n2. Bottle cap opening in macro close-up\n3. Fresh orange juice pouring from the bottle\n4. Juice splash frozen in mid-air\n5. Fresh fruit pieces falling around the bottle\n6. Extreme macro showing natural juice texture\n7. Ice cubes dropping into a glass of juice\n8. Final hero bottle with refreshing splash and fruit\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nHigh-speed liquid photography, macro close-ups, slow-motion splash, condensation detail, dramatic backlight, cinematic hero shot.\n\nSTYLE:\nUltra-realistic beverage commercial, realistic liquid physics, condensation droplets, fresh fruit textures, vibrant natural lighting, premium packaging, 8K.",
+    "title": "Premium Beverage Commercial Storyboard",
+    "description": "A professional storyboard prompt for creating high-end beverage commercial visuals, featuring macro product shots, liquid physics, and cinematic lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787386193243_udyv82_HQPsEofb0AAtmT4.jpg"
+      "https://cms-assets.youmind.com/media/1787472393310_2o7ei4_HQPsEofb0AAtmT4.jpg"
     ],
     "needReferenceImages": false
   },

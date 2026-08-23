@@ -1,5 +1,119 @@
 [
   {
+    "id": 32359,
+    "content": "Use the uploaded image as the primary reference. Transform the person into a {argument name=\"art style\" default=\"cute, hand-drawn anime/chibi character\"} while preserving the original person’s recognizable facial features, hairstyle, outfit, pose, and accessories.\\n\\nA cute young woman standing on a modern city street at blue hour, surrounded by tall illuminated skyscrapers and festive Christmas decorations. A huge glowing {argument name=\"centerpiece\" default=\"Christmas tree\"} covered in warm golden lights stands directly behind her, creating a magical holiday atmosphere. The street is filled with elegant decorative lights, pedestrians, modern architecture, and soft evening city illumination.\\n\\nRender the character in a charming {argument name=\"illustration style\" default=\"Japanese hand-drawn anime/chibi illustration style\"} with expressive large eyes, soft blush on the cheeks, delicate facial details, textured pencil-and-ink outlines, subtle watercolor-like coloring, and slightly imperfect handmade sketch details. Keep the background photorealistic and highly detailed, creating a beautiful contrast between the illustrated character and the real-world environment.\\n\\nCinematic composition, natural perspective, soft evening lighting, warm Christmas glow, realistic background depth, detailed clothing texture, cozy winter atmosphere, high detail, aesthetically pleasing, vertical portrait composition.",
+    "title": "Chibi Anime Urban Transformation",
+    "description": "A prompt for transforming a real-world portrait into a hand-drawn chibi character while maintaining high-detail photorealistic urban backgrounds with holiday lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472385813_zbsnf7_HQYmz-MbIAARarI.jpg",
+      "https://cms-assets.youmind.com/media/1787472385773_hgjsyq_HQYmz-IaYAAFkgV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32389,
+    "content": "Create a polished anime-style portrait of a single elegant young woman viewed from a low angle, standing against a dramatic twilight sky filled with glowing pink cumulus clouds and tiny stars. She has long flowing {argument name=\"hair color\" default=\"lavender-purple\"} hair with loose curls and windblown strands, soft bangs partly covering one eye, bright violet eyes, fair skin, and a gentle confident smile. She wears a romantic off-shoulder {argument name=\"dress color\" default=\"deep violet\"} evening dress with a fitted bodice and a flowing skirt caught by the wind; include exactly 5 visible outfit and accessory details: 1 off-shoulder ruffled sleeves, 2 a thin silver band across the bust, 3 a central oval gemstone brooch, 4 a delicate necklace with a small teardrop pendant, and 5 two glowing pink dangling earrings. The composition should be vertical and slightly cropped at the thighs, with her upper body centered and the skirt sweeping diagonally across the lower frame. Use luminous backlighting from the sunset clouds, soft rim light along her hair and shoulders, glossy fabric highlights, delicate line art, subtle blush, dreamy purple-pink color grading, high-detail anime rendering, cinematic atmosphere, and no text or watermark.",
+    "title": "Lavender Anime Woman at Twilight",
+    "description": "Generates a cinematic anime portrait of an elegant woman in a flowing violet dress against glowing sunset clouds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472412319_lqx5iq_HQVtPH-XEAAb-1k.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32353,
+    "content": "Close-up portrait of a beautiful {argument name=\"character subject\" default=\"goth girlfriend\"} with striking, hypnotic eyes and pouty glossy lips, soft pale skin, dark eyeliner, subtle blush, black lace choker, tousled black hair framing her face. {argument name=\"art style\" default=\"80s retro anime style\"}, expressive hand-drawn cel animation look, moody romantic gaze, slightly melancholic but alluring expression. Dim neon bedroom lighting with {argument name=\"lighting colors\" default=\"violet and deep red\"} highlights, soft shadows, VHS grain, analog tape noise, faint scanlines, muted retro color palette, dreamy late-night atmosphere, intimate composition, face filling the frame, cinematic anime still.",
+    "title": "80s Retro Anime Goth Portrait",
+    "description": "A nostalgic 80s retro anime style prompt for creating moody, intimate goth character portraits with a VHS aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472380610_2pt65b_HQVsI1jWsAABtuJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32378,
+    "content": "Create a highly detailed shoujo anime portrait of a beautiful princess-like young woman in an ornate pastel rose palace. She has {argument name=\"hair color\" default=\"long flowing pastel pink hair\"} with airy, precisely drawn side-swept bangs covering part of her forehead, soft loose waves cascading over one shoulder, and a half-up hairstyle decorated with a large pink rose, lace ribbons, pearl chains, and floral ornaments. Her face is delicate and symmetrical with porcelain skin, a small gentle smile, faint blush, long eyelashes, and large sparkling {argument name=\"eye color\" default=\"violet-purple eyes\"} with glossy star-like highlights. She wears an elaborate jeweled tiara crown with pink and purple gemstones, matching dangling gemstone earrings, and a lace choker. Her off-shoulder {argument name=\"dress style\" default=\"pink lace princess dress\"} is covered in frills, bows, pearls, embroidery, dangling bead chains, and gem accents, revealing elegant shoulders in a romantic bridal-princess pose. Surround her with exactly 4 prominent pink roses: one large rose in her hair near the right side of the image, one rose she holds near the lower center-left, one rose at the lower right foreground, and one rose along the left side foreground, with muted green-gray leaves and extra pale petals around them. The background is a luminous Rococo palace conservatory with tall arched windows, ornate white-and-gold trim, crystal chandeliers on the upper left, soft pink curtains or vertical decorative lines, and dreamy sunlight. Use a square vertical portrait composition, close-up from chest upward, face slightly turned toward the viewer, head near the upper center, hair filling much of the frame. Visual style: ultra-detailed Japanese manga illustration, delicate linework, watercolor-like pastel pink palette, luminous skin, intricate jewelry and lace, romantic fantasy, soft glow, high resolution, no text, no watermark, no extra characters, avoid realism or 3D rendering.",
+    "title": "Pastel Pink Rose Princess Portrait",
+    "description": "A detailed text prompt for generating a romantic shoujo anime princess portrait with pink hair, roses, jewels, and an ornate palace background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472404948_z1el4c_HQVjGe5WUAAmtPh.jpg",
+      "https://cms-assets.youmind.com/media/1787472404873_4xp8o2_HQVjGe5XQAAiGeH.jpg",
+      "https://cms-assets.youmind.com/media/1787472404942_g23al3_HQVjGe7X0AEEZVO.jpg",
+      "https://cms-assets.youmind.com/media/1787472405837_s5lo1w_HQVjGe9XMAAzTIT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32334,
+    "content": "A completely natural, photorealistic smartphone selfie of a {argument name=\"subject\" default=\"young East Asian woman\"} casually walking along a {argument name=\"location\" default=\"quiet tree-lined street\"}, captured as if she quickly took the photo herself with her phone while walking. She has long, slightly messy dark black hair falling naturally over her shoulders, with a few loose strands blown across her face by a light breeze. She has minimal makeup, realistic skin texture, subtle under-eye detail, natural lips, and a relaxed slightly open-mouth expression while looking directly into the phone camera. She is wearing a {argument name=\"outfit\" default=\"soft lavender-purple knitted sweater\"} with a slightly loose fit, a brown shoulder bag strap crossing naturally over her shoulder, and a dark floral skirt barely visible at the bottom of the frame. Her arm is extended toward the camera in an obvious handheld selfie position, creating natural perspective and slight wide-angle distortion. The background shows an ordinary residential road surrounded by mature green trees, parked cars, pavement, and patches of sunlight filtering through the leaves. Bright midday natural light creates uneven highlights and shadows across her face and sweater. Make it look like a real unedited phone photo rather than a professional portrait: imperfect framing, slightly tilted composition, mild motion softness, realistic smartphone exposure, subtle lens flare, natural dynamic range, tiny hair flyaways, authentic skin pores, ordinary background details, no cinematic color grading, no studio lighting, no beauty filter, no artificial sharpness, no DSLR look. Vertical smartphone photo, casual everyday snapshot, extremely realistic and believable.",
+    "title": "Realistic Smartphone Selfie Portrait",
+    "description": "A detailed prompt for creating a realistic handheld smartphone selfie of a woman walking on a residential street.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472356018_xuuuvc_HQVceZjagAAj1lj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32394,
+    "content": "Create a close-up vertical anime portrait of a youthful androgynous male character with pale skin, {argument name=\"hair color\" default=\"silvery gray\"} layered hair, long bangs falling over one eye, and a small ahoge tuft rising from the crown. The character has vivid {argument name=\"eye color\" default=\"pink-magenta\"} eyes with glossy highlights, a relaxed mischievous smile showing a small fang-like tooth, and soft cel-shaded facial rendering. He wears a dark black uniform or jacket collar with small metallic details, cropped tightly so only the upper shoulders and neck are visible. The background is plain white. Add visible generation-artifact-like horizontal stripe bands across the left side hair area, especially on the outer hair clump, while the central bangs remain smoother and more naturally rendered. Overlay a rough bright red handwritten annotation: one irregular red circle surrounding the problematic left hair clump, plus a small red arrow and messy Japanese note near the lower left reading {argument name=\"annotation text\" default=\"この辺とくに?\"}. Composition should be portrait format, face filling most of the frame, slightly cropped on the right edge and top, clean high-resolution anime illustration style with delicate gray hair shadows and pink eye highlights.",
+    "title": "Annotated Anime Hair Artifact Portrait",
+    "description": "Generates a close-up anime character portrait with red markup highlighting striped hair artifacts for critique or comparison.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472417009_c7q30z_HQVFSWhbgAAy3h1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32336,
+    "content": "Create a highly detailed, realistic {argument name=\"art style\" default=\"graphite pencil and charcoal sketch portrait\"} based on the uploaded reference photo.\\n\\nPreserve the subject's recognizable facial features, face shape, eyes, nose, lips, skin tone, hairstyle, and natural expression from the reference image. Transform the photograph into a sophisticated hand-drawn pencil illustration while keeping the person's identity clearly recognizable.\\n\\nPortrait composition: centered front-facing upper-body portrait, elegant relaxed posture, gentle natural smile, looking directly at the camera. Long, voluminous dark wavy hair falling naturally over the shoulders, with realistic individual hair strands.\\n\\nClothing: recreate the same {argument name=\"outfit\" default=\"traditional South Asian outfit\"} from the reference image, including the dark navy/black fabric with intricate floral embroidery in warm red, orange, beige and golden tones. Preserve the detailed embroidered neckline, floral patterns, sleeves, and overall design accurately.\\n\\nArt style: hyper-detailed graphite pencil drawing mixed with subtle charcoal shading, fine cross-hatching, delicate line work, realistic facial anatomy, carefully rendered eyes and hair, soft tonal gradients, natural hand-drawn imperfections, intricate fabric and embroidery details.\\n\\nPaper: {argument name=\"paper type\" default=\"warm beige textured drawing paper\"} with subtle natural grain and slightly aged paper texture.\\n\\nLighting and shading: soft monochromatic graphite tones with gentle warm sepia undertones, realistic highlights and shadows, carefully modeled facial features, dimensional hair and clothing.\\n\\nBackground: minimal warm beige paper background with very subtle loose pencil strokes around the silhouette, artistic sketch marks fading naturally into the background. Keep the background clean and uncluttered.\\n\\nOverall aesthetic: premium realistic hand-drawn portrait, elegant editorial illustration, museum-quality graphite artwork, highly detailed pencil texture, sophisticated traditional sketchbook appearance.\\n\\nNo text, no words, no watermark, no logo, no frame, no extra objects.\\n\\nMaintain the original identity and facial characteristics of the reference subject while converting the entire image into this realistic graphite-pencil-and-charcoal illustration style.",
+    "title": "Graphite and Charcoal Portrait Sketch",
+    "description": "A complex prompt to transform a reference photo into a high-detail graphite and charcoal pencil sketch while preserving identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472357704_csui35_HQUf_8CWQAAA5xA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32329,
+    "content": "Ultra-realistic cinematic luxury editorial portrait of a handsome young man in his early 20s, seated confidently at an elegant executive desk in a sophisticated high-end office. Inspired by the uploaded reference image’s composition, seated pose, professional atmosphere, and camera perspective, but redesigned with a distinctly luxurious, masculine aesthetic.\n\nHe has thick, naturally textured {argument name=\"hair color\" default=\"jet-black\"} hair, slightly messy and softly swept back, expressive deep-brown eyes, naturally full eyebrows, a sharp masculine jawline, defined cheekbones, straight nose, and subtle neatly trimmed beard. His skin has realistic pores, natural texture, and refined cinematic lighting.\n\nHe wears an impeccably tailored {argument name=\"suit color\" default=\"deep charcoal-black\"} luxury suit, a crisp white premium dress shirt with the top button casually open, a sophisticated Swiss-style luxury wristwatch, minimal platinum or silver rings, and understated high-end accessories. The suit has perfect tailoring, rich fabric texture, elegant lapels, and a powerful yet effortless appearance.\n\nHe sits naturally in a premium black leather executive chair behind a large dark walnut luxury desk, one hand holding a sleek smartphone near his ear as if engaged in an important business call, while the other rests casually on a premium leather notebook. A slim modern laptop sits on the desk.\n\nThe office is transformed into a luxury CEO penthouse office with floor-to-ceiling glass windows overlooking a sophisticated city skyline, dark walnut architectural details, subtle marble surfaces, designer furniture, elegant abstract artwork, warm ambient lighting, and carefully arranged minimalist décor. Add a few tasteful green plants for contrast.\n\nLighting: cinematic warm window light mixed with soft diffused studio illumination, subtle rim light around the hair and shoulders, realistic reflections on the watch and laptop, gentle shadows, premium luxury advertising aesthetic.\n\nCamera: eye-level perspective, medium-to-full body composition, 50mm professional portrait lens, shallow depth of field, sharp focus on the face, beautifully blurred luxury office background, natural proportions.\n\nMood: wealthy, confident, intelligent, sophisticated, calm, powerful, understated elegance, modern billionaire/CEO aesthetic.\n\nVisual quality: ultra-photorealistic, cinematic color grading, HDR, extremely detailed skin texture, realistic fabric, realistic hands and fingers, natural facial anatomy, premium fashion photography, luxury magazine editorial, 8K detail, photorealistic, no artificial plastic skin, no excessive retouching, no text, no watermark.",
+    "title": "Cinematic Luxury CEO Office Portrait",
+    "description": "A detailed prompt for creating an ultra-realistic cinematic portrait of a young CEO in a luxury penthouse office, emphasizing sharp tailoring and sophisticated atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472352618_32au5b_HQUfmrOWUAEpZtw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32337,
+    "content": "A photorealistic vertical mirror selfie of a {argument name=\"subject\" default=\"young woman\"} in a {argument name=\"setting\" default=\"cozy, whimsical bedroom\"}. She has short, naturally curly dark-brown hair with soft messy bangs framing her face, and a playful expression with gently puckered lips. She is wearing an {argument name=\"outfit\" default=\"oversized pastel sky-blue knitted sweater decorated with multiple fluffy white pom-pom details\"}, paired with a high-waisted white pleated skirt. She wears a delicate pearl necklace, silver bracelets, and several colorful rings.\\n\\nShe holds a smartphone in one hand, partially covering her face, while posing naturally in front of a large full-length mirror. The mirror is surrounded by lush artificial ivy vines, creating a dreamy botanical frame. The bedroom background features warm fairy lights, a colorful handmade rainbow decoration, a cheerful blue flower wall decoration, a white door, and subtle personal room details visible in the reflection.\\n\\nSoft warm indoor lighting, slightly vintage digital-camera aesthetic, gentle film grain, muted pastel tones, natural skin texture, realistic curly hair, detailed knitted fabric, candid social-media mirror photography, cozy youthful atmosphere, shallow depth of field, highly detailed, realistic proportions, vertical 4:5 composition.",
+    "title": "Whimsical Bedroom Mirror Selfie",
+    "description": "A prompt describing a candid mirror selfie of a woman in a whimsical bedroom filled with ivy and fairy lights.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472357829_7622em_HQUdemtaUAA9f4v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32382,
+    "content": "Create an elegant vertical anime illustration of a refined androgynous young nobleman wearing a translucent floral kimono in a moonlit fantasy night scene. The character has {argument name=\"hair color\" default=\"silvery white\"} medium-length hair gathered into a low ponytail with loose windblown strands, pale skin, delicate features, and one visible violet eye with a calm, faintly mysterious smile. Show him in a three-quarter back pose turning his face toward the viewer, holding an open folding fan near his mouth; the fan is cream-colored with dark wooden ribs, painted with white flowers and green leaves, and has a small tassel charm hanging from the handle. Dress him in a layered purple inner robe and a sheer, flowing outer kimono made of gauzy organza-like fabric, covered with raised botanical patterns: exactly three large purple clematis-like flowers visible across the lower robe and shoulder area, smaller purple leaves and branches, and ornate metallic gold floral embroidery that catches the light. The outer fabric should billow dramatically across the foreground like transparent ribbons, revealing overlapping folds, subtle iridescence, and golden lace textures. Set the background in deep navy and smoky violet with a large dim moon or planet partially visible on the left, thin golden cloud motifs, scattered pale flower petals, and a soft celestial glow. Use a luxurious Japanese fantasy aesthetic, highly detailed painterly anime rendering, fine linework, luminous rim lighting on the hair and fabric, soft shadows, sparkling gold dust, graceful motion, romantic atmosphere, and a portrait-oriented 2:3 composition. No text, no watermark, no modern objects.",
+    "title": "Moonlit Floral Kimono Nobleman",
+    "description": "A detailed prompt for generating a graceful anime-style nobleman in a translucent floral kimono holding a folding fan under moonlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472408222_ru66pb_HQUZcAebcAAfvTZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32333,
+    "content": "Create a photorealistic cinematic full-body portrait of a stylish man standing knee-deep in the ocean waves. He has naturally, slightly tousled hair, wears black rectangular sunglasses, and has a relaxed calm expression while looking toward the left. He is dressed in a loose white linen shirt with the top buttons open and sleeves rolled up to the forearms, paired with light blue relaxed-fit jeans. A black wristwatch is visible on his left wrist, with one hand casually placed in his pocket and the other hanging naturally by his side.\nCapture him centered in the frame with powerful ocean waves splashing around his legs. The background features a vast deep-blue ocean, a clean horizon line, and a bright clear vibrant blue sky with a subtle gradient. Use eye-level camera angle, vertical full-body composition, natural relaxed posture, and strong subject separation.\nGolden-hour sunlight creates warm highlights on his face and clothing while maintaining vibrant blue tones in the ocean and sky. High contrast, crisp details, realistic skin texture, detailed linen fabric, sparkling water droplets, cinematic color grading, natural shadows, shallow depth of field, photorealistic, ultra-detailed, HDR, 8K resolution, 85mm lens, f/1.8, professional fashion photography, clean background, realistic anatomy, no blurry details, no distortion. aspect ratio 4:5.",
+    "title": "Cinematic Ocean Wave Fashion Portrait",
+    "description": "A high-detail editorial portrait prompt of a stylish man in ocean waves, capturing golden hour light and realistic water splash effects for a fashion photography look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472355161_k7e6p9_HQUB_wfa4AAXxoN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32215,
     "content": "Using the attached photo as reference, preserve the recognizable identity, hairstyle, expression, pose, clothing, baby animal, and original colors. Redraw it as a cute, clumsy hand-drawn doodle with an oversized crooked head, tiny awkward body, dot eyes, and simple facial features. Use thin, slightly shaky black ballpoint-pen lines and loosely scribbled colored-pencil strokes. Keep it intentionally amateur and adorably awkward, but clean and uncluttered, with a simplified background and plenty of white paper.",
     "title": "Clumsy Hand-Drawn Photo Doodle",
@@ -10,24 +124,54 @@
     "needReferenceImages": true
   },
   {
-    "id": 32192,
-    "content": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. Use my pic face The image depicts a {argument name=\"subject description\" default=\"young man with dark, same hair\"} sitting confidently at an {argument name=\"setting\" default=\"outdoor dining area during nighttime\"} and catch the drink glass in one hand. He is dressed in a {argument name=\"outfit\" default=\"black kurta pajama\"} with stylish shoes pishwari and with a calm and composed expression on his face. Behind him, there are several other people seated at tables, engaging in conversations and enjoying their evening. The setting features decorative lighting, including two prominent, warm-toned pendant lights hanging from the ceiling, and a blue accent lighting illuminating the background. There are lush plants and foliage along a railing, with hanging flower decorations contributing to a cozy, stylish ambiance. In the background, some people are dressed in traditional or formal attire, and there is a hookah being used, indicating a social, leisure atmosphere. The flooring consists of patterned tiles, adding to the aesthetic appeal of the venue.",
-    "title": "Subject-Preserving Outdoor Night Portrait",
-    "description": "A detailed prompt for creating a realistic outdoor night scene while preserving the facial identity and texture of a reference photo.",
+    "id": 32223,
+    "content": "Ultra-realistic cinematic full-body beach portrait of a joyful {argument name=\"subject\" default=\"young adult woman\"} walking barefoot through shallow ocean waves at golden hour. She has {argument name=\"hair\" default=\"long, naturally wavy dark brown hair flowing loosely around her shoulders\"}, a bright genuine laughing expression, and natural facial features. She is wearing a loose {argument name=\"clothing\" default=\"oversized white short-sleeve T-shirt paired with fitted light-blue skinny jeans\"}, with realistic denim texture, natural creases and stitching. She is casually holding a large woven straw sun hat in one hand while walking through the water. Warm golden sunlight, soft natural shadows, realistic skin texture, detailed wet sand, small seashells and pebbles, foamy waves splashing around her feet, calm blue ocean in the background, softly blurred coastline and dunes, shallow depth of field, cinematic bokeh, natural summer atmosphere, authentic candid photography, realistic proportions, highly detailed fabric and hair, professional DSLR photography, 85mm lens, natural color grading, photorealistic, ultra-detailed, 8K quality, vertical composition, no text, no watermark.",
+    "title": "Candid Golden Hour Beach Portrait",
+    "description": "Generates a photorealistic cinematic portrait of a woman walking on a beach, capturing natural laughing expressions and detailed textures under warm sunlight.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787386219603_iunp2d_HQSd5hEaMAAH0qQ.jpg"
+      "https://cms-assets.youmind.com/media/1787472348743_ci9m02_HQTYvHIXkAAcY96.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32201,
+    "content": "A high-fashion commercial editorial portrait of a {argument name=\"model\" default=\"stunning blonde model\"} with voluminous, wavy platinum-blonde hair cascading gracefully over one shoulder.She wears an {argument name=\"outfit\" default=\"oversized, rich burgundy-red washed denim jacket\"} styled casually off one shoulder, holding the lapel with one manicured hand. Her makeup is refined with sharp jet-black winged eyeliner, radiant dewy skin, and satin terracotta lips. Crisp direct-flash studio lighting casts a defined,high-contrast hard shadow against a {argument name=\"background\" default=\"seamless, solid warm-beige background\"}. Shot on an 85mm f/1.8 prime lens, hyper-realistic commercial photography aesthetic, realistic skin texture, authentic fabric weave, sharp focus, 8k resolution, text watermark placed subtly in the bottom center. --ar 9:16",
+    "title": "High Fashion Editorial Portrait",
+    "description": "A high-fashion commercial portrait prompt featuring a blonde model in a burgundy denim jacket.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472358421_kengnl_HQTSb_uaUAEb5bv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32216,
+    "content": "Create image Ultra-realistic professional studio portrait a stylish man, well-groomed appearance, wearing a small wristwatch. He is dressed in a perfectly tailored {argument name=\"suit style\" default=\"beige three-piece tweed-textured suit\"} (blazer, waistcoat, and trousers), paired with a crisp white dress shirt and a slim dark grey/charcoal necktie. He leans slightly against a {argument name=\"background\" default=\"plain textured grey concrete wall\"}, body angled in a three-quarter view, head turned to gaze off to the side with a calm, confident expression. Both hands are raised near the chest, fingers adjusting the blazer. Lighting & Technical: Soft, even studio lighting highlighting fabric texture and natural skin tone. Shallow depth of field with sharp focus on the face. Shot on a full-frame DSLR, 85mm lens, f/1.8 aperture. Natural skin texture, hyper-detailed, 8K quality. Style & Composition: High-resolution luxury fashion editorial photography style, premium menswear catalog aesthetic, muted grey monochrome color palette throughout, vertical portrait orientation, balanced headroom, sharp facial details, professional photography.",
+    "title": "Luxury Menswear Studio Portrait",
+    "description": "A high-end studio portrait prompt of a stylish man in a tweed suit, emphasizing fabric texture, lighting, and a professional catalog aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472350171_tb6pkr_HQTFmdTboAA2aUx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32226,
+    "content": "A cinematic, ultra-realistic close-up portrait of a {argument name=\"subject\" default=\"charming, elegant woman\"}, using the provided image as a face reference. She has naturally voluminous, softly wavy dark brown hair, beautifully defined feminine facial features, expressive almond-shaped eyes, naturally full lips, and a graceful, confident presence. She is wearing stylish round vintage amber-brown sunglasses and a sophisticated black oversized hoodie with the hood resting naturally around her neck. Moody luxury studio lighting with a dramatic {argument name=\"accent light\" default=\"deep violet and magenta rim light\"} illuminating the right side of her hair and face, contrasted by a soft warm champagne-golden light from the front. Highly detailed natural skin texture, realistic individual hair strands, subtle facial imperfections, delicate makeup, naturally defined eyebrows, realistic lips and eyes, rich dimensional shadows, soft highlights, shallow depth of field. Background features a luxurious gradient of deep plum, burgundy, and midnight purple with subtle cinematic haze and glowing bokeh, creating a glamorous and mysterious atmosphere. High-fashion editorial photography, sophisticated and alluring mood, effortless elegance, 85mm portrait lens, f/1.8, crisp facial details, cinematic color grading, photorealistic, high dynamic range, professional studio photography, centered composition, head-and-shoulders framing, natural proportions, 3:4 aspect ratio.",
+    "title": "Cinematic Luxury Studio Portrait",
+    "description": "A prompt for a high-fashion editorial portrait with moody luxury lighting, featuring deep violet and magenta rim lights and photorealistic skin textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787472350976_di8xdc_HQS5SvHaMAAFA-v.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 32242,
-    "content": "Subject:\n{argument name=\"subject\" default=\"Composed face at a window cafe\"}\n\nMain Figure:\n{argument name=\"main figure\" default=\"A single woman holding a ceramic cup with both hands by a cafe window in the center of the frame. There is a cake with strawberries and a vase with small flowers on a wooden table in the foreground, and the person is looking to the side.\"}\n\nPerson/Expression:\nWith the face tilted slightly to the left of the frame, the eyes are directed to the top right of the frame, with the lips slightly pursed in a composed look. Round cheeks and a small chin, large dark round eyes, thin eyebrows, a short rounded nose tip, and well-defined rose-colored lips. Pale pink cheeks, thin bangs over the eyes, and a dark brown bob cut ending just below the chin.\n\nClothing/Pose:\nA glossy pale pink-beige camisole dress. Very thin shoulder straps, overlapping drapes at the chest, and fine wrinkles from the torso to the waist are visible. Sitting in a chair, leaning the upper body slightly to the left, and cradling the cup in front of the chest with both hands.\n\nBackground/Lighting:\nA large window and a blurred street on the left, white small flowers in the lower-left foreground, a round wooden table and chairs in the right background, and amber pendant lights above. Warm direct sunlight enters from the window on the left, brightly lighting the edges of the hair, cheeks, and dress, while the back of the room is in soft shadow.\n\nComposition/Camera:\n3:4 aspect ratio, eye-level portrait from the thighs up. The figure occupies a large portion of the center to the right half, with a small amount of margin above the head and to the right, cutting off below the waist at the bottom edge. Focus is on the face and cup, with the window exterior and indoor background blurred with a shallow depth of field.\n\nTexture/Style:\nA photorealistic live-action photo of a warm afternoon. Brightly and finely depicts the textures of satin-like cloth, ceramics, wood grain, glass vases, and baked goods.\n\nNegative:\nDo not make the sideways-looking composed face smile; omit contact between the hands and the cup.",
-    "title": "Cozy Afternoon Cafe Window Portrait",
-    "description": "A detailed prompt for creating a photorealistic image of a woman sitting by a cafe window with a cozy, warm afternoon atmosphere.",
+    "id": 32273,
+    "content": "Using the provided reference image, transform the portrait into a vintage hand-drawn graphite and charcoal sketch on warm beige textured paper. Preserve the same identity, pose, framing, hairstyle, beanie, hair clips, sweater, accessories, and facial expression from the reference, but convert the photo into a monochrome pencil illustration with subtle sepia paper tone. Render visible sketch construction lines, rough crosshatching, soft smudged shading, fine hair strokes, fabric knit texture, and slightly unfinished edges around the shoulders and hat. Keep the composition as a bust portrait centered on a simple blank paper background, with no added objects, text, border, or watermark. Style intensity: {argument name=\"sketch realism\" default=\"highly detailed realistic graphite portrait\"}. Paper tone: {argument name=\"paper tone\" default=\"warm aged beige\"}. Line quality: {argument name=\"line quality\" default=\"rough expressive pencil and charcoal strokes\"}.",
+    "title": "Vintage Graphite Portrait Transformation",
+    "description": "Transforms an uploaded fashion portrait into a realistic vintage pencil-and-charcoal sketch on textured beige paper.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787386228909_s5qai5_HQFpmEQacAA4DYE.jpg"
+      "https://cms-assets.youmind.com/media/1787472394457_5j9kh5_HQSs_JdaoAA2wOW.jpg"
     ],
-    "needReferenceImages": false
+    "needReferenceImages": true
   },
   {
     "id": 32253,
