@@ -41,6 +41,49 @@
     "needReferenceImages": true
   },
   {
+    "id": 32421,
+    "content": "A political map of Europe if Eurovision never existed",
+    "title": "Alternative History Europe Political Map",
+    "description": "An imaginative prompt for creating a political map of Europe based on a world where the Eurovision Song Contest never existed.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559616885_o5acfo_HQbjfB1WwAAQe2w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32430,
+    "content": "Create a vertical 2:3 educational storyboard infographic, 5 horizontal scenes, cinematic realistic 3D science visualization, exactly like a professional educational video storyboard.\n\nTOPIC: HOW LIGHTNING HAPPENS\nDuration: 15 seconds\n\n1 | 0:00–0:03 — STORM CLOUDS\nVisual: Huge dark storm clouds forming above a landscape.\nAction: Clouds grow rapidly with electric particles inside.\nVO: “Lightning begins inside powerful storm clouds.”\nSFX: Wind and distant thunder.\nCamera: Slow aerial push in.\nTransition: Light Flash.\n\n2 | 0:03–0:06 — ELECTRIC CHARGE\nVisual: Close-up inside cloud showing positive and negative charges separating.\nAction: Blue and orange particles move to opposite sides.\nLabels: POSITIVE CHARGE, NEGATIVE CHARGE.\nVO: “Ice and water particles separate electric charges inside the cloud.”\nSFX: Electric crackle.\nCamera: Macro tracking.\nTransition: Energy Glow.\n\n3 | 0:06–0:09 — CHARGE BUILDS\nVisual: Dark cloud above the ground, bright electrical energy increasing.\nAction: Electric particles move downward toward Earth.\nVO: “As the charge becomes stronger, electricity searches for a path.”\nSFX: Rising electrical hum.\nCamera: Tilt from cloud toward ground.\nTransition: Quick Flash.\n\n4 | 0:09–0:12 — LIGHTNING STRIKE\nVisual: Bright lightning bolt connects cloud to ground.\nAction: Lightning travels rapidly downward.\nLabel: LIGHTNING.\nVO: “A powerful electrical discharge creates a lightning bolt.”\nSFX: Loud thunder crack.\nCamera: Fast Pull Back.\nTransition: White Flash.\n\n5 | 0:12–0:15 — THUNDERSTORM\nVisual: Wide storm landscape with lightning and rain.\nAction: Lightning flashes while rain falls below.\nVO: “The sudden heating of air also creates the sound of thunder.”\nSFX: Deep thunder rolling.\nCamera: Wide aerial pull back.\nTransition: Smooth Fade.\n\nBottom: NARRATOR (VO): Clear, calm, educational male voice.",
+    "title": "Educational Lightning Storyboard Infographic",
+    "description": "A detailed storyboard prompt for creating professional educational infographics about lightning, featuring multiple scenes with visual descriptions, camera angles, and voiceover instructions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559624271_gzwxx2_HQZGmJLbIAAoDYq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32434,
+    "content": "Please turn each uploaded photo into an independent high-end design poster. Use a {argument name=\"composition\" default=\"3:4 vertical layout\"} with two equal horizontal sections, each occupying 50% height.\n\nThe upper half preserves the original photo with subtle high-end color grading for a fine-art gallery feel. Environment can be extended naturally but the subject remains unchanged.\n\nThe lower half extracts the most recognizable subject and reconstructs it as a transparent structural blueprint and technical diagram. It reveals representative internal structures, connections, material layers, or spatial logic, creating a visual language between engineering drawings, X-rays, and futuristic archives. It interprets 'internal structure' based on the subject: components for objects, spatial construction for architecture, or motion paths for animals, avoiding fleshy anatomy.\n\nThe composition centers on the subject using transparent layers, exploded views, and fine annotations. Use fine lines and clear white space to maintain a clean reading path. The color palette is derived from the main color of the top photo, converted into a clean, professional {argument name=\"monochromatic system\" default=\"monochromatic blueprint system\"} (blue, green, red, etc.) with transparency and highlights for depth.\n\nText is transformed into technical annotations and editorial layout. Short titles and structural labels are integrated using lead lines and arrows, maintaining the restrained aesthetic of high-end magazines. The overall result is a combination of engineering order and editorial beauty, suitable for any subject from architecture to nature.",
+    "title": "Structural Blueprint Poster Design",
+    "description": "An image transformation prompt that converts photos into a split-screen poster featuring the original photo on top and a structural blueprint or technical X-ray diagram below.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559626612_1ld5nh_HQYN7N5aQAAE_Fe.jpg",
+      "https://cms-assets.youmind.com/media/1787559626618_cvn8vw_HQYN8TTaMAAZOg7.jpg",
+      "https://cms-assets.youmind.com/media/1787559626603_enaf07_HQYN-CHaYAAY14-.jpg",
+      "https://cms-assets.youmind.com/media/1787559629393_6utppx_HQYN_lwawAARU66.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32461,
+    "content": "Use the reference image as the sole source for the {argument name=\"character traits\" default=\"character’s identity, design, facial features, hair, proportions, outfit, color language, and illustration style\"}.\n\nCreate a clean 16:9 artistic character introduction board",
+    "title": "Artistic Character Reference Sheet",
+    "description": "This prompt creates a structured character introduction board in a 16:9 artistic style, using a reference image to maintain consistent character identity across the design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559658136_y9fyf7_HQW5TLYW0AABclP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32338,
     "content": "Create a photorealistic photograph of a {argument name=\"subject\" default=\"single honeybee\"} resting on a {argument name=\"surface\" default=\"weathered wooden hive frame\"}, its translucent wings catching {argument name=\"lighting\" default=\"soft morning light\"}. shot on 85mm f/1.4, shallow depth of field, overcast golden hour. visible pollen grains dusting its fuzzy thorax, delicate wax cells blurred in background, dew droplets on wood grain featuring in a photorealistic photography style, under silver moonlight, romantic tender atmosphere, slow push-in. perfect motion blur only on moving elements consistent identity across frames movie-level temporal coherence fluid cloth simulation sharp focus rich background detail.",
     "title": "Honeybee Macro Photography",
@@ -203,11 +246,14 @@
   },
   {
     "id": 32314,
-    "content": "Create a highly detailed isometric country diorama poster of {argument name=\"country\" default=\"France\"} shaped exactly like the national map outline, floating on a clean off-white background with soft studio shadows. At the top, add centered typography: small spaced uppercase continent label “{argument name=\"continent label\" default=\"EUROPE\"}”, a huge bold uppercase title “{argument name=\"country title\" default=\"FRANCE\"}” in dark charcoal, the national flag to the right of the title as three vertical stripes blue, white, red, and a smaller spaced subtitle “{argument name=\"capital and population\" default=\"PARIS • 67.4 MILLION\"}”. The map should be a miniature 3D terrain slab with vertical rocky cliff sides around the entire coastline and borders, showing lush green countryside, patchwork farmland, forests, rivers, highways, and tiny towns. Include exactly 9 major landmark/region features: 1 central Paris area with the Eiffel Tower rising prominently, 2 a Gothic cathedral landmark in the north, 3 a western Atlantic harbor with docks, sailboats, and a lighthouse, 4 a northern coastal city cluster, 5 a broad mountain range with snowy peaks along the southeast, 6 a smaller snowy mountain range along the southwest, 7 a Mediterranean bay with marina, sailboats, and coastal city at the south, 8 a river valley network crossing the center and east, and 9 the separate island of Corsica as a smaller rocky diorama piece floating to the lower right with miniature terrain and towns. Use realistic miniature-model detail, crisp isometric perspective from above, warm daylight, saturated natural greens and blues, shallow depth of field, polished travel-atlas infographic aesthetics, no border, no watermark, no extra labels beyond the title, flag, continent, and capital/population text.",
+    "content": "Create a polished isometric country diorama poster of {argument name=\"country\" default=\"France\"} on a warm off-white background. At the top, set small widely spaced uppercase continent text “{argument name=\"continent label\" default=\"EUROPE\"}”, below it a huge bold condensed sans-serif title “{argument name=\"country title\" default=\"FRANCE\"}” in dark charcoal, with the national flag immediately to the right. The flag has exactly 3 vertical stripes: blue, white, and red. Under the title, add small spaced uppercase metadata text “{argument name=\"capital and population\" default=\"PARIS • 67.4 MILLION\"}”. The main subject is a floating 3D isometric map-shaped landmass matching the outline of mainland France, with Corsica as one separate smaller island at the lower right. Give both landmasses steep rocky cliff sides, soft contact shadows, and a miniature terrain surface like a handcrafted model: green forests, patchwork yellow-green farmland, winding blue rivers, thin roads, small towns, harbors, boats, and coastline water inlets. Include exactly 7 prominent landmark/region features across the diorama: the Eiffel Tower rising near the north-central Paris area, a large cathedral in the northeast, a domed monument in the west/central area, alpine snow-capped mountains along the southeast, Pyrenees-like snow-capped mountains along the southwest edge, a Mediterranean harbor with sailboats along the south coast, and an Atlantic harbor with a lighthouse and small boats on the west coast. Use cinematic miniature realism, crisp details, vibrant natural greens and blues, realistic lighting from upper left, shallow soft shadows, high-resolution travel-poster composition, centered map, no people, no watermark, no extra labels beyond the title, flag, continent, and metadata.",
     "title": "Isometric France Diorama Poster",
-    "description": "Generates a polished travel-atlas style isometric miniature map of France with landmarks, terrain, flag, and headline text.",
+    "description": "Generates a detailed travel-poster style isometric miniature map of France with landmarks, terrain, flag, and headline text.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787472419518_a9ru6z_HQLhgUXXgAEITdu.jpg"
+      "https://cms-assets.youmind.com/media/1787559689349_rv4afc_HQLhgUXXgAEITdu.jpg",
+      "https://cms-assets.youmind.com/media/1787559689408_97kx0a_HQLhgUXXgAA5QZN.jpg",
+      "https://cms-assets.youmind.com/media/1787559689340_u1xlpc_HQLhgU0XIAANfSB.jpg",
+      "https://cms-assets.youmind.com/media/1787559690213_m593bk_HQLhgUXXkAASr3A.jpg"
     ],
     "needReferenceImages": true
   },

@@ -1,12 +1,125 @@
 [
   {
-    "id": 32359,
-    "content": "Use the uploaded image as the primary reference. Transform the person into a {argument name=\"art style\" default=\"cute, hand-drawn anime/chibi character\"} while preserving the original person’s recognizable facial features, hairstyle, outfit, pose, and accessories.\\n\\nA cute young woman standing on a modern city street at blue hour, surrounded by tall illuminated skyscrapers and festive Christmas decorations. A huge glowing {argument name=\"centerpiece\" default=\"Christmas tree\"} covered in warm golden lights stands directly behind her, creating a magical holiday atmosphere. The street is filled with elegant decorative lights, pedestrians, modern architecture, and soft evening city illumination.\\n\\nRender the character in a charming {argument name=\"illustration style\" default=\"Japanese hand-drawn anime/chibi illustration style\"} with expressive large eyes, soft blush on the cheeks, delicate facial details, textured pencil-and-ink outlines, subtle watercolor-like coloring, and slightly imperfect handmade sketch details. Keep the background photorealistic and highly detailed, creating a beautiful contrast between the illustrated character and the real-world environment.\\n\\nCinematic composition, natural perspective, soft evening lighting, warm Christmas glow, realistic background depth, detailed clothing texture, cozy winter atmosphere, high detail, aesthetically pleasing, vertical portrait composition.",
-    "title": "Chibi Anime Urban Transformation",
-    "description": "A prompt for transforming a real-world portrait into a hand-drawn chibi character while maintaining high-detail photorealistic urban backgrounds with holiday lighting.",
+    "id": 32462,
+    "content": "Side-profile medium shot of a {argument name=\"subject\" default=\"young East Asian woman\"} with messy dark hair tied in a loose textured updo with face-framing strands. She is wearing a {argument name=\"sweater color\" default=\"olive green\"} crewneck knit sweater layered over a delicate white lace mock-neck top with lace cuffs peeking out at her wrist. Accentuated with elaborate baroque pearl drop earrings and a pearl ear cuff. She has her hand resting near her chin, looking slightly away from the camera. Cozy, warm ambient lighting indoors against a {argument name=\"background\" default=\"beige ceramic tiled bathroom wall\"} background, vintage aesthetic, soft shadows, filmic texture, high detail, candid mood, 35mm photograph, shot on Kodak Portra 400. Beautiful vintage-inspired lighting",
+    "title": "Vintage 35mm Aesthetic Portrait",
+    "description": "An English prompt for a candid, film-textured portrait of an East Asian woman in a cozy indoor setting, simulating Kodak Portra 400 film.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787472385813_zbsnf7_HQYmz-MbIAARarI.jpg",
-      "https://cms-assets.youmind.com/media/1787472385773_hgjsyq_HQYmz-IaYAAFkgV.jpg"
+      "https://cms-assets.youmind.com/media/1787559658099_5o9o9a_HQeDXE0WcAAmxyy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32416,
+    "content": "Use the provided reference image as the main identity and pose reference. Transform the {argument name=\"subject\" default=\"person\"} into a {argument name=\"style\" default=\"cute, playful, hand-drawn doodle illustration\"} while preserving their recognizable identity.\n\nSTYLE:\n- Adorable handmade sketchbook doodle aesthetic\n- Simple black pen/pencil line art with slightly rough, imperfect strokes\n- Childlike, charming, whimsical drawing style\n- Minimal coloring with soft pastel accents\n- White/off-white paper background\n- Visible hand-drawn texture and natural sketch imperfections\n- Avoid polished digital vector art or overly clean anime rendering\n\nCHARACTER:\n- Preserve the person's key facial features, face shape, hairstyle, hair length, clothing, accessories, and overall appearance from the reference\n- Keep the person's recognizable characteristics rather than making them look like a generic character\n- Use simplified cute proportions with a slightly oversized head and expressive eyes\n- Large round hand-drawn eyes, tiny nose, small cheerful mouth, and subtle blush on the cheeks\n- Keep the original hairstyle recognizable while translating it into loose sketchy strokes\n\nPOSE & EXPRESSION:\n- Preserve the main pose and body direction from the reference\n- Give the character a cute, cheerful, playful expression\n- Natural hand gestures and expressive body language\n- Add small doodle elements around the character that match the mood, such as hearts, stars, crowns, sparkles, motion lines, flowers, or tiny symbols\n\nDRAWING DETAILS:\n- Black sketch lines should be slightly uneven, textured, and imperfect\n- Use loose cross-hatching and scribbled shading where appropriate\n- Pastel pink, yellow, blue, or other soft colors may be used sparingly for cheeks and decorative doodles\n- Keep the illustration mostly monochrome with selective colorful accents\n- White background with plenty of negative space\n- Make it feel like someone personally drew the character with a black marker or pencil on paper\n\nCOMPOSITION:\n- Center the character prominently\n- Keep the framing similar to the reference photo\n- Add a few cute surrounding doodles without distracting from the character\n- Clean, simple composition suitable for a profile picture, sticker, social media post, or cute illustration\n\nIMPORTANT:\nDo not make the character photorealistic. Do not make it overly polished, 3D, glossy, or professionally vectorized. The final result should look like an authentic cute handmade doodle drawn by a talented person in a sketchbook, while still clearly resembling the person in the reference image.",
+    "title": "Hand-Drawn Sketchbook Doodle Illustration",
+    "description": "A comprehensive prompt to transform a reference photo into a charming, hand-drawn black pen doodle while maintaining the subject's recognizable identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559614593_vu2xvq_HQdYQQ5bMAAM0CA.jpg",
+      "https://cms-assets.youmind.com/media/1787559614147_3dm6ve_HQdYQRFbUAAElzy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32452,
+    "content": "Professional studio portrait of a stunning woman with voluminous, long curly {argument name=\"hair color\" default=\"dark brown\"} hair with warm caramel highlights She has deep brown eyes natural glossy lips, and gentle studio makeup She is wearing a silk {argument name=\"blouse color\" default=\"emerald green\"} blouse and subtle gold hoop earrings, resting one hand softly near her collarbone The background consists of rich, deep {argument name=\"background color\" default=\"emerald green\"} velvet drapery with dramatic studio rim lighting highlighting her hair texture Soft key light on her face, shallow depth of field, sharp focus, 85mm lens, photorealistic, cinematic lighting, 8k resolution.",
+    "title": "Professional Studio Portrait Emerald Theme",
+    "description": "A studio lighting prompt for a professional portrait of a woman in an emerald green blouse with dark curly hair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559651110_8o6u2c_HQdGooZWEAA3uDq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32450,
+    "content": "A stylized cyberpunk fashion portrait of a striking young woman with sleek shoulder-length crimson-teal hair, luminous icy-blue eyes, sharp eyeliner, glossy coral lips, and subtle red markings beneath one eye. She faces the camera directly with a calm, confident expression, centered in a tight waist-up composition. She wears a high-gloss black latex turtleneck bodysuit beneath an oversized cobalt-blue vinyl jacket, with metallic ear cuffs and small silver piercings. Behind her is a dense futuristic city alley filled with abstract red-orange neon signage, deep navy architecture, cables, panels, and layered urban details. Dramatic neon rim lighting, saturated red and electric-blue palette, smooth porcelain skin, glossy specular reflections, soft cinematic shadows. Polished anime-inspired digital illustration blended with semi-realistic facial rendering, crisp linework, luxurious fashion-editorial styling, symmetrical composition, shallow depth of field, moody futuristic nightlife atmosphere",
+    "title": "Neon Flux Cyberpunk Portrait",
+    "description": "A striking anime-inspired digital illustration of a cyberpunk woman with crimson-teal hair and neon rim lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559649154_3ycb1j_HQcfFg4WIAAo9n8.jpg",
+      "https://cms-assets.youmind.com/media/1787559648875_p7kp1m_HQcfFhAW4AAovvc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32459,
+    "content": "A {argument name=\"subject\" default=\"cute baby wearing pink and a hat\"} with big eyes, surrounded by {argument name=\"companions\" default=\"kittens\"}, with a happy smile, warm lighting, and soft colors. The photography style resembles a {argument name=\"style\" default=\"cute pet wallpaper background\"}, with the baby's full body visible in the image.",
+    "title": "Cute Baby and Kittens Wallpaper",
+    "description": "A simple and sweet prompt for generating a high-quality wallpaper featuring a smiling baby surrounded by kittens in a soft, warm photographic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559654968_lbvpjd_HQbO3G9acAAQaHh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32427,
+    "content": "Transform the image into a charming minimalist hand-drawn doodle illustration. Preserve the main subject, pose, proportions, and overall composition while simplifying everything into playful, childlike forms. Use loose brush-pen outlines with subtle wobble, uneven pressure, and naturally imperfect handmade strokes. Keep the linework clean and sparse, with tiny expressive details that give the subject personality. Add delicate watercolor-ink touches with very soft, restrained color accents while maintaining plenty of clean white space. Create a naive sketchbook feeling with whimsical cartoon shapes, spontaneous marks, gentle imperfections, and an authentic handmade drawing quality. Avoid excessive detail, realism, heavy shading, or polished digital-vector edges. The final result should feel like a cute artist’s notebook doodle drawn by hand with watercolor ink.",
+    "title": "Minimalist Hand-Drawn Doodle Style",
+    "description": "A prompt to transform an existing image into a charming minimalist hand-drawn doodle illustration with watercolor accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559622626_6lt288_HQaslCmbEAQmzY-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32487,
+    "content": "Create a soft watercolor anime illustration of a cheerful fantasy beast-boy character named {argument name=\"character name\" default=\"unnamed dragon-bird boy\"} crouching in a sunlit park. He has short messy {argument name=\"hair color\" default=\"deep violet\"} hair, large upright wolf/cat-like ears with pale inner fur, round orange-tinted sunglasses resting on his forehead, closed smiling eyes, and a relaxed mischievous grin. His body blends human, bird, reptile, and sea-creature traits: green scaled lower legs, large orange birdlike taloned feet with blue claws, a long green reptilian tail curving behind him with small blue dorsal spines, feathered orange-and-white arm plumage on one arm, and a small octopus companion or tentacled hand-like creature draped over his left hand near his cheek, with exactly eight visible green-blue tentacles and round blue suction cups. Dress him in a sleeveless dark navy Chinese-style vest with orange-gold trim and frog closures, loose dark navy cropped pants with orange edging, and an orange hanging front sash decorated with a small gold ornament and tassel. Pose him in a low squat facing slightly left, one elbow resting on his knee and one hand supporting his cheek, looking carefree and cute. Above and behind him place one large traditional Japanese paper parasol, tilted diagonally, with pale mint outer panels, warm orange underside, blue ribs, and a dark blue handle pole. Background: bright overexposed summer park with soft green trees, dappled sunlight, pale grass and path, and one faint wooden bench in the right distance. Visual style: delicate hand-painted anime watercolor, light pencil/ink outlines, pastel colors, translucent washes, airy high-key lighting, gentle bloom, whimsical fantasy character design, no text, no watermark, vertical portrait composition.",
+    "title": "Watercolor Fantasy Dragon-Bird Boy",
+    "description": "Generates a pastel anime watercolor portrait of a hybrid fantasy boy crouching under a Japanese parasol in a sunny park.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559680119_xhkze4_HQZ4P9maMAAnejD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32441,
+    "content": "A high-completion, photorealistic extreme close-up beauty portrait of a young adult Chinese woman. The subject is approximately 20–26 years old with natural and distinct Chinese female features. The overall temperament is pure, beautiful, clean, soft, agile, and enduringly attractive, with a clear sense of adulthood, not juvenile, not Westernized, not stylized like a generic influencer, and not replicating the specific bone structure of any reference figure, only drawing from ideal skin clarity, eye brightness, delicate pink-toned makeup relationship, close-up lens language, and soft-light beauty photography atmosphere. The character features a 'Type B | Bright-Eyed Cinematic Face.' The face shape and bone structure are a slightly elongated, soft oval, with a full forehead, light cheekbone support, a naturally full mid-face, and a clear yet soft jawline. The overall structure maintains a realistic and reasonable Oriental soft bone structure: naturally full forehead, smooth temples, cheekbones with slight support but not excessive outward expansion, naturally full mid-face, clear and soft jawline, and a delicate but not overly sharp chin, with soft and smooth facial lines, maintaining the aestheticized real-person structure of young Chinese women. The eye design consists of large, bright Oriental almond eyes, with a gradient iris from tea-brown to tea-amber brown, clear aegyo-sal (under-eye bags), and large window-shaped catchlights. The subject has large, bright Oriental almond eyes, horizontally stretched and with a relatively large vertical opening but maintaining real-person proportions, natural and soft double eyelid folds, and clear, soft aegyo-sal; the iris is a transparent tea-brown to tea-amber brown gradient with fine, realistic radial textures, a clear pupil border, and a natural dark brown outer ring. Under large-area frontal soft-light illumination, the light-receiving area of the iris shows subtle levels of honey brown and amber brown. The sclera is bright and clear but not pure white, the cornea is moist and transparent, the inner corners are slightly damp, and the lower eyelid retains an extremely fine, realistic waterline. Both eyes have large window-shaped or rectangular soft-light reflection highlights, making the eyes bright, transparent, moist, soulful, and clear overall, becoming the primary visual center of the portrait. The nose and lips are designed with a delicate, straight bridge, a small and rounded tip, soft cherry lips, and a slightly full lower lip. The root of the nose is natural, the bridge is slender and straight but not excessively sharp, the tip is small and rounded, and the nostrils are contained but retain real structure; the lips are naturally soft with a gentle Cupid's bow, the lower lip is slightly full, retaining slight realistic lip lines, with a soft, moist, and not overly glass-like delicate glow. The skin uses low-frequency, high-clarity cool white porcelain beauty real-person skin. The skin tone is a high-brightness, low-saturation, neutral-to-cool porcelain white base, overall white, pure, and bright, significantly reducing yellow, gray, earthy, and fleshy tones; large areas of the cheeks, forehead, and chin maintain a low-frequency, smooth, quiet, and delicate skin surface, with almost no visible large pores, rough particles, or high-frequency skin noise. Skin realism does not rely on large areas of pores and textures, but is mainly reflected through natural facial structures, subcutaneous light transmission, continuous light and shadow changes, and extremely slight real micro-structures around the nose, eyes, and lips. Large areas of the face remain cool and clean porcelain white, with very low concentrations of pale pink blood color retained only around the eyes, under the eyes, in a small area at the center of the apple muscles, the tip of the nose, and the lips, forming a color relationship where 'white is the main body and pink is the accent.' The forehead, bridge of the nose, apple muscles, and Cupid's bow have wide, soft micro-glows; the skin appears white, delicate, soft, moist, and transparent, but never plastic, never wax-like, and never CG-stylized. The makeup uses low-concentration pink-toned beauty close-up makeup, with pink concentrated around the eyes, under the eyes, and on the lips. The eye area is softly blended with light pink apricot, peach pink, or light tea pink, with a soft pink response between the upper and lower eyelids; the corners of the eyes are slightly extended with an extremely fine natural eyeliner; eyelashes are dark brownish-black or deep brownish-black, slender, well-defined, and naturally curled, with enough presence to form local contrast for the eyes. Blush is only softly concentrated in a small area under the eyes and the center of the apple muscles, not covering the cheeks in a large area. The lips use low-saturation tender pink, bean paste tender pink, or peach pink, presenting a delicate, soft, moist, lightly reflective, and lightly realistic lip line effect. The hairstyle is deep brownish-black smooth long hair, naturally parted in the middle, with a small amount of stray hair on the sides of the ears. The hair strands maintain a real-person photographic texture and a moderate amount of high-frequency detail, with individual strands naturally discernible, without plastic hair strands, wig feel, or hair-piece-style CG edges; the hair overall should not overshadow the subject but serve as a soft foil for the face. Photography uses 100mm extreme close-up frontal beauty portraiture, high-key soft light, and a cool gray-blue background. Using 100mm telephoto beauty portrait lens language to avoid wide-angle perspective distortion. The subject's face occupies about 70%–90% of the frame, with the eyes located in the upper visual center area. Focus is prioritized on the eyes, iris, and eyelashes, with the lips secondary in clarity, and the ears and back hair slightly blurred. The overall image follows the photographic principle of 'low-frequency skin + high-frequency features': large areas of skin have lower local contrast, while key facial features—especially eyelashes, iris, pupils, eyeliner, lip lines, and hair strands—maintain high realism and clarity. Lighting uses a high-key frontal beauty soft light system: a super large soft light source is positioned directly in front of the camera, slightly above the subject's eyes and close to the subject, shining softly downwards, combined with low-intensity soft fill light, making the face overall bright and even, with very shallow and clean shadows in the eye sockets, nose, under the eyes, and under the jaw. Skin highlights are wide and soft, white and transparent but not blown-out white, and shadows remain neutral or slightly cool, not yellowing, not grayish-green, and not dirty. The background uses low-saturation cool gray-blue, with brightness about half to one stop lower than the subject's face, maintaining high simplicity and weakening to highlight the subject's skin tone as whiter, more transparent, and purer. The aspect ratio is 9:16. The overall effect should present: a high-clarity Chinese porcelain-white pure beauty with real-person photographic authenticity, skin that is quiet, white, delicate, and low-frequency, eyes that are bright, moist, transparent, and rich in optical layers, makeup that is light and pink-toned, with the overall look being both realistic and possessing the high-class feel of a high-completion beauty close-up, without producing a plastic, CG, influencer, or uniform high-definition studio feel.",
+    "title": "Chinese Porcelain Skin Beauty Portrait",
+    "description": "A long-focus beauty photography prompt for a high-finish Chinese beauty portrait, focusing on 'porcelain skin', bright eyes, and soft pink makeup in a clean studio setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559638672_w5w9xq_HQZqSuGbQAAt65o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32412,
+    "content": "Super close up, extra details, low quality night selfie. In a vertical 9:16 reverie, the canvas is dominated by the luminous presence of a {argument name=\"subject\" default=\"young woman in her early twenties\"}, her features a study in ethereal symmetry and porcelain grace characteristic of Northern European frost. Her face is framed by a cascading veil of {argument name=\"hair style\" default=\"long, platinum blonde hair\"} that catches a warm, golden light from the side, creating a halo of delicate, stray wisps that dance against the deep, obsidian void of the night. Her eyes, deep and captivating with a subtle feline tilt, are accentuated by soft, winged eyeliner and a hint of shimmer at the inner corners, gazing forward with a tranquil, mesmerizing depth. The skin of her face is flawless and radiant, possessing a soft-focus perfection that highlights high, elegant cheekbones and a straight, refined nose. Her lips, full and naturally flushed with a dusty rose hue, are set in a soft, enigmatic expression that enhances her supermodel-like allure. She is dressed in a simple white top layered under a {argument name=\"clothing\" default=\"heather gray zip-up hoodie\"}, the metallic teeth of the zipper catching the light and adding a tactile contrast to the softness of her hair and skin.",
+    "title": "Nocturnal Beauty Night Selfie",
+    "description": "A detailed prompt for GPT Image 2 creating a high-detail night selfie of a blonde woman with cinematic lighting and a filmic grain texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559646846_s4e2vt_HQZll55WwAAEZOO.png",
+      "https://cms-assets.youmind.com/media/1787559646179_siohxp_HQZlnMvWoAADfHs.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32359,
+    "content": "Use the uploaded image as the primary reference. Transform the person into a {argument name=\"character style\" default=\"cute, hand-drawn anime/chibi character\"} while preserving the original person’s recognizable facial features, hairstyle, outfit, pose, and accessories.\n\nA cute young woman standing on a {argument name=\"setting\" default=\"modern city street at blue hour\"}, surrounded by tall illuminated skyscrapers and {argument name=\"decorations\" default=\"festive Christmas decorations\"}. A huge glowing Christmas tree covered in warm golden lights stands directly behind her, creating a magical holiday atmosphere. The street is filled with elegant decorative lights, pedestrians, modern architecture, and soft evening city illumination.\n\nRender the character in a charming Japanese hand-drawn anime/chibi illustration style with expressive large eyes, soft blush on the cheeks, delicate facial details, textured pencil-and-ink outlines, subtle watercolor-like coloring, and slightly imperfect handmade sketch details. Keep the background photorealistic and highly detailed, creating a beautiful contrast between the illustrated character and the real-world environment.\n\nCinematic composition, natural perspective, soft evening lighting, warm Christmas glow, realistic background depth, detailed clothing texture, cozy winter atmosphere, high detail, aesthetically pleasing, vertical portrait composition.",
+    "title": "Anime Chibi Character Transformation",
+    "description": "A prompt to transform real-life photos into cute, hand-drawn anime or chibi style characters while preserving facial features against a realistic background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559656322_y7faqx_HQYmz-MbIAARarI.jpg",
+      "https://cms-assets.youmind.com/media/1787559656272_sfoc4r_HQYmz-IaYAAFkgV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32451,
+    "content": "Half-body portrait of a {argument name=\"subject\" default=\"beautiful young woman with long wavy dark brown hair\"} styled in a single loose braid draped over one shoulder, adorned with small bright yellow flowers woven into the braid; soft wispy strands frame her face and drift gently. She has large pale blue-green eyes, soft natural pink lips with a gentle warm smile, and delicate fair skin with a subtle blush. She wears a {argument name=\"outfit\" default=\"white lace-trimmed camisole dress with fine ruffled details, layered under an oversized soft lime-green knit cardigan\"}. Her right hand reaches forward toward the viewer with palm open, as if inviting you to take her hand. Plain soft cream-white background. Style: {argument name=\"art style\" default=\"hand-drawn colored pencil illustration with visible fine strokes\"}, soft luminous natural lighting, warm gentle tones, delicate texture on hair and fabric, dreamy tender atmosphere, high detail.",
+    "title": "Hand-Drawn Cardigan Portrait",
+    "description": "A soft, dreamy hand-drawn colored pencil illustration of a young woman with a warm smile, wearing a knit cardigan and lace dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559649173_rek9my_HQX1dwxboAAQgyH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32328,
+    "content": "Image editing task. Use Image 1 as the base image. Reproduce the same scene, pose, camera angle, framing, lighting, outfit style and background. Change only the {argument name=\"person identity\" default=\"person identity\"} to match the attached AI model reference images. Keep the same body orientation, hand position, facial direction and composition. Preserve the {argument name=\"aesthetic\" default=\"raw phone-photo look\"}: slight motion blur, JPEG compression, sensor noise, imperfect crop, real shadows, uneven indoor light and natural skin texture. Do not make it look like a studio render.",
+    "title": "Identity Swap Image Recreation",
+    "description": "A technical prompt designed for GPT Image 2 to swap a person's identity while strictly preserving the base image's composition, lighting, and raw smartphone aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559642920_zeow61_HQXYIBlbkAArgNU.jpg"
     ],
     "needReferenceImages": true
   },
@@ -172,16 +285,6 @@
       "https://cms-assets.youmind.com/media/1787472394457_5j9kh5_HQSs_JdaoAA2wOW.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 32253,
-    "content": "9:16 vertical version, ancient style noble woman ink-gold makeup close-up, oriental classical female bust close-up, sitting straight, looking calmly at the camera, mature, cold and elegant, noble, calm. Young adult oriental female, mature classical beauty face. The makeup is {argument name=\"makeup style\" default=\"ink-gold red tea rose makeup\"}: ink brown, red tea and dark gold pearlescent eye makeup, tea rose blush, deep bean paste moisturizing lips. The hairstyle is a black dignified high bun, matched with a black-gold hollow hair crown. The clothing is a {argument name=\"clothing\" default=\"obsidian color stand-up collar long coat\"}, with dark gold embroidery, matched with a pomegranate red horse-face long skirt. The scene is a dark wood hall, a golden screen, warm candlelight, and the background is softly blurred. The skin tone is clean and transparent, high-end ancient style noble woman portrait photography texture.",
-    "title": "Ancient Chinese 'Ink Gold' Makeup Portrait",
-    "description": "A high-end ancient Chinese style portrait prompt featuring 'Ink Gold and Tea Rose' makeup. The scene captures a noble lady in a traditional long robe with intricate gold embroidery and a dark wood hall background, highlighting detailed cosmetic textures and classical accessories.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787386242714_slkzko_HQQq-RCboAEapet.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 32265,

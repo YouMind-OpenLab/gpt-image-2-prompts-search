@@ -1,11 +1,21 @@
 [
   {
-    "id": 32368,
-    "content": "Create a premium macro product photograph of {argument name=\"token type\" default=\"Codex tokens\"}: exactly 5 metallic silver coins on a glossy dark reflective surface, with 4 coins stacked horizontally on the left and 1 large coin standing upright and leaning slightly in front on the right. The upright coin dominates the composition and has a ridged edge, embossed concentric circular rings, the word {argument name=\"top inscription\" default=\"CODEX\"} spaced across the top rim, and {argument name=\"bottom inscription\" default=\"BUILD THE FUTURE\"} curved along the bottom rim. In the center of each visible coin, emboss a rounded-square app-icon panel containing a cloud-shaped outline with a command prompt chevron and short underscore line, like a terminal symbol inside a cloud. The stacked coins should show ribbed edges and partial top engravings, with the top stack coin also showing the same logo and faint rim text. Use cool blue and violet studio lighting, polished brushed-metal material, crisp engraved details, shallow depth of field, soft bloom highlights, and a smooth gradient background from deep navy on the left to pale electric blue on the right. Make it look like a high-end cryptocurrency/token advertisement, square 1:1 composition, photorealistic 3D render, no people, no extra objects, no watermark.",
-    "title": "Codex Silver Token Product Shot",
-    "description": "A photorealistic studio render of five engraved silver Codex tokens for a premium crypto-style product visual.",
+    "id": 32467,
+    "content": "Create a minimalist luxury product shot of a single {argument name=\"product type\" default=\"perfume bottle\"} centered on a deep matte black background, with the product occupying only about 18% of the image height and surrounded by generous negative space. The bottle is a transparent faceted octagonal glass flacon with thick beveled edges, dark {argument name=\"liquid color\" default=\"amber\"} liquid inside, a blank square {argument name=\"label color\" default=\"ivory white\"} front label framed by a thin metallic gold border, two small gold collar pieces at the neck, and a short black rectangular spray cap extending horizontally. Use dramatic low-key studio lighting with subtle highlights on the glass edges, faint gold reflections, and almost no visible shadow. Keep the composition perfectly centered and symmetrical, premium fragrance-ad style, photorealistic, crisp glass refraction, no brand name, no extra text, no hands, no props, no surface line, isolated product feel suitable for background removal and reuse on websites, slides, and ads.",
+    "title": "Minimal Luxury Perfume Product Shot",
+    "description": "Generates a centered photorealistic luxury perfume bottle asset with a dark studio look for reusable product marketing visuals.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787472397088_mwgx03_HQXvKBCakAA3Se9.jpg"
+      "https://cms-assets.youmind.com/media/1787559667406_gbicyd_HQaqOJqXgAAvLBd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32368,
+    "content": "Create a high-end photorealistic product render of {argument name=\"token name\" default=\"CODEX\"} tokens as futuristic silver coins on a glossy dark surface. Show exactly 5 discrete coins: 4 coins stacked horizontally on the left in a short pile, and 1 large coin leaning upright in the foreground on the right, partially overlapping the stack. The upright coin should dominate the composition, with a ridged reeded edge, brushed matte silver metal, beveled rims, concentric circular grooves, and embossed lettering around the rim: {argument name=\"top rim text\" default=\"CODEX\"} at the top and {argument name=\"bottom rim text\" default=\"BUILD THE FUTURE\"} at the bottom. In the center of each coin, emboss a rounded-square app-icon panel containing a cloud-shaped logo with a terminal prompt symbol, like a greater-than chevron and a short horizontal dash. The left stack should show the top coin face at a shallow angle with the same cloud-terminal emblem and faint rim text, while the coin edges reveal crisp vertical ridges. Use dramatic blue studio lighting with cool cyan highlights, deep navy shadows, soft reflections on the tabletop, and a smooth blue-to-lavender gradient background. Macro product photography look, sharp focus on the upright coin, shallow depth of field on the stacked coins, premium crypto-token aesthetic, no extra objects, no watermark, square 1:1 composition.",
+    "title": "Photorealistic Codex Token Coins",
+    "description": "A premium product-render prompt for creating metallic Codex-style tokens with embossed cloud-terminal branding and blue studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787559682598_w1c191_HQXvKBCakAA3Se9.jpg"
     ],
     "needReferenceImages": true
   },
