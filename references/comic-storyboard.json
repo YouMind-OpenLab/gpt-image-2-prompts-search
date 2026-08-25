@@ -10,32 +10,129 @@
     "needReferenceImages": true
   },
   {
-    "id": 32464,
-    "content": "Please create a single vertical animation development board for the original short film '{argument name=\"film title\" default=\"The Windmill Waiting for the Wind\"}'.",
-    "title": "Anime Development Concept Board",
-    "description": "Generates a vertical animation concept board for a short film, defining characters, settings, and visual development style on a single sheet.",
+    "id": 32573,
+    "content": "Goal: Create a dramatic black-and-white manga page that turns {argument name=\"character name\" default=\"an original idol girl\"} into the protagonist of a serialized manga chapter, with cinematic paneling, Japanese shojo manga linework, and a powerful quote scene.\n\nCanvas: Vertical manga page, roughly 4:5 aspect ratio, high-resolution monochrome with screentones, ink hatching, glossy highlights, thick white panel gutters, and slightly tilted dynamic panels.\n\nLayout: Use exactly 5 discrete panels. Panel 1 is a small upper-left close-up of a hand tightly gripping a backstage pass on a lanyard. Panel 2 is a large upper-right establishing shot of an empty theater stage from backstage, with curtains, rigging, spotlights, microphone stand, stage floor reflections, and the manga title overlaid. Panel 3 is a narrow middle-left close-up of one sparkling eye filled with determination. Panel 4 is the large main lower panel showing the heroine entering from behind a curtain, smiling confidently toward the viewer. Panel 5 is a tall oval speech balloon on the lower-right side containing the heroine’s quote.\n\nSubject details: The protagonist is a cute young idol heroine with {argument name=\"hair style\" default=\"long pale twin tails with ribbons, braids, and small flower hairpins\"}, huge sparkling eyes with light pink-tinted irises as the only subtle color accent, a bright determined smile, and delicate earrings. She wears {argument name=\"outfit\" default=\"a frilly black-and-white idol stage dress with a large bow, lace cuffs, layered skirt, corset-like bodice, chains, ribbons, and sparkling star details\"}. Her pose is energetic and story-defining: one hand clutches near her chest while the other pulls aside a backstage curtain, as if stepping onto the stage for a decisive performance.\n\nText content: Include Japanese manga text. On the backstage pass, write “STAGE PASS”, “No. 17”, and “Back Stage”. On the theater-stage title panel, write the ornate title {argument name=\"manga title\" default=\"星屑の声は誰のために光る？\"} and below it “第17話・夜明けを指名するのは私”. Add hand-drawn sound effects near the pass, eye, and curtain, such as “ぎゅっ”, “ドクン”, and “すっ”. In the speech balloon, write the vertical quote {argument name=\"quote\" default=\"「可愛いだけで勝てるなら、私はここまで本気になってない。」\"}.\n\nVisual style: Premium serialized shojo manga opening page, extremely detailed hair strands, luminous eyes, expressive ink lines, dramatic lighting, soft sparkles, star motifs, halftone gradients, reflective stage blacks, ornate typography, emotional idol-drama atmosphere, polished professional manga composition.\n\nConstraints: Keep the page monochrome except for the faint pink eye accents. Use exactly 5 panels and exactly 1 speech balloon. Do not add extra characters, logos, watermarks, or modern UI elements.",
+    "title": "Shojo Idol Manga Protagonist Page",
+    "description": "Generates a dramatic black-and-white manga page starring an original idol heroine with stage panels, Japanese title text, and a defining quote.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559660322_k78onu_HQd4RvAb0AAQgD2.jpg"
+      "https://cms-assets.youmind.com/media/1787645627809_y54ixm_HQet5-ZbUAEvH1e.jpg",
+      "https://cms-assets.youmind.com/media/1787645627796_yy1t6h_HQet8uYakAA8crT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32521,
+    "content": "{argument name=\"style\" default=\"highly rendered comic/manga anatomy, sharp ink-like contour work, dense crosshatching, painted cel shading, and metallic highlights\"}. luxury accessories, hard directional comic-book lighting with bright warm highlights, arcade fighting-game key art, slightly camp.\n\nShe wears a {argument name=\"clothing material\" default=\"sculptural translucent coat made of irregular faceted panels in emerald, amber, crimson, petrol blue, and smoky violet\"}, glowing where neon light passes through it. luminous depth. Dreamlike cyber-noir fashion editorial, polished digital illustration with photographic depth, luminous skin, rich color separation, soft atmospheric haze, shallow depth of field, elegant melancholy",
+    "title": "Cyber-Noir Manga Illustration",
+    "description": "A sophisticated manga-style prompt for creating cyber-noir illustrations with sharp ink contours, faceted translucent textures, and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645574534_ypdnea_HQh4V7nWEAAkdSM.jpg",
+      "https://cms-assets.youmind.com/media/1787645574438_ypmbmi_HQh4V7gXEAABE6V.jpg"
     ],
     "needReferenceImages": false
   },
   {
+    "id": 32538,
+    "content": "A {argument name=\"character\" default=\"silver-haired witch\"} holding up a staff under {argument name=\"lighting effect\" default=\"purple moonlight\"}, with a mysterious smile on her face.",
+    "title": "Silver-Haired Witch in Moonlight",
+    "description": "A short and evocative prompt for generating an image of a silver-haired witch with a mysterious smile under purple moonlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645597692_i0ias6_HQhuDD_XEAALBrH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32554,
+    "content": "{argument name=\"character\" default=\"Spike Spiegel from Cowboy Bebop\"}, standing and leaning against a rusty pipe in a {argument name=\"setting\" default=\"gritty, wet alleyway at night\"}. The character has messy dark green hair, a lean face, and a bored expression, smoking a cigarette looking towards camera. He wears a {argument name=\"clothing\" default=\"dark blue tailored suit, a yellow unbuttoned shirt, and a loose black tie\"}, holding a large black pistol. The background is a dark, gritty damp urban landscape with rain-slicked cobblestones reflecting colorful neon signs with Japanese and English text. Dramatic neo-noir lighting with deep shadows and vibrant neon glow. {argument name=\"art style\" default=\"American comic book art style\"}, thick linework, cross-hatching, and visible halftone dot screen tones. Full-body shot, detailed environment. High quality.",
+    "title": "Spike Spiegel Comic Book Style",
+    "description": "A detailed comic book art style prompt for the character Spike Spiegel in a gritty, neon-lit urban environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645609560_zc1azk_HQfvTmbaAAACWGb.jpg",
+      "https://cms-assets.youmind.com/media/1787645609554_718ndf_HQfvTmZaAAAW3-w.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32551,
+    "content": "A {argument name=\"character\" default=\"medieval knight\"} riding a {argument name=\"creature\" default=\"giant goldfish\"} through a {argument name=\"location\" default=\"McDonald’s on Mars\"} while Shakespeare plays electric guitar.",
+    "title": "Surreal Knight on Mars",
+    "description": "A highly creative and absurd prompt featuring a medieval knight riding a goldfish through a fast-food restaurant on Mars.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645607103_enev0s_HQfOfmrawAAtIy1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32572,
+    "content": "Create a highly detailed vertical anime-style illustration of {argument name=\"character description\" default=\"a beautiful young woman with fair skin, delicate features, long chestnut-brown hair in a thick side braid, wispy bangs, and thin round gold-rimmed glasses\"} working in a cozy rustic kitchen. She is shown from the waist up in a three-quarter side profile, looking downward with a soft focused smile while grinding herbs in a heavy stone mortar with a wooden pestle. Her left hand steadies the mortar and her right hand grips the pestle. She wears {argument name=\"outfit\" default=\"a white short-sleeved blouse with lace trim under a dark navy lace-up bodice, a pale blue waistband, and a pleated blue skirt\"}. The mortar contains a colorful chopped mixture of green herbs, red spices, and small food pieces, with a few whole nuts or roots scattered on the wooden table. The background is an old warm wooden kitchen with shelves, pottery jars, blurred cookware, and a window on the right showing soft twilight sky. Use warm golden indoor light from the left and gentle cool window light from the right, shallow depth of field, painterly semi-realistic anime rendering, refined hair strands, soft skin shading, detailed fabric folds and lacing, cinematic composition, intimate handmade atmosphere, no text, no watermark.",
+    "title": "Rustic Herbalist Anime Girl",
+    "description": "A detailed vertical anime illustration prompt for creating a cozy rustic kitchen scene with a braided young woman grinding herbs in a mortar.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645626607_dex0d7_HQfMY_lasAEMVzO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32517,
+    "content": "THEME = {argument name=\"theme\" default=\"enter theme\"}\nSTYLE = {argument name=\"style\" default=\"enter the style you want\"}\nPALETTE = {argument name=\"palette\" default=\"enter the color palette\"}\nASPECT RATIO = {argument name=\"aspect ratio\" default=\"enter the aspect ratio you want\"}\n\nDO:\n  Create an artistic multi-scene collage built entirely around THEME.\n  Derive subjects, environments, objects, characters and visual events naturally from THEME.\n  Derive the emotional tone, atmosphere and energy naturally from THEME.\n  Use people, animals, objects, landscapes, architecture, abstract forms or any combination of them when they meaningfully support THEME.\n  Treat each scene as a distinct emotional or conceptual fragment from the same world.\n  Build the composition like an expressive editorial art spread rather than a storyboard or regular panel grid.\n  Freely vary the number, scale, proportions and placement of scenes.\n  Combine large dominant images with narrow vertical fragments, wide horizontal crops, small detail scenes and partially cropped compositions.\n  Stagger scene edges and shift their alignments to create an irregular visual rhythm.\n  Let some scenes extend fully to the canvas edge while others terminate against neighboring imagery.\n  Use occasional L-shaped, stepped or offset arrangements created naturally by neighboring scene proportions.\n  Avoid repeating the same rectangle size or alignment across the composition.\n  Keep scenes visually separate without visible frames or empty gaps between them.\n  Let neighboring scenes meet through irregular crop relationships while keeping their environments independent.\n  Do not blend separate locations into one continuous environment.\n  Keep the main subjects of each scene visually contained within that scene.\n  Use architecture, large color fields and negative space to shape the overall composition.\n  Connect neighboring scenes through color relationships, visual rhythm and thematic echoes rather than physically merging their content.\n  Choose environments and situations specifically suited to THEME.\n  Include occasional intimate fragments such as hands, objects, windows, silhouettes, architectural details or empty spaces when they strengthen THEME.\n  Give each scene a different visual scale, point of view and conceptual focus.\n  Use expressive lighting, shape, perspective and negative space according to STYLE.\n  Vary the emphasis of PALETTE from scene to scene while preserving overall harmony.\n  Maintain consistency whenever subjects, characters, objects or locations recur.\n  Keep the final composition visually clean, sophisticated and intentionally irregular.\n\nCAMERA: varied editorial framing, environmental wides, cropped medium views, isolated details, unusual negative-space compositions, overhead fragments and off-center perspectives chosen according to THEME\n\nRULES:\n  Use STYLE as the authority for medium, linework, text",
+    "title": "Thematic Artistic Collage Template",
+    "description": "An extensive template for creating artistic multi-scene collages based on a specific theme, allowing for varied layouts and visual scale while maintaining harmony.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645570134_rpfybg_HQefRf8XMAApveo.jpg",
+      "https://cms-assets.youmind.com/media/1787645570144_u94avc_HQee-niXYAEPlSZ.jpg",
+      "https://cms-assets.youmind.com/media/1787645568683_yqfgzv_HQee_fPWkAAwlXq.jpg",
+      "https://cms-assets.youmind.com/media/1787645569428_86tnqw_HQefALZXQAEWQfe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32464,
+    "content": "Create a single vertical anime development board for the original short film '{argument name=\"movie title\" default=\"Waiting for the Windmill\"}'.",
+    "title": "Anime Film Development Board",
+    "description": "A prompt for generating vertical anime development boards for short film concepts, focusing on character and setting design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645610804_rmux8s_HQd4RvAb0AAQgD2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32449,
+    "content": "Preserve the original scene, composition, perspective, buildings, streets, objects, lighting, shadows, materials, and photographic textures exactly. Change only the characters into {argument name=\"sticker style\" default=\"minimalist black-and-white hand-drawn stickers\"}, keeping their poses, actions, proportions, clothing outlines, number, and positions unchanged. Use {argument name=\"illustration type\" default=\"rough single-line illustrations\"} with only pure black and white no gray,color, or gradients with clean white sticker borders. Create a realistic high-resolution photo background contrasted with flat 2D sketch characters, in a minimalist graffiti/INS editorial collage style. Sharp, detailed, photorealistic background, 8K look. Aspect ratio: {argument name=\"aspect ratio\" default=\"3:4 / 9:16\"}.",
+    "title": "Hand Drawn Sticker Photo Collage",
+    "description": "Transforms a realistic photograph by turning characters into minimalist black-and-white stickers while preserving the background, ideal for editorial or collage styles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645569937_9ii2aq_HQdsTcgXUAAbcld.jpg",
+      "https://cms-assets.youmind.com/media/1787645569985_bods65_HQdsUWcXoAAKnrX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32419,
     "content": "Use this art style from these 2 images to create a character from {argument name=\"scene\" default=\"[insert scene]\"} (no characters from the referenced images should be used)",
-    "title": "Character Creation from Mixed Art Styles",
-    "description": "A prompt designed to combine the aesthetic styles of two different reference images to create a new character in a specific scene.",
+    "title": "Multi-Image Art Style Fusion",
+    "description": "A utility prompt for GPT Image Gen that allows users to combine the artistic styles of two reference images to create a new character in a custom scene.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559616634_d1we6u_HQdZOhKXQAAHZ2f.jpg"
+      "https://cms-assets.youmind.com/media/1787645577675_wvgoi2_HQdZOhKXQAAHZ2f.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32484,
+    "content": "Goal: Create a photorealistic full-body character reference sheet of {argument name=\"character name\" default=\"a Japanese high school girl\"} wearing a traditional sailor-style school uniform, shown as a clean studio turnaround for image-reference use.\n\nCanvas: Wide horizontal white studio background, approximately 16:9, evenly lit with soft shadows under the shoes. The image is divided visually into four equal vertical panels with one standing figure per panel.\n\nLayout: Show exactly 4 full-body views of the same girl, left to right: 1) front view facing the camera with a slight gentle smile, 2) left-side profile facing right, 3) right-side profile facing left, 4) back view facing away. Keep the figure scale consistent across all four views, with the entire body visible from head to shoes and generous white space around each pose.\n\nSubject details: A realistic teenage Japanese schoolgirl with a slim average build, natural posture, light skin, straight black hair with bangs, and a high ponytail tied with {argument name=\"hair accessory\" default=\"a pale pink scrunchie with a floral pattern\"}. Her expression in the front view is calm, friendly, and ordinary, like a real student portrait rather than a fashion model.\n\nUniform details: Traditional sailor uniform consisting of exactly 7 visible clothing/accessory components: 1) white long-sleeve sailor blouse, 2) navy sailor collar with white stripe trim, 3) red neckerchief tied at the chest, 4) small embroidered crest patch on the left chest, 5) navy pleated skirt above the knees, 6) navy knee-high socks, 7) dark brown leather loafers. The blouse has navy cuffs with white stripe trim. The skirt pleats should be crisp and visible in every angle.\n\nStyle: Ultra-realistic studio photography, neutral catalog/reference-sheet lighting, accurate human proportions, natural skin texture, sharp focus, high detail, no stylization, no anime look, no text, no watermark, no props, no background scene.",
+    "title": "Realistic Schoolgirl Turnaround Sheet",
+    "description": "A photorealistic four-view studio reference sheet of a Japanese schoolgirl in a sailor uniform for character design or image-reference use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645619922_xbd6t5_HQdAlPobAAANv_c.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 32499,
-    "content": "Create a tall vertical fine-art poster inspired by mythic Greek Odyssey imagery, divided into exactly 3 wide horizontal cinematic panels separated by thin dark borders, with deep forest-green poster margins at the top and bottom. Use a dreamy neoclassical fantasy style: marble architecture, sculpted stone, flowing fabric, pale skin, ultralong black hair, sunlit cream whites, ocean blues, and painterly texture like a high-end illustrated book cover.\n\nCanvas: vertical 3:4 poster, elegant gallery composition, no modern objects, no logo or watermark. Add tiny widely spaced gold serif letters centered in the top margin, between panels, and bottom margin; the lettering should feel decorative and mostly illegible.\n\nPanel 1: A sunlit ancient stone terrace beside the sea. Show exactly 2 massive cream marble eagle statues perched on square plinths at the left and center-left, carved with detailed feathers and hooked beaks. Beside them show exactly 2 female figures in white classical drapery: one bare-shouldered woman seen from behind near the center, and one pale woman seated at the far right in a white toga-like dress with very long black hair streaming leftward. Background: muted blue sea and sky, monumental wall shadows, soft golden light.\n\nPanel 2: A darker, more dramatic rocky coastal scene. Show exactly 1 solitary pale woman reclining low on dark blue-black rocks, wrapped in a long white sheet that cascades across the foreground like liquid marble or sea foam. She leans forward with arms folded, melancholic and introspective. Behind her, a towering dark cliff curves upward, with bright ivory fabric or waterfall-like drapery descending from the upper right into luminous foam. Use high contrast between the dark cliff and glowing white cloth.\n\nPanel 3: A bright open seaside vista. Show exactly 1 pale woman lying on blue-gray rocks, wrapped in a vivid {argument name=\"dress color\" default=\"crimson red\"} flowing cloth, with extremely long {argument name=\"hair color\" default=\"jet black\"} hair blown dramatically to the right by strong wind. She rests her head in one hand, expression wistful and elegant. In the far left background show exactly 6 small white triangular sailboats on a calm blue sea, with soft clouds on the horizon.\n\nOverall mood: {argument name=\"mood\" default=\"melancholic, mythic, romantic, and wind-swept\"}. Subject theme: {argument name=\"theme\" default=\"Odyssey-inspired Greek sea goddess lament\"}. Lighting should be soft, cinematic, and luminous, with marble whites, ocean blue shadows, and delicate gold accents. Keep the composition refined, poetic, and surreal, like a luxury art poster rather than a realistic photograph.",
+    "content": "Goal: Create a mythic Odyssey-inspired editorial triptych poster with an ethereal classical Greek mood, depicting longing women beside a luminous sea and monumental stone architecture.\n\nCanvas: Vertical poster, approximately 3:4 aspect ratio, divided into exactly 3 wide horizontal cinematic panels separated by thin dark borders, with a deep black-green margin at the top and bottom. Add tiny, widely spaced gold serif lettering centered in the top margin, between panels, and near the bottom margin; the lettering should feel decorative and almost unreadable rather than functional.\n\nLayout and scene count: Use exactly 3 stacked scenes. Panel 1: a pale marble temple terrace at the sea, with exactly 2 large carved eagle/griffin-like stone statues on pedestals at the left, and exactly 2 women in flowing white classical drapery at the right; one woman has very long black hair blown horizontally by wind and sits in profile, while the second woman is behind her, bare-shouldered, wearing a wide-brimmed pale hat and turned away. Panel 2: a darker dramatic cliff grotto scene with exactly 1 solitary black-haired woman reclining on white cloth at lower left, leaning forward with folded arms, beside a huge dark blue-black rock wall and a cascading vertical sheet of white fabric or surf falling into bright foamy water on the right. Panel 3: a coastal rock scene with exactly 1 black-haired woman in a vivid red draped dress reclining on blue-gray rocks, resting her head in one hand, her extremely long hair streaming far to the right in the wind; the background shows a calm blue sea with exactly 6 small white sailboats on the horizon and soft pale clouds.\n\nSubject details: The women should look like serene mythological muses or sirens with porcelain skin, delicate faces, downcast or contemplative expressions, and graceful classical poses. Emphasize very long flowing black hair, wind movement, bare shoulders, and soft Greco-Roman drapery. Use {argument name=\"main dress color\" default=\"white in the upper panels and vivid red in the bottom panel\"} and a romantic melancholic atmosphere.\n\nVisual style: High-fashion fantasy illustration mixed with neoclassical painting, Art Nouveau elegance, soft pastel blue sea and sky, ivory marble, dark ultramarine rock, glowing sunlight, smooth painterly rendering, cinematic composition, delicate fabric folds, subtle grain, dreamlike luxury book-cover aesthetic. Use strong horizontal composition, crisp silhouettes, luminous highlights, and elegant negative space.\n\nText content: Include only tiny decorative gold letters, not readable body text. Suggested top word: {argument name=\"top decorative word\" default=\"QUEENIT\"}; suggested middle word: {argument name=\"middle decorative word\" default=\"YEAIOTI\"}; suggested bottom word: {argument name=\"bottom decorative word\" default=\"CLFFINAE\"}.\n\nConstraints: No modern objects, no extra figures, no additional animals beyond the 2 stone griffin/eagle statues, no readable captions, no watermark, no photorealistic camera look; keep the image painterly, mythic, serene, and Odyssey-themed with exactly 3 panels.",
     "title": "Odyssey Mythic Triptych Poster",
-    "description": "A vertical neoclassical fantasy triptych poster featuring marble eagles, sea cliffs, sailboats, and melancholic goddess-like women by the ocean.",
+    "description": "A structured prompt for generating a three-panel neoclassical fantasy poster of mythic women, marble griffins, sea cliffs, and sailboats.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559688657_nzdu99_HQcbWV1aUAA3c4w.jpg"
+      "https://cms-assets.youmind.com/media/1787645630163_0um86h_HQcbWV1aUAA3c4w.jpg"
     ],
     "needReferenceImages": true
   },

@@ -1,45 +1,252 @@
 [
   {
-    "id": 32462,
-    "content": "Side-profile medium shot of a {argument name=\"subject\" default=\"young East Asian woman\"} with messy dark hair tied in a loose textured updo with face-framing strands. She is wearing a {argument name=\"sweater color\" default=\"olive green\"} crewneck knit sweater layered over a delicate white lace mock-neck top with lace cuffs peeking out at her wrist. Accentuated with elaborate baroque pearl drop earrings and a pearl ear cuff. She has her hand resting near her chin, looking slightly away from the camera. Cozy, warm ambient lighting indoors against a {argument name=\"background\" default=\"beige ceramic tiled bathroom wall\"} background, vintage aesthetic, soft shadows, filmic texture, high detail, candid mood, 35mm photograph, shot on Kodak Portra 400. Beautiful vintage-inspired lighting",
-    "title": "Vintage 35mm Aesthetic Portrait",
-    "description": "An English prompt for a candid, film-textured portrait of an East Asian woman in a cozy indoor setting, simulating Kodak Portra 400 film.",
+    "id": 32543,
+    "content": "A highly detailed cinematic portrait of a beautiful {argument name=\"subject\" default=\"young woman\"} with long wavy dark brown hair, fair skin, and soft makeup, sitting gracefully in a lush garden. She wears an elegant floor-length {argument name=\"dress\" default=\"pink satin ball gown\"} with puffed sleeves, a fitted bodice, and a full flowing skirt. She holds a single {argument name=\"accessory\" default=\"pink rose\"} in her lap, with one hand resting on her dress and the other on her knee.She is positioned under a large romantic rose arch covered in abundant blooming pink roses and green foliage. Golden hour sunset light filters through the arch from behind, creating a warm glow, lens flare, and soft bokeh background. Pink rose petals gently float and scatter around her. Colorful butterflies (blue, yellow, orange) flutter throughout the scene. The atmosphere is dreamy, ethereal, and romantic, with soft shadows and magical lighting. Photorealistic, ultra-detailed, 8k, masterpiece",
+    "title": "Romantic Ball Gown Garden Portrait",
+    "description": "A dreamy, ethereal portrait of a woman in a pink satin ball gown sitting in a rose-covered garden at sunset, surrounded by butterflies.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559658099_5o9o9a_HQeDXE0WcAAmxyy.jpg"
+      "https://cms-assets.youmind.com/media/1787645600300_vqad6k_HQjLXSlaAAAvLfs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32541,
+    "content": "Subject:\n{argument name=\"subject\" default=\"Blue ribbon in a sunflower garden\"}\n\nMain Figure:\nIn a small flower bed with a white fence in the center of the screen, a woman crouches surrounded by sunflowers and small white flowers. Centered on her wearing a white and pale light-blue sleeveless one-piece dress, holding a pale light-blue square bag with both hands.\n\nPerson/Expression:\nThe woman turns her face to the front, looking at the camera with a modest smile. Oval face with rounded cheeks and a small jaw, wide bright eyes, thin loose eyebrows, a thin nose bridge, and glossy coral lips. Dark brown shoulder-length bob is partially tied back, leaving thin bundled bangs and loose hairs along the cheeks. Thin lines around the eyes, light pink on the cheeks.\n\nClothing/Pose:\nA white mini-dress with {argument name=\"accent color\" default=\"pale light-blue\"} trim, large shoulder bows, small buttons on the chest, a choker of the same color, and a waistband. White ankle-strap shoes. Crouching with knees deeply bent, arms down, holding the small handles of the bag.\n\nBackground/Lighting:\nYellow sunflowers in the left foreground and back right, small white flowers at the feet, with a white board fence and green leaves behind. Bright direct sunlight from the upper left illuminates the hair and shoulders, casting small shadows in the flower bed.\n\nComposition/Camera:\n3:4 vertical orientation, capturing the full crouching body from a slightly high camera perspective. The person is prominently in the center, the bag is at the bottom center, and sunflowers surround from the left and right. Focused on the person, with the background appropriately blurred.\n\nTexture/Style:\nA bright live-action photo combining white, light blue, yellow, and green refreshingly. Cleanly and sharply depicts petals, ribbons, and skin.\n\nNegative:\nDo not omit the blue ribbons on the shoulders; do not change the crouching posture to a standing one.",
+    "title": "Sunflower Garden Blue Ribbon Girl",
+    "description": "A vibrant prompt for a woman in a white and blue dress crouching in a sunflower garden, carrying a matching blue bag.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645599475_us4fnp_HQZbVcFbkAAuaGC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32563,
+    "content": "Create a highly realistic vertical smartphone selfie photo of an adult East Asian woman resembling {argument name=\"character name\" default=\"ANRI\"} sitting in the front passenger seat of a modern car during a relaxed daytime outing. She has a short shoulder-length dark brown bob with side-swept bangs, smooth fair skin, soft natural makeup, defined eyes, and red-pink lips, looking directly into the camera with a calm gentle expression. She is wearing large white over-ear headphones, a delicate silver necklace with a tiny pendant, a fitted white ribbed sleeveless crop tank top, and white denim shorts. The selfie is taken from a slightly high wide-angle arm's-length perspective, with her extended arm visible at the right edge, creating a casual social-media feel. The car interior is black leather with a visible side window, door panel, seat, and headrest; outside the window is a bright scenic lakeside view with blue water, green trees, and softly blurred forested hills. Use natural daylight, soft flattering skin tones, shallow depth of field, crisp facial detail, realistic fabric texture, glossy car interior highlights, and a summery leisurely mood inspired by listening to music in free time. No text, no watermark, no extra people, no distorted anatomy.",
+    "title": "Lakeside Car Selfie with Headphones",
+    "description": "A photorealistic lifestyle selfie of an adult woman relaxing in a car by a lake while wearing headphones, suited for social media-style portrait generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645621019_ydpf3x_HQivR_9boAAjp32.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32506,
+    "content": "Close-up winter selfie of a woman standing in falling snow on a {argument name=\"setting\" default=\"cozy European street\"}. She wears a {argument name=\"clothing\" default=\"fitted pastel red zip-up top\"} with structured seams, slightly unzipped neckline, soft glam winter styling. Snowflakes caught in her {argument name=\"hair style\" default=\"voluminous layered hair\"} styled in soft bouncy waves. Makeup fresh but defined: lifted brown winged liner, pink blush concentrated on cheeks and nose, glossy neutral-pink lips, luminous dewy skin. Background shows snow-covered houses, trees, parked cars blurred with shallow depth of field. Natural cold daylight reflecting off snow creating bright clean contrast on skin. Lifestyle Pinterest winter aesthetic, ultra-detailed, 8K, realistic skin texture, crisp winter atmosphere.",
+    "title": "European Winter Street Selfie",
+    "description": "A lifestyle Pinterest-style prompt for a winter selfie on a snowy European street with soft, luminous lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645607041_go5a9y_HQd2NydbEAAskuo.jpg",
+      "https://cms-assets.youmind.com/media/1787645607074_4wrov3_HQd2UT6bkAA8fdZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32562,
+    "content": "Create a vertical anime-style gothic portrait illustration of {argument name=\"character name\" default=\"a beautiful androgynous young man\"} lying diagonally on deep crimson, black-patterned fabric, hugging a worn tan teddy bear close to his chest. The character has {argument name=\"hair color\" default=\"silvery white\"} tousled medium-length hair with long bangs covering part of one eye and a short side ponytail tied behind the ear, pale skin, soft pink eyes, long lashes, and a faint mischievous smile with slightly parted lips. Dress him in a formal dark burgundy-black suit jacket, white dress shirt, black ribbon bow tie, and white gloves, with dramatic glossy folds and sharp tailoring. The teddy bear is tan and plush, with exactly one black button eye visible, one pale square eye patch over the other eye, a small black nose, simple stitched mouth, rounded ears, two arms, and two legs. Surround them with sewing and dollmaking details on the fabric: exactly one open pair of scissors on the left edge, exactly two dark thread spools with metallic rims at the top-right and bottom-right corners, thin loose threads, lace trim along the right side, and exactly four red flower blossoms plus scattered small red petals. Use a close-up tilted composition, the character's face near the upper center and the teddy bear centered, with warm golden rim light across the hair and face, cool cyan edge accents in the shadows, rich reds and blacks, high contrast, painterly brush texture, crisp line art, intricate hair strands, luxurious gothic mood, intimate and slightly eerie atmosphere. No text, no watermark, no extra characters.",
+    "title": "Gothic Anime Boy Hugging Teddy Bear",
+    "description": "Generates a dramatic vertical anime portrait of an androgynous gothic boy holding a patched teddy bear amid sewing tools and crimson fabric.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645618687_wix0ak_HQieYvEaYAAXNUv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32520,
+    "content": "A vibrant candid street-style photograph of a {argument name=\"subject\" default=\"young woman sitting playfully on the Brooklyn Bridge pedestrian walkway\"} during {argument name=\"time of day\" default=\"golden hour\"}. She is smiling brightly toward the camera, wearing a {argument name=\"outfit\" default=\"red-and-white patterned sleeveless top, red ribbed leg warmers, and oversized chunky white sneakers\"}.\n\nShe holds both hands close to the camera, creating a playful framing gesture with her fingers. Her hands appear dramatically larger due to an extreme wide-angle perspective, creating a fun, dynamic composition. Her hair is loosely tied up with a few strands blowing naturally around her face, and she wears a delicate silver chain necklace.\n\nThe Brooklyn Bridge stone towers, suspension cables, metal framework, and Manhattan skyline are visible in the background. Warm sunlight shines from behind her, producing beautiful rim lighting, subtle lens flare, and long shadows across the brick walkway. Low-angle camera perspective, exaggerated foreground depth, ultra-wide {argument name=\"lens\" default=\"14mm lens\"} effect, energetic Gen-Z street photography aesthetic, natural skin texture, realistic details, warm cinematic color grading, sharp focus, photorealistic, vertical 4:5 composition.",
+    "title": "Brooklyn Bridge Street Portrait",
+    "description": "A vibrant street photography prompt capturing a playful moment on the Brooklyn Bridge with a dynamic wide-angle perspective and golden hour lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645574003_yk60bx_HQibQFZbYAAPbum.jpg",
+      "https://cms-assets.youmind.com/media/1787645574018_2b7nwy_HQibQ2JbQAADder.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32536,
+    "content": "Subject: White walking against a yellow wall\n\nMain Subject:\nA full-body photograph of a woman in {argument name=\"clothing color\" default=\"white summer clothes\"} taking a step forward while walking along a {argument name=\"wall color\" default=\"vibrant yellow-orange\"} wall in the center of the frame. A small brown shoulder bag and the shadows of the person and leaves falling on the wall serve as accents.\n\nPerson/Expression:\nThe woman faces the upper right of the frame, smiling peacefully while looking into the distance. She has a slightly elongated oval face, narrow eyes with natural eyebrows, a clean nose bridge, and pale pink lips. Her dark brown hair is styled in a casual low bun at the back, with thin bangs and loose strands. Natural glowing skin and light blush.\n\nClothing/Pose:\nA white V-neck top with thin straps, layered with a sheer white long-sleeved shirt worn open with sleeves rolled to the elbows. White drawstring shorts and white low sandals. Her left hand is in her pocket, her right arm swings naturally forward, and she walks with legs crossed. A brown rectangular bag hangs from her left shoulder.\n\nBackground/Light:\nThe background is a solid, rough yellow-orange wall with large leaf shadows spreading from the upper right. Sharp direct sunlight from the upper right casts a clear silhouette of her profile and full body shadow to the left.\n\nComposition/Camera:\n3:4 vertical orientation, full-body shot from eye level down to the toes. The subject is slightly left of center, leaving space on the right for the yellow wall and leaf shadows. Relatively deep focus covering both the person and the background.\n\nTexture/Style:\nA photorealistic image utilizing the contrast of strong summer sunlight and vivid yellow/white. Clearly depicts the texture of the wall and the lightness of the thin fabric.\n\nNegative:\nDo not change the yellow wall color; do not change the walking posture to a static standing pose.",
+    "title": "Sunlit Yellow Wall Summer Stroll",
+    "description": "A vibrant summer scene prompt featuring a woman walking along a bright yellow wall with leaf shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645594984_iem0h9_HQZZ5CSbYAAg7_Y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32529,
+    "content": "2x2 grid, do this for {argument name=\"subject\" default=\"Olympics sports\"}: 16:9 INPUT ::= {argument name=\"keyword\" default=\"[TOPIC_OR_WORD]\"}    W := derive_word(INPUT)  A := infer_actor_or_symbol(INPUT)  E := infer_defining_action(INPUT)  M := infer_reactive_medium(E, INPUT)    LAYOUT_SOLVER ::    +--------------------------------------------------------------------------------+  |                                                                                |  |       ┌─ glyph capable of holding A                                             |  |       ↓                                                                        |  |    [ GLYPH ]   [ GLYPH ]   [ ACTION_GLYPH ]   [ GLYPH ]   [ GLYPH ]           |  |        A                           │                                             |  |                                    │ motion_vector(E)                           |  |                                    ▼                                             |  |                         **** IMPACT ****                                        |  |                    ╭─────────┼─────────╮                                        |  |                ≈≈≈≈≈≈≈≈≈ reactive baseline ≈≈≈≈≈≈≈≈                           |  |                                                                                |  +--------------------------------------------------------------------------------+    SEMANTIC_ASSIGNMENT ::    BODY_SLOT :=      glyph whose counter/curve/stem best accommodates pose(A)    ACTION_SLOT :=      glyph whose geometry naturally expresses E    GROUND_SLOT :=      bottom typographic zone transformed into M    FUSION ::    A.body_part       -> glyph_stroke  A.gesture         -> terminal_or_curve  ACTION_GLYPH      -> motion_trajectory  M.surface         -> shared_word_baseline  collision         -> ink_burst  energy_propagation-> concentric_marks_or_topic_equivalent    BRUSH_PHYSICS ::    stroke_width(t) ∝ pressure(t)  dryness(t)      ∝ velocity(t)  splatter        ∝ impact_force(E)  ripple_radius   ∝ elapsed_visual_time    RULES ::  - only enough literal detail to understand A and E  - preserve huge white negative space  - reaction marks become compositional support for the entire word  - use asymmetry and sparse brush imperfections  - infer the appropriate reaction if M is not liquid  - never preassign a specific letter, actor, action, or medium",
+    "title": "Calligraphic Sports Grid System",
+    "description": "A structured, logic-based prompt that translates sports movements into minimalist calligraphic art within a 2x2 grid.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645585032_9cosub_HQcT6X-WUAAZ4va.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32539,
+    "content": "Subject:\n{argument name=\"subject\" default=\"Adjusting sandals by the morning window\"}\n\nMain Figure:\nA woman sitting on a step near a bright large window in the center of the screen, leaning forward to reach for the thin sandal on her right foot. Full body shown wearing a pale beige camisole and white wrap-style shorts.\n\nPerson/Expression:\nThe woman bends her upper body forward, looking down at her feet. A small rounded face with a short jaw, long downcast eyes, thin eyebrows, a thin nose bridge, and calm reddish lips. Dark brown chin-length bob tucked behind the ear on the right side, with light thin bangs along the forehead. Makeup is very light and natural.\n\nClothing/Pose:\nA {argument name=\"clothing color\" default=\"beige-toned\"} ribbed camisole top with thin shoulder straps and a deep round neck, and white wrap-style shorts tied prominently at the right hip. Her right leg is bent and crossed over the left thigh, her right hand reaching down to the ankle strap, and her left arm resting along her knee. She is wearing low-heeled thin strap sandals.\n\nBackground/Lighting:\nThe background features a large window behind white curtains on the left, a bright stone floor, and a large ceramic pot with thin branches in the back right. Morning sun from the left creates soft highlights on the shoulders and legs, casting long window shadows on the floor.\n\nComposition/Camera:\n2:3 vertical orientation, capturing the full sitting body from a slightly higher eye level, focused on the person. The bent right knee is large in the center foreground, the left leg extends long toward the bottom left, and the interior background is calmly blurred.\n\nTexture/Style:\nA natural-light live-action photo balanced with pale ivory and skin tones. Softly and cleanly depicts the thin ridges of the fabric, the stone floor, and the skin.\n\nNegative:\nDo not break the posture of reaching for the right foot; do not make the face look toward the front.",
+    "title": "Morning Light Sandal Adjustment",
+    "description": "A prompt describing a serene morning scene of a woman adjusting her sandals by a large window with soft sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645598124_uod5y1_HQZYo58aIAEHsB9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32538,
+    "content": "A {argument name=\"character\" default=\"silver-haired witch\"} holding up a staff under {argument name=\"lighting effect\" default=\"purple moonlight\"}, with a mysterious smile on her face.",
+    "title": "Silver-Haired Witch in Moonlight",
+    "description": "A short and evocative prompt for generating an image of a silver-haired witch with a mysterious smile under purple moonlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645597692_i0ias6_HQhuDD_XEAALBrH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32546,
+    "content": "She looks up, her {argument name=\"gaze\" default=\"dark and bright eyes looking at you with deep affection\"}, the corners of her eyes slightly upturned, as if holding a pool of warm water. That gaze is soft and burning, with a hint of shyness, yet it cannot hide the longing and dependence within.",
+    "title": "Tender Expressive Woman Portrait",
+    "description": "A short, poetic prompt focusing on the emotional expression of a woman's eyes, conveying shyness, longing, and dependence.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645603232_sufdxj_HQgaV-RbkAA-NuU.jpg",
+      "https://cms-assets.youmind.com/media/1787645603306_vy55kv_HQga5K5bEAAt9Um.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32550,
+    "content": "Medium close-up portrait of a {argument name=\"ethnicity\" default=\"young South Asian woman\"} with {argument name=\"hair style\" default=\"long, textured, dark brown hair\"} flowing over her shoulder. She is wearing a simple black long-sleeve top and turning slightly to smile softly at the camera. The background is a {argument name=\"lighting\" default=\"cozy, warm-lit interior\"} featuring a soft glowing floor lamp, indoor house plants on a windowsill, framed wall art, and gentle natural light spilling in from a window on the side. Shallow depth of field, warm color grading, soft focus background, realistic photography, shot on 85mm lens, f/1.8, cinematic indoor lighting.",
+    "title": "Warm Interior South Asian Woman Portrait",
+    "description": "A high-quality portrait prompt for a young woman in a cozy, naturally lit indoor setting with a warm color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645606380_ejxoo5_HQfyT14XwAAHFGc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32551,
+    "content": "A {argument name=\"character\" default=\"medieval knight\"} riding a {argument name=\"creature\" default=\"giant goldfish\"} through a {argument name=\"location\" default=\"McDonald’s on Mars\"} while Shakespeare plays electric guitar.",
+    "title": "Surreal Knight on Mars",
+    "description": "A highly creative and absurd prompt featuring a medieval knight riding a goldfish through a fast-food restaurant on Mars.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645607103_enev0s_HQfOfmrawAAtIy1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32566,
+    "content": "Create a vertical full-body anime illustration on a clean white background: a delicate teenage girl floating weightlessly in the center, facing forward with a calm, slightly melancholic expression. She has {argument name=\"hair color\" default=\"short wavy black hair with soft blue highlights\"}, large clear blue eyes, pale skin, and a petite build. Dress her in a neat dark navy long-sleeve blouse with a white pointed collar and small front buttons, paired with a translucent layered pale blue tulle skirt that glows softly; add white knee socks and glossy dark navy loafers. Her arms hang slightly outward with relaxed open hands, legs together as if suspended above the ground, with a faint oval shadow far below her feet. Surround her with an elegant abstract spiral composition: multiple thin teal-blue ribbon lines orbit around her body in wide looping arcs from above her head down past her feet, like musical staff lines or flowing orbital paths. Include exactly three main visual element types around her: blue glossy berry-like spheres in varied sizes, fresh pale green vine tendrils with small leaves and droplets, and clusters of tiny teal-blue particles. The largest particle cluster should sit behind her right shoulder and upper torso, with smaller floating spheres distributed around the spiral. Use airy watercolor-and-digital-paint rendering, luminous cyan/teal/blue palette, soft gradients, fine linework, high detail, transparent watery textures, ethereal botanical sci-fi atmosphere, centered composition, no text, no border, no watermark.",
+    "title": "Floating Anime Girl with Teal Spirals",
+    "description": "Generates an ethereal full-body anime girl suspended among blue orbital ribbons, berry spheres, and green vine-like droplets for fantasy illustration use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645622449_z3iztl_HQfC1kYbkAAOE3D.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32542,
+    "content": "Subject:\n{argument name=\"subject\" default=\"White camisole in a dark alley\"}\n\nMain Figure:\nA vertical photo of a woman climbing stairs in a dark, narrow passage, captured with a close-up flash in the center of the screen. A white camisole and faded denim shorts emerge from the darkness.\n\nPerson/Expression:\nThe woman is slightly leaning forward, looking up at the camera with slightly parted lips. Oval face with smooth cheeks and a small jaw, wide eyes with thin straight eyebrows, a thin nose bridge, and glossy full lower lips. Near-black shoulder-length hair is parted near the center, with bundled bangs and messy strands across the cheeks. Thin black lines around the eyes, light pink on the cheeks.\n\nClothing/Pose:\nA white ribbed camisole top with thin shoulder straps and a low round neck, and light blue high-waisted denim shorts with frayed hems. She extends one arm to the bottom left to support herself on a handrail, bending both knees to climb the steps. White loose socks are visible at the bottom edge.\n\nBackground/Lighting:\nThe back left is almost black, with a small point light source and a damaged metal handrail visible. A gray wall with peeling and cracks looms on the right. A hard frontal flash strongly illuminates the skin, casting the background into deep shadows.\n\nComposition/Camera:\n3:4 vertical orientation, a close full-body-like composition looking up from a camera perspective lower than the waist. The face is in the upper half center, the right wall looms diagonally, and part of the left arm and leg continue off-screen. Focused on the person, creating a wide-angle-like sense of proximity.\n\nTexture/Style:\nFeatures the hard direct flash typical of night photography, grainy dark areas, and modest saturation. Only the skin and white clothing are bright and sharp.\n\nNegative:\nDo not change to a high-angle/bird's-eye view; no excessive makeup.",
+    "title": "Night Flash Portrait in Alleyway",
+    "description": "A high-contrast prompt for generating a nighttime photo of a woman in a white camisole and denim shorts, captured with a sharp camera flash on a narrow staircase.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645600316_rzxboy_HQZTX4DaoAA66h6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32510,
+    "content": "A unique {argument name=\"subject\" default=\"fantasy campaign scene of a majestic sailing ship\"} drifting calmly across a {argument name=\"sea type\" default=\"glassy, reflective sea\"} beneath a {argument name=\"sky style\" default=\"pastel sky\"}, reimagined with fresh visual storytelling and an entirely new composition. The sails shimmer with iridescent glow, catching soft atmospheric light as the vessel feels suspended between reality and dream, with a tranquil, magical realism atmosphere that remains serene yet distinctly original.\nEnvironment:\n• Vast open sea with mirror-like reflections, gentle ripples, and a horizon that feels expansive and cinematic\n• Fluffy cloud formations in layered pastel tones, creating depth without clutter\n• Avoid additional ships, landmasses, birds, or distracting objects that break the quiet solitude\nLighting:\n• Soft ethereal daylight with diffused illumination across sails, rigging, and water\n• Subtle rim light on the ship’s silhouette and delicate glow bloom around iridescent surfaces\n• No harsh shadows, no blown highlights, no aggressive contrast\nMaterials:\n• Sails with pearlescent, translucent fabric behavior and luminous color shifts\n• Dark polished wood hull with realistic grain and gentle specular highlights\n• Water with a smooth reflective surface and believable light scatter\nComposition:\n• Wide cinematic framing with the ship placed off-center for a more unique, editorial balance\n• Emphasize negative space in sky and water to heighten the dreamlike stillness\n• Calm horizontal composition with the vessel occupying a strong but elegant share of the frame\nMood:\nSerene, mystical, and quietly otherworldly with a fresh, unique fantasy-cinematic identity\nShot on 85mm lens, f/2.8, shallow depth of field, ultra-detailed, 8K realism",
+    "title": "Mystical Sailing Ship at Sea",
+    "description": "A serene and mystical prompt for generating a majestic sailing ship with iridescent sails on a reflective sea, perfect for dreamlike fantasy art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645573537_zj978o_HQe1-TKXQAAnej1.jpg",
+      "https://cms-assets.youmind.com/media/1787645573553_pfm7vh_HQe1UYVXsAApcts.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32559,
+    "content": "Create a side-by-side comparison diptych of 2 ultra-realistic full-body studio portraits separated by a thin vertical white divider. Show the same confident adult {argument name=\"subject\" default=\"Black man in his 20s\"} standing elegantly beside a tall wooden bar stool in both panels, facing the camera with a calm, self-assured expression and arms crossed. The aesthetic is sophisticated, masculine, powerful, polished, and premium, like a luxury corporate branding campaign or high-end men's fashion editorial. Use a warm seamless studio backdrop in caramel, tan, and beige tones with soft gradient lighting and subtle floor shadow. Left panel: the man wears a tailored {argument name=\"left suit color\" default=\"burnt orange cinnamon brown\"} suit with matching trousers, a cream crew-neck shirt, dark brown polished dress shoes, a silver wristwatch, and a wedding band; he leans slightly with one leg crossed in front, and a tall dark wooden bar stool with a round seat and four legs stands to his left. Right panel: the man wears a tailored {argument name=\"right suit color\" default=\"deep chocolate brown\"} suit with matching trousers, a cream crew-neck shirt, dark brown polished dress shoes, a gold wristwatch, and a ring; he stands with one leg crossed at the ankle, and a tall wooden bar stool with a round seat and four legs stands to his left. Count exactly 2 visible people total, exactly 2 wooden bar stools total, exactly 2 crossed-arm poses, exactly 2 cream shirts, exactly 2 suits, exactly 2 wristwatches, and exactly 1 vertical divider. Use realistic skin texture, crisp tailoring, premium fabric detail, natural hands, sharp facial features, short neat black hair, clean grooming, soft studio shadows, 85mm portrait lens look, full-body framing from head to shoes, high-resolution fashion photography, no text, no logos, no watermark.",
+    "title": "Luxury Men's Fashion Diptych",
+    "description": "Generates a premium side-by-side studio portrait comparison of a stylish man in warm brown suits beside wooden bar stools.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645616971_c6du22_HQehRJ3XsAABczq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32531,
+    "content": "A cinematic dark editorial portrait of a young woman seated against a textured {argument name=\"background color\" default=\"deep crimson-red\"} wall, dressed in an elegant black outfit with a crisp white collared shirt underneath. Her dark hair is styled in a {argument name=\"hairstyle\" default=\"sleek high bun\"} with soft strands framing her face, and she wears delicate earrings, layered silver necklaces, and statement rings.\n\nShe holds an eerie metallic {argument name=\"prop\" default=\"theatrical mask\"} beside her face, featuring a silver-and-black design with sculptural facial details and a dramatic black eye area. Her expression is calm, mysterious, and intense, gazing directly toward the camera.\n\nWarm directional lighting creates strong dramatic shadows of her silhouette and the mask on the red wall behind her. Several dark metallic masks and abstract sculptural objects are subtly visible around the edges of the scene. Dried branches and thin twigs appear blurred in the foreground, adding depth and an artistic theatrical atmosphere.\n\nDark luxury fashion editorial aesthetic, gothic art photography, rich crimson and black color palette, moody cinematic lighting, high contrast, shallow depth of field, realistic skin texture, fine facial details, soft film grain, dramatic composition, photorealistic, vertical 9:16 portrait.",
+    "title": "Dark Gothic Editorial Mask Portrait",
+    "description": "A moody fashion editorial prompt featuring a dark cinematic portrait of a woman with a theatrical mask against a crimson wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645586590_ghp87a_HQeg-BQbQAAVrgU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32535,
+    "content": "Subject: Floral camisole and morning window\n\nMain Subject:\nA lone woman sitting on the floor by a window in the center of the frame, with both knees raised to her chest. Dressed in a {argument name=\"outfit\" default=\"floral print camisole top and white shorts\"}, she looks at the camera from between {argument name=\"background\" default=\"a wooden bookshelf and white lace curtains\"}.\n\nPerson/Expression:\nHer face is tilted slightly to the left, looking directly at the camera with a peaceful expression and slightly parted lips. She has a rounded oval face, a small chin, almond eyes with thin relaxed eyebrows, a short neat nose, and pale coral lips with a thinner upper lip and a glossy lower lip. Light pink cheeks and dark brown shoulder-length straight hair with sheer bangs.\n\nClothing/Pose:\nA camisole top with small orange, green, and blue flowers on an ivory background and white shorts. The top features thin ribbon straps tied at the shoulders, shirring at the bust with small center buttons, and scalloped ruffle edges. She sits with both knees raised high together, her hands near her ankles and toes, with her bare feet facing the foreground.\n\nBackground/Light:\nTo the left is a wooden bookshelf with books, a wicker basket, embroidered lace, and a white vase; to the right is a white floral lace curtain and a large window, with a cream rug below. Warm, soft direct light enters from the window on the right, casting bright light on her face, shoulders, knees, and the rug.\n\nComposition/Camera:\n3:4 vertical orientation, full-body shot from a horizontal eye-level camera close to the floor. The person occupies most of the center, with both knees raised high under her face in the center foreground, and her bare feet appearing large near the bottom edge. Focus is on her face and upper body, with the toes in front and the view outside the window softly blurred.\n\nTexture/Style:\nA photorealistic indoor photograph with morning natural light. Fine detail in the floral fabric, shirring, lace curtains, wooden shelves, wicker, and rug in soft warm colors.\n\nNegative:\nDo not omit the tied ribbons on the shoulders; do not make the raised knees and bare feet in the foreground smaller.",
+    "title": "Bookshelf and Lace Window Morning Portrait",
+    "description": "A cozy morning scene prompt featuring a woman in a floral camisole sitting by a bookshelf near a lace-curtained window.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645594233_grx9dq_HQG7ZRvbsAAUoFg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32462,
+    "content": "Side-profile medium shot of a young {argument name=\"subject\" default=\"East Asian woman\"} with messy dark hair tied in a loose textured updo with face-framing strands. She is wearing a {argument name=\"outfit\" default=\"olive green crewneck knit sweater\"} layered over a delicate white lace mock-neck top with lace cuffs peeking out at her wrist. Accentuated with elaborate baroque pearl drop earrings and a pearl ear cuff. She has her hand resting near her chin, looking slightly away from the camera. Cozy, warm ambient lighting indoors against a {argument name=\"background\" default=\"beige ceramic tiled bathroom wall\"} background, vintage aesthetic, soft shadows, filmic texture, high detail, candid mood, 35mm photograph, shot on Kodak Portra 400. Beautiful vintage-inspired lighting",
+    "title": "Vintage 35mm Aesthetic Candid Portrait",
+    "description": "A film-textured portrait of a woman in a knit sweater and pearls, shot with a 35mm aesthetic and cozy ambient lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645602103_wxveym_HQeDXE0WcAAmxyy.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 32495,
-    "content": "Create a warm, cinematic lifestyle photograph of a young couple having a quiet sunrise picnic on a hillside overlook. The scene is backlit by a low golden sun in the upper right, with blown-out highlights, soft haze, misty valleys and distant mountains in the background, and a large leafy tree canopy framing the top and left side in dark silhouette. The mood should feel candid, intimate, unpolished, and natural, like a real travel photo shot on a digital camera with soft filmic color grading.\n\nSubjects: Two people. A young woman with {argument name=\"hair color\" default=\"long dark brown hair\"} sits upright on a beige picnic blanket, slightly left of center, wearing a sheer off-white long-sleeve cropped blouse and a white textured skirt. She gazes softly off to the left of the camera with a calm, dreamy expression. A young man with tousled dark hair reclines beside her with his head resting against her lap and torso angled toward the camera, wearing a dark black T-shirt and dark pants. He looks up at her affectionately while holding one gray ceramic mug in his right hand. The woman’s hand rests gently near his hair.\n\nForeground picnic setup: Include exactly 14 visible prop groups: 1 beige blanket spread across the ground, 1 light pillow at far left, 1 open sketchbook or magazine near the woman’s left hand, 1 black camera at the lower left edge, 1 plate of fruit with green grapes and small oranges in front of the couple, 1 black notebook labeled {argument name=\"notebook text\" default=\"Lam & Ty / HELLO JOURNEY\"}, 1 pale book or folder at the bottom left labeled {argument name=\"book title\" default=\"THE PATTERN\"}, 1 small glass candle near the bottom center, 1 small corked glass bottle beside it, 1 wooden breakfast tray in the lower right, 1 open handwritten journal on the tray, 1 pen laid diagonally across the journal, 1 second gray ceramic mug on the tray, and 1 open laptop at the far lower right.\n\nSign text: Place a small framed white sign leaning beside the laptop. It must read exactly: {argument name=\"sign text\" default=\"TODAY:\\n- WORK A LITTLE\\n- CREATE A LITTLE\\n- LOVE A LOT\\n♡\"}. Keep the lettering casual and handwritten.\n\nLighting and camera: Vertical 4:5 composition, eye-level to slightly low angle, shallow depth of field, realistic skin texture, soft lens flare, golden-orange sunrise tones, strong backlight and haze, natural shadows on the subjects’ faces, no studio polish, no artificial perfection, no extra people, no city buildings, no watermark.",
-    "title": "Backlit Sunrise Couple Picnic",
-    "description": "A cinematic golden-hour couple picnic photo with misty mountain scenery, handwritten props, and an intimate candid travel mood.",
+    "content": "Create a warm, realistic lifestyle photo of a romantic sunrise picnic on a hilltop overlook, featuring {argument name=\"couple description\" default=\"a young East Asian couple\"} sitting on a beige blanket under a large leafy tree. The woman sits upright on the left in a white textured long-sleeve cropped blouse and matching white skirt, long dark hair loose, gazing softly toward the glowing horizon; the man reclines with his head against her lap, wearing a black T-shirt and dark pants, looking up at her while holding a gray ceramic mug. The background is a misty valley with layered hills, golden fog, and a bright low sun in the upper right creating blown-out highlights, haze, rim light, and natural lens flare. Use an unpolished candid-photo feel rather than a perfect studio look, with soft grain, realistic skin texture, slightly deep shadows under the tree canopy, and backlit golden-hour atmosphere. Foreground picnic objects should include exactly 13 visible discrete items: 2 gray mugs, 1 plate of green grapes and oranges, 1 open handwritten journal on a wooden tray table with 1 pen laid across it, 1 open laptop at the lower right, 1 framed handwritten sign reading {argument name=\"sign text\" default=\"TODAY: - WORK A LITTLE - CREATE A LITTLE - LOVE A LOT ♡\"}, 1 black travel journal labeled {argument name=\"journal text\" default=\"Lam & Ty Wild Journey\"}, 1 white book labeled {argument name=\"book title\" default=\"THE PATTERN\"}, 1 camera at the lower left edge, 1 lit candle in a glass jar, 1 small glass bottle, and 1 folded cloth napkin. Compose in vertical 4:5 portrait orientation, couple placed left-center, sun and hazy landscape filling the right side, intimate peaceful mood, cinematic documentary photography, shallow depth of field, warm amber color grading, natural imperfections, no extra people, no watermark.",
+    "title": "Golden Sunrise Couple Picnic",
+    "description": "A cinematic backlit lifestyle scene of a young couple sharing a cozy hilltop sunrise picnic with journals, mugs, fruit, and creative workspace details.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559685839_s4gg94_HQeB5S_a0AAmMbK.jpg",
-      "https://cms-assets.youmind.com/media/1787559685950_42jaj8_HQeB5zobMAAT43M.jpg"
+      "https://cms-assets.youmind.com/media/1787645628138_s0pci6_HQeB5S_a0AAmMbK.jpg",
+      "https://cms-assets.youmind.com/media/1787645628552_2px9gf_HQeB5zobMAAT43M.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 32449,
-    "content": "Preserve the original scene, composition, perspective, buildings, streets, objects, lighting, shadows, materials, and photographic textures exactly. Change only the {argument name=\"subject\" default=\"characters\"} into {argument name=\"style\" default=\"minimalist black-and-white hand-drawn stickers\"}, keeping their poses, actions, proportions, clothing outlines, number, and positions unchanged. Use rough single-line illustrations with only pure black and white no gray,color, or gradients with clean white sticker borders. Create a realistic high-resolution photo background contrasted with flat 2D sketch characters, in a minimalist graffiti/INS editorial collage style. Sharp, detailed, photorealistic background, 8K look. Aspect ratio: 3:4 / 9:16.",
-    "title": "Photo to Sticker Transformation",
-    "description": "A creative transformation prompt for GPT Image 2 that converts characters in a realistic photo into minimalist 2D hand-drawn stickers while preserving the background.",
+    "id": 32448,
+    "content": "Contemporary mixed-media urban painting of {argument name=\"subject\" default=\"a human\"}, wearing {argument name=\"clothing\" default=\"modern streetwear\"}, {argument name=\"pose\" default=\"sitting\"} beside {argument name=\"animal\" default=\"a cat\"} in {argument name=\"scenery\" default=\"a rainy city street\"}. Use {argument name=\"colors\" default=\"vibrant neon accents\"} over a cold grey and white base, with harsh black ink silhouettes, loose charcoal sketch marks, scraped acrylic blocks, translucent color washes, circular graphic shapes, vertical paint drips, splatter noise, unfinished collage edges, high-contrast negative space, semi-abstract anatomy, expressive brush texture, and a raw gallery-wall composition. The background is {argument name=\"background\" default=\"a layered urban texture\"}, minimal but layered with stains, smears, thin wires, broken rectangles and floating color dots. Vertical 4:5.",
+    "title": "Mixed-Media Urban Abstract Portrait",
+    "description": "A sophisticated prompt for creating semi-abstract urban mixed-media paintings, combining charcoal sketches, acrylic blocks, and expressive ink splatters.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559646012_x6nuey_HQdsTcgXUAAbcld.jpg",
-      "https://cms-assets.youmind.com/media/1787559646813_davi7g_HQdsUWcXoAAKnrX.jpg"
+      "https://cms-assets.youmind.com/media/1787645571891_ptaq3w_HQdrr85WcAAu80K.jpg",
+      "https://cms-assets.youmind.com/media/1787645571908_xnnnd1_HQdrr86WIAE_hVJ.jpg",
+      "https://cms-assets.youmind.com/media/1787645571962_zly9h3_HQdrr8_XUAA2-Iy.jpg",
+      "https://cms-assets.youmind.com/media/1787645572837_jokhn2_HQdrr85XYAA2efu.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
   },
   {
     "id": 32418,
-    "content": "Create a photorealistic vertical 9:16 lifestyle portrait of a {argument name=\"subject\" default=\"young Korean woman\"} sitting comfortably on a cozy cream-colored sofa at home. She has long, naturally wavy dark-brown hair, a soft smile, natural makeup, and wears a light-blue baseball cap, {argument name=\"outfit\" default=\"oversized pastel-blue hoodie, and a white ruffled skirt\"}. She gently cradles a {argument name=\"pet\" default=\"small fluffy white kitten\"} in her arms, with one hand softly resting on the kitten’s head. A pastel-pink tote bag sits beside her.\nThe background should feel like a warm, stylish Korean home: soft beige walls, wooden shelves with books and small plants, framed wall pictures, a warm table lamp, a wooden desk, large window with sheer white curtains, indoor greenery, cream cushions, and a cozy knitted throw. Use soft natural daylight mixed with warm ambient lighting, realistic skin and hair texture, shallow depth of field, cinematic composition, soft pastel colors, and high-end DSLR photography quality.",
-    "title": "Cozy Home Lifestyle Portrait with Kitten",
-    "description": "A high-end lifestyle photography prompt for a vertical portrait of a woman in a warm, stylish home setting, cuddling a kitten.",
+    "content": "Create a photorealistic vertical 9:16 lifestyle portrait of a young Korean woman sitting comfortably on a cozy cream-colored sofa at home. She has long, naturally wavy dark-brown hair, a soft smile, natural makeup, and wears a {argument name=\"hat\" default=\"light-blue baseball cap\"}, {argument name=\"top\" default=\"oversized pastel-blue hoodie\"}, and a {argument name=\"skirt\" default=\"white ruffled skirt\"}. She gently cradles a small fluffy white kitten in her arms, with one hand softly resting on the kitten’s head. A pastel-pink tote bag sits beside her.\nThe background should feel like a warm, stylish Korean home: soft beige walls, wooden shelves with books and small plants, framed wall pictures, a warm table lamp, a wooden desk, large window with sheer white curtains, indoor greenery, cream cushions, and a cozy knitted throw. Use soft natural daylight mixed with warm ambient lighting, realistic skin and hair texture, shallow depth of field, cinematic composition, soft pastel colors, and high-end DSLR photography quality.",
+    "title": "Lifestyle Portrait of Korean Woman with Kitten",
+    "description": "A photorealistic photography prompt for a cozy lifestyle portrait of a young Korean woman holding a kitten, featuring warm ambient lighting and a stylish home background.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559614608_60x5iy_HQdngDTbIAAtiPQ.jpg"
+      "https://cms-assets.youmind.com/media/1787645588104_e4z5ms_HQdngDTbIAAtiPQ.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 32416,
+    "content": "Use the provided reference image as the main identity and pose reference. Transform the person into a {argument name=\"style\" default=\"cute, playful, hand-drawn doodle illustration\"} while preserving their recognizable identity.\n\nSTYLE:\n- Adorable handmade sketchbook doodle aesthetic\n- Simple {argument name=\"line art\" default=\"black pen/pencil line art\"} with slightly rough, imperfect strokes\n- Childlike, charming, whimsical drawing style\n- Minimal coloring with {argument name=\"colors\" default=\"soft pastel accents\"}\n- White/off-white paper background\n- Visible hand-drawn texture and natural sketch imperfections\n- Avoid polished digital vector art or overly clean anime rendering\n\nCHARACTER:\n- Preserve the person's key facial features, face shape, hairstyle, hair length, clothing, accessories, and overall appearance from the reference\n- Keep the person's recognizable characteristics rather than making them look like a generic character\n- Use simplified cute proportions with a slightly oversized head and expressive eyes\n- Large round hand-drawn eyes, tiny nose, small cheerful mouth, and subtle blush on the cheeks\n- Keep the original hairstyle recognizable while translating it into loose sketchy strokes\n\nPOSE & EXPRESSION:\n- Preserve the main pose and body direction from the reference\n- Give the character a cute, cheerful, playful expression\n- Natural hand gestures and expressive body language\n- Add small doodle elements around the character that match the mood, such as hearts, stars, crowns, sparkles, motion lines, flowers, or tiny symbols\n\nDRAWING DETAILS:\n- Black sketch lines should be slightly uneven, textured, and imperfect\n- Use loose cross-hatching and scribbled shading where appropriate\n- Pastel pink, yellow, blue, or other soft colors may be used sparingly for cheeks and decorative doodles\n- Keep the illustration mostly monochrome with selective colorful accents\n- White background with plenty of negative space\n- Make it feel like someone personally drew the character with a black marker or pencil on paper\n\nCOMPOSITION:\n- Center the character prominently\n- Keep the framing similar to the reference photo\n- Add a few cute surrounding doodles without distracting from the character\n- Clean, simple composition suitable for a profile picture, sticker, social media post, or cute illustration\n\nIMPORTANT:\nDo not make the character photorealistic. Do not make it overly polished, 3D, glossy, or professionally vectorized.",
+    "title": "Hand-Drawn Sketchbook Doodle",
+    "description": "A GPT Image 2 prompt for transforming a reference image into an adorable, handmade sketchbook doodle illustration with selective colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645594466_k5rqf9_HQdYQQ5bMAAM0CA.jpg",
+      "https://cms-assets.youmind.com/media/1787645594366_opxmf1_HQdYQRFbUAAElzy.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 32417,
@@ -53,22 +260,22 @@
   },
   {
     "id": 32460,
-    "content": "Subject: \n{argument name=\"subject\" default=\"White hat in a lemon field\"}\n\nMain Character:\nA single woman standing on a path in the middle of a lemon field, holding a wicker basket full of fruit. She is wearing a {argument name=\"outfit\" default=\"white lace dress and a straw hat\"} and is reaching one arm up toward a lemon on a tree.\n\nPerson/Expression:\nFace is tilted slightly to the left from the front, looking at the camera with a small smile. Rounded oval face with a small chin, almond eyes with thin eyebrows, a small well-shaped nose, pale coral lips, and pale peach cheeks. Dark brown hair is tied back low, with thin bangs and long strands hanging down her cheeks.\n\nClothing/Pose:\nAn ivory-white lace camisole dress. Features thin shoulder straps, a deep V-neckline, a band crossing from under the chest to the waist with a ribbon on the right hip, and a thigh-length wavy lace hem. A wide-brimmed straw hat with a white flower ribbon and thin white-strap sandals. The right arm reaches for a fruit on the upper-left branch, the left hand holds a large wicker basket at the hip, and she stands with her legs crossed at the ankles.\n\nBackground/Light:\nA lemon tree with many yellow fruits and low stone walls on the left, a path through the trees in the center background, small white and pink flowers, fruit trees, and a tiled-roof building on the right. Hard direct sunlight enters from above through the leaves, casting fine dappled light on the person, basket, and path.\n\nComposition/Camera:\n3:4 vertical ratio, captured from head to toe at horizontal eye level. The person occupies the center, with the extended right hand in the upper left, the basket on the right hip, and the path converging in the center background. Focus on the person and the lemons in the foreground, with the trees in the background slightly blurred.\n\nTexture/Style:\nA bright, photorealistic {argument name=\"style\" default=\"rural lifestyle photograph\"}. Natural, high-saturation, and detailed depiction of lace, straw, wicker, glossy lemons, leaves, stone, and soil.\n\nNegative:\nDisjointed hand reaching for lemons; do not make the fruit-filled basket too small.",
-    "title": "Lemon Harvest Rural Portrait",
-    "description": "A detailed prompt for generating a photorealistic rural scene of a woman harvesting lemons in a sun-drenched field.",
+    "content": "Subject: White hat in a lemon grove\n\nMain Subject:\nA lone woman standing on a path in a lemon grove in the center of the frame, holding a wicker basket full of fruit. Dressed in a {argument name=\"outfit\" default=\"white lace dress\"} and a {argument name=\"hat\" default=\"straw hat\"}, she reaches up with one arm toward a lemon on a tree.\n\nPerson/Expression:\nHer face is tilted slightly left from the center, looking at the camera with a small smile. She has a rounded oval face, a small chin, almond-shaped eyes with thin eyebrows, a small neat nose, pale coral lips, and light pink cheeks. Her dark brown hair is in a low bun, with thin bangs and long strands hanging down her cheeks.\n\nClothing/Pose:\nAn ivory-white lace camisole dress featuring thin straps, a deep V-neckline, a band crossing from under the bust to the waist with a ribbon on the right hip, and a thigh-length scalloped lace hem. A wide-brimmed straw hat with a white floral ribbon and thin white strap sandals. Her right arm reaches toward a branch on the upper left to touch a fruit, while her left hand holds a large wicker basket at her side. She stands with her legs crossed at the ankles.\n\nBackground/Light:\nTo the left is a {argument name=\"fruit tree\" default=\"lemon tree with many yellow fruits\"} and a low stone wall; in the center distance is a path through a grove; on the right are small white and pink flowers, fruit trees, and a building with a tiled roof. Sharp direct sunlight from above filters through the leaves, casting fine dappled light on the person, the basket, and the path.\n\nComposition/Camera:\n3:4 vertical orientation, full-body shot from a horizontal eye-level camera. The person occupies most of the center, with the extended right hand at the upper left, the basket at the right hip, and the grove path converging in the center background. Focus is on the person and the lemons in the foreground, with distant trees softly blurred.\n\nTexture/Style:\nA bright, photorealistic pastoral landscape photograph. Fine detail in the lace, straw, wicker, glossy lemons, leaves, stone, and soil with natural high saturation.\n\nNegative:\nDo not deform the hand touching the lemon; do not make the fruit-filled basket smaller.",
+    "title": "Lemon Harvest Garden Portrait",
+    "description": "A scenic photorealistic prompt of a woman harvesting lemons in a sun-dappled orchard.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559656254_nfu1kl_HQGs4Bzb0AApcOF.jpg"
+      "https://cms-assets.youmind.com/media/1787645592534_8m78d1_HQGs4Bzb0AApcOF.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 32489,
-    "content": "Create a vibrant square anime gacha reaction poster in a high-energy Japanese manga style. The main subject is a cute young anime girl with {argument name=\"hair color\" default=\"white/silver\"} very long hair, detailed twin braids mixed with loose flowing strands, blue eyes, pale skin, blush, and a playful wink. She is posed close to the camera giving a big thumbs-up with one hand while the other hand is clenched in excitement, smiling with an open mouth. Dress her in a sporty cropped zip-up jacket in bright cyan and white, oversized sleeves, white short shorts with belts and straps, blue jewel accessories, star hair ornament, earrings, ribbons, and small flower decorations woven into her braids. Use a dynamic comic composition with the character occupying the right and center of the canvas and a huge vertical Japanese slang reaction word on the left reading {argument name=\"main reaction text\" default=\"それな!\"}; make the letters thick, bold, blue fill with white inner border and heavy black outer outline, halftone texture, slight tilt, and impact emphasis. Add a top-left rounded speech-bubble label containing exactly two text elements: {argument name=\"era label\" default=\"令和\"} and {argument name=\"series title\" default=\"流行語リアクションガチャ\"}. Add a top-right collectible sticker badge reading {argument name=\"rarity badge text\" default=\"SUPER RARE\"}, with a small crown and colorful neon outline. Background: bright cyan pop-art halftone pattern with white splashes, stars, hearts, speed lines, comic burst shapes, exclamation marks, and sticker-like outlines. Use crisp manga line art, glossy digital coloring, clean cel shading, high detail, energetic idol-gacha aesthetic, saturated blue-and-white palette, square 4:5 social-media poster crop. Ensure the image contains exactly four visible text groups: the top-left era label, the top-left series title, the large reaction word, and the top-right rarity badge; avoid adding any other readable text, watermark, or logo.",
-    "title": "Anime Slang Reaction Gacha Poster",
-    "description": "Generates a colorful Japanese anime-style gacha reaction poster with a customizable character, slang phrase, era label, and rarity badge.",
+    "content": "Create a square, high-energy anime trading-card style illustration of a cheerful young female idol reacting to a randomized trendy phrase. The character is a cute anime girl named {argument name=\"character name\" default=\"Rena\"} with very long silver-white hair, twin braids mixed with loose flowing strands, blue eyes, pale skin, blush, and a playful wink. She wears a sporty cropped white zip-up jacket with bright cyan sleeves and trim, white belted shorts, blue gemstone accessories, a blue star hair clip, and small decorative flowers woven into her braids. Pose her close to the camera in a dynamic three-quarter composition, giving a huge thumbs-up toward the viewer with one hand while the other hand is clenched in an excited fist. Use bold manga line art, glossy modern anime rendering, halftone dots, speed lines, stickers, sparkles, stars, hearts, and explosive comic effects on a bright cyan-and-white background. Add one large vertical Japanese comic sound-word on the left, exactly 「それな！」, in huge blue letters with white fill highlights, thick black outline, and drop shadow. Add a rounded label in the upper left reading 「令和」 and 「流行語リアクションガチャ」. Add one colorful badge in the upper right reading “SUPER RARE” with a tiny crown. Overall mood: ultra-cute, energetic, celebratory, gacha-result reveal, Reiwa slang reaction. Use exactly these visible text elements: 1 large phrase 「それな！」, 1 era tag 「令和」, 1 title label 「流行語リアクションガチャ」, and 1 rarity badge “SUPER RARE”. Keep the palette dominated by cyan, white, black outlines, and small yellow accents; no watermark, no extra characters, no additional text.",
+    "title": "Reiwa Slang Reaction Gacha Card",
+    "description": "Generates a vibrant anime gacha-result card featuring a winking idol reacting to a Japanese slang phrase with bold comic typography.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559681164_ezl570_HQaZwyKbMAAq3oJ.jpg",
-      "https://cms-assets.youmind.com/media/1787559681568_q8tmq1_HQaZ6ldbkAAIhgd.jpg"
+      "https://cms-assets.youmind.com/media/1787645617298_mxeh4n_HQaZwyKbMAAq3oJ.jpg",
+      "https://cms-assets.youmind.com/media/1787645617361_vzv7ai_HQaZ6ldbkAAIhgd.jpg"
     ],
     "needReferenceImages": true
   },
@@ -83,14 +290,56 @@
     "needReferenceImages": false
   },
   {
-    "id": 32474,
-    "content": "Create a photorealistic food photography image of {argument name=\"dish\" default=\"tamago kake gohan, Japanese rice with raw egg\"} on a warm wooden table. The main subject is exactly 1 ceramic rice bowl centered slightly low in the frame, filled with glossy steamed white rice and topped with exactly 1 raw egg: a vivid orange whole yolk in the center with translucent egg white spreading into the rice, lightly tinted by soy sauce. Include subtle stringy egg-white details and wet highlights on the rice for realism. The bowl is beige speckled stoneware with dark vertical stripe markings around the outside and a dark rim, viewed from a close three-quarter overhead angle. Add exactly 3 supporting table items: on the left rear, 1 small glass soy sauce bottle filled with dark liquid and softly out of focus; on the right rear, 1 rustic ceramic bowl containing exactly 3 brown eggs, partially cropped and softly blurred; in the front left, exactly 1 pair of wooden chopsticks resting diagonally on exactly 1 small dark chopstick rest. Use natural morning window light from the upper left, shallow depth of field, warm tones, crisp focus on the yolk and rice, realistic ceramic texture, no people, no text, no labels, no watermark.",
-    "title": "Photorealistic Tamago Kake Gohan",
-    "description": "A realistic close-up food photography prompt for Japanese rice topped with raw egg and simple breakfast table props.",
+    "id": 32544,
+    "content": "A beautiful young {argument name=\"nationality\" default=\"East Asian\"} woman with fair skin, long black hair styled in two high buns adorned with colorful pastel flower clips and pink ribbons, sitting on the floor in a bright, dreamy pastel {argument name=\"room style\" default=\"kawaii bedroom\"}. She is smiling gently at the camera while holding a small round {argument name=\"object\" default=\"birthday cake\"} with pink and blue frosting, macarons, and a single lit candle on a white plate. \n\nShe wears a light yellow sundress with tiny colorful patterns, a soft oversized light blue fuzzy cardigan slipping off one shoulder, and matching light blue knee-high socks. Natural sunlight streams through window blinds, casting soft striped shadows across her and the room.\n\nThe cozy room is filled with cute decorations: a giant cream-colored teddy bear with a yellow bow beside her, balls of pastel yarn (pink, yellow, mint, purple) scattered on a patterned blanket, a two-tiered stand with macarons and mini desserts, a doll in a white dress on a shelf, fairy lights, a \"Happy Birthday\" card, and soft plushies. The overall aesthetic is ultra-cute, dreamy, soft pastel colors, warm golden hour lighting, highly detailed, photorealistic, cinematic composition, 8k quality",
+    "title": "Dreamy Pastel Kawaii Bedroom Portrait",
+    "description": "A soft, cute aesthetic scene of a young woman in a pastel bedroom holding a birthday cake, featuring warm golden hour lighting and cozy decorations.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787559671891_rx9ac1_HQcvI6qbsAApsvf.jpg"
+      "https://cms-assets.youmind.com/media/1787645601823_s20hx0_HQczYnPaUAAq0S2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32414,
+    "content": "Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. Use my pic face {argument name=\"subject description\" default=\"A young man with black hair, a beard, and a silver watch\"} is taking a mirror selfie using his dark smartphone, side his face with the phone. He is wearing a {argument name=\"outfit\" default=\"dark blue polo t-shirt with beige trim and beige trousers\"}. He is standing outdoors with {argument name=\"background\" default=\"lush green plants\"} around him. Behind him, there is a gazebo with a golden dome roof, decorated with blue, white, and red balloon clusters. This is a high-quality, sharp-focus photo with natural lighting.",
+    "title": "Reference-Based Identity Preservation Portrait",
+    "description": "A prompt designed to preserve facial identity and specific details from a reference image while placing the subject in a new setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645608440_100clp_HQcyrLrb0AEAKos.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 32547,
+    "content": "A photorealistic vertical portrait of a {argument name=\"subject\" default=\"bearded man with styled brown hair\"} in a {argument name=\"clothing\" default=\"black tank top\"}, lying on his back in dry savanna grass during golden hour. His head rests near a DSLR camera with a telephoto lens. He gently touches the chin of a {argument name=\"animal\" default=\"large male lion\"} standing over him, their faces inches apart in a calm, trusting moment. A lion cub sits behind the man's head, looking directly at the camera. Warm sunset lighting, soft dust particles in air, blurred acacia trees and golden plains in background. Shot with shallow depth of field, cinematic, 8K, National Geographic style. Size 3:4 image generate",
+    "title": "Photographer with Lion Cub in Savanna",
+    "description": "A cinematic, National Geographic style portrait of a man lying in the savanna grass interacting with a large male lion and a cub.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645604843_g2lfmd_HQcyt6uaoAAq1wD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32474,
+    "content": "Create a realistic food photography image of {argument name=\"dish\" default=\"tamago kake gohan, Japanese steamed white rice topped with a raw egg\"} in a rustic ceramic bowl. The bowl is centered in the foreground on a warm wooden table, filled with glossy short-grain white rice and one cracked raw egg on top: a vivid orange yolk sitting intact in the middle, surrounded by translucent egg white spreading into the rice with a light soy-sauce tint. Use a shallow depth of field and natural soft window light, with appetizing highlights on the yolk and individual rice grains clearly visible. In the background, place exactly 2 supporting props: a small glass soy sauce dispenser with dark liquid on the left, slightly blurred, and a ceramic bowl containing exactly 3 brown eggs on the right, also blurred. In the lower left foreground, include exactly 1 pair of wooden chopsticks resting diagonally beside a small dark chopstick rest. Style the scene as a high-resolution Japanese home breakfast photo, warm tones, realistic textures, no text, no hands, no people, no packaging, no extra utensils.",
+    "title": "Tamago Kake Gohan Food Photo",
+    "description": "A realistic Japanese breakfast food photo featuring raw egg over steamed rice with soy sauce and simple tabletop props.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645620742_9i0vwv_HQcvI6qbsAApsvf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32549,
+    "content": "[Character] Image 1 [Signature] In the lower right, there's a small Threads logo and a small white handwritten signature \"CHAse\" above it.\n\n[Pose and Expression]\nPose and Composition: A medium bust shot centered on the figure leaning against a wall covered in newspapers.\nPosture: Leaning shoulders and head against the vintage newspaper wall on the left, tilting the head back and gazing dreamily into the camera lens.\nExpression: A dreamy expression with a wistful, nostalgic look and slightly parted red lips. Creates an aura reminiscent of a scene from a classic film.\n\n[Costume and Props]\nClothing: A simple {argument name=\"top\" default=\"pure white/ivory sleeveless tank top\"} that naturally exposes the slender shoulder line.\nProps: \nPendant Light: A black matte vintage cone-shaped lamp hanging above the head acts as an intense retro cinematic object.\nVintage Newspaper Wall: {argument name=\"background\" default=\"Old newspapers with Hanja calligraphy printing covering the entire left wall\"} add a unique retro analog feel.\nNecklace: A slender silver pendant necklace slightly exposed below the neckline adds sophisticated detail.\n\n[Hair and Makeup Details]\nHair: A messy, naturally fluttering deep brown / jet black {argument name=\"hairstyle\" default=\"long natural wave\"}. Thin loose strands falling over the forehead and cheeks maximize the dreamy still-cut aesthetic.\nMakeup: A smooth skin base glowing under warm overhead lighting with shaded eye makeup. The lips are highlighted with a moist, glossy deep red/coral for a charming focal point.\n\n[Lighting and Shadows]\nLight Source: An intense golden yellow/amber spotlight (Top-down Key Light) pouring down from the lamp positioned right above the person.\nEffect: Creates serene highlights on the newspaper wall, forehead, cheeks, lips, and shoulders, while the right side of the screen and deep background sink into deep darkness for dramatic low-key chiaroscuro lighting.\n\n[Texture and Color Mood]\nColors: A '90s Hong Kong Cinematic' mood with warm golden amber and red from the light and lips, faded beige from newspapers, and deep teal/black shadows.\nTexture: Faded, rough paper texture of old newspapers, matte steel surface of the light fixture, and cinematic film grain texture on skin and background.\n\n[Film and Camera Angle]\nComposition: A horizontal portrait at eye-level, capturing the heavy aesthetic of the lighting and newspaper wall.\nFeatures: Shallow depth of field (Shallow DoF) from a cinematic large-aperture lens, with sharp focus on features and loose hair strands, while the background is dreamily out of focus.\n\n[Background Layout]\nSpace: A classic indoor set reminiscent of an alleyway in a 90s film.\nDetails: The left frame is filled with the classic newspaper wall, while the lower right background features silhouettes of stacked boxes and objects for narrative depth.",
+    "title": "90s Hong Kong Cinematic Retro Portrait",
+    "description": "A dreamy, low-key portrait style inspired by 90s Hong Kong cinema, featuring vintage newspaper walls and amber spot lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645605019_wtfgyg_HObkG3ba4AEBGxJ.jpg",
+      "https://cms-assets.youmind.com/media/1787645604972_6p0ynx_HObkG3caYAEx-lG.jpg",
+      "https://cms-assets.youmind.com/media/1787645605230_bbs6vm_HObkG3cagAEsIIe.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 32450,
@@ -100,6 +349,16 @@
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1787559649154_3ycb1j_HQcfFg4WIAAo9n8.jpg",
       "https://cms-assets.youmind.com/media/1787559648875_p7kp1m_HQcfFhAW4AAovvc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32534,
+    "content": "Subject: Morning window and white lace relaxation\n\nMain Subject:\nA lone woman sitting on a plush white rug in the center of the frame. Dressed in a {argument name=\"outfit\" default=\"white lace bra top and a light wrap skirt\"}, she looks at the camera with one knee raised in a morning room with wood and plants.\n\nPerson/Expression:\nHer face is tilted slightly to her left, looking straight at the camera with a calm expression and slightly parted lips. She has a rounded oval face, a small chin, almond-shaped eyes with relaxed thin eyebrows, a short slender nose, glossy pale rose lips, and light pink cheeks. Her dark brown shoulder-length bob has sheer bangs and naturally flicked-out ends.\n\nClothing/Pose:\nA white all-over lace triangle bra top and a creamy white thin wrap skirt. The top features thin straps, a deep V-neck, scalloped lace edges, and vertical seams on the cups. She supports herself with her right hand on the rug behind her, raises her right knee high in the center foreground, bends her left leg to the left, and extends her right leg forward.\n\nBackground/Light:\nTo the left are {argument name=\"windowside items\" default=\"a large window with white curtains and a round wooden table\"}, small white flowers, and a milky drink; in the background right are wooden shelves, books, a light, and a plant in a wicker pot. Warm, soft direct light enters from the window on the left, creating bright bands and gentle shadows on the skin, rug, and wooden floor.\n\nComposition/Camera:\n3:4 vertical orientation, full-body shot from a horizontal eye-level camera close to the floor. The person occupies most of the center, with the raised knee and extended right leg appearing large in the lower half foreground, with the right foot cut off at the bottom edge. Focus is on the face and upper body, with background shelves softly blurred.\n\nTexture/Style:\nA photorealistic indoor photograph with warm natural light. Soft, high-definition rendering of fine lace, thin fabric, plush rug, wood, flowers, and skin.\n\nNegative:\nDo not make the raised knee in the foreground smaller; do not omit the vertical seams on the white lace.",
+    "title": "Morning Light Lace and Rug Scene",
+    "description": "A soft, photorealistic prompt of a woman in a lace top relaxing on a plush rug in the morning light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787645592859_98shaq_HQGkBgkbMAE_ziE.jpg"
     ],
     "needReferenceImages": false
   },
