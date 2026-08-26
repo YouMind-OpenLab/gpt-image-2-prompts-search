@@ -10,6 +10,29 @@
     "needReferenceImages": true
   },
   {
+    "id": 32657,
+    "content": "Create a simple centered children's-book illustration of a cute full-body {argument name=\"animal\" default=\"koala\"} character on a plain white background. Use a hand-drawn crayon or thick marker style with rough, slightly wobbly black outlines and soft textured gray fill. The character faces forward, standing upright with a large rounded head, rounded body, short arms hanging at the sides, and short legs. Include exactly 2 large round ears, one on each side of the head, each with a black inner ear patch and no pink inner-ear color. The face has exactly 2 wide white circular eyes with tiny black pupils, 1 large vertical oval black nose centered between them, and 1 small curved smiling mouth below the nose. The body is {argument name=\"body color\" default=\"warm medium gray\"}, the outline is {argument name=\"outline color\" default=\"black\"}, and the overall mood is friendly, naive, and toddler-like. Keep the composition uncluttered, with no text, no shadows, no props, no scenery, and no extra characters.",
+    "title": "Cute Crayon Koala Character",
+    "description": "Generates a simple hand-drawn koala mascot illustration suitable for children's books, stickers, or icon concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787732187545_jjpxqy_HQnvPdpboAApu6U.jpg",
+      "https://cms-assets.youmind.com/media/1787732187551_2vfr6q_HQnvP6gagAAQEw6.jpg",
+      "https://cms-assets.youmind.com/media/1787732187521_dzoc6v_HQnvQi9bsAAofgG.jpg",
+      "https://cms-assets.youmind.com/media/1787732188349_ljbq9k_HQnvRaoboAA5mD-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32627,
+    "content": "Goal: Create a realistic screenshot-style comparison image showing an AI-generated Apple-style product landing page inside a dark ChatGPT image result frame.\n\nCanvas: Square 4:3 image, about 800×800 px, dark charcoal background. Add a thin rounded neon-green outline around the outer result container. At the very top center, include a small white speech-bubble pointer tab peeking down.\n\nOuter frame: Dark UI container with rounded corners. Top bar height about 52 px. On the left show the OpenAI swirl icon and green monospace label “{argument name=\"model label\" default=\"gpt-image-2 (medium)\"}”. On the right show exactly 2 controls: a small download icon and a rounded “Edit” button with a pencil icon. Keep the interface minimal and dark.\n\nInner webpage: Center a large Apple-like homepage screenshot with black background, slightly inset from the outer frame. The webpage should be cropped so the far left and right edges are slightly cut off. At the top is a black navigation bar with exactly 8 visible menu items, spaced horizontally: “iPad” partially clipped on the far left, “iPhone”, “Watch”, “Vision”, “AirPods”, “TV & Home”, “Entertainment”, and “Accessories” partially clipped on the far right.\n\nHero section: Create an Apple-style product hero for “{argument name=\"product name\" default=\"iPhone 17 Pro\"}”. Place the small orange product name centered near the top. Below it, make a huge bold headline reading “{argument name=\"headline text\" default=\"PRO. BEYOND.\"}” with a metallic silver-to-orange gradient, glossy dimensional lettering, and period marks after both words. Under the headline, include a two-line Spanish subtitle: “El iPhone más potente y avanzado hasta ahora.” and “Diseñado para lo que viene.” Below the subtitle place exactly 2 call-to-action links: a blue rounded button labeled “Más información” and a blue text link labeled “Comprar >”.\n\nProduct image: The bottom two-thirds of the webpage is dominated by a close-up macro render of an orange/copper iPhone back, cropped large so only the upper back and camera island are visible. Show exactly 3 raised black camera lenses in triangular arrangement on the left side of the camera plateau, exactly 1 silver circular flash near the upper right, exactly 1 tiny dot sensor below it, and exactly 1 black oval/circle sensor on the right. The phone has rounded corners, polished copper edges, realistic reflections, embossed Apple logo barely visible near the bottom center, and studio lighting.\n\nVisual style: Hyper-realistic product render mixed with a clean web mockup, glossy Apple-like advertising aesthetics, high contrast black background, orange accents, sharp typography, no people.\n\nConstraints: Preserve the Spanish text exactly as written, keep all counts exact, do not add extra buttons, icons, navigation labels, or product features, and avoid watermarks or captions outside the screenshot frame.",
+    "title": "Apple-Style iPhone 17 Pro Hero Screenshot",
+    "description": "Generates a dark ChatGPT-framed Apple-style landing page mockup for a copper iPhone 17 Pro hero advertisement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787732167066_gddqyf_HQnfhvRX0AAOk7N.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32532,
     "content": "Build a clear, quiet visual with an oriental seasonal feel around any subject: let a large area of high-brightness blank space become the environment, with several horizontal translucent soft color bands extending from the middle to the bottom. Place a small silhouette symbol distilled from the subject in the depths of the blank space to create a strong scale contrast. Place large, slender modern serif English titles on one side, with condensed Chinese titles below them. Use low-saturation, near-white base tones with soft misty gradients. The surface should have a smooth digital ink and thin paper feel.\n\nSubject: {argument name=\"subject content\" default=\"Good Morning + Greetings + City + Quotes + Weather + 2026-08-25\"}",
     "title": "Minimalist Oriental Morning Greeting Visual",
@@ -49,19 +72,6 @@
     "description": "A futuristic neon SaaS hero banner promoting the GPT-Image-2 API with TOAPIs branding and a glowing image-generation workflow visual.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1787559671325_bfry34_HQdmsbzaMAA5u5m.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 32438,
-    "content": "Please transform each photo I upload into an individual high-end design poster with a {argument name=\"composition ratio\" default=\"3:4 vertical composition\"}. Use a dual-layer logic: the top half remains the original photography, while the bottom half provides a painterly distillation of the core imagery, creating a resonance between reality and memory.\n\nThe top half retains the original photo, maintaining the subject's identity, structure, and natural lighting with high-end photography color grading suitable for art magazines. The bottom half extracts the most recognizable subject and narrative to recreate it with an artistic, minimalist approach. \n\nThe background for the lower half should be extremely light with significant white space, using colors that intelligently match the original photo's mood. The artistic style should use relaxed, artistic textures like opaque gouache, acrylic, and oil pastel, allowing for slight imperfections and a handmade feel. Colors should be translated into a warm, bright artist's palette featuring cream yellow, apricot, and coral pink contrasted with cool sky blues and mint greens. Text should be minimal and meaningful, naturally integrated into the composition without feeling like a commercial advertisement.",
-    "title": "Dual-Layer Photography to Painting Poster Template",
-    "description": "A sophisticated prompt template for turning photos into dual-layer posters that contrast realistic photography with hand-painted artistic interpretations.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787645586743_zrh9dq_HQdSDDCbsAA6UsU.jpg",
-      "https://cms-assets.youmind.com/media/1787645586694_dej4x3_HQdSDDEbsAAM7mL.jpg",
-      "https://cms-assets.youmind.com/media/1787645586766_30byxu_HQdSEo0aMAAF59O.jpg",
-      "https://cms-assets.youmind.com/media/1787645589554_fwkhdk_HQdSFW3aMAAv7rA.jpg"
     ],
     "needReferenceImages": true
   },
