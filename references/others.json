@@ -1,5 +1,75 @@
 [
   {
+    "id": 32701,
+    "content": "A vibrant painting of {argument name=\"subject\" default=\"five pink flamingos\"} wading in shallow water along a {argument name=\"location\" default=\"tropical beach\"} at sunset, with the large sun low on the horizon casting vivid orange, yellow, and blue reflections on the ocean. Silhouetted palm trees frame the scene to the right, and the sky transitions from deep red and orange near the sun to bright blue at the top, creating a warm, tranquil, and exotic atmosphere. The brushstrokes are bold and expressive, giving the artwork a lively, {argument name=\"style\" default=\"impressionistic style\"}.",
+    "title": "Impressionistic Pink Flamingo Painting",
+    "description": "A vibrant, bold brushstroke painting prompt depicting flamingos wading in shallow water during a tropical sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829224944_kaa0ca_HQrkybGXAAAmD9u.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32733,
+    "content": "Create a surreal underwater fantasy scene titled by mood rather than text, showing {argument name=\"scene concept\" default=\"sea sprites in an enchanted aquarium grotto\"}. Use a vertical {argument name=\"aspect ratio\" default=\"3:4\"} composition with a deep emerald-green and electric cobalt-blue color palette. The viewpoint looks into a dark, plant-filled underwater tunnel with a glowing blue opening in the center background and shimmering caustic reflections scattered across the water surface like broken glass. Include exactly 10 clearly visible small translucent silver-blue fish, clustered mostly in the upper-left and left side, all facing right, with glossy bodies and bright blue fins. Include exactly 4 jellyfish: one medium translucent jellyfish floating near the middle-right, one larger jellyfish lower-right with long trailing tentacles, one small amber jellyfish partly cropped at the far right edge, and one partial amber jellyfish cropped at the far left edge near the lower third. Add 1 glassy, whimsical octopus sprite in the lower-left foreground with a transparent bulbous head, big round eyes, long curling tentacles, and tiny colorful pearl-like ornaments among its arms. Fill the bottom and side edges with dense coral-garden details: white branching coral, red and orange anemones, yellow-green sea plants, purple and pink flowers, and small sparkling highlights. The central blue water passage should remain open and luminous, with rippling reflected streaks leading inward. Style: hyper-detailed digital painting, magical realism, bioluminescent highlights, high contrast, glossy watery texture, painterly but sharp, dreamlike and ornate. No text, no frame, no watermark; keep the atmosphere mysterious, lush, and aquatic.",
+    "title": "Enchanted Sea Sprites Grotto",
+    "description": "A detailed prompt for generating a magical underwater grotto filled with translucent fish, jellyfish, coral, and a whimsical octopus sprite.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829257761_1ruhoc_HQrGT37XkAAZFt1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32726,
+    "content": "Create a vertical close-up anime illustration of a small shy gothic cat-girl peeking out from between two hanging curtains covered in cute pastel character patterns. The character has a black cat-eared hood with tall pointed ears, short messy {argument name=\"hair color\" default=\"black hair with pale orange-tipped strands\"}, very pale skin, flushed cheeks, and a tiny fang visible in a worried pout. Her eyes are mismatched: the left eye is an orange concentric spiral target, and the right eye is a dark button-like eye with a large orange X. She has watery tears pooled under both eyes and a sleepy, anxious expression. Her oversized black sleeves or mitten-like paws are held up in front of her mouth and chest, one paw showing exactly one orange adhesive bandage patch. Frame her tightly from head to upper body, centered in the narrow gap between the curtains, with the curtains blurred in the foreground on both sides. The curtain pattern should include many small cute doodle characters in cream, peach, orange, and muted blue, including ghosts, rabbits, skulls, stars, hearts, and candy shapes, but no readable text. Use a warm nostalgic color palette of {argument name=\"accent color\" default=\"orange\"}, cream, muted teal-blue, charcoal black, and faded peach. Render in detailed Japanese manga/anime style with fine ink hatching, halftone grain, subtle paper texture, soft bloom, shallow depth of field, vintage film dust, and slightly overexposed warm lighting. Mood: cute, melancholic, sleepy, and eerie, like a bedtime gothic-kawaii snapshot. No watermark, no signature, no extra characters.",
+    "title": "Gothic Kawaii Cat-Girl Curtain Peek",
+    "description": "A close-up gothic-kawaii anime illustration of a tearful cat-hooded girl peeking through patterned curtains, ideal for character art or moody AI art generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829251503_b0m3fk_HQpip40bUAA7LB2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32729,
+    "content": "Create a cinematic live-action cosplay-style romantic scene under blooming cherry trees in early spring. Two full-body characters stand very close together on a path carpeted with pale pink petals, gazing softly into each other’s eyes. The man is tall, fair-skinned, and elegant, with wavy blond hair, wearing a black wool overcoat over a gray three-piece suit, white shirt, black scarf, dark trousers, and polished black dress shoes; one hand rests in his pocket and his posture is relaxed and protective. The woman is much shorter, fair-skinned, with a petite build and short black pixie-cut hair with two distinctive stray antenna-like locks, wearing a modest gray plaid long-sleeve fit-and-flare dress with a white collar, thin black belt, black socks, glossy black loafers, and holding a small beige handbag at her side. Set them beside a large dark cherry tree trunk on the right, with arching branches above, soft bokeh greenery in the background, and numerous falling sakura petals frozen in the air. Use a vertical 4:5 portrait composition, natural diffused daylight, shallow depth of field, realistic fabric textures, muted gray and pink palette, tender dramatic mood, high-end Japanese live-action drama still, no text or watermark. Optional customization: the woman represents {argument name=\"female character\" default=\"Kubota Miwa\"}, the man represents {argument name=\"male character\" default=\"Hakkai Takashi\"}, the setting is {argument name=\"seasonal setting\" default=\"spring cherry blossom path\"}, the woman’s outfit is {argument name=\"female outfit\" default=\"gray plaid long-sleeve dress with white collar\"}, and the man’s outfit is {argument name=\"male outfit\" default=\"black overcoat with gray three-piece suit and black scarf\"}.",
+    "title": "Cherry Blossom Cosplay Romance",
+    "description": "A realistic vertical drama-still image of two elegantly dressed cosplay characters sharing a romantic gaze beneath falling cherry blossoms.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829255651_zo4l0i_HQph7P9akAEL89G.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32730,
+    "content": "Create a photorealistic cinematic disaster-rescue scene in modern Tokyo: a gigantic humanoid police rescue robot from {argument name=\"organization\" default=\"Metropolitan Police Department Heavy Machinery Countermeasures Robot Unit\"} stands in a narrow residential street beside a partially collapsed two-story Japanese house, assisting firefighters with rescuing a survivor from the rubble. The robot is extremely tall, about the height of the house, with bulky white-and-black armored plating, exposed hydraulic joints, dense mechanical details, bolts, cables, pistons, and heavy articulated hands; its armor panels display Japanese police markings 「警視庁」 and large white “MPD” text on the chest, shoulders, and legs. The robot leans forward with one massive hand carefully bracing or lifting broken wooden debris while human rescuers work below. Show exactly 5 human emergency responders: 4 firefighters in dark navy rescue uniforms with reflective yellow stripes and white helmets carrying a stretcher, plus 1 rescued civilian lying on the orange stretcher in light clothing. The setting is a sunlit urban neighborhood street with overhead utility wires on the left, a red fire truck in the background, scattered hoses on the asphalt, dust, splintered timber, broken wall panels, roof tiles, and debris everywhere. The damaged house should have a traditional tiled roof, exposed wooden framing, shattered exterior walls, and a large collapsed corner opening. Use a low-angle wide shot, vertical 4:5 composition, dramatic scale contrast between robot and people, bright blue sky with a few clouds, harsh midday sunlight, realistic shadows, documentary news photography style, ultra-detailed textures, believable rescue operation, no fantasy glow, no cartoon styling. Main action theme: {argument name=\"rescue scenario\" default=\"rescue from a collapsed house\"}.",
+    "title": "MPD Robot Collapsed House Rescue",
+    "description": "A photorealistic disaster-response scene showing a giant Tokyo police rescue robot helping firefighters evacuate a survivor from a collapsed house.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829255681_luy9sl_HQphNJTaoAAtxQd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32731,
+    "content": "Create an extreme close-up photorealistic portrait crop of the left side of an adult man's face and neck, showing the ear, jawline, cheek, lower eye edge, and throat in warm golden sunlight. The subject has {argument name=\"skin tone\" default=\"medium tan skin\"}, short dark hair barely visible at the top, and no visible clothing except a small dark collar edge near the bottom. Frame the composition tightly so the ear sits on the left side, the cheek and jaw fill the right side, and the neck extends downward, with the mouth mostly out of frame and only a hint of the eye at the top right. Emphasize realistic skin pores, fine facial hair, neck folds, dimples, and subtle uneven texture, including slightly strange repetitive mottled micro-patterns and over-sharpened texture artifacts across the cheek and neck as if from repeated AI image edits. Use shallow depth of field, high-detail macro photography, warm orange rim lighting, soft shadows, and a dark blurred background with a thin yellow highlight line behind the neck. No text, no watermark, no extra objects.",
+    "title": "Macro Close-Up Skin Texture Portrait",
+    "description": "Generates a tightly cropped photorealistic side portrait emphasizing warm lighting, facial anatomy, and AI-like skin texture artifacts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829257874_ho2sd0_HQo5CAubQAAhavr.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32727,
+    "content": "Create a dark cinematic fantasy sci-fi double-exposure portrait of a {argument name=\"character gender\" default=\"young man\"} in left-facing side profile, occupying the left half and center of a vertical frame. His face is semi-transparent and merged with a vast {argument name=\"city type\" default=\"underwater fantasy city\"}: the eye, nose, lips, jawline, and dark wet-looking hair remain visible, while ornate towers, bridges, glowing windows, and deep cavern architecture show through his skin and silhouette. The setting is a colossal submerged metropolis inside a blue-black ocean cavern, with monumental carved pillars, layered arched walkways, suspended bridges, cathedral-like spires, and countless tiny warm lights. Add a huge glowing {argument name=\"moon or light source\" default=\"full moon\"} behind the city near the upper right, shining through rippling water and mist. Include luminous crystal clusters in exactly 4 prominent areas: one orange-gold cluster at the bottom left, one purple-blue cluster on a mid-left balcony, one large purple-blue cluster on the right platform, and one orange-purple cluster at the bottom right. Add exactly 3 small flying craft: one near the upper center-left with bright blue headlights and orange light trails, one tiny craft crossing the middle-right bridge area, and one near the lower left with a blue beam. Use a palette of midnight blue, cyan, indigo, violet crystal glow, and small amber lantern highlights. Make the atmosphere dreamy, mysterious, and epic, with volumetric moonbeams, underwater haze, floating particles, glossy wet surfaces, intricate gothic-futuristic details, and high-contrast rim lighting. Vertical 3:4 composition, ultra-detailed concept art, photorealistic facial anatomy blended with matte-painting environment, no text, no watermark, no frame.",
+    "title": "Double Exposure Underwater City Portrait",
+    "description": "A cinematic prompt for generating a moody double-exposure profile portrait merged with a glowing fantasy underwater metropolis.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829252862_j3lfd2_HQo28gpaYAAQAWu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 32357,
     "content": "with the Rhine progressively transforming into strings, staves and keyboard: the collapse of Schumann converted, five years later, into the musical architecture of Brahms",
     "title": "Schumann and Brahms Rhine Poster",

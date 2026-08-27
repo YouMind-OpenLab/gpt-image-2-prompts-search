@@ -1,42 +1,188 @@
 [
   {
-    "id": 32629,
-    "content": "Create an ultra-realistic professional lifestyle portrait of {argument name=\"character description\" default=\"a young adult Black man executive with short black hair, clean-shaven face, calm confident expression, and direct eye contact\"} seated behind a polished wooden executive desk in a modern office. He sits upright in a tall black leather office chair, wearing {argument name=\"outfit\" default=\"a crisp white dress shirt, a navy blue tie with small white dots, and a black wristwatch\"}. His right hand writes with a black pen on a small yellow sticky note, while his left hand holds a black corded telephone handset to his ear; the coiled phone cable stretches diagonally toward the right side of the desk. The mood is focused, disciplined, and businesslike, as if he is taking an important call while planning the day. Use a vertical portrait composition, realistic lens perspective, sharp facial detail, natural office lighting, subtle depth of field, and rich warm wood tones. On the desk include exactly 6 visible item groups: 1 black ceramic mug printed with the three stacked words “Discipline / Focus / Execution,” 1 calculator, 1 stack of multicolor sticky notes with blue, pink, yellow, and green layers, 1 small yellow sticky-note pad being written on, 1 clipboard with a document titled “BUSINESS PLAN” showing charts and lines, and 1 open silver laptop cropped on the right. Behind him, create a matte charcoal gray wall with a white lion-head crown logo and the brand text {argument name=\"brand text\" default=\"FACELESS CONTENT\"} on the left. Add exactly 4 colorful square sticky notes on the wall: yellow note reading “PLAN - FOCUS - EXECUTE,” blue note reading “DISCIPLINE TODAY SUCCESS TOMORROW,” pink note reading “BE BETTER THAN YESTERDAY,” and green note reading “HARD WORK BEATS TALENT.” Add exactly 1 white daily checklist sheet pinned to the wall, titled {argument name=\"checklist title\" default=\"DAILY CHECKLIST\"}, with 5 checked items: MEETING, CALLS, EMAILS, PLANNING, FOLLOW UP. On the right side of the background include a wooden bookcase with binders, books, a small potted plant, and a black globe-like decor object. Keep the image photorealistic, clean, polished, motivational, and corporate; avoid cartoon styling, exaggerated facial features, clutter, extra people, distorted hands, unreadable main text, or watermarks.",
-    "title": "Executive Office Phone Call Portrait",
-    "description": "An ultra-realistic portrait prompt for creating a confident young executive taking a business call at a desk in a motivational modern office.",
+    "id": 32718,
+    "content": "Create a clean anime-style character illustration on a transparent or plain white background, waist-up composition. The subject is a cheerful young female AI-tuber idol with {argument name=\"hair color\" default=\"deep vivid purple\"} hair tied in a high side ponytail with loose flowing strands and glossy highlights, golden amber eyes, a bright open smile, light blush, and a friendly welcoming pose. She faces slightly toward the viewer, positioned more to the right side of the canvas, with her left arm extended toward the left and her palm open as if presenting something. She wears a teal T-shirt with large white text reading {argument name=\"shirt text\" default=\"AITuber\"}, tucked into high-waisted pale denim shorts or jeans, plus an oversized puffy jacket in bright cyan with large pink rounded patches and wide blue cuffs. Add exactly 3 visible accessory types: a yellow hair clip on her bangs reading {argument name=\"hair clip text\" default=\"AI\"}, multiple small gold hoop earrings along one ear, and a dark scrunchie holding the ponytail. Use polished modern Japanese anime rendering, crisp line art, vibrant saturated colors, soft cel-shading, detailed hair strands, shiny eyes, clean skin tones, and a light energetic VTuber key visual feel. Keep the background empty, uncluttered, and suitable for transparency; no scenery, no extra characters, no watermark.",
+    "title": "Cheerful AI-Tuber Anime Girl",
+    "description": "A vibrant waist-up anime character key visual of a smiling AI-tuber girl, useful for VTuber branding, profile art, or transparent stickers.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787732168905_h2hkxf_HQofIeJX0AAVLd5.jpg"
+      "https://cms-assets.youmind.com/media/1787829245190_gq9xmb_HQuR2ATWMAAaU5w.jpg"
     ],
     "needReferenceImages": true
   },
   {
-    "id": 32613,
-    "content": "Create a {argument name=\"subject\" default=\"Meme sticker pack\"} based on the images attached, remixing with {argument name=\"emojis\" default=\"😎😛💕🚀🥳\"}. Use exaggerated internet-reaction expressions, including crying, confusion, shock, smugness, side-eye, and deadpan disbelief, with awkward poses, low-fi cutout textures, and absurd humor. Create a single square(1:1) transparent sticker sheet with nine distinct stickers arranged in a 3×3 grid, each showing a different expression, pose, or reaction. Separate the stickers with wide, fully transparent gaps. No background, shadows, or overlapping elements.",
-    "title": "Custom Meme Sticker Pack Generator",
-    "description": "A creative prompt for generating a 3x3 grid of meme-style stickers based on reference images, featuring exaggerated expressions and low-fi textures.",
+    "id": 32716,
+    "content": "Create a cute LINE sticker-style illustration on a square white canvas, featuring one chubby tabby cat sitting happily on one soft beige cushion. The cat has {argument name=\"fur color\" default=\"warm brown and cream tabby fur\"}, darker rounded stripes on its head, body, legs, and thick curled tail, closed smiling eyes, tiny whiskers, blush-like cheeks, and one front paw raised as if kneading or waving. Use a soft kawaii digital illustration style with clean dark-brown outlines, gentle cel shading, rounded forms, and a minimal transparent-sticker feel against a plain white background. Place exactly one short caption centered below the character in small black Japanese text: {argument name=\"caption text\" default=\"ふみふみ\"}. Keep the composition simple and centered with generous white space, no extra props, no border, no watermark, and no additional text.",
+    "title": "Cute Tabby Cat LINE Sticker",
+    "description": "A centered kawaii tabby cat sticker illustration with a Japanese caption, suitable for LINE sticker creation.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787732154836_m8sj3m_HQoMALNbIAAq-Rw.jpg"
+      "https://cms-assets.youmind.com/media/1787829245012_qchf33_HQt3ulDaMAAvYk4.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32721,
+    "content": "Create a photorealistic vertical portrait of a {argument name=\"subject\" default=\"young adult Japanese woman\"} outdoors on a sunlit tree-lined path, captured in a candid over-the-shoulder pose as she turns back toward the camera with a bright natural smile. She has {argument name=\"hair style\" default=\"short dark brown tousled bob with wispy bangs\"}, windblown strands glowing in strong golden backlight, soft freckles across her cheeks and nose, smooth natural skin texture, warm expressive eyes, and minimal makeup. She wears a pale pink camisole with thin straps and an oversized cream chunky-knit cardigan slipped off one shoulder, holding the cardigan lightly near her chest. Use a shallow depth of field with creamy green-and-gold bokeh from trees in the background, late-afternoon sunlight flaring from behind her head, rim lighting around her hair and shoulders, and a gentle lifestyle fashion photography mood. Frame as a close upper-body portrait in a {argument name=\"aspect ratio\" default=\"9:16 vertical\"} composition, subject slightly off-center, eye-level camera, natural color grading, high detail, realistic lens rendering, soft highlights, no text, no watermark, no extra people.",
+    "title": "Backlit Over-Shoulder Portrait",
+    "description": "A photorealistic golden-hour portrait prompt for creating a smiling woman turning back over her shoulder in a soft outdoor fashion-photo style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829247323_xwiuhg_HQtNW0HaYAA0N5K.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32700,
+    "content": "Create an ultra-realistic black-and-white 9:16 studio portrait using the person from the attached reference image. Preserve their exact facial identity, facial features, beard, mustache, proportions, expression, and natural skin texture. The person is sitting on a minimalist studio floor, holding a {argument name=\"pet\" default=\"large domestic cat\"}. One leg is bent toward the body and the other extends diagonally along the floor. One arm supports the cat while the other rests on the raised knee, with the head slightly tilted toward the arm. The person and cat both look directly into the camera. Keep the pose natural, relaxed, intimate, and slightly editorial. Use a {argument name=\"top clothing\" default=\"light, loose cotton T-shirt\"} and {argument name=\"bottom clothing\" default=\"dark textured denim jeans\"}. Preserve visible tattoos, realistic fabric folds, seams, and natural wrinkles. Use soft frontal-side studio lighting with smooth shadows and natural highlights. Keep the background clean, light, plain, and cyclorama-like. Ultra realistic RAW photography, sharp focus, realistic skin microtexture, detailed fur, natural anatomy, realistic fabric texture, rich grayscale tones, natural shadows, documentary-style fashion editorial, 8K detail. No CGI, plastic skin, skin smoothing, beauty filters, excessive retouching, distorted anatomy, extra fingers or limbs, added furniture, accessories, or background objects.",
+    "title": "Black and White Studio Portrait with Pet",
+    "description": "An editorial-style black-and-white studio portrait prompt for GPT Image 2, focusing on intimate interaction between a person and a pet cat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829222980_9hl19w_HQtKR-pbgAAhbAn.jpg",
+      "https://cms-assets.youmind.com/media/1787829222683_o00o49_HQtKSipbQAASsqS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32681,
+    "content": "Ultra-realistic cinematic portrait of a strikingly handsome {argument name=\"subject\" default=\"young man in his early 20s\"}, inspired by the reference image’s dramatic low-angle composition, dark atmosphere, intense monochrome aesthetic, and high-contrast lighting.\n\nHe has thick, naturally wavy jet-black hair, slightly wet and swept back, expressive deep-set eyes, strong masculine eyebrows, a straight defined nose, prominent cheekbones, a sharp sculpted jawline, and a full but neatly groomed short beard with realistic individual hairs. Natural skin pores and fine facial texture are clearly visible.\n\nHe is leaning back slightly with his head tilted upward, eyes gently closed, creating a calm, mysterious, confident and cinematic expression. His hair falls naturally around the sides of his face. He wears a luxurious black textured coat with a raised collar, giving him a sophisticated dark-fashion appearance.\n\nUse dramatic side lighting that illuminates one side of his face while leaving the other in deep shadow. Strong chiaroscuro, subtle rim lighting around the hair, rich blacks, bright silver highlights and extremely detailed facial contours.\n\nThe background is almost completely black, heavily blurred, with subtle distant city lights and soft circular bokeh. Add a very subtle atmospheric haze/smoke around him for depth and cinematic mood.\n\nPhotography: ultra-realistic, high-end editorial photography, cinematic noir, monochrome black-and-white, dramatic chiaroscuro, deep contrast, shallow depth of field, {argument name=\"lens\" default=\"85mm\"} lens, f/1.4, realistic film grain, natural skin texture, sharp facial details, professional studio lighting, photorealistic, 8K quality.\n\nComposition: vertical 4:5 portrait, close-to-medium framing, low camera angle, subject filling most of the frame, cinematic negative space, sophisticated dark luxury aesthetic.",
+    "title": "Cinematic Noir Male Portrait",
+    "description": "A high-contrast, ultra-realistic black-and-white portrait of a young man with a short beard, featuring dramatic chiaroscuro lighting and a sophisticated aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829204008_53uhpn_HQs2jLla8AAWxXX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32692,
+    "content": "Create a photorealistic Korean-style portrait using the reference face. Keep her face unchanged, with {argument name=\"hairstyle\" default=\"elegant Korean hairstyle\"} and {argument name=\"fashion\" default=\"modest Korean fashion with a high neckline and full coverage\"}. Seat her in a {argument name=\"background\" default=\"cozy Korean bedroom beside a large teddy bear\"}, with soft warm lighting, cute Korean decor, and a Seoul city view in the background. No visible legs, natural proportions, realistic details, 9:16.",
+    "title": "Korean-Style Seoul Bedroom Portrait",
+    "description": "A prompt for generating a photorealistic portrait in a Seoul setting, using a reference face to maintain identity across a specific cultural style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829214709_h7dq2z_HQsttLzaYAAedq7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32683,
+    "content": "Create an irresistibly captivating, ultra-realistic close-up portrait of a naturally {argument name=\"subject\" default=\"beautiful young woman\"} designed to create an instant “STOP SCROLLING” reaction.\n\nThe camera is extremely close to her face, capturing the mesmerizing warmth of her deep brown eyes as the undeniable focal point. Her eyes must look alive and intensely realistic, with intricate iris patterns, tiny natural veins, wetness along the waterline, crisp catchlights, and individual eyelashes sharply resolved.\n\nHer beauty is raw, authentic and imperfect—visible freckles scattered naturally across her cheeks and nose, realistic pores, subtle peach fuzz, tiny beauty marks, natural skin texture and delicate variations in tone. Do NOT make her skin artificially flawless. Above one eyebrow is a thin, naturally healed scar, while a subtle healed scar curves along her cheek, giving the portrait a mysterious, unforgettable character.\n\nHer long, {argument name=\"hair color\" default=\"glossy black hair\"} falls naturally around her face, with a few delicate strands crossing her forehead and cheek. Her eyebrows are full, naturally shaped and individually detailed. Soft, naturally pink lips remain slightly relaxed, creating an effortless expression that feels candid rather than posed.\n\nTHE VIRAL HOOK: Capture the exact split-second where she looks directly into the camera as if she has noticed the viewer. Her expression is calm, mysterious and emotionally magnetic—subtle vulnerability mixed with quiet confidence. The viewer should feel like they accidentally captured a private, once-in-a-lifetime moment.\n\nLighting is {argument name=\"lighting type\" default=\"soft cinematic daylight\"} entering from one side, producing luminous highlights across her eyes, cheekbones and skin while maintaining realistic shadows.\n\nComposition: extreme facial close-up, eyes positioned near the visual center, face filling almost the entire frame, slightly unconventional tilted camera angle, intimate perspective, natural asymmetry, realistic facial proportions.",
+    "title": "Ultra-Realistic Close-up Female Portrait",
+    "description": "A detailed prompt designed to create a hyper-realistic, emotionally magnetic portrait of a woman with natural skin textures and unique facial scars.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829205581_xcuvjn_HQsi2jBbUAAQ_4d.jpg",
+      "https://cms-assets.youmind.com/media/1787829205662_rpv7vy_HQsi3SmbkAAqMxH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32710,
+    "content": "Create an ultra-realistic cinematic studio portrait of {argument name=\"subject\" default=\"an adult Black man in his late 20s\"} seated confidently in a premium black leather armchair against a deep matte-black studio background. The subject faces the camera directly with a calm, composed, professional expression, short neatly trimmed black hair, clean-shaven face, and natural skin texture. Dress him in a crisp white long-sleeve dress shirt, fitted black waistcoat, slim black necktie, black dress trousers, and a silver metal wristwatch with a black round dial on his right wrist. Pose: relaxed but authoritative, torso angled slightly toward camera, right forearm resting on the chair arm with the hand near his lap, left arm relaxed with the hand resting on the seat edge, legs casually apart. Use a medium three-quarter seated crop from upper thighs to head, centered composition, portrait orientation. Lighting should be high-end studio photography: soft key light from front-left, gentle fill on the face, subtle rim separation, controlled highlights on the leather chair, and smooth falloff into the black background. Make the image look like a premium executive portrait shot with a professional full-frame camera, sharp facial detail, realistic fabric folds, glossy leather texture, shallow depth of field, natural color grading, no visible logos, no text, no watermark.",
+    "title": "Cinematic Black Leather Executive Portrait",
+    "description": "An ultra-realistic studio portrait prompt for creating a confident seated executive in formal black-and-white attire against a matte black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829238039_ae60zc_HQqwZFxWIAACQvl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32708,
+    "content": "Create an ultra-realistic premium studio portrait of {argument name=\"subject\" default=\"a young adult Yoruba man\"} wearing an elegant deep emerald green traditional Yoruba Agbada ensemble. He is centered, facing forward with a calm serious expression, photographed from mid-thigh upward. The outfit includes exactly 6 prominent visible elements: a structured emerald green Yoruba fila cap with subtle diagonal fabric texture, oversized flowing velvet Agbada outer robe with broad sleeves and glossy highlights, matching inner tunic with intricate gold geometric embroidery down the chest, two layered long black beaded necklaces, a black beaded bracelet on one wrist, and a gold wristwatch on the other wrist. His hands are clasped neatly in front of him, resting on the gold handle of a black walking cane. He wears thin gold-rimmed eyeglasses and has a clean, polished appearance. Use a warm mottled golden-brown studio backdrop with painterly texture, soft vignette, and professional portrait lighting: large soft key light from the front, gentle shadows, crisp facial detail, rich velvet texture, realistic skin tones, shallow depth of field, high-end editorial fashion photography, vertical 2:3 composition, no text, no watermark. If a reference photo is provided, preserve the exact facial identity from the reference while applying this outfit, pose, and studio setting.",
+    "title": "Premium Yoruba Agbada Studio Portrait",
+    "description": "Generates a luxurious ultra-realistic studio portrait of a man in emerald Yoruba Agbada attire for fashion, profile, or cultural portrait use.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829233053_vv57bq_HQqWmwlXMAAHdBe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32704,
+    "content": "Ultra-photorealistic beauty portrait of a {argument name=\"subject\" default=\"charming young East Asian woman\"} with luminous, naturally hydrated skin and refined, gentle features. Her {argument name=\"eye color\" default=\"warm brown eyes\"} have a lively, captivating gaze, complemented by soft rosy lips and barely-there makeup that enhances her natural appearance. Her {argument name=\"hair style\" default=\"deep chocolate-brown hair is swept into a relaxed, imperfect top knot\"}, with delicate flyaway strands falling naturally around her cheeks. She wears a sleek black camisole with thin straps and a minimalist gold necklace featuring a small H-shaped pendant. Her expression is subtly playful and self-assured. Bathed in soft golden daylight, she is photographed against a clean warm-cream backdrop with an elegant editorial atmosphere. Natural pores, fine skin detail, realistic hair strands, subtle highlights, cinematic depth of field, premium beauty campaign aesthetic, lifelike photography, ultra-detailed, 8K resolution, vertical 9:16 composition.",
+    "title": "East Asian Beauty Editorial Portrait",
+    "description": "An ultra-photorealistic editorial beauty campaign prompt focusing on natural skin textures and refined features in golden daylight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829226118_nw96q2_HQqIWvIaUAAksbt.jpg",
+      "https://cms-assets.youmind.com/media/1787829226186_cu55zd_HQqIXwUaQAAk3Zy.jpg",
+      "https://cms-assets.youmind.com/media/1787829226202_5bunw2_HQqIYXRa8AE7nNt.jpg",
+      "https://cms-assets.youmind.com/media/1787829226899_5zq4mb_HQqIY41bIAA-_Tq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32685,
+    "content": "Use my uploaded reference face as the exact facial identity reference. Create a highly realistic cinematic black-and-white studio portrait of {argument name=\"subject\" default=\"me\"}, matching the overall composition, mood, pose, and photography style of the reference image.\n\nA young man with his exact facial structure, eyes, nose, jawline, hairstyle, beard, skin texture, and natural identity preserved, looking directly into the camera with a relaxed, genuine smile. His head is slightly tilted, with slightly messy, voluminous dark hair and a few loose strands falling naturally across the forehead. He has a well-groomed beard and moustache.\n\nHe is wearing a {argument name=\"clothing\" default=\"dark black ribbed turtleneck sweater\"}. One hand is raised naturally to the collar/neck area, with a subtle ring visible on one finger and a luxury metal wristwatch with a dark dial and silver bracelet on his wrist.\n\nComposition: close-up upper-body portrait, vertical framing, face positioned prominently in the upper center, hand and wristwatch clearly visible in the lower foreground.\n\nLighting: dramatic low-key studio lighting, soft directional light illuminating one side of the face, deep cinematic shadows, subtle highlights on the cheekbones, hair, eyes, teeth, hand, and metallic watch. Pure black seamless background with the subject gradually fading into darkness.\n\nPhotography style: ultra-realistic, high-end fashion editorial, intimate cinematic portrait, monochrome black and white, rich contrast, realistic skin pores and fine facial details, sharp eyes, subtle film grain, soft falloff, shallow depth of field, 85mm portrait lens, professional studio photography.\n\nImportant: Preserve my reference face exactly. Do not change my identity, facial proportions, skin tone/texture, hairstyle, or facial features. No cartoon, no painting, no artificial beauty filter, no distorted hands or watch.\n\nAspect ratio: 2:3 vertical.",
+    "title": "Cinematic B&W Studio Portrait",
+    "description": "Generates a highly realistic, low-key monochrome studio portrait while preserving specific facial features and identities from a reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829207268_v7wa6v_HQqDEcEa4AAzMkt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32680,
+    "content": "Scene Description and Camera Angle\nAn intimate indoor portrait of a man sitting on a wooden chair turned backward, with the backrest facing the camera. The camera angle is slightly low and from the side, positioned at the subject's chest level or slightly below, creating an intimate, observational feel. The composition is tight, with the man occupying most of the frame. The background is minimalist and gray, with no distracting details.\nMain Subject\nUse the person from the {argument name=\"reference image\" default=\"attached reference image\"}. Preserve his natural facial asymmetry, skin texture, eye shape, lip line, and distinctive tense, melancholic gaze.\nPose\nThe subject sits low, leaning slightly forward. One hand is raised toward his face, holding a cigarette between his fingers. His other hand hangs relaxed and holds a small glass. His posture is closed, thoughtful, slightly tired, with a sense of inner tension and silence.\nClothing and Accessories\nA dark long coat or heavy wool jacket, dark shirt, dark jeans, and chunky boots. A cigarette in one hand and a transparent glass with a drink in the other. The clothing is restrained, rugged, and minimalist, without bright or distracting details.\nAdditional Details\nAn old, worn wooden chair, a matte gray background, a wooden floor, and subtle image grain. The scene feels like a photography studio or an empty room. Soft side lighting highlights the face, beard, hair, and folds in the clothing.\nPhotography Style\nBlack-and-white fashion/editorial photography with a magazine-shoot aesthetic. Cinematic portrait, natural-looking light, high contrast, soft shadows, subtle film grain, and realistic depth of field. Focus on the face and upper body, with the background slightly blurred.\nAtmosphere\nDark, thoughtful, intimate, and slightly dramatic. A mood of solitude, fatigue, and inner dialogue. The subject looks mature, charismatic, calm, and tense at the same time.\nImage Quality\nAs if photographed with an {argument name=\"camera type\" default=\"iPhone 16 Pro\"}: highly detailed, realistic dynamic range, natural skin texture, detailed hair, fabric, and wood, natural lighting, and professional portrait processing without plastic-looking skin.",
+    "title": "Moody Monochrome Male Portrait",
+    "description": "An intimate black-and-white studio portrait of a man sitting backward on a wooden chair, featuring high contrast and a melancholic gaze.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829203320_o8uu41_HQpsLxAbQAELCTO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32699,
+    "content": "Do not change the facial features, proportions, hair color, or hair type. 100% likeness. A spontaneous shot, captured by chance. Chest-up close-up, on a {argument name=\"location\" default=\"balcony with white wrought-iron railings\"}. FOCUS: The camera is focused only on the {argument name=\"background focus\" default=\"sea and sky—the dark blue sea with a clearly defined horizon and the bright sky are sharp and detailed\"}. The girl is completely out of focus, appearing as a soft, glowing blurred silhouette in the foreground, with only hints of her {argument name=\"outfit color\" default=\"white\"} dress and hair visible through the blur. Her torso is slightly tilted backward, with one hand lifting her hair at the crown of her head—the silhouette is only faintly discernible through the out-of-focus effect. A white slip dress with ruffles and thin straps. A delicate gold chain necklace and bracelet. The white wrought-iron balcony railings are partially sharp, creating a frame. Natural, bright daylight, clean contrast. Natural skin with visible pores. No plastic look, no AI appearance. Film grain, clean and bright color palette.",
+    "title": "Out of Focus Balcony Portrait",
+    "description": "A highly specific photographic prompt for GPT Image 2 that creates a shallow depth-of-field effect, focusing on a coastal background while leaving the subject as a blurred silhouette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829222058_dqkm2t_HQppNs0b0AAVVNi.jpg",
+      "https://cms-assets.youmind.com/media/1787829222919_a5fbkg_HQppOTYagAAlfL7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 32703,
+    "content": "A realistic portrait of a {argument name=\"subject\" default=\"beautiful young woman with long, wavy auburn red hair and striking light blue eyes\"} leaning casually against a {argument name=\"background\" default=\"red brick wall in an urban alleyway\"} She is wearing a {argument name=\"outfit\" default=\"relaxed unbuttoned pale sage green shirt with layered silver necklaces\"} Warm golden hour sunlight creates a soft glowing rim light around her hair, natural lighting, cinematic photography shallow depth of field, sharp focus, 8k resolution, shot on 85mm lens.",
+    "title": "Urban Alleyway Golden Hour Portrait",
+    "description": "A realistic portrait prompt for a young woman in an urban setting during golden hour, utilizing high-end photography techniques.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829226227_utnhqh_HQpBIiBacAAoeLS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32679,
+    "content": "Photorealistic studio portrait of a young man centered in frame against a seamless {argument name=\"background color\" default=\"mint green\"} background, wearing {argument name=\"headphone style\" default=\"vintage-style over-ear headphones\"} with intricate engraved ear cups and muted gold accents, paired with round dark-rimmed glasses featuring subtle green-tinted lenses. He has short, slightly tousled dark hair and a calm, confident expression. Outfit consists of a ribbed turtleneck and a tailored blazer in matching sage/mint tones, with delicate embroidered botanical patterns on the fabric. Skin appears natural with visible pores and a soft matte finish, preserving realism. Lighting is soft and diffused from the front, with a subtle rim light to separate the subject from the background. Shallow depth of field creates smooth creamy bokeh, with sharp focus on the eyes. Shot in a cinematic editorial style with cool green color grading, soft pastel contrast, minimal film grain, and high-resolution detail. Symmetrical composition, medium close-up framing, 85mm lens perspective, f/1.8 depth of field, emphasizing high-fidelity textures on fabric and metallic elements.",
+    "title": "Mint Green Audiophile Portrait",
+    "description": "A detailed prompt for creating a cinematic, high-fidelity studio portrait of a man wearing vintage headphones against a mint green background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829201902_pacevn_HQopRqnb0AACVCa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 32629,
+    "content": "Create an ultra-realistic vertical professional lifestyle portrait of a {argument name=\"subject\" default=\"young Black adult man\"} seated confidently behind a polished wooden executive desk in a modern office, looking directly at the camera with a calm, focused, businesslike expression. He wears a crisp white dress shirt, a navy blue tie with tiny white dots, and a dark wristwatch, sitting in a tall black leather executive chair. His left hand holds a black corded telephone receiver to his ear, with the coiled cable leading off to the right, while his right hand writes with a black pen on a small yellow sticky note pad on the desk. The scene should feel like focus, confidence, and an important call in progress.\n\nUse a realistic office background with a dark charcoal wall and a wooden bookshelf on the right containing exactly 4 black ring binders, a small potted plant, a row of orange-and-white books, and a black globe on an upper shelf. On the left wall, include a white crowned lion head logo above the brand text {argument name=\"brand text\" default=\"FACELESS CONTENT\"}. Add exactly 5 productivity notes on the wall: 4 colored sticky notes and 1 checklist sheet. The 4 sticky notes must read: yellow note “PLAN - FOCUS - EXECUTE”, blue note “DISCIPLINE TODAY SUCCESS TOMORROW”, pink note “BE BETTER THAN YESTERDAY”, and green note “HARD WORK BEATS TALENT”. The checklist sheet must be titled “DAILY CHECKLIST” and list exactly 5 checked items: “MEETING”, “CALLS”, “EMAILS”, “PLANNING”, and “FOLLOW UP”.\n\nOn the desk, include exactly 6 visible work items: a black mug printed with three stacked words {argument name=\"mug text\" default=\"Discipline Focus Execution\"}, a black calculator, a neat stack of multicolored sticky notes, the yellow note pad he is writing on, a clipboard document titled {argument name=\"document title\" default=\"BUSINESS PLAN\"} with simple charts, and an open silver laptop on the right edge. Use warm realistic lighting, sharp facial detail, natural skin texture, shallow-to-moderate depth of field, polished wood reflections, and a high-end corporate editorial photography style. Frame as a vertical 2:3 portrait, waist-up composition, subject centered, desk filling the lower third, no extra people, no surreal elements, no distorted hands, and no watermark.",
+    "title": "Executive Office Phone Call Portrait",
+    "description": "A realistic corporate portrait of a focused young executive taking a phone call at a motivational office desk.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829234836_o1uw0q_HQofIeJX0AAVLd5.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 32589,
-    "content": "Ultra-realistic candid portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} outdoors in bright natural daylight, captured from a slightly low angle. She has straight, shoulder-length dark black hair with soft wispy bangs framing her forehead, natural facial features, warm clear skin with realistic pores and subtle imperfections, and a bright genuine smile showing her teeth. She is wearing a simple {argument name=\"clothing\" default=\"oversized plain white crew-neck T-shirt\"}. Her head is slightly tilted back, shoulders relaxed, and she is looking toward the camera with a joyful, spontaneous expression. Natural loose strands of hair move softly around her face. Background: {argument name=\"background\" default=\"modern city skyscrapers and urban architecture\"}, heavily blurred with shallow depth of field, creating a clean contemporary city atmosphere. Strong but soft midday sunlight illuminates her face naturally, with realistic highlights and gentle shadows. Photography style: authentic candid street photography, photorealistic skin texture, natural color grading, realistic hair strands, subtle lens imperfections, 50mm lens look, shallow depth of field, soft cinematic bokeh, high dynamic range, crisp facial detail, natural exposure, no artificial beauty filter, no plastic skin, no excessive retouching. Composition: vertical portrait, approximately 4:5 aspect ratio, close-up to medium shot, subject centered slightly to the right, face prominently framed, realistic smartphone/camera photography aesthetic.",
-    "title": "Realistic Urban Candid Portrait",
-    "description": "A highly detailed prompt for creating an authentic, photorealistic candid portrait of an East Asian woman in an urban setting with natural lighting.",
+    "content": "Ultra-realistic candid portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} outdoors in bright natural daylight, captured from a slightly low angle. She has straight, shoulder-length dark black hair with soft wispy bangs framing her forehead, natural facial features, warm clear skin with realistic pores and subtle imperfections, and a bright genuine smile showing her teeth. She is wearing a {argument name=\"clothing\" default=\"simple oversized plain white crew-neck T-shirt\"}. Her head is slightly tilted back, shoulders relaxed, and she is looking toward the camera with a joyful, spontaneous expression. Natural loose strands of hair move softly around her face. Background: {argument name=\"background\" default=\"modern city skyscrapers and urban architecture\"}, heavily blurred with shallow depth of field, creating a clean contemporary city atmosphere. Strong but soft midday sunlight illuminates her face naturally, with realistic highlights and gentle shadows. Photography style: authentic candid street photography, photorealistic skin texture, natural color grading, realistic hair strands, subtle lens imperfections, 50mm lens look, shallow depth of field, soft cinematic bokeh, high dynamic range, crisp facial detail, natural exposure, no artificial beauty filter, no plastic skin, no excessive retouching. Composition: vertical portrait, approximately 4:5 aspect ratio, close-up to medium shot, subject centered slightly to the right, face prominently framed, realistic smartphone/camera photography aesthetic.",
+    "title": "Candid East Asian Woman Street Portrait",
+    "description": "A detailed prompt for generating an ultra-realistic candid portrait of a young woman in an urban setting, focusing on natural features and shallow depth of field.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787732136777_i3yrmj_HQoJ6d7a4AAeBB8.jpg",
-      "https://cms-assets.youmind.com/media/1787732136832_cg7zk8_HQoJ7yDaIAAjltl.jpg"
+      "https://cms-assets.youmind.com/media/1787829216815_9puz1r_HQoJ6d7a4AAeBB8.jpg",
+      "https://cms-assets.youmind.com/media/1787829216888_ydbkxw_HQoJ7yDaIAAjltl.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 32643,
-    "content": "Create an ultra-realistic close-up photographic portrait of {argument name=\"character description\" default=\"a young East Asian woman in her early 20s\"} turning her head over her bare shoulder and looking directly into the camera with a calm, slightly distant expression. Frame from the upper chest to the top of the head in a vertical 4:5 composition, face slightly left of center, shoulders angled away, head rotated back toward viewer. She has {argument name=\"hair style\" default=\"dark brown-black hair loosely pinned in a messy updo with wispy strands falling across her forehead and cheeks\"}, almond-shaped dark eyes, natural brows, a straight delicate nose, soft full lips, subtle cheek moles, visible pores, fine skin texture, faint under-eye detail, natural uneven skin sheen, and no heavy makeup. She wears {argument name=\"clothing\" default=\"a thin gray spaghetti-strap top\"} with one strap visible on the shoulder. Use warm directional late-afternoon sunlight from behind and camera-left, creating golden rim light along hair, cheek, jawline, neck, and shoulder, with chiaroscuro across the face: one side softly illuminated, the other falling into gentle shadow. Add realistic specular highlights in the eyes, tiny flyaway hairs catching the backlight, slight haze in the air, and a muted dark indoor background with strong shallow depth of field and creamy bokeh. Shoot like an intimate cinematic portrait on an 85mm lens at wide aperture, natural color grading, warm highlights, soft shadows, high dynamic range but not over-clean. Emphasize accurate facial structure and stable facial landmarks: clear brow ridge, eye spacing, nose bridge, philtrum, jawline, cheekbone plane, and neck anatomy. Avoid plastic skin, flat frontal lighting, glamour retouching, exaggerated beauty filters, over-sharpening, artificial symmetry, extra jewelry, text, watermark, or studio backdrop.",
-    "title": "Cinematic Backlit Portrait",
-    "description": "A realistic warm backlit close-up portrait prompt for creating intimate cinematic photography with natural skin texture and directional chiaroscuro lighting.",
+    "content": "Create a close-up cinematic portrait photograph of {argument name=\"subject\" default=\"a young East Asian woman\"} turning her head over her bare shoulder and looking directly into the camera with a calm, slightly introspective expression. Frame her from the upper chest to the top of the head in a vertical 4:5 composition, face slightly left of center, shoulder in the foreground, neck elongated, head tilted subtly downward and back toward the viewer. She has {argument name=\"hair style\" default=\"dark brown-black hair loosely pinned up in a messy bun\"} with fine stray strands across the forehead, temples, cheek, and nape, catching the light. Define the facial structure clearly: oval face, soft jawline, delicate cheekbones, straight natural brows, almond-shaped dark brown eyes with small catchlights, a softly rounded nose bridge and tip, natural full lips, visible skin pores, faint under-eye texture, tiny beauty marks on the cheek and neck, and realistic uneven skin sheen. Use {argument name=\"lighting\" default=\"warm late-afternoon directional backlight from behind the right side, with soft chiaroscuro across the face\"}: a golden rim light outlining the hair, cheek, shoulder, and neck, gentle shadow on the far side of the face, specular highlights on the eyes and lips, and no flat frontal lighting. She wears {argument name=\"clothing\" default=\"a thin gray spaghetti-strap top\"}, only the strap and bare shoulder visible. Background is an indistinct warm gray-brown interior or shaded outdoor wall, heavily blurred with shallow depth of field, subtle haze, soft bokeh, and a filmic natural color grade. Make it look like an intimate 85mm lens portrait on full-frame camera, very shallow depth of field, natural grain, imperfect organic realism, fine flyaway hairs, no plastic skin, no overly clean beauty retouching, no text, no watermark, no extra people.",
+    "title": "Warm Backlit Cinematic Portrait",
+    "description": "A realistic close-up portrait prompt for generating an intimate golden-hour photograph with directional light, chiaroscuro, and natural skin texture.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787732177039_bqpx3h_HQn0T5Db0AAv5ZS.jpg"
+      "https://cms-assets.youmind.com/media/1787829242418_bq38a2_HQn0T5Db0AAv5ZS.jpg"
     ],
     "needReferenceImages": true
   },
@@ -51,14 +197,14 @@
     "needReferenceImages": false
   },
   {
-    "id": 32600,
-    "content": "A cinematic, photorealistic portrait of a {argument name=\"subject\" default=\"mysterious young man\"} use image for face reference standing perfectly centered in a surreal crowd of identical faceless figures dressed entirely in white. The man has short, neatly styled black hair, sharp masculine facial features, light stubble and a trimmed beard, intense dark eyes, and a calm, emotionless expression. He wears an {argument name=\"outfit\" default=\"impeccably tailored all-black suit\"} with a {argument name=\"shirt\" default=\"wine colour dress shirt\"}, creating a dramatic contrast against the surrounding white figures.\n\nThe crowd consists of numerous human-like figures wearing seamless white full-body garments that completely cover their heads and faces, creating an eerie, anonymous atmosphere. Several white figures stand close to the camera in the foreground, heavily blurred and partially obscuring the frame, while others fade into the background.\n\nSymmetrical composition, centered subject, eye-level camera, shallow depth of field, strong foreground bokeh, soft diffused studio lighting, muted monochromatic black-and-white palette, subtle atmospheric haze, minimalist surrealism, psychological thriller aesthetic, mysterious and unsettling mood, high-end fashion editorial photography, realistic skin texture, cinematic lighting, extremely detailed, natural proportions, 85mm portrait lens, f/2 aperture, soft background blur, vertical composition, ultra photorealistic, 8K detail.\n\nNo text, no watermark, no logo, no extra limbs, no distorted faces, no cartoon or illustration style.",
-    "title": "Surreal Man in Crowd of Faceless Figures",
-    "description": "A surrealist cinematic portrait of a sharp-featured man in a black suit surrounded by anonymous white-clothed figures.",
+    "id": 32698,
+    "content": "Subject:\n{argument name=\"main theme\" default=\"Supper with a rabbit and lights\"}\n\nMain Subject:\nIn the center of the screen, at a night restaurant table, a woman in a white dress holds a round white rabbit plushie next to her face. Dishes on a white plate in the foreground, a wine glass, and a candle create a dinner atmosphere.\n\nPerson/Expression:\nThe woman tilts her face slightly to the right of the screen and looks straight at the camera with a calm, expressionless look. A rounded oval face with a small chin, large horizontally long eyes, thin loose eyebrows, a small rounded nose tip, thin upper lip and thick reddish lower lip. Bright skin with light pink around the eyes and cheeks. A bright {argument name=\"hair color\" default=\"chestnut\"} shoulder-length bob is parted near the center, with thin bangs and hair ends moving inward and outward.\n\nClothing/Pose:\nAn ivory thin-strap dress with fine gathers at the low neckline and soft transitions and ruffles below the waist. Both elbows are placed on the table, supporting a round rabbit plushie on the left side of the face with both hands. Wearing a thin necklace and bracelet.\n\nBackground/Light:\nA white plate and silver cutlery in the foreground, a wine glass and small flowers on the left, and a mirrored shop interior, bottles, and hanging lights in the background. The candle on the left and a {argument name=\"light color\" default=\"warm light source\"} above softly illuminate the face and white cloth.\n\nComposition/Camera:\n3:4 vertical orientation, capturing the seated person from the waist up at a horizontal camera angle. The rabbit is to the left of the face, the food plate is in the lower left foreground, focusing on the person and plushie while making the background lighting a bokeh effect.\n\nTexture/Style:\nA warm amber-toned live-action photo. Finely depicts the soft plushie, satin-like clothes, and the luster of glass and food.\n\nNegative:\nDo not change the white rabbit plushie to another animal",
+    "title": "Cozy Dinner with Rabbit Plush",
+    "description": "A prompt for a warm, amber-toned photo of a woman having dinner at a restaurant while holding a white rabbit plushie.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787732144263_fvjq2g_HQnhbv1acAAGJ5J.jpg"
+      "https://cms-assets.youmind.com/media/1787829220440_vkp4a5_HQZmuTbbYAA6UE2.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
   },
   {
     "id": 32616,
@@ -70,6 +216,16 @@
       "https://cms-assets.youmind.com/media/1787732157610_tsuyfr_HQnD9NSXsAAOi7F.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 32711,
+    "content": "Using the provided reference image, regenerate it as a more realistic, high-quality 2K portrait photo while preserving the same woman, kitchen setting, laptop, black top, gold earrings, and the wooden spoon with the clipped-on fuzzy microphone. Make the framing slightly closer and more centered on her face and upper torso, with the laptop still visible in the lower right foreground. Adjust her expression so she looks like she is mid-sentence with her mouth slightly open, looking toward the camera, and make the spoon microphone held more vertically and closer to her mouth. Keep the natural indoor daylight and casual social-media interview/selfie feel. Avoid a 4K/upscaled look, avoid cartoonish skin, and keep realistic skin texture, sharp facial detail, and natural proportions.",
+    "title": "Realistic 2K Talking Portrait Edit",
+    "description": "Transforms a reference selfie into a sharper realistic 2K talking-head portrait while preserving the subject and setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1787829238052_4uqlks_HQnAbm7XIAA73QB.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 32614,
