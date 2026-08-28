@@ -1,13 +1,16 @@
 [
   {
-    "id": 32701,
-    "content": "A vibrant painting of {argument name=\"subject\" default=\"five pink flamingos\"} wading in shallow water along a {argument name=\"location\" default=\"tropical beach\"} at sunset, with the large sun low on the horizon casting vivid orange, yellow, and blue reflections on the ocean. Silhouetted palm trees frame the scene to the right, and the sky transitions from deep red and orange near the sun to bright blue at the top, creating a warm, tranquil, and exotic atmosphere. The brushstrokes are bold and expressive, giving the artwork a lively, {argument name=\"style\" default=\"impressionistic style\"}.",
-    "title": "Impressionistic Pink Flamingo Painting",
-    "description": "A vibrant, bold brushstroke painting prompt depicting flamingos wading in shallow water during a tropical sunset.",
+    "id": 32776,
+    "content": "Transform the subject in the attached photo into a square miniature painting in a {argument name=\"painting style\" default=\"palette-knife impasto oil-painting style\"}. [Style — Emphasize 3D Texture] Use bold, thick impasto paint applied with a palette knife, raised approximately 3–5 mm from the surface. Each paint mass should show clear directional knife marks, including visible grooves and ridges. Assume lighting from the upper left. Add bright highlights to raised paint and distinct shadows to recessed or overlapping areas, creating strong light-and-shadow contrast like a real oil-paint surface. Add subtle shadows along paint edges so each color mass appears layered and built up at different depths, rather than flat. Preserve the subject’s silhouette, colors, and composition from the original photo, but avoid realistic rendering. Simplify the form using thick masses of paint. Keep the texture controlled and not overly detailed. The subject should remain recognizable through a limited number of bold, dimensional palette-knife strokes. [Background] Use a fixed {argument name=\"background color\" default=\"warm ivory/cream\"} watercolor-paper background with a subtle, slightly bumpy texture. Keep the background flat to contrast with the dimensional subject. [Text] Add a black handwritten caption in a corner along the bottom or wherever there is the most empty space. Automatically determine the caption based on the subject: Food/drink → menu name (e.g., “Pancake,” “Earl Grey Cake”) Product → product name or category Person → a short descriptive phrase or name-like text Animal → animal name or species Landscape → place name or a short word describing the scene The handwriting should look naturally imperfect, slightly uneven, and tactile—not like a clean digital font. Text color must remain black. [Composition] Aspect ratio: 1:1 Place the subject in the center with generous negative space. Show only the main subject, with no additional props or distracting elements.",
+    "title": "Impasto Oil Painting Transformation",
+    "description": "A detailed instruction set to transform a photo into a square miniature painting using thick impasto palette-knife techniques.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787829224944_kaa0ca_HQrkybGXAAAmD9u.jpg"
+      "https://cms-assets.youmind.com/media/1787917350232_ds8z7c_HQzX1BHasAAQNwA.jpg",
+      "https://cms-assets.youmind.com/media/1787917350384_ldgzb0_HQzX149aAAAHEHj.jpg",
+      "https://cms-assets.youmind.com/media/1787917351172_0jatlr_HQzX2oCbQAADxLF.jpg",
+      "https://cms-assets.youmind.com/media/1787917351888_p4ba0s_HQzX3YwaEAAyWDJ.jpg"
     ],
-    "needReferenceImages": false
+    "needReferenceImages": true
   },
   {
     "id": 32733,
