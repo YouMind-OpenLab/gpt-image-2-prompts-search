@@ -10,12 +10,95 @@
     "needReferenceImages": true
   },
   {
-    "id": 33247,
-    "content": "Goal: Create a clean screenshot-like composition showing an AI image editing variation of a simple bear character, with the smaller original/reference result above and a larger edited result below.\n\nCanvas: Wide horizontal canvas, approximately 1200×960 px, very light gray-white background with lots of empty space. Minimal interface feel, like a chat/image generation workspace.\n\nLayout: Place exactly 2 bear illustration cards on the canvas. Card 1 is small and positioned in the upper-right quadrant, with a rounded white image area. Card 2 is much larger, positioned lower-left/center, also inside a rounded white image area. Between them, slightly below the small top bear, place exactly 1 pale blue rounded chat bubble containing Japanese instruction text. On the large bottom image card, include exactly 2 small translucent gray UI controls: one rounded pill button at the bottom-left labeled 「編集」 and one circular icon button at the bottom-right with a simple upload/share arrow icon.\n\nText content: The single chat bubble must read exactly: {argument name=\"edit instruction text\" default=\"頬の横から首にかけてのあたりを、もっと細くしてください。\"}\n\nSubject details: The subject is exactly 2 versions of the same cute, hand-drawn, upright bear-like character. The character has off-white fur, thick black sketchy outlines, rounded ears with small inner-ear marks, wide circular eyes with black pupils, a large black oval nose, a tiny straight horizontal mouth, pink circular blush marks on both cheeks, short arms hanging down, stubby legs, and small toe lines. The top bear is smaller and slightly slimmer with a more vertical body. The bottom bear is larger and centered in its card, with a rounded head and body, narrowed neck/cheek area, simple symmetrical pose, and a slightly uncertain blank expression.\n\nVisual style: Minimal doodle mascot illustration, rough black ink outline, subtle paper or canvas texture, soft off-white fill, pale pink cheek circles, no shadows except very faint card/UI softness. The overall image should look like a casual GPT image editing interface screenshot, not a polished poster.\n\nConstraints: Use exactly 2 bear illustrations, exactly 1 Japanese chat bubble, and exactly 2 UI overlay controls. Keep the background mostly empty, preserve the asymmetrical placement, avoid adding extra characters, extra text, watermarks, or decorative elements.",
-    "title": "Bear Character Edit Screenshot",
-    "description": "Generates a minimalist AI image editing interface screenshot showing two versions of a cute hand-drawn bear mascot with a Japanese edit instruction bubble.",
+    "id": 33326,
+    "content": "A mysterious {argument name=\"hair color\" default=\"blue-haired\"} fairy floats, holding a {argument name=\"staff material\" default=\"silver\"} staff. Her eyes, shining in the moonlight, are full of curiosity, and she has a gentle smile.",
+    "title": "Mysterious Blue Haired Fairy",
+    "description": "A magical prompt for a blue-haired fairy holding a silver staff, glowing under the moonlight with a gentle smile.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788336940855_bnbv76_HRL6Z81bYAAE3g3.jpg"
+      "https://cms-assets.youmind.com/media/1788423036605_hgxj3a_HRQEW05WoAIRTnO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33370,
+    "content": "Using REFERENCE_0 as the architectural source, transform the engraved scene into a realistic handcrafted 3D miniature diorama / scale model. Keep the same ancient temple, terraced hillside, stone retaining walls, stairways, trees, and tiny human figures, but convert everything from flat illustration into physical model materials with depth, shadows, and tactile detail. Present it from an elevated three-quarter isometric view on a clean light studio background. Add a polished dark wooden display plinth underneath the whole terrain and attach exactly 1 brass nameplate centered on the front edge reading {argument name=\"plaque text\" default=\"The Temple of Artemis\"}. Make the terrain look like a museum-quality architectural maquette: carved stone blocks, rocky cliff texture, miniature shrubs and cypress trees, weathered ivory temple columns, and subtle natural colors. Preserve the overall layout from the reference while making it feel like a tangible collectible model, not a drawing or painting.",
+    "title": "Ancient Temple 3D Diorama",
+    "description": "Transforms a historical architectural illustration into a realistic museum-style miniature diorama on a wooden display base.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788423075409_i1xe2a_HRPkevJbkAAwJnL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33371,
+    "content": "Create a cinematic vertical urban scene in a realistic anime-inspired style: a lone {argument name=\"character description\" default=\"young woman with a short black bob haircut\"} stands in the lower left foreground of a modern city plaza, seen from behind and slightly to the side, looking upward. She wears {argument name=\"outfit\" default=\"an all-black fitted coat or blazer dress, black tights, and black ankle boots\"}, with a calm, small silhouette against large architecture. The setting is {argument name=\"city setting\" default=\"a clean Japanese business district plaza with glass-and-concrete office buildings, tiled pavement, railings, elevated walkways, streetlights, and a quiet road\"}. Above the city is a bright blue daytime sky with scattered white clouds, but a colossal dark circular shadow arcs across the sky and buildings like the underside or shadow of an enormous ring-shaped megastructure passing overhead; the ring is partly visible as blurred layered bands and faint structural ribs, creating an ominous eclipse-like curve from the upper left across the center and fading toward the upper right. The huge shadow also falls across the building facades and pavement, emphasizing the massive scale. Use a low wide-angle street-level composition, strong perspective, realistic lighting, crisp architectural detail, subtle atmospheric haze, high contrast between sunlit clouds and the dark arc, and a sense of quiet awe and science-fiction mystery. No text, no watermark, no extra characters.",
+    "title": "Girl Beneath Giant Sky Ring",
+    "description": "A cinematic sci-fi city scene showing a lone black-clad woman staring up at an enormous circular megastructure shadow over modern buildings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788423075766_m5u036_HROveUPacAAeVj4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33372,
+    "content": "Create a cinematic hard-science-fiction space scene showing an enormous crescent-shaped orbital megastructure above {argument name=\"planet\" default=\"Earth\"}. The structure is a dark metallic incomplete ring, shaped like a giant curved arc or broken crescent, with intricate layered panels, exposed trusses, scaffolding, antennae, docking spines, and thin mechanical ribs. At its center is a small glowing spherical hub with warm amber light, connected to the crescent by exactly three long articulated support arms, plus one separate small curved module floating near the hub. The megastructure should feel massive, industrial, and partially under construction, with subtle orange running lights along the frame and cold white highlights on black gunmetal surfaces. Below, the bright curved horizon of Earth fills the lower third of the image, covered in pale clouds and atmospheric haze, while the upper two thirds are deep black space with sparse tiny stars. Use a vertical 4:5 composition, wide-angle orbital perspective, dramatic scale, realistic lighting, high contrast, photorealistic rendering, cinematic concept art detail, no text, no watermark, no visible astronauts or spacecraft.",
+    "title": "Crescent Orbital Megastructure",
+    "description": "A photorealistic cinematic prompt for creating a massive crescent-shaped sci-fi space station orbiting Earth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788423077275_ts98rf_HROoFnRaYAAaK9A.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33373,
+    "content": "Create a dark cinematic science-fiction concept art scene in a vertical 4:5 frame. The viewpoint is low and centered, looking upward inside a colossal gothic-mechanical megastructure: 1 immense cylindrical central tower rises from the foreground into the distance, built from stacked industrial rings, armored platforms, pipes, ribs, vents, and black metal panels, with a bright vertical molten-orange energy core glowing through its center. Surround it with 2 towering side walls of dense futuristic city machinery, filled with tiny amber window lights and layered mechanical detail, forming a deep cathedral-like shaft. At the top, show 1 huge circular open aperture revealing a starry night sky and 1 pale crescent planet or moon partially visible behind the rim, creating a halo of cold white light. In the foreground on a grated metal platform, place exactly 2 main foreground subjects: 1 lone female cyberpunk rider, seen from behind, wearing a fitted black tactical outfit with red accents and a decorative emblem on the back, short dark hair, standing upright and gazing at the tower; and 1 aggressive futuristic black motorcycle parked to her left, low-slung with sharp aerodynamic armor, red glowing strips, and orange engine lights. Add 1 waist-high railing across the foreground with small industrial lamps, wet reflective metal flooring, subtle fog, drifting particles, sparks, and atmospheric haze. Use a dramatic scale contrast, symmetrical composition, ultra-detailed hard-surface design, dark gunmetal palette with warm amber-orange lighting and cold moon rim light, high contrast, volumetric lighting, realistic cinematic rendering, epic dystopian cyberpunk mood. Customize the main figure as {argument name=\"character description\" default=\"a lone female cyberpunk rider with short dark hair\"}, the vehicle as {argument name=\"vehicle type\" default=\"an aggressive futuristic black motorcycle\"}, the central structure as {argument name=\"tower type\" default=\"a colossal cylindrical industrial tower with a glowing orange energy core\"}, the setting mood as {argument name=\"atmosphere\" default=\"dark, foggy, cinematic, dystopian\"}, and the celestial object as {argument name=\"sky object\" default=\"a pale crescent planet behind a circular aperture\"}. No readable text, no logos, no daylight, no cartoon style.",
+    "title": "Cyberpunk Megastructure Rider",
+    "description": "A cinematic prompt for generating an epic cyberpunk rider scene inside a towering futuristic industrial megastructure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788423077877_o9wci5_HROfgDLbIAECU_F.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33323,
+    "content": "Metropolitan Police Heavy Equipment Task Force Robot Unit {argument name=\"task\" default=\"assisting with the pruning of large trees at a shrine\"}",
+    "title": "Police Robot Pruning Shrine Trees",
+    "description": "A unique prompt imagining a specialized police heavy equipment robot unit assisting with the pruning of ancient trees at a traditional shrine.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788423034301_0vfjv3_HRNhBtxbsAAVkRo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33325,
+    "content": "A {argument name=\"guardian\" default=\"bronze Talos\"} eliminating enemy ships attempting to enter the harbor",
+    "title": "Bronze Talos Harbor Defense",
+    "description": "A mythological prompt depicting the bronze giant Talos defending a harbor from enemy ships.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788423036475_4ei5me_HRNgjyYaYAAiw1p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33298,
+    "content": "Create a highly realistic cinematic sci-fi scene on the surface of the Moon at night. In the foreground, show {argument name=\"alien characters\" default=\"two adorable small alien babies\"} standing on a {argument name=\"lunar terrain\" default=\"rugged, rocky lunar landscape\"}. They have pale gray-green skin, enormous glossy black almond-shaped eyes, oversized heads, tiny noses and mouths, and realistic subtle skin texture. The front alien baby stands confidently and looks upward toward space, raising one hand and making a clear V-shaped victory/peace sign with two fingers. It wears a slightly dusty, detailed white-gray miniature astronaut suit with a round helmet collar, realistic fabric folds, seams, boots, and a small alien emblem on the chest. The second alien baby is positioned directly behind the first, partially hidden behind its body. It looks upward with a shy, curious expression while gently holding onto the front alien's arm/body. Make sure the second alien is clearly visible but noticeably behind the first. Above them in the sky, place a {argument name=\"space object\" default=\"large detailed artificial satellite/space telescope\"}, dramatically floating in space. It should have a long cylindrical metallic body, intricate mechanical components, antennas, a large parabolic communication dish, and two enormous rectangular blue solar-panel arrays extending horizontally on opposite sides. The satellite should be angled naturally in perspective and positioned directly above the aliens, as if they are looking at it. Make the satellite highly detailed, photorealistic, and physically believable. The background should be an enormous deep-black star-filled sky, with thousands of sharp stars and a subtle glowing Milky Way band. Include a small realistic Earth visible in the distance on the left side, appearing blue and white against the darkness of space. The Moon's surface should be extremely detailed: gray regolith, fine dust, craters, rocks, stones, ridges, mountains, and realistic shadows. Use dramatic low-angle lunar lighting that creates long shadows and gives the scene a cinematic three-dimensional appearance. Composition: portrait orientation, 4:5 aspect ratio. Place the two alien babies in the lower center-left foreground, the satellite dominating the upper half of the composition, and Earth small on the left side. Leave enough negative space around the satellite and stars. The aliens' gaze and raised hand should clearly point toward the satellite. Style: ultra-photorealistic, cinematic science fiction, extremely detailed, realistic materials and textures, physically accurate lighting, volumetric depth, sharp focus, high dynamic range, realistic lunar environment, professional movie concept art, 8K detail, natural proportions, dramatic composition. Important: Make the satellite's orientation, solar panels, dish, and the aliens' upward gaze visually consistent so it is obvious that the aliens are looking at the satellite. No extra characters, no distorted anatomy, no extra fingers, no duplicate limbs, no blurry faces, no cartoon",
+    "title": "Lunar Alien Babies and Satellite",
+    "description": "A very detailed sci-fi prompt for a realistic lunar scene with two alien infants in astronaut suits looking at a massive space telescope.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788423009942_fwu0dr_HRMvUXZaAAAWxmv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33365,
+    "content": "Create a cinematic vertical 9:16 concept-art render of {argument name=\"vehicle concept\" default=\"a rideable mechanical dragon motorcycle\"} in a dark industrial garage at night, shown in an extreme close-up three-quarter front view from the left. The machine should preserve a dragon's head silhouette while functioning like a real motorcycle: one enormous front tire integrated beneath the jaw, visible brake disc, fork suspension, axle hardware, and mechanical frame components. The dragon head is built from countless overlapping glossy black and gunmetal armor plates, razor-sharp layered scales, angular cheek plates, metallic fangs, and multiple swept-back horns; include exactly 5 prominent horns/spikes on the top silhouette: two tall central curved horns, two long rearward side horns, and one shorter forward brow spike. Add a single intense glowing {argument name=\"eye color\" default=\"red\"} eye on the visible side, red illuminated vents under the armor, and a circular red LED ring around the front wheel. Use {argument name=\"metal finish\" default=\"black chrome and dark titanium with copper-gold highlights\"}, with sharp specular reflections and small scratches. The background is a shadowy cyberpunk workshop with faint smoke, red accent lights, blurred pipes and structural beams, and a wet reflective concrete floor catching red reflections. Mood: aggressive, realistic, rideable, high-performance, dragon-like but engineered. Lighting should be dramatic low-key with red glow from inside the machine and subtle cool rim light from the environment. Ultra-detailed hard-surface design, photorealistic 3D render quality, shallow depth of field, no rider, no text, no logo, no watermark.",
+    "title": "Mechanical Dragon Motorcycle",
+    "description": "A cinematic prompt for generating a rideable dragon-inspired motorcycle concept with glowing red cyberpunk details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788423068455_htivrb_HRMkWeBbUAAfwp9.png",
+      "https://cms-assets.youmind.com/media/1788423068631_b9cckj_HRMkXD6aIAAmi1A.png",
+      "https://cms-assets.youmind.com/media/1788423068524_h3bzh5_HRMkX3LaUAEwZsx.png",
+      "https://cms-assets.youmind.com/media/1788423069411_rkxnon_HRMkYkrbkAACjIs.png"
     ],
     "needReferenceImages": true
   },
@@ -29,16 +112,6 @@
       "https://cms-assets.youmind.com/media/1788336938696_mojxtr_HRKAnxtWsAENUWM.jpg",
       "https://cms-assets.youmind.com/media/1788336938745_z03yh6_HRKAq5uXsAALHEz.jpg",
       "https://cms-assets.youmind.com/media/1788336939492_kzf8w2_HRKAs5JX0AAFE5p.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 33254,
-    "content": "Create a simple full-body cartoon illustration of a standing bear character on a plain off-white background. The bear is centered and front-facing, drawn in a playful naive doodle style with very thick, uneven black outlines, rounded shapes, and minimal detail. The body is mostly {argument name=\"fur color\" default=\"warm white\"}, tall and pear-shaped, with short rounded legs, dangling arms, and small three-bump paws. The face has two large circular startled eyes with tiny black pupils, round ears with pink inner circles, and a long vertical teardrop-shaped snout colored {argument name=\"snout color\" default=\"soft peach-orange\"}. Add one oval black nose near the lower part of the snout with a tiny vertical line below it, giving the bear a blank surprised expression. Include exactly 14 faint beige short dash marks scattered down the belly as subtle fur spots. Keep the composition clean, flat, hand-drawn, childlike, and slightly imperfect, with no text, no shadows, no scenery, and no extra characters.",
-    "title": "Naive Cartoon Bear Character",
-    "description": "Generates a simple thick-outline doodle bear character suitable for mascot concepts, stickers, or children’s illustration.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788336946298_djf2sb_HRLpPvCbgAA8Vm_.jpg"
     ],
     "needReferenceImages": true
   },
@@ -64,17 +137,6 @@
       "https://cms-assets.youmind.com/media/1788336954241_6eenps_HRJRsNBXIAEgNl7.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 33206,
-    "content": "Ethereal ocean-fantasy anime illustration of a beautiful young adult woman, vertical 9:16 composition. She has a delicate youthful face, large expressive blue-gray eyes, soft peach-toned skin, a small elegant nose, and a bright gentle smile. Her hair is long, voluminous {argument name=\"hair color\" default=\"aqua-blue and turquoise\"}, flowing dramatically around her body as if carried by underwater currents. Loose curled strands frame her face, with decorative braids and small ocean-inspired ornaments woven into the hair.\n\nShe wears an elegant flowing {argument name=\"gown color\" default=\"sea-blue\"} fantasy gown inspired by {argument name=\"aesthetic\" default=\"ancient Greek and mermaid\"} aesthetics. The dress has a fitted strapless pale aqua bodice with soft gathered fabric and subtle translucent layers. A wide ornate waist sash wraps around her waist, decorated with golden rope, seashell-like details, pearls, and intricate metallic ornaments. The lower dress is long, flowing, and lightweight, with layered translucent blue fabric sweeping dramatically outward.\n\nAccessories\nDelicate gold forehead ornament\nLayered pearl and turquoise necklace\nSmall seashell and floral hair ornaments\nGold bracelets and thin bangles\nElegant decorative earrings\nFine gold detailing throughout the outfit\nPose\n\nShe stands gracefully with both arms raised above her head, hands gently overlapping, creating an elegant flowing silhouette. Her body is slightly turned while her face looks toward the viewer. Her long blue hair and dress billow dramatically around her, creating a sense of movement and magical energy.\n\nBackground\n\nA fantasy ocean environment filled with sweeping turquoise waves, foamy white water, floating droplets, soft mist, and flowing ribbons of blue water. The composition should feel as though she is emerging from a magical sea. White negative space and pale aqua tones contrast beautifully with the vivid turquoise elements.\n\nArt Style\n\nHigh-detail Japanese fantasy illustration, elegant anime character art, watercolor and ink painting, delicate linework, soft cel-shading, painterly textures, luminous highlights, flowing fabric, dynamic hair movement, intricate costume design, magical ocean atmosphere, graceful feminine composition, dreamy fantasy poster aesthetic.\n\nColor palette: turquoise, aqua blue, pale cyan, ivory white, soft gold, subtle peach skin tones.\n\nNegative prompt: photorealistic, 3D CGI, plastic texture, modern clothing, dull colors, distorted anatomy, extra fingers, malformed hands, asymmetrical eyes, messy facial features, low detail, blurry artwork, heavy outlines, text, watermark, logo.",
-    "title": "Ethereal Ocean Fantasy Anime Illustration",
-    "description": "A detailed anime-style prompt for an ethereal woman with aqua-blue hair, flowing in a sea-fantasy environment inspired by Greek aesthetics.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788336899131_4k6ulw_HRGyrx8acAAV86w.jpg",
-      "https://cms-assets.youmind.com/media/1788336899094_s18qd9_HRGys9Xa8AAHjok.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 33255,
@@ -135,18 +197,6 @@
     "description": "Creates an anime character concept transformed into a classical armless marble Venus de Milo statue for stylized reference art.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1788336956319_hcfwt0_HRHkZM7WUAE82Um.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 33264,
-    "content": "Using the provided reference image as the style and layout guide, create a new side-by-side reconstruction sample with exactly 2 vertical panels: the left panel is a bright realistic seaside photo, and the right panel is a pixel-art reinterpretation of that photo. Replace the lighthouse subject with a sunny coastal roadside scene: turquoise sea in the foreground, distant blue snow-capped mountains, a blue sky with large soft clouds, and an orange roadside pole holding exactly 2 round convex traffic mirrors plus a small vertical warning sign. In the pixel-art panel, rebuild the same coastal scene in a soft healing pastel palette with chunky low-resolution blocks, simplified mountains, sea, clouds, road edge, and the same mirror pole/sign composition. Add light decorative pixel UI accents: small dotted grids, tiny square particles, sparkle marks, and exactly 3 small heart icons near the upper-right. Include a small English caption near the lower-left of the pixel panel reading {argument name=\"caption text\" default=\"WIND FROM THE SEA CARRIES LIGHT.\"}. Keep the overall feeling airy, calm, nostalgic, and clean, with warm cream highlights and pale blue tones. Use a wide horizontal canvas, split evenly between the realistic source-like panel and the pixel reconstruction panel. Optional customization: set the location mood to {argument name=\"location mood\" default=\"sunny Japanese coastal road\"}, the sign text to {argument name=\"sign text\" default=\"注意\"}, the sea color to {argument name=\"sea color\" default=\"turquoise blue\"}, and the pixel palette to {argument name=\"pixel palette\" default=\"pastel blue, peach, cream, and lavender\"}.",
-    "title": "Pastel Pixel Coastal Reconstruction",
-    "description": "Generates a two-panel realistic-to-pixel-art coastal scene inspired by a reference layout, useful for showcasing soothing pixel reconstruction samples.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788336954257_dxxwzu_HRHgCxNbsAAq9tQ.jpg",
-      "https://cms-assets.youmind.com/media/1788336954098_aoz0qh_HRHgEuraIAAJcjL.jpg",
-      "https://cms-assets.youmind.com/media/1788336954095_2um5uh_HRHgFohbEAAjOiw.jpg"
     ],
     "needReferenceImages": true
   },
