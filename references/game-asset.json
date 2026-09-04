@@ -10,14 +10,87 @@
     "needReferenceImages": true
   },
   {
-    "id": 33326,
-    "content": "A mysterious {argument name=\"hair color\" default=\"blue-haired\"} fairy floats, holding a {argument name=\"staff material\" default=\"silver\"} staff. Her eyes, shining in the moonlight, are full of curiosity, and she has a gentle smile.",
-    "title": "Mysterious Blue Haired Fairy",
-    "description": "A magical prompt for a blue-haired fairy holding a silver staff, glowing under the moonlight with a gentle smile.",
+    "id": 33453,
+    "content": "Goal: Create a clean anime character turnaround reference sheet for {argument name=\"character name\" default=\"an elf maid girl\"}, showing the same character consistently from multiple head angles for model-sheet use.\n\nCanvas: Wide horizontal 16:9 canvas on a warm off-white paper background, lightly textured, with thin pale gray panel dividers. Arrange six evenly spaced bust portraits in a 3-column by 2-row grid.\n\nLayout: Include exactly 6 labeled views: 1) FRONT (0°), 2) 3/4 LEFT (45°), 3) 3/4 RIGHT (45°), 4) LEFT (90°), 5) RIGHT (90°), 6) BACK (180°). Place each label centered beneath its portrait in small uppercase gray-black sans serif text. Keep all portraits cropped from upper chest to just above the hair accessories, consistent scale and alignment.\n\nSubject details: The character is a young anime elf maid with pale skin, large red eyes, long pointed elf ears, and a calm slightly serious expression. She has {argument name=\"hair color\" default=\"light aqua blue\"} short bob hair with straight bangs and soft layered ends, with the back view showing rounded bob volume and nape-length strands. Her outfit is a black-and-white gothic lolita maid uniform: black dress bodice, white ruffled shoulders and collar, black straps, small cross motifs, a black choker collar with a metal ring and red tag charm, and subtle silver ear piercings. Add a black-and-white frilled maid headband with black bows and a small red cross hair clip on the left side of her bangs.\n\nVisual style: High-quality Japanese anime illustration, crisp clean line art, soft cel shading, delicate gradients in the hair, glossy highlights, detailed eyes, refined character-design-sheet rendering, neutral studio lighting, minimal background, professional reference sheet aesthetic.\n\nConstraints: Preserve character identity across all 6 views, keep the same hairstyle, accessories, outfit, and proportions in every panel. Do not add extra views, full-body poses, speech bubbles, watermarks, logos, or decorative background elements.",
+    "title": "Anime Elf Maid Turnaround Sheet",
+    "description": "Generates a six-view anime character reference sheet for a blue-haired elf maid, useful for consistent character design and pose reference.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788423036605_hgxj3a_HRQEW05WoAIRTnO.jpg"
+      "https://cms-assets.youmind.com/media/1788509914772_4ewpd8_HRWQFzIasAAm0Hl.jpg",
+      "https://cms-assets.youmind.com/media/1788509914933_t7md4g_HRWQFzHa4AAO7Fy.jpg",
+      "https://cms-assets.youmind.com/media/1788509914847_dnopj4_HRWQFzQa4AEJuWA.jpg",
+      "https://cms-assets.youmind.com/media/1788509916153_ek08wv_HRWQFzUaYAA_R10.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33425,
+    "content": "A grand scene of an {argument name=\"exploration ship\" default=\"exploration ship\"} crossing a {argument name=\"glowing nebula\" default=\"glowing nebula\"} in the far reaches of space.",
+    "title": "Space Exploration Ship in Nebula",
+    "description": "A cinematic space scene featuring an exploration ship traversing a glowing, vibrant nebula in the deep universe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509883851_wx826p_HRVN8kYWAAciXS7.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 33454,
+    "content": "Create a photorealistic cinematic wide shot of a quiet medieval rural village in {argument name=\"season\" default=\"late spring\"}, viewed from eye level along a muddy dirt lane that leads into the settlement. The scene is framed by two large thatched-roof wooden cottages in the extreme foreground, one on the left with pale plaster walls and weathered timber, and one on the right with an open rustic shelter structure; both roofs are rough straw with dark, aged texture. Add woven stick fences, wooden posts, small gardens, leafy weeds, and dense greenery along both sides of the path. In the middle ground, show exactly 5 visible villagers: 1 woman in the center walking toward the viewer in a simple beige linen dress and headscarf carrying a basket, 1 woman in the right foreground seen from behind wearing a rust-brown dress with a white head covering, 1 pale-clothed figure near the left fence, and 2 smaller distant figures on the lane. Include exactly 3 small livestock animals near the center-left of the path, resembling sheep or goats, one dark and two light. The village should contain about 7 visible structures: 2 dominant foreground thatched buildings, 3 smaller timber cottages in the middle distance, 1 tall wooden church or watchtower with a pointed spire, and 1 additional thatched roof partly visible behind it. Background: a lush green forested hillside with mixed deciduous and conifer trees under an overcast gray sky. Use natural muted colors, soft diffused daylight, shallow depth of field with the foreground and central figures sharp and the far background slightly softened, highly detailed historical textures, realistic fabric, straw, timber, mud, and foliage. No modern objects, no text, no fantasy elements, no vehicles, no power lines.",
+    "title": "Photorealistic Medieval Village Lane",
+    "description": "Generates a cinematic historical village scene suitable for worldbuilding, period drama concept art, or realistic medieval environment design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509917165_y84rkq_HRTr1eebEAA8gmy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33436,
+    "content": "2x2 grid, 16:9, do this for 4 {argument name=\"topic\" default=\"extreme sports\"}: <isometric_diorama_topology>        [ AI_INFER: ROOFING / AWNINGS ]       /                             /|      /   [ W ] [ O ] [ R ] [ D ]   / |  <-- Text forms the back wall.     /    (AI_INFER: Shelves/Props)/  |      Materials match [TOPIC].    +-----------------------------+   |    |                             |   |    |      [ AI_INFER: Mini ]     |   +    |      [ Character Pose ]     |  /    |                             | /    +-----------------------------+/    [ AI_INFER: Themed Floor Base ] </isometric_diorama_topology>  INSTRUCTION:  1. Render as a photorealistic, physical scale model on a desk. 2. The letters of [WORD] must be thick, architectural blocks. 3. Warm, cozy lighting glows from inside the structure.",
+    "title": "Isometric Diorama Topology Visualization",
+    "description": "A structural prompt for generating isometric dioramas on a desk with thick architectural text integrated into the design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509894397_z8t28l_HRND0_JWAAM9UDS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33428,
+    "content": "Stylized portrait of a young woman with {argument name=\"hair color\" default=\"short silver hair\"} and {argument name=\"eye color\" default=\"emerald green eyes\"}, dressed in a {argument name=\"outfit\" default=\"sleek futuristic white outfit with metallic accents\"}. Futuristic urban neon backdrop featuring swirling holographic patterns. Anime-inspired digital painting, soft yet vibrant rendering. Themes of sophistication, mystery, and advanced technology. Medium close-up scale focusing on expressive eyes and intricate clothing details. Bright, colorful lighting with a cool-toned palette of icy blues, silvers, and glowing greens. Clean, fluid line quality with a calm yet enigmatic mood. Inspired by cyberpunk elegance and futuristic minimalism.",
+    "title": "Futuristic Silver Hair Anime Portrait",
+    "description": "A prompt for a stylized digital painting of a young woman with silver hair and emerald eyes in a cyberpunk urban setting, blending sophistication with anime aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509886349_wv6nl1_HRSsD1gWEAA4HVO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33357,
+    "content": "Create an ultra-realistic cinematic 8K full-body portrait of {argument name=\"character name\" default=\"a brooding young man\"} standing in side profile on a vast cracked wet asphalt plain under a dark stormy sky. The subject has {argument name=\"hair and beard\" default=\"messy black hair and a short dark beard\"}, a serious downward gaze, and a slim athletic build. Dress him entirely in distressed black clothing: one oversized worn black T-shirt, one long tattered sleeveless black outer layer or open vest trailing in the wind, one pair of black cargo pants, and one pair of heavy black lace-up combat boots. Behind him place one enormous circular eclipse-like portal: a nearly black disk outlined by a blazing molten golden ring, with sparks, embers, and fiery cracks along the circumference. Make the left half of the man’s body disintegrate into ash, smoke, dust, and glowing orange particles, as if being pulled into or burned away by the portal; the right half remains solid and sharply detailed. Use high-contrast dramatic lighting, warm golden rim light from the portal, cool gray ambient storm light, volumetric smoke, flying embers, realistic fabric texture, wet reflective ground, and a desaturated charcoal-and-gold color palette. Composition should be vertical, full body centered slightly right, portal filling most of the background, low horizon, cinematic depth, no text, no watermark, no extra people.",
+    "title": "Cinematic Eclipse Disintegration Portrait",
+    "description": "A dramatic full-body fantasy portrait of a man dissolving into ash before a fiery eclipse portal, ideal for cinematic character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509901467_9xtt1l_HRQsiPQbgAA9jLD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33326,
+    "content": "A mysterious {argument name=\"hair color\" default=\"blue-haired\"} {argument name=\"character\" default=\"fairy\"} floating and holding a silver staff. Eyes shining in the moonlight are full of curiosity, with a gentle smile.",
+    "title": "Moonlight Blue Fairy",
+    "description": "A concise Japanese prompt for creating an image of a mysterious blue-haired fairy floating under the moonlight with a silver staff.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509873755_f9v27v_HRQEW05WoAIRTnO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33456,
+    "content": "Create a cinematic photorealistic 16:9 action shot of {argument name=\"character concept\" default=\"Future Spawn reimagined as a biomechanical flying demon-drone\"} soaring through a cloudy sky at golden-hour dusk. The subject is centered slightly right, angled toward the viewer in a dynamic forward dive, with a red-and-black armored insectoid helmet, a glowing green visor, exposed organic sinewy musculature beneath metal plating, and worn battle-scarred surfaces with scratches, grime, rivets, and dark steel trim. Include exactly two large batlike mechanical wings stretching horizontally across the frame, each dark crimson with segmented metal ribs and scalloped edges; exactly one rotary jet cannon mounted on the left side firing a bright orange energy beam off the left edge with muzzle glow and heat bloom; and exactly one right-side mechanical claw arm with three long curved silver talons. Add small hoses, pistons, cables, wing hinges, and cybernetic joints to make the creature feel like a hybrid of demon, aircraft, and futuristic toy collectible. Use shallow depth of field, dramatic motion blur, atmospheric haze, soft backlit clouds, high-contrast rim lighting, and a blockbuster sci-fi fantasy aesthetic. Color palette: {argument name=\"armor color\" default=\"deep crimson red\"}, matte black, gunmetal silver, neon green visor light, and orange weapon flare. No text, no watermark, no border, no extra characters.",
+    "title": "Future Spawn Flying Demon Drone",
+    "description": "A cinematic prompt for generating a photorealistic futuristic Spawn-inspired biomechanical winged drone in flight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509918939_biv6ki_HRQBUQJbAAAvhae.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 33370,

@@ -1,11 +1,275 @@
 [
   {
-    "id": 33366,
-    "content": "Create a realistic vertical portrait photograph of a young Japanese woman, about 20 years old, standing outdoors in soft natural daylight. She has {argument name=\"hair color\" default=\"dark brown\"} shoulder-length slightly wavy hair with wispy bangs, clear fair skin, warm brown eyes, and a gentle calm smile while looking directly at the camera. She wears a simple {argument name=\"hoodie color\" default=\"off-white\"} pullover hoodie with drawstrings and fitted blue denim jeans. Frame her from mid-thigh to above the head in a relaxed three-quarter pose, body angled slightly sideways, hands loosely together near her waist. The background is an urban glass-and-metal walkway or building facade with tall vertical dark columns and bright circular bokeh highlights, heavily blurred by shallow depth of field. Use bright backlighting from the upper right, soft rim light on the hair, natural skin texture, realistic fabric folds, subtle makeup, clean editorial photography, 85mm lens look, high dynamic range, soft contrast, photorealistic detail, no text, no watermark.",
-    "title": "Realistic Japanese Woman Hoodie Portrait",
-    "description": "A photorealistic outdoor portrait prompt for creating a young Japanese woman in a casual hoodie with soft daylight and urban bokeh.",
+    "id": 33421,
+    "content": "Subject:\n{argument name=\"subject\" default=\"Blue bar in gym light\"}\n\nMain Body:\n{argument name=\"main subject\" default=\"A vertical portrait of an adult woman sitting at a lat pulldown machine in the center of a bright gym, pulling a blue curved bar wide with both hands toward her chest.\"}\n\nCharacter/Expression:\nFace turned slightly upward and toward the right side of the frame, eyes also looking top right. Focused expression with mouth closed. Gentle oval face, natural eyebrows, elongated brown eyes, small nose, and pale pink lips. Dark brown hair tied in a high round bun with thin bangs and wisps at the temples.\n\nClothing/Pose:\n{argument name=\"clothing\" default=\"Light blue thin-strap sports bra with fine gathers at the chest center and short black drawstring shorts.\"} Sitting facing the machine with a straight back, arms opened wide to the upper left and right, pulling the bar to the upper chest.\n\nBackground/Light:\nSoft daylight enters from a large window on the left, highlighting the woman's left silhouette. In the background, gray training machines and cables are softly blurred with shallow depth of field.\n\nComposition/Camera:\n3:4 vertical composition, waist-up portrait from slightly below eye level. The subject is large in the center, with the blue bar captured in an arc from top to chest, without cutting off the arms at the edges. Focus on face and upper body, background naturally blurred.\n\nTexture/Style:\nPhotorealistic live-action photography. Detailed rendering of natural skin texture, stretch of sports fabric, blue paint on the metal bar, and soft shadows from window light.\n\nNegative:\nDo not change the shape or grip of the bar; do not let the hair down.",
+    "title": "Woman Doing Lat Pulldowns in Sunlit Gym",
+    "description": "A photorealistic prompt describing a woman exercising in a gym with detailed focus on lighting, physique, and equipment texture.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788423071447_nowsnq_HRRlcvlakAAF36-.jpg"
+      "https://cms-assets.youmind.com/media/1788509877973_d8404f_HRIdy4IbYAAqAJi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33448,
+    "content": "Create a stunning high-end artistic portrait of {argument name=\"character description\" default=\"a young woman\"}, preserving a realistic facial identity with an oval face, soft fair skin, hazel-green eyes, straight dark brown hair, and a gentle natural smile. Style her as a sophisticated contemporary mixed-media fashion portrait: she wears a deep navy blazer over a white blouse with an oversized soft bow at the collar, a wide dark blue velvet headband, and ornate dangling silver-and-pearl earrings. Frame her from the chest up, centered and facing forward, with calm eye contact and elegant posture. Surround her with expressive watercolor and acrylic floral elements on textured cream paper: exactly 5 prominent flowers are visible — 1 large blue flower on the lower left, 1 red-pink flower partly behind it, 1 pale pink blossom on the upper right, 1 white-pink blossom on the mid-right, and 1 purple flower cluster near the lower right shoulder. Add blue, violet, rose, beige, and gold paint washes, splatters, brush strokes, and a few vertical drips around the edges, blending the portrait into the painterly background. Use luminous soft studio lighting, refined skin detail, semi-realistic digital painting mixed with watercolor collage, premium editorial beauty portrait mood, delicate gold flecks, shallow depth, high resolution, no text, no watermark, no extra people.",
+    "title": "Mixed-Media Floral Fashion Portrait",
+    "description": "Creates an elegant chest-up portrait of a young woman blended with watercolor flowers, gold flecks, and contemporary fashion styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509911983_wbv7iy_HRV_CDsaQAAKJF3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33419,
+    "content": "Photorealistic lifestyle portrait of a {argument name=\"subject\" default=\"young adult woman\"} sitting casually on old stone steps in a lush, peaceful botanical park. She has long, straight dark brown hair with a center part, natural elegant makeup, defined eyebrows, warm brown eyes, subtle gold hoop earrings, and a delicate gold pendant necklace. She is wearing a loose, light-gray button-up shirt with rolled sleeves and matching relaxed-fit gray trousers, paired with clean white low-top sneakers. She sits cross-legged while holding a pencil and writing in a small spiral notebook resting on her lap, looking directly into the camera with a calm, gentle, confident expression.\n\nBeside her is a {argument name=\"accessory\" default=\"black casual backpack\"} and a clear plastic cup of iced coffee with a straw. Behind her are mature trees, dense green foliage, a rustic wooden park bench, and a small traditional wooden gazebo. Warm late-afternoon sunlight filters naturally through the leaves, creating soft golden highlights, realistic dappled shadows, and beautiful background bokeh. Cinematic photography, natural skin texture, realistic fabric details, shallow depth of field, 50mm lens, f/2.0, eye-level composition, soft warm color grading, high dynamic range, editorial lifestyle photography, ultra-realistic, highly detailed, authentic candid atmosphere, vertical portrait composition, 4:5 aspect ratio.",
+    "title": "Photorealistic Portrait of Woman in Botanical Park",
+    "description": "A detailed prompt for generating a high-quality, photorealistic lifestyle portrait of a woman sitting in a lush park, featuring soft golden lighting and an editorial style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509875681_2jrfmv_HRV3bhPbsAAF1Fj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33440,
+    "content": "Create a premium photorealistic vertical studio portrait of two subjects: exactly 1 adult young woman and exactly 1 miniature child version of her sitting on her lap. The adult is a {argument name=\"adult woman ethnicity\" default=\"South Asian young woman\"} with warm medium skin, dark expressive eyebrows, natural makeup, soft pink lips, and dark wavy hair loosely tied back in a low messy updo with a center part and a few face-framing strands. She wears an oversized {argument name=\"adult shirt color\" default=\"black\"} crew-neck T-shirt, black pants, a delicate thin necklace with a tiny pearl pendant, small stud earrings, and a brown leather-strap wristwatch. She is seated, angled slightly toward camera, looking downward with a gentle closed-mouth smile at the miniature child on her lap. The child is a very small, realistic, doll-like younger version of the adult, with matching facial features, dark wavy hair, small stud earrings, and a happy upward gaze toward the adult; the child sits cross-legged on the adult's lap with hands resting in front. The child wears a muted {argument name=\"child outfit color\" default=\"brown taupe\"} short-sleeve top and matching pants with subtle textured fabric, plus small sandals. Use warm golden-hour studio lighting with a soft rim light from the upper right catching the hair, smooth skin tones, realistic fabric texture, shallow depth of field, and a softly blurred {argument name=\"background color\" default=\"warm beige-brown\"} seamless backdrop. Composition is waist-up, centered, vertical 4:5 portrait, intimate mother-and-child/fantasy miniature scale mood, high-end editorial photography, 85mm lens look, natural posing, crisp facial detail, no text, no watermark, no extra people, no distorted hands, no cartoon styling.",
+    "title": "Miniature Child Lap Portrait",
+    "description": "A warm photorealistic vertical portrait of a young woman gazing at a tiny child-like version of herself seated on her lap.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509903456_b6t5gh_HRVmyARbcAAIjqm.jpg",
+      "https://cms-assets.youmind.com/media/1788509903406_i15sfm_HRVmyAfa4AAZ8wW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33449,
+    "content": "Create an ultra-realistic 3×3 professional studio portrait collage featuring the same adult man, approximately {argument name=\"age range\" default=\"25–35 years old\"}, with consistent identity across all nine frames. He is a clean-shaven Black man with medium-brown skin, short neat black hair, warm brown eyes, a confident approachable expression, and polished corporate styling. Outfit remains consistent in every panel: tailored {argument name=\"suit color\" default=\"navy blue\"} suit, light blue open-collar dress shirt with no tie, white pocket square, silver wristwatch, black dress shoes where visible. Use soft professional studio lighting, sharp realistic skin texture, natural facial proportions, and a smooth cool gray-blue gradient studio backdrop, except the full-body standing frame may use a lighter gray wall and floor.\n\nCanvas and layout: square image, divided into exactly 9 equal portrait panels in a clean 3×3 grid with thick white gutters between frames and no text, logos, watermarks, or labels. Each panel should look like a different selection from the same executive headshot session while preserving the same face, grooming, outfit, lighting quality, and color palette.\n\nFrame count and poses, exactly 9 portraits:\n1. Top-left: close three-quarter portrait, seated or cropped at chest, looking off to the viewer’s left, right hand resting under chin in a thoughtful pose, wristwatch visible.\n2. Top-center: wider seated portrait on a stool, body angled slightly, smiling toward camera, one hand resting near knee, full suit visible from head to knees.\n3. Top-right: tight front-facing head-and-shoulders headshot, direct eye contact, gentle smile, symmetrical corporate profile-photo style.\n4. Middle-left: half-body standing portrait, facing camera, both hands adjusting or holding the suit jacket near the waist, confident slight smile.\n5. Middle-center: medium close-up leaning forward, chin resting on fist, direct gaze, wristwatch prominent, composed executive expression.\n6. Middle-right: seated side-angle portrait, leaning forward with hands clasped, looking toward camera, friendly smile, suit sleeve and watch visible.\n7. Bottom-left: seated three-quarter portrait, looking off to the viewer’s right, one arm resting across lap, relaxed smile, watch visible.\n8. Bottom-center: full-body standing portrait against a light gray wall, hands holding jacket lapels, legs crossed at the ankles, black dress shoes visible, centered with more negative space.\n9. Bottom-right: medium portrait of the man speaking or presenting, looking slightly off-camera, both hands raised open in a conversational gesture, friendly professional smile.\n\nVisual style: premium LinkedIn/executive branding photography, photorealistic, high-resolution, crisp focus, flattering softbox lighting, subtle rim light, realistic fabric folds, consistent color grading, balanced contrast, clean corporate aesthetic. Avoid caricature, illustration, inconsistent faces, extra people, duplicated limbs, distorted hands, text, or overly dramatic lighting.",
+    "title": "Nine-Frame Corporate Portrait Collage",
+    "description": "Generates a realistic 3×3 studio portrait collage of one professional man in varied executive poses for branding or LinkedIn-style imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509912927_q8x9g9_HRUs4MebIAANMo_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33406,
+    "content": "A close-up selfie portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} with fair porcelain skin, looking directly at the camera with a calm, slightly pouty expression. She has {argument name=\"hair style\" default=\"long, straight jet-black hair\"} with soft curtain bangs falling over her forehead and framing her face. She wears large black rectangular glasses. Her makeup is natural with defined eyebrows, subtle eyeliner, and matte dusty-pink lips. Her right hand is raised, fingers gently resting against her cheek and chin. She wears a {argument name=\"clothing\" default=\"fitted ribbed beige/taupe tank top\"} with a square neckline. Around her neck are two delicate silver layered necklaces with small heart pendants. On her right wrist she wears two thin silver chain bracelets, one with a small dangling heart charm. The background is a softly lit indoor hotel-style room with warm beige walls, a glowing table lamp, and a light-colored sofa slightly out of focus. Soft natural lighting, shallow depth of field, photorealistic, high detail, 8k, vertical portrait composition.",
+    "title": "East Asian Woman Selfie Portrait",
+    "description": "A photorealistic prompt for generating a high-detail close-up selfie of a woman with a calm expression, featuring specific styling and indoor lighting details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509859096_z3byrc_HRQ9cnaakAAK2pR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33383,
+    "content": "Use the reference image as the identity of the person, preserving the exact facial features, face shape, hairstyle, beard, skin tone, proportions, and overall identity while recreating the same artistic composition, illustration style, and visual energy. Ultra-realistic cinematic portrait of a {argument name=\"subject\" default=\"stylish man\"} in a {argument name=\"outfit\" default=\"black suit\"}, captured from behind with his head turned over his shoulder, giving a sharp, intense look toward the camera. {argument name=\"hair style\" default=\"Short textured hair with subtle highlights\"}, well-groomed beard. Dramatic spotlight from above creating a warm golden halo effect on his hair and face, fading into a dark background. Strong chiaroscuro lighting with deep shadows and soft highlights. Aspect ratio 4:3. Add the watermark",
+    "title": "Ultra-Realistic Cinematic Spotlight Portrait",
+    "description": "Creates a dramatic, intense cinematic portrait using chiaroscuro lighting and a overhead spotlight to produce a golden halo effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509892748_oas1uj_HRS5YRmb0AA3OC_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33445,
+    "content": "Create a photorealistic executive portrait of a confident {argument name=\"subject description\" default=\"young Black man\"} seated in a black leather office chair in a modern high-rise office at dusk. He is centered in the frame, looking directly at the camera with a calm serious expression, legs crossed, one hand adjusting his black tie near the collar and the other resting on his lap. He wears a tailored {argument name=\"suit color\" default=\"camel tan\"} suit, crisp white dress shirt, black tie, black pocket square, black dress socks, polished black leather shoes, and a black wristwatch. The office has floor-to-ceiling windows behind him showing a softly blurred blue evening city skyline with bokeh lights; on the right is a dark wooden shelving unit with warm under-shelf lighting, books, decor, and a small green plant; on the left edge is a dark desk. Use realistic skin texture, natural proportions, sharp focus on the subject, shallow depth of field, cinematic corporate lighting with warm interior highlights and cool blue window light, vertical full-body composition, premium business magazine style, no text, no watermark.",
+    "title": "Executive Office Portrait",
+    "description": "A photorealistic full-body business portrait of a suited executive seated in a modern high-rise office, ideal for professional branding visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509907912_27etjw_HRSzRIOWgAElaR9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33428,
+    "content": "Stylized portrait of a young woman with {argument name=\"hair color\" default=\"short silver hair\"} and {argument name=\"eye color\" default=\"emerald green eyes\"}, dressed in a {argument name=\"outfit\" default=\"sleek futuristic white outfit with metallic accents\"}. Futuristic urban neon backdrop featuring swirling holographic patterns. Anime-inspired digital painting, soft yet vibrant rendering. Themes of sophistication, mystery, and advanced technology. Medium close-up scale focusing on expressive eyes and intricate clothing details. Bright, colorful lighting with a cool-toned palette of icy blues, silvers, and glowing greens. Clean, fluid line quality with a calm yet enigmatic mood. Inspired by cyberpunk elegance and futuristic minimalism.",
+    "title": "Futuristic Silver Hair Anime Portrait",
+    "description": "A prompt for a stylized digital painting of a young woman with silver hair and emerald eyes in a cyberpunk urban setting, blending sophistication with anime aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509886349_wv6nl1_HRSsD1gWEAA4HVO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33412,
+    "content": "A spontaneous, vertical {argument name=\"photo style\" default=\"iPhone-style\"} photo of a person seated at the cabin table of a {argument name=\"location\" default=\"private jet\"} during cruise altitude. They lean back casually, one hand holding a {argument name=\"drink\" default=\"coffee\"}, the other resting on an open MacBook. They wear a dark navy, high-quality knit polo shirt, tailored off-white trousers, and a subtle silver watch. The jet interior is sophisticated: high-gloss wood veneer paneling, soft ambient LED lighting, and fully retracted window shades revealing a deep blue sky at altitude. The pose and expression convey effortless, relaxed confidence — natural posture, not posed for camera. Shot in a realistic mobile photography style: natural depth of field, slight handheld imperfection, soft window-light falloff, accurate skin texture and fabric detail, true-to-life color grading (no oversaturation), sharp focus on the watch and knit texture while the background softly blurs.",
+    "title": "Private Jet Lifestyle Photography",
+    "description": "A realistic iPhone-style photo prompt depicting a person relaxing in a private jet cabin with natural lighting and professional attire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509866424_9w1ww7_HRSleUGW8AIjUYF.jpg",
+      "https://cms-assets.youmind.com/media/1788509866570_pfs5f3_HRSleUlbUAAmiXF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33447,
+    "content": "Create a stunning ultra-realistic high-resolution close-up portrait of a young woman with {argument name=\"hair color\" default=\"long dark brown hair with warm copper highlights\"}, centered in a vertical 3:4 frame. She faces the camera with a calm, confident expression and a subtle closed-mouth smile, gazing directly forward through perfectly round gold-rimmed sunglasses with dark reflective lenses. The lenses must clearly reflect a golden outdoor park scene with trees, a pathway, and low sunlight. Use dramatic warm golden-hour lighting with strong diagonal bands of sunlight and shadow crossing her forehead, sunglasses, cheeks, lips, neck, and sweater, as if filtered through blinds or tree branches. Her skin should look natural and luminous with realistic pores and soft highlights; lips are glossy deep red. She wears a chunky ribbed {argument name=\"sweater color\" default=\"deep crimson red\"} turtleneck sweater, visible from shoulders to chest, plus pearl drop earrings on both ears. Add exactly 2 small decorative embroidered pins on the turtleneck: 1 tiny red heart on the viewer-left side and 1 tiny white dove on the viewer-right side. Background is dark, warm brown, softly blurred, with shallow depth of field and no visible environment details. Hair should be voluminous, loose, and glossy, framing the face with individual strands catching orange rim light. Cinematic editorial fashion photography, 85mm lens look, sharp focus on face and glasses, rich contrast, warm amber tones, photorealistic textures, no extra text except a subtle cursive signature reading {argument name=\"signature text\" default=\"Enaya\"} in the bottom-right corner.",
+    "title": "Golden Hour Sunglasses Portrait",
+    "description": "Generates a cinematic close-up fashion portrait of a woman in round sunglasses and a red turtleneck with dramatic warm shadow bands.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509908770_ablyp5_HRSblmiaAAA8JO4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33441,
+    "content": "Create a photorealistic full-body studio portrait featuring exactly two subjects: one real young woman and one cute miniature 3D chibi version of the same woman standing beside her. The real woman is {argument name=\"woman age and appearance\" default=\"a young adult woman with fair skin, delicate features, blue-green eyes, full brows, and dark brown hair in a loose messy updo with face-framing tendrils\"}; she stands upright on the left, facing the camera with a calm neutral expression. Her right arm rests naturally at her side, and her left hand gently rests on top of the chibi character’s head. The chibi version stands on the right, about knee-to-thigh height compared with the woman, with an oversized head, large glossy expressive eyes, rosy cheeks, a small smiling mouth, and matching dark brown messy-bun hair; she looks upward toward the real woman with a sweet admiring expression. Both subjects wear matching outfits: {argument name=\"outfit\" default=\"a burgundy leather biker jacket with silver zippers and snaps, a black top, high-waisted wide-leg black trousers, and chunky black shoes\"}. Use realistic fabric and leather textures on the real woman and polished stylized 3D toy-like materials on the chibi while keeping the same outfit details. Place them on a seamless {argument name=\"background color\" default=\"neutral gray\"} studio backdrop with a soft floor shadow, centered composition, full bodies visible from head to shoes, vertical portrait framing, soft diffused studio lighting, subtle cinematic realism, high detail, natural skin texture, no text, no watermark, no extra people, no cropped feet.",
+    "title": "Woman With Matching Chibi Portrait",
+    "description": "Generates a photorealistic studio portrait of a woman standing beside a cute miniature chibi version of herself in matching fashion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509903472_rngluw_HRSYUgZa4AAlctP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33459,
+    "content": "Create a high-quality vertical outdoor portrait photograph of {argument name=\"character name\" default=\"a young South Asian man\"} sitting relaxed on an ornate black wrought-iron park bench in a garden. He has medium warm skin tone, natural skin texture, thick black hair swept back with volume, dark expressive eyes, and a neatly trimmed full beard and mustache. He wears a dark chocolate-brown traditional kurta shalwar with a short stand collar and button placket, sleeves casually rolled to the forearms. His pose is calm and confident: seated slightly angled, one hand resting on his lap showing a simple silver ring and black beaded bracelet, the other hand lifted to his hair, showing a gold wristwatch. He looks directly at the camera with a serious, composed expression. Behind him is a lush flowering bougainvillea-covered arbor with vivid magenta and white blossoms, rendered with creamy shallow-depth-of-field bokeh. Use warm golden-hour sunlight from the side/back, soft natural shadows, realistic skin detail, cinematic color grading, 85mm portrait lens look, crisp subject focus, and a premium lifestyle photography feel. Vertical 9:16 composition, waist-up to full seated crop, no text, no watermark, no extra people.",
+    "title": "Golden Hour Garden Bench Portrait",
+    "description": "A realistic vertical lifestyle portrait of a young South Asian man in traditional clothing seated on a garden bench with blooming flowers behind him.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509920597_594zqt_HRSXiy8bEAAzYlu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33422,
+    "content": "9:16 vertical format, real mobile phone photography. {argument name=\"subject\" default=\"Adult Korean woman\"}, fair and natural skin texture, dark hair casually tied in a low loose bun, a few strands of wet hair falling beside the face; off-white thin-strap knit top, loose off-white knit cardigan naturally slipping off the shoulders, extremely fine metal necklace.\n\nLate-night Korean city street, wet ground after rain reflecting blue, purple, pink, and warm yellow neon; buildings, light boxes, vehicles, and rain form rich colored light and shadow. Low-angle wide-angle close-up shot, about waist height, slightly tilted; the person is in the bottom right of the frame, body naturally tilted, head slightly tilted back, eyes almost closed, lazy and cool, not looking at the camera, like a friend's casual snapshot.\n\nSlow shutter speed, the person remains relatively clear, while background buildings, car lights, and neon produce natural directional trails, and the wet ground forms elongated reflections. A large amount of dark night sky and architectural space is reserved at the top, the building on the right extends upwards to form strong perspective lines, and the street on the left extends into the distance, with a slightly unbalanced composition.\n\nKorean avant-garde fashion magazine style lifestyle street photography, cool, fashionable, urban, relaxed, with a hint of dreaminess and loneliness; natural exposure, real highlights and shadows, slight noise and film grain.\n\nAdd a small amount of minimalist Korean creative text in the upper left corner.\n\nSignature in the bottom left '● DeepBlue', where ● is pure #0B3D91 deep blue and DeepBlue is white natural handwriting.",
+    "title": "Korean Night Street Lifestyle Snapshot",
+    "description": "A prompt for moody urban street photography of a Korean woman at night after rain, featuring neon reflections and a relaxed, candid aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509878352_fxcipj_HRSHBB_a0AAQU81.jpg",
+      "https://cms-assets.youmind.com/media/1788509878065_sh1u4p_HRSHBB0bEAANGKd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33429,
+    "content": "Ultra-realistic cinematic editorial fashion portrait of a strikingly handsome young man in his early 20s, completely original character, inspired by the reference image’s composition, vintage color palette, framing, and artistic atmosphere. He has thick, naturally wavy dark-brown hair styled slightly tousled, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a defined masculine jawline, and subtle natural stubble. He wears a rich sage-green long-sleeve knitted polo shirt with a contrasting dark green collar and subtle piping, sleeves naturally pushed slightly toward the forearms, paired with tailored cream-beige trousers. He stands casually with one hand in his trouser pocket and the other relaxed by his side, looking slightly to the side with a calm, confident expression. Behind him is a large glowing golden-yellow sun, oversized sunflowers, lush green trees, climbing vines, and several small birds in the distance. The background features a bold burnt-orange and warm ivory geometric wall, creating a sophisticated retro Mediterranean summer aesthetic. Warm late-afternoon sunlight, soft cinematic shadows, subtle film grain, rich earthy tones, natural skin texture, realistic fabric details, editorial fashion photography, sophisticated vintage mood, shallow depth of field, highly detailed, photorealistic, vertical 4:5 composition, premium magazine aesthetic. Avoid: distorted anatomy, extra fingers, plastic skin, overly muscular body, cartoon appearance, text, watermark, logos.",
+    "title": "Vintage Mediterranean Fashion Portrait",
+    "description": "A cinematic editorial fashion prompt for a young man, blending retro Mediterranean summer aesthetics with a burnt-orange geometric background and warm sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509887693_m1fq0p_HRSD4KsaUAATwhA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33438,
+    "content": "Create a stylized contemporary watercolor and mixed-media portrait of a {argument name=\"character description\" default=\"handsome young man\"} in a close bust composition, shown in three-quarter view and softly looking toward the viewer. Preserve natural masculine features: strong jawline, expressive warm brown eyes, defined eyebrows, straight nose, well-shaped lips, medium olive skin, and a neatly trimmed full beard and mustache. Give him {argument name=\"hair style\" default=\"thick tousled black hair with loose strands falling over the forehead and subtle orange highlights\"}, plus a small gold hoop earring in one ear. Dress him in an open-collar white shirt under a loose blazer, with the clothing edges partially dissolving into paint. Use a clean off-white paper background with visible watercolor texture. Behind and around the figure, create dynamic abstract watercolor splashes and ink marks in {argument name=\"color palette\" default=\"deep navy blue, cobalt blue, coral red, orange, golden yellow, and soft gray\"}, with drips running downward and splattered pigment radiating outward. Blend realistic facial rendering with sketchy ink outlines, wet-on-wet watercolor blooms, dry-brush texture, fine pen strokes in the hair, and expressive mixed-media paint splatter. Lighting should be soft and flattering, emphasizing the eyes and facial structure. Keep the portrait centered, shoulders visible, high detail in the face, looser painterly treatment in the jacket and background, no text, no watermark.",
+    "title": "Watercolor Mixed-Media Male Portrait",
+    "description": "Generates a contemporary watercolor bust portrait of a handsome young man with expressive features, painterly splashes, and sketch-like mixed-media detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509898148_2yoph3_HRSAY6XaUAAxfVY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33435,
+    "content": "Create an ultra-detailed, high-end quilling paper-art portrait of a handsome young man in his early 20s, inspired by the reference image’s intricate handcrafted paper-strip aesthetic, but with a completely original masculine character and composition. He has thick, naturally wavy jet-black hair, slightly tousled and voluminous, deep expressive brown eyes, strong well-defined eyebrows, a straight sculpted nose, prominent cheekbones, sharp masculine jawline, and a neatly groomed full short beard. His expression is confident, warm, and subtly smiling, with realistic facial proportions and a charismatic appearance. Render the entire portrait using thousands of individually curled, rolled, folded, and layered paper strips, creating an exceptionally intricate 3D quilling / paper filigree artwork. Use rich combinations of burnt orange, golden yellow, crimson red, magenta, deep violet, turquoise, electric blue, black, ivory, and subtle white throughout the hair, skin, beard, and clothing. Each paper strip should remain visibly distinct, creating fine handcrafted texture while forming realistic facial contours, highlights, shadows, eyes, lips, and hair strands. The young man wears a luxurious ivory textured shirt or jacket with elaborate cream-colored paper filigree patterns, adding an elegant artistic contrast to the vivid face. Composition: centered vertical head-and-shoulders portrait, face occupying most of the frame, symmetrical frontal pose, clean pure white background, subtle soft shadow around the paper artwork, premium gallery-quality presentation, extremely sharp details, realistic dimensional depth, intricate micro-textures, sophisticated contemporary paper sculpture aesthetic. At the bottom-right corner, add a tasteful elegant handwritten artist signature reading exactly: “Bloodline” with a refined black calligraphic signature style and a thin minimalist underline beneath it. Ultra-realistic handcrafted paper quilling, extraordinary detail, intricate curled paper fibers, layered 3D relief, vibrant colors, premium fine-art portrait, studio lighting, crisp edges, sophisticated composition, 8K detail, masterpiece.",
+    "title": "3D Quilling Paper Art Portrait",
+    "description": "A complex prompt for an ultra-detailed 3D paper quilling portrait of a young man, featuring vibrant colors and intricate handcrafted textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509892537_q1qmw7_HRRsB6RbkAATRnz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33366,
+    "content": "Create a highly realistic vertical portrait photograph of a young Japanese woman, about 20 years old, standing outdoors in soft daylight. She has {argument name=\"hair color\" default=\"medium chestnut-brown\"} shoulder-length slightly wavy hair with wispy bangs, smooth fair skin, natural makeup, warm brown eyes, and a gentle subtle smile while looking directly at the camera. She wears a plain {argument name=\"hoodie color\" default=\"ivory white\"} pullover hoodie with drawstrings and blue denim jeans. Pose her in a relaxed three-quarter view from the waist up, hands lightly gathered near the front of her waist, shoulders relaxed, calm friendly expression. Use a modern urban background with tall dark vertical window frames or pillars and glass reflections, strongly blurred with creamy bokeh circles. Lighting should be bright natural backlight from the upper right, creating a soft rim light in her hair and gentle highlights on the hoodie, with realistic skin texture and balanced exposure. Shoot with shallow depth of field, 85mm portrait lens look, photorealistic Japanese fashion snapshot style, vertical 2:3 composition, subject centered slightly left, no text, no watermark, no extra people, no accessories competing for attention.",
+    "title": "Realistic Japanese Woman Hoodie Portrait",
+    "description": "A photorealistic outdoor waist-up portrait of a young Japanese woman in a white hoodie, suitable for lifestyle or fashion character imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509920706_gtxzck_HRRlcvlakAAF36-.jpg",
+      "https://cms-assets.youmind.com/media/1788509920850_xr0u98_HRRleDHa8AAH4c7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33410,
+    "content": "Create a hyper-realistic, high-definition, vertical 9:16 {argument name=\"style\" default=\"Y2K style\"} photo collage. All three panels feature {argument name=\"subject\" default=\"the same beautiful adult woman. A cute and charming Japanese-style beauty with long, fluffy dark silky hair, naturally translucent skin, soft fox-style eye makeup, long eyelashes, glossy pink lips, and refined feminine charm\"}.\n\nTop panel — Extreme close-up selfie, looking directly at the camera, one eye open and the other winking playfully, with a few strands of hair gently falling to frame the face.\n\nMiddle panel — Charming backward glance pose, body turned to the side while looking back at the camera, fluffy long hair flowing naturally, softly covering part of the face.\n\nBottom panel — Intimate close-up near the camera, long hair naturally covering one eye, slightly pouting, with a dreamy and confident expression.\n\nLight neutral background, authentic early 2000s Y2K digital camera aesthetic, iPhone direct flash, bright flash highlights, slight natural overexposure, soft shadows, vintage digital grain, subtle motion blur, casual and imperfect composition.\n\nNo text, no watermarks, no distortion, no distorted faces, no asymmetrical eyes, no repeated features, no facial changes, no blurred facial details.",
+    "title": "Y2K Digital Camera Style Photo Collage",
+    "description": "Creates a three-panel vertical photo collage of a woman in Y2K aesthetic, mimicking the look of early 2000s digital cameras with flash photography and natural grain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509862642_3lt9a4_HRRR8p4a8AAhG7m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33288,
+    "content": "Ultra-realistic cinematic editorial portrait of a strikingly handsome young man in his early 20s, completely original character, posed at an {argument name=\"setting\" default=\"elegant vintage billiards hall\"}. He has thick, slightly tousled {argument name=\"hair color\" default=\"jet-black\"} hair, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a defined masculine jawline, and subtle natural stubble. He wears a {argument name=\"clothing\" default=\"crisp off-white button-up shirt with black suspenders\"}, and tailored black trousers.\nHe is seated beside a classic green-felt billiards table, holding a wooden pool cue naturally with both hands, looking slightly to the side with a calm, serious, thoughtful expression. Several colorful billiard balls are visible in the foreground with beautiful shallow depth of field.\nThe setting is a luxurious old-world billiard room, dark polished wood, vintage wall decorations, warm table lamps, rich brown tones, subtle burgundy curtains, elegant atmospheric details. Warm cinematic tungsten lighting falls naturally across his face, creating soft highlights and deep shadows. Photorealistic skin texture, realistic fabric details, natural hands and anatomy, sophisticated masculine styling, cinematic color grading, 85mm portrait lens, f/1.8, shallow depth of field, soft background bokeh, dramatic but elegant composition, high-end editorial photography, ultra-detailed, 8K realism, vertical 2:3 composition.",
+    "title": "Vintage Billiards Hall Portrait",
+    "description": "A sophisticated cinematic portrait prompt of a young man in an elegant old-world billiards room, featuring realistic textures and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509872550_r0g0an_HRRKCNUbcAAhSyU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33414,
+    "content": "Cinematic, ultra-realistic portrait of a young man use image for face standing in a vast field of {argument name=\"field flower\" default=\"vibrant red poppies\"} at sunset, shown in left-facing side profile. He has dark hair, subtle stubble, and a calm, serious expression. He wears a {argument name=\"outfit\" default=\"white nike tshirt with denim jeans\"}. {argument name=\"atmosphere\" default=\"Thick atmospheric smoke and mist\"} drift around the field and partially obscure the lower body. Dramatic storm clouds fill the sky, with an intense fiery red-orange sunset glowing along the horizon, contrasted by cool cyan-blue light and haze on the right side. Moody, melancholic, dramatic atmosphere, strong cinematic lighting, deep shadows, volumetric fog, shallow depth of field, foreground poppies softly blurred, highly detailed face and fabric texture, realistic skin, natural proportions, editorial fashion photography, dark teal and burnt-orange color grading, anamorphic cinematic aesthetic, 85mm lens, f/1.8, HDR, photorealistic, vertical composition, 4:5 aspect ratio.",
+    "title": "Cinematic Poppy Field Portrait",
+    "description": "A dramatic, moody prompt for a cinematic portrait of a man in a red poppy field at sunset, utilizing image-to-face capabilities.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509868644_qeoo5c_HRQ7SnnXAAMkxBT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33338,
+    "content": "Create a stylized watercolor mixed-media portrait of {argument name=\"character name\" default=\"a young South Asian woman\"} in a close-up three-quarter view, turned slightly over her shoulder and looking directly at the viewer with expressive almond-shaped hazel eyes, soft elegant facial features, rosy cheeks, glossy coral-pink lips, and a calm subtle smile. She has {argument name=\"hair color\" default=\"long flowing black hair\"} with loose wisps around her face, painterly highlights in deep navy, cobalt blue, burnt orange, and gold, and a single ornate gold jhumka earring visible on one ear. Dress her in a loose white traditional-style garment or shawl with abstract washes of navy, cobalt, orange, coral, peach, pink, gray, and touches of gold. Use an editorial painterly-realism style with high facial detail, delicate ink linework, expressive brushstrokes, transparent watercolor blooms, splashes, drips, and layered mixed-media texture. The background should be clean white paper with airy negative space and scattered blue and coral paint splatters behind the head and shoulders. Emphasize luminous skin, wet-on-wet watercolor edges, dynamic flowing hair, and vibrant color contrast while keeping the composition elegant, romantic, and refined. No text, no border, no watermark.",
+    "title": "Watercolor Mixed-Media Woman Portrait",
+    "description": "Generates an elegant editorial watercolor portrait of a young woman with flowing dark hair, vivid brushstrokes, and ink-splatter mixed-media styling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509908932_4sg6sr_HRQ2uc8bAAALEHf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33340,
+    "content": "Create a polished editorial studio portrait composite of {argument name=\"character name\" default=\"a young woman\"} with two depictions of the same person in one vertical frame: one full-body figure walking in the foreground on the left-center, and one oversized semi-transparent close-up portrait fading into the smoky background on the right. The woman has {argument name=\"hair color\" default=\"dark brown\"} wavy hair loosely tied back with soft face-framing strands, fair skin, light hazel-green eyes, natural makeup, defined brows, small stud earrings, and a calm neutral expression looking directly at the camera. Dress her in a {argument name=\"shirt color\" default=\"pale blush pink\"} silky button-up blouse with rolled sleeves, high-waisted {argument name=\"trouser color\" default=\"warm off-white\"} wide-leg pleated trousers, and clean white sneakers. The foreground full-body pose should show her walking forward with one hand in her trouser pocket and the other arm relaxed, elegant and confident. The background portrait should be much larger, cropped from chest upward, softly desaturated and translucent like a memory or double exposure, blending into gray mist. Use a vertical 3:4 canvas, soft gray textured studio backdrop, low rolling fog around the floor, diffused fashion lighting, subtle shadows, realistic skin texture, gentle contrast, muted pastel color palette, cinematic depth, premium portrait photography style, no text, no logos, no extra people, no distorted anatomy.",
+    "title": "Double Exposure Fashion Portrait",
+    "description": "Generates a realistic editorial portrait with a full-body walking figure and a translucent oversized face blended into smoky studio fog.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509911384_59ofzf_HRQuqr0a0AAx8CH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33353,
+    "content": "Create a stylized contemporary watercolor and mixed-media portrait of {argument name=\"subject\" default=\"a young woman\"} in close-up three-quarter view, turned slightly over one shoulder and softly looking toward the viewer. She has elegant feminine features, long flowing {argument name=\"hair color\" default=\"dark black-blue hair\"}, expressive almond-shaped hazel-gray eyes, defined brows, a delicate nose, rosy cheeks, and a subtle glossy smile. Add ornate dangling pearl earrings and a loose white blouse or robe visible at the shoulder. Use a bright white paper background with visible watercolor texture, ink sketch lines, dry-brush strokes, splatters, and layered washes. The hair should be rendered with deep navy, black, cobalt blue, and warm brown highlights, with energetic loose strands. Surround and partially overlay the figure with abstract painterly accents in {argument name=\"accent colors\" default=\"cobalt blue, orange, coral pink, and golden yellow\"}, including broad diagonal brush swipes, transparent washes, small paint droplets, and expressive scratchy linework. Keep the face highly detailed and luminous while the clothing and background remain loose, gestural, and semi-abstract. Use soft natural lighting, glowing skin highlights, high-fashion editorial beauty styling, modern watercolor illustration aesthetics, no text, no border, no watermark.",
+    "title": "Contemporary Watercolor Woman Portrait",
+    "description": "Generates a luminous mixed-media watercolor portrait of a young woman with flowing dark hair, expressive eyes, and colorful abstract brush accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509898329_x126ur_HRQtimSbsAAdakY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33287,
+    "content": "A stunning, high-detail portrait of an elegant young {argument name=\"ethnicity\" default=\"East Asian\"} woman with a delicate updo hair hairstyle adorned with glowing {argument name=\"accessory color\" default=\"red\"} butterfly accessories. She is wearing an intricate, sleeveless {argument name=\"gown color\" default=\"crimson red\"} gown featuring a sheer back crafted from lace and glitter with a prominent red butterfly design centered on her back. Dark, ethereal background filled with soft bokeh lighting and floating glowing red butterflies, cinematic lighting, 8k resolution, photorealistic, ultra-detailed.",
+    "title": "Ethereal Butterfly Portrait",
+    "description": "A stunning high-detail portrait of an East Asian woman featuring glowing red butterfly accessories and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509865194_fjt06m_HRQly-waMAAKDHF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33354,
+    "content": "Create a polished cinematic studio portrait composite of {argument name=\"character name\" default=\"a young woman\"} with exactly 2 visible layers of the same person: one full-body foreground figure and one oversized translucent background portrait. The foreground figure stands slightly left of center, walking calmly toward the camera with a relaxed neutral expression, one hand in her trouser pocket and the other arm hanging naturally. She has {argument name=\"hair color\" default=\"dark brown\"} loosely pinned-back wavy hair with soft face-framing strands, fair skin, light hazel-green eyes, natural makeup, small stud earrings, and a poised elegant presence. She wears a pale blush-pink satin button-up blouse with the sleeves casually rolled to the forearms, high-waisted wide-leg ivory trousers, and clean white sneakers. Behind her on the right side, add a large semi-transparent bust portrait of the same woman from chest up, softly faded into the mist, facing forward with the same gentle expression and matching blouse, occupying most of the upper-right background. Use a gray textured studio backdrop and gray concrete floor, with low drifting white fog concentrated along the bottom third of the image and partially veiling the lower background portrait. Lighting should be soft, cinematic, and diffused, with gentle highlights on the face and clothing, subtle shadows under the feet, muted pastel tones, realistic skin texture, shallow depth of field, and a refined editorial fashion-photography look. Vertical portrait composition, 3:4 aspect ratio, no text, no watermark, no extra people, no props, and keep the composition clean and atmospheric.",
+    "title": "Cinematic Double Exposure Studio Portrait",
+    "description": "Generates an elegant fashion-style studio portrait with a full-body woman and a large translucent background portrait in fog.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509901347_kun3gn_HRQcvE9aoAAh-y5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33355,
+    "content": "Create a vertical fine-art double-exposure portrait of {argument name=\"character name\" default=\"a young South Asian woman\"} in a romantic watercolor collage style. The main subject stands slightly right of center, facing the viewer with a gentle closed-mouth smile, long dark wavy hair, soft natural makeup, and one hand raised near her ear. She wears {argument name=\"outfit\" default=\"a deep maroon and black sari with ornate red embroidered borders\"}, large silver jhumka earrings, stacked bangles, and a delicate black-bead necklace. Behind her, place a large translucent left-facing side-profile portrait of the same woman on the left side, blended softly into the background. Fill the upper center and right with dark silhouettes of pine trees and woodland foliage, merging into her hair and the profile portrait. Use an aged cream parchment background with loose watercolor washes, ink splatters, botanical stems, autumn leaves, and earthy tones of sepia, olive, rust, burgundy, charcoal, and muted gold. Include exactly 4 butterflies: one near the upper right corner, one dark butterfly on the mid-right among branches, one pale butterfly near the lower left, and one subtle dark butterfly near the lower center. The composition should feel dreamy, elegant, and painterly, with realistic facial detail on the main figure but transparent watercolor edges, no text, no watermark, no frame. Lighting is soft and flattering, with high detail in the face, sari embroidery, jewelry, and layered forest textures.",
+    "title": "Watercolor Double Exposure Saree Portrait",
+    "description": "Generates a dreamy double-exposure portrait of a woman in an embroidered sari blended with forest silhouettes, watercolor textures, and butterflies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509901469_ry155g_HRQNDJca4AAIiyq.jpg"
     ],
     "needReferenceImages": true
   },

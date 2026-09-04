@@ -1,5 +1,28 @@
 [
   {
+    "id": 33409,
+    "content": "Create a charming handcrafted miniature diorama featuring {argument name=\"brand\" default=\"STORE / BRAND NAME\"} as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors, logo/signage and brand identity. Surround the store with tiny realistic details such as a sidewalk, street lamp, benches, plants, flowers, seasonal decorations, bicycles, small signs and miniature objects related to the store. Add warm glowing lights through the windows and subtle activity around the entrance. Soft cream background, handmade polymer-clay texture, rounded sculpted forms, tiny imperfections, tactile details, cozy stop-motion animation aesthetic, warm studio lighting, highly detailed collectible miniature, elegant composition, 4:5 vertical.",
+    "title": "Handcrafted Clay Store Diorama",
+    "description": "A whimsical prompt for creating 3D clay miniature dioramas of recognizable storefronts with tactile details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509860551_px31z1_HRShhJ_bcAAdbBz.jpg",
+      "https://cms-assets.youmind.com/media/1788509860628_26i2me_HRShhJ4aAAAxBXY.jpg",
+      "https://cms-assets.youmind.com/media/1788509860524_lwur22_HRShhJ_a8AEiVyn.jpg",
+      "https://cms-assets.youmind.com/media/1788509861440_z6p8q3_HRShhJ_aIAAXsZT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33407,
+    "content": "2x2 grid, 16:9, do this for {argument name=\"subject\" default=\"4 famous emperors and their kingdoms\"}: type PaperColor = Sepia | Cream | Parchment | Shadow data Material = AgedPaper PaperColor  -- B₁: Everything in the scene MUST be of type Material data SceneElement = Figure Material | Prop Material | Page Material | Text Material  -- B₂: The Z-Stack enforces physical depth data ZStack = Stack [SceneElement] -- Ordered from background (z=0) to foreground (z=n)  -- B₄: Lighting is a function that takes the Z-Stack and produces sharp layered shadows raking_light :: ZStack -> Image raking_light stack = apply_directional_light stack (angle=Low, softness=Soft, shadow_sharpness=High)  render :: ScientistArchetype -> Quote -> Image render s q = let figure = Figure (AgedPaper Cream) -- The scientist is made of paper                  pages = Page (AgedPaper Sepia)                  text  = Text (AgedPaper Parchment) -- The quote is cut from paper              in raking_light (Stack [pages, text, figure, pages])",
+    "title": "Paper Relief Hierarchical Composition",
+    "description": "A technical pseudo-code style prompt for generating layered paper relief art with specific depth and lighting constraints.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788509860902_eqe038_HRM6i5OXIAEKvUm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33230,
     "content": "{argument name=\"era\" default=\"Late 3rd-century\"} {argument name=\"location\" default=\"Sasanian Persia\"}\nA high-ranking noblewoman standing in a royal audience hall at night",
     "title": "Historical Sasanian Noblewoman",
