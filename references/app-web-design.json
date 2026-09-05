@@ -10,6 +10,46 @@
     "needReferenceImages": true
   },
   {
+    "id": 33525,
+    "content": "Minimalist Oriental × Song Dynasty Aesthetic × Ancient Style Editorial × Independent Art Cover. Characters: {argument name=\"character one\" default=\"Da Qiao\"}, {argument name=\"character two\" default=\"Xiao Qiao\"}, classical beauty imagery, elegant and soft, gentle and reserved. Scene: {argument name=\"background\" default=\"Tongque Terrace\"}, midsummer sunny day, primitive towers and distant mountains, retaining minimal architectural lines and large areas of sky. Clothing: simple Song-style light dresses, Da Qiao in moon white, Xiao Qiao in light cyan, elegant and light. Visual: random elements, large areas of white space, low-saturation Oriental tones, natural light and shadow, quiet and transparent, photographic style, restrained, simple, high-end. Typography: main title 'Da Qiao · Xiao Qiao', can be paired with one or two classical poems related to the two Qiao sisters, for example 'If the east wind had not favored Zhou Lang'; minimal text, minimalist Song-style layout, integrated with white space, not blocking the characters, no extra decoration. Aspect Ratio: 9:16 vertical. Signature '● DeepBlue' in the bottom left, ● is pure #0B3D91 deep blue, DeepBlue is white natural handwriting.",
+    "title": "Minimalist Song Dynasty Aesthetic Editorial",
+    "description": "A sophisticated prompt for an independent art cover in a minimalist Song Dynasty aesthetic, featuring classical Chinese beauties with large areas of white space and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595148282_s617go_HRbIsBBaAAA2A_r.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33549,
+    "content": "Goal: Create a clean Japanese web UI mockup for an interactive 3D optical illusion museum called {argument name=\"museum name\" default=\"錯視美術館\"}, shown as an in-browser gallery navigation screen rather than a realistic photo.\n\nCanvas: Wide 16:9 screenshot-style composition, about 1200×720, with a pale off-white top navigation bar and a thin off-white bottom status bar. Use muted beige, taupe, cream, charcoal, and dusty blue-gray colors, with lots of negative space and a minimalist programmer-made museum aesthetic.\n\nLayout: The scene is split between a flat UI overlay and a simple low-poly 3D environment. At the top left, place a thin outlined circle logo, the Japanese museum name, and the small English subtitle “OPTICAL ILLUSION MUSEUM.” At the top right, place exactly three navigation links: “館内マップ”, “作品目録”, and “設定”. In the center/left foreground, show a large translucent information card over a 3D museum corridor. At the upper right of the scene, add a small instruction tooltip. Along the bottom, include breadcrumb/status text on the left and exactly five control labels on the right.\n\n3D environment: Depict a stylized first-person museum courtyard/interior with massive blocky taupe walls, a cream floor, an open vertical slit revealing pale sky, and a few low-poly green trees outside. The main artwork is an impossible-perspective corridor installation made from three adjacent rectangular tunnel drawings: left, center, and right. Each tunnel uses repeated cream frames, dark blue-gray outline beams, converging perspective lines, and alternating vertical rectangular panels in beige, brown, and blue-gray, creating a depth illusion. The center tunnel is most prominent, with the left and right tunnels angled slightly. Include a tiny black mouse cursor near the upper-left side of the corridor artwork.\n\nMain card text: In the upper-left translucent panel, show the room code “G04”, the title {argument name=\"exhibit title\" default=\"奥行きの間\"}, and the description {argument name=\"exhibit description\" default=\"少し場所を変えると、何が見えるでしょう。\"}. Below, create a larger semi-transparent catalog panel titled “この展示室の作品” with “4 WORKS” aligned right. List exactly four works in two columns and two rows: “01 ふたりのいる部屋” with the status “鑑賞済み”, “02 距離のあいだ” with a right arrow, “03 こちらを見る面” with a right arrow, and “04 こちらへ続く回廊” with a right arrow. Beneath the list, include exactly three route links: “線と狭窄の間へ歩く →”, “中庭・休憩へ歩く →”, and “中央ホールへ歩く →”.\n\nInstruction tooltip and footer: The small top-right tooltip should say exactly two lines: {argument name=\"movement instruction\" default=\"ドラッグで見回す・WASDで歩く\"} and “床をタップして移動”. Bottom-left breadcrumb should read “奥行きの間 / 自由鑑賞”. Bottom-right controls should include small icon-like marks followed by exactly five labels: “マウス固定”, “休憩”, “ホール”, and “終章へ” plus the preceding small key/icon indicators.\n\nVisual style: Minimalist Japanese museum website, crisp vector typography, subtle translucency, fine divider lines, soft shadows, orthographic/low-poly 3D graphics, restrained color palette, no photorealism, no people, no extra popups, no watermark.",
+    "title": "Japanese Optical Illusion Museum UI",
+    "description": "A wide minimalist Japanese web UI mockup for navigating a low-poly 3D optical illusion museum exhibit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595165898_71b732_HRaiZUba8AApcbP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33489,
+    "content": "2x2 grid, 16:9, pick {argument name=\"neighborhoods\" default=\"4 neighborhoods\"} in all their glory:   PAPER_RELIEF(TOPIC) ::=  layer_00 = flat backing sheet layer_01 = broad silhouette cutout layer_02 = major facial / object planes layer_03 = internal contour lines layer_04 = symbolic objects and diagrams layer_05 = flowing scrolls and ribbons layer_06 = dimensional title typography layer_07 = tiny embossed micro-details  Rules: - every layer casts a soft visible shadow - edges should look physically cut, stacked, folded, or curled - detail density increases near focal zones - background remains quiet and paper-based - all depth comes from real material layering, not digital gradients",
+    "title": "Paper Relief Neighborhood Grid",
+    "description": "Creates a 2x2 grid of urban scenes using a layered paper relief physical cutout aesthetic with realistic material shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595122824_uoc64a_HRQZcoCXwAIug2v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33492,
+    "content": "Using the attached photograph as the exact reference for this room, create a single image divided into a 2x2 grid of four equal panels, each a photorealistic wide view of the SAME room from a different wall, same furniture, same colors, same beige carpet, same off-white walls, same flat overcast window light, same 35mm film look, no people in any panel.\n\nPanel 1 (top-left) — the reference view: standing in the doorway looking at the window wall; TV on the wooden dresser and the black mini fridge on the left, the unmade bed with navy comforter along the right wall, laundry basket and chair in the near right corner.\n\nPanel 2 (top-right) — looking at the right wall: the bed seen from the side, headboard end against the wall, the wooden nightstand with the blue lamp, coffee mug and stack of mail, the framed eagle poster above it, the window now on the left edge of frame.\n\nPanel 3 (bottom-left) — looking at the left wall: the wooden dresser with the old boxy TV, cereal bowl and game controller, the black mini fridge beside it, the window now on the right edge of frame, the bed's foot visible on the far right.\n\nPanel 4 (bottom-right) — looking back at the door wall, the reverse angle of the reference: the open bedroom door with brass knob, the laundry basket and chair with the flannel shirt now on the left, the dresser and TV now on the right, the bed's foot in the near foreground.\n\nEvery object keeps its real position in the room so all four views describe one consistent space.",
+    "title": "Multi-Angle Consistent Interior Room Grid",
+    "description": "A technical prompt for creating a 2x2 grid of the same room from four different angles to ensure location consistency for cinematic assets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595124772_9qnse0_HRZqHB4a4AAOCi7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33426,
     "content": "Provide {argument name=\"number of ideas\" default=\"5\"} layout ideas for this {argument name=\"location\" default=\"living room\"}. Output one image for each with different variations.",
     "title": "Interior Design Layout Generator",

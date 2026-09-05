@@ -41,6 +41,36 @@
     "needReferenceImages": true
   },
   {
+    "id": 33537,
+    "content": "Goal: Create a polished 2x2 collage of four social media / marketing graphic examples for an AI image generation platform, separated by thin white gutters, showing the variety of visuals that can be made: ecommerce, motivational lifestyle, AI education, and productivity quote content.\n\nCanvas: Landscape 3:2 aspect ratio, approximately 1200x800, divided into exactly 4 equal rectangular panels in a clean grid with white borders between panels. Use realistic photography blended with crisp overlaid graphic design text.\n\nPanel 1, top left — ecommerce new arrivals: A warm beige desk scene with a laptop and smartphone displaying a fashion shop website. The laptop screen shows a clean online store with exactly 3 product cards: Brown Jacket, White Top, and Beige Jacket, each with a model photo, price, and small “ADD TO CART” button. The phone in front also shows the Brown Jacket product. Add a soft leafy plant shadow in the upper left. Large white serif headline on the left reads “{argument name=\"fashion headline\" default=\"New Arrivals\"}”, smaller line reads “Summer Collection”, body copy reads “Discover our latest collection designed for comfort and style.”, and a rounded outline button reads “SHOP NOW”.\n\nPanel 2, top right — motivational lifestyle post: Cozy warm bedroom photo of a smiling young woman sitting on a bed, wearing a cream knit sweater and beige pants, holding a white mug, with plants and a round wall mirror softly blurred in the background. Overlay bold white sans-serif text on the right reading “{argument name=\"motivational headline\" default=\"Small Steps Every Day\"}”, smaller text underneath reading “Be proud of how far you’ve come.”, a white hand-drawn underline flourish, and exactly 3 small white outline heart doodles in the top-right corner.\n\nPanel 3, bottom left — AI prompt engineering educational graphic: Dark navy futuristic workspace scene with a focused man wearing glasses using a laptop at night, blue-purple neon UI overlays and subtle grid lines. Left side contains a large educational title: “PROMPT ENGINEERING” above “{argument name=\"AI education title\" default=\"TIPS TO GET BETTER AI RESPONSES\"}”, with “AI” highlighted in cyan. Include exactly 4 checklist tips with small cyan square icons: “Be Clear & Specific”, “Provide Context”, “Use Examples”, and “Iterate & Refine”. On the right of the title area place exactly 2 translucent rounded UI cards: one labeled “INPUT PROMPT” with text “Explain the concept of quantum computing in simple terms.” and one labeled “AI RESPONSE” with text “Quantum computing uses qubits that can exist in multiple states at once...”. Add exactly 2 small decorative interface icons: a circular brain icon near the top right and a small chat bubble icon near the lower right.\n\nPanel 4, bottom right — discipline quote card: Sunlit wooden desk scene with blurred green plants outside a window. Place a gray ceramic mug on the left with stacked white text reading “FOCUS PLAN EXECUTE”, next to a closed notebook. On the right place a black rounded rectangle quote card with large typographic quote marks in muted gold. White quote text reads “{argument name=\"quote text\" default=\"Discipline today leads to freedom tomorrow. Keep showing up.\"}” with the phrase “showing up” highlighted in muted gold.\n\nVisual style: Premium social media marketing mockup, photorealistic base images, soft natural lighting in the lifestyle and product panels, deep cinematic blue lighting in the AI panel, modern clean typography, realistic shadows, high contrast, sharp readable text, professional content-creator aesthetic.\n\nConstraints: Use exactly 4 panels and the listed repeated elements: 3 ecommerce product cards, 3 heart doodles, 4 checklist tips, 2 translucent UI cards, and 2 decorative AI interface icons. Keep all visible text legible and spelled correctly. No watermarks, no extra panels, no random logos.",
+    "title": "Four-Panel AI Content Showcase",
+    "description": "A 2x2 collage of polished ecommerce, lifestyle, AI education, and productivity quote graphics for showcasing generative image content ideas.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595158046_voqccq_HRbU0EXa0AAh4kC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33499,
+    "content": "Create a photorealistic 2×2 four-panel recipe collage showing the preparation of a {argument name=\"smoothie type\" default=\"creamy banana smoothie\"} on a {argument name=\"table style\" default=\"rustic dark wooden kitchen table\"}.\n\nTop-left: Several ripe yellow bananas, one peeled banana, a clear glass of milk, a small glass bowl of thick white yogurt, and a bowl of ice cubes neatly arranged as ingredients.\n\nTop-right: Close-up of hands peeling a ripe banana and placing banana pieces into a transparent glass blender jar.\n\nBottom-left: Milk being poured from a transparent measuring cup into the blender containing banana pieces, yogurt, and ice cubes.\n\nBottom-right: Thick creamy banana smoothie being poured from the blender into a clear drinking glass, with another finished smoothie glass in the background and a few banana slices on the wooden table.\n\nWarm natural kitchen lighting, realistic food textures, creamy pale-yellow smoothie, transparent glassware, shallow depth of field, rustic wooden background, clean composition, professional food photography, highly detailed, realistic hands, natural shadows, 4K photorealism, no text, no labels, no watermark.",
+    "title": "Four-Panel Banana Smoothie Recipe Collage",
+    "description": "A detailed prompt for generating a professional food photography collage that illustrates the step-by-step preparation of a smoothie on a rustic wooden table.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595129433_qz2w62_HRabQChaYAABoEA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33488,
+    "content": "Take the person from the reference image and create a single 2x2 grid showing this exact same close-up portrait under four different professional lighting setups. Identity lock: identical face, expression (calm neutral), hairstyle, dark top, head size and camera angle in every panel — only the light changes. Panel 1 REMBRANDT: key at forty-five degrees left and above, small triangle of light on the shadowed cheek, moody falloff. Panel 2 BUTTERFLY: key directly above the camera, soft symmetric shadow under the nose, beauty-portrait glow. Panel 3 SPLIT: key exactly from the side, one half of the face lit, the other in darkness. Panel 4 RIM: key behind the subject edging hair and shoulders in bright outline, face lifted only by faint fill, near-silhouette drama. Same {argument name=\"background color\" default=\"medium-gray\"} background throughout, 85mm look, sharp focus on the eyes. Small white labels beneath each panel: \"REMBRANDT\", \"BUTTERFLY\", \"SPLIT\", \"RIM\".",
+    "title": "Professional Lighting Studio Grid",
+    "description": "A technical prompt designed for gpt-image-2 to showcase a single character under four distinct professional lighting setups (Rembrandt, Butterfly, Split, and Rim) in a single grid.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595122487_r3q1f0_HRX7WjAaYAA2N4g.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33434,
     "content": "A scientific botanical poster on cream paper. A single oversized {argument name=\"flower\" default=\"forget-me-not\"} painted in watercolor, roots and all, with tiny numbered labels on stem and petal. Title in italic serif at the top: \"FORGET-ME-NOT\". Subtitle: \"A FIELD PLATE\". Bottom: \"{argument name=\"plate number\" default=\"PLATE VII · 1887\"}\". Pencil notes in the margin. Cream, indigo, green, 2:3 aspect ratio.",
     "title": "Vintage Botanical Forget-me-not Poster",
@@ -53,12 +83,12 @@
   },
   {
     "id": 33401,
-    "content": "a photorealistic, taken by phone photo of a handwritten essay in pencil, albert einstein handwriting, on an 8.5x11 piece of lined paper, about the {argument name=\"essay topic\" default=\"history of money in world\"}. make sure there is variance in the writing in a very einstein way. give it a slight {argument name=\"stain type\" default=\"coffee stain\"} on the top right corner",
-    "title": "Einstein Handwritten Essay Style",
-    "description": "Generates a photorealistic image of a handwritten essay in Albert Einstein's signature handwriting, complete with realistic paper texture and coffee stains.",
+    "content": "a photorealistic, taken by phone photo of a handwritten essay in {argument name=\"writing style\" default=\"Einstein's handwriting\"}",
+    "title": "Handwritten Essay Photo Simulation",
+    "description": "Generates a realistic photo of a handwritten essay, mimicking a specific person's handwriting style as if taken by a mobile phone.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788509854063_n7bo6t_HRToxf0acAEd4I_.jpg",
-      "https://cms-assets.youmind.com/media/1788509855732_eb2d0n_HRTozFXbwAAMDqF.jpg"
+      "https://cms-assets.youmind.com/media/1788595153295_fcy4id_HRToxf0acAEd4I_.jpg",
+      "https://cms-assets.youmind.com/media/1788595152869_49u0n8_HRTozFXbwAAMDqF.jpg"
     ],
     "needReferenceImages": false
   },

@@ -1,5 +1,35 @@
 [
   {
+    "id": 33540,
+    "content": "Goal: Create a soft pastel 4-panel vertical manga comic about a sleepy chibi girl meeting an AI laptop late at night.\n\nCanvas: Tall vertical webcomic page, approximately 2:3 aspect ratio, divided into exactly 4 horizontal panels stacked from top to bottom. Each panel has rounded corners, a thin pale blue border, and small white gutters between panels.\n\nVisual style: Kawaii Japanese chibi anime illustration, delicate watercolor/pastel shading, clean thin line art, soft lavender-blue nighttime palette, gentle cozy bedroom atmosphere, minimal background detail, no harsh shadows.\n\nMain character: A tiny chibi girl named {argument name=\"character name\" default=\"Astra\"} with very long fluffy white hair, a single curled ahoge on top, pale skin, large sleepy blue eyes, and an oversized pale blue pajama dress with white cuffs and hem. She should look drowsy and cute throughout.\n\nSetting: A simple bedroom at night with a low round wooden table, a laptop, a window with tied pale curtains, a dark blue night sky with crescent moon and stars visible outside, light gray floor and wall, and a soft blue floor cushion/pillow appearing on the right side in several panels.\n\nPanel layout and action, exactly 4 panels:\n1. Panel 1: The laptop is open on the low round table at left, screen facing forward and displaying the text {argument name=\"laptop screen text\" default=\"GPT-6 Astra\"}. The chibi girl stands to the right of the table with both arms raised as if just waking up or celebrating, eyes closed, mouth open. A vertical Japanese speech bubble on the right says {argument name=\"panel 1 speech\" default=\"アストラが来た！\"}.\n2. Panel 2: The laptop is now turned so its back faces the viewer on the table at left. The girl sits sleepily on a blue cushion to the right of the table, one finger near her mouth, looking thoughtful and tired. A vertical thought/speech bubble on the right says {argument name=\"panel 2 speech\" default=\"すごいこと聞こう\"}.\n3. Panel 3: The girl leans forward from the cushion toward the laptop, hands near the keyboard, looking at the screen with sleepy curiosity. The window with moon and stars remains behind the table. A vertical speech bubble on the right says {argument name=\"panel 3 speech\" default=\"朝ごはん何にする？\"}.\n4. Panel 4: The girl sits cross-legged on the blue cushion at left, looking extremely sleepy with half-closed eyes. The laptop sits open on the low round table to the right, angled toward her. There are exactly 2 vertical speech bubbles: the right bubble near the laptop says 「まず寝よう」 and the left bubble near the girl says 「それはそう」.\n\nText count: Include exactly 5 visible text elements total: 1 laptop screen label and 4 Japanese speech bubbles across the comic. Keep the Japanese text vertical inside oval manga speech bubbles where shown.\n\nConstraints: Keep the composition simple and uncluttered, maintain consistent character design across all 4 panels, use soft rounded shapes, preserve the cozy late-night room, avoid extra captions, logos, watermarks, sound effects, or additional characters.",
+    "title": "Sleepy Astra 4-Panel Manga",
+    "description": "A cozy pastel chibi webcomic showing a sleepy white-haired girl consulting an AI laptop late at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595160301_s1toeu_HRZVZ_7akAAY6Wy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33508,
+    "content": "{argument name=\"location\" default=\"Stairs\"} in {argument name=\"color\" default=\"champagne color\"}",
+    "title": "Champagne Lighting on Stairs Portrait",
+    "description": "A short, evocative prompt for generating an image with champagne-colored lighting on a staircase, creating a cinematic mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595134494_9p6duu_HRYV2s2acAALm6X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33556,
+    "content": "Create a square, highly detailed Art Nouveau manga illustration of an ethereal androgynous young person with {argument name=\"hair color\" default=\"silver-white\"} long wavy hair filling the frame. The character is shown in an intimate close-up from the chest up, face partly hidden behind two slender pale hands pressed near the mouth and cheeks, with one visible icy blue-gray eye gazing forward through loose hair strands. Add a dark ring on one finger and delicate long dangling earrings. Surround the figure with lush botanical ornamentation: exactly 4 large pale blue-white anemone-like flowers, clusters of small white berries, gray-green leaves, and deep cobalt ribbon-like petals woven through the hair. Include exactly 3 antique gold starburst ornaments: one large spiked halo/star near the upper right hair, one smaller starburst near the right cheek area, and one small star on the left side. Use a deep ultramarine blue and black background with distressed beige-gold texture, ornate black lace-like patterns, and thin gold diagonal lines. Place small faint French text on the left reading {argument name=\"left text\" default=\"Toujours le même rêve.\"}. Style it as refined Japanese ink line art with extremely intricate hair strands, fine crosshatching, muted parchment skin tones, limited palette of ivory, black, cobalt blue, gray-green, and antique gold, elegant melancholy mood, vintage printed-paper grain, flat decorative composition, no photorealism, no 3D rendering, no modern objects, no watermark.",
+    "title": "Ethereal Art Nouveau Manga Portrait",
+    "description": "A detailed prompt for generating a melancholic floral manga portrait with Art Nouveau ornamentation and vintage ink textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788595168883_rbr6pv_HRXt9AyakAEsdBZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33409,
     "content": "Create a charming handcrafted miniature diorama featuring {argument name=\"brand\" default=\"STORE / BRAND NAME\"} as the main focal point. Reimagine the recognizable storefront as a cozy, whimsical 3D clay miniature, preserving its signature architectural style, recognizable colors, logo/signage and brand identity. Surround the store with tiny realistic details such as a sidewalk, street lamp, benches, plants, flowers, seasonal decorations, bicycles, small signs and miniature objects related to the store. Add warm glowing lights through the windows and subtle activity around the entrance. Soft cream background, handmade polymer-clay texture, rounded sculpted forms, tiny imperfections, tactile details, cozy stop-motion animation aesthetic, warm studio lighting, highly detailed collectible miniature, elegant composition, 4:5 vertical.",
     "title": "Handcrafted Clay Store Diorama",
