@@ -1,38 +1,233 @@
 [
   {
-    "id": 33507,
-    "content": "Daily life snapshot Instagram-style photography, an {argument name=\"age\" default=\"18-year-old\"} beautiful Asian girl with {argument name=\"hairstyle\" default=\"twin braided pigtails\"} taking a selfie with the front camera, {argument name=\"pose\" default=\"one hand propping up her cheek, the other casually resting on the edge of the bed\"}. The image has a natural out-of-focus blur, like a moment recorded casually right after waking up. The background is a daytime bedroom, with wrinkled knitted cardigans and plush toys piled on the bed. The overall tone is milky white, with a dreamcore-like ambiguous and hazy atmosphere.",
-    "title": "Natural Just-Woken-Up Instagram Photography",
-    "description": "A prompt for capturing a natural, candid 'just woken up' moment in an Instagram-style aesthetic, featuring soft tones and realistic out-of-focus blur.",
+    "id": 33605,
+    "content": "{\n  \"input\": {\n    \"subject_reference\": \"{argument name=\"subject reference\" default=\"UPLOAD_SUBJECT_IMAGE\"}\",\n    \"pose\": \"{argument name=\"pose setting\" default=\"LEAVE_DEFAULT\"}\"\n  },\n  \"prompt\": {\n    \"type\": \"photorealistic_editorial_portrait\",\n    \"subject\": {\n      \"source\": \"uploaded_reference_image\",\n      \"instruction\": \"Use the uploaded reference image as the single source of truth for the subject. Preserve the person's identity, facial structure, proportions, natural features, skin tone, hairstyle, and overall appearance. Do not replace or redesign the subject.\"\n    },\n    \"composition\": {\n      \"framing\": \"tight close-up portrait\",\n      \"camera_angle\": \"straight-on, eye-level\",\n      \"pose\": \"{{POSE}}\",\n      \"subject_position\": \"centered in frame\",\n      \"camera_distance\": \"close to the subject\"\n    },\n    \"styling\": {\n      \"expression\": \"calm, confident, subtly intense gaze toward camera\",\n      \"skin\": \"realistic glowing skin with natural texture, subtle highlights and visible pores\",\n      \"makeup\": \"minimal natural editorial makeup\"\n    },\n    \"wardrobe\": {\n      \"description\": \"{argument name=\"wardrobe\" default=\"simple dark gray tank top with thin straps\"}\"\n    },\n    \"accessories\": {\n      \"headphones\": \"large retro over-ear headphones, glossy lime-green earcups with black padded headband and black ear cushions\"\n    },\n    \"pose_details\": {\n      \"hands\": \"both hands resting naturally one over the other beneath the chin\",\n      \"foreground_object\": \"large bright red circular object occupying the lower foreground\"\n    },\n    \"environment\": {\n      \"background\": \"minimal warm beige studio backdrop\",\n      \"setting\": \"clean professional studio portrait\"\n    },\n    \"lighting\": {\n      \"style\": \"soft controlled studio lighting\",\n      \"direction\": \"front-facing diffused light\",\n      \"quality\": \"soft shadows with gentle facial highlights\",\n      \"look\": \"high-end beauty editorial photography\"\n    },\n    \"camera\": {\n      \"style\": \"professional fashion photography\",\n      \"lens\": \"85mm portrait lens\",\n      \"depth_of_field\": \"shallow but natural\",\n      \"focus\": \"tack-sharp eyes and facial features\"\n    },\n    \"visual_quality\": {\n      \"realism\": \"extremely photorealistic\",\n      \"detail\": \"high micro-detail, realistic hair strands, natural skin texture\",\n      \"color_grading\": \"warm neutral editorial tones\",\n      \"finish\": \"premium magazine beauty campaign\"\n    },\n    \"negative_prompt\": [\n      \"identity change\",\n      \"different person\",\n      \"altered facial structure\",\n      \"plastic skin\",\n      \"over-smoothed skin\",\n      \"AI-looking face\",\n      \"excessive makeup\",\n      \"distorted hands\",\n      \"extra fingers\",\n      \"deformed anatomy\",\n      \"warped headphones\",\n      \"text\",\n      \"logos\",\n      \"watermarks\",\n      \"artificial beauty filter\",\n      \"cartoon\",\n      \"illustration\",\n      \"low resolution\"\n    ],\n    \"aspect_ratio\": \"3:4\"\n  }\n}",
+    "title": "JSON Structural Prompt for Portrait Photography",
+    "description": "A highly technical JSON-based prompt for GPT Image 2 that defines every aspect of an editorial portrait, from camera lens and lighting to negative prompts.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788595133855_1xvfsy_HRa9ZhLaYAE-Di6.jpg",
-      "https://cms-assets.youmind.com/media/1788595133853_yf5mh4_HRa9dDCbYAAhhNl.jpg"
+      "https://cms-assets.youmind.com/media/1788682087898_u6dryp_HRhAaXfbgAARRDy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33574,
+    "content": "A cinematic black-and-white studio portrait of a handsome adult man with {argument name=\"hair style\" default=\"short, slightly tousled dark hair\"} and a full, well-groomed beard, wearing a {argument name=\"clothing\" default=\"simple black hoodie\"}. He is shown in a three-quarter profile, looking upward and toward the right with a calm, thoughtful, determined expression. Dramatic high-contrast Rembrandt-style lighting illuminates one side of his face while the other fades into deep shadow. Highly detailed facial features, realistic skin texture, sharp eyes, defined cheekbones and beard, subtle highlights on the hair, deep blacks, dark seamless background, moody masculine atmosphere, minimalist composition, professional fashion/editorial photography, shallow depth of field, soft directional key light from above/front, strong chiaroscuro, ultra-realistic, photorealistic, monochrome, 85mm portrait lens, f/1.8, high detail, fine film grain, 4K.portrait of a handsome adult man with short, slightly tousled dark hair and a full, well-groomed beard, wearing a simple black hoodie. He is shown in a three-quarter profile, looking upward and toward the right with a calm, thoughtful, determined expression. Dramatic high-contrast Rembrandt-style lighting illuminates one side of his face while the other fades into deep shadow. Highly detailed facial features, realistic skin texture, sharp eyes, defined cheekbones and beard, subtle highlights on the hair, deep blacks, dark seamless background, moody masculine atmosphere, minimalist composition, professional fashion/editorial photography, shallow depth of field, soft directional key light from above/front, strong chiaroscuro, ultra-realistic, photorealistic, monochrome, 85mm portrait lens, f/1.8, high detail, fine film grain, 4K.",
+    "title": "Cinematic Black and White Studio Portrait",
+    "description": "A detailed prompt for a high-contrast black-and-white studio portrait featuring a man with a beard and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682057888_kxp37r_HRgckPPboAAcomW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33597,
+    "content": "Subject:\nWindow light and cream-colored lace\n\nMain Subject:\nA vertical waist-up photograph of an adult woman wearing a {argument name=\"top\" default=\"cream-colored lace top\"} and {argument name=\"bottom\" default=\"pale denim\"} sitting on a wooden chair by a bright window. The subject occupies a large portion of the center of the frame, with sunlight streaming from the left window and a wooden table in the back right background.\n\nCharacter/Expression:\nFace tilted slightly to the left, looking directly at the camera with a gentle expression and glossy lips slightly open. Slender oval face, small chin, large grayish-brown almond eyes, thin eyebrows, smooth nose bridge, and pale rose-colored lips. Glossy ash-brown hair down to the chest with thin bangs and thin strands along the cheeks, flowing straight from the right shoulder to the chest. A small round pendant.\n\nClothing/Pose:\nA cream-colored fine-ribbed camisole top with wide lace shoulder straps, a deep V-neck, a thin tie in the center of the chest, and lace at the hem. A sheer long-sleeved cardigan of the same color draped off both shoulders, with light blue denim shorts underneath. Sitting in a chair, right elbow raised with the back of the right hand placed under the cheek, and left arm lowered towards the knees.\n\nBackground/Lighting:\nA white-framed window and white wall on the left, with a simple wooden table and chair in the right background. A somewhat harsh warm primary light shines from the upper left window, creating thin window frame shadows and bright highlights on the face, chest, and sleeves, while leaving soft shadows on the right side.\n\nComposition/Camera:\n2:3 vertical composition. The camera captures the upper body from a short distance at approximately the same height as the seated person's eye level, cropped at the top of the head and near the denim waist. Place the face in the top center, the right hand on the cheek in the top right, and the window on the left edge, making the subject large in the center. Focus on both eyes, with the indoor background weakly and naturally blurred.\n\nTexture/Style:\nPhotorealistic high-definition live-action photograph. Precisely depicts natural skin texture and gloss, individual hair strands, fine ribs, lace, sheer sleeves, and denim weave, adjusted to a warm, low-saturation palette of cream and pale wood colors.\n\nNegative:\nDo not reverse the direction of the window light and shadows; do not have the cardigan fully worn up to the shoulders.",
+    "title": "Window Sunlight and Lace Top",
+    "description": "A delicate portrait prompt focusing on a lace top and denim shorts by a window, capturing natural sunlight highlights and soft indoor shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682083478_yp8x79_HRM3VCqakAEcq02.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33575,
+    "content": "A photorealistic nighttime street-style portrait of a young woman taking a casual selfie in a busy {argument name=\"city location\" default=\"Korean city district\"}. She has {argument name=\"hair style\" default=\"long, straight dark hair\"}, soft natural makeup, subtle hoop earrings, and a delicate necklace. She wears a {argument name=\"outfit\" default=\"black fitted top layered with an oversized black jacket and light gray casual pants\"}, carrying a black shoulder bag with a chain strap. She leans slightly toward the camera with a calm, confident expression. Bright Korean storefront signs, illuminated billboards, traffic, crosswalks, and city lights create a vibrant urban background. Slightly tilted smartphone camera angle, candid street photography, realistic skin texture, soft ambient lighting, shallow depth of field, natural night colors, detailed, high-resolution, vertical 4:5 composition.",
+    "title": "Urban Night Street Selfie Portrait",
+    "description": "A prompt for a candid, photorealistic night-time selfie of a young woman in a vibrant Korean city district.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682058102_78rg46_HRgK4hmbIAE3uIt.jpg",
+      "https://cms-assets.youmind.com/media/1788682058169_u29ln1_HRgK5RYa8AA6nRz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33642,
+    "content": "Create a highly detailed vertical kawaii anime illustration in a soft pink bedroom filled with teddy bears and sparkling decorations. Center a cute anime girl named {argument name=\"character name\" default=\"Astra\"} with long fluffy twin-tail {argument name=\"hair color\" default=\"bubblegum pink\"} hair, glossy magenta-pink eyes, pale skin, a small pouty mouth, and a slightly bashful expression. She wears an elaborate pink idol-lolita dress with layered ruffles, lace trim, checkered pink fabric, bows, frilled wrist cuffs, a corset-style waist ribbon, thigh-high white-and-pink stockings, and multiple teddy-bear accessories. Her twin tails are tied with two oversized pink gingham lace bows, each decorated with a small bear face charm; add a curled ahoge strand above her head. She sits facing the viewer in a plush pastel room and holds a white rectangular sign in front of her chest with large handwritten Japanese text {argument name=\"sign text\" default=\"あすとら\"} in thick bright pink brush lettering, plus small doodles: a bow, crown, hearts, stars, wavy lines, and a simple bear face. Her right hand points toward the sign while her left hand grips it. Surround her with exactly 6 visible teddy bears: 1 large bear at lower left raising both arms, 1 medium bear at mid-left beside the sign, 1 bear peeking from the upper-left background, 1 bear at upper-right background, 1 cheerful bear at right middle raising one paw, and 1 large bear at lower-right raising both arms; all bears are beige with pink bow ties and joyful faces. Add white and pink decorative sparkle icons, heart doodles, and emphasis marks around the character, especially at the left and right edges. Background: dreamy pink bedroom with soft-focus curtains, plush bedding or cushions, a warm table lamp, pastel furniture, and more pink decorative details, blurred enough to keep focus on the character. Visual style: polished modern anime key visual, ultra-cute yume-kawaii aesthetic, pastel pink color palette, luminous highlights, soft bloom, glossy eyes, delicate linework, dense lace and fabric detail, high resolution, portrait 3:4 composition, no watermark, no extra readable text beyond the sign.",
+    "title": "Pink Kawaii Anime Girl With Teddy Bears",
+    "description": "A pastel yume-kawaii anime illustration of a pink twin-tail lolita girl holding a Japanese name sign among cheerful teddy bears.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682115932_1vu5l3_HRgI-v0asAAvV9_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33649,
+    "content": "Create an ultra-detailed black-and-white pencil line-art portrait of {argument name=\"character description\" default=\"a young woman with delicate symmetrical features\"} on a clean white paper background. Show a front-facing bust portrait cropped from the shoulders upward, with the head slightly turned but eyes looking directly at the viewer. The expression is calm and gentle with a faint closed-mouth smile. Render large almond-shaped eyes with detailed irises and catchlights, softly arched dark eyebrows, a slim straight nose, full softly shaded lips, smooth oval face, and a long graceful neck. Style the hair as {argument name=\"hairstyle\" default=\"dark medium-length hair parted in the center, loosely swept back into a soft messy updo with wispy strands framing both sides of the face\"}. Use meticulous graphite pencil technique: fine layered linework, realistic cross-hatching, subtle tonal gradients, visible individual hair strokes, delicate skin shading, and crisp facial detail while keeping the shoulders and lower bust lightly sketched and fading into the white background. Maintain a realistic yet idealized fashion-illustration look, high contrast in the hair, soft shading on the face, no color, no background objects, no text, no watermark.",
+    "title": "Black and White Pencil Portrait",
+    "description": "A realistic graphite-style bust portrait of a serene young woman with detailed eyes, soft shading, and loosely swept hair for elegant character or portrait generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682122940_xqgt8e_HRgG39mbUAABCn5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33567,
+    "content": "Create a dark, intense cinematic close-up portrait of the uploaded man with {argument name=\"hair style\" default=\"messy, styled hair with loose strands\"}, staring over his shoulder into the camera with a {argument name=\"expression\" default=\"deep, serious, intense sad look\"}. His body turned to the side, left arm is raised accross the face to the ear with elbow extending upward and forward covering his face only one eye visible, creating a strong layered pose. He wears a {argument name=\"clothing\" default=\"dark teal-blue rolled up sleeve open silk shirt\"}, clean chest slightly visible. DSLR quality, shot taken from side while he is looking. Keep the face mostly desaturated with natural skin tones while the shirt remains rich deep teal-blue, creating a selective-color cinematic look. Dramatic low-key side lighting, deep black shadows, subtle film grain, high contrast, moody black background with lower foreground, slight vignette, realistic skin texture, shallow depth of field, editorial fashion photography, 85mm lens, ultra-realistic, atmospheric, 4:5 portrait. Maintain the face same as the uploaded photo.",
+    "title": "Intense Cinematic Over-the-Shoulder Portrait",
+    "description": "A dark, intense cinematic portrait prompt utilizing an uploaded reference photo to maintain facial identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682061968_c2yve8_HRfyOzraYAAF_lo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33636,
+    "content": "Using REFERENCE_0 as the character base, transform the anime character into a simple stylized 3D toy/avatar model while preserving the recognizable face cues, round glasses, short dark bob haircut, and gentle expression. Change the result from a 2D illustration lineup into a single full-body 3D render in a neutral standing pose, viewed slightly from above and slightly three-quarter front.\n\nStyle: soft, glossy plastic / clay-like 3D character with simplified anatomy, rounded forms, segmented doll-like limbs, and minimal facial detail. Make the hair into chunky sculpted pieces rather than painted strands.\n\nNew outfit and body design: replace the original exposed/censored body with a modest toy outfit made of exactly 5 visible components: 1 oversized white T-shirt, 1 pale blue letter “M” on the shirt front, 1 blue shorts/hip piece, 2 blue leg pieces, and 2 rounded white shoes. Use simple cylindrical arms with mitten-like hands and blocky shoulder pieces.\n\nScene: place the character alone on a pale blue-gray studio floor plane against a dark nearly black background, with soft overhead lighting, gentle shadows, and a clean 3D preview/render look.\n\nConstraints: do not include the original multi-view lineup, censor mosaic, or reference sheet layout. Do not add text other than the single shirt letter {argument name=\"shirt letter\" default=\"M\"}. Keep the model cute, non-realistic, and clearly toy-like. Use {argument name=\"character style\" default=\"soft glossy plastic 3D avatar\"} and {argument name=\"background\" default=\"dark studio backdrop with pale blue-gray floor\"}.",
+    "title": "2D Anime to 3D Toy Avatar",
+    "description": "Transforms a reference anime character into a simplified glossy 3D toy-style avatar suitable for character model previews.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682111380_h8ajjt_HReyHDCaAAA60k1.png",
+      "https://cms-assets.youmind.com/media/1788682111363_juncz2_HReyNyJaUAAsT0-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33653,
+    "content": "Create a clean, high-detail full-body 3D character render of {argument name=\"character name\" default=\"Solip\"}, a friendly heroic humanoid robot standing in a confident front-facing pose against a pure black studio background. The robot has a bulky armored mech body made of angular mustard-yellow metal panels with black mechanical joints, subtle scratches, beveled edges, and realistic wear. Its head is a square yellow helmet-like monitor with rounded corners, side circular ear modules, a glossy black screen face, and a cute green LED pixel expression: exactly 2 upside-down U-shaped eyes and 1 smiling curved mouth. Add the teal marking {argument name=\"chest label\" default=\"C2\"} on the upper right chest plate. The robot wears exactly 1 dramatic black cape flowing behind both shoulders, with a teal inner lining and teal trim visible along the edges. Include detailed segmented arms, articulated black fingers, large shoulder rings, piston-like elbows, thick armored thighs, knee plates, heavy boot-like feet, and exposed dark understructure between plates. Use cinematic low-key lighting with warm golden rim light from the upper left, crisp reflections on metal, deep shadows, a subtle floor reflection, and an ultra-clean premium sci-fi toy/film render look. Center the character vertically in a portrait composition, slightly low camera angle, sharp focus, no background props, no extra characters, no text except the chest label.",
+    "title": "Heroic Yellow Robot with Cape",
+    "description": "A cinematic full-body render prompt for creating a clean armored yellow robot mascot with a pixel smile and dramatic cape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682126500_e99wir_HReAJFuaUAAzOLG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33569,
+    "content": "Use my photo as the main identity reference. Use the target image I'm going to attach as reference for pose, composition, framing, lighting, setting, color palette, and visual style. Replace the character in the target image with the person from my photo, keeping my identity recognizable: face, hair, beard, skin tone, physical build, serious expression, and main facial features. Keep exactly the pose, body posture, arm and hand position, framing, composition, perspective, lighting, and setting from the target image. Don't alter the environment, colors, or original atmosphere except for the minimum needed to naturally integrate the new character. Reconstruct the full character, don't just do a simple face swap. Adapt my face and body to the pose of the target image, maintaining realistic anatomy, natural proportions, and coherence between head, neck, shoulders, arms, and hands. Apply a {argument name=\"visual style\" default=\"visual style clearly inspired by GTA cover art\"}: stylized-realism character illustration, defined outlines, skin and clothing with a polished painterly finish, high contrast, cinematic lighting, saturated but controlled colors, luxury-meets-street urban aesthetic. Avoid making it look like a generic illustration or a photo filter. Keep the {argument name=\"outfit\" default=\"outfit from my photo: oversized white t-shirt, black watch, and bracelet/chain on the wrist\"}. You can subtly improve the texture, drape, and finish of the clothing to make it look more premium, but without changing the main outfit. Replace any bag or handheld object from the target image with a premium black urban-style backpack, naturally integrated into the pose and scene. Add GTA 6 Logo Do not include: camera equipment, gimbal, audiovisual gear, real logos, text, trademarks, weapons, facial deformities, poorly constructed hands, excessive muscle mass, cartoonish appearance, or costume-like look.",
+    "title": "GTA Style Character Transformation",
+    "description": "A sophisticated identity-reference prompt to transform a personal photo into a stylized GTA-inspired character while maintaining key facial and clothing details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682053383_gpf4zs_HRdqSLsacAAwATt.jpg",
+      "https://cms-assets.youmind.com/media/1788682053358_b8koa0_HRdqSLtbEAACKuW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33647,
+    "content": "Create a polished vertical portrait of a cute young woman with {argument name=\"hair color\" default=\"long wavy dark brown hair\"}, soft fair skin, large light hazel-green eyes, natural brows, subtle rosy makeup, and a gentle dreamy expression, looking slightly upward and to the side rather than directly at the camera. She wears a bright red headband tied in a large bow with white polka dots, small gold heart-shaped earrings, a {argument name=\"shirt color\" default=\"coral pink\"} long-sleeve shirt, and blue denim overalls with visible stitching, a front bib pocket, brass buttons, and a shoulder buckle. Frame her from mid-torso up in a centered three-quarter portrait, with her hair flowing over one shoulder and a soft studio beauty-lighting look. The background is a warm peach-orange gradient filled with creamy circular bokeh lights and exactly 14 floating decorative shapes: 8 red hearts of varying sizes and 6 small golden stars, softly blurred at different depths. Use a romantic kawaii-inspired semi-realistic digital painting style, high detail in the face and hair, smooth skin, warm color grading, shallow depth of field, no text, no watermark, no extra people, vertical 9:16 composition.",
+    "title": "Kawaii Denim Portrait",
+    "description": "A warm semi-realistic portrait prompt for creating a cute young woman with a polka-dot bow, denim overalls, and floating hearts and stars.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682121547_rubsjl_HRdnSaOa8AAu9zg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33578,
+    "content": "A stylish young woman taking a mirror selfie in a modern luxury gym, sitting cross-legged on a {argument name=\"bench type\" default=\"wooden workout bench\"}. She has {argument name=\"hair style\" default=\"long, straight dark-brown hair\"}, a calm natural expression, and holds a black smartphone in front of her face. She wears a {argument name=\"outfit\" default=\"sleek all-black sleeveless athletic outfit with loose black pants and light-colored chunky sneakers\"}, with a simple wristwatch. Spacious upscale gym interior with large mirrors, fitness machines, warm beige lighting, polished wooden flooring, clean minimalist atmosphere, soft ambient lighting, realistic photography, natural skin texture, shallow depth of field, subtle background blur, full-body composition, vertical 9:16, high detail.",
+    "title": "Luxury Gym Mirror Selfie Portrait",
+    "description": "A prompt for a stylish mirror selfie set in a modern luxury gym, focusing on athletic aesthetics and minimalist atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682060688_ufgwvg_HRdksUsacAANmYx.jpg",
+      "https://cms-assets.youmind.com/media/1788682060822_o68wap_HRdkueqbIAAYfAr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33576,
+    "content": "Use my uploaded reference photos to accurately reconstruct my real face and identity. Preserve my exact facial structure, jawline, forehead proportions, eyebrows, eye shape, nose, lips, skin tone, beard/moustache (if present), hairline, hairstyle, hair texture, ears, neck proportions, and overall facial geometry. Do not blend me with the original model. Make it unmistakably me.\nCreate an ultra-realistic high-fashion editorial close-up portrait with a minimalist luxury aesthetic, captured entirely in dramatic black and white with rich monochrome tones, deep blacks, crisp highlights, natural skin texture, and subtle film grain.\nThe composition is a perfectly centered head-and-shoulders portrait. My head faces directly toward the camera with no tilt or rotation. My expression is serious, confident, and slightly intense, with lightly furrowed eyebrows creating subtle forehead lines. My lips remain naturally closed with a neutral expression. The jaw is relaxed yet defined.\nI am wearing {argument name=\"eyewear\" default=\"futuristic mirrored wraparound shield sunglasses\"} featuring polished metallic frames and {argument name=\"lens type\" default=\"reflective chrome lenses\"} that completely cover my eyes. The sunglasses, skin, hair, clothing, and background are all rendered in black and white, while the lenses reflect a bright monochrome studio environment with soft rectangular light panels and subtle gradients. Maintain clean, realistic reflections, sharp facial detail, natural shadows, strong tonal contrast, and a premium cinematic fashion-photography look.",
+    "title": "Futuristic Mirrored Sunglasses Monochrome Portrait",
+    "description": "A sophisticated black-and-white fashion editorial prompt focusing on high-fashion aesthetics and identity reconstruction.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682060503_1s29yy_HRdOqeCaoAEkuh5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33640,
+    "content": "Create a high-quality vertical anime-style portrait of a cheerful Japanese high school girl in a sunlit school hallway. She is turned slightly away from the viewer but looking back over her shoulder with a gentle smile, raising one open hand in a friendly wave. She has {argument name=\"hair color\" default=\"glossy black\"} hair styled in two loose braided pigtails with soft wispy bangs, large warm brown eyes, delicate round wire-frame glasses, smooth fair skin, and a subtle natural blush. She wears a classic sailor-style school uniform: a white short-sleeve blouse, navy sailor collar with two white stripes, a red necktie, and a dark pleated skirt. The hallway background is softly blurred with windows on the left, cool blue-gray walls, and strong late-afternoon sunlight streaming in, creating bright rim light, dappled highlights on her hair and shirt, and cinematic depth of field. Use polished modern Japanese anime rendering with semi-realistic lighting, detailed hair strands, soft painterly skin, expressive eyes, clean linework, and a warm nostalgic school-life atmosphere. No text, no watermark, no extra characters.",
+    "title": "Waving Schoolgirl in Sunlit Hallway",
+    "description": "Generates a polished anime portrait of a smiling sailor-uniform schoolgirl waving in a softly lit school corridor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682114491_si38yv_HRdAacBaQAAQK9v.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33646,
+    "content": "Create a cute, dreamy, ultra-realistic digital-art portrait of a young woman with {argument name=\"hair color\" default=\"long wavy dark brown hair with subtle warm highlights\"}, soft fair skin, large hazel-green eyes, natural brows, a small straight nose, and soft pink lips, gazing slightly upward and to the viewer’s right with a calm gentle expression. She wears a {argument name=\"headband style\" default=\"red headband tied in a large bow with white polka dots\"}, small gold heart-shaped earrings, a {argument name=\"shirt color\" default=\"coral pink long-sleeve shirt\"}, and blue denim overalls with visible seams, front bib pocket, straps, and brass hardware. Frame as a vertical waist-up portrait, centered, with her head and shoulders filling most of the image, slightly tilted pose, hair flowing over one shoulder in voluminous loose waves. Use a warm peach-to-orange dreamy background with soft glowing bokeh lights and exactly 12 floating decorative elements: 7 red hearts and 5 small golden stars scattered around her head. Make the style polished, cute, romantic, semi-photorealistic digital painting with smooth skin rendering, detailed hair strands, soft studio lighting, shallow depth of field, warm color grading, and no text or watermark.",
+    "title": "Dreamy Polka-Dot Bow Portrait",
+    "description": "Generates a cute ultra-realistic digital-art portrait of a young woman in denim overalls with a red polka-dot bow and romantic heart-and-star background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682121147_hoaxbe_HRc56Mta8AEb2zS.jpg",
+      "https://cms-assets.youmind.com/media/1788682121180_ajqlsb_HRc57i1akAAsgpG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33594,
+    "content": "Subject:\nWhite negative space reflected in the mirror\n\nMain Subject:\nA vertical photograph of an adult woman taking a smartphone selfie in a full-length mirror in a {argument name=\"background\" default=\"bright white bedroom\"}, wearing a {argument name=\"clothing\" default=\"white off-shoulder top and white shorts\"}. The subject occupies the center of the frame from head to thighs, showing the device in her right hand and pulling the waistband with her left hand.\n\nCharacter/Expression:\n{argument name=\"expression\" default=\"Calm expression with her face turned to the right looking at the device screen and glossy lips closed\"}. Slender oval face, small chin, dark brown almond eyes, thin parallel eyebrows, smooth nose bridge, and plump rose-colored lips. Long ash-brown hair with thin bangs, lightly tied at the back and flowing loosely from the right shoulder to the chest.\n\nClothing/Pose:\nA white fine-ribbed short-sleeved top with a wide horizontal collar exposing the left shoulder, with a short length crossing diagonally at the front. White shorts with a thin waistband featuring grey lettering. Holding a white triple-camera style device next to her face with her right hand, lightly pulling the left waistband sideways with her left hand, standing with her hips shifted to the left.\n\nBackground/Lighting:\nA rounded mirror on the left, white shelves, a small bottle of white flowers and cosmetics, a pale wood-grain closet in the center background, and a white wall and curtain on the right. Soft daylight enters from the window on the left, illuminating the face and abdomen and creating soft shadows along the contours.\n\nComposition/Camera:\n3:4 vertical composition. Eye-level view of the standing pose via the mirror surface, leaving a small amount of space above the head, cropped at the top of the head and mid-thighs. The device is placed in the top right, the face in the top center, and the pulled waistband in the bottom left, making the subject large in the center. Focus on the face and torso, keeping the indoor background mostly clear.\n\nTexture/Style:\nPhotorealistic high-definition live-action photograph. Precisely depicts natural skin texture, soft shadows on the abdomen, fine hair strands, white ribbed fabric and waistband, and mirror reflections in a clean tone of white and pale wood color.\n\nNegative:\nDo not distort the hands or mirror image; do not change the clothing color.",
+    "title": "White Mirror Selfie Photography",
+    "description": "A sophisticated prompt for generating a high-definition mirror selfie with a clean white aesthetic, focusing on soft lighting and realistic textures in a bedroom setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682081711_aoot58_HRMtm3jbAAAUiz1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33599,
+    "content": "A natural photo as if taken from a high angle with the {argument name=\"device\" default=\"latest iPhone\"}. Soft indoor light illuminates the face and hair. It has a slight graininess and appropriate sharpness characteristic of smartphone photos, with focus remaining on the background tiles and joints. Avoid excessive wide-angle distortion, skin-beautifying processing, background blur, or studio-like lighting. {argument name=\"skin texture\" default=\"Porcelain-like white skin\"}. Large eyes emphasized with dark pupils, reddish-pink eyeshadow, tear-bag makeup, and pink lips. Retain a natural photographic texture on the skin. The camera is located diagonally in front of the face at a higher position, looking down at an angle of about 30-45 degrees. The subject is sitting on the {argument name=\"location\" default=\"stairs\"}, looking up slightly at the lens. Capture from the top of the head to the waist, with the steps and tiled floor visible in the background.",
+    "title": "Jirai-Kei Girl iPhone Selfie",
+    "description": "A detailed prompt for generating a natural, high-angle iPhone selfie of a girl with jirai-kei makeup, featuring realistic skin texture and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682084544_0vavyn_HRcW_CPaIAAZc0L.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33627,
+    "content": "Create a photorealistic vertical beach portrait of an adult {argument name=\"subject\" default=\"young East Asian woman\"} standing waist-deep in the ocean at golden hour, smiling brightly at the camera with wet shoulder-length dark hair clinging naturally to her face and neck. She wears a simple {argument name=\"swimsuit color\" default=\"black\"} one-piece swimsuit and reaches one hand toward the lens while playfully throwing seawater, forming a large sparkling arc of water droplets around her head and across the foreground. Use a close, slightly low-angle perspective with the subject centered, ocean horizon in the background, warm sunset light from the left, soft backlit glow, shimmering bokeh droplets, shallow depth of field, realistic skin texture, natural joyful expression, cinematic summer atmosphere, high-speed photography freezing the splash, 35mm lifestyle photography look, no text, no watermark.",
+    "title": "Golden Hour Ocean Splash Portrait",
+    "description": "A photorealistic vertical beach portrait of a smiling woman in a swimsuit throwing sparkling seawater toward the camera at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682105024_rxuliv_HRcTo0FasAA9P2X.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33507,
+    "content": "Candid Ins-style lifestyle photography, {argument name=\"character\" default=\"a beautiful 18-year-old Asian girl with double braids\"} taking a selfie with the front camera, one hand propping up her cheek, the other resting casually on the edge of the bed. The image has a natural out-of-focus blur, like a moment captured right after waking up. The background is {argument name=\"environment\" default=\"a bedroom during the day, with a crumpled knit cardigan and plush toys piled on the bed\"}, overall {argument name=\"color tone\" default=\"creamy white tone\"}, with a dreamcore-like ambiguous and hazy atmosphere.",
+    "title": "Candid Ins-style Dreamcore Selfie",
+    "description": "A prompt designed to create natural, 'just woke up' lifestyle photos with an aesthetic blurry lens effect and cozy bedroom vibes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682075746_evcsrn_HRa9ZhLaYAE-Di6.jpg",
+      "https://cms-assets.youmind.com/media/1788682076303_iujcd2_HRa9dDCbYAAhhNl.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 33528,
-    "content": "{argument name=\"character\" default=\"character name\"}, young adult female, real-life COS home mirror selfie, retaining the character's iconic hairstyle, hair color, clothing color scheme, and accessories, with the clothing showing realistic fabric, metal, and accessory textures. The character is sitting on a wooden floor, upper body naturally upright, head slightly lowered, holding a phone vertically in one hand to cover the face. According to the screen direction, one leg is bent and laid flat to the left, the calf crossing the foreground with toes pointing right; the other leg is on the right side of the screen with the knee raised and foot on the ground, forming an asymmetrical triangular sitting posture. Footwear and leg decorations are adapted according to the character setting. 3:4 vertical full-body composition, character centered to the left, slight high-angle shot, moderate wide-angle perspective. Light gray walls, white baseboards, warm-colored wooden floor, soft natural indoor light, fair skin with slight pink flush, soft bright highlights, low-contrast color grading, lifestyle selfie quality. A small hand-drawn bubble is added to the right side of the head, the border and content color echoing the character; the bubble presents representative symbols, mini props, or short catchphrases that match the character's personality, abilities, or preferences, naturally associated with the current selfie situation. A simple logo composed of a stylized 'V' and cat elements is added to the top left, and a tiny handwritten signature 'voxCAT' is added to the bottom right, with a 'VOXCAT' tag naturally integrated into the clothing. The image is clean and clear, with accurate hand and leg structures, reasonable posture, and stable details.",
-    "title": "Cosplay Mirror Selfie Template",
-    "description": "A customizable prompt for generating realistic cosplay home mirror selfies, featuring natural lighting and a stylized speech bubble.",
+    "content": "{argument name=\"character\" default=\"Character\"}, young adult female, real-life COS home mirror selfie, preserving the character's signature hairstyle, hair color, clothing color scheme, and accessories, with clothing showing realistic fabric, metal, and accessory textures. \n\nPerson sitting on a wooden floor, upper body naturally upright, head slightly bowed, holding a phone vertically in one hand covering the face. Based on the screen direction, one leg is bent and laid flat to the left, with the calf crossing the foreground and toes pointing right; the other leg is bent and raised on the right side of the screen, with the foot on the floor, forming an asymmetrical triangular sitting posture. Footwear and leg decorations are adapted according to the character setting. \n\n3:4 vertical full-body composition, character centered slightly to the left, slight high-angle shot, moderate wide-angle perspective. Light grey walls, white baseboards, warm-colored wooden floors, soft natural indoor light, fair skin with a slight pinkish flush, soft bright highlights, low contrast color grading, lifestyle selfie quality. \n\nAdd a small hand-drawn bubble to the right side of the head, with the border and content colors matching the character; inside the bubble, present representative symbols, mini props, or short catchphrases that fit the character's personality, abilities, or preferences, naturally associated with the current selfie context. \n\nAdd a simple logo composed of a stylized 'V' and cat elements in the upper left corner, and a tiny handwritten signature 'voxCAT' in the lower right corner, with the clothing naturally integrating a 'VOXCAT' tag. The image is clean and clear, with accurate hand and leg structures, reasonable posture, and stable details.",
+    "title": "Home Mirror Selfie Cosplay",
+    "description": "A template for creating realistic home mirror selfies for cosplay characters, featuring natural lighting and asymmetric poses.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788595150006_qdqy65_HRaySwIa8AANU-L.jpg",
-      "https://cms-assets.youmind.com/media/1788595150072_29icy2_HRaySzYbcAAZ5xL.jpg",
-      "https://cms-assets.youmind.com/media/1788595150051_sqidls_HRaySwIaUAAy5KY.jpg",
-      "https://cms-assets.youmind.com/media/1788595150750_mw818y_HRaySzZbwAAlgtd.jpg"
+      "https://cms-assets.youmind.com/media/1788682085148_uybklt_HRaySwIa8AANU-L.jpg",
+      "https://cms-assets.youmind.com/media/1788682085139_59bcj4_HRaySzYbcAAZ5xL.jpg",
+      "https://cms-assets.youmind.com/media/1788682085173_11v3l1_HRaySwIaUAAy5KY.jpg",
+      "https://cms-assets.youmind.com/media/1788682086090_5t6x5c_HRaySzZbwAAlgtd.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 33552,
-    "content": "Create a photorealistic vertical fashion portrait of an adult {argument name=\"character ethnicity\" default=\"East Asian\"} woman sitting on a sunlit wooden veranda of a traditional Japanese-style house at golden hour. She has long slightly wet-looking {argument name=\"hair color\" default=\"black\"} hair with loose strands across her face, soft glossy makeup, full lips, and wears oversized black rectangular eyeglasses. Her expression is calm and subtly alluring as she looks directly into the camera from a close, low, wide-angle selfie-like perspective, with one arm extending toward the foreground. She is wearing a pale {argument name=\"kimono color\" default=\"powder blue\"} kimono or yukata with elegant white wave and floral patterns, a cream lace-trimmed neckline, and a cream floral obi belt decorated with pearls and a small flower ornament. The composition is intimate and cinematic: her upper body fills most of the frame, the veranda boards lead diagonally into the background, the sloped wooden roof and shoji-style wall appear behind her, and a softly blurred garden, trees, distant mountains, and low sun glow on the left. Use warm sunset backlighting, realistic skin texture, shallow depth of field, natural lens flare, and a nostalgic film-photo look with red-orange light-leak borders along the left and right edges. Vertical 9:16 aspect ratio, high detail, natural pose, no text, no watermark, no extra people.",
-    "title": "Golden Hour Kimono Portrait",
-    "description": "A photorealistic vertical portrait prompt for creating a cinematic woman in a patterned kimono on a traditional Japanese veranda at sunset.",
+    "id": 33517,
+    "content": "Use the uploaded photo as the only identity reference for this person. Transform the person in the reference photo into a high-detail, high-end stylized illustration portrait consistent with the visual style of the target artwork. Important - Identity: Preserve the identifiable facial features of the person in the uploaded reference photo: face shape, eyes, eyebrows, nose, lips, skin tone, facial proportions and overall similarity. The final result must clearly look like the person in the uploaded photo. Art Style: Create an exquisite vintage editorial illustration with complex hand-drawn engraving / comic / copperplate texture. Use: - Extremely fine black ink lines - Dense cross-hatching and stippling - Copperplate engraving texture - Layered color ink coloring - {argument name=\"hair color\" default=\"rich copper / red tones in the hair\"} - Ornate decorative details - Elegant vintage poster painting style - High-detail facial rendering - Artistic but still identifiable facial features Portrait: Center on the person for a close-up portrait, framed from approximately the chest/shoulder up. Give the character a confident, calm, and sophisticated expression. Add oversized round sunglasses with ornate gold frames and bright magenta/pink lenses, echoing the iconic look of the reference artwork. The hair should be drawn beautifully, with detailed flowing hair strands and decorative carved curves, while still based on the hairstyle and appearance of the person in the uploaded reference photo. Clothing: Dress the character in complex and ornate vintage clothing with rich {argument name=\"clothing color\" default=\"turquoise, deep magenta, blue and gold decorative embroidery\"}, complex floral patterns, filigree designs and jewelry-like decorative details. Background: {argument name=\"background\" default=\"Deep black / charcoal gray decorative damask background\"}, filled with fine swirling floral and decorative patterns, presented in subtle black, gray and matte gold tones. Composition: Symmetrical centered portrait. The head and shoulders occupy the main body of the screen. Strong flat poster-style composition. The full screen is covered with high-detail illustrations. Do not include small-sized reference photo thumbnails. Text: Typeset the person's full name in oversized bold uppercase letters above the background, partially placed behind the head. The name must be automatically generated based on the person/reference provided. If the person's name cannot be determined, leave it blank, do not make up a name. Do not add irrelevant text, logos, watermarks or random text. Final effect: The final image should look like a professionally designed luxury vintage illustration poster - not a photo, and not a simple cartoon. Combine the identifiable facial identity from the uploaded reference photo with the overall visual language of the provided examples: ornate vintage engraving, color ink illustration, dramatic oversized sunglasses, complex clothing, dark decorative background, bold name typesetting, and high-detail hand-drawn texture. Do not copy the original character in the example. Create a new character in the same artistic concept and visual style using the uploaded reference photo.",
+    "title": "Vintage Engraving Style Portrait",
+    "description": "Converts reference photos into high-end stylized illustrations with vintage engraving textures, vibrant colors, and oversized sunglasses.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788595166356_5u349c_HRaokOmbQAA2NgR.jpg",
-      "https://cms-assets.youmind.com/media/1788595166003_nb9c50_HRaokPebkAAthxL.jpg",
-      "https://cms-assets.youmind.com/media/1788595166009_zjshb2_HRaokOka8AA0n4e.jpg",
-      "https://cms-assets.youmind.com/media/1788595166936_buo9ei_HRaokOqa8AAzhnA.jpg"
+      "https://cms-assets.youmind.com/media/1788682072680_ck0n0z_HRauMitbcAAoX-Z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33552,
+    "content": "Create a photorealistic vertical portrait of an adult {argument name=\"character ethnicity\" default=\"East Asian\"} woman seated on a traditional wooden veranda of a Japanese-style house at golden hour. She has long slightly wet-looking dark hair, soft natural makeup, glossy lips, and wears oversized black rectangular glasses. Her expression is calm and subtly alluring as she looks directly into the camera from a close low angle, as if taking an intimate wide-angle selfie. She is dressed in a pale {argument name=\"kimono color\" default=\"powder blue\"} kimono with elegant white wave and floral patterns, a cream obi belt with gold floral details, lace trim at the neckline, and a decorative pearl obi ornament. Pose her leaning slightly toward the lens with one arm extended into the foreground, creating strong depth and perspective; the upper body is centered, with the sleeve and hand foreshortened near the bottom edge. The background shows wooden sliding doors, deep roof eaves, a sunlit garden, distant mountains, and warm sunset flare from the left. Use cinematic natural light, shallow depth of field, realistic skin texture, high-detail fabric embroidery, warm highlights, soft shadows, and a nostalgic 35mm film-photo look. Add red-orange light leaks and film-burn borders along the left and right edges, slight lens flare, and a vertical smartphone aspect ratio. Keep the image tasteful, fashion-editorial, and realistic, with no text or watermark.",
+    "title": "Golden Hour Kimono Portrait",
+    "description": "A photorealistic vertical fashion portrait of a woman in a patterned kimono and glasses on a traditional Japanese veranda at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788682118284_j4ijlx_HRaokOmbQAA2NgR.jpg",
+      "https://cms-assets.youmind.com/media/1788682118100_ucujp1_HRaokPebkAAthxL.jpg",
+      "https://cms-assets.youmind.com/media/1788682118153_ou1kj5_HRaokOka8AA0n4e.jpg",
+      "https://cms-assets.youmind.com/media/1788682119496_ml2qv4_HRaokOqa8AAzhnA.jpg"
     ],
     "needReferenceImages": true
   },
