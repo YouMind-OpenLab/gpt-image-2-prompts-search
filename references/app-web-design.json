@@ -10,22 +10,52 @@
     "needReferenceImages": true
   },
   {
-    "id": 33692,
-    "content": "Theme direction: {argument name=\"style\" default=\"Oriental Zen minimalist illustration\"}\nStyle branch: Refreshing female aesthetic\nSubject content: A woman sitting on {argument name=\"location\" default=\"stone steps by the water\"}, looking down at the water surface\nEmotional motif: Fresh, summer, relaxed feeling\nScenes and imagery: {argument name=\"main color\" default=\"celadon blue\"} water surface, white stone steps, lemon yellow circular sunlight, a small amount of bamboo shadows, characters\nComposition and space: 9:16 vertical composition, characters located in the lower part, circular sunlight in the upper middle part, keeping transparent white space at the top and right\nColor control: High-brightness warm white as the overall base, celadon blue for the water surface and the distant air layer, lemon yellow only for the circular sunlight and a small amount of water surface reflection, character clothing in white or light beige; avoid yellowing or blueing of the whole picture\nLight and texture: Bright sunlight, clear picture, clear flat feeling, light paper texture is fine\nAspect ratio: 9:16\nSupplementary requirements: The whole should have a summer refreshing feeling and female aesthetic appeal, not dull, not misty gray",
-    "title": "Zen Minimalist Summer Illustration",
-    "description": "A minimalist, refreshing Zen-inspired illustration prompt for a summer wallpaper, featuring a girl by the water with a clean, high-brightness aesthetic.",
+    "id": 33843,
+    "content": "Create a serene futuristic biophilic interior lounge in a warm neutral palette, inside a {argument name=\"building type\" default=\"large dome-like atrium\"} with an overhead geometric glass-and-wood lattice roof made of triangular facets. Use a high-angle wide architectural photography view looking down into a circular sunken seating area. The space has smooth flowing organic architecture: pale plaster curved walls, light oak vertical wood paneling, rounded ramps and layered circular retaining walls, with one prominent terracotta-colored curved wall wrapping the front right edge. At the center is a circular conversation pit with exactly 3 cream curved sectional sofas arranged around the circle, exactly 2 round cream ottoman coffee tables, exactly 1 small round side table, and exactly 4 visible accent pillows in muted peach, beige, olive, and tan. Surround the lounge with lush green moss beds and ferns in exactly 4 planted zones: a large left garden bed, a narrow rear moss bed, a small raised rear planter, and a front-right curved planter. Make the atmosphere calm, cozy, luxurious, and nature-integrated, with soft diffuse daylight from the skylight, no people, no text, no clutter, photorealistic rendering, smooth tactile materials, gentle shadows, architectural digest style, ultra-wide composition, {argument name=\"main material\" default=\"light oak wood and warm plaster\"}, {argument name=\"accent color\" default=\"soft terracotta\"}, {argument name=\"mood\" default=\"calming sanctuary\"}.",
+    "title": "Futuristic Biophilic Atrium Lounge",
+    "description": "A photorealistic prompt for generating a calm organic atrium lounge with curved seating, moss gardens, and a geometric skylight.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788769188064_q2xvrt_HRl3Zava8AAncXW.jpg"
+      "https://cms-assets.youmind.com/media/1788855334188_q5wud0_HRpHcRtbQAAIFC6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33808,
+    "content": "Using my uploaded photo as the person reference, create a photorealistic professional brand portrait of me standing naturally outside a premium modern business headquarters for {argument name=\"brand name\" default=\"[BRAND NAME]\"}, a brand focused on {argument name=\"business niche\" default=\"[WHAT YOU DO]\"}. Use {argument name=\"primary color\" default=\"[PRIMARY COLOR]\"} and [SECONDARY COLOR] throughout the scene. Place a large illuminated metallic 3D [BRAND NAME] sign vertically on the architectural wall beside me. Dress me in a professional [COLOR] T-shirt featuring [BRAND NAME/LOGO], with smart-casual trousers or jeans and clean footwear. Add an elegant background information panel displaying: [TAGLINE] [SERVICE 1] [SERVICE 2] [SERVICE 3] [WEBSITE] Use realistic modern architecture, glass, landscaping, reflections and professional exterior lighting. Make the scene look like a genuine premium commercial location. Use cinematic evening lighting, realistic skin texture, natural body proportions, professional commercial photography, shallow depth of field and a polished corporate aesthetic. Preserve my recognizable appearance from the uploaded photo. Keep me as the main subject while making the branding clearly visible. Create the image in 9:16 vertical format and keep the composition sophisticated and uncluttered.",
+    "title": "Professional Branded Business Portrait",
+    "description": "Transforms a personal photo into a high-end commercial brand portrait set in a modern corporate environment with customizable colors and logos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788855301420_jrf6wq_HRoPht2XoAAYNz9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33807,
+    "content": "Mine pulses red beneath a {argument name=\"shell color\" default=\"black shell\"}. {argument name=\"model id\" default=\"JFC-01\"}｜{argument name=\"name\" default=\"VOID FANG\"}",
+    "title": "Futuristic Void Fang Mech",
+    "description": "A minimalist prompt for generating a dark, pulsing cybernetic shell design with a red glow.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788855300893_ne0vqh_HRoI9_paYAAufZU.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 33604,
-    "content": "Theme direction: Oriental Zen minimalist cover poster. Style branch: Clear and feminine aesthetic. Subject: {argument name=\"subject\" default=\"An ancient-style woman walking slowly past a moon gate with a light posture.\"} Emotional motif: {argument name=\"mood\" default=\"Clear, brisk, spring breath sense.\"} Scenes and imagery: White walls, clear sky blue door holes, cherry blossom pink flower shadows, small amount of leaves, characters. Composition and space: {argument name=\"composition\" default=\"9:16 vertical composition\"}, with the moon gate in the upper middle forming a visual frame, the character in the lower middle, and large areas of clean white space above and on both sides. Color control: Warm white as the wall base, clear sky blue for the door hole and local sky color blocks, cherry blossom pink for the flower shadows, and bright light green for the leaves; avoid the background turning overall pink or blue. Light and texture: Clear natural light, low gray levels, sharp edges, modern oriental cover illustration feel. Aspect ratio: 9:16. Additional requirements: The picture should be transparent, relaxed, and have a high-value cover feel, without a heavy ancient atmosphere.",
-    "title": "Eastern Zen Minimalist Wallpaper",
-    "description": "A detailed aesthetic prompt for creating minimalist Eastern-style posters featuring ancient architecture, soft natural lighting, and a peaceful spring mood.",
+    "id": 33837,
+    "content": "Goal: Create a dark futuristic Chinese workflow infographic slide showing how to turn written content plus images into an advanced editable PPT, with a premium tech presentation aesthetic.\n\nCanvas: Wide 16:9 horizontal slide, deep navy/black background with subtle circuit-line texture, thin glowing border, cyan and gold neon accents, soft bloom highlights, clean corporate SaaS style.\n\nMain headline: Centered at the top, use {argument name=\"headline text\" default=\"文稿 + 配图 → 高级可编辑PPT\"}. Highlight “文稿” in gold, “配图” in cyan, and the rest in white. Add a small cyan lens flare under the headline.\n\nTop workflow layout: Place exactly 3 large rounded rectangular cards across the upper half, connected by a glowing horizontal process line and arrows that run left to right.\n1. Card 1: Yellow numbered circle “1”, title “ChatGPT”, subtitle “理清文字结构”, large gold chat-bubble icon with three dots.\n2. Card 2: Cyan numbered circle “2”, title “Image2”, subtitle “生成整页视觉稿”, small mock visual preview containing exactly 3 inner panels: a landscape image, a mini bar-chart/text panel, and a second landscape image.\n3. Card 3: Yellow numbered circle “3”, title “GPT-6”, subtitle “拆层成可编辑PPT”, layered floating blue sheets over a gold base icon.\n\nCentral demonstration: In the lower middle-left, create one large tilted PPT slide mockup with rounded corners and glow. Slide title text: {argument name=\"demo slide title\" default=\"未来城市：智能与可持续的融合\"}. Slide subtitle: {argument name=\"demo slide subtitle\" default=\"技术创新 · 绿色发展 · 生态共生\"}. Inside the slide, show a cinematic mountain lake landscape at sunset, plus a small inset city skyline image on the right.\n\nMetric row inside the slide: Show exactly 3 metric items along the bottom of the slide: “35% 能源效率提升” with a clipboard icon in cyan, “60% 碳排放降低” with a shield/check icon in gold, and “2026 全面落地目标” with a globe icon in gold.\n\nLayer conversion effect: To the right of the central slide, show the slide splitting into multiple translucent editable layers, about 7 visible stacked panels, with flowing cyan and gold data particles moving from the slide into the layers.\n\nEditable output list: On the right side, create exactly 4 stacked rounded cards connected by thin lines to the separated layers:\n1. “标题文本” with smaller text “副标题文本”, icon: large letter T.\n2. “流程图节点” with smaller text “可编辑 · 可调整”, icon: flowchart nodes.\n3. “图片占位符” with smaller text “替换 · 缩放 · 裁剪”, icon: image placeholder.\n4. “布局与样式” with smaller text “母版 · 主题 · 动画”, icon: layout grid.\n\nBottom slogan: Centered near the bottom, in gold Chinese characters with dot separators, use {argument name=\"bottom slogan\" default=\"好看 · 能改 · 复用\"}.\n\nVisual style: High-resolution presentation infographic, crisp vector-like UI, luminous cyan and warm gold strokes, glassmorphism cards, subtle depth and perspective, modern Chinese typography, clean spacing, no people, no logos, no watermark. Keep all listed text legible and preserve the exact counts: 3 top workflow cards, 3 metric items, 4 editable-output cards, and 7 visible separated layer panels.",
+    "title": "Editable PPT Workflow Infographic",
+    "description": "A polished Chinese tech infographic visualizing a three-step Image2 and GPT-6 workflow for creating editable PowerPoint slides.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788769189623_onu6l0_HRgOK1Wa0AAE2DY.jpg"
+      "https://cms-assets.youmind.com/media/1788855329138_v8uy5d_HRmkD-MaUAA4VFB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33604,
+    "content": "Theme direction: Oriental Zen minimalist cover poster\nStyle branch: Feminine aesthetic clear type\nMain content: An ancient style woman walking slowly in front of a doorway, light posture\nEmotional motif: {argument name=\"atmosphere\" default=\"clear, light, spring breath\"}\nScene and imagery: White wall, clear sky blue doorway, cherry blossom pink flower shadow, a small amount of leaves, figures\nComposition and space: 9:16 vertical composition, the doorway is located in the upper middle to form a visual framing, the figure is located in the lower middle, large areas of clean blank space are reserved above and on both sides of the doorway\nColor control: {argument name=\"base color\" default=\"warm white\"} as the wall base, clear sky blue for the doorway and partial sky color blocks, cherry blossom pink for flower shadow highlights, bright and tender green for leaves; avoid the overall background turning pink or blue\nLight and texture: Clear natural light, low gray scale, sharp edges, modern oriental cover illustration feel\nAspect ratio: 9:16\nAdditional requirements: The picture should be transparent, relaxed, and have a high-value cover feel, not a heavy ancient atmosphere",
+    "title": "Oriental Zen Minimalist Wallpaper",
+    "description": "A sophisticated oriental zen-style wallpaper prompt focusing on a ethereal ancient Chinese aesthetic with a minimalist, clean layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788855324536_fyhmc4_HRgOK1Wa0AAE2DY.jpg"
     ],
     "needReferenceImages": false
   },
