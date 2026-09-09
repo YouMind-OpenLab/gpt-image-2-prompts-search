@@ -1,14 +1,213 @@
 [
   {
-    "id": 33822,
-    "content": "Turn photos into a {argument name=\"style\" default=\"colored pencil and watercolor hand-drawn\"} travel diary, preserving the original composition, architecture, people, trees, grass, roads, and perspectives. Use warm, yellowish vintage paper to create a hand-drawn feel where brushstrokes and watercolor bleeds are visible. Simplify buildings into expressive shapes with loose outlines, detailed cross-hatching, and slightly imperfect edges. Maintain a sunny summer atmosphere with soft blue skies, warm beige buildings, green grass, scattered leisure figures, and benches. Use faded vintage travel sketch tones. Place the illustration on the lower half of the page, leaving a large beige space above. Handwrite '{argument name=\"main title\" default=\"Sunny Days\"}' at the top and '{argument name=\"subtitle\" default=\"— Beautiful Times —\"}' below. Nostalgic art travel magazine style, similar to the memory of a personal sketchbook, with no photographic feel.",
-    "title": "Retro Travel Journal Illustration",
-    "description": "A transformation prompt that turns photos into nostalgic travel journal sketches using colored pencils and watercolors on textured paper.",
+    "id": 33971,
+    "content": "Subject: Looking back on a {argument name=\"court color\" default=\"orange\"} court.\n\nMain Subject: A vertical portrait of an adult woman standing in the center of a sunny outdoor tennis court, looking back over her shoulder with her back to the camera.\n\nPerson/Expression: Face turned toward the camera over her right shoulder, with a calm expression and closed lips. Slim oval face, small chin, wide brown eyes, natural thin eyebrows, small nose, and pale pink lips. Long wavy light brown hair flowing down her back.\n\nClothing/Pose: A {argument name=\"top color\" default=\"mustard-colored\"} sleeveless top with a deep open back, and a {argument name=\"clothing\" default=\"short white pleated tennis skirt\"}. Weight on one leg with a slight twist of the hips, right hand holding a white racket down to the right, and the left arm resting naturally at her side.\n\nBackground/Lighting: A black net crossing the foreground at waist height, orange court in the background, green fence, trees, and blue sky. Hard direct noon sunlight from the top left illuminating the hair and shoulders, casting short shadows on the court.\n\nComposition/Camera: 4:5 vertical composition, knee-up photo from a diagonal rear angle with the camera at waist height. The subject is large and centered, with the net as a horizontal line in the foreground and the racket in the bottom right. Focus on the face and back, background slightly blurred, with the top of the head and the hem of the skirt within the frame.\n\nTexture/Style: Photorealistic live-action photo. Clearly captures the fine sheen of the hair, the stretch fabric of the top, the pleats of the skirt, the mesh of the net, and the dry surface of the court.\n\nNegative: Do not face forward; do not omit the net crossing in front of the waist or the racket in the bottom right.",
+    "title": "Mustard Top Tennis Player Portrait",
+    "description": "A highly detailed photorealistic prompt for generating a female tennis player looking back over her shoulder on an orange court. It includes specific instructions for lighting, composition, and clothing details.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788855312529_0m1968_HRqpaBnaAAAkKVD.jpg",
-      "https://cms-assets.youmind.com/media/1788855312577_ng72mk_HRqpaNiaoAAb768.jpg"
+      "https://cms-assets.youmind.com/media/1788942306385_7njihm_HRir9ZmaoAA7rIz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33967,
+    "content": "In contrast to {argument name=\"contrast character\" default=\"Reina Shiratsuki\"}, let's make a {argument name=\"character trait\" default=\"dark fox girl. Dark skinned\"}",
+    "title": "Dark Fox Dark Skinned Girl Character",
+    "description": "A character generation prompt to design a dark-skinned, dark fox anime girl character contrasting a previously created character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942304946_ew8s5o_HRwVnjxaIAA7Xv3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34084,
+    "content": "Create a timeless traditional watercolor portrait on aged beige textured paper, showing {argument name=\"subject description\" default=\"a young woman with long dark wavy hair, round wire-frame glasses, soft natural makeup, and a calm slight smile\"} in a three-quarter bust pose, facing the viewer. Preserve realistic natural facial proportions and a recognizable human likeness: detailed eyes, nose, lips, jawline, skin tone, and gentle expression. She wears {argument name=\"clothing\" default=\"a loose dark charcoal shawl or coat\"}. Set her against {argument name=\"background scene\" default=\"a glowing orange sunset over the ocean with distant dark hills, shimmering water reflections, and the sun near the horizon\"}. Use a hybrid style of delicate watercolor washes, charcoal pencil sketch lines, dry-brush texture, and expressive unfinished edges, with visible graphite construction marks around the border. The palette should be warm amber, burnt orange, sepia, muted blue-gray, and deep charcoal, with golden rim light in the hair. Add a single handwritten Korean phrase at the top center reading {argument name=\"handwritten quote\" default=\"빛이 너를 기억할 거야.\"}. Vertical portrait composition, centered subject, nostalgic cinematic mood, soft paper grain, no modern UI elements, no watermark, no extra text.",
+    "title": "Watercolor Sunset Portrait",
+    "description": "Generates a nostalgic watercolor-and-charcoal portrait of a young woman against an ocean sunset with a handwritten Korean quote.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942385927_q05nec_HRv7Ua3bMAAWiWF.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 34056,
+    "content": "Create a dynamic cinematic anime illustration of {argument name=\"character name\" default=\"a young female kyudo archer\"} in a traditional Japanese archery dojo, shown in an intense close-up action pose as she draws a long yumi bow and aims an arrow directly toward the viewer. She has {argument name=\"hair color\" default=\"long flowing black hair\"}, pale skin, sharp focused blue-gray eyes, and a serious determined expression. Her right hand pulls the bowstring near her face while her left arm extends toward the camera, with the bow grip and foreground hand dramatically enlarged and slightly motion-blurred from shallow depth of field. Dress her in a crisp white kyudo gi with wide sleeves, a black hakama, dark chest guard, and tan leather archery glove. The setting is a warm wooden dojo interior with polished reflective floorboards, blurred target boards in the distance, Japanese calligraphy on the wall, sunlit windows, and a dark blue hanging curtain marked with a circular crest. Use strong diagonal composition, flowing hair strands, golden afternoon rim light, realistic fabric folds, glossy highlights, bokeh background, high-detail anime rendering, dramatic perspective, and a tense focused mood. Use {argument name=\"lighting style\" default=\"warm cinematic sunlight with bright rim highlights\"} and {argument name=\"aspect ratio\" default=\"3:2 landscape\"}.",
+    "title": "Cinematic Anime Kyudo Archer",
+    "description": "A detailed text prompt for generating a dramatic anime-style female kyudo archer aiming in a sunlit Japanese dojo.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942369170_7dj686_HRv6gIOaoAAGXWo.jpg",
+      "https://cms-assets.youmind.com/media/1788942369165_3cx4w1_HRv6jdVbsAA-_Ya.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34085,
+    "content": "Create a photorealistic cinematic split-screen interior still comparing two lighting moods, divided exactly down the vertical center by a thin straight seam. On the left half, show a cool monochrome minimalist studio corner with a smooth gray plaster wall and polished concrete floor; include exactly 2 geometric objects: a square concrete pedestal block near the lower left-center and a matte white sphere resting on top of it. Strong hard sunlight enters from an unseen window at the upper left, casting sharp diagonal window-frame shadows across the wall, the pedestal, and the floor, with a crisp oval shadow from the sphere. On the right half, show a warm amber-toned bohemian corner with a textured brown plaster wall and reflective concrete floor; include exactly 3 main objects: one small ceramic vase on the floor, one delicate bundle of dried branches inside the vase, and one sheer golden curtain hanging from the top right and pooling onto the floor. The right side lighting should be soft, diffused, glowing, and atmospheric, with mottled golden sunlight patterns on the wall and curtain. Use a wide 3:2 horizontal composition, symmetrical comparison layout, low camera height, realistic material textures, subtle floor reflections, no people, no text, no logos. The overall concept is {argument name=\"comparison theme\" default=\"hard light versus soft light\"}, with the left side in {argument name=\"left color mood\" default=\"cool grayscale minimalism\"} and the right side in {argument name=\"right color mood\" default=\"warm golden ambience\"}.",
+    "title": "Split-Screen Hard vs Soft Light Interior",
+    "description": "A photorealistic side-by-side studio scene comparing crisp cool hard sunlight with warm diffused atmospheric light for cinematic visual studies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942387105_91ur6z_HRvxhxdWMAE9fUP.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33977,
+    "content": "Ultra-realistic cinematic editorial photograph of a strikingly handsome {argument name=\"subject\" default=\"young man in his early 20s\"} walking through a {argument name=\"location\" default=\"historic Old Delhi street\"} as if he has traveled back in time. He has thick, naturally wavy jet-black hair, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated modern outfit—a {argument name=\"outfit\" default=\"perfectly tailored black long coat over a minimalist cream shirt\"}, fitted dark trousers, and polished leather boots—creating a striking contrast with the ancient surroundings. Around him are magnificent Mughal-era architecture, weathered red-brick buildings, ornate balconies, old wooden doors, narrow winding lanes, traditional street stalls, hanging lanterns, cycle rickshaws, and atmospheric Old Delhi details. Subtle visual hints of time travel, such as a faint futuristic glow around him and a shimmering distortion in the air behind him. Warm golden-hour sunlight streams between the buildings, creating dramatic shadows and volumetric light rays. Cinematic composition, eye-level perspective, shallow depth of field, realistic skin texture, highly detailed environment, natural colors, atmospheric haze, 35mm photography, HDR, dramatic yet elegant mood, photorealistic, 8K, masterpiece.",
+    "title": "Cinematic Time Traveler in Old Delhi",
+    "description": "A striking editorial photograph prompt depicting a modern young man in a black coat walking through historical Mughal-era streets with subtle time-travel effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942309769_h7kvf6_HRveHTIbgAAVnBU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34086,
+    "content": "Create a surreal cinematic aerial scene at golden hour: countless small birds form a gigantic vertical oval doorway or portal in the sky, with the flock densely packed around the rim and leaving a clear open center that reveals glowing clouds and distant landscape beyond. Use {argument name=\"bird species\" default=\"starlings and swallows\"} as the birds, with hundreds of tiny silhouettes plus about 25 larger, readable birds flying at different depths in the foreground and midground. Add several very large out-of-focus birds and blurred wings crossing the extreme edges of the frame to create depth and motion, especially along the left, right, and bottom borders. At the bottom inner edge of the bird-portal, place one tiny seated human figure in {argument name=\"figure clothing\" default=\"a simple white robe\"}, emphasizing scale and wonder. Below the portal, show a vast patchwork countryside of fields, tree lines, rivers, and small roads seen from high altitude. The sky is filled with warm peach clouds, blue openings, and low sun rays from the right, with realistic camera-like lighting, volumetric haze, rim light on wings, shallow depth of field, motion blur on nearby birds, and an epic dreamlike atmosphere. Use a square composition, ultra-detailed photorealistic fantasy, wide-angle lens perspective, high dynamic range, no text, no watermark.",
+    "title": "Giant Bird Portal in the Sky",
+    "description": "A photorealistic surreal fantasy scene of a massive bird-formed sky portal above countryside, ideal for cinematic concept art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942387101_sl7laz_HRvWt8WWsAAoJcL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33958,
+    "content": "Please upscale this low-resolution image to high resolution.\n\nNo generation of artifacts is allowed. Completely maintain the original image's style, color painting, and composition, while thoroughly crushing noise areas to create a clear image.",
+    "title": "High Resolution Image Restoration Instruction",
+    "description": "A high-fidelity image enhancement prompt aimed at cleaning artifacts and noise while completely preserving the style, colors, and layout of the original image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942294082_y8x2zz_HRvWtOca8AA3CNW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34081,
+    "content": "Create a cinematic 1990s anime-style illustration of an elegant adult woman seated on a black tufted piano bench beside a glossy black grand piano in a dim jazz bar at night. She has {argument name=\"hair color\" default=\"auburn brown\"} short wavy bob hair swept to one side, warm brown eyes, a small beauty mark near one eye, subtle earrings, deep red lipstick, and a calm alluring expression while gently touching her earring with both hands. She wears a dark navy velvet slip dress with thin straps, a low draped neckline, and soft shimmering folds, plus a small black wristwatch. Her legs are crossed, the composition is a vertical portrait with her body centered and the piano keys visible on the right. The background shows exactly five main environmental details: a rain-streaked window with blurred city lights, a warm fringed table lamp on the piano, a short glass of whiskey with ice, shadowy café tables and chairs, and a framed jazz musician poster on the wall. Use moody amber and blue lighting, reflective wet highlights, rich film-grain texture, detailed hand-drawn cel shading, romantic noir atmosphere, and clean polished line art with minimal noise. No text, no watermark, no extra characters.",
+    "title": "Rainy Jazz Bar Anime Portrait",
+    "description": "Generates a moody vintage anime portrait of an elegant woman in a velvet dress seated by a piano in a rainy jazz bar.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942384337_t8t8ds_HRvIYVVWIAA7jR0.jpg",
+      "https://cms-assets.youmind.com/media/1788942384367_v97p9x_HRvIYVUXoAAKYkc.jpg",
+      "https://cms-assets.youmind.com/media/1788942384421_5206n9_HRvIYVWWwAEjWGC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34076,
+    "content": "Create a vertical fantasy woodland scene at golden hour featuring exactly two small tree-sprite characters facing each other in a grassy meadow. Each sprite has a cute Groot-like body made of twisted bark and roots, a large rounded wooden head with carved bark grooves, twig arms extended forward, and one glowing yellow-green eye visible. Their heads and shoulders are covered with clusters of delicate pink cherry blossoms and unopened buds on thin branches. Between their hands floats exactly one faceted glowing crystal, {argument name=\"crystal color\" default=\"pink\"}, emitting soft magical light. The setting is an enchanted forest meadow filled with tall grass and scattered pink flowers, with warm sunbeams streaming down from the top center, soft haze, bokeh particles, and a dreamy cinematic depth of field. Use {argument name=\"lighting mood\" default=\"warm backlit sunset glow\"}, rich bark texture, luminous rim light, shallow focus, painterly-realistic fantasy detail, symmetrical composition, tender emotional atmosphere, no text, no watermark.",
+    "title": "Two Blossom Tree Sprites with Crystal",
+    "description": "A dreamy fantasy woodland scene of two flowering tree sprites sharing a glowing crystal, ideal for magical storybook or character art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942382367_asil6m_HRvIBC4aoAAkqII.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34073,
+    "content": "Create a cinematic dark-fantasy disaster scene in ultra-wide 16:9 format: a vast {argument name=\"building type\" default=\"Gothic cathedral-palace\"} is engulfed in an enormous inferno at night, its spires, arched windows, flying buttresses, and roof skeleton silhouetted against towering orange flames and black smoke. The lower half of the scene is flooded water reflecting the fire in rippling molten-gold highlights. In the foreground, show exactly 5 medieval refugees on wet stone steps and in waist-deep water: 1 hooded figure at far left carrying a patterned tapestry or banner, 1 crouched person beside crates, 1 central man reaching forward while throwing a round metal shield or platter into the water, 1 kneeling hooded person scooping or dropping a metal jug, and 1 small partial silhouette at the extreme left edge. Include exactly 3 prominent loose metal objects in the water near the foreground: a round bowl, a small cup, and a dropped pitcher. In the middle distance, add exactly 3 small boats carrying dark silhouettes, plus scattered tiny figures along the flooded quay, all dwarfed by the burning architecture. Use {argument name=\"era\" default=\"medieval\"} clothing, rough cloaks, leather belts, tunics, and wet fabric. Lighting should be dramatic and realistic, with intense backlight from the blaze, ember sparks in the air, smoke haze, high contrast chiaroscuro, wet stone texture, water splashes, and volumetric fire glow. Camera is low at water level, wide-angle, immersive, epic scale, photorealistic, highly detailed, no text, no modern objects, no watermark.",
+    "title": "Burning Gothic Flood Escape",
+    "description": "A cinematic medieval disaster scene showing refugees fleeing through floodwater as a vast Gothic structure burns behind them.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942379888_dtfmby_HRux2sxWwAAG6Q1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34065,
+    "content": "Create a cinematic ultra-wide nighttime exterior shot of an old Japanese public housing apartment block, labeled faintly with “3-2” on the upper right wall. The scene is dark, rainy, and atmospheric, with a wet asphalt courtyard in the foreground reflecting lights and puddles. The building is a long, weathered concrete structure with 5 visible residential floors, rows of small balconies, dark windows, stains, pipes, railings, and aged facade details. Only one apartment near the upper center is warmly lit with an orange glow; on that balcony stands a small solitary figure, {argument name=\"person action\" default=\"quietly waving one hand\"}, silhouetted against the light. In the foreground include exactly 4 main objects: one glowing streetlamp on the left casting greenish-white light through mist, one small child’s tricycle near the center of the empty courtyard, two parked kei vans on the right. Add dark trees on both sides, a bicycle shelter barely visible at far left, low metal railings, and a worn signboard on the far right with Japanese neighborhood notice text. Use a realistic film still style, moody horror-drama atmosphere, low-key lighting, damp haze, subtle fog, high detail, deep shadows, muted green-gray color grading, anamorphic widescreen composition, quiet unsettling emptiness. Customize the setting as {argument name=\"location\" default=\"a Japanese apartment complex courtyard\"}, time as {argument name=\"time of day\" default=\"late night after rain\"}, building mood as {argument name=\"building condition\" default=\"old, stained, and neglected\"}, and balcony light color as {argument name=\"balcony light color\" default=\"warm amber\"}. No people other than the single balcony figure, no text overlays, no watermark.",
+    "title": "Rainy Japanese Apartment at Night",
+    "description": "A cinematic night scene of an old Japanese apartment complex with one warmly lit balcony and a lonely figure, ideal for eerie film-still visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942375911_9qt273_HRuvRa-bkAA03oT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33979,
+    "content": "Desert Brutalism & Monolithic Earth Architecture, {argument name=\"architecture style\" default=\"Rick Owens Architectural\"} × {argument name=\"subject\" default=\"Pedro Pascal\"} \"{argument name=\"title\" default=\"MONOLITH OCHRE\"}\"",
+    "title": "Brutalist Monolithic Architecture Portraits",
+    "description": "A descriptive prompt for generating monolithic architecture integrated with fashion subjects, inspired by brutalist designs and specific architectural studios.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942310376_xt3r5h_HRukvgQaEAAO_G-.jpg",
+      "https://cms-assets.youmind.com/media/1788942310017_8lyw77_HRukwqCXgAA7Igv.jpg",
+      "https://cms-assets.youmind.com/media/1788942310113_6at172_HRukxwwWoAAwmjF.jpg",
+      "https://cms-assets.youmind.com/media/1788942311058_z6c5l8_HRuky6PWYAAoBTA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34059,
+    "content": "Create a hyper-realistic square cinematic selfie portrait of {argument name=\"subject\" default=\"a young adult man with olive skin, dark wavy messy hair, a full trimmed black beard and mustache\"} shot from a low upward angle, filling most of the frame from chest to forehead, with a serious neutral expression and lips closed. He wears oversized transparent rectangular acetate sunglasses with green mirrored lenses, a white crew-neck T-shirt, and a black tactical-style vest or backpack harness with visible straps and buckles. The mirrored lenses reflect a vivid surreal landscape with green terrain and bright light, like a tiny sci-fi world inside the glasses. Place him in outer space against a dramatic deep-blue star field with glowing nebula clouds, countless small stars, one large blue planet or Earth-like horizon curving up from the lower left, one dark moon near the upper left, and one smaller moon on the right. Use crisp photoreal skin texture, detailed beard hairs, glossy reflections on the sunglasses, strong cinematic contrast, cool blue rim lighting from the planets, subtle warm highlights on the face, ultra-detailed 8k look, no text, no watermark, no helmet, no extra people.",
+    "title": "Cinematic Space Selfie Portrait",
+    "description": "A photorealistic low-angle selfie portrait of a bearded man in mirrored sunglasses set against planets, moons, stars, and blue nebulae.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942371017_ft3wyr_HRuIP9vW0AAOdZZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33975,
+    "content": "Let's draw as many {argument name=\"subject\" default=\"Zeon Mobile Suits\"} as you can think of!",
+    "title": "Zeon Mobile Suit Illustrations",
+    "description": "A simple prompt to generate a variety of Mobile Suit designs from the Zeon faction in Gundam.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942308517_28zhw9_HRuAhzVaQAATqBF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34055,
+    "content": "Using the provided reference image as the base, regenerate the same survival-thriller beach scene in a more ultra-realistic Hollywood cinematic style. Keep the core subjects and story intact: the soaked woman, the black dog, the wrecked small plane in the surf, the orange emergency flotation gear, stormy Atlantic beach, and golden sunset atmosphere. Increase the drama and immediacy: place the camera very low at water level with shallow depth of field, make the woman wade forward through foamy surf instead of walking on dry sand, and make the dog run through splashing water on the right. Intensify the ocean with rougher waves, more foam, wet reflective sand, scattered seaweed and debris, and stronger foreground blur. Move the plane wreck farther into the center background, partially submerged, smoking, with one survivor visible near it. Make the sky darker and more threatening on the left, with a brilliant low sun breaking through clouds on the right, strong lens flare, warm reflections on the wet beach, and a distant rocky headland at the far right. Preserve the woman’s distressed expression, wet clothing, and exhausted body language, but make the composition feel larger, more dynamic, and more cinematic, like a high-budget contemporary adventure thriller frame. No text, no watermark.",
+    "title": "Cinematic Plane Crash Beach Survival",
+    "description": "Transforms a reference survival scene into a more dramatic ultra-realistic cinematic beach thriller frame with intensified waves, sunset, wreckage, and action.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942368099_i98zj7_HRuAWxMWMAArXWB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33966,
+    "content": "Create a character sheet of a girl inspired by a {argument name=\"food theme\" default=\"double cheeseburger\"}",
+    "title": "Double Cheeseburger Character Sheet",
+    "description": "Creates an anime character concept sheet featuring a girl anthropomorphized from a double cheeseburger concept.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942304018_8u2c44_HRt-kKJaoAEjkby.jpg",
+      "https://cms-assets.youmind.com/media/1788942303858_ybysp5_HRt-lcObwAAvleU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33980,
+    "content": "{argument name=\"unit name\" default=\"Metropolitan Police Heavy Equipment Robot Unit\"}. Rescuing evacuees by towing a lifeboat.",
+    "title": "Police Robot Rescue Scene",
+    "description": "A prompt depicting a futuristic police robot unit involved in water rescue operations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942311552_dki5d9_HRspjqIagAAykoL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33972,
+    "content": "Theme:\n{argument name=\"theme\" default=\"Translucent white under the evening moon\"}\n\nSubject:\n{argument name=\"subject\" default=\"Full-length vertical photograph of an adult woman standing in the center of a shallow rocky reef at dusk, wrapped from chest to feet in wet, translucent white fabric.\"}\n\nPerson/Expression:\nQuiet profile-leaning expression with the face tilted toward the bottom right of the screen and eyes cast down toward the hand holding the cloth. Slender oval contour, lowered elongated eyes, thin bridge of the nose, slightly parted pale lips. Wet dark brown shoulder-length hair is parted on the side, with thin strands clinging to cheeks and neck.\n\nClothing/Pose:\nThin white strapless long dress-like fabric wrapped from the chest, with diagonal drapes overlapping the torso and legs. Standing barefoot in the shallows, the person's own right hand lowered to the side, left hand pinching the fabric in front of the waist, and one leg stepped slightly forward.\n\nBackground/Light:\n{argument name=\"background and light\" default=\"Thin crescent moon in the blue-purple sky in the upper left, orange sunset on the horizon to the right, sea surface and black rocks in the lower half. The low setting sun at the back right edges the wet cloth and body in gold, with soft blue twilight light from the front.\"}\n\nComposition/Camera:\n3:4 vertical composition, front-diagonal full-body photo with the camera placed slightly lower than the waist. The person is placed large in the center, the upper half contains the evening sky and crescent moon, and the bottom edge captures the wet hem and feet. Focus on the person and the translucent cloth, with the background slightly blurred.\n\nTexture/Style:\nPhotorealistic live-action photograph. Precisely captures the thin cloth clinging to the skin when wet, fine water droplets, reflections on rocks and water surface, and the orange and blue-purple sunset gradations.\n\nNegative:\nDo not make the white cloth opaque; do not omit the crescent moon and sunset\",",
+    "title": "Ethereal Evening Moon Beach Portrait",
+    "description": "A complex, highly detailed prompt for a photorealistic portrait of a woman wrapped in translucent fabric on a moonlit rocky shore.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942306777_vqi9qq_HRiiSbjbwAAOW8g.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33969,
+    "content": "The moment the helm closed, he was no longer just a man. The civilization recognized its regent. HELMED REGENT",
+    "title": "Helmed Regent Cinematic Scene",
+    "description": "A cinematic dramatic prompt about a powerful regent putting on his helmet, capturing the weight of authority and civilization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942303493_i231x0_HRrqYLobMAAmk_-.png",
+      "https://cms-assets.youmind.com/media/1788942303741_zvn22p_HRrqY7dakAA3c6W.png",
+      "https://cms-assets.youmind.com/media/1788942303579_rmevvq_HRrqaAEakAAWZPD.png",
+      "https://cms-assets.youmind.com/media/1788942305045_w3on1b_HRrqa1ZawAAIB4n.png"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 33867,

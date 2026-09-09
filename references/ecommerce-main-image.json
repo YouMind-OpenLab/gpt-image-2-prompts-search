@@ -1,21 +1,76 @@
 [
   {
+    "id": 33995,
+    "content": "Goal: Create a wide comparison graphic showing two generated versions of a rhode beauty static ad for Peptide Lip Treatment in Watermelon Slice, with a black presentation background and two square ad mockups side by side.\n\nCanvas: 16:9 horizontal frame, black background, high contrast, clean social-media comparison layout.\n\nLayout: Place two rounded-corner square ad images centered horizontally with generous spacing. The left panel is labeled above in bright orange text: “GPT-Image-2”. The right panel is labeled above in the same bright orange text: “GPT-Image-2.5”. Add one small italic orange caption centered near the bottom reading “prompt in comments”.\n\nAd panels: Use exactly 2 square beauty advertisement panels.\n1. Left panel: soft pink background, rounded corners, elegant editorial beauty-ad composition. At the upper left, large serif headline text reads “A SLICE OF GLOSS.” with smaller text below reading “Peptide Lip Treatment”. A pink rhode Peptide Lip Treatment tube floats diagonally from upper right toward lower center, with vertical white “rhode” branding. Surround it with a glossy pink gel swirl, transparent splash droplets, and watermelon slices. Include a large circular pink sunburst shape behind the product. Watermelon elements count: 3 visible slices or wedges — one large lower watermelon slice, one right-middle slice behind the tube, and one small upper-right wedge. Keep the product large and central.\n2. Right panel: more dynamic, brighter, more detailed version of the same rhode ad. Pink background, rounded corners, upper-left serif headline “A SLICE OF GLOSS.” and smaller “Peptide Lip Treatment”. A larger pink rhode tube floats diagonally near the center, surrounded by a dramatic translucent glossy pink splash ribbon, many bubbles and droplets, and watermelon slices. Watermelon elements count: 5 visible pieces — one large foreground watermelon strip at the bottom, one left-middle wedge, one right-middle wedge, one small upper-right wedge, and one partial slice behind the splash near the center. The product should appear sharper, glossier, and more premium than the left panel.\n\nVisual style: polished product advertising, vivid watermelon pinks and reds, glossy liquid textures, studio lighting, high-end cosmetics campaign, crisp typography, saturated color, realistic 3D product rendering mixed with surreal splash photography.\n\nText and customization: Use the top labels {argument name=\"left model label\" default=\"GPT-Image-2\"} and {argument name=\"right model label\" default=\"GPT-Image-2.5\"}. Use the ad headline {argument name=\"headline text\" default=\"A SLICE OF GLOSS.\"}. Use the brand on the tube {argument name=\"brand name\" default=\"rhode\"}. Use the bottom caption {argument name=\"bottom caption\" default=\"prompt in comments\"}.\n\nConstraints: Keep exactly 2 comparison panels, exactly 2 orange model labels, and exactly 1 bottom caption. Do not add extra logos, watermarks, UI chrome, or additional text outside the specified labels and ad copy.",
+    "title": "Rhode Lip Treatment Comparison Ad",
+    "description": "Creates a side-by-side black-background comparison graphic of two glossy watermelon-themed rhode beauty ad generations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942321734_9pzxvn_HRwjsc8bkAAKTG6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33954,
+    "content": "Create a real-life room promotional image to market my room to potential tenants. The theme is room layout: a large floor-to-ceiling window on the left with excellent sunlight and lighting. Beside the window is a cat bed with a {argument name=\"pet\" default=\"orange cat\"} lying on it. Inside the bedroom is a large desk with daily items like a computer, keyboard, mouse, and phone. A young Chinese male is sitting on an ergonomic chair operating the computer. To the right of the desk is a single bed. The overall spatial relationship follows the sketch. Lighting and textures should look like a bedroom photo taken with a phone. Hard requirements: all items drawn in the sketch must appear, including the sun outside the window. Problems to avoid: do not include any elements or phenomena that contradict real daily life. Other proportions and room details are up to you to ensure a natural, realistic, and unforced effect.",
+    "title": "Realistic Room Promotion Render from Sketch",
+    "description": "A comprehensive prompt that uses a hand-drawn room layout as a structural guide to generate a realistic real estate promotional photo with natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942292901_ftm719_HRwCeKraoAA-G5L.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34041,
+    "content": "Using REFERENCE_0 as the base image, perform an extremely subtle product-style edit: change only the visible fingernails on the hand holding the strawberries into a delicate {argument name=\"nail design\" default=\"pale pink rose-themed manicure with tiny floral nail art and a glossy finish\"}. Keep the entire composition, face, pose, dress, bonnet, bouquet, strawberries, roses, wallpaper, lighting, color palette, and the headline text {argument name=\"headline text\" default=\"PINK EDEN\"} as close to the reference as possible. Do not alter the character, background, typography, cropping, or overall mood. The edit should affect exactly 2 visible nail areas: the main thumb nail and the small partially visible fingernail beside it; all other details should remain unchanged.",
+    "title": "Subtle Rose Nail Edit",
+    "description": "Creates a near-identical edit of the reference portrait while changing only the visible fingernails to a delicate rose-themed manicure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942358271_0ynebz_HRvk4F8bYAAUW5q.jpg",
+      "https://cms-assets.youmind.com/media/1788942358277_clgsrw_HRvk4F2bcAADmc3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33936,
+    "content": "analyze this photo and give me a very detailed json prompt describing its visual style. really make sure to break down the color grading, lighting and all the exact colors in the photo so i can apply that look to my own images. using this json as reference, generate a person holding my product. preserve the same facial features.",
+    "title": "Product Placement Lifestyle Generation",
+    "description": "A workflow for creating consistent lifestyle images of characters holding a specific product by referencing a detailed visual style JSON.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942277570_gvj3fo_HRvBtnraAAAChs3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34017,
+    "content": "Create a realistic vertical smartphone photo of a candid grocery-store shopping moment in a Korean supermarket. A young woman with {argument name=\"hair color\" default=\"dark brown shoulder-length hair\"} is crouching low beside the cereal and granola aisle, wearing a {argument name=\"hat color\" default=\"red\"} baseball cap pulled low over her face, a slightly loose white ribbed long-sleeve henley top, light blue wide-leg jeans, white sneakers with beige soles, and a slim black shoulder bag. She is turned in side profile looking to the right, with her left arm extended toward a black plastic shopping basket on the floor; the basket contains visible groceries and has the white “emart” logo on the side. The scene contains exactly one main shopper, one black basket, two background shoppers, one shopping cart in the background, one prominent overhead aisle sign with the number 6 and Korean category text, one visible price sign reading “2,980,” and long shelves packed with cereal, granola, snack, and packaged food bags with Korean labels. Use a natural consumer-phone snapshot style, slightly imperfect framing, realistic indoor fluorescent lighting, mild motion softness, neutral colors, glossy gray supermarket floor reflections, deep aisle perspective, and authentic everyday details. Make it look like a casual buyer-show or store social media photo rather than a studio fashion shoot. No glamour lighting, no exaggerated posing, no artificial-looking skin, no extra people, no watermark.",
+    "title": "Candid Korean Supermarket Shopper",
+    "description": "A realistic smartphone-style lifestyle fashion photo of a woman crouching in a supermarket aisle, useful for authentic retail or social media product imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942336338_pno2c0_HRunAK4a8AAgaeo.jpg",
+      "https://cms-assets.youmind.com/media/1788942336335_c9iow2_HRunAK4bEAAuUrl.jpg",
+      "https://cms-assets.youmind.com/media/1788942336347_njta2l_HRunAK7boAAhW8b.jpg",
+      "https://cms-assets.youmind.com/media/1788942337698_21gvm6_HRunAK5bgAAlJqH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33986,
+    "content": "Create a hyper-realistic museum-style product photograph of a single ancient {argument name=\"artifact type\" default=\"terracotta ceramic vase\"} centered on a pure black background. The vessel is tall and ovoid with a narrow foot, rounded shoulders, and a wide flared rim, made of reddish-brown weathered clay with heavy age patina, mineral deposits, chips, scratches, white abrasions, and fine cracks. Add carved ornamental decoration: one continuous geometric band around the neck just below the rim and raised swirling vine-like relief patterns on the body. The front right side has one large jagged vertical rupture exposing the hollow interior, with multiple broken clay shards still attached around the opening; the opening runs from the upper shoulder down toward the lower body and shows a warm copper-orange hammered, dimpled inner surface catching light. Use dramatic studio lighting from the upper left and subtle warm internal/reflected glow inside the broken cavity, emphasizing rough ceramic texture, fractured edges, depth, and archaeological realism. Composition is a straight-on three-quarter product view, full vase visible with slight shadow at the base, high contrast, sharp focus, ultra-detailed, no labels, no people, no extra objects, no watermark.",
+    "title": "Broken Ancient Terracotta Vase",
+    "description": "A realistic studio product shot prompt for generating an aged cracked terracotta artifact with a glowing exposed interior on a black background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942315707_4sytlg_HRuXCqdagAAoIpC.jpg",
+      "https://cms-assets.youmind.com/media/1788942315769_dm2egp_HRuXCqiaQAADMwJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33800,
     "content": "Create an ultra-realistic full-body studio fashion portrait of an adult man standing confidently against a seamless warm light-beige studio background.\n\nPosition the man in the center of the frame, facing directly toward the camera with a calm, composed expression and relaxed posture. Give him a neat short natural haircut with a clean hairline and well-groomed appearance.\n\nDress him in a clean white short-sleeve polo shirt with a small black Nike swoosh on the chest, paired with fitted warm caramel-brown jogger trousers. Add stylish white-and-brown low-top Nike sneakers that coordinate perfectly with the trousers and accessories.\n\nPlace a premium caramel-brown crossbody sling bag diagonally across his torso, with the strap running over one shoulder. The bag should rest naturally around his lower abdomen/hip area and feature subtle black sports branding and tasteful colorful graphic embroidery on the front.\n\nPose one hand lightly holding the lower part of the crossbody bag while the other hand rests naturally near the strap across his chest, creating a relaxed streetwear-fashion pose.\n\nUse soft professional studio lighting with gentle frontal illumination, subtle shadows beneath the subject, natural skin texture, realistic fabric folds, highly detailed leather/suede textures, and clean footwear details.\n\nKeep the background minimal and distraction-free with a soft warm neutral gradient. Style the image as a premium adult streetwear campaign portrait, modern, clean, fashionable, photorealistic, balanced composition, sharp facial detail, realistic proportions, full-body framing, high-end commercial photography, 85mm lens look, soft depth of field, ultra-high resolution.\n\nAspect ratio: 4:5 vertical portrait.",
     "title": "Streetwear Full Body Fashion Portrait",
     "description": "Full-body commercial studio portrait prompt featuring an adult man wearing a casual white polo shirt, caramel-brown joggers, and a matching crossbody bag.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1788855295885_pvw99a_HRpj3B8aoAAScPU.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 33814,
-    "content": "Create an ultra-realistic food photography collage in a {argument name=\"grid style\" default=\"2×2 grid\"}, showing the complete process of making fluffy {argument name=\"food item\" default=\"American pancakes\"}, matching the reference composition.\n\nTop-left: A wooden kitchen table with a large white ceramic bowl filled with smooth pancake batter, surrounded by neatly arranged ingredients: a small bowl containing one raw egg, a cup of white flour, a small dish with butter, a glass jar of milk, a small bowl of baking powder, a cracked eggshell, and a metal whisk. Warm natural kitchen lighting, realistic textures, clean overhead composition.\n\nTop-right: Close-up of a black non-stick frying pan on a stovetop. A hand wearing a beige oven glove holds a ladle and pours thick pale pancake batter into the center of the hot pan. Visible steam and tiny butter droplets around the pan. Warm wooden kitchen background, realistic cooking action.\n\nBottom-left: Two thick fluffy pancakes cooking in the same black skillet. One pancake is golden brown and partially cooked, while the other is being flipped with a spatula. Subtle steam rising from the pan, realistic bubbles and crispy edges, warm natural lighting.\n\nBottom-right: Final serving of several thick, fluffy, golden-brown American pancakes stacked beautifully on a plate, showing soft airy layers and perfectly browned surfaces. Appetizing close-up food photography, warm tones, realistic texture and subtle highlights.\n\nStyle: photorealistic, premium food photography, natural warm kitchen lighting, realistic ingredients, shallow depth of field where appropriate, detailed textures, authentic cooking atmosphere, clean 2×2 split composition, consistent cookware and ingredients across all panels, high detail, 8K, no text, no labels, no watermark.",
-    "title": "American Pancakes Cooking Process Grid",
-    "description": "A food photography instruction that designs a 2x2 grid tracking the entire process of making fluffy pancakes from batter prep to final serving.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788855307104_02g12k_HRp3yLoaYAAU3uu.jpg"
     ],
     "needReferenceImages": false
   },
@@ -67,6 +122,16 @@
     "description": "A photorealistic macro food shot of a hand stirring a creamy iced honey latte in a textured glass for beverage advertising or social content.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1788682097464_o55w3c_HRdKDJIagAASU3k.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34035,
+    "content": "Using the provided reference image as the base, expand it into a wider vertical lifestyle product photo. Keep the golden retriever being sprayed and the hand steadying its body, but zoom out to show the dog sitting happily in profile with its face visible. Add a second human hand holding a blue-and-white trigger spray bottle aimed at the dog, with a fine mist visibly spraying onto the fur. Set the scene in a warm sunlit forest campsite during golden hour, adding exactly 3 major new background elements: 1 olive-green canvas tent on the right, 1 small camping table behind the dog, and 1 softly blurred forest of tall trees. Make the product feel like an outdoor pet repellent spray advertisement; put small readable label text on the bottle: {argument name=\"product label\" default=\"Outdoor Repellent Spray\"} and a simple brand mark: {argument name=\"brand name\" default=\"NIPIP\"}. Use photorealistic shallow depth of field, warm backlighting, natural colors, crisp fur detail, and realistic water droplets/mist. Do not crop tightly like the reference; show the dog, both human hands, the spray bottle, and the campsite context clearly.",
+    "title": "Golden Retriever Spray Ad",
+    "description": "Creates a photorealistic outdoor camping product shot by expanding a close-up dog-spraying reference into a wider pet repellent spray advertisement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1788942352509_kpd10v_HRbHd-Ka4AA6isc.jpg"
     ],
     "needReferenceImages": true
   },
