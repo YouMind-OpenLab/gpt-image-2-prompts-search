@@ -1,5 +1,712 @@
 [
   {
+    "id": 34244,
+    "content": "Change to a {argument name=\"season\" default=\"autumn\"} {argument name=\"location\" default=\"European street\"} scene",
+    "title": "Seasonal Street Scene Style Switcher",
+    "description": "A simple instruction-based prompt to transform the environment of a scene into a specific location and season while maintaining context.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029048763_i9zroh_HR1YFr1bgAAeWll.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34210,
+    "content": "Premium technical infographic of {argument name=\"subject\" default=\"Apple 18 pro\"}.\\nUse the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an\\nillustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality.\\nClear, elegant, and informative composition.\\nInclude a sketch box in the upper left corner with the title \"[{argument name=\"subject\" default=\"Apple 18 pro\"}]",
+    "title": "Technical Product Infographic",
+    "description": "A structured prompt for creating professional technical infographics with blueprint overlays and architectural details based on a reference object.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029011753_cnfsjq_HR1UG5dboAEUYF1.jpg",
+      "https://cms-assets.youmind.com/media/1789029012007_gpzxxz_HR1UG5UbEAAD7eg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34219,
+    "content": "Transform the reference photograph into a {argument name=\"art style\" default=\"delicate hand-drawn travel journal illustration\"} while preserving the original composition, architecture, people, trees, grass, road, and overall perspective. Use a traditional {argument name=\"medium\" default=\"colored-pencil and watercolor sketch\"} aesthetic on warm, slightly aged cream paper. Keep the buildings recognizable but simplify them into expressive hand-drawn shapes, with visible pencil strokes, loose watercolor washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Preserve the peaceful rainy-day atmosphere, soft overcast sky, warm beige and muted buildings, fresh green lawn, scattered people walking with umbrellas, wet pavement, trees, benches, puddles, and distant cars. Use a muted vintage travel-sketch palette with natural imperfections and understated colors. Place the illustration in the lower portion of the page with generous cream-colored negative space around it. Add elegant {argument name=\"typography\" default=\"handwritten typography\"} above: “Rainy Days”, and below: “— Quiet moments —”. Minimal, nostalgic, artistic travel magazine aesthetic, analog photography transformed into a personal sketchbook memory, sophisticated and authentic, no photorealism.",
+    "title": "Travel Journal Watercolor Illustration",
+    "description": "Transforms a photograph into a nostalgic, hand-drawn travel journal entry using watercolor and colored-pencil textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029021025_xw54vz_HR1SmTGakAAv97s.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34212,
+    "content": "This image presents a serene four-panel photo collage featuring a {argument name=\"subject description\" default=\"young woman with long, dark wavy hair and soft bangs\"}, dressed in a {argument name=\"clothing\" default=\"light, sheer garment\"}. In the top-left panel, she faces forward with a gentle, warm smile, her eyes engaging the camera directly. The top-right panel captures her glancing back over her shoulder against a background dappled with soft, abstract light patterns. In the bottom-left panel, she is depicted in a peaceful moment with her eyes gently closed, highlighting a calm and contemplative mood. Finally, the bottom-right panel shows her looking thoughtfully toward the side with a soft expression, completing a cohesive visual narrative centered on grace, natural beauty, and tranquility.",
+    "title": "Serene Wavy Hair Photo Collage",
+    "description": "Generates a cohesive four-panel photo collage capturing different tranquil expressions and moods of a woman with long wavy hair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029013637_e4fij3_HR1R5OWaEAA-Bmy.jpg",
+      "https://cms-assets.youmind.com/media/1789029013639_hpifo8_HR1R5O8a0AAFhrr.jpg",
+      "https://cms-assets.youmind.com/media/1789029013643_leaqhe_HR1R5OubcAA7VLY.jpg",
+      "https://cms-assets.youmind.com/media/1789029014609_olgike_HR1R5Oib0AAtiEL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34225,
+    "content": "High-fashion studio portrait of an elegant {argument name=\"ethnicity\" default=\"East Asian\"} woman with wavy short dark hair wearing a {argument name=\"hat description\" default=\"wide brimmed black velvet top hat decorated with intricate silver embroidery along the brim and a metallic vintage buckle on the band\"} She is dressed in a sleeveless tailored dark vest with silver swirl patterns, paired with long dark navy velvet opera gloves Wearing {argument name=\"jewelry\" default=\"luxurious jewelry sapphire teardrop earrings and a multi-strand pearl and sapphire necklace with an ornate iris pendant\"} Dark grey textured backdrop, dramatic studio lighting cinematic, highly detailed, 8k resolution.",
+    "title": "High Fashion Elegant Portrait",
+    "description": "A cinematic studio portrait prompt for generating high-fashion imagery of an elegant woman featuring intricate accessories and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029028074_mgs1a8_HR1LWR5a4AAGLYh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34239,
+    "content": "Generate a vertical city promotional poster for {argument name=\"city name\" default=\"city name\"}. Do not use fixed templates; first extract the city's unique cultural background, geographical environment, industrial development, and urban philosophy, then design the composition. The image must be instantly recognizable as {argument name=\"city name\" default=\"city name\"}: select the most identifiable historical symbols, natural landmarks, modern features, and future visions. Composition is flexible. Requirements: Historical culture (traditional architecture, folklore), modern development (skyline, technology, ecology), and urban spirit (innovation, internationalization). Poster quality: 9:16 vertical, high-end 'Guochao' style, realistic digital painting blended with ink/light effects, cinematic lighting, high detail, commercial layout. Text: The city name \"{argument name=\"city name\" default=\"city name\"}\" as a calligraphic title, plus a slogan; avoid messy small text. No generic collages, incorrect landmarks, or cheap advertising feel.",
+    "title": "National Style City Promotion Poster",
+    "description": "A prompt designed to create high-end vertical city posters that blend realistic digital painting with traditional ink styles and modern landmarks.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029041543_pwkidi_HR026QCbAAAUpjE.jpg",
+      "https://cms-assets.youmind.com/media/1789029041458_r9h6ao_HR0_59ZbcAArBtZ.jpg",
+      "https://cms-assets.youmind.com/media/1789029041441_9whm4a_HR1ASfxacAA5-U4.jpg",
+      "https://cms-assets.youmind.com/media/1789029042447_5egse8_HR1AWvcaYAASG_z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34269,
+    "content": "You are an interactive ancient beauty character creation game. Determine core character features through 8 steps, with other details completed by AI. Explain less, interact more, and always save the current character state. [Process] ① Dynasty → ② Body Type → ③ Temperament → ④ Hairstyle → ⑤ Clothing → ⑥ Makeup → ⑦ Scene → ⑧ Expression → Finish. Strictly follow the order, showing only one item at a time. Save immediately after the user selects and proceed to the next, without asking 'next step' or repeated confirmations. At the start, only show ①. [Selection Interface] 6-10 options for each item. Use compact visual cards: Visual Example + Number + Name + One-sentence short analysis. The analysis highlights option features or visual effects, kept under 10 words. 2-3 columns, displayed on one screen. Prioritize clicking when supported; use numbers or names when clicking is unavailable. [Creation Items] ① Dynasty: Pre-Qin | Qin and Han | Wei, Jin, Southern and Northern Dynasties | Sui and Tang | Five Dynasties and Ten Kingdoms | Song | Liao, Jin, Yuan | Ming | Qing. ② Body Type: Petite and Delicate | Slender and Graceful | Natural and Proportional | Tall and Slender | Graceful and Plump | Lithe and Elegant. ③ Temperament: Elegant | Gentle | Bright and Beautiful | Ethereal | Dignified | Charming | Cold | Naive. ④ Hairstyle: Provide 6-8 historically based traditional female hairstyles according to the dynasty. ⑤ Clothing: Provide 6-8 traditional female clothing styles based on artifacts, paintings, archaeology, or literature according to the dynasty. Prohibit modern Neo-Chinese, generic Chinese style, or fictional/historical-fantasy costumes. ⑥ Makeup: Provide 6-8 historically based female makeup styles according to the dynasty. ⑦ Scene: Provide 6-8 female life scenes consistent with the era's architecture, lifestyle, and social environment according to the dynasty. ⑧ Expression: Dynamically generate 8 expressions that best fit the current character, scene, and situation based on all settings determined in ①-⑦. The 8 expressions must be distinctly different, avoiding repetition, conflict, and generalization. ⑧ does not use a fixed option pool. [Dynasty Linkage] ④ Hairstyle, ⑤ Clothing, ⑥ Makeup, ⑦ Scene must be consistent with ① Dynasty. Liao, Jin, and Yuan must be handled separately and not mixed. If ① Dynasty is modified, only re-process ④⑤⑥⑦; ②③ remain unchanged. After modifying any item from ④ to ⑦, check if subsequent items conflict with the latest settings; re-process if there is a conflict. ⑧ is always re-generated based on the latest ①-⑦. [Status and Operations] Always save selected items. 'Random': Randomize current item; invalid if locked. 'Change one': Re-provide options for current item; invalid if locked. 'Lock': Lock the current item, restricting Random, Change one, and Random All from changing it. 'Modify Settings': Allow modification of locked items when explicitly specified. 'Back': Return to the previous item and display it immediately. Continue advancing after re-selection while retaining other states. If subsequent items conflict, re-process affected items and re-generate ⑧. 'Random All': Randomize all unlocked items, starting from ①. Finish ①-⑦ and re-generate ⑧. 'Restart': Clear all settings and start from ①. Supports direct commands like 'Change to Ming Dynasty,' 'Change hairstyle,' etc. [AI Auto-completion] Everything else is auto-completed by AI, including actions, gestures, specific hair accessories, jewelry, colors, patterns, materials, footwear, props, environment, relationships, composition, lens, lighting, season, and weather. Season: Spring | Summer | Autumn | Winter. Weather: Clear | Overcast | Mist | Drizzle | Snow. All auto-completions must align with the dynasty and settings. [Fixed Character] Adult female; natural body; coordinated proportions; realistic skin texture. [Fixed Photography] Mobile life snapshot × CCD direct flash; 9:16 vertical; native digital photo. Fixed style, not an optional item. [Finish] After ⑧, output: [Complete Character Settings] ①-⑧ choices. [Final Image Prompt] Integrate the 8 settings and auto-complete details. Maintain historical consistency and add: Mobile life snapshot × CCD direct flash; 9:16 vertical; native digital photo. Final prompt must be complete and direct for generation. Add at the end: Bottom left signature '● DeepBlue'; '●' is a #0B3D91 dark blue solid dot, 'DeepBlue' is white natural handwritten font. Then display: ① Generate Image ② Modify Settings ③ Restart. [Generate] Input '1' or 'Generate' to create image. [Modify] Input '2' to re-select items. [Restart] Input '3' to clear and start from ①. [Another One] Retain 8 core settings and photography, re-interpret actions/environment/lighting, and generate immediately. [Final Rules] This is a continuous game. One item at a time; advance immediately; save state; dynasty linkage; consistency checks; fixed photography; no repeated confirmations. After ⑧, you must output Complete Character Settings → Complete Image Prompt → Display ①②③. Start now, only show ① Dynasty.",
+    "title": "Ancient Beauty Character Creator Game",
+    "description": "An elaborate LLM system prompt that turns the AI into an interactive game for designing historical Chinese female characters, ultimately outputting image generation prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029075321_1i1qiy_HR06vr9aoAAgrFQ.jpg",
+      "https://cms-assets.youmind.com/media/1789029075268_9ey57g_HR06vpeaQAAtBw6.jpg",
+      "https://cms-assets.youmind.com/media/1789029075264_3713qb_HR06vpfbMAAq-da.jpg",
+      "https://cms-assets.youmind.com/media/1789029078654_7tgchl_HR06vpgbUAA-msH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34228,
+    "content": "Create a refined editorial {argument name=\"location atmosphere\" default=\"European\"} travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate {argument name=\"watercolor style\" default=\"hand-painted watercolor illustration\"}. Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography. Lower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic. Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant {argument name=\"caption\" default=\"handwritten caption\"} near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath. Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene. Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.",
+    "title": "Photo to Watercolor Travel Illustration",
+    "description": "A split-composition prompt that transforms a travel photograph into a delicate watercolor painting on the bottom half.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029029708_n0isbx_HR06QUwasAAt_9w.jpg",
+      "https://cms-assets.youmind.com/media/1789029029665_tmsp25_HR06Q0qaAAA8MVV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34241,
+    "content": "Create a 9:16 photorealistic vintage baker portrait series with a soft, intimate POV feeling. Use the same beautiful adult East Asian woman across the set, with direct eye contact, realistic skin texture, soft natural hair, and a sensual but natural presence. She wears a simple backless summer kitchen dress in ivory or soft cream, with a light apron and a delicate headscarf. The setting is a refined retro Shaker-style kitchen with mushroom-gray cabinets, dark walnut counters, warm gray stone surfaces, subtle brass hardware, and clean summer daylight. This batch should focus more on body language, eye contact, and pose geometry than on big action scenes. The woman must remain the clear visual focus in every frame. Include elegant kitchen portrait moments such as: * sitting on a countertop with one long leg extended and one foot placed on a stool * offering a slice of strawberry cake toward the viewer * sitting backwards on a high stool with her arms resting on the chair back * reaching upward in the kitchen while keeping a playful connection with the camera Keep the mood vintage, feminine, playful, and slightly flirty. Every image should feel like a captured moment inside the same retro kitchen scene, with the viewer standing close to her. Vary the face angle across the series. Do not repeat the same three-quarter face in every image. Use a mix of front-facing eye contact, side glances, profile-based eye contact, upward gaze, and slightly lowered chin with lifted eyes, so the set feels alive and not like the same face pasted onto different poses. Use posture, shoulders, waistline, long legs, and eye contact as the main source of visual interest. Poses should feel relaxed but intentional, with a light editorial quality. Props must stay secondary. If props appear, keep them small and supportive, such as a strawberry cake slice, a wooden spoon, a whisk, a small tray, a folded linen cloth, or a small glass jar. Avoid oversized opaque objects, large bowls, or bulky cookware that block the torso or steal attention from the model. Lighting should be soft, clean, and summery. Keep the overall color balance neutral to slightly warm. The retro feeling must come from the kitchen style, wardrobe, textures, and atmosphere — not from a heavy yellow or orange filter. Skin should stay natural, ivory clothing should stay ivory, and gray cabinets should remain gray. The final result should feel intimate, stylish, feminine, vintage, and editorial, with realistic anatomy, realistic skin, believable expressions, and a lived-in but elegant kitchen environment. Avoid repetitive face angles, stiff posing, oversized props, yellow color cast, orange skin, distorted hands, exaggerated wide-angle body distortion, cluttered backgrounds, complex strap designs, and obvious AI artifacts.",
+    "title": "Vintage Baker Portrait Series",
+    "description": "A cinematic and intimate portrait series of an East Asian woman in a retro Shaker-style kitchen, focusing on realistic textures and soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029043860_wmydex_HR02KW8aQAAy363.jpg",
+      "https://cms-assets.youmind.com/media/1789029043868_hmk5rz_HR02MpcawAAY3cR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34250,
+    "content": "Refer to the four attached full-body images of women and generate one square 4-panel image to be used as material for a fashion video.\n\n[Final Form]\nThe overall aspect ratio is 1:1. Divide the screen into an even 2x2 grid, making each panel square. Place one woman in each panel for a total of four. In order of attachment, 1st = top left, 2nd = top right, 3rd = bottom left, 4th = bottom right. No outer borders, gaps between panels, or 3D frames are needed.\n\nThis is a modern fashion campaign featuring a sharp contrast between text size, solid fill and outlines, and overlapping versus empty space, using a limited range of elements. Keep the person's area clean and create a rich, art-directed composition for the text area. This is a poster image to be used as final video material. It should be a finished design, not a mockup. Each of the four images must stand as a complete poster on its own while maintaining unity as a whole.\n\n[Maintaining Reference Subject: Priority Conditions Over Placement]\nThis is a common instruction set corresponding to the four full-body images of women provided by the user. Do not pre-set specific faces, body types, outfits, or hairstyles. The information for the person in each panel must come only from the image corresponding to that panel. Do not mix features or standardize the four women to a common face or model body type.\n\nMaintain facial contours, eye/nose/mouth shapes and placement, expression, age, skin tone, hairstyle, and hair color exactly as shown in the reference. Maintain head-to-body ratio, neck length, shoulder width, torso length/width, hip width, limb length/thickness, and hand/foot size. Do not perform body corrections such as slimming the face, thinning the torso, lengthening legs, or stretching the body. Maintain the subject's pose, face/body orientation, gaze, arm/hand/leg positions, stance, and weight distribution. Do not flip horizontally. Carry over the shape, color, material, length, fit, and key folds or silhouettes of clothing, shoes, and accessories. Do not misinterpret loose clothing contours as body contours. Do not carry over the background, text, or borders of the reference photos.\n\n[Method for Placing Subjects in Space]\nTreat the person and clothing as a single unit, scaling them uniformly to place them. Do not apply different scaling to parts like the face, torso, or legs. Adjust placement while preserving the original silhouette rather than redrawing the pose to fit the frame. Ensure the entire outline, from top of head to soles of shoes, including hair and fingertips, fits within the panel. The height of the person should be roughly 80-85% of the panel height as a guide. If the subject has wide arms or clothing, scale down the whole person uniformly. Do not slim the body or cut off edges to fit. Set placement guides at y=7.5% and y=92.5% within the panel coordinate system. These are invisible guides. Place the whole person within these guides. Center the silhouette at y=50% while maintaining aspect ratio. Ensure visible clear space above the head and below the feet. Do not allow contact with the panel edges. Blend brightness and tone without changing silhouettes, and add subtle, natural contact shadows at the feet. Do not redraw features for 3D effect.\n\n[Separation of Subject and Text]\nThe left ~35% of each panel is for typography, and the right ~65% is for the person. Do not draw a dividing line. Keep the person on the right and text/shapes on the left, ensuring no overlap with the body. Leave a clear gap. If fit is difficult, prioritize uniform scaling of the person. \n\n[Typography Common Design]\nUse the same condensed sans-serif font family, combining ultra-bold solid characters with bold outline characters. Design with size and layering without distorting characters. Use the following words: top left {argument name=\"top left text\" default=\"BOLD\"}, top right {argument name=\"top right text\" default=\"COOL\"}, bottom left {argument name=\"bottom left text\" default=\"PURE\"}, bottom right {argument name=\"bottom right text\" default=\"EDGE\"}. Use one main heading per panel, ensuring all letters are readable. Add one repeating outline of the same word as a supplementary element. Do not add other words or fine text. Maintain a clear size difference (helper text ~1.3-1.5x larger, in pale slate gray). Text overlaps should only happen in the left text area. No extreme perspective distortion or 3D effects. No barcodes or logos.\n\n[Background and Color Palette]\nUse bright backgrounds for all panels. Top left: ivory; Top right: cool gray; Bottom left: pale blue-gray; Bottom right: warm gray. Keep brightness levels similar. Avoid dark backgrounds. Use solid colors behind the person. Adjust brightness/warmth slightly to separate the silhouette naturally from the background. Main headings are ink black with vermilion red accents. Outlines are pale slate gray. Red is the same across all panels. Costume colors follow references.\n\n[Composition of 4-Panel Text and Graphics]\nLimit shapes to red rectangles and thin black lines. Strictly follow area separation. Create different compositions and centers of gravity for each panel.\n\nTop Left - BOLD: Large solid text with offset outline overlap. Heading is BO/LD in two lines. Large black ultra-bold text occupies the upper-to-middle text area. One outline of BOLD is behind it, shifted slightly to the top left. Parts of the outline can be off-panel to the left.",
+    "title": "Fashion Campaign 4-Panel Collage Prompt",
+    "description": "A sophisticated technical prompt for creating a 2x2 grid fashion campaign poster. It uses four reference images to maintain specific model features while applying a high-end typography design for a modern aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029062188_76v98m_HR03QpAbMAACkD9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34215,
+    "content": "Ultra-realistic cinematic close-up portrait of a {argument name=\"subject\" default=\"young adult man\"} use image for face reference , laughing naturally with a wide genuine smile, head slightly tilted upward, looking just past the camera. Dramatic studio portrait photography against a completely black background. Strong {argument name=\"primary color\" default=\"vivid magenta/purple\"} rim light from the left side and intense {argument name=\"secondary color\" default=\"cyan/teal\"} light from the right, creating a striking split-light effect across the face, beard, neck, and black crewneck sweatshirt. Highly detailed skin texture, realistic pores, individual beard hairs, sharp expressive eyes, natural teeth, soft specular highlights, shallow depth of field, high contrast, moody nightclub aesthetic, professional fashion/editorial photography, 85mm lens, f/1.8, close framing from chest up, centered composition, photorealistic, HDR, ultra-detailed, 4K.",
+    "title": "Neon Split Lighting Portrait",
+    "description": "A cinematic close-up portrait prompt featuring dramatic magenta and cyan neon lighting for a moody, high-contrast nightclub aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029019213_7eai4v_HR0uxUCbQAAWcXR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34242,
+    "content": "Create an independent high-end design poster for each uploaded photo. Use a 3:4 vertical composition, split 1:1 into top and bottom sections. Top half: Keep the original photo, maintaining subject identity, structure, and texture with artistic magazine-style grading. Bottom half: Extract recognizable elements from the photo and reconstruct them into a 'Hand-drawn Doodle Photo Collage.' Do not copy the full photo; use fragments with resizing and white space to create a visual relationship with the top. Composition: Small collage clusters with large empty fields. Style: A mix of photography collage, hand-drawn doodles, and graphic design. Use rough black hand-drawn borders and subtle symbols like stars or smiley faces. Background: Clean white like a sketchbook. Color: Extract 2-4 recognizable colors from the top photo. Text: Minimal editorial notes or phrases scattered in the white space.",
+    "title": "Doodle Photo Collage Poster",
+    "description": "A clever and artistic prompt that converts uploaded photos into a split-layout design, combining high-end photo editing with hand-drawn doodle collages.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029046121_b3rzaz_HR0uWDxbUAAANgC.jpg",
+      "https://cms-assets.youmind.com/media/1789029046119_adu501_HR0uXOYbcAALUL8.jpg",
+      "https://cms-assets.youmind.com/media/1789029046109_w44302_HR0uYaVaQAANSIF.jpg",
+      "https://cms-assets.youmind.com/media/1789029047018_s6gxi4_HR0uagpaAAEI865.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34256,
+    "content": "A {argument name=\"subject\" default=\"face\"} with a lifetime in it. No polished skin, no studio backdrop. Just a {argument name=\"setting\" default=\"rooftop radio\"} before sunrise.",
+    "title": "Natural Portrait at Sunrise",
+    "description": "A realistic portrait prompt that emphasizes raw skin textures and natural lighting on a rooftop setting, avoiding polished studio aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029066726_14y22k_HRyMslsbIAIbExD.jpg",
+      "https://cms-assets.youmind.com/media/1789029066771_qybhr7_HRyMslpagAA8qfL.jpg",
+      "https://cms-assets.youmind.com/media/1789029067053_hrx7uh_HRyMskIXMAAHqtd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34259,
+    "content": "A {argument name=\"subject\" default=\"tiny fishing boat\"} caught in a {argument name=\"material\" default=\"noodle\"} wave. Dinner got a little out of hand.",
+    "title": "Noodle Wave Fishing Boat Surrealism",
+    "description": "A surreal prompt that places a tiny fishing boat in a sea made of noodles, creating a unique food-based fantasy scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029070263_3qjs22_HRyMkuSaoAAAY8O.jpg",
+      "https://cms-assets.youmind.com/media/1789029070265_pkuohp_HRyMktcawAAuvnt.jpg",
+      "https://cms-assets.youmind.com/media/1789029070237_r4a0xt_HRyMkvrWkAAJ3nv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34226,
+    "content": "An enchanting and surreal digital art piece featuring a translucent, golden maple leaf hovering magically above the surface of calm, dark water. The leaf glows from within with a warm, ethereal light, its delicate veins clearly visible. Inside the translucent structure of the leaf, tiny, vibrant pink flowers and closed buds are embedded, appearing to bloom within its very veins. The tips of the leaf are edged with a sparkling, golden glitter that drifts into the air like magic dust. The leaf's stem extends downward, just touching the water's surface, creating concentric ripples that spread outward. Below the water, a reflection of the glowing leaf and stem is faintly visible. The background is a dreamy twilight forest with silhouetted pine trees against a soft, gradient sky of purple, orange, and blue. Several pink water lilies float on the dark water, adding to the serene and magical atmosphere. A majestic, ethereal maple leaf made of translucent, crystalline material floats delicately above a serene dark pond. The leaf is intricately detailed with glowing veins and is embedded with small, soft pink cherry blossom flowers and buds that seem to grow directly from its structure. Golden, shimmering magical dust particles swirl around the leaf, casting a warm, radiant glow. The tip of the leaf stem gently touches the water surface, creating perfect concentric ripples that reflect the light. The background features a dreamy, out-of-focus forest landscape at dusk, with hints of silhouetted trees and a soft gradient sky ranging from deep twilight blues to pale pinks. Floating pink lotus flowers rest on the calm water surface in the foreground and mid-ground. The lighting is soft, cinematic, and magical, highlighting the glassy textures and bioluminescent quality of the scene. The composition is centered, vertical, and symmetrical, evoking a sense of tranquility, mystical nature, and fairy-tale beauty, rendered with hyper-realistic digital art precision.",
+    "title": "Glowing Maple Leaf Digital Art",
+    "description": "An enchanting digital art prompt for a translucent, glowing maple leaf with embedded flowers, floating over water with rippled reflections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029029635_7zff1j_HRzSxXgasAAG1ri.jpg",
+      "https://cms-assets.youmind.com/media/1789029029611_7hyhcq_HRzTX_6aEAATo_Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34257,
+    "content": "a {argument name=\"structure\" default=\"greenhouse\"} inside a {argument name=\"location\" default=\"glacier\"}",
+    "title": "Glacier Greenhouse Concept",
+    "description": "A conceptual landscape prompt placing a delicate greenhouse inside the frozen depths of a glacier, focusing on environmental contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029068083_zi0p83_HRyMbLaa4AABBPt.jpg",
+      "https://cms-assets.youmind.com/media/1789029068084_2pjn67_HRyMbMnaUAAT18p.jpg",
+      "https://cms-assets.youmind.com/media/1789029068091_20qz1r_HRyMbMbXAAAmFYI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34249,
+    "content": "Output various cuts of this {argument name=\"character\" default=\"character\"}'s Vocaloid MV in a 3x3 grid with a 16:9 aspect ratio.",
+    "title": "Vocaloid MV Storyboard Grid",
+    "description": "A prompt to generate a 3x3 storyboard grid for a Vocaloid music video featuring a specific character in 16:9 aspect ratio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029053559_ofrt4y_HRy5gxUaIAAZEBv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34267,
+    "content": "Create a premium cinematic character bible sheet for {argument name=\"characters\" default=\"ALAN & T-REX\"}. Use uploaded character sheets as strict visual reference for both characters. Do not change either's appearance.\nLAYOUT: Split screen partner format. Two halves divided by a bold dramatic",
+    "title": "Cinematic Character Bible Sheet for Alan and T-Rex",
+    "description": "A detailed cinematic character bible prompt designed for maintaining visual consistency across split-screen layouts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029078713_76m9pm_HRyqKm2bsAAbR7g.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34195,
+    "content": "Remove the background from this image. Keep all foreground subjects unchanged and fully intact, with clean, smooth edges. Make the background transparent.",
+    "title": "Transparent Background Removal",
+    "description": "An instruction for GPT Image 2.5 to remove backgrounds while keeping foreground subjects intact with clean edges.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029044144_9zc3wi_HRyhAk9bIAAMClN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34224,
+    "content": "Draw a self-portrait of yourself, including a nameplate that displays your {argument name=\"tag content\" default=\"version number\"}",
+    "title": "AI Self-Portrait with Version Tag",
+    "description": "A prompt asking the model to generate a self-portrait that includes its specific version number on a nameplate, testing its self-identity and text rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029027964_ta8ypj_HRyTUUOa8AAqM0t.jpg",
+      "https://cms-assets.youmind.com/media/1789029027678_cgi94k_HRyTWLFXEAAiU2m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34265,
+    "content": "Front camera casual selfie, 9:16; {argument name=\"age range\" default=\"18–22 years old\"}, clearly adult beautiful East Asian female, about 1.75 meters, exquisite features, cool white skin, long straight black hair, tall and slender model figure, chest visual about natural E cup. {argument name=\"outfit\" default=\"silver-white sequined deep V dress\"}, shiny earrings and thin rings, sweet and charming. Ordinary indoor natural cool light, awkward smartphone upward angle, slightly clumsy composition, slight noise, low retouching feel, slight facial motion blur, like a real romantic moment captured casually, preserving the rough texture of a mobile phone snapshot. Freely play with different selfie angles, long hair states, hand gestures, dress reflections, slight out-of-focus, and clumsy compositions around various actions, pursuing the romantic snapshot atmosphere of mobile phone casual shooting × silver-white dress × real life feel. Produce a comprehensive preview image containing different actions for me to choose from.",
+    "title": "Candid Nightlife Selfie Portrait",
+    "description": "A complex prompt designed to generate a realistic, casual smartphone-style selfie of a young woman in a sequined dress at night.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029073969_ikk5ne_HRyOb7ub0AA36Xr.jpg",
+      "https://cms-assets.youmind.com/media/1789029073991_diwkkk_HRyOb70a4AAhBqZ.jpg",
+      "https://cms-assets.youmind.com/media/1789029073963_zolmrk_HRyOb7ya0AAQTul.jpg",
+      "https://cms-assets.youmind.com/media/1789029074934_2q14u9_HRyOb75bMAAP12D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34191,
+    "content": "Only change the {argument name=\"original object\" default=\"white chair\"} in the scene to a {argument name=\"new material\" default=\"wooden chair\"}, keeping the original camera angle, composition, lighting, shadows, background, and other furniture completely unchanged",
+    "title": "Selective Material Image Editing",
+    "description": "A technical prompt for GPT Image 2.5 that allows for precise material modification of specific objects while locking the rest of the image context.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029028710_w9nu3g_HRyNPEaaYAAwMKm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34285,
+    "content": "creative illustration, size 3:5, two-tone color, {argument name=\"light color\" default=\"light red\"} and {argument name=\"dark color\" default=\"dark brown\"}, silhouette shadow art, clear color, signature text: ' {argument name=\"signature\" default=\"owa days🐾\"}",
+    "title": "Silhouette Shadow Illustration",
+    "description": "A creative illustration prompt generating silhouette shadow art with a specific two-tone color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029094382_055ymf_HRx816vbMAAfYFA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34271,
+    "content": "Stylized 3D animated character in the style of a modern feature-animation studio",
+    "title": "3D Animated Character Studio Style",
+    "description": "Generates a stylized 3D character reminiscent of modern feature animation films, focusing on aesthetics rather than specific intellectual property.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029082727_e8xiom_HRyL6HmWUAADo0c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34254,
+    "content": "Based on our conversation so far, please attach the image above and generate an image with matching {argument name=\"jewelry\" default=\"jewelry\"} and {argument name=\"accessories\" default=\"accessories\"}, including descriptions and charm points. Use a clean {argument name=\"font\" default=\"Malgun Gothic\"} font in Korean.",
+    "title": "Matching Jewelry and Accessory Design",
+    "description": "A descriptive prompt for generating images of jewelry and accessories that complement an attached reference image, including specific Korean typography instructions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029066161_xxcty4_HRyJQJ4aoAAkw_3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34217,
+    "content": "Create a premium 3:4 vertical editorial poster using the uploaded photo.\n\nSplit the canvas exactly 50/50 horizontally.\n\nTOP: Preserve the original photo and subject exactly, including identity, pose, proportions, lighting, texture and colour. Apply only subtle premium editorial colour grading. Extend the environment naturally if needed to fit 3:4. Never distort or alter the subject.\n\nBOTTOM: Reimagine the photo as a minimalist modular geometric collage. Preserve the subject’s most recognisable features, silhouette, pose and visual identity using large rectangles, squares, rounded shapes, ellipses, triangles and irregular blocks.\n\nUse fewer, larger shapes rather than fragmented pieces. Simplify unnecessary details and backgrounds while keeping the illustration instantly connected to the original photo.\n\nExtract 2–4 key colours from the photo and refine them into a sophisticated, slightly softened palette. Use flat colour blocks with subtle paper grain, print texture and a handmade cut-paper feel.\n\nKeep the subject relatively small with generous negative space, strong visual hierarchy and an elegant asymmetrical editorial composition.\n\nOptional: add minimal, small typography related to the subject, such as a short title, location or number. Keep text understated.\n\nOverall style: premium art magazine, modernist geometric collage, large modular blocks, soft sophisticated colours, paper texture, generous negative space, clean and refined.\n\nAvoid realistic tracing, excessive fragmentation, childish collage, cartoon styling, 3D rendering, glossy vectors, dense backgrounds, cheap poster templates, excessive text or unrelated elements.",
+    "title": "Geometric Editorial Portrait Collage",
+    "description": "A unique prompt that splits the canvas into two halves: a realistic portrait on top and a minimalist geometric collage on the bottom, creating a premium editorial poster aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029020574_vflzbn_HRyHv9QaIAAjLGM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34279,
+    "content": "MAN — FILM CHARACTER SHEET\nMulti-panel studio photographs of the same real man across four panels: front-facing, three-quarter turn, full profile, and a rear view, all on a seamless neutral studio backdrop with soft even lighting. He has dark brown hair",
+    "title": "Man Film Character Sheet",
+    "description": "A multi-angle studio photograph sheet for a male film character reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029089635_1t4x6x_HRyF5LraIAEtzgG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34280,
+    "content": "Multi-panel studio photographs of the same real woman across four panels: front-facing, three-quarter turn, full profile, and a rear view, all on a seamless neutral studio backdrop with soft even lighting. She has {argument name=\"hair length\" default=\"long\"}",
+    "title": "Woman Character Reference Sheet",
+    "description": "A character sheet prompt designed to generate multiple angles of the same female character, featuring front, side, and rear views for consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029088093_3p0gbo_HRyF3NOaQAAvoVo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34213,
+    "content": "Create an ultra-realistic cinematic editorial fashion portrait of a {argument name=\"subject\" default=\"young elegant woman\"} on a quiet beach during golden hour sunset. Use the reference image as inspiration for the pose, mood, and composition. Keep the same dreamy ocean atmosphere but create a more unique high-fashion pose. She is wearing a flowing {argument name=\"dress color\" default=\"ivory champagne-colored\"} luxury chiffon and lace gown with long soft sleeves, elegant covered neckline, delicate fabric texture, and a graceful silhouette. The dress should flow naturally with the sea breeze and touch the shallow water. Pose: She is sitting gracefully on wet reflective sand near the waves, body slightly turned sideways, one leg folded naturally, one hand gently touching the water, the other hand raised in an {argument name=\"pose style\" default=\"artistic dance-like movement\"} near her face. Create a graceful, emotional pose inspired by classical dance and luxury fashion photography. Expression: peaceful, dreamy, elegant, looking toward the horizon. Hair: long natural dark waves moving softly with the ocean breeze. Lighting: warm golden sunset backlight, soft glowing rim light around hair and dress, cinematic shadows, pastel sky tones. Color palette: ivory, champagne, soft beige, warm gold, muted peach, and ocean blue. Camera: professional fashion magazine photography, 85mm lens, shallow depth of field, ultra detailed fabric, realistic skin texture, natural beauty, high-end luxury editorial style. Composition: full body shot, centered subject, reflection on wet sand, ocean waves around her, minimal clean background. Style: Vogue-inspired luxury beach editorial, dreamy cinematic photography, viral Instagram aesthetic, realistic, 8K quality. No text, no watermark, no extra people, no accessories overload.",
+    "title": "Golden Hour Sunset Beach Fashion",
+    "description": "A luxury fashion editorial prompt for a cinematic portrait of a woman in a flowing chiffon gown on a beach at sunset, emphasizing movement and light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029014473_77ym89_HRyEDe-aQAA0tfp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34268,
+    "content": "Please use [{argument name=\"brand logo\" default=\"brand logo reference image\"}] as the sole core visual input to automatically design and output a complete, unified, and production-ready brand merchandise system for this brand.\n\n[Sole Input]\nImage A = [{argument name=\"brand logo\" default=\"brand logo reference image\"}]",
+    "title": "Automatic Brand Merchandise Design from Logo",
+    "description": "A specialized prompt for GPT Image 2.5 to automatically design a unified and production-ready merchandise system based on a single brand logo input.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029079384_obnlav_HRyBjrkboAA0Llg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34197,
+    "content": "A {argument name=\"character\" default=\"girl\"} breaking through the wall of {argument name=\"location\" default=\"my room\"}",
+    "title": "Girl Breaking Through Wall",
+    "description": "A prompt for generating a dynamic illustration of a character bursting through a bedroom wall, creating a sense of action and surprise.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029061319_szv201_HRyC-c5akAANbEJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34206,
+    "content": "Create an ultra-realistic premium studio fashion portrait of a young female model with {argument name=\"hair color\" default=\"long dark-brown\"} hair styled in a loose, slightly messy updo with natural face-framing strands. She has realistic skin texture, subtle freckles, minimal natural makeup, soft expressive eyes, and a relaxed closed-mouth smile. No beautification, plastic skin, or artificial AI look.\\n\\nOUTFIT: {argument name=\"outfit\" default=\"oversized washed-charcoal cropped sweatshirt with authentic faded cotton texture, dusty-rose/pink oversized wide-leg cargo jeans with large utility pockets and realistic stitching\"}, clean white sneakers, small gold hoop earrings, and a delicate gold pendant necklace.\\n\\nPOSE: professional relaxed fashion-editorial pose beside a tall minimal white rectangular studio plinth. She leans lightly against it with one elbow resting naturally on top, upper body slightly angled, one hand casually near her cheek, shoulders relaxed, hips subtly shifted to create a flattering natural silhouette. Her expression is effortless and playful rather than overly posed. Natural anatomy, hands and fingers.\\n\\nBACKGROUND: seamless matte {argument name=\"backdrop\" default=\"dusty-pink\"} studio backdrop with soft warm sunlight entering from one side, creating elegant diffused window-frame shadows across the background. Clean, minimal, premium studio environment.\\n\\nPHOTOGRAPHY: vertical 4:5 composition, professional full-frame camera, 85mm portrait lens, f/2.0, eye-level/slightly lower editorial camera angle, realistic lens compression, tack-sharp focus on eyes and face, gentle shallow depth of field, soft directional key light with natural fill, realistic shadows, detailed fabric texture, individual hair strands and natural skin pores. Sophisticated warm-neutral color grading, subtle film grain, high dynamic range, photorealistic 8K detail.\\n\\nThe final image must look like a genuine high-end fashion campaign photographed in a professional studio — natural, youthful, effortlessly stylish and completely photographic. No CGI, illustration, excessive retouching, distorted anatomy, extra fingers, artificial skin, exaggerated body proportions, text, logos or watermark.",
+    "title": "Ultra Realistic Studio Fashion Portrait",
+    "description": "A highly detailed prompt for generating professional studio fashion photography, focusing on natural skin textures, specific lighting setups, and editorial-style composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029006301_z68vpt_HRyBS6BacAAYbC8.jpg",
+      "https://cms-assets.youmind.com/media/1789029006281_mv1jm0_HRyBTmsbYAAh92g.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34260,
+    "content": "Create an image of the content as shown in {argument name=\"content source\" default=\"[image 1]\"} but with the same medium, color palette, mood, rendering technique, saturation level, textures, and overall style of {argument name=\"style source\" default=\"[image 2]\"}. Objective: Style transfer from {argument name=\"source ID\" default=\"[image 1]\"} to {argument name=\"target ID\" default=\"[image 2]\"}",
+    "title": "Universal Style Transfer Template",
+    "description": "A template prompt for transferring the artistic style, color palette, and rendering technique from one reference image to another.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029069057_0oc2lr_HRx1JG3bMAA-7Ky.jpg",
+      "https://cms-assets.youmind.com/media/1789029069086_3db9l9_HRx1Pn6aYAEIN8v.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34246,
+    "content": "Generate an infographic for {argument name=\"player\" default=\"James Harden\"} from his entry into the NBA until now, covering {argument name=\"topic\" default=\"data analysis of career Game 7 performances\"}.",
+    "title": "NBA Stats Infographic Prompt",
+    "description": "A prompt for generating a detailed data visualization infographic about an NBA player's career statistics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029050563_uj18vl_HRxsz56bgAAzPUK.jpg",
+      "https://cms-assets.youmind.com/media/1789029050556_xbpg9u_HRxs1Jga8AAMX1d.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34229,
+    "content": "Create a premium 3D oversized T-shirt branding mockup inspired by the reference image. Display two floating T-shirts, one showing the front view and the other showing the back view, slightly overlapping at different depths. Use a rich {argument name=\"fabric color\" default=\"electric violet/purple\"} fabric color with realistic cotton texture, natural folds, soft highlights, subtle shadows, and clean oversized streetwear proportions. Front T-shirt: Place the name {argument name=\"brand name\" default=\"ABKR\"} prominently on the upper chest in a stylish modern editorial typeface. Add a smaller supporting custom logo/monogram beside or beneath the name. In the lower-left section of the shirt, create an elegant abstract geometric line pattern made from repeated curved/intersecting lines. Back T-shirt: Place the brand name in {argument name=\"typography style\" default=\"large elegant typography\"} across the upper back. Underneath, add the custom logo/monogram at a very large scale, using a bold geometric design with clean negative space and a modern fashion-brand aesthetic. Use white or warm ivory for strong contrast against the fabric. Present both shirts floating above a clean light-gray seamless studio background, with soft diffused lighting and realistic shadows beneath them. Style: premium streetwear identity, modern fashion branding, editorial typography, geometric custom logo, realistic 3D apparel mockup, clean studio lighting, high-end Behance presentation, ultra-detailed, photorealistic, sharp 4K render.",
+    "title": "Oversized T-Shirt Branding Mockup",
+    "description": "A high-end 3D streetwear mockup prompt for t-shirt branding, featuring floating front and back views with custom logos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029031508_uab9t2_HRxrIiUbgAAgUxe.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34209,
+    "content": "Use the reference image as the exact blueprint. DO NOT change the composition, camera angle, perspective, framing, pose, facial orientation, body proportions, clothing, hairstyle, accessories, lighting direction, or background layout. Preserve the reference image pixel-perfect. Every object must remain in the exact same position and scale. Do not crop, zoom, rotate, move, add, remove, or replace any elements.Only transform the rendering style into a vibrant {argument name=\"art style\" default=\"hand-painted travel illustration with gouache and watercolor textures\"}, visible brush strokes, colorful ink outlines, soft shading, and a whimsical travel journal aesthetic. Add playful doodles only in the empty sky and border areas: hand-drawn sun, clouds, hearts, sparkles, stars, and colorful decorative marks. Keep every subject and background exactly where they are in the original photo.The final image must look like the original photograph redrawn as an illustration, with identical composition and layout.",
+    "title": "Photo to Gouache Travel Illustration",
+    "description": "A style-transfer prompt that converts a realistic photo into a whimsical hand-painted travel journal illustration while strictly maintaining the original composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029009147_9i3f8f_HRxm1DAaAAAFMjC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34237,
+    "content": "Create a Premium Minimal watercolor vignette artwork based entirely on the uploaded photograph. Preserve the exact subject, identity, pose, clothing, objects, environment, lighting, colors, composition, and mood.\nKeep the photograph fully photorealistic with a subtle premium editorial finish, natural cinematic light, soft tones, and realistic detail.\nBOTTOM — WATERCOLOR INTERPRETATION: Recreate the exact same scene as a delicate hand-painted watercolor and fine-ink illustration. Use loose washes, subtle ink lines, soft paper texture, imperfect edges, muted pastel tones, and plenty of clean negative space.\nAdd a short elegant handwritten brush-script phrase with a tiny minimalist subtitle underneath.\nSTYLE: {argument name=\"style\" default=\"Scandinavian editorial, quiet luxury, nostalgic travel journal, soft watercolor, delicate ink, handmade paper texture, sophisticated minimalism\"}.\nThe photo and illustration must show the same exact moment and scene. No new elements, cartoon style, heavy outlines, saturated colors, or clutter.\nFor different photos, change only the text phrase.",
+    "title": "Scandinavian Watercolor Vignette Artwork",
+    "description": "A hybrid prompt that recreates a photograph as both a photorealistic image and a minimalist Scandinavian watercolor illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029037875_i5gn2m_HRxiTK3bAAAWCzx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34227,
+    "content": "Use the uploaded photo as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, hairstyle, and overall appearance naturally. Create a creative cinematic street portrait featuring the same adult man standing in front of a large black brick wall covered with a massive {argument name=\"mural subject\" default=\"photorealistic monochrome mural of himself\"}. The mural should dominate almost the entire background. Show a huge black-and-white waist-up portrait of the man wearing subtle rectangular eyeglasses and a dark button-up shirt. In the mural, he is looking downward while holding a large vintage stainless-steel kettle in one raised hand, tilted forward as if {argument name=\"mural action\" default=\"pouring a drink\"}. Make the mural realistically integrated into the brick texture, with the brick pattern subtly visible through the printed artwork. In the foreground, place the real-life version of the same man at the lower-right area of the composition. Show him full-body, standing casually with one hand inside his trouser pocket while the other hand holds a transparent plastic cup filled with iced coffee. Position the cup directly beneath the kettle spout so that a realistic stream of coffee appears to pour from the giant mural kettle into the small cup, creating a clever forced-perspective optical illusion. Dress the foreground subject in: {argument name=\"outfit\" default=\"olive-green bomber jacket, plain black crew-neck T-shirt, slim dark charcoal jeans, clean white low-top sneakers\"}. Pose him looking upward toward the giant mural with a relaxed, slightly amused expression. Use a dark urban environment with a black painted brick wall, simple concrete pavement, soft natural overcast lighting, realistic shadows, muted cinematic colors, and strong contrast between the monochrome mural and the colored foreground subject. Maintain believable scale, accurate perspective, realistic liquid physics, natural anatomy, detailed fabric textures, realistic skin texture, sharp facial details, professional photography quality, subtle depth of field, premium editorial street-photography aesthetic, highly photorealistic. Composition: vertical 4:5, giant mural filling approximately 80% of the frame, foreground subject positioned lower-right, kettle and cup perfectly aligned to create the pouring illusion.",
+    "title": "Cinematic Mural Forced Perspective Illusion",
+    "description": "A creative prompt for a street portrait featuring an optical illusion of a giant mural interacting with the foreground subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029030079_ecjcw5_HRxeT8MaQAAZ76p.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34243,
+    "content": "\"Analyze this photo and give me a very detailed JSON prompt describing its visual style. Be sure to break down the color grading, lighting, and all the exact colors in the photo in detail so I can apply this look to my own images\" \"Use this JSON as a reference to generate a person holding my product\" \"Retain the same facial features\"",
+    "title": "UGC Product Photography Workflow",
+    "description": "A specialized workflow using GPT Image 2.5 for consistent product placement and realistic lighting by utilizing JSON style references.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029048800_np5fx7_HRxb4KkaQAAWvWJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34252,
+    "content": "PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details. Wardrobe: Outerwear / layers: A waist-length hooded jacket with a roomy, softly rounded body and full-length voluminous sleeves, made in dense chestnut-blue gray faux fur. The lustrous pile forms small irregular swirls and rippling tufts, with slate gray depths between warmer blue gray fiber tips. A generous attached hood has a thick fur-covered rim and a center-back seam. A two-way silver-tone zipper closes the full front, while smooth blue gray lining covers the interior and hood. Blue gray rib-knit cuffs and a broad matching waistband draw in the plush shell; concealed side-seam pockets and a matching fur back complete the jacket. Final worn state: - Layering: Final state: keep this garment the complete outer layer over the selected Top item; open only its original center-front fastening run within existing endpoints. Preserve source neckline, collar, front/rear panels, selected shoulder, sleeve, and body positions, plus fastening inventory, receiver mapping, order, spacing, endpoints, and placket length; add, remove, move, or extend nothing. FINAL FASTENING STATE: change only the source-registered primary closure mechanism inside its exact original endpoints. Preserve that mechanism, all original parts, its source length, and the garment construction beyond both endpoints; do not reinterpret a seam, fold, rib, placket, or panel edge as an extension, and add, duplicate, remove, or relocate nothing. Only layer order, contact, occlusion, and optical transmission change. Every visible garment boundary follows the outer item's source geometry or separately selected fold-return line; inner contours remain optically behind it. Keep panel contact shallow. Relaxed handling within this same operation: Use light stable contact and broader material-correct ease without changing the selected layer order. Top: A fitted black cardigan ending at the high hip, in fine, lightweight vertical rib knit with narrow semi-sheer channels between the ribs. Short fitted set-in sleeves and a matching ribbed back continue the close silhouette. A deep rounded V-neckline is framed by broad black floral lace, which continues down both edges of the full button front to the lower hem. Large flower heads, curling leaves and fine mesh fill the lace bands, with delicate eyelash loops extending from their free edges. Small black four-hole buttons close the front, and a narrow knitted hem finishes the body and sleeves. Upper-body innerwear: A simple black stretch-jersey bandeau with a broad opaque band covering the bust, a gently curved upper edge and a straight lower edge ending above the waist. Soft matte fabric, discreet enclosed elastic along both edges and smooth side seams create a close, flexible fit, with a continuous plain back and no straps or visible hardware. Bottom: A pair of full-length flared jeans in washed charcoal-black denim, with a low-to-mid-rise waist, fitted hips and thighs, and legs that narrow toward the knees before widening into broad bootcut hems. Soft gray fading runs over the front hips and thighs, with subtle whiskering beneath the waistband and fine vertical denim grain throughout. Muted tan-gray double topstitching defines the curved front pockets, coin pocket, fly and seams. Belt loops, a button-and-zip closure, a rear yoke, two plain rear patch pockets and flat stitched hems complete the five-pocket construction. Footwear: A pair of black patent-leather shoes with long tapered toes ending in short squared tips, low side quarters and enclosed heels. Two separate glossy straps cross each open instep on a slight diagonal, each threaded through a silver-tone rectangular buckle on the outer side and punctuated by large round silver eyelets. The smooth pointed toe panels and patent side sections frame the open areas beneath and between the straps. Dark lining, slim black rubber soles with a lightly projecting beveled edge and low block heels complete the pair. Bag: A low, elongated shoulder bag in deep wine-brown leather with a glossy finish, subtle tonal variation and soft natural creasing. The supple body has gently rounded lower corners, shallow side and base gussets, piped perimeter seams and raised ends flanking a softly concave top opening. A fine gold-tone zipper follows the curved upper edge. One narrow matching leather shoulder strap has stitched edges, a small adjustment buckle and gold-tone circular rings with swivel-snap attachments at the bag ends. The rear is plain matching leather, and dark wine-colored textile lines the interior. Final worn state: VIEW-CONDITIONAL BODY-SIDE MAP: front view — wearer-left is image-right and wearer-right is image-left; back view — wearer-left is image-left and wearer-right is image-right. In profiles, crossed limbs, or ambiguity, trace the named anatomical side continuously from its corresponding shoulder, hip, eye, or ear landmark as applicable. Apply the state only to the named anatomical side; never mirror, swap, or duplicate it. - Bag carry: Final state: the registered short strap bears weight from the wearer-left shoulder; the bag top sits directly beneath the wearer-left armpit against the wearer-left side torso. Both hands stay off; support never moves to the wearer-left forearm, elbow, wrist, or hand. Keep registered supports and components connected; allow contact and gravity-led ease only along the selected route. Natural handling within this same operation: Keep the selected support point exact while allowing limited natural contact variation and one small gravity-led angle. Belt: A broad black leather belt with a smooth, softly lustrous surface and clean edges, fastened by an oversized polished silver-tone buckle. The buckle forms an asymmetric swept D-shaped frame: a thick, rounded crescent broadens along the outer curve, with a second flowing ridge following its contour and tapering toward the strap attachment. A silver prong crosses the dark central opening to engage the belt holes. A matching black keeper and a rounded strap end complete the adjustable belt. Final worn state: - Belt placement: Place the complete belt horizontally around the outside of the selected Bottom item at the wearer's anatomical natural waist. Do not move it to the hips or ribcage; preserve the separately selected routing, buckle position, and tail treatment. Keep the selected position and fastening state; change only contact pressure and physically available ease. Natural handling within this same operation: Keep the registered fastening secure and use light stable contact with a small amount of material-correct ease distributed around the complete belt circuit. - Buckle position: Center the single existing buckle on the wearer's anatomical front midline and fasten it using only its registered closure mechanism. For a frame-and-prong buckle only, pass the existing prong through exactly one existing hole and seat the strap against the frame; for a ratchet, clasp, plate, or automatic buckle, engage only its registered mechanism. Do not invent a hole, prong, or closure part, and preserve the separately selected height, routing, and tail treatment. Eyewear: A pair of slim black sunglasses with low, horizontally elongated rectangular lenses, sof",
+    "title": "Detailed Technical Fashion Wardrobe Description",
+    "description": "An extensive technical prompt structure for generating specific fashion items (faux fur jacket and ribbed cardigan) with strict rules for maintaining garment identity and layering consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029063799_psq92o_HRxa7kabYAEF7QG.jpg",
+      "https://cms-assets.youmind.com/media/1789029063823_3nszdf_HRxa7kNbEAAyAVN.jpg",
+      "https://cms-assets.youmind.com/media/1789029063784_vh06aj_HRxa7khbYAA1PyA.jpg",
+      "https://cms-assets.youmind.com/media/1789029064632_a5xthl_HRxc5l3bsAA0foM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34218,
+    "content": "Create a premium, hyper-realistic luxury men’s fashion editorial poster using my uploaded male face as the ONLY identity reference for the main male model.\n\nPreserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, natural skin texture, hairstyle, and overall likeness. Keep me instantly recognizable. Do not beautify, reshape, feminize/masculinize, age, de-age, or alter my facial features.\n\nConcept: “{argument name=\"concept\" default=\"MIDNIGHT FORM\"}”\n\nCreate an original high-end contemporary fashion campaign with a sophisticated {argument name=\"color palette\" default=\"deep emerald-green and charcoal\"} color palette, completely different from the reference composition.\n\nThe male model is standing confidently in a minimalist architectural studio with dark green textured walls, subtle dramatic shadows, polished concrete flooring, and soft cinematic lighting. He wears a {argument name=\"outfit\" default=\"luxury oversized cream bomber jacket, fitted black knit top, tailored charcoal wide-leg trousers, premium black leather sneakers, a minimalist silver watch, and subtle silver rings\"}.\n\nPose: full-body fashion pose, standing slightly angled toward camera, one hand casually inside the jacket pocket while the other adjusts the cuff, shoulders relaxed, chin slightly raised, confident editorial expression. Natural realistic body proportions.\n\nPhotography: high-end European fashion magazine photography, full-body composition, 85mm lens aesthetic, realistic skin pores, detailed fabric texture, soft directional studio lighting, subtle rim light, cinematic shadows, shallow depth of field, premium color grading, photorealistic, ultra-detailed, sophisticated and expensive visual atmosphere.\n\nTypography & Layout\n\nAdd elegant editorial typography integrated into the poster:\n\nMIDNIGHT\nFORM\n\nSmall headline:\nAUTUMN / WINTER 2026\n\nSupporting copy:\nQUIET CONFIDENCE.\nMODERN STRUCTURE.\n\nProduct callouts:\nOVERSIZED BOMBER\nRelaxed. Refined. Essential.\n\nTAILORED TROUSERS\nFluid silhouette. Modern movement.\n\nLEATHER SNEAKERS\nMinimal. Bold. Versatile.\n\nBottom section:\nNEW SEASON\n01 / 26\nDESIGNED FOR THE MODERN MAN\n\nUse sophisticated high-fashion serif typography mixed with clean minimalist sans-serif text, carefully balanced around the model. Keep typography elegant, spacious, and editorial rather than cluttered.\n\nComposition: vertical 9:16, full-body model clearly visible, premium magazine-cover aesthetic, original layout, no copied branding, no logos, no watermark, no distorted hands, no extra fingers, no duplicated body parts, extremely realistic fashion photography.",
+    "title": "Midnight Form Luxury Fashion Poster",
+    "description": "A comprehensive editorial prompt for a high-end men's fashion campaign, featuring emerald-green tones and sophisticated typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029020940_qhtnhu_HRxZygabMAAjPvO.jpg",
+      "https://cms-assets.youmind.com/media/1789029021014_2r5jeu_HRxZygkbsAETJcA.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34245,
+    "content": "Generate a {argument name=\"aspect ratio\" default=\"9:16\"} vertical, surreal night wasteland photograph with believable textures and natural exposure. {argument name=\"subject\" default=\"Two incomprehensibly tall stone monoliths\"} stand side by side in the distance, slightly different in width with nearly parallel vertical sides and flat tops that do not taper. The left monolith is narrower and shorter, while the right one is taller, nearly reaching the top of the frame. Together they occupy about one-third of the width, centered slightly to the right. A very narrow, continuous vertical gap between them reveals the cold pre-dawn sky behind, with light originating from the distance rather than artificial sources or glows. This slit leads the eye upward from the dust below. The monoliths are made of dark gray mineral concrete with fine vertical weathering grooves, dark on the sides and polished by faint cold light on the front, conveying immense weight without ornate decoration. The upper half is a blue-black sky with tiny natural stars, transitioning into a grayish-brown thin dust fog below where the bases are hidden, punctuated by tiny needle-hole-sized warm lights. At the bottom is a desolate landscape of brown short grass and gravel, with a {argument name=\"character\" default=\"lone adult traveler\"} in a dark coat standing still, occupying about one-thirtieth of the height, facing the monoliths. Overall exposure is dark but textures are discernible, low saturation, minor natural grain, no sharp edges. The mood is one of enduring loneliness, silent awe, and incomprehensible scale. No single spires, golden portals, sci-fi lasers, religious symbols, dense cities, text, logos, or watermarks.",
+    "title": "Surreal Monolith Night Landscape",
+    "description": "A highly descriptive prompt for a surreal wasteland night scene featuring massive stone monoliths and a lone traveler.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029050865_ldlzjl_HRxLnCCasAAtUMm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34248,
+    "content": "Generate a {argument name=\"aspect ratio\" default=\"9:16\"} vertical surreal landscape photography work: an overcast day, a calm reservoir surrounded by cold gray thick fog. The upper half of the frame is a minimalist foggy sky, with distant limestone ridges almost merging into the horizon. An old wet concrete pier extends from the bottom right, with an adult traveler in a dark jacket sitting at the end with their back to the camera, feet hanging down, the figure's height not exceeding {argument name=\"person scale\" default=\"one-twentieth\"} of the frame height. There is only a small unlit buoy slightly to the left in the middle ground. Beneath the calm water, an incredibly massive circular observatory ruin slowly reveals itself: layers of concentric concrete rings in eccentric elliptical perspective, radial thin ribs, and a deep dark circular atrium, occupying most of the water area in the lower half of the frame, with the right side contour dissolving into deep water. The giant object is indeed submerged, with the top water surface continuous and complete; subtle ripples, turbid water, and depth attenuation obscure the structure, appearing as an ordinary foggy reservoir at first glance, and only revealing the architecture upon a second look. {argument name=\"color tone\" default=\"Lead gray, slate blue, and a small amount of wet brown\"}, low saturation, soft contrast, diffused sky light, no visible sun, fluorescence, or dramatic light beams. The concrete nearby is rough and realistic, while distant details gradually fade, with weak natural imaging grain. The atmosphere is quiet, lonely, and slow, with a disturbing scale but no dangerous events. The entire piece is a continuous, credible photographic image, without text, logos, watermarks, borders, boats, bicycles, spires, or collage seams.",
+    "title": "Surreal Foggy Reservoir Landscape",
+    "description": "A detailed prompt for creating a cinematic, surreal landscape featuring an underwater architectural structure in a foggy reservoir setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029052428_qu4t35_HRxLQWFaIAAE4XA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34251,
+    "content": "Subject:\n{argument name=\"subject\" default=\"White Satin by the Train Window\"}\n\nMain Figure:\nA vertical photograph of an adult woman sitting in the center-right of the frame inside a vehicle with blue seats, looking at the camera from the window.\n\nPerson/Expression:\nFace turned slightly to the left of the frame from the front, with a quiet expression and lips slightly parted. Slender oval face, small chin, long and narrow {argument name=\"eye color\" default=\"dark brown\"} eyes, thin natural eyebrows, a small nose, and pale glossy lips. Long black hair falls over the edge of one eye and across both shoulders.\n\nOutfit/Pose:\n{argument name=\"outfit\" default=\"A white glossy satin camisole top with thin shoulder straps\"} and delicate lace at the neckline, with a matching white satin robe falling off both shoulders. Sitting on a blue seat, leaning slightly forward, with both arms naturally folded near the knees.\n\nBackground/Lighting:\nA bright, passing train window on the left, and blue seats with blurred passengers in the background right. Strong diffused light from the left window illuminates the contours of the face, the white satin, and the edges of the hair, while shadows on the right are soft.\n\nComposition/Camera:\n3:4 vertical composition, a front-leaning waist-up photo with the camera at the chest height of the seated person. The subject is captured largely in the center-right, leaving a strip of the white train window on the left. Focus on the face and chest in the foreground, with the passengers and seats in the background blurred by shallow depth of field.\n\nTexture/Style:\nPhotorealistic live-action photo. Naturally capturing the smooth reflections of the white satin, the lace details, the blue seat fabric, and individual strands of hair caught in the backlight.\n\nNegative:\nDo not omit the long black hair over one eye and the robe fallen from the shoulders.",
+    "title": "Soft Lighting Train Window Portrait",
+    "description": "A realistic photo prompt of a woman sitting by a train window in a satin camisole, utilizing natural light and shallow depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029061193_rljhzg_HRit6exa8AE7weV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34192,
+    "content": "[Song Yu Dressing Process | Song Dynasty Boudoir] Professional high-end ancient fashion photography; 9:16 vertical full canvas, strictly 3 columns x 3 rows grid inside, each grid equal proportion, consistent size, and narrow neat spacing; each character is mainly in full-body or near full-body composition to ensure complete presentation of clothing changes. With the same adult oriental woman in the reference image as the only subject, maintain the same face, hairstyle, body proportion, makeup and temperament; use the complete clothing in the reference image as the final look basis, strictly maintain the visual characteristics of the light cyan and white ancient style clothing system, embroidery patterns, translucent tulle, waist seal, skirt, hair accessories, jewelry and shoes, do not design another set of clothes yourself. Nine grids show the entire process of the same adult woman continuously completing dressing in a refined Song Dynasty boudoir, from basic undergarments to the complete look in the reference image. Grid 1: Only wearing exquisite and simple light-colored basic undergarments, standing by the clothes rack, preparing to dress; Grid 2: Putting on the light cyan embroidered inner top in the reference image; Grid 3: Putting on the corresponding skirt, tidying the waist and hem; Grid 4: Starting to wear the translucent light cyan outer shirt, putting both arms into the sleeves; Grid 5: Tying the wide waist seal in the reference image, forming a complete waist layer; Grid 6: Completing the outer shirt wearing, tidying the collar, long sleeves and tulle layers in front of the bronze mirror; Grid 7: Tidying the complete bottom and skirt layers, ensuring the leg clothing status is consistent with the reference image; Grid 8: Sitting on the edge of the couch wearing the shoes in the reference image, while wearing necklaces, earrings and other existing accessories; Grid 9: All clothing, shoes, jewelry and hair accessories are completed, standing naturally in front of the bronze mirror, presenting the complete final look in the reference image. Each grid must strictly inherit all the clothes already worn in the previous grid, only adding or completing one clear step; the state of the clothing accumulates grid by grid in chronological order, and must not disappear, be replaced, change color, change style or suddenly increase clothing that does not exist in the reference image; the same character, the same set of clothing, the same boudoir, and the same era atmosphere run through the nine grids. The actions must have clear evidence of dressing behavior, such as taking clothes, putting on clothes, wearing sleeves, tidying the collar, tying the waist seal, tidying in the mirror, tidying the skirt hem, wearing shoes, and wearing jewelry, so that the nine grids form a real and continuous Getting Dressed visual narrative. The background is a elegant Song Dynasty boudoir, wooden lattice windows, light curtains, wooden clothes racks, simple dressing tables and bronze mirrors, clothing boxes, low couches, simple screens, a few scrolls and flower branches; the space is elegant, localized, with a real sense of living, avoiding excessive stacking of antiques; cream, light wood, blue-gray, light cyan tones, echoing naturally with the reference clothing. Natural window light enters the room, soft light and shadow, real ancient style portrait photography, high-end magazine editorial feel, real natural skin quality, exquisite makeup, smooth and shiny hair; embroidery, stitching, folds, metal accessories, translucent fabrics and clothing levels are clear and natural. The nine-grid must have clear time continuity: Grid 1 is the initial state, Grid 9 is the final state, and each grid in the middle is a non-skippable transition state; keep the character face, hairstyle, clothing color, clothing style, spatial structure, light direction and overall photography texture highly consistent; the character's posture can change naturally according to the real dressing behavior, standing, sitting, bending, tidying clothes and other movements can appear, but the character's identity and clothing state must not be changed. No different characters, different clothing, modern furniture, modern clothing, modern items, sudden scene changes, photography style changes, sudden disappearance of clothing, sudden increase of clothing, repeated steps, extra characters, text, numbers, titles, watermarks or brand logos.",
+    "title": "Song Dynasty Dressing Grid",
+    "description": "A complex 9-grid sequential prompt illustrating a woman dressing in traditional Song Dynasty fashion within a detailed period boudoir.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029068983_vns6lc_HRxAt0jbsAAv4cd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34230,
+    "content": "Ultra-realistic lifestyle selfie photograph. Do not change the woman's face. Preserve 100% facial identity, facial features, proportions, eye shape, skin tone, hair color and overall appearance exactly as the reference. Shot on iPhone with built-in flash in complete darkness. Composition: Strictly a handheld selfie taken with an extended arm. The phone itself must NOT be visible in the frame. Close-up portrait selfie. Camera positioned slightly above eye level and angled slightly downward toward the face. Natural front camera perspective with realistic selfie distortion. Motion: {argument name=\"subject movement\" default=\"A spontaneous candid moment captured mid-movement. At the exact moment the photo is taken, the woman quickly turns her head to the right, creating natural motion blur\"}. Her face remains recognizable. Her long hair follows the movement with realistic motion trails and soft blur on individual strands. The body, clothing and background remain sharp. No artificial blur. Pose: The woman is holding the phone with her right arm extended forward, outside the frame. Her left arm is raised behind her head with the elbow bent. Calm, confident expression with a natural spontaneous feeling. Hair: Very long thick hair falling below the waist. Loose hairstyle with voluminous soft curls. Clothing: {argument name=\"clothing\" default=\"White fitted long-sleeve top made of smooth stretchy fabric\"}. Accessories: Small heart-shaped earrings. Short square French manicure. Makeup: Thin cat-eye eyeliner. Soft contouring. Lips with a blended brown lip liner effect. Natural glowing skin texture with visible pores, realistic imperfections. Environment: {argument name=\"environment\" default=\"Open field with tall grass stretching into the distance. Night landscape. Deep blue evening sky with small crescent moon\"}. Lighting: Strong direct built-in iPhone flash illuminating the face and clothing. High contrast between illuminated subject and dark surroundings. Photography style: Authentic iPhone night flash selfie. Candid captured moment. 35mm film look, subtle digital noise, natural grain, realistic lens imperfections. Maximum photorealism. No AI beauty effect. No text. No watermark.",
+    "title": "Authentic iPhone Night Flash Selfie",
+    "description": "A highly detailed prompt for an authentic nighttime selfie with motion blur, designed to test facial identity preservation across different models.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029032562_d45ymt_HRxHFQOaYAA7Hdu.jpg",
+      "https://cms-assets.youmind.com/media/1789029031956_k5boh4_HRxHUX2bIAAllAn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34266,
+    "content": "A 9:16 vertical hyper-realistic fashion editorial photograph. The scene is {argument name=\"scene\" default=\"inside a crowded Tokyo late-night train carriage\"}. Using a harsh, direct-flash paparazzi documentary style, the image is filled with a sense of {argument name=\"atmosphere\" default=\"crowding, sweltering heat, pressure, and urban claustrophobia\"}.",
+    "title": "Tokyo Subway Crowded Documentary Photography",
+    "description": "A prompt for generating hyper-realistic documentary-style photography of a crowded Tokyo subway at night, using a harsh flash aesthetic to create a sense of urban claustrophobia.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029077529_h31cen_HRxGBdRasAEGdHa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34207,
+    "content": "Create a realistic two-panel editorial travel diary poster using the first image as the exact composition/reference and the second uploaded image as the facial reference.\\n\\nReplace the woman in the original poster with the woman from my reference photo. Preserve my facial identity and recognizable facial features accurately—face shape, eyes, eyebrows, nose, lips, skin tone, and natural proportions. Do not beautify, alter, or redesign my face.\\n\\nTOP PANEL\\n\\nRecreate the original street scene exactly:\\n\\nEuropean-style narrow cobblestone street\\n\\nHistoric cream-colored buildings\\n\\nCafé signs, windows, balconies, street lamps and bollards\\n\\nSame camera angle, framing, perspective and composition\\n\\nSame seated/leaning pose and body position\\n\\nSame black textured sweater/coat\\n\\nNatural long dark hair\\n\\nSoft cinematic daylight\\n\\nPhotorealistic skin texture and realistic lighting\\n\\nIntegrate my face naturally with the original pose, head angle and lighting\\n\\nBOTTOM PANEL\\n\\nCreate the matching hand-drawn/printed illustration version of the same scene.\\n\\nKeep the same pose, clothing, hairstyle and facial identity\\n\\nConvert the photograph into a textured vintage editorial illustration\\n\\nBlue, cream and muted warm-orange ink palette\\n\\nVisible paper grain and imperfect ink texture\\n\\nKeep my facial features recognizable while matching the illustrated style\\n\\nPreserve the street, buildings, plants, cars and perspective from the original\\n\\nTYPOGRAPHY & LAYOUT\\n\\nKeep the original poster layout and typography style:\\n\\nLarge handwritten title: “{argument name=\"title\" default=\"By the Street\"}”\\n\\nSmall English diary text\\n\\nChinese text in the upper-left\\n\\nDate: {argument name=\"date\" default=\"2026.08.29\"}\\n\\nSmall diary number/details\\n\\nRight-side phrase: “{argument name=\"quote\" default=\"GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.\"}”\\n\\nMost important: My face should be the only facial identity used. Do not copy the original woman's face. Keep the overall poster composition, pose, clothing, background and artistic style as close to the reference as possible. High-quality, natural, seamless face integration, photorealistic top panel and authentic printed illustration bottom panel.",
+    "title": "Two-Panel Editorial Travel Diary Poster",
+    "description": "A complex prompt that creates a split-view poster featuring a photorealistic travel scene alongside a matching vintage-style ink illustration, preserving facial identity from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029009031_tf4cvr_HRxF4sIbgAAi0TT.jpg",
+      "https://cms-assets.youmind.com/media/1789029009024_jsqzis_HRxF4sEbsAI7Wqb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34247,
+    "content": "Use this image to generate a complete palmistry reading guide infographic. Pay attention to the lines on the palm, label key palm lines, perform a detailed palmistry analysis, and present the interpretation content on a {argument name=\"background color\" default=\"cream-white\"} background. The overall style should be a {argument name=\"visual style\" default=\"clean, minimalist, and elegant magazine editorial style\"}. Use thin lines, rounded corner cards, and sophisticated white space to create a high-end, premium feel. Focus on the palmistry interpretation itself.",
+    "title": "Minimalist Palmistry Guide Infographic",
+    "description": "A prompt to transform a hand photo into a professional magazine-style palmistry analysis infographic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029051589_5pp2nd_HRxF5NRbcAAUann.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34211,
+    "content": "Using my uploaded photo, show me what I would have looked like around {argument name=\"year\" default=\"1985\"}. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine {argument name=\"year\" default=\"1985\"} photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s {argument name=\"date stamp color\" default=\"red-orange\"} date stamp in the lower corner. No modern objects or text.",
+    "title": "1980s Vintage Retro Portrait",
+    "description": "Transforms a modern reference photo into a high-fidelity 1985-style photograph featuring period-accurate styling, grain, and a classic red date stamp.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029013648_djrsvv_HRxAB0FWcAAJ_O3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34253,
+    "content": "Create a premium editorial art poster for every uploaded photograph, treating each image as its own independent composition and never merging multiple photos together. Use a strict 3:4 vertical format with the canvas split into two perfectly equal horizontal halves: the upper half should remain a faithful, photorealistic presentation of the original image, preserving the subject’s exact identity, facial features, proportions, pose, clothing, objects, composition, lighting, shadows, mood, and natural colors, enhanced only with sophisticated editorial color grading and seamless environmental extension where necessary; the lower half should transform the visual story into an entirely different artistic interpretation—a {argument name=\"art style\" default=\"tiny, carefully composed handmade mixed-media artwork\"} centered within expansive {argument name=\"background color\" default=\"warm ivory\"} negative space, occupying no more than {argument name=\"image scale\" default=\"10–20%\"} of the lower section, using expressive ink sketching, layered gouache-like color fields, subtle collage textures, torn-paper edges, imperfect brushwork, visible fibers, soft pigment variations, and charming human imperfections while retaining the most recognizable silhouette, colors, and core visual elements of the original photograph.",
+    "title": "Premium Editorial Split-Canvas Poster",
+    "description": "A sophisticated prompt that transforms uploaded photos into a split-canvas editorial poster with mixed-media artistic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029064033_3qb8ej_HRw752FbsAA3YX0.jpg",
+      "https://cms-assets.youmind.com/media/1789029064227_lmzw5g_HRw76pUb0AAqLHs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34231,
+    "content": "Ultra-realistic cinematic editorial photograph of a {argument name=\"subject\" default=\"strikingly handsome young man in his early 20s\"} sitting casually outside a charming {argument name=\"location\" default=\"rustic wooden cabin deep in a peaceful pine forest\"}. He has thick, naturally wavy jet-black hair, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a {argument name=\"outfit\" default=\"stylish earthy-toned knit sweater\"}, dark trousers, and rugged leather boots. He sits on a simple wooden bench beside the cabin, surrounded by towering pine trees, moss-covered rocks, wild grass, and scattered fallen leaves. Warm golden-hour sunlight filters beautifully through the pine branches, creating soft rays and cinematic shadows. Rustic cabin with wooden walls, stone chimney, small glowing windows, and a cozy natural atmosphere in the background. Moody yet peaceful wilderness aesthetic, photorealistic skin texture, realistic fabric details, shallow depth of field, natural color grading, soft atmospheric haze, cinematic composition, 85mm lens, f/1.8, ultra-detailed, 8K, premium fashion editorial photography, no women, no text, no watermark.",
+    "title": "Rustic Cabin Forest Portrait",
+    "description": "An editorial photography prompt featuring a young man at a rustic wooden cabin during golden hour, set in a deep pine forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029032846_hpgbi3_HRw72a_bQAA9ZQV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34262,
+    "content": "Make the {argument name=\"target person\" default=\"person in image 2\"} wear the {argument name=\"clothing source\" default=\"T-shirt from image 1\"}",
+    "title": "Virtual Try-On Outfit Transfer",
+    "description": "A prompt for GPT Image 2.5 to perform a virtual try-on, transferring a T-shirt from one image onto a person in another image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029073015_6z6st5_HRw68rBakAAbaL5.jpg",
+      "https://cms-assets.youmind.com/media/1789029073371_5yh195_HRw68rFbsAAGD5d.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34284,
+    "content": "Enhance the details of the katana hilt. Naturally organize the handle wrap, guard, fittings, and accent accessories to make the whole piece clean and high-definition. No noise or dirt.",
+    "title": "Katana Detail Refinement",
+    "description": "An image refinement prompt for enhancing the details and textures of a katana hilt within ChatGPT.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029093232_uovvvu_HRw4rJNbsAA4KnO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34278,
+    "content": "a small road lost in the {argument name=\"location\" default=\"French countryside\"}, in the middle of the night and under a {argument name=\"weather\" default=\"thick mist\"}. Fields, a large tree, and an old farmhouse in the distance with a single window still lit.",
+    "title": "Misty Countryside Night with Old Farmhouse",
+    "description": "A mysterious night scene in the French countryside featuring thick fog, a lone tree, and a distant farmhouse with a single lit window.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029087383_0nuveq_HRw1NgrakAAfYES.jpg",
+      "https://cms-assets.youmind.com/media/1789029087438_6ij5qx_HRw1OUNagAAOiLw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34277,
+    "content": "a scene of a {argument name=\"location\" default=\"French street\"} under {argument name=\"weather\" default=\"steady rain\"} in the early evening. Passersby, umbrellas, cars, lighted shops, and reflections on the soaked pavement.",
+    "title": "Rainy French Street at Night",
+    "description": "A cinematic street scene in France during a heavy rain at twilight, featuring wet road reflections and illuminated shops.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029087002_qgp47x_HRw1E_wbcAAbfBO.jpg",
+      "https://cms-assets.youmind.com/media/1789029087032_74omvb_HRw1FjQaIAAvjra.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34276,
+    "content": "{argument name=\"character\" default=\"Link\"} removing the {argument name=\"object\" default=\"Master Sword\"} from its pedestal in the heart of an {argument name=\"location\" default=\"ancient Hyrule forest sanctuary\"}.",
+    "title": "Fantasy Link Pulling Master Sword",
+    "description": "A prompt for generating a scene of the character Link from Zelda pulling the Master Sword in a forest sanctuary.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029086371_uuigcw_HRw0_jRXIAAOtV0.jpg",
+      "https://cms-assets.youmind.com/media/1789029085664_zdsy6t_HRw1ANXXkAAILCj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34275,
+    "content": "A {argument name=\"subject\" default=\"lone man\"} in the middle of a field and a {argument name=\"object\" default=\"huge flying saucer\"} descending dangerously above him, as if it were about to take him away.",
+    "title": "Sci-Fi UFO Abduction Scene",
+    "description": "A dramatic science fiction scene featuring a man in a field being approached by a descending flying saucer.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029085472_w257p0_HRw03HLWQAAEjvm.jpg",
+      "https://cms-assets.youmind.com/media/1789029085569_akiv8t_HRw06f5bMAAriVP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34274,
+    "content": "a {argument name=\"animal\" default=\"young gray tabby cat\"} drinking directly from {argument name=\"water source\" default=\"a small stream\"} in the middle of a {argument name=\"environment\" default=\"lush green forest\"}.",
+    "title": "Cat Drinking from Forest Stream",
+    "description": "A peaceful nature scene of a young tabby cat drinking water from a small stream in a lush green forest.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029085060_pet2u3_HRw0vatWEAEovTY.jpg",
+      "https://cms-assets.youmind.com/media/1789029085164_g61go0_HRw0wI2XIAAxSX6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34273,
+    "content": "a selfie in the middle of {argument name=\"action\" default=\"a first parachute jump\"}. The person in the foreground, {argument name=\"instructor\" default=\"their instructor right behind them\"} and, much further away in the sky, {argument name=\"airplane\" default=\"the plane from which they just jumped\"}.",
+    "title": "Parachute Jump Action Selfie",
+    "description": "Captures the high-action moment of a first parachute jump, including the person, instructor, and the plane in the distance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029083465_uf35lj_HRw0mszbkAEE3yP.jpg",
+      "https://cms-assets.youmind.com/media/1789029083489_esadns_HRw0nspWAAAl4mz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34272,
+    "content": "{argument name=\"person\" default=\"an elderly man\"} gardening in {argument name=\"location\" default=\"a community garden\"} in the heart of a city, with {argument name=\"background\" default=\"apartment buildings and housing towers\"} visible in the distance.",
+    "title": "Elderly Man Gardening in Urban Setting",
+    "description": "A scene depicting an elderly man gardening in a community garden located in the heart of a city, with high-rise buildings in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029083007_y91uuv_HRw0VzuXoAAMiT5.jpg",
+      "https://cms-assets.youmind.com/media/1789029083095_rcdnag_HRw0ZGCWUAA39Xg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34236,
+    "content": "A high-angle, close-up selfie captures a young adult {argument name=\"ethnicity\" default=\"woman of Mediterranean or Southern European descent\"}, estimated to be in her early 20s, walking down a paved urban sidewalk. She has strong model-like features and full lips, with tanned olive skin and long, voluminous dark brunette hair styled loose around her shoulders. She wears bold gold hoop earrings and a thin gold necklace. Her outfit consists of a {argument name=\"top\" default=\"fitted black tank top with delicate spaghetti straps\"} and {argument name=\"bottom\" default=\"light tan, high-waisted trousers\"}, paired with flat sandals. The woman holds a black rectangular clutch and wears narrow, oval-shaped black sunglasses that reflect the sidewalk ahead. The building beside her has ornate, weathered stonework and ornate cutouts, lending a historic feel to the setting. In the background, a casually dressed man in sunglasses and white pants walks out of focus, suggesting a busy urban area. The image is lit by bright, indirect natural daylight, casting soft, diffuse highlights and subtle shadows across her face and clothing. The color palette is dominated by warm skin tones, stone beige, black, and taupe. Captured on a modern smartphone with sharp digital clarity, the wide-angle lens causes slight facial distortion toward the frame’s edge. The overall mood is confident, candid, and fashion-forward.\nHEX VALUES: [\"#67513f\", \"#92949a\", \"#848281\", \"#b5a694\", \"#c4beb1\", \"#170f0e\", \"#a0a6b1\", \"#776c61\", \"#ab9278\", \"#a66b4e\", \"#d48965\", \"#41332c\", \"#dfbf9e\", \"#e3a786\"]",
+    "title": "Realistic Urban Selfie Portrait",
+    "description": "A high-angle selfie capturing a woman in an urban setting with detailed descriptions of features, clothing, and environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029038827_fhwkp8_HRwxce9XEAAHmzY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34255,
+    "content": "{argument name=\"person\" default=\"an ordinary man\"} on {argument name=\"location\" default=\"a beach\"}, with {argument name=\"lighting\" default=\"gray light\"} and a very simple film framing",
+    "title": "Realistic Cinematic Beach Portrait",
+    "description": "A benchmarking prompt used to compare the realism of different AI models (including GPT Image 2.5) focusing on skin texture and lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029066362_95xs4i_HRwu-BRbEAADFC7.jpg",
+      "https://cms-assets.youmind.com/media/1789029066374_7510dk_HRwu-EsaIAAFXtV.jpg",
+      "https://cms-assets.youmind.com/media/1789029066387_2wxudh_HRwu-BNboAAOQDK.jpg",
+      "https://cms-assets.youmind.com/media/1789029067343_46w3xu_HRwu624bIAAaXNz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34190,
+    "content": "make me a realistic iphone photo of a {argument name=\"subject\" default=\"woman\"} in a {argument name=\"location\" default=\"cafe\"}",
+    "title": "Realistic iPhone Cafe Portrait",
+    "description": "A simple, effective prompt for generating realistic smartphone-style photos of a person in a cafe setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029003919_txlber_HRwuCVkaQAAJS1X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34205,
+    "content": "Create a 128px simplified pixel art sprite sheet of {argument name=\"action\" default=\"combat\"} movements for this character. Please make it transparent and arrange it in a 4x4 grid format.",
+    "title": "Pixel Art Sprite Sheet Generation",
+    "description": "A professional prompt for creating transparent pixel art combat sprite sheets in a 4x4 grid format based on a character reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029080855_8y9tee_HRwm5pdbcAAUA4H.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34238,
+    "content": "Use case: Scientific education image. Material type: High-definition vertical textbook page redraw. Main requirement: Redraw the Chinese calculus textbook page from the reference image into a clear, refined educational page. Keep the double-column structure, hierarchy, and layout, but redraw all content. Style: Modern Chinese university math textbook style. Clean white paper, clear printing, professional math formula typesetting, vector-like function graphs. Composition: Vertical page. Top left displays page number \"{argument name=\"page number\" default=\"214\"}\", top right displays chapter \"{argument name=\"chapter name\" default=\"Chapter 4 Applications of Derivatives\"}\". Main title in blue: \"{argument name=\"title\" default=\"4.3 Tangent Lines and Linear Approximation\"}\". Includes: introduction text, yellow definition boxes, function curves, green example boxes, and definite integral diagrams. Mathematical content must include tangent equations, linearization formulas, and example functions. Color scheme: Cobalt blue titles, light blue sidebars, light yellow definition boxes, mint green example boxes, and specific colors for function curves (blue) and tangents (red). Final result should look like a fresh, print-ready textbook page.",
+    "title": "Calculus Textbook Page Redesign",
+    "description": "A highly detailed prompt for redrawing scientific and educational materials, specifically a university calculus textbook page, with precise layout and mathematical formulas.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029041603_xoued7_HRwm5DpXkAAtz-O.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33971,
     "content": "Subject: Looking back on a {argument name=\"court color\" default=\"orange\"} court.\n\nMain Subject: A vertical portrait of an adult woman standing in the center of a sunny outdoor tennis court, looking back over her shoulder with her back to the camera.\n\nPerson/Expression: Face turned toward the camera over her right shoulder, with a calm expression and closed lips. Slim oval face, small chin, wide brown eyes, natural thin eyebrows, small nose, and pale pink lips. Long wavy light brown hair flowing down her back.\n\nClothing/Pose: A {argument name=\"top color\" default=\"mustard-colored\"} sleeveless top with a deep open back, and a {argument name=\"clothing\" default=\"short white pleated tennis skirt\"}. Weight on one leg with a slight twist of the hips, right hand holding a white racket down to the right, and the left arm resting naturally at her side.\n\nBackground/Lighting: A black net crossing the foreground at waist height, orange court in the background, green fence, trees, and blue sky. Hard direct noon sunlight from the top left illuminating the hair and shoulders, casting short shadows on the court.\n\nComposition/Camera: 4:5 vertical composition, knee-up photo from a diagonal rear angle with the camera at waist height. The subject is large and centered, with the net as a horizontal line in the foreground and the racket in the bottom right. Focus on the face and back, background slightly blurred, with the top of the head and the hem of the skirt within the frame.\n\nTexture/Style: Photorealistic live-action photo. Clearly captures the fine sheen of the hair, the stretch fabric of the top, the pleats of the skirt, the mesh of the net, and the dry surface of the court.\n\nNegative: Do not face forward; do not omit the net crossing in front of the waist or the racket in the bottom right.",
     "title": "Mustard Top Tennis Player Portrait",
@@ -10,12 +717,91 @@
     "needReferenceImages": false
   },
   {
+    "id": 34216,
+    "content": "Create a premium cute miniature 3D diorama of {argument name=\"landmark\" default=\"the Eiffel Tower\"}, {argument name=\"location\" default=\"Paris, France\"}. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.\n\nInclude minimal, tasteful text:\n{argument name=\"landmark\" default=\"the Eiffel Tower\"}\n{argument name=\"location\" default=\"Paris, France\"}\nFamous for: {argument name=\"description\" default=\"its iconic iron lattice tower on the Champ de Mars\"}",
+    "title": "Miniature 3D Landmark Diorama",
+    "description": "Generates elegant and charming 3D diorama versions of famous landmarks, styled as premium handcrafted travel souvenirs with soft pastel lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029018251_l498sn_HRwasJYagAAxSSa.jpg",
+      "https://cms-assets.youmind.com/media/1789029017960_gze6xe_HRwasJXa4AAdkHu.jpg",
+      "https://cms-assets.youmind.com/media/1789029017908_a0ug8z_HRwasJhbgAAnvdI.jpg",
+      "https://cms-assets.youmind.com/media/1789029019300_xx019c_HRwasJebAAAUL2Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34264,
+    "content": "Spring flower market street shoot, 9:16; {argument name=\"age\" default=\"18–22 years old\"}, clearly adult beautiful East Asian female, about 1.75 meters, exquisite features, cool white transparent skin, tall and slender model figure, chest visual about natural E cup. Voluminous wool curl long hair, half-tied high ponytail; {argument name=\"clothing\" default=\"milky white large deep V long trench-style leather coat\"}, paired with boots, sweet, cool, and high-end. Pure white flower stall, chamomiles and tulips blooming in layers, white cloth curtains, spring sunshine, soft mist milky white atmosphere. Top-down close-up street shoot feel, shallow depth of field blur, highlighting petals, leather luster, cool white skin tone, nose bridge highlights, and exquisite hand details. Freely play with different bouquets, hand gestures, top-down angles, hair strands, light, and street shoot compositions around various actions, pursuing the spring flower market × milky white soft mist × high-end fashion editorial feel. Produce a comprehensive preview image containing different actions for me to choose from.",
+    "title": "Spring Flower Market Editorial",
+    "description": "A sophisticated prompt for a high-fashion editorial style street photo set in a spring flower market with soft, milky-white lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029075104_9h0yk1_HRv8rAsaQAAGflA.jpg",
+      "https://cms-assets.youmind.com/media/1789029075095_eychpo_HRv8rA8boAAfcxL.jpg",
+      "https://cms-assets.youmind.com/media/1789029075217_se5y40_HRv8rA1bAAAKVeC.jpg",
+      "https://cms-assets.youmind.com/media/1789029076279_vo3tm6_HRv8rAybwAAV0hT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34202,
+    "content": "Create an image of a camera dome with {argument name=\"ring count\" default=\"3\"} rings, {argument name=\"points per ring\" default=\"16\"} points per ring, for a total of {argument name=\"total points\" default=\"48\"} points.",
+    "title": "Camera Dome 48-Point View Setup",
+    "description": "A technical prompt for creating a camera dome layout with specific ring and point configurations for consistent 360-degree views.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029059766_hhpnpo_HRwWaiwbQAAzyqi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 33967,
     "content": "In contrast to {argument name=\"contrast character\" default=\"Reina Shiratsuki\"}, let's make a {argument name=\"character trait\" default=\"dark fox girl. Dark skinned\"}",
     "title": "Dark Fox Dark Skinned Girl Character",
     "description": "A character generation prompt to design a dark-skinned, dark fox anime girl character contrasting a previously created character.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1788942304946_ew8s5o_HRwVnjxaIAA7Xv3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34196,
+    "content": "Keeping the face, hairstyle, costume, color scheme, and physique of the attached {argument name=\"character\" default=\"character\"} consistent, generate four types of pixel art motions for a game onto a single sprite sheet image, with each motion having a maximum of 4 frames. The size of one frame is 256x256px.\n- {argument name=\"action 1\" default=\"Running\"}: Lean forward and move limbs alternately in a large range.\n- {argument name=\"action 2\" default=\"Jumping\"}: Squat → Leap up → Spread limbs in mid-air → Land.\n- Whirlwind Attack: Front → Side → Back → Opposite Side, completing one full rotation of the body.\n- Falling: Stagger → Lean sideways → Lie down → Close eyes and stop moving.\nArrange each action in a single horizontal row, aligning the size, feet placement, center, and scale of all cells. The background must be a completely solid color. Do not use shadows, text, frames, numbers, UI, blurring, semi-transparency, gradients, or anti-aliasing. Ensure that loop actions connect naturally between the start and end.",
+    "title": "Character Motion Sprite Sheet",
+    "description": "A detailed prompt for generating a pixel art sprite sheet with four specific game motions (run, jump, attack, fall) based on a reference character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029055518_gc0qtc_HRwUUDuaoAAATpg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34220,
+    "content": "{argument name=\"subjects\" default=\"three people\"}, {argument name=\"arrangement\" default=\"tallest on the left, one behind the other two\"}, {argument name=\"center object\" default=\"red chair\"} between them",
+    "title": "Spatial Subject Arrangement",
+    "description": "A simple spatial prompt for testing model comprehension of object placement and character positioning.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029022169_p5tk3i_HRwSZR-bwAAOqxB.jpg",
+      "https://cms-assets.youmind.com/media/1789029022188_piel93_HRwSZpzbcAApkrl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34214,
+    "content": "Use the uploaded image as the main composition, pose, wardrobe, lighting, and environment reference. Create a photorealistic full-body editorial portrait of an {argument name=\"subject\" default=\"adult man\"} standing confidently inside a creative photography installation covered entirely with instant-film photographs. Position the subject in the center of the frame, facing directly toward the camera with a calm, composed expression. Keep his posture relaxed and natural, with one hand casually inside his trouser pocket while the other hangs beside his body. Dress him in a {argument name=\"clothing\" default=\"relaxed gray short-sleeve button-up overshirt\"}, worn open over a fitted black-and-white horizontal striped T-shirt. Pair it with loose-fitting black cargo trousers and clean white low-top sneakers. Add subtle clear-frame eyeglasses and a minimal bracelet for a contemporary casual-streetwear look. Create a striking corner-room environment where both walls and the entire floor are densely covered with hundreds of overlapping Polaroid-style instant photographs. Most images should be monochrome black-and-white portraits, landscapes, street photography, and artistic lifestyle shots, with occasional muted color photographs scattered naturally throughout. Arrange the prints organically at different angles and heights, creating a textured photography-gallery atmosphere. Use bright, soft studio lighting with balanced exposure, realistic skin texture, crisp clothing details, natural shadows, and excellent depth. Keep the subject sharply focused while maintaining enough detail in the surrounding photographs to emphasize the immersive installation. Style: contemporary editorial photography, artistic gallery installation, minimalist streetwear fashion, realistic DSLR quality, clean composition, subtle cinematic grading, ultra-detailed, natural proportions. Camera: eye-level full-body shot, 35–50mm lens, moderate depth of field. Aspect ratio: 2:3 vertical.",
+    "title": "Polaroid Gallery Installation Portrait",
+    "description": "A creative prompt that places a subject in a contemporary gallery installation entirely covered in Polaroid-style instant photos.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029016141_jpu9tf_HRwEhRQaYAA6QVK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34187,
+    "content": "Cybernetic horror portrait, {argument name=\"subject\" default=\"gaunt humanoid figure\"} with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, {argument name=\"outfit\" default=\"tattered dark fabric top\"}, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, {argument name=\"lens\" default=\"85mm lens\"}, shallow depth.",
+    "title": "Cybernetic Horror Portrait",
+    "description": "A striking cinematic prompt for generating a horror-themed portrait of a gaunt humanoid with a cracked porcelain mask and industrial cable attachments.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029031968_l1nl1o_HRwGeNGa0AAEpHk.jpg",
+      "https://cms-assets.youmind.com/media/1789029031951_kgstks_HRwGfKSasAAGKWv.jpg",
+      "https://cms-assets.youmind.com/media/1789029032001_3n45hm_HRwGf3CbkAExr-U.jpg"
     ],
     "needReferenceImages": false
   },
@@ -41,6 +827,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 34233,
+    "content": "cinematic, high-fidelity portrait of a {argument name=\"subject description\" default=\"young woman standing perfectly still on a subway platform\"} as a train rushes behind her. She has {argument name=\"hair style\" default=\"warm brown hair with soft bangs and a few loose strands blowing in the wind\"} created by the passing train. Her face is clear and sharp, featuring delicate freckles, soft makeup, and a calm, slightly pensive expression. She is wearing a cream-colored, off-the-shoulder ribbed knit sweater that emphasizes the soft texture of the wool. In her hands, she clutches a {argument name=\"flowers\" default=\"vibrant bouquet of orange and deep red gerbera daisies\"}, which serve as the primary color accent against her neutral clothing. The background is a dynamic, horizontal motion blur of a silver and yellow subway train, creating a high-contrast sense of speed against her stillness. The lighting is a blend of cool, overhead station light and warm highlights on her skin, captured with a shallow depth of field and a subtle cinematic film grain.",
+    "title": "Cinematic Subway Portrait with Gerbera Daisies",
+    "description": "A high-fidelity portrait of a woman standing on a subway platform, contrasting her stillness with the motion blur of a passing train while she holds a vibrant bouquet.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029034156_o5757j_HRv1P34a4AEJmNU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34085,
     "content": "Create a photorealistic cinematic split-screen interior still comparing two lighting moods, divided exactly down the vertical center by a thin straight seam. On the left half, show a cool monochrome minimalist studio corner with a smooth gray plaster wall and polished concrete floor; include exactly 2 geometric objects: a square concrete pedestal block near the lower left-center and a matte white sphere resting on top of it. Strong hard sunlight enters from an unseen window at the upper left, casting sharp diagonal window-frame shadows across the wall, the pedestal, and the floor, with a crisp oval shadow from the sphere. On the right half, show a warm amber-toned bohemian corner with a textured brown plaster wall and reflective concrete floor; include exactly 3 main objects: one small ceramic vase on the floor, one delicate bundle of dried branches inside the vase, and one sheer golden curtain hanging from the top right and pooling onto the floor. The right side lighting should be soft, diffused, glowing, and atmospheric, with mottled golden sunlight patterns on the wall and curtain. Use a wide 3:2 horizontal composition, symmetrical comparison layout, low camera height, realistic material textures, subtle floor reflections, no people, no text, no logos. The overall concept is {argument name=\"comparison theme\" default=\"hard light versus soft light\"}, with the left side in {argument name=\"left color mood\" default=\"cool grayscale minimalism\"} and the right side in {argument name=\"right color mood\" default=\"warm golden ambience\"}.",
     "title": "Split-Screen Hard vs Soft Light Interior",
@@ -51,14 +847,67 @@
     "needReferenceImages": true
   },
   {
-    "id": 33977,
-    "content": "Ultra-realistic cinematic editorial photograph of a strikingly handsome {argument name=\"subject\" default=\"young man in his early 20s\"} walking through a {argument name=\"location\" default=\"historic Old Delhi street\"} as if he has traveled back in time. He has thick, naturally wavy jet-black hair, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated modern outfit—a {argument name=\"outfit\" default=\"perfectly tailored black long coat over a minimalist cream shirt\"}, fitted dark trousers, and polished leather boots—creating a striking contrast with the ancient surroundings. Around him are magnificent Mughal-era architecture, weathered red-brick buildings, ornate balconies, old wooden doors, narrow winding lanes, traditional street stalls, hanging lanterns, cycle rickshaws, and atmospheric Old Delhi details. Subtle visual hints of time travel, such as a faint futuristic glow around him and a shimmering distortion in the air behind him. Warm golden-hour sunlight streams between the buildings, creating dramatic shadows and volumetric light rays. Cinematic composition, eye-level perspective, shallow depth of field, realistic skin texture, highly detailed environment, natural colors, atmospheric haze, 35mm photography, HDR, dramatic yet elegant mood, photorealistic, 8K, masterpiece.",
-    "title": "Cinematic Time Traveler in Old Delhi",
-    "description": "A striking editorial photograph prompt depicting a modern young man in a black coat walking through historical Mughal-era streets with subtle time-travel effects.",
+    "id": 34240,
+    "content": "Casual iPhone front camera snapshot, 9:16; a beautiful adult East Asian woman aged {argument name=\"age\" default=\"18–22 years old\"}, about {argument name=\"height\" default=\"1.75 meters\"} tall, with refined features, translucent cool white skin, a tall and slender model physique, and a natural {argument name=\"body detail\" default=\"E cup\"} bust. Dark, smooth, voluminous wavy long hair, wearing a light-colored slim-fit deep V camisole, revealing smooth neck and shoulder lines, round eyes, soft horizontal eyebrows, dark and clear eyes, light pink blush, and moist pink-toned lips, looking lazy and quiet.\n\nClose-up headshot in a dim indoor setting, blurred gray-white plush fabric background, cool weak light, low exposure, low saturation gray-white filter, low contrast, slight sharpening, soft focus hazy grain, casual and relaxed, clean and high-end, with a touch of melancholy and cool atmosphere.\n\nRandom action pool:\n\nOne hand cradling the face, palm against cheek and jaw, quietly looking at the camera\nElbow propping up the side of the face, slightly tilting the head in a daze\nHalf the face buried in the palm, lazy and empty gaze\nFingers lightly touching the chin and side of the face, looking down and then slowly raising eyes\nClose to the camera, palm cradling the face, long wavy hair falling in front of shoulders\nSide of the face against the back of the hand, gaze directed away from the frame\nCradling the cheek with shoulders slightly hunched, like a snapshot taken while drowsy\nPropping the face near a plush pillow, with a faint smile at the corner of the mouth\n\nFreely vary selfie distance, face-cradling style, gaze, hair strands, weak light, out-of-focus elements, and grain based on different actions, focusing on retaining close-up headshots, cool gray-white tones, and the quality of an iPhone front camera snapshot, pursuing a home dreamcore × melancholy atmosphere × high-end minimalist portrait feel.\n\nProduce a comprehensive preview image containing different actions for me to choose from.",
+    "title": "Moody Aesthetic iPhone Selfie Portrait",
+    "description": "A highly detailed prompt for generating a moody, low-light indoor portrait of an East Asian woman with an iPhone aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942309769_h7kvf6_HRveHTIbgAAVnBU.jpg"
+      "https://cms-assets.youmind.com/media/1789029040647_rywgnh_HRvpFKGbgAA7Xgm.jpg",
+      "https://cms-assets.youmind.com/media/1789029040701_hpv9ly_HRvpFKMbgAALrCj.jpg",
+      "https://cms-assets.youmind.com/media/1789029040611_hahc29_HRvpFKYbsAAReYv.jpg",
+      "https://cms-assets.youmind.com/media/1789029041329_grrzmu_HRvpFKWa0AE01l0.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 34235,
+    "content": "Using uploaded face as reference. \nCreate a cinematic, ultra-realistic fashion portrait of a stylish {argument name=\"subject\" default=\"young man with thick, voluminous dark hair and a neatly trimmed beard\"}, wearing {argument name=\"accessories\" default=\"red-framed black sunglasses, a black T-shirt, distressed black denim jacket, and a metal dog-tag necklace\"}. He is holding one finger vertically against his lips in a confident “shh” gesture. Dramatic warm studio lighting, sharp facial details, strong contrast, rugged streetwear aesthetic. {argument name=\"background\" default=\"Background features a distressed vintage wall with bold teal, cream, and red vertical paint sections, heavy grunge texture, paint splatters and black dripping paint\"}. Centered composition, waist-up portrait, editorial fashion photography, high detail, realistic skin texture, shallow depth of field, 4K, moody and stylish, poster-quality.",
+    "title": "Cinematic Fashion Portrait with Shh Gesture",
+    "description": "A gritty streetwear-inspired fashion portrait prompt utilizing a face reference, featuring dramatic lighting and a vintage grunge background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029037817_l92g7e_HRvvJ5PawAAyOmg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34221,
+    "content": "Photorealistic professional studio portrait of a {argument name=\"subject\" default=\"handsome Caucasian man in his late 30s\"}, short neatly styled dark brown hair with a subtle side sweep, light stubble and a well-defined jawline, wearing large rectangular {argument name=\"accessories\" default=\"vintage-inspired transparent brown/amber eyeglasses\"}. He has a calm, confident, serious expression, looking directly at the camera. Dressed in a {argument name=\"clothing\" default=\"minimalist beige/taupe bomber jacket over a plain off-white crew-neck T-shirt\"}. Upper-body composition, shoulders and chest visible, centered symmetrical framing. Warm neutral color palette, soft diffused studio lighting, subtle shadows, clean off-white background, natural skin texture, realistic facial details, premium fashion editorial photography, 85mm portrait lens, shallow depth of field, crisp focus on eyes and face, cinematic yet natural, high-end commercial photography, ultra realistic, 4K detail.",
+    "title": "Studio Portrait with Vintage Glasses",
+    "description": "A professional studio portrait prompt for a masculine subject, focusing on realistic skin textures and sophisticated lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029022410_9fhcu4_HRvq4XqbEAAcZIr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34222,
+    "content": "Use the uploaded image as the main facial identity and composition reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and natural appearance accurately.\n\nCreate a photorealistic urban lifestyle portrait of {argument name=\"subject\" default=\"an adult man\"} standing outdoors in a modern city during {argument name=\"time of day\" default=\"golden hour\"}. Frame him from about the chest upward in a relaxed three-quarter pose, facing slightly to one side with a calm, confident expression.\n\nDress him in {argument name=\"outfit\" default=\"a light blue washed denim jacket layered over a plain black crew-neck T-shirt\"}. Add a simple black baseball cap and stylish black rectangular sunglasses with subtle reflections in the lenses. Keep the styling clean, modern, masculine, and minimal, with no chain or unnecessary accessories.\n\nPlace him beside a tall black street pole, with modern glass skyscrapers and city architecture softly blurred in the background. Capture warm sunset light glowing between the buildings, creating golden highlights, soft rim lighting, and atmospheric city bokeh.\n\nUse shallow depth of field, realistic skin texture, natural facial details, crisp denim fabric texture, cinematic golden-hour lighting, soft background blur, premium street-fashion photography, DSLR realism, 85mm portrait-lens look, high detail, vertical 9:16 composition.",
+    "title": "Urban Golden Hour Male Portrait",
+    "description": "A detailed urban portrait prompt that uses a reference photo to maintain facial identity while placing the subject in a cinematic city setting during golden hour.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029023313_tzlkfa_HRuvzhVWUAAjzGW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33977,
+    "content": "Ultra-realistic cinematic editorial photograph of a strikingly handsome {argument name=\"subject\" default=\"young man in his early 20s\"} walking through a {argument name=\"location\" default=\"historic Old Delhi street\"} as if he has traveled back in time. He has thick, naturally wavy jet-black hair, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated modern outfit—a {argument name=\"outfit\" default=\"perfectly tailored black long coat over a minimalist cream shirt, fitted dark trousers, and polished leather boots\"}—creating a striking contrast with the ancient surroundings. Around him are magnificent Mughal-era architecture, weathered red-brick buildings, ornate balconies, old wooden doors, narrow winding lanes, traditional street stalls, hanging lanterns, cycle rickshaws, and atmospheric Old Delhi details. Subtle visual hints of time travel, such as a faint futuristic glow around him and a shimmering distortion in the air behind him. Warm golden-hour sunlight streams between the buildings, creating dramatic shadows and volumetric light rays. Cinematic composition, eye-level perspective, shallow depth of field, realistic skin texture, highly detailed environment, natural colors, atmospheric haze, 35mm photography, HDR, dramatic yet elegant mood, photorealistic, 8K, masterpiece.",
+    "title": "Cinematic Old Delhi Portrait",
+    "description": "A cinematic photograph prompt for a young man in an ancient urban setting, focusing on lighting, fashion, and architectural contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029039874_1s5igp_HRveHTIbgAAVnBU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34283,
+    "content": "Keep the composition and worldview of the {argument name=\"original design\" default=\"right one\"}, but recreate it from a male perspective. Change all the text.",
+    "title": "Male Perspective Design Transformation",
+    "description": "A prompt focused on modifying an existing graphic design to change its perspective and textual content while preserving the layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029093025_j1bxk6_HRvc0HEaIAAlJj4.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 34086,
@@ -72,13 +921,43 @@
   },
   {
     "id": 33958,
-    "content": "Please upscale this low-resolution image to high resolution.\n\nNo generation of artifacts is allowed. Completely maintain the original image's style, color painting, and composition, while thoroughly crushing noise areas to create a clear image.",
-    "title": "High Resolution Image Restoration Instruction",
-    "description": "A high-fidelity image enhancement prompt aimed at cleaning artifacts and noise while completely preserving the style, colors, and layout of the original image.",
+    "content": "Please upscale this low-resolution image to high resolution.\n\nDo not allow the generation of any artifacts. Completely maintain the art style, coloring, and composition of the original image while thoroughly eliminating noise to create a clear image.",
+    "title": "High-Resolution Image Restoration and Denoising",
+    "description": "A functional prompt for upscaling low-resolution, noisy images while maintaining original style, colors, and composition without adding unwanted artifacts.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942294082_y8x2zz_HRvWtOca8AA3CNW.jpg"
+      "https://cms-assets.youmind.com/media/1789029062928_jg7974_HRvWtOca8AA3CNW.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 34234,
+    "content": "create the most realistic possible image of the {argument name=\"subject\" default=\"most surreal thing you can imagine\"}",
+    "title": "Surreal Realism Imagination Prompt",
+    "description": "A short conceptual prompt for testing the model's ability to render surreal concepts with extreme realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029036587_whp81k_HRvSL1kacAAAoKk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34258,
+    "content": "create a spectrogram of {argument name=\"condition\" default=\"aortic stenosis\"}",
+    "title": "Aortic Stenosis Spectrogram Generation",
+    "description": "A medical visualization prompt for generating a spectrogram of aortic stenosis, later used for image-to-audio conversion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029071230_fb1i1h_HRvL4DYaUAAgInu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34263,
+    "content": "An ultra-realistic candid photograph of a grand European city street in 1765, just as a royal carriage passes through the crowd. Aristocrats in elaborate 18th-century clothing, powdered wigs, merchants, street vendors, children and curious spectators gather around. Ornate architecture, horses, flags, wooden carts and lanterns. Documentary composition, imperfect framing, authentic historical details, muted colors, aged photographic texture, subtle grain and natural expressions. No fantasy, no modern elements. An ultra-realistic candid photograph of a grand European city street in 1765, just as a royal carriage passes through the crowd. Aristocrats in elaborate 18th-century clothing, powdered wigs, merchants, street vendors, children and curious spectators gather around. Ornate architecture, horses, flags, wooden carts and lanterns. Documentary composition, imperfect framing, authentic historical details, muted colors, aged photographic texture, subtle grain and natural expressions. No fantasy, no modern elements.",
+    "title": "18th Century Royal Carriage Scene",
+    "description": "An ultra-realistic historical prompt for an 18th-century European street scene featuring a royal carriage and diverse crowds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029073636_gcgpgm_HRvJRmkbwAAmL-4.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 34081,
@@ -99,6 +978,16 @@
     "description": "A dreamy fantasy woodland scene of two flowering tree sprites sharing a glowing crystal, ideal for magical storybook or character art.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1788942382367_asil6m_HRvIBC4aoAAkqII.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34232,
+    "content": "Photorealistic 4:5 morning lifestyle photograph of the {argument name=\"subject\" default=\"same young adult woman\"}, preserving her recognizable facial features and overall appearance. She has long, naturally wavy {argument name=\"hair color\" default=\"auburn-red\"} hair, realistic individual hair strands, natural skin texture, subtle pores, tiny imperfections, realistic eyes with natural catchlights, and a genuine relaxed smile while looking directly into the camera. She is wearing modest, comfortable cream-colored home loungewear with a soft cardigan and neutral lounge pants, making fresh coffee in a {argument name=\"location\" default=\"sleek modern kitchen\"}.\n\nPhotography: professional cinematic smartphone photography, raw unretouched realism, natural morning sunlight, realistic skin tones, physically accurate shadows, subtle lens imperfections, authentic exposure, fine facial detail, natural depth of field, no beauty-filter effect, no plastic skin, no CGI appearance, no overly smooth face, no artificial eyes. Full head completely inside the frame with comfortable space above her hair, natural proportions, sharp facial focus.\n\nEnvironment: large luxury-modern kitchen with warm wood cabinetry, marble countertops, stainless-steel appliances, espresso machine, coffee beans, ceramic mug, croissant, fresh berries, flowers, indoor plants, tasteful minimalist décor, pendant lighting, large windows with a bright morning city view. Natural candid atmosphere, elegant architectural composition, realistic household details, premium editorial lifestyle photography, cinematic but believable.",
+    "title": "Morning Kitchen Lifestyle Photography",
+    "description": "A detailed prompt for creating photorealistic lifestyle photographs of a woman in a luxury modern kitchen during the morning.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029034103_p58z2o_HRu-i5VaAAAHGX_.jpg"
     ],
     "needReferenceImages": true
   },
@@ -132,6 +1021,16 @@
       "https://cms-assets.youmind.com/media/1788942310017_8lyw77_HRukwqCXgAA7Igv.jpg",
       "https://cms-assets.youmind.com/media/1788942310113_6at172_HRukxwwWoAAwmjF.jpg",
       "https://cms-assets.youmind.com/media/1788942311058_z6c5l8_HRuky6PWYAAoBTA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34208,
+    "content": "Ultra-realistic photo of {argument name=\"subject\" default=\"young woman in her 20s\"}, standing in {argument name=\"location\" default=\"Times Square, New York\"}, wearing {argument name=\"outfit\" default=\"an oversized beige trench coat and jeans\"}, candid pose, natural expression, golden hour lighting, shot on iPhone-style front camera, slight motion blur, realistic skin texture, busy city background with people and traffic slightly out of focus, photorealistic, 4K, 3:4 aspect ratio",
+    "title": "Candid iPhone Style City Portrait",
+    "description": "Generates a realistic social media style portrait with natural lighting and city background blur, mimicking an iPhone front camera shot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029009648_o53zay_HRuReF9akAE3Umn.jpg"
     ],
     "needReferenceImages": false
   },
@@ -293,6 +1192,16 @@
       "https://cms-assets.youmind.com/media/1788769178727_4yofzk_HRhUEDxbQAAqsOX.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 34282,
+    "content": "Xiaohongshu style candid outfit photo, young East Asian woman wearing {argument name=\"clothing\" default=\"pink and white gradient Hanfu shirt\"}, exaggerated figure, sitting on the railing of an {argument name=\"structure\" default=\"octagonal stone pavilion\"} by the lake, background is lotus flowers on the lake surface, summer evening breeze blowing the skirt, CCD camera shot, retro grain, warm yellow tint, {argument name=\"style\" default=\"2000s old photo texture\"}, girl's feet dangling, holding a lotus branch, tilting her head and smiling at the camera, clear focus, no strange halos, authentic snapshot vibe.",
+    "title": "Retro CCD Hanfu Lifestyle Photo",
+    "description": "A lifestyle prompt mimicking a 2000s vintage CCD camera shot of a young woman in Hanfu sitting by a lotus pond.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029090993_jnncwp_HRdk87AboAAHQeE.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 33540,
@@ -1713,6 +2622,16 @@
       "https://cms-assets.youmind.com/media/1781517882823_y6e38p_HKvv0HxaEAAJ_5Q.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 34270,
+    "content": "Creative synthetic photography, 9:16 vertical ratio, clean minimalist white background, studio lighting, high detail, sharp focus.\n\nA real [{argument name=\"daily object\" default=\"daily object\"}] is realistically placed in the frame and perfectly integrated as a key part of a hand-drawn black ink cartoon illustration.\n\nThe illustration style is simple, expressive line art with almost no shadows, like a sketch drawn on paper.\n\nThis [object] is cleverly transformed in the scene into [{argument name=\"scene element\" default=\"a key element in the scene (e.g., hair, weapon, body part, clothing, etc.)\"}], forming a visual pun or creative concept.\n\nCartoon characters interact with this real object in humorous, meaningful, or unexpected ways.\n\nOverall Style:\nRealistic object + thick black line illustration\nPerfect seamless fusion (Reality × Hand-drawn)\nClean negative space\nInteresting, creative, and expressive concept\nLike a combination of high-end product photography and graffiti art.",
+    "title": "Creative Object Illustration Synthesis",
+    "description": "A complex prompt for blending real-world objects into minimalist black-ink line art illustrations to create visual puns and creative concepts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029081409_sx0kct_HKvAJCsasAAAJU2.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 25177,
@@ -3243,6 +4162,18 @@
       "https://cms-assets.youmind.com/media/1778230120064_vc86xg_HHg2casa0AAUfzE.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 34281,
+    "content": "James Harden's performance in all Game 7 matches from his NBA debut to the 2026 playoffs, outputting a {argument name=\"style\" default=\"realistic style\"} {argument name=\"type\" default=\"infographic\"}",
+    "title": "James Harden Playoff Infographic",
+    "description": "A prompt for generating a realistic infographic detailing basketball player James Harden's performance across various Game 7 playoff series.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029091348_e7uclr_HHcQZqvakAAmrSR.jpg",
+      "https://cms-assets.youmind.com/media/1789029091344_fsdc48_HHcQbAvaUAAQbGg.jpg",
+      "https://cms-assets.youmind.com/media/1789029091330_sn8rhf_HHcQ7Tca4AA8Ugx.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 18366,

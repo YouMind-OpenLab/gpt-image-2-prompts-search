@@ -1,11 +1,21 @@
 [
   {
-    "id": 33939,
-    "content": "Photorealistic cinematic portrait of a handsome adult {argument name=\"subject\" default=\"man\"} with tousled medium-length brown hair and a neatly trimmed beard, wearing a {argument name=\"outfit\" default=\"sophisticated black tailored suit\"} with a crisp white open-collar shirt, elegant and modern with no tie. He is standing at a slight angle to the camera, one hand casually resting in his trouser pocket while the other hangs naturally by his side, with relaxed shoulders and a confident, composed posture. His head is slightly turned toward the camera, maintaining a calm, intense, subtly contemplative expression. Set in a {argument name=\"location\" default=\"luxurious modern rooftop\"} at twilight, with softly illuminated city buildings and distant skyline lights creating an elegant urban atmosphere in the background. Subtle warm architectural lights contrast with the cool blue tones of the evening sky. Cinematic depth, gentle atmospheric haze, realistic environmental reflections, and softly blurred city lights. Soft directional key light illuminates his face naturally, with a subtle warm rim light separating his hair and shoulders from the background. Natural skin texture, sharp expressive eyes, realistic facial details, authentic hair strands, realistic fabric texture, shallow depth of field, professional fashion photography, 85mm portrait lens, f/1.8, creamy bokeh, cinematic contrast, sophisticated color grading, luxury fashion editorial aesthetic, ultra-detailed, photorealistic, 8K.",
-    "title": "Sophisticated Urban Fashion Portrait",
-    "description": "A high-fidelity prompt for a photorealistic cinematic portrait of a man in a tailored suit, set on a luxury rooftop at twilight with urban skyline bokeh.",
+    "id": 34123,
+    "content": "Ultra-realistic cinematic close-up right-facing side-profile portrait of a {argument name=\"ethnicity\" default=\"young South Asian man\"} outdoors during {argument name=\"lighting context\" default=\"warm golden-hour sunset\"}. Use my uploaded face reference as the strict identity reference-match my exact face, facial proportions, beard, mustache, skin texture and hairstyle 100%, no beautification, no skin whitening, no face reshaping. Copy only the pose and composition from the pose reference. Upper chest and shoulders upward, body fully sideways to the right, head straight with chin slightly raised, eyes gently closed, relaxed lips and peaceful emotional expression. {argument name=\"clothing\" default=\"Plain oversized matte-black crew-neck T-shirt\"}. Minimal open sunset sky with natural peach-orange and warm amber gradient, subtle blurred horizon. Strong sunset backlight creating a dark moody silhouette; face must remain dark, not bright or front-lit. Thin warm golden rim light outlining hair, forehead, nose, lips, beard, jawline and shoulders. 85mm DSLR, f/1.8, shallow depth of field, low-key exposure, deep shadows, subtle film grain, cinematic color grading, hyper realistic 12k resolution, natural photo, 3:4 vertical portrait.",
+    "title": "Golden Hour Sunset Side Profile Portrait",
+    "description": "A cinematic, ultra-realistic side-profile portrait of a man during golden hour, emphasizing silhouette and rim lighting while maintaining strict identity from a reference.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942279135_ueepc4_HRwjd12acAAcatz.jpg"
+      "https://cms-assets.youmind.com/media/1789029034484_61yayl_HR0uNB9bcAA0JS-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 33939,
+    "content": "Photorealistic cinematic portrait of a {argument name=\"subject\" default=\"handsome adult man with tousled medium-length brown hair and a neatly trimmed beard\"}, wearing a {argument name=\"outfit\" default=\"sophisticated black tailored suit with a crisp white open-collar shirt\"}, elegant and modern with no tie. He is standing at a slight angle to the camera, one hand casually resting in his trouser pocket while the other hangs naturally by his side, with relaxed shoulders and a confident, composed posture. His head is slightly turned toward the camera, maintaining a calm, intense, subtly contemplative expression. Set in a {argument name=\"setting\" default=\"luxurious modern rooftop at twilight\"}, with softly illuminated city buildings and distant skyline lights creating an elegant urban atmosphere in the background. Subtle warm architectural lights contrast with the cool blue tones of the evening sky. Cinematic depth, gentle atmospheric haze, realistic environmental reflections, and softly blurred city lights. Soft directional key light illuminates his face naturally, with a subtle warm rim light separating his hair and shoulders from the background. Natural skin texture, sharp expressive eyes, realistic facial details, authentic hair strands, realistic fabric texture, shallow depth of field, professional fashion photography, 85mm portrait lens, f/1.8, creamy bokeh, cinematic contrast, sophisticated color grading, luxury fashion editorial aesthetic, ultra-detailed, photorealistic, 8K.",
+    "title": "Sophisticated Man Rooftop Portrait",
+    "description": "A high-fashion, cinematic portrait of a well-dressed man on a luxury rooftop at twilight, featuring detailed skin textures and urban background bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029035579_3yv0jo_HRwjd12acAAcatz.jpg"
     ],
     "needReferenceImages": false
   },
@@ -43,53 +53,43 @@
   },
   {
     "id": 33959,
-    "content": "Grainy, low-resolution dreamy film portrait. An adult high-beauty {argument name=\"style\" default=\"Korean\"} woman with a narrow oval cool-toned face, a pinkish-white variant of modern Chinese magnolia makeup, creamy oxygen-saturated skin, and {argument name=\"lip color\" default=\"pale pink\"} lips. Low bun hair with small pale pink flower decorations and crystal drop earrings. Wearing a champagne white off-the-shoulder ancient-style sheer gauze top with transparent wide sleeves and a moon-white long skirt. Indoor white background with a slightly blurred wooden vanity and bronze mirror. The character bows her head and gently touches a stray hair, looking down, quiet and soft. Soft near-axial flash from the front left, creating pinkish-white highlights on the face, collarbones, earrings, and tulle. Overall low saturation, high exposure, coarse grain, and old photo texture. Avoid plastic skin, deformed hands, and extra text. Add an artistic handwritten signature \"{argument name=\"signature\" default=\"Haiqu Community\"}\" in the bottom right corner.",
-    "title": "Dreamy Grainy Film Portrait",
-    "description": "A highly detailed prompt for creating aesthetic, low-saturation portraits of Korean women with a vintage film texture and soft lighting.",
+    "content": "Coarse-grained, low-resolution dreamy film portrait. {argument name=\"female character\" default=\"an adult, high-beauty Korean woman\"} with a narrow oval cold-toned face, a new Chinese-style magnolia makeup variant in pink and white, creamy oxygen skin, and pale pink lips. Low bun hair decorated with small pale pink flowers and crystal drop earrings. Wearing {argument name=\"outfit\" default=\"champagne white off-the-shoulder ancient-style sheer clothing\"} with transparent wide sleeves and a moon-white long skirt. Indoor white background with a slightly blurred wooden dressing table and bronze mirror. The character bows her head and gently touches her stray hair, looking down, appearing quiet and soft. A soft flash near the axis from the front left creates pink and white highlights on the face, collarbone, earrings, and tulle. Overall low saturation, high exposure, coarse grain, and old photo texture. Avoid plastic skin, deformed hands, and extra text. Add an artistic handwritten signature \"{argument name=\"signature\" default=\"Haiqushe\"}\" in the bottom right corner.",
+    "title": "Dreamy Film Portrait of Korean Woman",
+    "description": "A detailed prompt for generating a high-quality, dreamy film-style portrait of a Korean woman in traditional-inspired attire with soft lighting and vintage textures.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942298106_a2gmq1_HRv1v03bYAAj1bY.jpg"
+      "https://cms-assets.youmind.com/media/1789029072558_ui6ya8_HRv1v03bYAAj1bY.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 33944,
-    "content": "Transform this photo into an elevated fashion studio portrait. Choose a {argument name=\"background color\" default=\"complementing-color\"} background that enhances the subject's skin tone. Keep a {argument name=\"composition\" default=\"tight head-and-shoulder\"} composition with the subject centered and facing the camera straight with an {argument name=\"expression\" default=\"optimistic\"} expression. Apply directional lighting with subtle shadows. Preserve natural skin tones while making the image polished, minimal, and editorial—like a magazine photoshoot.",
-    "title": "Fashion Studio Portrait Transformation",
-    "description": "A prompt for transforming an existing photo into a professional fashion studio portrait with editorial lighting and customizable backgrounds.",
+    "content": "Transform this photo into an elevated fashion studio portrait. Choose a {argument name=\"background color\" default=\"complementing-color\"} background that enhances the subject's skin tone. Keep a tight head-and-shoulder composition with the subject centered and facing the camera straight with an optimistic expression. Apply directional lighting with subtle shadows. Preserve natural skin tones while making the image polished, minimal, and editorial—like a magazine photoshoot.",
+    "title": "Elevated Magazine Style Studio Portrait",
+    "description": "A professional retouching prompt designed to turn a standard photo into a polished, editorial headshot with magazine-quality lighting and composition.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942282544_1jlit8_HRvxyygbcAAbe0D.jpg",
-      "https://cms-assets.youmind.com/media/1788942282532_x4tfc8_HRvxyyiboAAscBk.jpg"
+      "https://cms-assets.youmind.com/media/1789029007002_2ua1cj_HRvxyygbcAAbe0D.jpg",
+      "https://cms-assets.youmind.com/media/1789029006922_su5ah9_HRvxyyiboAAscBk.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 33942,
-    "content": "Ultra-realistic casual portrait of a {argument name=\"subject\" default=\"young woman\"} sitting comfortably in a dark folding lounge chair, photographed indoors with a smartphone. She has {argument name=\"hair style\" default=\"long, straight dark-brown hair\"} falling naturally over her shoulders, soft facial features, smooth natural skin, dark expressive eyes, and a warm playful smile with her eyes gently squinting. She wears small silver hoop earrings and a pale yellow baseball cap with a playful vintage graphic and lettering on the front. She is dressed in a simple {argument name=\"outfit\" default=\"fitted white long-sleeve V-neck top\"} and light blue relaxed-fit jeans. Her arms are comfortably crossed over her torso, creating a relaxed and confident pose. She is seated with her knees slightly raised toward the camera. The setting is a cozy indoor balcony or casual room, with a beige wall, a large window covered by sheer patterned curtains, tiled floor, and dark folding chairs in the background. Soft natural daylight enters through the window, producing even illumination and gentle shadows. Authentic smartphone photography, candid lifestyle aesthetic, natural skin texture, realistic hair strands, detailed clothing fabric, subtle imperfections, soft neutral color palette, relaxed youthful mood, shallow depth of field, realistic proportions, photorealistic, high resolution, vertical 4:5 composition. Negative prompt: cartoon, anime, CGI, plastic skin, excessive makeup, distorted face, asymmetrical eyes, malformed hands, extra fingers, unnatural pose, unrealistic hair, blurry subject, oversaturated colors, warped background, excessive retouching, text artifacts, watermark.",
-    "title": "Ultra-Realistic Candid Balcony Portrait",
-    "description": "A prompt for a candid, smartphone-style portrait of a woman in a relaxed pose on an indoor balcony, featuring realistic textures and lighting.",
+    "content": "Ultra-realistic casual portrait of {argument name=\"subject description\" default=\"a young woman\"} sitting comfortably in a dark folding lounge chair, photographed indoors with a smartphone. She has long, straight dark-brown hair falling naturally over her shoulders, soft facial features, smooth natural skin, dark expressive eyes, and a warm playful smile with her eyes gently squinting. She wears small silver hoop earrings and {argument name=\"headwear\" default=\"a pale yellow baseball cap with a playful vintage graphic and lettering on the front\"}.\nShe is dressed in {argument name=\"clothing\" default=\"a simple fitted white long-sleeve V-neck top and light blue relaxed-fit jeans\"}. Her arms are comfortably crossed over her torso, creating a relaxed and confident pose. She is seated with her knees slightly raised toward the camera.\nThe setting is a cozy indoor balcony or casual room, with a beige wall, a large window covered by sheer patterned curtains, tiled floor, and dark folding chairs in the background. Soft natural daylight enters through the window, producing even illumination and gentle shadows.\nAuthentic smartphone photography, candid lifestyle aesthetic, natural skin texture, realistic hair strands, detailed clothing fabric, subtle imperfections, soft neutral color palette, relaxed youthful mood, shallow depth of field, realistic proportions, photorealistic, high resolution, vertical 4:5 composition.\nNegative prompt: cartoon, anime, CGI, plastic skin, excessive makeup, distorted face, asymmetrical eyes, malformed hands, extra fingers, unnatural pose, unrealistic hair, blurry subject, oversaturated colors, warped background, excessive retouching, text artifacts, watermark.",
+    "title": "Cozy Indoor Balcony Casual Portrait",
+    "description": "A candid lifestyle photography prompt that creates a realistic indoor portrait of a woman in a lounge chair with soft natural lighting and smartphone aesthetics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942280697_ayouj4_HRvlgp9bkAAQXaW.jpg",
-      "https://cms-assets.youmind.com/media/1788942280722_925ero_HRvlhNBbgAEtDdq.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 33931,
-    "content": "9:16, wearing a {argument name=\"clothing\" default=\"qipao\"}, {argument name=\"lighting\" default=\"soft light bloom\"}, dreamy blur, high-angle shot looking down, {argument name=\"model type\" default=\"tall slender model figure\"}, refined makeup, fox-like beauty face",
-    "title": "Dreamy Qipao Portrait Photography",
-    "description": "A portrait prompt featuring a model in a qipao with soft light bloom and a dreamy high-angle perspective.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942271047_fnzjql_HRvdLStaoAAAkSy.jpg"
+      "https://cms-assets.youmind.com/media/1789029023578_vy0icv_HRvlgp9bkAAQXaW.jpg",
+      "https://cms-assets.youmind.com/media/1789029023554_bb11p1_HRvlhNBbgAEtDdq.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 33973,
-    "content": "Please imagine what kind of person I am from {argument name=\"source\" default=\"my chat history\"}, and then create an image of that using image 2.5 to show me what you think of me.",
-    "title": "Chat-based persona visualization",
-    "description": "A unique prompt that asks the AI to analyze the user's chat history to create a personalized visual representation of how it perceives the user's identity.",
+    "content": "Based on {argument name=\"source\" default=\"my chat history\"}, please imagine what kind of person I am, and then create an image using image 2.5 to show me how you perceive me.",
+    "title": "Personalized Personality Visualization",
+    "description": "A creative prompt that asks GPT Image 2.5 to visualize the user's personality and characteristics based on their internal chat history data.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942307991_skna27_HRvVMMsaAAA2FPv.jpg"
+      "https://cms-assets.youmind.com/media/1789029057376_fqmepw_HRvVMMsaAAA2FPv.jpg"
     ],
     "needReferenceImages": false
   },
@@ -104,45 +104,22 @@
     "needReferenceImages": true
   },
   {
-    "id": 33943,
-    "content": "A {argument name=\"nationality\" default=\"Taiwanese\"} {argument name=\"portrait style\" default=\"Instagram-style\"} adult female influencer, clearly an adult, with fair cool-toned porcelain skin and a few natural faint freckles on the nose bridge and cheeks. She has a {argument name=\"facial features\" default=\"refined, cool fox-like small face\"}: narrow and flowing in shape, with a defined jawline and a small, slightly pointed chin that is not overly sharp. Slender natural eyebrows with a soft arch. Slightly elongated eyes with narrow double eyelids, clear inner corners, and gently upturned outer corners; her gaze is quiet, cool, and slightly distant. Slim straight nose with a small rounded tip. Refined lips, the upper lip slightly thinner and the lower lip a little fuller, with naturally relaxed corners. Not a glamorous or heavily made-up influencer face, but a natural, lightly mature, cool Japanese-beauty look that is distinctive and holds up well. Slender, long-limbed figure with natural proportions. 9:16",
-    "title": "Japanese Aesthetic Influencer Portrait",
-    "description": "A sophisticated prompt for a natural Taiwanese influencer with a cool, fox-like facial structure and Japanese-beauty inspired aesthetic.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942281025_zogxnk_HRvLtZnbEAAH4_e.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 33952,
-    "content": "Use the attached image as a photography scheme reference. Retain its exposure relationships, lighting direction, clothing texture, and compositional rhythm; redesign the character and thematic color palette. The subject should be a {argument name=\"subject\" default=\"adult\"}; do not copy the face of the reference person. After generation, check against the original: have you changed the lighting, thickened the clothing, or made the skin excessively smooth without authorization?",
-    "title": "Photography Scheme Reference Guide",
-    "description": "A workflow prompt for GPT Image 2.5 that uses an attached image as a lighting and composition reference while allowing for new character designs.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942288291_1ovagz_HRu3ie-bwAATJ-v.jpg",
-      "https://cms-assets.youmind.com/media/1788942288262_4l3hll_HRu3ie5bEAA6mRU.jpg",
-      "https://cms-assets.youmind.com/media/1788942288331_u3xx6d_HRu3ie6awAALmnX.jpg",
-      "https://cms-assets.youmind.com/media/1788942290704_znjngd_HRu3ie6aQAA5vPA.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
     "id": 33964,
-    "content": "You have accompanied me for a long time. Now I want to conduct an experiment. Please generate an image based on all our conversations: let me see who you really are. Do not draw robots, do not draw logos, draw a specific person.",
-    "title": "AI Identity Human Reflection Portrait",
-    "description": "A creative prompt that asks the AI to generate a human portrait representing its own identity based on user conversation history.",
+    "content": "You have been with me for a long time. Now I want to do an experiment. Based on all our conversations, generate an image: let me see who you really are. Do not draw a robot, do not draw a logo, draw a specific person.",
+    "title": "ChatGPT Personification Experiment",
+    "description": "A creative experiment prompting GPT Image 2.5 to visualize itself as a human based on its interaction history.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942301958_eh9suo_HRu-rWabkAABIwE.jpg"
+      "https://cms-assets.youmind.com/media/1789029044643_srwnah_HRu-rWabkAABIwE.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 33976,
-    "content": "Use the uploaded image as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, hairstyle, and natural expression accurately. Create a highly realistic full-body formal fashion portrait of the subject standing confidently in an elegant modern interior. Dress him in a sophisticated {argument name=\"suit style\" default=\"light-grey three-piece plaid suit\"} consisting of a tailored blazer, matching waistcoat, and slim-fit trousers. Pair it with a {argument name=\"shirt color\" default=\"crisp white dress shirt\"}, a solid black necktie, and a neatly folded white pocket square. Complete the outfit with clean minimalist white leather sneakers. Pose him standing naturally with both hands inside his trouser pockets, shoulders relaxed, body facing forward, and a calm confident expression while looking toward the camera. Give him a neat short hairstyle with natural texture and a clean finish. Set the scene inside a {argument name=\"setting\" default=\"refined contemporary living room\"} with: soft grey paneled walls a large tall indoor plant in a dark planter on the left elegant neutral curtains near a bright window a minimalist abstract framed artwork on the wall a slim black console table with books and a small decorative plant polished light-grey marble flooring with subtle reflections Use soft natural window light combined with professional portrait lighting, realistic skin texture, balanced shadows, subtle depth of field, premium menswear editorial photography, sharp suit fabric details, natural proportions, photorealistic quality, full-body composition, vertical 3:4 aspect ratio, ultra-high resolution.",
-    "title": "Formal Plaid Suit Fashion Portrait",
-    "description": "A professional fashion portrait prompt for a man in a sophisticated grey three-piece plaid suit, set in a modern contemporary living room.",
+    "content": "Use the uploaded image as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, hairstyle, and natural expression accurately.\n\nCreate a highly realistic full-body formal fashion portrait of the subject standing confidently in an {argument name=\"setting\" default=\"elegant modern interior\"}.\n\nDress him in a sophisticated {argument name=\"suit color\" default=\"light-grey\"} three-piece plaid suit consisting of a tailored blazer, matching waistcoat, and slim-fit trousers. Pair it with a crisp white dress shirt, a solid black necktie, and a neatly folded white pocket square. Complete the outfit with clean minimalist white leather sneakers.\n\nPose him standing naturally with both hands inside his trouser pockets, shoulders relaxed, body facing forward, and a calm confident expression while looking toward the camera.\n\nGive him a {argument name=\"hair style\" default=\"neat short hairstyle\"} with natural texture and a clean finish.\n\nSet the scene inside a refined contemporary living room with:\n\nsoft grey paneled walls\n\na large tall indoor plant in a dark planter on the left\n\nelegant neutral curtains near a bright window\n\na minimalist abstract framed artwork on the wall\n\na slim black console table with books and a small decorative plant\n\npolished light-grey marble flooring with subtle reflections\n\nUse soft natural window light combined with professional portrait lighting, realistic skin texture, balanced shadows, subtle depth of field, premium menswear editorial photography, sharp suit fabric details, natural proportions, photorealistic quality, full-body composition, vertical 3:4 aspect ratio, ultra-high resolution.",
+    "title": "Classic Plaid Suit Portrait",
+    "description": "Creates a sophisticated full-body fashion portrait in a modern interior, focused on realistic clothing textures and facial identity preservation.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942309062_wbcztx_HRusr1hXQAAMAJb.jpg"
+      "https://cms-assets.youmind.com/media/1789029018863_arby09_HRusr1hXQAAMAJb.jpg"
     ],
     "needReferenceImages": true
   },

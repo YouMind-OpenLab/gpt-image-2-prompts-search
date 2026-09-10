@@ -10,43 +10,33 @@
     "needReferenceImages": true
   },
   {
-    "id": 33930,
-    "content": "Please capture a realistic screenshot from a fictional next-generation 3D open-world {argument name=\"game genre\" default=\"romance RPG\"}, presented from the male protagonist’s first-person perspective.  On the {argument name=\"location\" default=\"beach\"}, {argument name=\"character\" default=\"Morrigan Aensland from Darkstalkers\"} invites the protagonist to help her apply sunscreen.  The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.",
-    "title": "3D RPG Game Screenshot UI",
-    "description": "A detailed prompt for generating a realistic 3D open-world game screenshot complete with UI elements like a minimap, health bars, and dialogue subtitles.",
+    "id": 34141,
+    "content": "Referencing this character, create a 2D animation sprite sheet for a game. The content is \"{argument name=\"action\" default=\"fill in action\"}\". \n\nRepresent one continuous action across a total of 16 frames in a 4x4 grid.\n\n[Sprite Sheet Specifications] - Square canvas - 4 columns x 4 rows, total 16 frames - All 16 cells are exactly the same size - Ensure at least 10px margins on top, bottom, left, and right of each cell - No borders, grid lines, numbers, text, symbols, or UI required - Background is a single solid white color unified across all frames - Arrange frames in chronological order from top-left to right, and top row to bottom row.\n\n[Most Important: Fixed Size and Position] - Unify character scale across all 16 frames - No zooming in or out - Fix the ground baseline at the same height - Ensure the character's center position does not move significantly between frames - Change poses only as needed for movement.\n\n[Most Important: Fit Entirely Within Cells] - Everything including hair, clothes, limbs, weapons, accessories, effects, afterglow, and particles must fit inside each cell - Do not exceed cell boundaries - Do not violate the 10px margin safety area - Even if the action is large, do not adjust by shrinking the character - If necessary, keep effects or arm swings moderate to fit within the cell.\n\n[Drawing Strategy] - Clear silhouette readable as a 2D game sprite - Movement that connects naturally between frames - Prioritize continuity without breaking as animation material rather than a single illustration - Unify detail density, lines, coloring, and shading for each frame.",
+    "title": "2D Game Animation Sprite Sheet Generator",
+    "description": "A highly precise prompt for creating 2D game character animation sprite sheets in a 4x4 grid, focusing on character consistency and frame alignment.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942270977_8ylr3f_HRwgb9iaUAAcewg.jpg",
-      "https://cms-assets.youmind.com/media/1788942271159_zyqqko_HRwgg-ObEAAcuwA.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 33963,
-    "content": "Uniformly maintain the face, hairstyle, clothing, color scheme, and physique of the attached character, and generate a single sprite sheet image with 4 types of pixel art motions suitable for a game, with a maximum of 4 frames each. {argument name=\"frame size\" default=\"Each frame size is 256x256px\"}.\n- {argument name=\"motion 1\" default=\"Run: Lean the body forward and move arms and legs alternately in large motions.\"}\n- {argument name=\"motion 2\" default=\"Jump: Crouch -> Jump up -> Spread arms and legs in the air -> Land.\"}\n- Spin Attack: Rotate the whole body once: front -> side -> back -> other side.\n- Fall: Stumble -> Lean to the side -> Lie down -> Close eyes and stop moving.\nArrange one action per row in a horizontal line, keeping the size, feet placement, center, and scale consistent for all cells. The background must be a completely solid color. Do not use shadows, text, frames, numbers, UI, blurring, semi-transparency, gradients, or anti-aliasing. Ensure looping motions connect naturally from start to finish.",
-    "title": "Pixel Art Animation Sprite Sheet",
-    "description": "Generates a game-ready pixel art sprite sheet for a character, featuring four distinct motions: running, jumping, rotating attack, and falling, based on a reference image.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942302037_opsoch_HRwUfy9akAAttE3.jpg"
+      "https://cms-assets.youmind.com/media/1789029057361_wn8ppj_HRzfqcvaoAAI5gk.jpg",
+      "https://cms-assets.youmind.com/media/1789029057394_srfmku_HRzfqwpbsAAu5G_.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 33968,
-    "content": "Create a battle motion sprite sheet for this character. Simplified pixel art in {argument name=\"pixel size\" default=\"128px\"}, {argument name=\"grid layout\" default=\"4x4=16 frames\"}, with a transparent background. Include {argument name=\"motions\" default=\"4 idle / 4 punch / 4 kick / 4 hit\"}.",
-    "title": "Character Battle Motion Sprite Sheet",
-    "description": "A prompt for creating animation-ready pixel art sprite sheets. It instructs the model to generate a 16-frame grid of combat motions like punches and kicks based on a character image reference.",
+    "content": "Create a sprite sheet for this character's combat motions. {argument name=\"size\" default=\"128px\"} simplified {argument name=\"style\" default=\"pixel art\"}, 4x4=16 frames, transparent background. {argument name=\"actions\" default=\"Idle 4 / Punch 4 / Kick 4 / Hit 4\"}",
+    "title": "Pixel Art Combat Sprite Sheet",
+    "description": "Generates a 4x4 pixel art sprite sheet for character combat motions including idle, punch, kick, and hit states, designed for game development.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942305362_dbxlyr_HRwSI5iaAAAfB2G.jpg"
+      "https://cms-assets.youmind.com/media/1789029057366_2p63te_HRwSI5iaAAAfB2G.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 33951,
-    "content": "Based on the image I uploaded, design a set of 3D emoji 1:1 transparent sticker sheets, containing 9 different stickers arranged in a 3X3 grid. Each sticker should show a different expression, pose, or reaction. Leave wide and completely transparent gaps between the stickers. No background, shadows, or overlapping elements. Incorporate {argument name=\"emojis\" default=\"🚀🎉🥳🤟\"}.",
-    "title": "3D Emoji Sticker Sheet",
-    "description": "A creative prompt for generating a 3x3 grid of 3D transparent stickers based on a character reference, suitable for digital communication and branding.",
+    "content": "Based on the image I uploaded, design a set of {argument name=\"style\" default=\"3D emoji\"} 1:1 transparent sticker sheets, containing {argument name=\"sticker count\" default=\"9\"} distinct stickers. Arrange them in a 3x3 grid, with each sticker showing a different expression, pose, or reaction. Leave wide and completely transparent gaps between the stickers. No background, shadows, or overlapping elements, incorporating {argument name=\"emojis\" default=\"🚀🎉🥳🤟\"}.",
+    "title": "3D Transparent Sticker Sheet Designer",
+    "description": "Designed to create a grid of consistent character stickers with transparent backgrounds, perfect for custom 3D emoji sets or digital assets.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942289059_oo383r_HRwCF0SbsAE5IJP.jpg"
+      "https://cms-assets.youmind.com/media/1789029048622_329hr3_HRwCF0SbsAE5IJP.jpg"
     ],
     "needReferenceImages": true
   },

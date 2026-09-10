@@ -1,11 +1,24 @@
 [
   {
-    "id": 33939,
-    "content": "Photorealistic cinematic portrait of a handsome adult {argument name=\"subject\" default=\"man\"} with tousled medium-length brown hair and a neatly trimmed beard, wearing a {argument name=\"outfit\" default=\"sophisticated black tailored suit\"} with a crisp white open-collar shirt, elegant and modern with no tie. He is standing at a slight angle to the camera, one hand casually resting in his trouser pocket while the other hangs naturally by his side, with relaxed shoulders and a confident, composed posture. His head is slightly turned toward the camera, maintaining a calm, intense, subtly contemplative expression. Set in a {argument name=\"location\" default=\"luxurious modern rooftop\"} at twilight, with softly illuminated city buildings and distant skyline lights creating an elegant urban atmosphere in the background. Subtle warm architectural lights contrast with the cool blue tones of the evening sky. Cinematic depth, gentle atmospheric haze, realistic environmental reflections, and softly blurred city lights. Soft directional key light illuminates his face naturally, with a subtle warm rim light separating his hair and shoulders from the background. Natural skin texture, sharp expressive eyes, realistic facial details, authentic hair strands, realistic fabric texture, shallow depth of field, professional fashion photography, 85mm portrait lens, f/1.8, creamy bokeh, cinematic contrast, sophisticated color grading, luxury fashion editorial aesthetic, ultra-detailed, photorealistic, 8K.",
-    "title": "Sophisticated Urban Fashion Portrait",
-    "description": "A high-fidelity prompt for a photorealistic cinematic portrait of a man in a tailored suit, set on a luxury rooftop at twilight with urban skyline bokeh.",
+    "id": 34143,
+    "content": "Macro cinematic photography inside a {argument name=\"fruit\" default=\"peeled tangerine\"} resting on a dark stone surface. The peel folds outward like petals, forming a cave. Overhead, the citrus segments arch into a translucent orange dome, while the white pith reads like pale plaster.\n{argument name=\"occupants\" default=\"Three figures, each about two centimeters tall\"}, inhabit the cave: one lies on a citrus segment as if it were a bed; one climbs upward along the white pith ridge between two segments as if it were a staircase; one stands at the cave entrance looking out into darkness. A single tangerine seed lies on the ground, scaled like a massive millstone. Every membrane layer and every individual juice vesicle is fully resolved.\nA {argument name=\"lighting\" default=\"single low-angle sun\"} is positioned behind the fruit and is the only light source, producing true transmitted light through the citrus flesh. The orange brightness of the dome must come from light physically passing through the fruit itself, not from any artificial glow effect. Individual juice vesicles illuminate one by one in transmission, while thicker pith appears as darker veins. The cave floor is illuminated only by this transmitted light. Outside the cave entrance is completely black. No fill light.\nAnamorphic 2.39:1, anamorphic lens with macro adapter, f/4. Sparse defocused light points outside the cave appear as vertically oval bokeh with subtle horizontal anamorphic stretch. Deep focus, focus stacked.\nKodak Vision3 500T motion picture negative, tungsten white balance, warm saturated transmitted orange highlights with deep cyan shadows. Black Pro-Mist 1/4. Strong transmitted-light edges along the thinnest parts of the fruit show visible red halation.\nOverall exposure reduced by one stop. The darkness outside the cave remains truly black. Fine film grain, more visible in the shadows. No digital sharpening, no HDR, no orange-and-teal grading, no lens-flare effects, no artificial glow, no CGI plastic texture.",
+    "title": "Miniature World Inside a Tangerine",
+    "description": "A complex macro photography prompt depicting tiny humans living inside a peeled tangerine, focused on realistic light transmission through citrus segments.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942279135_ueepc4_HRwjd12acAAcatz.jpg"
+      "https://cms-assets.youmind.com/media/1789029036058_lv9sco_HRziPXvbMAA4nRd.png",
+      "https://cms-assets.youmind.com/media/1789029035902_ci958i_HRziQpAaQAAk4rM.png",
+      "https://cms-assets.youmind.com/media/1789029035897_thhubb_HRziSahbYAAv-Rm.png",
+      "https://cms-assets.youmind.com/media/1789029037213_eli82q_HRziTgcbkAAIjUD.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 33939,
+    "content": "Photorealistic cinematic portrait of a {argument name=\"subject\" default=\"handsome adult man with tousled medium-length brown hair and a neatly trimmed beard\"}, wearing a {argument name=\"outfit\" default=\"sophisticated black tailored suit with a crisp white open-collar shirt\"}, elegant and modern with no tie. He is standing at a slight angle to the camera, one hand casually resting in his trouser pocket while the other hangs naturally by his side, with relaxed shoulders and a confident, composed posture. His head is slightly turned toward the camera, maintaining a calm, intense, subtly contemplative expression. Set in a {argument name=\"setting\" default=\"luxurious modern rooftop at twilight\"}, with softly illuminated city buildings and distant skyline lights creating an elegant urban atmosphere in the background. Subtle warm architectural lights contrast with the cool blue tones of the evening sky. Cinematic depth, gentle atmospheric haze, realistic environmental reflections, and softly blurred city lights. Soft directional key light illuminates his face naturally, with a subtle warm rim light separating his hair and shoulders from the background. Natural skin texture, sharp expressive eyes, realistic facial details, authentic hair strands, realistic fabric texture, shallow depth of field, professional fashion photography, 85mm portrait lens, f/1.8, creamy bokeh, cinematic contrast, sophisticated color grading, luxury fashion editorial aesthetic, ultra-detailed, photorealistic, 8K.",
+    "title": "Sophisticated Man Rooftop Portrait",
+    "description": "A high-fashion, cinematic portrait of a well-dressed man on a luxury rooftop at twilight, featuring detailed skin textures and urban background bokeh.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029035579_3yv0jo_HRwjd12acAAcatz.jpg"
     ],
     "needReferenceImages": false
   },
@@ -43,43 +56,33 @@
     "needReferenceImages": true
   },
   {
-    "id": 33970,
-    "content": "Add a hand-drawn style overlay on top of the image. The finish should be stylish, relaxed, and casually effortless. Drawing rules: Use white hand-drawn lines that look like they were made with a pen. Maintain a rough, slightly irregular, single-stroke style. Add lines that trace the outer contours of the object. Use arrows and dotted lines to guide the viewer's eye. Text rules: Use {argument name=\"text style\" default=\"hand-drawn text\"}. Make it short, like a whispered thought from the heart. The tone should be {argument name=\"tone\" default=\"diary-like\"}, concise, and focused on emotion. Comments should be {argument name=\"comments\" default=\"positive and gentle\"}. Decorations: Add subtle touches like steam, sparkles, hearts, and small emoticon-like faces. Don't overdo it and leave some \"white space.\"",
-    "title": "Hand-drawn style overlay prompt",
-    "description": "A creative prompt designed for GPT Image 2.5 to add a stylish, casual, hand-drawn overlay to images. It uses white pen-style lines to trace contours and includes diary-like annotations for a personalized feel.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942306759_dzpoa0_HRvf3rrawAAW1pv.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 33940,
-    "content": "Use the uploaded image as the main composition, styling, pose, lighting, and environment reference. Create a photorealistic 1980s-inspired Miami lifestyle fashion portrait of an adult man standing beside a glossy {argument name=\"car color\" default=\"black\"} vintage {argument name=\"car type\" default=\"convertible\"} during golden hour. Frame him from approximately mid-thigh upward, leaning casually against the open driver-side door with a relaxed, confident expression while looking toward the camera. One hand rests naturally near the car while holding a pair of classic aviator sunglasses, and the other hand is casually tucked into his trouser pocket. Dress him in an elegant cream/off-white linen suit with a relaxed tailored blazer and high-waisted pleated trousers. Underneath, add a black open-collar shirt with the top buttons undone for a sophisticated retro look. Add a slim black leather belt with a polished gold buckle and a classic gold-tone wristwatch. Keep the styling refined, masculine, minimal, and authentic to the 1980s. Place the scene on a glamorous Miami Beach–inspired boulevard, surrounded by tall palm trees, pastel Art Deco architecture, outdoor cafés, vintage cars, and softly blurred pedestrians in the distance. Position a pastel pink-and-white Art Deco hotel building in the background to enhance the vintage South Beach atmosphere. Use warm late-afternoon sunlight, golden rim lighting around the subject, soft shadows, subtle lens flare, cinematic highlights reflecting across the black car, and a warm nostalgic film color grade. Add realistic skin texture, natural facial details, crisp linen fabric texture, shallow depth of field, soft atmospheric bokeh, subtle film grain, and premium editorial photography. Add handwritten cream-colored text “{argument name=\"overlay text\" default=\"1980’s\"}” in the upper-right corner with a loose underline stroke. Style: vintage luxury fashion campaign, 1980s Miami aesthetic, cinematic editorial photography, warm analog film look, realistic DSLR quality, 50mm lens, shallow depth of field, ultra-detailed, natural proportions, photorealistic. Aspect ratio: 4:5 vertical.",
-    "title": "1980s Miami Lifestyle Fashion Portrait",
-    "description": "Generates a photorealistic 1980s-inspired Miami fashion portrait of a man with a vintage car, utilizing a reference image for environment and pose.",
+    "content": "Use the uploaded image as the main composition, styling, pose, lighting, and environment reference. Create a photorealistic 1980s-inspired Miami lifestyle fashion portrait of an {argument name=\"subject\" default=\"adult man\"} standing beside a {argument name=\"car\" default=\"glossy black vintage convertible\"} during golden hour.\n\nFrame him from approximately mid-thigh upward, leaning casually against the open driver-side door with a relaxed, confident expression while looking toward the camera. One hand rests naturally near the car while holding a pair of classic aviator sunglasses, and the other hand is casually tucked into his trouser pocket.\n\nDress him in an elegant {argument name=\"outfit\" default=\"cream/off-white linen suit\"} with a relaxed tailored blazer and high-waisted pleated trousers. Underneath, add a black open-collar shirt with the top buttons undone for a sophisticated retro look. Add a slim black leather belt with a polished gold buckle and a classic gold-tone wristwatch. Keep the styling refined, masculine, minimal, and authentic to the 1980s.\n\nPlace the scene on a glamorous Miami Beach–inspired boulevard, surrounded by tall palm trees, pastel Art Deco architecture, outdoor cafés, vintage cars, and softly blurred pedestrians in the distance. Position a pastel pink-and-white Art Deco hotel building in the background to enhance the vintage South Beach atmosphere.\n\nUse warm late-afternoon sunlight, golden rim lighting around the subject, soft shadows, subtle lens flare, cinematic highlights reflecting across the black car, and a warm nostalgic film color grade. Add realistic skin texture, natural facial details, crisp linen fabric texture, shallow depth of field, soft atmospheric bokeh, subtle film grain, and premium editorial photography.\n\nAdd handwritten cream-colored text “{argument name=\"text\" default=\"1980’s\"}” in the upper-right corner with a loose underline stroke.\n\nStyle: vintage luxury fashion campaign, 1980s Miami aesthetic, cinematic editorial photography, warm analog film look, realistic DSLR quality, 50mm lens, shallow depth of field, ultra-detailed, natural proportions, photorealistic.\n\nAspect ratio: 4:5 vertical.",
+    "title": "1980s Miami Retro Fashion Portrait",
+    "description": "A comprehensive prompt for creating a nostalgic 1980s Miami lifestyle portrait of a man with a vintage convertible, emphasizing warm rim lighting and Art Deco backgrounds.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942279672_7tci74_HRwC47sa4AAeZBl.jpg"
+      "https://cms-assets.youmind.com/media/1789029005977_ywtaqq_HRwC47sa4AAeZBl.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 33935,
-    "content": "Ultra-realistic {argument name=\"ethnicity\" default=\"Asian\"} woman in her {argument name=\"age\" default=\"early 20s\"} wearing a {argument name=\"outfit\" default=\"stunning, elegant red one-piece dress\"} with a fitted silhouette, delicate fabric details, and a graceful neckline. Natural makeup, long silky dark hair, soft confident expression, feminine and sophisticated look, standing naturally in a luxurious modern setting. Cinematic soft lighting, realistic skin texture, natural body proportions, high-fashion editorial photography, subtle depth of field, premium magazine aesthetic, photorealistic, 4K, vertical 9:16.",
-    "title": "Ultra-realistic Red Dress Fashion Portrait",
-    "description": "A photorealistic prompt for generating an elegant portrait of a young woman in a stunning red dress, set in a modern luxurious environment with high-fashion lighting.",
+    "content": "Ultra-realistic {argument name=\"ethnicity\" default=\"Asian\"} woman in her early 20s wearing a stunning, elegant {argument name=\"dress color\" default=\"red\"} one-piece dress with a fitted silhouette, delicate fabric details, and a graceful neckline. Natural makeup, long silky dark hair, soft confident expression, feminine and sophisticated look, standing naturally in a {argument name=\"setting\" default=\"luxurious modern setting\"}. Cinematic soft lighting, realistic skin texture, natural body proportions, high-fashion editorial photography, subtle depth of field, premium magazine aesthetic, photorealistic, 4K, vertical 9:16.",
+    "title": "Editorial Fashion Portrait of Asian Woman",
+    "description": "A high-end magazine style prompt for a graceful portrait of an Asian woman in an elegant red dress within a modern luxury setting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942275494_hzh6mo_HRv3D8ra0AAaDAE.jpg",
-      "https://cms-assets.youmind.com/media/1788942275537_p5yj96_HRv3E-8bsAAxvsf.jpg"
+      "https://cms-assets.youmind.com/media/1789029024244_coejbh_HRv3D8ra0AAaDAE.jpg",
+      "https://cms-assets.youmind.com/media/1789029024282_7vg3sa_HRv3E-8bsAAxvsf.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 33959,
-    "content": "Grainy, low-resolution dreamy film portrait. An adult high-beauty {argument name=\"style\" default=\"Korean\"} woman with a narrow oval cool-toned face, a pinkish-white variant of modern Chinese magnolia makeup, creamy oxygen-saturated skin, and {argument name=\"lip color\" default=\"pale pink\"} lips. Low bun hair with small pale pink flower decorations and crystal drop earrings. Wearing a champagne white off-the-shoulder ancient-style sheer gauze top with transparent wide sleeves and a moon-white long skirt. Indoor white background with a slightly blurred wooden vanity and bronze mirror. The character bows her head and gently touches a stray hair, looking down, quiet and soft. Soft near-axial flash from the front left, creating pinkish-white highlights on the face, collarbones, earrings, and tulle. Overall low saturation, high exposure, coarse grain, and old photo texture. Avoid plastic skin, deformed hands, and extra text. Add an artistic handwritten signature \"{argument name=\"signature\" default=\"Haiqu Community\"}\" in the bottom right corner.",
-    "title": "Dreamy Grainy Film Portrait",
-    "description": "A highly detailed prompt for creating aesthetic, low-saturation portraits of Korean women with a vintage film texture and soft lighting.",
+    "content": "Coarse-grained, low-resolution dreamy film portrait. {argument name=\"female character\" default=\"an adult, high-beauty Korean woman\"} with a narrow oval cold-toned face, a new Chinese-style magnolia makeup variant in pink and white, creamy oxygen skin, and pale pink lips. Low bun hair decorated with small pale pink flowers and crystal drop earrings. Wearing {argument name=\"outfit\" default=\"champagne white off-the-shoulder ancient-style sheer clothing\"} with transparent wide sleeves and a moon-white long skirt. Indoor white background with a slightly blurred wooden dressing table and bronze mirror. The character bows her head and gently touches her stray hair, looking down, appearing quiet and soft. A soft flash near the axis from the front left creates pink and white highlights on the face, collarbone, earrings, and tulle. Overall low saturation, high exposure, coarse grain, and old photo texture. Avoid plastic skin, deformed hands, and extra text. Add an artistic handwritten signature \"{argument name=\"signature\" default=\"Haiqushe\"}\" in the bottom right corner.",
+    "title": "Dreamy Film Portrait of Korean Woman",
+    "description": "A detailed prompt for generating a high-quality, dreamy film-style portrait of a Korean woman in traditional-inspired attire with soft lighting and vintage textures.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942298106_a2gmq1_HRv1v03bYAAj1bY.jpg"
+      "https://cms-assets.youmind.com/media/1789029072558_ui6ya8_HRv1v03bYAAj1bY.jpg"
     ],
     "needReferenceImages": false
   },
@@ -92,17 +95,6 @@
       "https://cms-assets.youmind.com/media/1788942317915_kfeto3_HRvv1l2X0AAEB-v.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 33933,
-    "content": "A photorealistic candid travel portrait of a {argument name=\"subject\" default=\"young East Asian woman\"} standing on a {argument name=\"location\" default=\"quiet sandy shoreline beside large moss-covered rocks\"}, with a magnificent {argument name=\"landmark\" default=\"historic stone abbey and medieval castle-like architecture\"} rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera. She is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible. The composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood. Ultra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.",
-    "title": "Candid Travel Portrait European Coast",
-    "description": "A prompt for a realistic travel-style portrait of a woman standing in front of a historic stone abbey on a rocky island coastline.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942272775_tqfpdv_HRvuwVcasAAwAwf.jpg",
-      "https://cms-assets.youmind.com/media/1788942272782_00vw81_HRvuxTBacAA10A6.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 34046,
@@ -126,12 +118,12 @@
   },
   {
     "id": 33942,
-    "content": "Ultra-realistic casual portrait of a {argument name=\"subject\" default=\"young woman\"} sitting comfortably in a dark folding lounge chair, photographed indoors with a smartphone. She has {argument name=\"hair style\" default=\"long, straight dark-brown hair\"} falling naturally over her shoulders, soft facial features, smooth natural skin, dark expressive eyes, and a warm playful smile with her eyes gently squinting. She wears small silver hoop earrings and a pale yellow baseball cap with a playful vintage graphic and lettering on the front. She is dressed in a simple {argument name=\"outfit\" default=\"fitted white long-sleeve V-neck top\"} and light blue relaxed-fit jeans. Her arms are comfortably crossed over her torso, creating a relaxed and confident pose. She is seated with her knees slightly raised toward the camera. The setting is a cozy indoor balcony or casual room, with a beige wall, a large window covered by sheer patterned curtains, tiled floor, and dark folding chairs in the background. Soft natural daylight enters through the window, producing even illumination and gentle shadows. Authentic smartphone photography, candid lifestyle aesthetic, natural skin texture, realistic hair strands, detailed clothing fabric, subtle imperfections, soft neutral color palette, relaxed youthful mood, shallow depth of field, realistic proportions, photorealistic, high resolution, vertical 4:5 composition. Negative prompt: cartoon, anime, CGI, plastic skin, excessive makeup, distorted face, asymmetrical eyes, malformed hands, extra fingers, unnatural pose, unrealistic hair, blurry subject, oversaturated colors, warped background, excessive retouching, text artifacts, watermark.",
-    "title": "Ultra-Realistic Candid Balcony Portrait",
-    "description": "A prompt for a candid, smartphone-style portrait of a woman in a relaxed pose on an indoor balcony, featuring realistic textures and lighting.",
+    "content": "Ultra-realistic casual portrait of {argument name=\"subject description\" default=\"a young woman\"} sitting comfortably in a dark folding lounge chair, photographed indoors with a smartphone. She has long, straight dark-brown hair falling naturally over her shoulders, soft facial features, smooth natural skin, dark expressive eyes, and a warm playful smile with her eyes gently squinting. She wears small silver hoop earrings and {argument name=\"headwear\" default=\"a pale yellow baseball cap with a playful vintage graphic and lettering on the front\"}.\nShe is dressed in {argument name=\"clothing\" default=\"a simple fitted white long-sleeve V-neck top and light blue relaxed-fit jeans\"}. Her arms are comfortably crossed over her torso, creating a relaxed and confident pose. She is seated with her knees slightly raised toward the camera.\nThe setting is a cozy indoor balcony or casual room, with a beige wall, a large window covered by sheer patterned curtains, tiled floor, and dark folding chairs in the background. Soft natural daylight enters through the window, producing even illumination and gentle shadows.\nAuthentic smartphone photography, candid lifestyle aesthetic, natural skin texture, realistic hair strands, detailed clothing fabric, subtle imperfections, soft neutral color palette, relaxed youthful mood, shallow depth of field, realistic proportions, photorealistic, high resolution, vertical 4:5 composition.\nNegative prompt: cartoon, anime, CGI, plastic skin, excessive makeup, distorted face, asymmetrical eyes, malformed hands, extra fingers, unnatural pose, unrealistic hair, blurry subject, oversaturated colors, warped background, excessive retouching, text artifacts, watermark.",
+    "title": "Cozy Indoor Balcony Casual Portrait",
+    "description": "A candid lifestyle photography prompt that creates a realistic indoor portrait of a woman in a lounge chair with soft natural lighting and smartphone aesthetics.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942280697_ayouj4_HRvlgp9bkAAQXaW.jpg",
-      "https://cms-assets.youmind.com/media/1788942280722_925ero_HRvlhNBbgAEtDdq.jpg"
+      "https://cms-assets.youmind.com/media/1789029023578_vy0icv_HRvlgp9bkAAQXaW.jpg",
+      "https://cms-assets.youmind.com/media/1789029023554_bb11p1_HRvlhNBbgAEtDdq.jpg"
     ],
     "needReferenceImages": false
   },
@@ -167,43 +159,33 @@
     "needReferenceImages": true
   },
   {
-    "id": 33931,
-    "content": "9:16, wearing a {argument name=\"clothing\" default=\"qipao\"}, {argument name=\"lighting\" default=\"soft light bloom\"}, dreamy blur, high-angle shot looking down, {argument name=\"model type\" default=\"tall slender model figure\"}, refined makeup, fox-like beauty face",
-    "title": "Dreamy Qipao Portrait Photography",
-    "description": "A portrait prompt featuring a model in a qipao with soft light bloom and a dreamy high-angle perspective.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942271047_fnzjql_HRvdLStaoAAAkSy.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 33981,
-    "content": "Photo: A {argument name=\"subject\" default=\"27-year-old short-haired female influencer\"} introducing cosmetics to the camera for a realistic beauty content shot. Vertical, 9:16 aspect ratio.\n\nPerson:\nDark brown short hair, clean around the ears and neck. Natural makeup with a healthy glow. Texture that retains skin grain. Wearing a simple ivory top, looking at the camera with a friendly smile.\n\nAction/Product:\nHolding a small frosted glass serum bottle next to her cheek with one hand, while supporting it with the other palm. The bottle contains {argument name=\"liquid color\" default=\"pale pink\"} liquid with a white cap. The label faces the camera directly without fingers obscuring the text. Face and product do not overlap; both are clearly visible.\n\nProduct Label:\nA completed retail package for a fictional skincare brand \"{argument name=\"brand name\" default=\"NUVÉA\"}\". A matte ivory rectangular label is applied straight to the front of the bottle. Fine paper texture is visible, with edges naturally adhering to the curved surface.\n\nPrint the following text exactly and only once on the label:\nTop: \"NUVÉA\"\nMiddle: \"HYDRATING SERUM\"\nBelow that: \"Niacinamide 5%\"\nBottom: \"30 mL / 1.0 fl oz\"\n\nThe brand name is in a slightly large sophisticated serif font. The product name and other info are in smaller legible sans-serif. Use dark charcoal text with proper spacing and margins. Include one thin dusty pink line. Integrate the print naturally with the perspective and curvature of the bottle; avoid floating text or subtitles. Ensure reflections don't wash out text. Do not add marks or text not specified.\n\nComposition/Background:\nA chest-up portrait taken at eye level. Full hair, both hands, and the product are within frame. Face and product are at similar depth near the center, both in focus. Product is large enough to read the label. Background is a bright beige room with a soft-focus vanity and small plants.\n\nLighting/Finish:\nSoft natural window light from an angle, creating gentle shadows on the face. Subtle glass reflections, natural skin and fabric textures. A clean, natural moment like a screen-grab from a social media beauty review.\n\nConstraints: One person. Natural and accurate depiction of hands and bottle shape. Avoid excessive skin smoothing, plastic-like skin, or harsh lighting. Text only on the label. No subtitles, watermarks, or UI.",
-    "title": "Professional Skincare Review Product Photography",
-    "description": "A highly detailed prompt for creating professional skincare product photography featuring a female influencer, focusing on realistic textures and accurate label rendering in GPT Image 2.5.",
+    "content": "Photo: A realistic beauty content photo of a {argument name=\"age\" default=\"27-year-old\"} female influencer with a short haircut introducing cosmetics to the camera. Vertical, aspect ratio 9:16.\n\nSubject:\nShort dark brown hair with clean lines around the ears and nape. Natural makeup with a healthy glow. Skin texture preserved. Wearing a simple ivory top, looking at the camera with a friendly smile.\n\nAction/Product:\nHolding a small frosted glass serum bottle next to her cheek with one hand, while supporting it with the other palm. The bottle contains a pale pink liquid and has a white cap. The label faces the camera, with the text clearly visible. The face and product do not overlap; both are sharply focused.\n\nProduct Label:\nA professionally finished package for a fictional skincare brand named \"{argument name=\"brand name\" default=\"NUVÉA\"}.\" A matte ivory rectangular label is applied straight to the front of the bottle, following the curvature naturally with a subtle paper texture.\n\nThe label must accurately print the following text exactly once:\nTop: \"{argument name=\"brand name\" default=\"NUVÉA\"}\"\nCenter: \"{argument name=\"product name\" default=\"HYDRATING SERUM\"}\"\nBelow that: \"Niacinamide 5%\"\nBottom: \"30 mL / 1.0 fl oz\"\n\nThe brand name uses a slightly larger, sophisticated serif font. The product name and other info use a smaller, legible sans-serif font. Use dark charcoal text with proper spacing and margins. Add a thin dusty pink line. The text must look like actual printing that conforms to the perspective and curve of the bottle. No extra text or certification marks.\n\nComposition/Background:\nA portrait shot at eye level from the top of the head to the chest. The entire hair, hands, and product are within the frame. Both the face and product are centered with the same depth of field. The product is large enough for the label to be readable. The background is a bright beige room with a soft-blurred vanity and small houseplant.\n\nLighting/Finish:\nSoft natural light from a window strikes diagonally from the front, creating gentle shadows on the face. Subtle reflections on the glass and natural textures on skin and fabric. Looks like a clean, natural moment captured from a beauty review video on social media.\n\nConstraints:\nOne person. Fingers and bottle shape must be natural and accurate. Avoid excessive skin filtering, plastic-like skin, or harsh lighting. Text should only appear on the product label. No subtitles, watermarks, or social media UI.",
+    "title": "Realistic Beauty Influencer Product Review",
+    "description": "Highly detailed prompt for a realistic vertical portrait of a beauty influencer introducing a skincare product, focusing on accurate brand label text and natural lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942312152_pqu1gu_HRvYdeLasAAZE1c.jpg",
-      "https://cms-assets.youmind.com/media/1788942312173_we3jk7_HRvYd_GbAAAviCb.jpg"
+      "https://cms-assets.youmind.com/media/1789029081490_6sfvnu_HRvYdeLasAAZE1c.jpg",
+      "https://cms-assets.youmind.com/media/1789029081473_nefs42_HRvYd_GbAAAviCb.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 33950,
-    "content": "Generate frames for a half-body GIF emoji pack of the character in the image in a cartoon Line style, ensuring the headwear and hairstyle are correct. Use a 4x4 layout to generate a total of 16 small images. These 16 images should depict continuous split actions of a \"blowing a kiss\" animation, which can be combined into a complete, smooth loop where the last frame cycles back to the first. Each of the 16 images should include the text \"I love you\" in a font that matches the image. Provide enough white space between the 16 images for easy cutting, ensuring each image stays within its area. Do not copy the original image exactly; only use the character. The background should be pure white without divider lines. Aspect ratio 1:1.",
-    "title": "Cartoon Character GIF Sprite Sheet",
-    "description": "A technical prompt designed for GPT Image 2.5 to generate a 4x4 sprite sheet of a character performing a continuous animation, perfect for creating smooth custom GIFs.",
+    "content": "Generate every frame of a GIF emoji spritesheet of the character in the image in a {argument name=\"style\" default=\"cartoon Line style\"} as a bust. Ensure headwear and hairstyle are accurate. Use a 4x4 grid layout to generate a total of 16 small images. These 16 images should represent continuous split actions for a \"{argument name=\"action\" default=\"blowing a kiss\"}\" animation, which can be combined to form a complete, realistic looping animation where the last frame flows smoothly back to the first. Include the Chinese characters \"{argument name=\"text\" default=\"Love you\"}\" in each of the 16 images using a font that matches the visual style. Ensure sufficient white space between the 16 small images for easy cutting, and each image must not exceed its own area. Do not copy the original image exactly; only use the character. The background should be pure white without divider lines. The aspect ratio is 1:1.",
+    "title": "GIF Sprite Sheet Animation Generator",
+    "description": "A comprehensive prompt for creating a 16-frame animation sprite sheet in a 4x4 grid, specifically designed for consistent character GIFs like Line-style stickers.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942286670_rawgu5_HRvYtLBawAA4oRK.jpg"
+      "https://cms-assets.youmind.com/media/1789029046464_x0lkan_HRvYtLBawAA4oRK.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 33957,
-    "content": "\"{argument name=\"platform\" default=\"Douyin\"} live broadcast interface, two Chinese female influencers are in a split-screen live stream.\"",
-    "title": "Influencer Live Stream Scene",
-    "description": "A natural language prompt for generating a realistic split-screen live streaming interface featuring Chinese influencers.",
+    "content": "{argument name=\"platform\" default=\"Douyin\"} livestream interface, two {argument name=\"characters\" default=\"Chinese female influencers\"} having a split-screen session",
+    "title": "Douyin Livestream Influencer Interaction",
+    "description": "Generates a realistic mockup of a Chinese social media livestream interface featuring two influencers in a split-screen collaboration.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942297094_myr7m6_HRvV8TeasAAEHnQ.jpg"
+      "https://cms-assets.youmind.com/media/1789029025826_5dq4ia_HRvV8TeasAAEHnQ.jpg"
     ],
     "needReferenceImages": false
   },
@@ -216,16 +198,6 @@
       "https://cms-assets.youmind.com/media/1788942321798_ixbxqj_HRvTuIobcAAsFQm.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 33943,
-    "content": "A {argument name=\"nationality\" default=\"Taiwanese\"} {argument name=\"portrait style\" default=\"Instagram-style\"} adult female influencer, clearly an adult, with fair cool-toned porcelain skin and a few natural faint freckles on the nose bridge and cheeks. She has a {argument name=\"facial features\" default=\"refined, cool fox-like small face\"}: narrow and flowing in shape, with a defined jawline and a small, slightly pointed chin that is not overly sharp. Slender natural eyebrows with a soft arch. Slightly elongated eyes with narrow double eyelids, clear inner corners, and gently upturned outer corners; her gaze is quiet, cool, and slightly distant. Slim straight nose with a small rounded tip. Refined lips, the upper lip slightly thinner and the lower lip a little fuller, with naturally relaxed corners. Not a glamorous or heavily made-up influencer face, but a natural, lightly mature, cool Japanese-beauty look that is distinctive and holds up well. Slender, long-limbed figure with natural proportions. 9:16",
-    "title": "Japanese Aesthetic Influencer Portrait",
-    "description": "A sophisticated prompt for a natural Taiwanese influencer with a cool, fox-like facial structure and Japanese-beauty inspired aesthetic.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942281025_zogxnk_HRvLtZnbEAAH4_e.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 34015,
@@ -324,11 +296,11 @@
   },
   {
     "id": 33974,
-    "content": "Change only the {argument name=\"target element\" default=\"headline\"}. Leave the photos, cutouts, and body text as they are.",
-    "title": "Selective Headline Layout Editing",
-    "description": "An image editing instruction that changes specific text headlines while keeping the rest of the layout and photos intact.",
+    "content": "{argument name=\"instruction\" default=\"Change only the headlines. Leave the photos, cutouts, and body text as they are.\"}",
+    "title": "Magazine Headline Layout Modification",
+    "description": "A precise instruction for GPT Image 2.5 Sunburst to modify only the text headlines of a magazine layout while preserving all other visual elements like photos and body text.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942308336_hb69g2_HRuR2hcbQAADCDO.jpg"
+      "https://cms-assets.youmind.com/media/1789029064946_bvabv9_HRuR2hcbQAADCDO.jpg"
     ],
     "needReferenceImages": true
   },
@@ -365,13 +337,13 @@
   },
   {
     "id": 33988,
-    "content": "Photo of a {argument name=\"scene\" default=\"small clearing in the woods\"} surrounded by dense {argument name=\"foliage color\" default=\"vivid green\"} foliage, shot from ground level with a wide-angle lens. The foreground is filled with ferns, grasses, small leafy plants, and dappled sunlight; the middle ground opens into a sunlit grassy patch; the background is enclosed by tall deciduous trees and dark evergreen conifers. Include one prominent mossy tree trunk leaning in from the left edge, arching branches overhead, thick leafy canopy, patches of bright blue sky peeking through the leaves, and strong summer daylight creating high-contrast shadows. Make it look like a realistic high-resolution nature photograph with highly detailed leaves, bark, moss, undergrowth, and natural textures, rich saturated greens, no people, no animals, no path, no buildings, no text, no watermark.",
-    "title": "Sunlit Forest Clearing Photo",
-    "description": "Generates a realistic wide-angle nature photograph of a lush green woodland clearing for testing foliage detail and natural lighting.",
+    "content": "Photo of a {argument name=\"location\" default=\"clearing in the woods\"} with lots of {argument name=\"foliage\" default=\"green foliage\"}, highly detailed",
+    "title": "Detailed Forest Clearing Landscape",
+    "description": "A landscape prompt for generating a highly detailed photo of a clearing in the woods with lush green foliage.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942315890_efjd6k_HRt_pW_XEAAYiCE.jpg"
+      "https://cms-assets.youmind.com/media/1789029089511_xk1cqp_HRt_pW_XEAAYiCE.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
   },
   {
     "id": 33999,

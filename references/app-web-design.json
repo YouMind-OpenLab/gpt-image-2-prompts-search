@@ -32,11 +32,11 @@
   },
   {
     "id": 33951,
-    "content": "Based on the image I uploaded, design a set of 3D emoji 1:1 transparent sticker sheets, containing 9 different stickers arranged in a 3X3 grid. Each sticker should show a different expression, pose, or reaction. Leave wide and completely transparent gaps between the stickers. No background, shadows, or overlapping elements. Incorporate {argument name=\"emojis\" default=\"🚀🎉🥳🤟\"}.",
-    "title": "3D Emoji Sticker Sheet",
-    "description": "A creative prompt for generating a 3x3 grid of 3D transparent stickers based on a character reference, suitable for digital communication and branding.",
+    "content": "Based on the image I uploaded, design a set of {argument name=\"style\" default=\"3D emoji\"} 1:1 transparent sticker sheets, containing {argument name=\"sticker count\" default=\"9\"} distinct stickers. Arrange them in a 3x3 grid, with each sticker showing a different expression, pose, or reaction. Leave wide and completely transparent gaps between the stickers. No background, shadows, or overlapping elements, incorporating {argument name=\"emojis\" default=\"🚀🎉🥳🤟\"}.",
+    "title": "3D Transparent Sticker Sheet Designer",
+    "description": "Designed to create a grid of consistent character stickers with transparent backgrounds, perfect for custom 3D emoji sets or digital assets.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942289059_oo383r_HRwCF0SbsAE5IJP.jpg"
+      "https://cms-assets.youmind.com/media/1789029048622_329hr3_HRwCF0SbsAE5IJP.jpg"
     ],
     "needReferenceImages": true
   },
@@ -55,21 +55,21 @@
   },
   {
     "id": 33950,
-    "content": "Generate frames for a half-body GIF emoji pack of the character in the image in a cartoon Line style, ensuring the headwear and hairstyle are correct. Use a 4x4 layout to generate a total of 16 small images. These 16 images should depict continuous split actions of a \"blowing a kiss\" animation, which can be combined into a complete, smooth loop where the last frame cycles back to the first. Each of the 16 images should include the text \"I love you\" in a font that matches the image. Provide enough white space between the 16 images for easy cutting, ensuring each image stays within its area. Do not copy the original image exactly; only use the character. The background should be pure white without divider lines. Aspect ratio 1:1.",
-    "title": "Cartoon Character GIF Sprite Sheet",
-    "description": "A technical prompt designed for GPT Image 2.5 to generate a 4x4 sprite sheet of a character performing a continuous animation, perfect for creating smooth custom GIFs.",
+    "content": "Generate every frame of a GIF emoji spritesheet of the character in the image in a {argument name=\"style\" default=\"cartoon Line style\"} as a bust. Ensure headwear and hairstyle are accurate. Use a 4x4 grid layout to generate a total of 16 small images. These 16 images should represent continuous split actions for a \"{argument name=\"action\" default=\"blowing a kiss\"}\" animation, which can be combined to form a complete, realistic looping animation where the last frame flows smoothly back to the first. Include the Chinese characters \"{argument name=\"text\" default=\"Love you\"}\" in each of the 16 images using a font that matches the visual style. Ensure sufficient white space between the 16 small images for easy cutting, and each image must not exceed its own area. Do not copy the original image exactly; only use the character. The background should be pure white without divider lines. The aspect ratio is 1:1.",
+    "title": "GIF Sprite Sheet Animation Generator",
+    "description": "A comprehensive prompt for creating a 16-frame animation sprite sheet in a 4x4 grid, specifically designed for consistent character GIFs like Line-style stickers.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942286670_rawgu5_HRvYtLBawAA4oRK.jpg"
+      "https://cms-assets.youmind.com/media/1789029046464_x0lkan_HRvYtLBawAA4oRK.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 33957,
-    "content": "\"{argument name=\"platform\" default=\"Douyin\"} live broadcast interface, two Chinese female influencers are in a split-screen live stream.\"",
-    "title": "Influencer Live Stream Scene",
-    "description": "A natural language prompt for generating a realistic split-screen live streaming interface featuring Chinese influencers.",
+    "content": "{argument name=\"platform\" default=\"Douyin\"} livestream interface, two {argument name=\"characters\" default=\"Chinese female influencers\"} having a split-screen session",
+    "title": "Douyin Livestream Influencer Interaction",
+    "description": "Generates a realistic mockup of a Chinese social media livestream interface featuring two influencers in a split-screen collaboration.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942297094_myr7m6_HRvV8TeasAAEHnQ.jpg"
+      "https://cms-assets.youmind.com/media/1789029025826_5dq4ia_HRvV8TeasAAEHnQ.jpg"
     ],
     "needReferenceImages": false
   },

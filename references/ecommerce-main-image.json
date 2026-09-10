@@ -32,11 +32,11 @@
   },
   {
     "id": 33936,
-    "content": "analyze this photo and give me a very detailed json prompt describing its visual style. really make sure to break down the color grading, lighting and all the exact colors in the photo so i can apply that look to my own images. using this json as reference, generate a person holding my product. preserve the same facial features.",
-    "title": "Product Placement Lifestyle Generation",
-    "description": "A workflow for creating consistent lifestyle images of characters holding a specific product by referencing a detailed visual style JSON.",
+    "content": "“using this json as reference, generate a person holding my product [attach product image]”\n\n> GPT-Image 2.5 generates the photo with that person holding your product\n\ncompare it with a version generated without the reference and look at the difference in the lighting and color grading\n\n> save the generated character photo you’re happy with as your reference\n\n> for future generations, attach the character photo each time and ask it to preserve the same facial features\n\nnow you have a reference character you can use across multiple product photos\n\nyou can also iterate the base json prompt and chat back and forth with GPT-6 Astra based on what you want, then repeat the same process..\n\ni like this because it gives you much more direction over the color grading instead of leaving everything up to the model\n\nthe basic colours and grainy look are some of the things that can make an image feel AI-generated, so pay attention to those when comparing your results\n\nthis is how you can start building a library of high quality ugc images around your own products\n\nthe json gives GPT-Image 2.5 the lighting and color direction, your character reference helps with consistency, and you control the product placement\n\nonce you have that starting point, you can keep creating variations without writing everything from scratch\n\nGPT-Image 2.5 Sunburst & Flare are available on Higgsfield. try this with your own product and reference images there",
+    "title": "Photorealistic UGC Image Strategy",
+    "description": "A tutorial on generating realistic product photos using inspiration images and JSON style descriptors with GPT Image 2.5.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1788942277570_gvj3fo_HRvBtnraAAAChs3.jpg"
+      "https://cms-assets.youmind.com/media/1789029005307_j2vgpe_HRvBtnraAAAChs3.jpg"
     ],
     "needReferenceImages": true
   },

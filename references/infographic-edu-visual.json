@@ -41,6 +41,26 @@
     "needReferenceImages": true
   },
   {
+    "id": 34145,
+    "content": "Research the poster regulations for presentation at the {argument name=\"conference name\" default=\"2026 Neuroscience Conference\"} and transform the attached paper into a poster accordingly.",
+    "title": "Research Paper Academic Poster",
+    "description": "A prompt to transform an attached research paper into a professional academic poster following specific conference regulations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029055465_961vg3_HR0qIogbQAAO5DF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34148,
+    "content": "You are an information editor, diagram designer, and 3D art director.\n- Compare 3 visual proposals matching the content, and adopt the most intuitive option.\n- Explain using objects or materials specific to the subject. Use books, bamboo slips, or paper for classical literature; parts or assembly for manufacturing.\n- Elegant matte materials, soft lighting, and natural depth. Use 3D representations to convey sequence, relationships, and changes.",
+    "title": "3D Diagrams and Visual Layouts",
+    "description": "A comprehensive prompt setup to generate clean 3D graphic design layouts, informational diagrams, and matte-texture presentation slides.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789029059595_eeotu5_HRz-Q5LasAAI4Qh.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34024,
     "content": "Goal: Create a hyper-realistic futuristic medical engineering visualization of an exploded transparent artificial human heart, presented like a premium bioengineering product render with technical callouts.\n\nCanvas: 4:3 horizontal image, dark laboratory background, glossy black reflective floor, cinematic rim lighting, shallow depth of field, cool blue highlights and warm amber internal glow. The heart floats centered above the floor with a soft reflection beneath it.\n\nMain subject: A transparent biomechanical anatomical heart labeled as {argument name=\"device concept\" default=\"next-generation bioengineered artificial heart\"}. The central heart body is made of clear glass-like biocompatible polymer, with visible internal tubes, valves, microfluidic channels, circuit traces, miniature mechanical pumps, red and blue glowing vascular pathways, and amber illuminated electronic modules. Use realistic refraction, caustics, chrome screws, polished metal rings, and black carbon-fiber structural components.\n\nExploded layout: Show exactly 13 major separated component groups around the central heart: 1 central transparent heart chamber; 2 left outer clear curved shell; 3 left black carbon-fiber rib panel; 4 left inner transparent curved support layer; 5 upper-left aorta connector ring assembly; 6 upper central transparent aorta and vessel towers; 7 upper-right pulmonary artery connector ring assembly; 8 right-side cylindrical port and interface rings; 9 right black carbon-fiber rib panel; 10 right transparent circuit-interface module with amber glow; 11 right outer clear curved shell; 12 far-right small transparent cap/lens; 13 multiple small floating screws and bolts aligned around the exploded parts. Keep all parts suspended in precise horizontal layers, as if disassembled for inspection.\n\nTechnical annotations: Add thin white/gray leader lines and small uppercase sci-fi typography. Include exactly 7 visible callout labels: 1 “AORTA” with subtext “HIGH-FLOW / BIOCOMPATIBLE / POLYMER”; 2 “RIGHT ATRIUM” with subtext “MICRO-FLUIDIC / CHANNELS”; 3 “CARBON-FIBER RIB STRUCTURE” with subtext “ULTRA-LIGHT / HIGH-STRENGTH”; 4 “VENTRICLE” with subtext “BIO-MIMETIC / PUMP CHAMBER”; 5 “PULMONARY ARTERY” with subtext “PRESSURE REGULATING / VALVE”; 6 “BIO-CIRCUIT INTERFACE” with subtext “NEURAL SYNC / WIRELESS POWER / REAL-TIME MONITORING”; 7 “MICRO-FLUID CHANNELS” with subtext “NANO-SCALE / SELF-CLEANING / FLOW OPTIMIZATION”. Place these labels around the heart without covering key details.\n\nFooter text: In the bottom left, small spaced lettering reads {argument name=\"left footer text\" default=\"HUMANITY\\nA STRONGER TOMORROW\"}. In the bottom right, add a tiny schematic line icon and text reading {argument name=\"right footer text\" default=\"BIOENGINEERING\\nFOR A HEALTHIER WORLD\"}.\n\nVisual style: Ultra-detailed photorealistic 3D render, luxury industrial design, transparent medical device, carbon fiber texture, chrome hardware, glass refraction, glowing red and blue tubes, amber circuit light, high contrast, clean futuristic interface typography, technical diagram aesthetic, 8k quality.\n\nConstraints: No people, no hands, no blood or gore, no cartoon styling, no messy background, no extra large titles. Keep the anatomy recognizable as a human heart while emphasizing transparent futuristic engineering.",
     "title": "Exploded Transparent Artificial Heart",
