@@ -1,5 +1,36 @@
 [
   {
+    "id": 34325,
+    "content": "Goal: Create a calm two-panel visual study contrasting an underwater scene with a poetic abstract print interpretation, in a quiet healing aesthetic using color blocks, generous white space, and visible printmaking texture.\n\nCanvas: Wide horizontal 16:9 composition, split exactly into 2 vertical panels by a thin white divider. Add a very thin pale border around the full image.\n\nLeft panel: A soft, slightly blurred underwater photograph-style scene filling the entire left half. Show shallow turquoise water with rippled reflections on the surface, sandy seabed, sea grass and coral-like plants near the bottom, and 6 visible fish: 3 larger fish swimming from left to right across the middle-left, 1 small pale fish near the center-right, 1 dark small fish near the right middle, and 1 partial dark fish near the lower-right edge. Use teal, cyan, sea green, gray, and shadowy blue-black tones, with dreamy motion blur and dappled sunlight.\n\nRight panel: A minimalist editorial poster illustration on warm off-white paper. Use hand-cut collage shapes, risograph/screen-print grain, transparent overlapping color blocks, and rough ink texture. Depict an abstract underwater world with 6 visible fish: 1 large teal fish left of center, 1 large olive-gray fish in the center, 1 medium teal fish upper-right of center, 1 small teal fish at far right, 1 small pale teal fish below-right, and 1 tiny pale fish or mark near the lower center. Add 3 broad turquoise brush-stroke water-current shapes across the upper-right, leaving irregular white gaps. At the bottom, create layered geometric seabed blocks in teal, aqua, dark green, and pale gray, plus a cluster of vertical sea plants rising from the lower center-right; include about 15 individual plant blades in mixed teal and muted green.\n\nText content: Place a small italic serif poem on the right panel, left of the main fish group, reading exactly: \"where light\\nbecomes water,\\nwe learn to drift.\" Add a thin horizontal line beneath the poem.\n\nStyle: Poetic, quiet, contemplative, modern art-book layout; strong negative space on the right panel; muted aquatic palette of {argument name=\"main color palette\" default=\"turquoise, teal, sea green, muted olive, pale gray, warm ivory\"}; textured paper grain and imperfect printed edges; gentle, balanced composition inspired by natural light underwater.\n\nCustomizable details: Use the poem text {argument name=\"poem text\" default=\"where light\\nbecomes water,\\nwe learn to drift.\"}, keep the theme as {argument name=\"visual theme\" default=\"underwater drifting fish and sea grass\"}, set the left panel style to {argument name=\"left panel style\" default=\"dreamy underwater photograph\"}, and set the right panel style to {argument name=\"right panel style\" default=\"abstract risograph collage poster\"}.\n\nConstraints: Preserve the exact two-panel split, keep the right panel airy with large blank space, avoid extra labels or logos, avoid hyperrealism on the right, and do not add more fish than the 6 counted in each panel.",
+    "title": "Underwater Risograph Diptych",
+    "description": "A serene split-panel underwater composition pairing a dreamy aquatic photo scene with a poetic textured risograph collage poster.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789113122141_fs0zvl_HR3643zacAA5J8f.jpg",
+      "https://cms-assets.youmind.com/media/1789113122130_96zlrw_HR3647UbYAArbtN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34307,
+    "content": "A textured, hyper-realistic oil painting in the {argument name=\"art style\" default=\"Renaissance style\"}, depicting the model shown across the entire image. Her skin is pale with a {argument name=\"skin detail\" default=\"rosy flush and subtle freckles\"}, and her lips are a crimson hue. The background is a textured, greenish-gray stone architectural panel featuring a faint arch motif. The lighting is soft and directional, emphasizing the rich textures of the fabric and skin. Canvas texture is visible.",
+    "title": "Renaissance Style Oil Painting Portrait",
+    "description": "A prompt for creating hyper-realistic oil paintings in the Renaissance style, featuring detailed skin textures and soft, directional lighting against stone architectural backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789113109561_00oldd_HRxgwA1WsAAWF_4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34319,
+    "content": "Use the uploaded image as the main restoration and identity reference. Convert this severely damaged {argument name=\"subject type\" default=\"old portrait\"} into a clean, fully restored modern-looking photo while preserving the original appearance, pose, and composition. Restore all missing and damaged areas of the photograph, including torn sections, faded parts, scratches, stains, cracks, peeling emulsion, discoloration, and burned or washed-out regions. Reconstruct the {argument name=\"subjects\" default=\"man and woman\"} completely so both subjects appear whole, natural, and clearly visible. Keep the same arrangement: the woman standing in front holding a {argument name=\"prop\" default=\"large bouquet of flowers\"}, and the man standing slightly behind her. Preserve their facial features, expressions, body proportions, posture, and elegant formal clothing, but refine everything to look polished, realistic, and complete. Transform the image from an antique sepia damaged print into a high-quality modern portrait with: clean natural skin tones, realistic facial details, sharp focus, balanced lighting, soft studio background, improved clarity and texture, realistic modern photo finishing. The final image should feel like a professionally restored contemporary portrait, as if the same couple was photographed clearly with a modern camera, while still keeping the classic formal elegance of the original scene. Style: photorealistic, high detail, restored portrait, modern studio photography, clean, elegant, natural colors, sharp and realistic.",
+    "title": "Vintage Portrait Photo Restoration",
+    "description": "A comprehensive restoration prompt designed to transform damaged antique sepia prints into clean, modern-looking portraits while maintaining original character and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789113119465_lhts8q_HR19ldSaAAAFMJy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 34244,
     "content": "Change to a {argument name=\"season\" default=\"autumn\"} {argument name=\"location\" default=\"European street\"} scene",
     "title": "Seasonal Street Scene Style Switcher",
@@ -10,46 +41,12 @@
     "needReferenceImages": true
   },
   {
-    "id": 34210,
-    "content": "Premium technical infographic of {argument name=\"subject\" default=\"Apple 18 pro\"}.\\nUse the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an\\nillustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality.\\nClear, elegant, and informative composition.\\nInclude a sketch box in the upper left corner with the title \"[{argument name=\"subject\" default=\"Apple 18 pro\"}]",
-    "title": "Technical Product Infographic",
-    "description": "A structured prompt for creating professional technical infographics with blueprint overlays and architectural details based on a reference object.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789029011753_cnfsjq_HR1UG5dboAEUYF1.jpg",
-      "https://cms-assets.youmind.com/media/1789029012007_gpzxxz_HR1UG5UbEAAD7eg.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 34219,
-    "content": "Transform the reference photograph into a {argument name=\"art style\" default=\"delicate hand-drawn travel journal illustration\"} while preserving the original composition, architecture, people, trees, grass, road, and overall perspective. Use a traditional {argument name=\"medium\" default=\"colored-pencil and watercolor sketch\"} aesthetic on warm, slightly aged cream paper. Keep the buildings recognizable but simplify them into expressive hand-drawn shapes, with visible pencil strokes, loose watercolor washes, subtle paper grain, imperfect outlines, and gentle cross-hatching. Preserve the peaceful rainy-day atmosphere, soft overcast sky, warm beige and muted buildings, fresh green lawn, scattered people walking with umbrellas, wet pavement, trees, benches, puddles, and distant cars. Use a muted vintage travel-sketch palette with natural imperfections and understated colors. Place the illustration in the lower portion of the page with generous cream-colored negative space around it. Add elegant {argument name=\"typography\" default=\"handwritten typography\"} above: “Rainy Days”, and below: “— Quiet moments —”. Minimal, nostalgic, artistic travel magazine aesthetic, analog photography transformed into a personal sketchbook memory, sophisticated and authentic, no photorealism.",
-    "title": "Travel Journal Watercolor Illustration",
-    "description": "Transforms a photograph into a nostalgic, hand-drawn travel journal entry using watercolor and colored-pencil textures.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789029021025_xw54vz_HR1SmTGakAAv97s.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 34212,
-    "content": "This image presents a serene four-panel photo collage featuring a {argument name=\"subject description\" default=\"young woman with long, dark wavy hair and soft bangs\"}, dressed in a {argument name=\"clothing\" default=\"light, sheer garment\"}. In the top-left panel, she faces forward with a gentle, warm smile, her eyes engaging the camera directly. The top-right panel captures her glancing back over her shoulder against a background dappled with soft, abstract light patterns. In the bottom-left panel, she is depicted in a peaceful moment with her eyes gently closed, highlighting a calm and contemplative mood. Finally, the bottom-right panel shows her looking thoughtfully toward the side with a soft expression, completing a cohesive visual narrative centered on grace, natural beauty, and tranquility.",
-    "title": "Serene Wavy Hair Photo Collage",
-    "description": "Generates a cohesive four-panel photo collage capturing different tranquil expressions and moods of a woman with long wavy hair.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789029013637_e4fij3_HR1R5OWaEAA-Bmy.jpg",
-      "https://cms-assets.youmind.com/media/1789029013639_hpifo8_HR1R5O8a0AAFhrr.jpg",
-      "https://cms-assets.youmind.com/media/1789029013643_leaqhe_HR1R5OubcAA7VLY.jpg",
-      "https://cms-assets.youmind.com/media/1789029014609_olgike_HR1R5Oib0AAtiEL.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 34225,
-    "content": "High-fashion studio portrait of an elegant {argument name=\"ethnicity\" default=\"East Asian\"} woman with wavy short dark hair wearing a {argument name=\"hat description\" default=\"wide brimmed black velvet top hat decorated with intricate silver embroidery along the brim and a metallic vintage buckle on the band\"} She is dressed in a sleeveless tailored dark vest with silver swirl patterns, paired with long dark navy velvet opera gloves Wearing {argument name=\"jewelry\" default=\"luxurious jewelry sapphire teardrop earrings and a multi-strand pearl and sapphire necklace with an ornate iris pendant\"} Dark grey textured backdrop, dramatic studio lighting cinematic, highly detailed, 8k resolution.",
-    "title": "High Fashion Elegant Portrait",
-    "description": "A cinematic studio portrait prompt for generating high-fashion imagery of an elegant woman featuring intricate accessories and dramatic lighting.",
+    "content": "High-fashion studio portrait of an elegant {argument name=\"ethnicity\" default=\"East Asian\"} woman with wavy short dark hair wearing a wide brimmed {argument name=\"hat style\" default=\"black velvet top hat\"} decorated with intricate silver embroidery along the brim and a metallic vintage buckle on the band She is dressed in a sleeveless tailored dark vest with silver swirl patterns, paired with long dark navy velvet opera gloves Wearing luxurious jewelry sapphire teardrop earrings and a multi-strand pearl and sapphire necklace with an ornate iris pendant Dark grey textured backdrop, dramatic studio lighting cinematic, highly detailed, 8k resolution.",
+    "title": "High Fashion Studio Portrait",
+    "description": "Creates an elegant high-fashion portrait featuring intricate textures like velvet and silver embroidery, complemented by dramatic studio lighting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789029028074_mgs1a8_HR1LWR5a4AAGLYh.jpg"
+      "https://cms-assets.youmind.com/media/1789113111189_tgfwp9_HR1LWR5a4AAGLYh.jpg"
     ],
     "needReferenceImages": false
   },
@@ -113,24 +110,11 @@
   },
   {
     "id": 34215,
-    "content": "Ultra-realistic cinematic close-up portrait of a {argument name=\"subject\" default=\"young adult man\"} use image for face reference , laughing naturally with a wide genuine smile, head slightly tilted upward, looking just past the camera. Dramatic studio portrait photography against a completely black background. Strong {argument name=\"primary color\" default=\"vivid magenta/purple\"} rim light from the left side and intense {argument name=\"secondary color\" default=\"cyan/teal\"} light from the right, creating a striking split-light effect across the face, beard, neck, and black crewneck sweatshirt. Highly detailed skin texture, realistic pores, individual beard hairs, sharp expressive eyes, natural teeth, soft specular highlights, shallow depth of field, high contrast, moody nightclub aesthetic, professional fashion/editorial photography, 85mm lens, f/1.8, close framing from chest up, centered composition, photorealistic, HDR, ultra-detailed, 4K.",
-    "title": "Neon Split Lighting Portrait",
-    "description": "A cinematic close-up portrait prompt featuring dramatic magenta and cyan neon lighting for a moody, high-contrast nightclub aesthetic.",
+    "content": "Ultra-realistic cinematic close-up portrait of a {argument name=\"subject\" default=\"young adult man\"} use image for face reference , laughing naturally with a wide genuine smile, head slightly tilted upward, looking just past the camera. Dramatic studio portrait photography against a completely black background. Strong dual-color neon lighting: vivid {argument name=\"left light color\" default=\"magenta/purple\"} rim light from the left side and intense {argument name=\"right light color\" default=\"cyan/teal\"} light from the right, creating a striking split-light effect across the face, beard, neck, and black crewneck sweatshirt. Highly detailed skin texture, realistic pores, individual beard hairs, sharp expressive eyes, natural teeth, soft specular highlights, shallow depth of field, high contrast, moody nightclub aesthetic, professional fashion/editorial photography, 85mm lens, f/1.8, close framing from chest up, centered composition, photorealistic, HDR, ultra-detailed, 4K.",
+    "title": "Ultra-Realistic Neon Portrait",
+    "description": "A professional portrait prompt utilizing split-light neon colors for a moody nightclub aesthetic, perfect for high-fashion editorial shots.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789029019213_7eai4v_HR0uxUCbQAAWcXR.jpg"
-    ],
-    "needReferenceImages": true
-  },
-  {
-    "id": 34242,
-    "content": "Create an independent high-end design poster for each uploaded photo. Use a 3:4 vertical composition, split 1:1 into top and bottom sections. Top half: Keep the original photo, maintaining subject identity, structure, and texture with artistic magazine-style grading. Bottom half: Extract recognizable elements from the photo and reconstruct them into a 'Hand-drawn Doodle Photo Collage.' Do not copy the full photo; use fragments with resizing and white space to create a visual relationship with the top. Composition: Small collage clusters with large empty fields. Style: A mix of photography collage, hand-drawn doodles, and graphic design. Use rough black hand-drawn borders and subtle symbols like stars or smiley faces. Background: Clean white like a sketchbook. Color: Extract 2-4 recognizable colors from the top photo. Text: Minimal editorial notes or phrases scattered in the white space.",
-    "title": "Doodle Photo Collage Poster",
-    "description": "A clever and artistic prompt that converts uploaded photos into a split-layout design, combining high-end photo editing with hand-drawn doodle collages.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789029046121_b3rzaz_HR0uWDxbUAAANgC.jpg",
-      "https://cms-assets.youmind.com/media/1789029046119_adu501_HR0uXOYbcAALUL8.jpg",
-      "https://cms-assets.youmind.com/media/1789029046109_w44302_HR0uYaVaQAANSIF.jpg",
-      "https://cms-assets.youmind.com/media/1789029047018_s6gxi4_HR0uagpaAAEI865.jpg"
+      "https://cms-assets.youmind.com/media/1789113109578_1pvxc8_HR0uxUCbQAAWcXR.jpg"
     ],
     "needReferenceImages": true
   },
@@ -157,6 +141,16 @@
       "https://cms-assets.youmind.com/media/1789029070237_r4a0xt_HRyMkvrWkAAJ3nv.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 34324,
+    "content": "Goal: Create a calm aesthetic diptych wallpaper comparing the same seascape in two visual languages: realistic ocean photography on the left and minimalist charcoal-and-red ink illustration on the right.\n\nCanvas: Wide horizontal 16:9 composition, split exactly into 2 equal vertical panels with a sharp center divide and no outer border.\n\nLeft panel: A realistic telephoto photograph of {argument name=\"seascape subject\" default=\"deep blue ocean waves with a pale full moon half-rising on the horizon\"}. Use layered rolling waves in the foreground, white sea foam, a dark horizon line slightly above center, and a muted blue sky. The moon is a single pale cream disk, partially hidden behind the horizon, centered slightly right within the left panel. Color palette: teal blue, cyan, deep navy, white foam, soft cream moon. Mood: quiet, early morning, still and contemplative.\n\nRight panel: Warm off-white textured paper background with a small minimalist charcoal drawing positioned slightly right of center and slightly below mid-height. The drawing contains exactly 3 main visual elements: 1 red semicircle sun, 1 thin black horizon band, and 1 group of rough black wave strokes beneath it with sparse red accents. The illustration should feel hand-drawn with dry brush, charcoal pencil, and ink scratches, leaving large negative space.\n\nText content: Add exactly 1 small italic serif caption beneath and left of the illustration reading “{argument name=\"caption text\" default=\"same sea\\ndifferent light\"}” in dark gray or black, split across 2 lines. Add exactly 1 short thin red underline below the caption.\n\nStyle: Quiet editorial art print, red-and-black charcoal aesthetic, subtle paper grain, poetic minimalism, balanced asymmetry, muted colors, no people, no boats, no extra text, no watermark.",
+    "title": "Same Sea Different Light Diptych",
+    "description": "A wide split-screen wallpaper pairing a realistic ocean moonrise photograph with a minimalist charcoal-and-red seascape illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789113121534_sno2le_HRzuXo8bcAA4Hna.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 34226,
@@ -928,16 +922,6 @@
       "https://cms-assets.youmind.com/media/1789029062928_jg7974_HRvWtOca8AA3CNW.jpg"
     ],
     "needReferenceImages": true
-  },
-  {
-    "id": 34234,
-    "content": "create the most realistic possible image of the {argument name=\"subject\" default=\"most surreal thing you can imagine\"}",
-    "title": "Surreal Realism Imagination Prompt",
-    "description": "A short conceptual prompt for testing the model's ability to render surreal concepts with extreme realism.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789029036587_whp81k_HRvSL1kacAAAoKk.jpg"
-    ],
-    "needReferenceImages": false
   },
   {
     "id": 34258,

@@ -41,6 +41,30 @@
     "needReferenceImages": true
   },
   {
+    "id": 34333,
+    "content": "Goal: Create a two-panel horizontal comparison image showing a real-life nature photo transformed into a minimalist needle-felt illustration.\n\nCanvas: Wide 16:9 canvas split vertically into two equal halves with a clean straight division down the center.\n\nLeft panel: A realistic golden-hour forest meadow photograph. Show exactly 5 deer in the foreground: 1 deer walking at far left, 1 deer grazing left-center, 1 deer grazing center, 1 small deer standing upright center-right, and 1 larger deer standing at far right. The meadow is covered in dewy green grass, with warm yellow sunlight and soft morning mist. In the background, dark evergreen trees form a dense forest silhouette, with additional leafy branches at the upper right. Strong sunbeams stream diagonally through the trees from the upper right, creating a serene cinematic atmosphere.\n\nRight panel: A soft handmade needle-felt wool reinterpretation of the same scene on a warm off-white textured paper background with generous blank space. Center the felt scene horizontally in the upper-middle area. Show exactly 5 small felt deer matching the left panel arrangement: 1 standing deer at far left, 1 grazing deer left-center, 1 orange-brown grazing deer center, 1 small upright deer center-right, and 1 larger standing deer at far right. Place them on a thin strip of fuzzy pale green felt grass. Above them, include a simple round felt sun and 2 soft horizontal felt cloud wisps. Under the felt grass, add handwritten text reading {argument name=\"caption text\" default=\"A kinder morning ♡\"} in a delicate gray-brown script.\n\nVisual style: Combine warm healing aesthetics, generous white space, cozy wool-felt texture, soft edges, muted earthy colors, and a calm poetic mood. The left side should look photographic and atmospheric; the right side should look like a handcrafted felt illustration with visible fibers and a minimal composition.\n\nConstraints: Keep the split-screen layout, exactly 5 deer on each side, no extra animals, no border, no watermark, no additional text beyond the caption.",
+    "title": "Golden Deer Morning Felt Transformation",
+    "description": "Creates a split-screen scene comparing a misty golden forest deer photograph with a minimalist needle-felt wool illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789113125214_ig0i2n_HR4JccraIAAUu8D.jpg",
+      "https://cms-assets.youmind.com/media/1789113125220_aus41n_HR4JcbDbsAADPa5.jpg",
+      "https://cms-assets.youmind.com/media/1789113125229_gmn3qk_HR4JcbJawAAdJlM.jpg",
+      "https://cms-assets.youmind.com/media/1789113127477_m8tok2_HR4JcbKbUAA5NjV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34210,
+    "content": "Premium technical infographic of {argument name=\"product\" default=\"[Apple 18 pro ]\"}. Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality. Clear, elegant, and informative composition. Include a sketch box in the upper left corner with the title \"{argument name=\"title\" default=\"[Apple 18 pro]\"}",
+    "title": "Technical Product Infographic Overlay",
+    "description": "Generates a professional technical infographic with blueprint-style overlays, including dimensions and diagrams for product design visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789113111185_qdhjmx_HR1UG5dboAEUYF1.jpg",
+      "https://cms-assets.youmind.com/media/1789113111179_aehk7i_HR1UG5UbEAAD7eg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 34145,
     "content": "Research the poster regulations for presentation at the {argument name=\"conference name\" default=\"2026 Neuroscience Conference\"} and transform the attached paper into a poster accordingly.",
     "title": "Research Paper Academic Poster",
