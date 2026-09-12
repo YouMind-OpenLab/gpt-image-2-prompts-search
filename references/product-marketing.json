@@ -10,6 +10,69 @@
     "needReferenceImages": true
   },
   {
+    "id": 34466,
+    "content": "Create a cinematic 2×2 editorial portrait collage of the same fictional young male model, with consistent facial features and hairstyle across all four panels. He has neatly styled dark side-parted hair, sharp masculine features, clean-shaven face, and a serious, thoughtful expression. Moody {argument name=\"era\" default=\"1970s-inspired\"} corporate fashion photography, {argument name=\"background color\" default=\"teal-blue\"} studio background, dramatic directional lighting, subtle film grain, deep shadows, muted colors, realistic skin texture, high-end fashion editorial aesthetic.\nTop-left: close-up portrait, wearing a {argument name=\"suit color\" default=\"dark forest-green\"} tailored suit, white dress shirt and burgundy tie, adjusting his tie with one hand, vintage wristwatch visible.\nTop-right: seated on a wooden chair, leaning forward thoughtfully with one hand near his chin, wearing the same green suit, white shirt and burgundy tie, black trousers, wristwatch visible.\nBottom-left: standing confidently with the green suit jacket draped over one shoulder, sleeves rolled up, white shirt and burgundy tie, vintage film camera hanging around his neck, black trousers.\nBottom-right: standing in the white shirt and burgundy tie with sleeves rolled up, green suit jacket over one arm, one hand running through his hair, contemplative expression.\nSymmetrical 2×2 grid layout, thin white dividers between panels, consistent character identity, realistic photography, 50mm lens look, shallow depth of field, cinematic lighting, subtle analog film texture, sophisticated vintage atmosphere, ultra-detailed, photorealistic, 4K.",
+    "title": "Vintage Editorial Portrait Collage",
+    "description": "A sophisticated prompt for creating a 2x2 collage of a male model in a 1970s corporate aesthetic, featuring forest green suits and moody studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789199149794_ouvrj1_HR_JOC8bYAA3zp3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34461,
+    "content": "Create a highly realistic, warm and artistic lifestyle photograph inspired by the reference image. A young woman with {argument name=\"facial features\" default=\"natural feminine features\"} is crouching gently beside a {argument name=\"cat\" default=\"fluffy white cat\"} on a warm beige floor. She is leaning slightly forward toward the cat with a soft, affectionate smile, creating a genuine connection between them. The woman has neatly tied brown hair in a casual high bun with a few loose strands framing her face. She wears a {argument name=\"outfit\" default=\"relaxed cream-white button-up shirt, warm brown loose-fit pants, and clean white sneakers\"}. The white cat sits calmly in front of her, looking up at her with a curious and adorable expression. The cat has fluffy detailed fur and wears a simple red bandana around its neck. Behind them is a large warm cream-colored wall covered with beautiful hand-drawn black-and-white doodle artwork. The illustration features a cute playful girl with her hair in a bun, making a peace sign and winking, surrounded by tiny hearts, sparkles and playful motion lines. Beside her is an adorable cartoon kitten with large expressive eyes, raised paws, a tiny butterfly and small decorative hearts. The key visual effect is the seamless interaction between the real woman and cat in the foreground and the illustrated characters on the wall behind them, making the real scene feel like it has come alive from a charming sketchbook. Warm late-afternoon sunlight enters through a nearby window, casting beautiful geometric window-frame shadows across the cream wall and floor. Soft golden natural light, subtle warm highlights, gentle shadows, cozy atmosphere, delicate film grain. Composition: vertical portrait, full-body view of the woman and cat, balanced negative space around the wall illustration, elegant editorial lifestyle photography, slightly low camera angle, natural perspective. Ultra-realistic skin texture, realistic hair strands, highly detailed cat fur, natural hands and facial anatomy, authentic fabric texture, realistic shadows, cinematic depth of field, soft background falloff, premium photography, natural color grading, sophisticated visual storytelling. Keep the real woman and real cat photorealistic while keeping the wall characters clearly hand-drawn with a pencil/ink sketch aesthetic. Do not turn the woman or cat into cartoons. No text, no watermark, no logo, no distorted anatomy, no extra limbs, no duplicated objects, no artificial plastic skin.",
+    "title": "Realistic Lifestyle Photo with Doodle Wall Art",
+    "description": "A creative prompt that blends photorealistic photography of a woman and her cat with a hand-drawn doodle wall background, featuring warm afternoon light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789199145554_ynwf5w_HR-2iFOasAA_Vho.jpg",
+      "https://cms-assets.youmind.com/media/1789199145606_jdm9a8_HR-2k65aAAA5Oel.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34470,
+    "content": "Using the provided reference image as the botanical source, transform the old close-up garden photo into a polished editorial product-style scene. Preserve the same clematis vine identity, magenta flowers, green leaves, buds, seed heads, and rustic wooden trellis character, but cleanly recompose them into a staged miniature garden arrangement.\n\nGoal: Create an elegant studio botanical diorama from the reference photo.\nComposition: Place the plant upright on a square cream stone planter base filled with soil and small greenery, with the wooden trellis standing behind it. Use an isometric three-quarter view so the base, trellis, flowers, and vines are all clearly visible.\nFloral structure: Keep exactly 3 large open magenta clematis flowers as the main focal blooms, plus visible unopened buds and seed heads arranged naturally around them.\nBackground: Replace the busy real garden background with a seamless warm off-white studio backdrop.\nLighting: Use soft natural editorial lighting with gentle shadows, realistic texture on petals and leaves, and a refined magazine still-life look.\nStyle: Photorealistic, clean, high-end botanical editorial, detailed but uncluttered.\nConstraints: Do not add text, labels, people, insects, vases, or extra decorative props. Keep the plant recognizable from REFERENCE_0 while making the scene look intentionally staged and professionally photographed.",
+    "title": "Editorial Clematis Garden Diorama",
+    "description": "Transforms a casual flower photo into a clean studio-style botanical diorama with a planter base and trellis.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789199151890_mwfo2z_HR80hPlWIAEYNBv.jpg",
+      "https://cms-assets.youmind.com/media/1789199151764_nj7prk_HR80lZ7bEAAsE0i.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34464,
+    "content": "Create a full-sheet 3x3 grid of realistic UGC-style panels featuring this {argument name=\"category\" default=\"provision store\"} using GPT Image 2. Split the video into 3 continuous sections. Each panel must contain a cinematic visual frame plus readable production notes printed directly inside the panel. The goal isn't just to show the product. It’s to help customers imagine a reason to buy it. The business name is {argument name=\"business name\" default=\"Zioraa Ventures\"}. Embedded the business name in the background.",
+    "title": "UGC Style Marketing Panel Grid",
+    "description": "A structured prompt for creating a 3x3 grid of realistic user-generated content style panels for marketing campaigns, including space for cinematic visuals and production notes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789199147235_45scrj_HR8Lt6TXYA4qfTB.jpg",
+      "https://cms-assets.youmind.com/media/1789199147395_7rxhrz_HR8LyD0a8AAEPZB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34465,
+    "content": "Create a highly realistic professional beauty portrait using the provided reference image.\nSTRICT IDENTITY & FACE LOCK:\nPreserve the exact facial identity, facial proportions, natural features, nose, lips, eyes, eyebrows, jawline, skin texture, and overall appearance from the reference image. Do not beautify, reshape, or alter the face. Keep the same natural expression and realistic anatomy.\nHAIR:\nKeep the exact same hairstyle, hair length, hair color, hair texture, center parting, and loose strands as shown in the reference.\nCLOTHING:\nReplace the black top with a clean, elegant sleeveless top in a {argument name=\"clothing color\" default=\"PURE HONEY\"} color — warm golden honey / soft amber-gold tone. The fabric should look premium, natural, and realistic with subtle texture. Keep the same neckline, sleeveless cut, fit, and overall clothing shape as the reference. No patterns, logos, prints, or accessories.\n\nPOSE & COMPOSITION:\nMaintain the same three-angle beauty reference composition:\n\n1. Front/three-quarter close-up portrait at the top.\n\n2. Left-side profile portrait at the bottom left.\n\n3. Three-quarter portrait facing slightly right at the bottom right.\n\nKeep the same framing, head position, shoulder placement, camera perspective, and neutral studio background.\n\nLIGHTING & REALISM:\nSoft natural studio lighting, realistic skin pores and texture, subtle natural imperfections, authentic hair strands, accurate facial anatomy, gentle shadows, realistic DSLR photography, high-end professional beauty portfolio quality.\n\nCOLOR:\nThe clothing must be clearly {argument name=\"clothing color\" default=\"PURE HONEY\"} / GOLDEN HONEY, not yellow, orange, beige, brown, or mustard.\n\nNEGATIVE PROMPT:\nDo not change facial identity, face shape, eyes, nose, lips, eyebrows, hairstyle, skin tone, age, expression, body proportions, or pose. No excessive makeup, plastic skin, beauty filter, face distortion, extra accessories, jewelry, patterns, logos, text, or artificial-looking skin.",
+    "title": "Realistic Honey Toned Beauty Portrait",
+    "description": "A highly detailed beauty portrait prompt for GPT Image 2 that focuses on strict facial identity preservation while restyling the subject in honey-toned clothing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789199148996_8zj89r_HR71gh_boAAp-0B.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34460,
+    "content": "Ultra-realistic cinematic luxury fashion photograph of a {argument name=\"subject\" default=\"strikingly handsome young man in his early 20s\"} standing confidently on a {argument name=\"location\" default=\"high-rise rooftop at midnight\"}, overlooking a breathtaking modern city skyline filled with glowing skyscraper lights. He has thick naturally wavy jet-black hair with subtle tousled volume, dramatically wind-blown by the night breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an {argument name=\"outfit\" default=\"oversized all-black outfit\"} — a premium oversized black jacket, loose black trousers, and sleek black boots — creating a mysterious contemporary street-luxury aesthetic. Cold silver moonlight illuminates one side of his face while the colorful city lights create soft atmospheric bokeh behind him. His hair and clothing move naturally in the wind, adding cinematic motion and realism. Dark midnight-blue sky, bright full moon partially visible behind thin clouds, distant skyscrapers, subtle rooftop details, atmospheric haze, dramatic rim lighting, deep shadows, realistic skin texture and pores, natural facial proportions, sophisticated editorial composition, moody nocturnal atmosphere, high-fashion magazine aesthetic, shot on an 85mm lens, shallow depth of field, cinematic color grading, HDR, ultra-detailed, photorealistic, 8K, no text, no watermark, no artificial-looking face. Aspect ratio: 9:16, vertical composition.",
+    "title": "Luxury Fashion Rooftop Midnight Portrait",
+    "description": "A comprehensive prompt for creating an ultra-realistic, cinematic portrait of a young man on a high-rise rooftop at midnight, featuring detailed fashion and lighting descriptions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789199145615_rigzld_HR7lOBGbUAATEq_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34308,
     "content": "Photorealistic editorial fashion portrait of a handsome {argument name=\"subject\" default=\"young adult man\"} with thick, neatly styled dark brown hair, short well-groomed beard and mustache, warm confident smile, and natural masculine features. He is standing facing the camera with his arms crossed, wearing a luxurious {argument name=\"clothing\" default=\"dark burgundy chunky-knit turtleneck sweater\"} and a classic black luxury wristwatch. Dramatic natural sunlight enters from the side, creating strong geometric shadows on a minimalist white and light-gray wall behind him. Clean sophisticated studio/apartment setting, high-fashion menswear campaign aesthetic, warm natural skin tones, realistic skin texture, detailed knit fabric, sharp facial details, cinematic lighting, shallow depth of field, subtle contrast, premium magazine photography, 85mm portrait lens, f/2.8, ultra-realistic, high resolution, vertical composition, centered framing.",
     "title": "Editorial Fashion Menswear Portrait",
@@ -28,16 +91,6 @@
       "https://cms-assets.youmind.com/media/1789113112888_yw36e7_HR5omccaQAAxz9N.jpg"
     ],
     "needReferenceImages": false
-  },
-  {
-    "id": 34326,
-    "content": "Goal: Create a wide editorial sports diptych about Wimbledon tennis, with a realistic match scene on the left and a rough paper-cut illustration poster on the right.\n\nCanvas: Horizontal 16:9 composition, split exactly into 2 equal vertical panels. Left panel is a crowded outdoor grass tennis stadium in bright daylight; right panel is an off-white textured poster page with generous negative space.\n\nLeft panel: Show a realistic, slightly painterly photograph-style Wimbledon grass-court rally. There are exactly 2 visible tennis players: 1 foreground player in all white sprinting and lunging left-to-right toward the net with racket extended, and 1 background opponent in white waiting near the far baseline. Include a black net across the lower middle, worn green grass with white court lines, dark green stadium walls, ball kids and officials in dark uniforms, and a dense crowd of spectators filling the upper stands. Add a central dark green scoreboard with Rolex branding and readable match details: “Marin CILIC” above “Roger FEDERER”, scores suggesting Cilic 2 0 and Federer 2 30, plus smaller match-stat lines. Keep the foreground player dynamic, low to the ground, with white headband, white shirt and shorts, white socks and shoes with small red accents.\n\nRight panel: Create a minimalist vintage tennis poster on textured cream paper. At the upper center-right, place large rough brush lettering reading {argument name=\"headline text\" default=\"Still in Motion\"} in dark forest green, tilted and hand-painted with distressed edges. Below it, draw a single faceted collage-style tennis player in white, mid-sprint to the right, stretched horizontally with one arm back and the racket arm extended toward a small yellow tennis ball. Use angular torn-paper shapes, visible paper grain, tan skin fragments, gray shadows, and dark green grass-stroke marks under the feet. Add exactly 2 small typography blocks: on the left of the illustrated player, stacked text reading {argument name=\"left small text\" default=\"Same\\nGame\\nA Deeper\\nYou\"} with a short horizontal line beneath; on the right of the illustrated player, stacked text reading {argument name=\"right small text\" default=\"TENNIS\\nLIVES\\nDIFFERENTLY\\nHERE.\"} with a short horizontal line beneath.\n\nVisual style: Contrast a detailed, documentary tennis photograph on the left with a rough illustrated aesthetic on the right. Use Wimbledon colors: deep green, grass green, white, cream, muted yellow, tan, and black. Emphasize motion, athletic tension, textured grass, distressed paper, imperfect brush typography, and collage-like geometry.\n\nConstraints: Use exactly 2 main tennis players in the realistic left panel and exactly 1 illustrated tennis player in the right panel. Preserve the clean split-screen layout, no extra logos except the Rolex-style scoreboard on the left, no watermark, no modern UI elements.",
-    "title": "Wimbledon Motion Diptych Poster",
-    "description": "Generates a split-screen tennis artwork combining a realistic Wimbledon rally with a distressed editorial poster illustration.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789113122535_az77zg_HR4MsiSakAAaKIv.jpg"
-    ],
-    "needReferenceImages": true
   },
   {
     "id": 34318,
@@ -80,6 +133,16 @@
       "https://cms-assets.youmind.com/media/1789113125138_nbaxny_HR1PVYPa4AAL2j8.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 34225,
+    "content": "High-fashion studio portrait of an elegant {argument name=\"ethnicity\" default=\"East Asian woman\"} with wavy short dark hair wearing a wide brimmed black velvet top hat decorated with intricate silver embroidery along the brim and a metallic vintage buckle on the band She is dressed in a {argument name=\"outfit\" default=\"sleeveless tailored dark vest with silver swirl patterns\"}, paired with long dark navy velvet opera gloves Wearing luxurious jewelry {argument name=\"jewelry\" default=\"sapphire teardrop earrings and a multi-strand pearl and sapphire necklace with an ornate iris pendant\"} Dark grey textured backdrop, dramatic studio lighting cinematic, highly detailed, 8k resolution.",
+    "title": "Luxury East Asian Fashion Portrait",
+    "description": "A high-fashion studio portrait prompt featuring an East Asian woman in elegant dark velvet attire with intricate silver and sapphire accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789199148271_ser8t4_HR1LWR5a4AAGLYh.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 34154,
