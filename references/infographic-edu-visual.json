@@ -41,6 +41,19 @@
     "needReferenceImages": true
   },
   {
+    "id": 34648,
+    "content": "Create a minimalist ceremonial information poster around any given theme. The first impression must be a large area of warm white empty space where the main title is precisely centered, engaging in solemn alignment with three thematic symbols: transform the core name, participants, or keywords provided by the theme into a large thin-stroke title at the top, a set of recognizable abstract logos in the center, and solid color blocks on both sides; semantics may change but order remains constant. Retain high-ratio whitespace, vertical central axis, upper-lower zoning, and the pause feeling of thin black horizontal lines; arrange all elements restrainedly like an exhibition catalog or international institutional yearbook. Use high-contrast fine serifs or equivalent glyph structures for the main text, with open counters, slender strokes, sharp terminals, and spacious rhythm, maintaining a slender skeleton, loose tracking, clear recognition, and calm breathing when switched to any writing system, rather than copying a specific Latin font. Extract two high-purity representative colors from the theme for hard-edged squares; use only black lines and minimal solid geometry for the central logo; keep the background as slightly paper-textured warm white, avoiding gradients, shadows, and decorative textures. Place subtitles and small explanatory text at a lower center of gravity at the bottom, with footer micro-information pressing the edges, creating a contrast where grand themes are tamed by museum-style whitespace; failure symptoms include crowded elements, chaotic colors, thick fonts, realistic icons, or the poster losing its cold ritual order.\n\nSet the theme to \"City Public Library Open Day\" for a public cultural institution event main poster: use indigo blue and cinnabar red as the two high-purity square colors; abstract opened book pages and door arches with black lines in the center, letting the symbol group fall steadily below the title along the vertical axis; place the main title in the center of the upper half, with subtitles and dates forming a sparse two-level information hierarchy below, retaining large areas of warm white whitespace and thin black line pauses; aspect ratio is vertical 3:4.",
+    "title": "Minimalist Ceremony Poster Prompt for GPT Image 2",
+    "description": "A detailed prompt for generating minimalist, high-aesthetic posters with a sense of ceremony and rationality using GPT Image 2. It specifies layout, typography, color usage, and negative constraints to achieve a museum-like white space effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789388939731_hkt6p3_HSHLijVaQAAJZkh.jpg",
+      "https://cms-assets.youmind.com/media/1789388939778_v4qjhb_HSHLkKYbcAEjISS.jpg",
+      "https://cms-assets.youmind.com/media/1789388939994_1deokd_HSHLlYhbkAAf3lE.jpg",
+      "https://cms-assets.youmind.com/media/1789388940538_7bmbsi_HSHLn0raYAA68sK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34464,
     "content": "Create a full-sheet 3x3 grid of realistic UGC-style panels featuring this {argument name=\"category\" default=\"provision store\"} using GPT Image 2. Split the video into 3 continuous sections. Each panel must contain a cinematic visual frame plus readable production notes printed directly inside the panel. The goal isn't just to show the product. It’s to help customers imagine a reason to buy it. The business name is {argument name=\"business name\" default=\"Zioraa Ventures\"}. Embedded the business name in the background.",
     "title": "UGC Style Marketing Panel Grid",

@@ -1,5 +1,26 @@
 [
   {
+    "id": 34643,
+    "content": "Create a highly photorealistic full-body studio portrait of an elegant adult woman wearing a sophisticated black midi formal dress with long sleeves, a tailored waist, premium fabric, and subtle texture. Minimal jewelry, elegant pointed heels, sleek polished hair, soft natural makeup, confident gentle expression. Luxury fashion studio backdrop, soft diffused lighting, realistic skin texture, natural proportions, cinematic editorial photography, 85mm lens, ultra-detailed, 8K, no text, no watermark.",
+    "title": "Luxury Fashion Studio Portrait",
+    "description": "A prompt for generating a photorealistic full-body studio portrait of an elegant woman in a black midi dress, emphasizing luxury fashion editorial aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789388937072_7gytck_HSJ2SqKbEAA11Yv.jpg",
+      "https://cms-assets.youmind.com/media/1789388937103_8ei60j_HSJ2Tp1akAEu6sr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34656,
+    "content": "A premium photorealistic close-up of a vintage-style pastel pink blender on a modern kitchen countertop. The blender has a glossy pink retro body with polished chrome accents, a transparent glass jar with a clear handle, and a round front control dial with a glowing red indicator light. Inside the jar, pale pink and white ingredients are being blended, creating a smooth swirling motion. A woman’s hand is gently holding the chrome side handle on the right. Elegant modern kitchen background with dark arched doorway, framed minimalist artwork, soft warm indoor lighting, shallow depth of field, realistic reflections on the chrome and glass, luxury product photography, cinematic composition, highly detailed, natural textures, vertical 9:16.",
+    "title": "GPT Image 2 Prompt: Vintage Pink Blender",
+    "description": "A premium product photography prompt for GPT Image 2 featuring a vintage-style pastel pink blender in a modern kitchen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789388947736_m2pa42_HSF63L-bgAA_Hmi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 33995,
     "content": "Goal: Create a wide comparison graphic showing two generated versions of a rhode beauty static ad for Peptide Lip Treatment in Watermelon Slice, with a black presentation background and two square ad mockups side by side.\n\nCanvas: 16:9 horizontal frame, black background, high contrast, clean social-media comparison layout.\n\nLayout: Place two rounded-corner square ad images centered horizontally with generous spacing. The left panel is labeled above in bright orange text: “GPT-Image-2”. The right panel is labeled above in the same bright orange text: “GPT-Image-2.5”. Add one small italic orange caption centered near the bottom reading “prompt in comments”.\n\nAd panels: Use exactly 2 square beauty advertisement panels.\n1. Left panel: soft pink background, rounded corners, elegant editorial beauty-ad composition. At the upper left, large serif headline text reads “A SLICE OF GLOSS.” with smaller text below reading “Peptide Lip Treatment”. A pink rhode Peptide Lip Treatment tube floats diagonally from upper right toward lower center, with vertical white “rhode” branding. Surround it with a glossy pink gel swirl, transparent splash droplets, and watermelon slices. Include a large circular pink sunburst shape behind the product. Watermelon elements count: 3 visible slices or wedges — one large lower watermelon slice, one right-middle slice behind the tube, and one small upper-right wedge. Keep the product large and central.\n2. Right panel: more dynamic, brighter, more detailed version of the same rhode ad. Pink background, rounded corners, upper-left serif headline “A SLICE OF GLOSS.” and smaller “Peptide Lip Treatment”. A larger pink rhode tube floats diagonally near the center, surrounded by a dramatic translucent glossy pink splash ribbon, many bubbles and droplets, and watermelon slices. Watermelon elements count: 5 visible pieces — one large foreground watermelon strip at the bottom, one left-middle wedge, one right-middle wedge, one small upper-right wedge, and one partial slice behind the splash near the center. The product should appear sharper, glossier, and more premium than the left panel.\n\nVisual style: polished product advertising, vivid watermelon pinks and reds, glossy liquid textures, studio lighting, high-end cosmetics campaign, crisp typography, saturated color, realistic 3D product rendering mixed with surreal splash photography.\n\nText and customization: Use the top labels {argument name=\"left model label\" default=\"GPT-Image-2\"} and {argument name=\"right model label\" default=\"GPT-Image-2.5\"}. Use the ad headline {argument name=\"headline text\" default=\"A SLICE OF GLOSS.\"}. Use the brand on the tube {argument name=\"brand name\" default=\"rhode\"}. Use the bottom caption {argument name=\"bottom caption\" default=\"prompt in comments\"}.\n\nConstraints: Keep exactly 2 comparison panels, exactly 2 orange model labels, and exactly 1 bottom caption. Do not add extra logos, watermarks, UI chrome, or additional text outside the specified labels and ad copy.",
     "title": "Rhode Lip Treatment Comparison Ad",
