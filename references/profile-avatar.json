@@ -1,33 +1,116 @@
 [
   {
-    "id": 34675,
-    "content": "Generate a real, natural, and approachable professional avatar based on the input photo, highly maintaining identity consistency, facial proportions, face shape, hairline, age sense, and original gender expression, without changing appearance. 1:1 square composition, framed above the chest, adopting asymmetric visual balance: character slightly to the right, retaining about 18% screen height above head, left and upper-left forming main negative space, avoiding ID-photo style centering and tight cropping. Natural shoulder lines, slight head tilt, looking straight at camera, relaxed, confident, friendly expression, can have natural smile or toothy grin.\n\nClothing adopts simple dark round neck or minimalist top, naturally adapted according to character's original style; females retain natural hairstyle, makeup, and moderate jewelry, males retain stubble, hairstyle, and other real features, no stereotypical gendered styling. Background is a real warm-toned wall: low-brightness reddish brown/caramel warm gray at top, gray-beige apricot in middle, creamy off-white at bottom, forming non-linear vertical gradient through natural light decay, wall reflection, and slight vignette; add fine, low-amplitude, high-frequency random grains, more obvious in dark areas, simulating early digital sensor and slight JPEG texture.\n\nUse large-area soft window light, low light ratio, low local contrast, no rim light or commercial studio shaping. Skin tone maintains real hue differences and natural blood color, females avoid porcelain white skin smoothing, males avoid over-emphasizing rough texture; reduce high-frequency skin details and clarity, retain mid-low frequency facial structures, making skin soft but real. Overall low-saturation warm tone, soft highlights, slight black lift, reduced blue-cyan colors, presenting early digital avatar texture of 2000s–2010s: smart, trustworthy, relaxed, natural, approachable, rather than modern high-end commercial portrait.",
-    "title": "Realistic Professional Avatar Prompt",
-    "description": "A highly detailed prompt for GPT Image 2 (referred to as GPT2/chatGPT web version) to generate realistic, natural professional avatars with specific lighting, background, and texture instructions.",
+    "id": 34776,
+    "content": "Using the provided reference image, transform the subject's portrait into a high-resolution double exposure artwork. Keep the woman's face, expression, and pose consistent with the original, but replace her clothing and the background with a majestic mountain range at dawn. The mountains should be covered in snow and bathed in warm golden sunlight breaking through the clouds. Overlay a secondary element of a glowing constellation bird (phoenix-like) formed by stars in the upper right sky. Add a subtle grain texture and cinematic lighting to blend the two images seamlessly.",
+    "title": "Double Exposure Mountain Dawn Portrait",
+    "description": "Transforms a standard portrait into an artistic double exposure composite featuring a mountain sunrise and a constellation bird.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789458724142_5nejfp_HSPWs47bYAArT_M.jpg"
+      "https://cms-assets.youmind.com/media/1789545107548_7qs10m_HSUkLdvbAAAcyqO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34764,
+    "content": "Subject:\nYellow dress through a mirror\n\nMain Subject:\nIn the center of the frame, a young woman takes a selfie reflecting her full body in a large mirror in a hotel washroom lined with large beige tiles. At the bottom is a black counter and white oval sink bowl; on the left is an open wooden door; the top shows wide ceiling and mirror margins.\n\nPerson & Expression:\nLoose dark brown curly hair reaching below the chest, half-tied back, thin bangs and stray hairs at temples, large brown eyes, thin eyeliner, soft rose cheeks, glossy pink lips. Face turned forward towards the mirror, showing a calm expression while hiding the right half with a smartphone.\n\nClothing & Pose:\nVibrant pale yellow strapless mini dress. Horizontal neckline, fine gathers from torso to waist, deep diagonal slit and long fabric hem hanging from left hip. Right hand holds a silver smartphone in front of face, left hand lightly pinches the drape beside the thigh, pulling one knee inward.\n\nBackground & Light:\nModern washroom background composed of central glossy beige tiles, dark wood on the left, and black stone sink in foreground. Downlights above act as main light source, with soft warm light falling evenly, creating smooth highlights on shoulders and yellow fabric.\n\nComposition & Camera:\n3:4 vertical composition, horizontal camera placed directly in front of the mirror, framing from crown to thighs centrally with standard smartphone angle. Leave wide margins of tile wall around the person, crop sink bowl at bottom edge. Sharp focus on person in mirror, deep depth of field where background is distinguishable.\n\nTexture & Style:\nPhotorealistic live-action photo. Natural mirror selfie in a hotel depicting soft skin, curly hair, fine wrinkles and gathers in yellow stretch fabric, reflections in mirror and tiles, and metal faucets in detail.\n\nNegative:\nChanging dress color, straps, or slit; hiding entire face with smartphone.",
+    "title": "Yellow Dress Mirror Selfie",
+    "description": "A prompt for generating a mirror selfie scene featuring a woman in a yellow dress in a hotel bathroom, focusing on reflections, fabric texture, and warm downlighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545101231_smhqcy_HSBw2e8aYAAeSYU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34766,
+    "content": "A softly intimate photorealistic lifestyle portrait of an adult East Asian woman relaxing on a light beige fabric sofa, composed in a vertical 2:3 frame. The camera is positioned slightly above her eye level and close to the sofa, creating a natural three-quarter portrait that includes her head, upper body, arms, waist, and part of her upper thighs.\n\nShe has a delicate softly oval face, a narrow natural jawline, smooth fair skin with a gentle warm-pink undertone, dark almond-shaped eyes, fine naturally straight eyebrows, a small refined nose, and softly defined coral-pink lips. Her makeup is fresh and understated: lightweight skin tint, subtle peach blush beneath the eyes, softly defined upper lashes, faint brown eyeliner, and a thin layer of natural lip gloss. She looks directly into the camera with a calm, slightly shy expression and a restrained closed-lip smile.\n\nHer glossy blue-black hair is gathered into a loose low ponytail falling behind her left shoulder. Long straight bangs skim her eyebrows and partially frame her eyes, with two longer face-framing strands resting naturally across her cheeks. Fine flyaways and baby hairs are visible around the crown and temples. The hair has realistic weight, slight irregularity, and individual strands catching the soft indoor light.\n\nShe wears an oversized crisp oatmeal linen button-down shirt styled loosely and casually. The open collar slips gently off both shoulders, exposing her collarbones while the shirt remains naturally draped across her torso. The sleeves are long and slightly rumpled, with realistic folds around the elbows and cuffs. Soft cream fitted lounge shorts are partially visible beneath the shirt. A simple polished silver bangle circles one wrist; her fingernails are short, neat, and finished in a translucent natural pink.\n\nHer body reclines diagonally into the sofa. One elbow rests on the raised sofa cushion, with that hand curved loosely beside her cheek and jaw. Her other forearm lies horizontally across the cushion in front of her, fingers softly relaxed. One bent thigh enters the lower-right foreground, reinforcing the close, informal seated pose. Her shoulders remain relaxed and her head tilts slightly toward the supporting hand.\n\nThe foreground is dominated by a large rounded beige sofa cushion with visible woven upholstery and gentle compression beneath her arm. Behind her are casually arranged blue-and-white cushions: one with narrow navy stripes and another with small indigo botanical and geometric motifs. The background is a simple pale lavender-white wall with the lower edge of a warm wooden framed artwork barely visible near the top of the composition. The apartment setting feels quiet, clean, comfortable, and naturally lived in.\n\nSoft diffused indoor daylight enters from camera-left, producing bright creamy exposure, delicate shadows beneath the chin and hair, and a faint pink-lavender cast across the white wall.",
+    "title": "Cozy Home Portrait Prompt",
+    "description": "A highly detailed photorealistic prompt for generating an intimate lifestyle portrait of a woman relaxing on a sofa, focusing on fabric textures, natural lighting, and casual elegance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545100730_livlvg_HSUDZc-bUAAGLc_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34763,
+    "content": "Subject:\nBlack hair on a white chair\n\nMain Subject:\nIn the center of the frame, a young woman sits on a white wooden armchair with both knees pulled up to her chest. On the left is a small table with a lace cloth and a potted plant; in the back right is a white chest, a vase with white and pale pink flowers, and a framed photo in a calm interior.\n\nPerson & Expression:\nGlossy black bob hair with tips playing outward at chin height, heavy bangs aligned above the eyes, slightly sharp dark brown eyes, modest eyeliner, pale rose cheeks, and moist pink lips. Face turned forward, tilted slightly right, looking at the camera with a quiet, composed expression.\n\nClothing & Pose:\nGrey ribbed camisole top with thin black straps and trim, small black buttons at the chest, black strap bottoms, white long-sleeve shirt loosely falling from shoulder to arm, heels with thin black straps. Knees stacked high, left hand resting on the upper knee.\n\nBackground & Light:\nPale-colored bedroom-style space with white and grey furniture, soft fabrics, and flowers. Soft natural daylight enters diagonally from the window on the left, brightly illuminating the face and legs, casting faint shadows to the right. Flowers and furniture in the background blur subtly.\n\nComposition & Camera:\n3:4 vertical composition, capturing the full body including the chair from a camera slightly higher than frontal. Place the person centrally and largely, making the knees the primary foreground shape, including the chair's armrests and feet in the frame. Focus on eyes and face, shallow depth of field for background.\n\nTexture & Style:\nPhotorealistic live-action photo. Depict the gloss of black hair, natural skin, ribbed fabric, fine wrinkles in the white shirt, paint and cushion of the chair in high definition, with a quiet pale grey color tone.\n\nNegative:\nChanging hairstyle or the way of sitting with knees hugged; wearing the white shirt properly.",
+    "title": "Black Hair Window Chair Photo",
+    "description": "A structured prompt for generating a photorealistic image of a young woman sitting on a white chair by a window, emphasizing black bob hair, grey camisole, and soft natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545101051_49vuqw_HSBtPgLawAANkSX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34757,
+    "content": "Upload one or multiple photos before generating.\n\nMAIN PROMPT\nTransform each uploaded photograph into a minimalist premium handmade paper illustration, using it as the sole reference for identity, pose, proportions, clothing, accessories, colors, and recognizable details.\nCreate ONLY the illustration. No original photograph or photographic section.\n\nFORMAT LOCK — NON-NEGOTIABLE\nStrict vertical 3:4.\nSingle full-frame minimalist editorial artwork.\nSubject small, centered, and restrained, occupying 10–20% of the canvas with generous negative space.\n\nIDENTITY & REFERENCE LOCK\nPreserve:\nFacial identity and structure, Face shape and hairstyle, Skin tone, Body proportions, Clothing and accessories, Pose or gesture, Important objects, Dominant colors, Overall visual character\nKeep the subject immediately recognizable. Do not alter identity, anatomy, hairstyle, clothing, or add unrelated elements.\n\nBOTTOM HALF — MINIMAL HAND-DRAWN PAPER ILLUSTRATION\nCreate a small, centered, highly recognizable handmade illustration.\nSimplify aggressively while preserving essential features.\nUse delicate imperfect lines, minimal expressive linework, few acrylic-style flat color shapes, visible brush marks, irregular organic edges, subtle pigment variation, tactile paper fibers, and natural handmade imperfections.\nIt must look physically painted and drawn on textured paper, not digitally generated.\n\nBACKGROUND\nMinimal rough white, warm off-white, or pale natural paper with subtle fibers and grain.\nKeep it overwhelmingly empty. Only a few minimal lines or shapes may suggest the original environment.\nNo detailed or decorative background.\n\nCOLOR SYSTEM\nExtract colors from the photograph.\nUse maximum four main colors.\nKeep the palette restrained, sophisticated, harmonious, and photographically connected.\nUse flat acrylic-style shapes with paper grain, dry-brush texture, and pigment variation.\n\nCOMPOSITION & NEGATIVE SPACE\nKeep the illustration precisely centered at 10–20% scale.\nSurround it with generous negative space.\nMood: quiet, poetic, refined, luxurious, editorial, thoughtful, elegant, minimal, premium.\n\nTYPOGRAPHY — STRICTLY PROHIBITED\nZERO TEXT.\nNo words, letters, numbers, titles, captions, labels, dates, logos, signatures, watermarks, or readable symbols.\nVISUAL LANGUAGE\nQuiet, poetic, refined, minimal, innocent, relaxed, artistic, thoughtful, elegant, recognizable, premium.\n\nOUTPUT STYLE\nPremium contemporary editorial / modern art-book illustration.\nTactile handmade paper, hand-drawn artwork, sophisticated visual storytelling.\nNo digital vector aesthetic.\n\nFINAL RESULT\nONLY one small, centered, highly recognizable handmade paper illustration derived from the uploaded photograph, surrounded by generous textured-paper negative space.\nMaximum four colors. No photograph. No photographic section. No text.\n\nNEGATIVE PROMPT\nNo photograph, photographic section, split-screen, upper half, collage, multiple images, seco",
+    "title": "Handmade paper illustration",
+    "description": "A prompt for transforming uploaded photos into minimalist premium handmade paper illustrations with strict formatting and identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545096162_2iz1s9_HSRMhM9XgAA5NKa.jpg",
+      "https://cms-assets.youmind.com/media/1789545096365_umelam_HSRMhNFXIAABAKX.jpg",
+      "https://cms-assets.youmind.com/media/1789545096249_3y7i1y_HSRMhM-W0AEEa_J.jpg",
+      "https://cms-assets.youmind.com/media/1789545097079_lyxqjp_HSRMhM-WsAEEawM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34753,
+    "content": "Use the uploaded portrait photo as the primary identity reference. Preserve the person’s recognizable facial identity as accurately as possible, including their face shape, apparent age, receding hairline or hairstyle, eyebrows, eye shape, nose, mouth, jawline, salt and pepper beard pattern, skin tone, expression, and overall individual character.\n\nCreate a cinematic, photorealistic 4:3 portrait scene in a quiet, charming corner of Montmartre, Paris. Show the same person from the uploaded photograph sitting or standing outside a classic Parisian café on a peaceful tourist street. The setting should feel authentically Montmartre, with a cobblestone street, old cream-colored buildings, café chairs, a red café awning, soft daylight, an artistic street atmosphere, and the Sacré-Cœur softly visible in the background.\n\nThe person should be clearly visible within the frame and photographed realistically, wearing a simple dark shirt or jacket. He holds a large white drawing pad beside him, facing the camera.\n\nThe paper features an exaggerated French street caricature of the same person, drawn in the classic old-school style of a Montmartre tourist artist. The caricature should appear hand-drawn using black ink or pen lines on white paper. It should be dramatically exaggerated and humorous while remaining clearly recognizable as the same person.\n\nPush the facial features theatrically: an oversized or unusually shaped nose, an exaggerated jawline, enlarged ears, expressive eyebrows, distorted facial proportions, a broad mischievous smile, a strongly emphasized beard shape, and a playful, over-the-top expression. Keep the caricature charming, funny, and artistic rather than grotesque.\n\nImportant: clearly show both versions within a single image:\n\nThe real, photorealistic person\nThe caricature drawing of the same person on the paper\n\nUse realistic lighting, a clean composition, high detail, natural skin texture, believable hands holding the paper, a calm background, and a playful vintage Parisian tourist-souvenir atmosphere.\n\nAspect ratio: 4:3.",
+    "title": "Montmartre caricature portrait",
+    "description": "A prompt for generating a cinematic photorealistic portrait of a person in Montmartre holding a drawing pad with their own exaggerated caricature on it.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545094907_gtbdav_HSRMcsRWsAA2RVh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34769,
+    "content": "Using the provided reference image as the character base, generate a horizontal two-panel diptych portrait. Preserve the subject's identity, facial features, and signature silver jhumka earrings exactly as they appear in the reference.\n\nLayout: A split composition with a thin vertical divider line separating the two panels. The entire canvas has a textured beige paper background featuring hand-drawn black ink botanical vine illustrations that frame the outer edges of both panels.\n\nLeft Panel (Soft Mood): Depict the subject wearing a white kurta with delicate blue floral embroidery. She is resting her chin on her hand, looking upward to the right. The background is a warm, dusty pink wall with soft window light coming from the left.\n\nRight Panel (Bold Mood): Depict the subject wearing a structured black blazer over a black top. She is looking upward to the right with a confident expression. The background is a cool slate-blue studio setting with a large, soft circular spotlight effect behind her head.",
+    "title": "Two-Panel Portrait Diptych",
+    "description": "A prompt to transform a single photo into a stylish two-panel diptych featuring contrasting 'soft' and 'bold' moods with decorative botanical borders.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545104724_1cvtje_HSQz6FGaEAAURpy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34675,
+    "content": "Generate a real, natural, and approachable professional headshot based on the input photo, highly maintaining identity consistency, facial proportions, face shape, hairline, age perception, and original gender expression without changing appearance. 1:1 square composition, framed from chest up, using asymmetric visual balance: subject slightly right, retaining about 18% headroom, left and top-left forming main negative space, avoiding ID-photo centering and tight cropping. Natural shoulder line, slight head tilt, looking directly at camera, relaxed, confident, friendly expression, natural smile or toothy smile allowed.\n\nClothing is simple dark round-neck or minimalist top, naturally adapted to the person's original style; females retain natural hairstyle, makeup, and moderate jewelry; males retain stubble, hairstyle, and other realistic features, no stereotypical gender styling. Background is a real warm-toned wall: low-brightness red-brown/caramel warm gray at top, gray-beige/apricot in middle, cream-white at bottom, forming non-linear vertical gradient via natural light falloff, wall reflection, and slight vignette; add fine, low-amplitude, high-frequency random noise, more obvious in shadows, simulating early digital sensors and slight JPEG texture.\n\nUse large-area soft window light, low lighting ratio, low local contrast, no rim light or commercial studio shaping. Skin tone maintains real hue differences and natural blood color; females avoid porcelain skin smoothing, males avoid over-emphasizing rough texture; reduce high-frequency skin details and clarity, retain mid-low frequency facial structure, making skin soft but real. Overall low-saturation warm tone, soft highlights, slight lift in blacks, reduced blue-cyan tones, presenting 2000s–2010s early digital headshot quality: smart, trustworthy, relaxed, natural, approachable, rather than modern high-end commercial portrait.",
+    "title": "Natural Professional Headshot Prompt",
+    "description": "A detailed prompt for generating realistic, approachable professional headshots with specific lighting, background gradients, and film-like grain effects. Perfect for LinkedIn profiles or personal branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545099940_jstsvo_HSPWs47bYAArT_M.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 34679,
     "content": "Ultra-realistic cinematic close-up portrait of a strikingly handsome young man in his early 20s, with thick naturally wavy jet-black hair styled with soft volume and a slightly tousled side sweep, strong well-defined eyebrows, deep dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He gazes slightly upward and toward the side with a calm, confident, mysterious expression.\nHe wears a minimalist dark charcoal crew-neck shirt and a single sleek wireless earbud in one ear. Three-quarter profile, head slightly tilted upward, shoulders relaxed. Dramatic single-source side lighting creates strong highlights across his forehead, cheekbone, nose and jaw while leaving part of his face in deep cinematic shadow. Subtle warm skin tones contrast against a dark navy-black textured studio background.\nSophisticated masculine editorial photography, moody luxury aesthetic, realistic skin texture and pores, natural facial imperfections, detailed hair strands, cinematic contrast, soft atmospheric shadows, shallow depth of field, 85mm portrait lens, f/1.8, professional studio photography, subtle film grain, HDR, ultra-detailed, photorealistic, 8K quality, premium fashion campaign aesthetic, no text, no watermark, no logos, no exaggerated muscles, no plastic-looking skin, no AI-looking face.",
-    "title": "Handsome Man Cinematic Portrait Prompt",
-    "description": "A prompt for generating an ultra-realistic close-up portrait of a handsome young man with wavy black hair, wearing a charcoal shirt and earbud, with dramatic side lighting.",
+    "title": "Cinematic Male Portrait Prompt",
+    "description": "A highly detailed prompt for generating an ultra-realistic cinematic close-up portrait of a young man with dramatic lighting and specific physical features.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789458727808_d47swy_HSOxQ5RaMAApz2H.jpg"
+      "https://cms-assets.youmind.com/media/1789545103604_j08z7n_HSOxQ5RaMAApz2H.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 34684,
     "content": "Photorealistic cinematic close-up portrait of a young adult man use image for face reference with natural skin texture. He is wearing a plain black crew-neck T-shirt and white wireless earbuds. Low-angle camera perspective, head and shoulders filling the frame, looking slightly upward and off-camera with a serious, confident expression. Dramatic directional lighting from the upper right side creates strong highlights on the face and deep shadows on the opposite side. Dark charcoal-blue studio background, moody high-contrast atmosphere, realistic pores and beard detail, sharp focus on the eyes and face, shallow depth of field, professional editorial photography, 85mm portrait lens, f/2, natural skin tones, cinematic color grading, ultra-detailed, photorealistic, vertical 4:5 composition.",
-    "title": "Cinematic Male Portrait Reference",
-    "description": "A prompt for generating a photorealistic cinematic close-up portrait of a man using a reference image for face consistency, featuring dramatic lighting and moody atmosphere.",
+    "title": "Moody Studio Portrait Prompt",
+    "description": "A prompt for GPT Image 2 to generate a photorealistic close-up portrait of a man with earbuds in a moody studio setting. Note: Tweet also tags Hailuo_AI, but primarily focuses on GPT Image 2 prompt sharing.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789458730735_rskbzz_HSOihz6a4AAvM_j.jpg"
+      "https://cms-assets.youmind.com/media/1789545103240_774ct1_HSOihz6a4AAvM_j.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 34762,
+    "content": "Subject:\nBlack Ribs in Diagonal Light\n\nMain Subject:\nVertical portrait of an adult woman wearing a black deep V-neck ribbed top in a dark plain indoor setting. The person is placed relative to the center of the screen.\n\nPerson & Expression:\nPale brown straight bob reaching shoulders with thin bangs. Slender oval face contour, small chin, downward-looking brown eyes, natural eyebrows, thin nose bridge, plump glossy peach lips. Face turned to lower left. Calm expression.\n\nClothing & Pose:\nBlack fine-rib long-sleeve top with very deep V-shape at chest. Small circular pendant on thin gold chain. Body twisted slightly to the right of screen, standing with shoulders dropped.\n\nBackground & Light:\nDark tea-black wall. Narrow warm-colored hard diagonal light enters from left onto face, neck, and chest, creating large dense shadows on wall and beside face. Main light source in background is soft light from left side of screen.\n\nComposition & Camera:\n2:3 vertical composition, camera takes below-chest portrait from front diagonal. Person in center-right, shadow spreading to left, framing largely from crown to below chest. Focus on eyes, lips, hair, rib texture. Person framed largely, focused on subject, background lightly blurred.\n\nTexture & Style:\nPhotorealistic cinematic portrait. Detailed rendering of natural skin texture, fine hair strands, black ribs, gold pendant, hard diagonal light and deep shadows.\n\nNegative:\nDo not weaken the narrow hard diagonal light from left and deep V-shape",
+    "title": "Diagonal Light Black Rib Portrait Prompt",
+    "description": "A prompt for generating a cinematic portrait of a woman in a black ribbed top with dramatic diagonal lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545099865_xgc6eg_HR1k9Q9a4AAbRbt.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 34673,
@@ -36,6 +119,37 @@
     "description": "A prompt for a photorealistic candid portrait of a woman outside a cafe on a rainy afternoon using GPT Image 2.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1789458722601_rz9w51_HSOdjGKa4AAbTSR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34770,
+    "content": "Create a 3x3 grid of nine stylized digital portrait avatars on a clean white background, all depicting the same young man with curly dark brown hair, a trimmed beard and mustache, and a soul patch under his lower lip. He wears a charcoal gray suit jacket over a crisp white collared shirt. The art style is smooth, semi-realistic 3D rendering reminiscent of modern app profile pictures, with soft studio lighting and gentle skin shading. Arrange the nine heads in three rows to show different gaze directions: top row looking upward (left, center, right), middle row looking straight ahead or slightly sideways at eye level, bottom row looking downward. Keep facial features consistent across all nine panels while varying only head angle and eye direction.",
+    "title": "Nine-Angle Stylized Male Avatar Grid",
+    "description": "Generates a 3x3 sheet of consistent stylized male profile avatars showing varied head angles and gaze directions, ideal for character reference sheets or profile picture sets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545105098_g6nt7u_HSOR44kXwAA2Cal.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34775,
+    "content": "Create a vertical watercolor and ink illustration of a young woman standing on a busy city street corner. The style should be cute, hand-drawn, and airy with soft pastel colors and loose black outlines.\n\nSubject details: A girl with long, wavy brown hair stands in the center foreground, looking back over her shoulder at the viewer with a gentle smile. She wears a black sleeveless top, high-waisted white wide-leg trousers, and white sneakers. She carries a black quilted Chanel-style bag with a gold chain strap. Small pink hearts and yellow sparkles float near her head.\n\nSetting: A bustling urban intersection reminiscent of Hong Kong. To the left is a grey traffic light pole with a red light illuminated. Attached to the pole are two signs: a top white sign reading \"Nathan Road\" and Chinese characters, and a lower pink rectangular sign reading \"Sasa\" and Chinese characters.\n\nBackground elements:\n1. Two iconic red taxis are visible—one driving away on the left (license plate 740) and one parked or moving slowly on the right (license plate TX 5037).\n2. Tall buildings line the street in the background, rendered in pale blues, creams, and greys.\n3. On the right building facade, there is a large white billboard with red text \"AD HERE\" and Chinese characters, and below it a green shop sign reading \"LUKFOOK\" and Chinese characters.\n4. Faint silhouettes of other pedestrians are sketched in the distance.\n\nVisual style: Use a sketchy, artistic aesthetic with visible pencil lines and watercolor washes that bleed slightly outside the lines. The lighting is bright and cheerful.",
+    "title": "Cute Watercolor Girl on Nathan Road",
+    "description": "A charming watercolor illustration of a stylish girl posing on a Hong Kong street corner with red taxis and neon signs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545107093_tvkjbz_HSOLVJZX0AAZWz4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34678,
+    "content": "ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid winter travel portrait of a young East Asian woman sitting comfortably in a huge snowbank outside a modern mountain-town building.\nShe has medium-length dark brown hair styled in two loose low pigtails with soft strands framing her face. She wears a fluffy cream-white winter hat with a soft pink inner lining and a thick oversized pink-and-white striped scarf wrapped warmly around her neck. She has natural youthful features, rosy cheeks from the cold, and a bright genuine laugh while looking directly at the camera.\nShe is dressed in a warm ivory-white puffer jacket and loose cream-white wide-leg winter pants. She wears thick brown knitted gloves and cozy tan winter snow boots with cream-colored fleece cuffs. Her hands are clasped together naturally between her knees while she sits in the snow, with both legs extending forward.\nFresh deep snow completely covers the ground, forming large soft snowdrifts around her. Snowflakes are gently falling through the air, with small flakes visible against her clothing and in the background.\nBehind her is a modern multi-story building partially covered in snow, featuring dark metal exterior staircases, large windows, green storefront awnings, outdoor vending machines, railings, bare winter trees, and thick accumulated snow along the edges of the property.\nSoft overcast winter daylight, cool snowy atmosphere, realistic snow texture, subtle shadows, natural ambient lighting, peaceful snowy vacation setting.\nRAW smartphone photography aesthetic, ultra-realistic skin texture, natural facial details, realistic hair strands, authentic winter clothing textures, physically accurate snow, realistic proportions, natural candid pose, slight smartphone lens softness, no beauty filter, no plastic skin, no CGI appearance, highly detailed environment, authentic winter travel photography, vertical 3:4 composition.",
+    "title": "Winter Travel Portrait Prompt",
+    "description": "A detailed prompt for generating an ultra-realistic winter travel portrait of a woman in a snowbank using GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789545093686_it4ip5_HSNmoA9b0AAFXSc.jpg",
+      "https://cms-assets.youmind.com/media/1789545093676_sh15cf_HSNmpHPaQAAkrs8.jpg"
     ],
     "needReferenceImages": false
   },
