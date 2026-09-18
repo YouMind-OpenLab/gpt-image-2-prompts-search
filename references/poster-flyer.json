@@ -1,11 +1,57 @@
 [
   {
+    "id": 34942,
+    "content": "Create a diptych image with two side-by-side panels. The left panel shows a young woman with short dark hair sitting at a table by a large window, looking down and writing or drawing in a notebook. She wears a dark floral-patterned top. Green leafy plants frame the foreground on the left, partially obscuring the view. A warm pendant lamp hangs above. The right panel is an extremely soft-focus, hazy, dreamlike version of the same scene — the woman appears as a blurred silhouette against bright diffused light, with faint shadows of leaves cast across the surface. In the upper right corner of the right panel, elegant serif text reads: \"A Quieter Day\" followed by smaller text \"Small moments also make a bright life.\" Below that, a thin horizontal line. In the bottom right corner, very small uppercase text reads: \"STILL HERE STILL GOOD\". Overall mood: gentle, healing, quiet, nostalgic. Color palette: muted greens, warm whites, soft grays, low saturation. Style: Japanese aesthetic photography, film grain, shallow depth of field, overexposed highlights.",
+    "title": "Soft-Focus Diptych of a Quiet Writing Moment",
+    "description": "Generates a two-panel image showing a woman writing by a window in sharp focus on the left and an ethereal, heavily blurred version on the right with poetic text overlays, evoking a calm and healing atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789717719607_a35vz8_HSdTtcJawAAfc5p.jpg",
+      "https://cms-assets.youmind.com/media/1789717719581_zmjijr_HSdTuukagAEnroB.jpg",
+      "https://cms-assets.youmind.com/media/1789717719584_yjnbho_HSdTv2EbcAA9b_K.jpg",
+      "https://cms-assets.youmind.com/media/1789717720128_3nj98w_HSdTwr9bUAACkTv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34929,
+    "content": "Take any futuristic theme providing core concepts, short phrases, and minor auxiliary notes, and translate the theme into an extremely enlarged text or symbol subject: The first impression must be heavy, bold sans-serif glyphs filling almost the entire frame, pressed horizontally into the layout, with the character body occupying the center like structural beams, partially cropped or overflowing, making reading first become a strong form event before reading subtitles at its edges. Keep the background largely empty with cool white space, overlaid with extremely thin, light warm-colored composition lines, baselines, and vertical column lines; these lines should look like unhidden skeletons of a design draft rather than decoration. Use only high-saturation orange-red as the primary color to carry all visual weight, gray for small explanatory text, avoiding multi-colors and gradients. Information modules are sparsely placed at grid intersections and edges: small icons composed of simple geometric angles, dots, and short dashes; titles are short and bold; body text is in narrow columns and light gray. The overall presentation should have a precise, restrained, experimental typographic educational feel. Glyph construction requires low contrast, thick strokes, large open counters, flat terminals, tight tracking; punctuation and auxiliary symbols also follow the grid rhythm. If switching to other writing systems, maintain equivalent block volume, inner/outer spatial relationships, cropping pressure, and horizontal reading momentum. Prohibit illustrative backgrounds, shadows, paper textures, centered cards, rounded cuteness, commercial poster lighting effects, and over-packed information.\n\n——————\nTheme: {argument name=\"theme_en\" default=\"Joy\"}\nAspect Ratio: {argument name=\"aspect_ratio_en\" default=\"9:16\"}\nNote: Appropriate Mid-Autumn elements\nFont Color: {argument name=\"font_color_en\" default=\"Gucci Ancora Red\"}",
+    "title": "Mid-Autumn Festival Typography Poster Prompt",
+    "description": "A prompt for generating a minimalist, experimental typography poster with a Mid-Autumn theme, featuring large sans-serif characters and Gucci red accents.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789717708670_l9g6hd_HSaRCE7aEAARvTd.jpg",
+      "https://cms-assets.youmind.com/media/1789717710254_7tw59m_HSaRC59bYAAXf7B.jpg",
+      "https://cms-assets.youmind.com/media/1789717710232_2bpdv2_HSaREJmaYAAuJbb.jpg",
+      "https://cms-assets.youmind.com/media/1789717709660_0jr50w_HSaRFJ4bcAATWUq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 34944,
+    "content": "A cinematic, hyper-realistic wide shot of a vibrant night carnival scene. In the foreground, four young adults (two men and two women) stand looking up with expressions of wonder and joy. The central woman has long dark hair and wears a white floral top; she is smiling softly. To her left, a man in a hoodie looks upward. Behind them, another woman and man are also gazing at the sky. The background is filled with dazzling, out-of-focus bokeh lights from a massive Ferris wheel and carousel structures, glowing in intense neon blues, purples, and oranges. A single carousel horse floats mysteriously in the upper right air, detached from the ride, bathed in magical light. The atmosphere is dreamlike and electric.",
+    "title": "Carnival Wonder Night Scene",
+    "description": "Generates a cinematic image of friends marveling at a neon-lit carnival with a floating carousel horse.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789717720870_j7ngii_HSaAZdnbcAAszVB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 34943,
+    "content": "A cinematic, vertical movie poster featuring a family of four and their dog standing inside a massive, ancient ice cave. The environment is dominated by towering, translucent blue glacier crystals that form the walls and ceiling, with bright light filtering through from above. Etched into several large crystal pillars are glowing white runic symbols, including suns, triangles, and wavy lines. In the foreground left, a golden retriever sits looking up to the right. Beside it stands a young woman with long brown hair wearing a patterned knit sweater and dark jeans, hands in pockets, gazing upward. Behind her is a man with a beard wearing a black beanie and heavy winter jacket. To the right are two children: a boy in a grey beanie and puffer jacket, and a girl in a cream beanie and scarf, both looking up in awe. Snowflakes drift through the air, catching the light. The color palette is cool blues, whites, and greys, contrasting with the warm tones of the dog's fur and the woman's sweater.",
+    "title": "Glacial Ice Cave Family Poster",
+    "description": "Generates a moody, cinematic image of a family and dog exploring an ancient ice cave filled with glowing runes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789717720526_3etg6i_HSZJMqeaEAASV3Q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 34846,
     "content": "Create a vertical 2:3 cinematic artwork inspired by the two reference images. Divide the composition into two elegant sections: the top section shows a realistic dreamy Jiangnan water-town night, with a huge glowing golden full moon behind willow trees and black-tile roofs, a small warm wooden waterside teahouse with glowing lights, calm canal water reflecting the moonlight, a small wooden boat with two people, distant birds, and peaceful starry sky; the bottom section shows a beautiful hand-painted watercolor/ink illustration of a snowy mountain beside a calm lake, a golden full moon behind the mountain, a tiny boat with one person on the lake, and soft reflections in the water. Keep the composition balanced, peaceful, magical and artistic, with warm golden tones in the top scene and cool blue-white tones in the bottom scene, subtle paper texture, elegant minimal typography area, premium poster design, highly detailed, cinematic lighting, dreamy moonlight atmosphere, clean composition, realistic top scene + delicate watercolor illustration bottom scene, no logos, no watermark.",
-    "title": "Dual Section Moonlit Poster Prompt",
-    "description": "A detailed prompt for generating a vertical cinematic artwork featuring a Jiangnan water town night scene on top and a snowy mountain watercolor illustration on the bottom.",
+    "title": "GPT Image 2 Dual Panel Moon Night Poster",
+    "description": "A prompt for creating a vertical dual-panel poster featuring a Jiangnan water town night and a snowy mountain lake, inspired by reference images.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789631453844_vkohue_HSYpjghaAAAh5Mn.jpg"
+      "https://cms-assets.youmind.com/media/1789717712216_gkappl_HSYpjghaAAAh5Mn.jpg"
     ],
     "needReferenceImages": true
   },
