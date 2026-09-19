@@ -10,6 +10,29 @@
     "needReferenceImages": true
   },
   {
+    "id": 35003,
+    "content": "Create a cinematic, ultra-realistic studio portrait of the same man, preserving his facial identity, facial structure, hairstyle, beard, skin tone, and distinctive features.\n\nHe is staring intensely directly into the camera with a serious, confident, intimidating expression. He wears a crisp white dress shirt, slightly open at the collar. His tattooed forearms rest on a dark surface, with both hands naturally clasped together in the foreground. Add a sophisticated luxury wristwatch.\n\nUse dramatic warm side lighting from one direction, creating deep cinematic shadows and sculpted facial features while retaining realistic skin texture, pores, beard detail",
+    "title": "Cinematic Studio Portrait Prompt",
+    "description": "A prompt for generating a cinematic, ultra-realistic studio portrait of a man with tattoos and a watch, emphasizing dramatic lighting and facial identity preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789803924733_8hsv1z_HSjMUR0bwAAEe3S.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35002,
+    "content": "[Character Name], real-person version, faithful to core character identity.\nA set of urban street snap photography × fashionable character street snapshot × natural life feel.\nThe character truly appears on modern city streets, presented as a set of street snap images. Automatically decide street scenery, modern outfit translation, actions, standing poses, moment of turning back, camera position, shot size, and composition based on character temperament.\nRetain hairstyle, representative colors, iconic accessories, and identity temperament, do not copy original costumes exactly.\nReal streets, shop windows, coffee shops, alley entrances, zebra crossings, road signs, blurred passerby backgrounds, natural spatial depth.\nNatural light or urban ambient light, slight candid feel, high-end street snap feel, realistic photographic texture, clear subject, background with depth of field.\nNo UI, no screenshot feel, no extra text.\nTop left stylized \"V\" + cat element logo, bottom right voxCAT signature.",
+    "title": "GPT Image 2 Real-Life Character Street Snap",
+    "description": "A prompt template for converting anime/game characters into realistic street photography style using GPT Image 2, focusing on natural lighting and authentic urban settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789803922169_fcf50q_HSfcWWbbUAA5uyR.jpg",
+      "https://cms-assets.youmind.com/media/1789803922538_3d2fcz_HSfcWZPboAACjHB.jpg",
+      "https://cms-assets.youmind.com/media/1789803922023_taeyeg_HSfcWZMbEAAVVwB.jpg",
+      "https://cms-assets.youmind.com/media/1789803923311_i4cuar_HSfcWWdbQAA76Hl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 34933,
     "content": "-\nUltra realistic fashion portrait of a beautiful woman surrounded by flowing translucent white fabric, soft wind blowing hair naturally, elegant white sleeveless dress, minimal monochrome aesthetic, airy silk fabric wrapping around the frame, dreamy cinematic lighting, soft diffused daylight, luxury editorial photography, ethereal atmosphere, delicate skin texture, soft shadows, high fashion Vogue style, centered composition, clean white background, graceful movement, 85mm lens, shallow depth of field, ultra detailed, premium beauty campaign, soft matte tones, natural facial expression, floating fabric motion, sophisticated feminine aesthetic",
     "title": "Ultra Realistic Fashion Portrait Prompt",
@@ -18,16 +41,6 @@
       "https://cms-assets.youmind.com/media/1789717713791_833rol_HSeVd0QbQAAZWwM.jpg"
     ],
     "needReferenceImages": false
-  },
-  {
-    "id": 34945,
-    "content": "A photorealistic portrait of a young Asian woman in a cozy bookstore setting. She has long, dark brown hair with loose bangs and is wearing an oversized lavender chunky-knit sweater. She is winking playfully at the camera while resting her chin on one hand. In her other hand, she holds up a miniature blue balance bike keychain with yellow tires and orange handlebars/seat. The background features blurred wooden bookshelves filled with books and warm ambient lighting from hanging lamps. On a nearby sign, the text 'A Brighter You' is visible.",
-    "title": "Woman Winking Holding Miniature Bike Keychain",
-    "description": "A photorealistic image of a young woman in a lavender sweater holding a miniature balance bike keychain in a bookstore.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789717721890_00a44g_HSeRH5taoAENRbm.jpg"
-    ],
-    "needReferenceImages": true
   },
   {
     "id": 34928,
@@ -3666,14 +3679,14 @@
   },
   {
     "id": 32240,
-    "content": "Design a minimalist poster with a high-end commercial aesthetic, where the core visual language is 'real objects crossing a geometric emotional window'. Set a narrow, low-saturation color block in the frame as a visual anchor and spatial container; choose soft light colors like fog blue, light cyan, cream white, pale pink, warm gray, or light gold for the block based on the theme. Place {argument name=\"core object\" default=\"a blooming flower\"} into the color block with a realistic photographic texture or fine realistic style, but do not trap it completely within the block; let parts of the subject cross boundaries and extend into the negative space to create a sense of natural growth and spatial penetration. Keep the background minimalist with large areas of white or light gray space, adding almost transparent cultural patterns, linear graphics, topographic lines, water ripples, light and shadow outlines, or abstract symbols as subtle visual details. The overall layout should resemble high-end real estate, luxury goods, aesthetic magazines, or seasonal posters, with slender, restrained text and stretched letter spacing. The title can be vertical, and auxiliary information should be neatly arranged in small font sizes. The image needs to convey Eastern negative space, modern order, natural vitality, and a sense of light luxury quality. Avoid clutter, high saturation, heavy shadows, and a cheap template feel.",
-    "title": "Minimalist Commercial Aesthetic Poster",
-    "description": "A high-end minimalist poster prompt using a 'geometric mood window' design language, perfect for commercial, luxury, or aesthetic magazine styles.",
+    "content": "Design a minimalist poster with high-end commercial aesthetics. The core visual language is \"real objects passing through geometric emotional windows.\" Set up a narrow, low-saturation color block in the frame as a visual anchor and spatial container. Choose soft light colors for the block based on the theme, such as misty blue, light cyan, off-white, pale pink, warm gray, or light gold. Place the [{argument name=\"core object\" default=\"coffee cup\"}] into the color block with realistic photographic texture or fine realism, but do not completely confine it within the block; allow parts of the subject to cross boundaries, break the frame, and extend into the whitespace area, creating a sense of natural growth and spatial penetration. Keep the background extremely simple, using large areas of white or light gray whitespace, adding almost transparent cultural patterns, linear graphics, terrain lines, water wave lines, light and shadow outlines, or abstract symbols as subtle visual details. The overall layout should resemble high-end real estate, luxury goods, aesthetic magazines, or solar term posters, with slender, restrained text and spacious letter spacing. Titles can be vertical, with auxiliary information arranged neatly in small font sizes. The image needs to have Eastern whitespace, modern order, natural vitality, and light luxury quality. Avoid clutter, avoid high saturation, avoid heavy shadows, and avoid cheap template feelings.",
+    "title": "Minimalist Commercial Poster Prompt for GPT Image 2",
+    "description": "A prompt designed for generating high-end minimalist commercial posters with a specific aesthetic of 'real objects passing through geometric emotional windows'. It emphasizes soft colors, realistic textures, and Eastern-style whitespace.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1787645611964_55d9b4_HQSU96-aoAAex4z.jpg",
-      "https://cms-assets.youmind.com/media/1787645611870_679aj4_HQSVFBjaUAElLPs.jpg",
-      "https://cms-assets.youmind.com/media/1787645611953_xn9jmw_HQSVJsPa4AAlsQ4.jpg",
-      "https://cms-assets.youmind.com/media/1787645613636_o315me_HQSVLHrbMAACljs.jpg"
+      "https://cms-assets.youmind.com/media/1789803926549_efkv7m_HQSU96-aoAAex4z.jpg",
+      "https://cms-assets.youmind.com/media/1789803926567_aytuax_HQSVFBjaUAElLPs.jpg",
+      "https://cms-assets.youmind.com/media/1789803926628_vzgkih_HQSVJsPa4AAlsQ4.jpg",
+      "https://cms-assets.youmind.com/media/1789803927385_j5usu3_HQSVLHrbMAACljs.jpg"
     ],
     "needReferenceImages": false
   },
