@@ -1,5 +1,47 @@
 [
   {
+    "id": 35056,
+    "content": "A vertical, split-panel travel poster featuring a photographic view on top and a 3D layered paper-craft illustration of the exact same scene on the bottom.\n\nTop Panel (Realistic Photography): A wide-angle, highly detailed, vibrant photograph of {argument name=\"location scenery\" default=\"a serene Swiss alpine valley with a modern blue train\"}. The lighting is {argument name=\"lighting style\" default=\"warm golden hour light\"}. The composition shows {argument name=\"main subject action\" default=\"a train curving on tracks\"}.\n\nBottom Panel (Paper-Craft Art): An intricate, multi-layered 3D paper-cut illustration re-creating the exact scene from the photo above. Hand-crafted dimensional paper layers create depth, with visible textured paper edges and shadows. Elements like the background mountains, trees, architecture, and subjects are constructed from distinct colored paper cutouts. The background paper behind the illustration is a warm, textured off-white cream color.\n\nTypography & Layout: Clean, minimalist travel poster design. Elegant dark serif typography for the main title: \"{argument name=\"title text\" default=\"Alpine Journey\"}\". Smaller sans-serif text aligned to the right or side: \"SCENIC ROUTE / NATURE / A BRIGHTER TOMORROW\". Minimalist captions and thin alignment lines placed on the cream paper background.",
+    "title": "Split-Panel Travel Poster Prompt for GPT Image 2",
+    "description": "A detailed prompt for generating a vertical travel poster that combines realistic photography on top with 3D paper-craft illustration on the bottom. It includes customizable fields for location, lighting, subject, and typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789891171902_3t0gre_HSo5s3jbsAArQri.jpg",
+      "https://cms-assets.youmind.com/media/1789891171896_ujcn5i_HSo5s33bYAAW4l6.jpg",
+      "https://cms-assets.youmind.com/media/1789891171896_sqponz_HSo5s4EbYAEaFka.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35055,
+    "content": "Cinematic ultra-realistic male portrait, use the provided reference image for facial features and overall appearance. Close-up head-and-shoulders composition of a man in his 30s with strong masculine facial structure, defined jawline, thick textured dark hair, realistic short beard, and detailed natural skin texture. He is wearing round vintage amber/tortoiseshell sunglasses with dark lenses and an oversized black hoodie. He looks directly into the camera with an intense, calm, neutral expression.\n\nMoody luxury fashion-editorial aesthetic, dramatic cool blue rim light from the side combined with a subtle warm key light on the skin, deep cinematic shadows, realistic reflections in the sunglasses, individually visible hair and beard strands. Soft blue-gray studio background with gentle atmospheric falloff, shallow depth of field, crisp focus on the face. Shot on an 85mm portrait lens at f/1.8, professional studio photography, high contrast, sophisticated dark color palette, subtle analog film grain, photorealistic, extremely detailed, natural proportions, cinematic color grading, premium magazine editorial look, 8K detail, centered composition.",
+    "title": "Cinematic Male Portrait Prompt for GPT Image 2",
+    "description": "A photorealistic portrait prompt using reference images for facial features, focusing on cinematic lighting, fashion editorial aesthetics, and high-detail skin/hair rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789891171968_78b4ke_HSoUJGmbQAAX-RX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35057,
+    "content": "Create a vertical anime-style digital illustration of a young girl made entirely of water. The character has short, bob-cut hair that appears to be formed from splashing water with pink and blue hues at the tips. Her eyes are large, clear, and blue, resembling water droplets. She wears a dress made of flowing, transparent liquid water that swirls around her body like fabric. Her legs and feet are also composed of water, standing barefoot in a shallow pool of water that reflects the sky above. Surrounding her are numerous floating water droplets and bubbles of various sizes. The background is a soft, dreamy sky filled with fluffy white clouds and bright sunlight filtering through, creating a high-key, ethereal lighting effect. The overall color palette consists of cool blues, whites, and soft pinks.",
+    "title": "Anime Girl Made of Water",
+    "description": "A prompt for generating an ethereal anime character composed entirely of water, featuring a water dress and floating droplets against a cloudy sky background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789891173879_dfcw7a_HSnQUXya4AAKY2d.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35054,
+    "content": "Subject:\nFan and Peony Japanese Room\n\nMain Subject:\nCenter of screen, a young woman sits on tatami mats in a bright Japanese room, wearing a kimono with peony patterns, spreading a floral fan to the left. A large carp and wave line-art tattoo is visible on the foreground right thigh.\n\nPerson & Expression:\nSlender oval face, small chin, large hazel-brown eyes, thin eyebrows, clean nose bridge, slightly parted glossy peach-colored lips. Head tilted slightly right, quietly staring at the frontal camera. Dark brown hair in a high messy updo, with thin bangs and stray hairs falling to cheeks, gold flower branch kanzashi inserted in right back of head.\n\nClothing & Pose:\nOne-piece style long-sleeved kimono with deep V-neck, featuring large red, orange, and green peony patterns on beige ground, tied with wide obi (black ground with red-gold floral pattern) and thin red obijime. Sitting with folded legs on tatami, holding fan in right hand, left hand placed on tatami to the right. Large carp, waves, and flower line-art tattoo spreads across foreground right thigh.\n\nBackground & Light:\nWhite shoji screens on left, gray vase with flower branches, gold fusuma doors, and low lantern in right background. Soft daylight enters from left shoji, brightly illuminating face, kimono, and foreground thigh, casting warm shadows to the right background.\n\nComposition & Camera:\n2:3 vertical composition, camera slightly higher than seated person, full-body close-up portrait from top of head to folded legs. Face and fan in upper half, tattooed thigh large in lower-left foreground. Kimono hem cut off at bottom, focus on eyes and fan, background with soft depth of field.\n\nTexture & Style:\nPhotorealistic live-action photo. High definition of natural skin, silk sheen, fine peony patterns, woven obi, washi paper of fan, tatami, and fine lines of tattoo, warm Japanese room colors of beige, vermilion, and ink black.\n\nNegative:\nOmit fan and carp thigh tattoo; change kimono and obi color scheme",
+    "title": "GPT Image 2 Prompt for Japanese Room Portrait",
+    "description": "A detailed prompt for GPT Image 2 to generate a photorealistic portrait of a woman in a kimono sitting on tatami mats with a fan and tattoo details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789891171955_stnqvi_HSbM81cawAAO85v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35003,
     "content": "Create a cinematic, ultra-realistic studio portrait of the same man, preserving his facial identity, facial structure, hairstyle, beard, skin tone, and distinctive features.\n\nHe is staring intensely directly into the camera with a serious, confident, intimidating expression. He wears a crisp white dress shirt, slightly open at the collar. His tattooed forearms rest on a dark surface, with both hands naturally clasped together in the foreground. Add a sophisticated luxury wristwatch.\n\nUse dramatic warm side lighting from one direction, creating deep cinematic shadows and sculpted facial features while retaining realistic skin texture, pores, beard detail",
     "title": "Cinematic Studio Portrait Prompt",

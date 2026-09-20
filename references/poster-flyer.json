@@ -1,5 +1,17 @@
 [
   {
+    "id": 35056,
+    "content": "A vertical, split-panel travel poster featuring a photographic view on top and a 3D layered paper-craft illustration of the exact same scene on the bottom.\n\nTop Panel (Realistic Photography): A wide-angle, highly detailed, vibrant photograph of {argument name=\"location scenery\" default=\"a serene Swiss alpine valley with a modern blue train\"}. The lighting is {argument name=\"lighting style\" default=\"warm golden hour light\"}. The composition shows {argument name=\"main subject action\" default=\"a train curving on tracks\"}.\n\nBottom Panel (Paper-Craft Art): An intricate, multi-layered 3D paper-cut illustration re-creating the exact scene from the photo above. Hand-crafted dimensional paper layers create depth, with visible textured paper edges and shadows. Elements like the background mountains, trees, architecture, and subjects are constructed from distinct colored paper cutouts. The background paper behind the illustration is a warm, textured off-white cream color.\n\nTypography & Layout: Clean, minimalist travel poster design. Elegant dark serif typography for the main title: \"{argument name=\"title text\" default=\"Alpine Journey\"}\". Smaller sans-serif text aligned to the right or side: \"SCENIC ROUTE / NATURE / A BRIGHTER TOMORROW\". Minimalist captions and thin alignment lines placed on the cream paper background.",
+    "title": "Split-Panel Travel Poster Prompt for GPT Image 2",
+    "description": "A detailed prompt for generating a vertical travel poster that combines realistic photography on top with 3D paper-craft illustration on the bottom. It includes customizable fields for location, lighting, subject, and typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789891171902_3t0gre_HSo5s3jbsAArQri.jpg",
+      "https://cms-assets.youmind.com/media/1789891171896_ujcn5i_HSo5s33bYAAW4l6.jpg",
+      "https://cms-assets.youmind.com/media/1789891171896_sqponz_HSo5s4EbYAEaFka.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 34942,
     "content": "Create a diptych image with two side-by-side panels. The left panel shows a young woman with short dark hair sitting at a table by a large window, looking down and writing or drawing in a notebook. She wears a dark floral-patterned top. Green leafy plants frame the foreground on the left, partially obscuring the view. A warm pendant lamp hangs above. The right panel is an extremely soft-focus, hazy, dreamlike version of the same scene — the woman appears as a blurred silhouette against bright diffused light, with faint shadows of leaves cast across the surface. In the upper right corner of the right panel, elegant serif text reads: \"A Quieter Day\" followed by smaller text \"Small moments also make a bright life.\" Below that, a thin horizontal line. In the bottom right corner, very small uppercase text reads: \"STILL HERE STILL GOOD\". Overall mood: gentle, healing, quiet, nostalgic. Color palette: muted greens, warm whites, soft grays, low saturation. Style: Japanese aesthetic photography, film grain, shallow depth of field, overexposed highlights.",
     "title": "Soft-Focus Diptych of a Quiet Writing Moment",
@@ -5101,14 +5113,14 @@
   },
   {
     "id": 32240,
-    "content": "Design a minimalist poster with high-end commercial aesthetics. The core visual language is \"real objects passing through geometric emotional windows.\" Set up a narrow, low-saturation color block in the frame as a visual anchor and spatial container. Choose soft light colors for the block based on the theme, such as misty blue, light cyan, off-white, pale pink, warm gray, or light gold. Place the [{argument name=\"core object\" default=\"coffee cup\"}] into the color block with realistic photographic texture or fine realism, but do not completely confine it within the block; allow parts of the subject to cross boundaries, break the frame, and extend into the whitespace area, creating a sense of natural growth and spatial penetration. Keep the background extremely simple, using large areas of white or light gray whitespace, adding almost transparent cultural patterns, linear graphics, terrain lines, water wave lines, light and shadow outlines, or abstract symbols as subtle visual details. The overall layout should resemble high-end real estate, luxury goods, aesthetic magazines, or solar term posters, with slender, restrained text and spacious letter spacing. Titles can be vertical, with auxiliary information arranged neatly in small font sizes. The image needs to have Eastern whitespace, modern order, natural vitality, and light luxury quality. Avoid clutter, avoid high saturation, avoid heavy shadows, and avoid cheap template feelings.",
-    "title": "Minimalist Commercial Poster Prompt for GPT Image 2",
-    "description": "A prompt designed for generating high-end minimalist commercial posters with a specific aesthetic of 'real objects passing through geometric emotional windows'. It emphasizes soft colors, realistic textures, and Eastern-style whitespace.",
+    "content": "Design a minimalist poster with high-end commercial aesthetics. The core visual language is 'real objects passing through geometric emotional windows'. Set up a narrow, low-saturation color block as a visual anchor and spatial container; choose soft light colors like mist blue, pale cyan, off-white, light pink, warm gray, or light gold based on the theme. Place the [{argument name=\"core object\" default=\"main element\"}] into the color block with realistic photographic texture or fine realism, but do not completely confine it within the block; let parts of the subject cross boundaries, break frames, and extend into the whitespace area to create a sense of natural growth and spatial penetration. Keep the background minimalist with large areas of white or light gray whitespace, adding almost transparent cultural patterns, linear graphics, topographic lines, water ripple lines, light and shadow outlines, or abstract symbols as subtle visual details. The overall layout should resemble high-end real estate, luxury goods, aesthetic magazines, or solar term posters: slender, restrained text with wide letter spacing, vertical titles allowed, and auxiliary information arranged neatly in small font sizes. The image needs Eastern whitespace, modern order, natural vitality, and light luxury quality. Avoid clutter, high saturation, heavy shadows, and cheap template feelings.",
+    "title": "Minimalist Poster Design Prompt",
+    "description": "A detailed prompt for generating high-end minimalist posters with geometric elements and cultural aesthetics using GPT-image-2.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789803926549_efkv7m_HQSU96-aoAAex4z.jpg",
-      "https://cms-assets.youmind.com/media/1789803926567_aytuax_HQSVFBjaUAElLPs.jpg",
-      "https://cms-assets.youmind.com/media/1789803926628_vzgkih_HQSVJsPa4AAlsQ4.jpg",
-      "https://cms-assets.youmind.com/media/1789803927385_j5usu3_HQSVLHrbMAACljs.jpg"
+      "https://cms-assets.youmind.com/media/1789891174395_2mc8po_HQSU96-aoAAex4z.jpg",
+      "https://cms-assets.youmind.com/media/1789891173525_zhtfap_HQSVFBjaUAElLPs.jpg",
+      "https://cms-assets.youmind.com/media/1789891173875_y5cvje_HQSVJsPa4AAlsQ4.jpg",
+      "https://cms-assets.youmind.com/media/1789891174648_69jjs7_HQSVLHrbMAACljs.jpg"
     ],
     "needReferenceImages": false
   },
