@@ -1,15 +1,48 @@
 [
   {
-    "id": 35056,
-    "content": "A vertical, split-panel travel poster featuring a photographic view on top and a 3D layered paper-craft illustration of the exact same scene on the bottom.\n\nTop Panel (Realistic Photography): A wide-angle, highly detailed, vibrant photograph of {argument name=\"location scenery\" default=\"a serene Swiss alpine valley with a modern blue train\"}. The lighting is {argument name=\"lighting style\" default=\"warm golden hour light\"}. The composition shows {argument name=\"main subject action\" default=\"a train curving on tracks\"}.\n\nBottom Panel (Paper-Craft Art): An intricate, multi-layered 3D paper-cut illustration re-creating the exact scene from the photo above. Hand-crafted dimensional paper layers create depth, with visible textured paper edges and shadows. Elements like the background mountains, trees, architecture, and subjects are constructed from distinct colored paper cutouts. The background paper behind the illustration is a warm, textured off-white cream color.\n\nTypography & Layout: Clean, minimalist travel poster design. Elegant dark serif typography for the main title: \"{argument name=\"title text\" default=\"Alpine Journey\"}\". Smaller sans-serif text aligned to the right or side: \"SCENIC ROUTE / NATURE / A BRIGHTER TOMORROW\". Minimalist captions and thin alignment lines placed on the cream paper background.",
-    "title": "Split-Panel Travel Poster Prompt for GPT Image 2",
-    "description": "A detailed prompt for generating a vertical travel poster that combines realistic photography on top with 3D paper-craft illustration on the bottom. It includes customizable fields for location, lighting, subject, and typography.",
+    "id": 35112,
+    "content": "Ultra-realistic cinematic luxury photograph of a strikingly handsome young man in his early 20s standing confidently on a transparent glass platform floating high above a vast ocean of soft white clouds. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores and fine facial details. He wears an elegant cream-white tailored suit with a luxurious silk shirt, minimal accessories, and premium understated styling.\nBehind him, an enormous snow-capped mountain range rises through the clouds, stretching endlessly toward the horizon. A breathtaking soft golden sunrise illuminates the mountains and clouds, creating delicate rays of light, subtle atmospheric haze, and a heavenly glow around the subject. The glass platform reflects the sky, clouds, and warm sunrise beneath his feet, creating the illusion that he is standing in heaven.\nEthereal luxury aesthetic, dreamlike atmosphere, cinematic composition, majestic scale, soft volumetric sunlight, realistic cloud formations, atmospheric perspective, natural reflections, premium fashion editorial photography, sophisticated color grading, shallow depth of field, HDR, 8K, ultra-detailed, photorealistic skin, realistic lighting, 85mm lens, sharp focus on the man, breathtaking wide environment, no other people, no text, no watermark, no artificial-looking face.",
+    "title": "Heavenly Glass Platform Luxury Shot",
+    "description": "A cinematic prompt depicting a man on a glass platform above clouds with mountains in the background, evoking a heavenly luxury aesthetic.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789891171902_3t0gre_HSo5s3jbsAArQri.jpg",
-      "https://cms-assets.youmind.com/media/1789891171896_ujcn5i_HSo5s33bYAAW4l6.jpg",
-      "https://cms-assets.youmind.com/media/1789891171896_sqponz_HSo5s4EbYAEaFka.jpg"
+      "https://cms-assets.youmind.com/media/1789977642497_zrq8hu_HStdhHvbMAAVueb.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 35126,
+    "content": "Please generate a 3:4 vertical \"Twin Poster\" based on the portrait photo I uploaded.\n\nThe image should be strictly divided into two equal halves (top and bottom), each occupying 50% of the frame.\n\nTop Half:\nPreserve the original photo's subject identity, facial features, hairstyle, clothing, pose, composition, and environmental context. Apply only slight high-end color grading.\nMaintain realistic photographic texture; do not alter the person or add extra characters.\n\nBottom Half:\nStill based on the same person in the same photo, preserving identity, face, clothing, pose, camera angle, and scene.\nGenerate a \"Spirit Companion\" behind, to the side-rear, or at the edge of the person's body.\n\nThis companion should look like a concrete manifestation of the person's hidden temperament, emotions, or power,\ncomposed of [{argument name=\"material_en\" default=\"smoke / light / ink / data particles / water flow / petals / flames / transparent energy / translucent animal silhouette\"}].\nThe companion must have a clear relationship with the person, appearing as if it is extending, growing, or emerging from them.\n\nRequirements:\nThe companion is a key visual focus but must not obscure the recognition of the main subject.\nOverall, maintain a high-end, realistic, cinematic photographic effect.\nNot horror/ghostly, no gore, no monsterization, no anime/cartoon style, no exaggerated game effects.\nThe bottom half should look like \"a real photograph capturing another invisible self.\"\n\nOverall Style:\nTop half is realistic documentary; bottom half is surreal companion presentation based on realistic photography.\nThe image needs a clear contrast between top and bottom but still belongs to the same visual system.",
+    "title": "GPT-Image-2 Prompt for Ethereal Twin Portrait Effect",
+    "description": "A detailed prompt for GPT-Image-2 that creates a split-composition portrait where the top half remains a realistic photo and the bottom half features an ethereal 'spirit twin' or elemental manifestation emerging from the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977649006_2dmwag_HStVn5hbUAAK2r8.jpg",
+      "https://cms-assets.youmind.com/media/1789977648964_r8776w_HStVn5YaUAA6FTJ.jpg",
+      "https://cms-assets.youmind.com/media/1789977648967_ishdgt_HStVn5abgAADxwJ.jpg",
+      "https://cms-assets.youmind.com/media/1789977649783_75ppr5_HStVn5XbcAAKWpl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35056,
+    "content": "A vertical, split-panel travel poster featuring a photographic view on top and a 3D layered paper-craft illustration of the exact same scene on the bottom.\n\nTop Panel (Realistic Photography): A wide-angle, highly detailed, vibrant photograph of {argument name=\"location scenery\" default=\"a serene Swiss alpine valley with a modern blue train\"}. The lighting is {argument name=\"lighting style\" default=\"warm golden hour light\"}. The composition shows {argument name=\"main subject action\" default=\"a train curving on tracks\"}.\n\nBottom Panel (Paper-Craft Art): An intricate, multi-layered 3D paper-cut illustration re-creating the exact scene from the photo above. Hand-crafted dimensional paper layers create depth, with visible textured paper edges and shadows. Elements like the background mountains, trees, architecture, and subjects are constructed from distinct colored paper cutouts. The background paper behind the illustration is a warm, textured off-white cream color.\n\nTypography & Layout: Clean, minimalist travel poster design. Elegant dark serif typography for the main title: \"{argument name=\"title\" default=\"Alpine Journey\"}\". Smaller sans-serif text aligned to the right or side: \"{argument name=\"subtitles\" default=\"SCENIC ROUTE / NATURE / A BRIGHTER TOMORROW\"}\". Minimalist captions and thin alignment lines placed on the cream paper background.",
+    "title": "Split Panel Travel Poster Prompt",
+    "description": "A detailed prompt for generating a vertical travel poster featuring a realistic photo on top and a 3D paper-craft illustration below, specifically for GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977637570_1z4osz_HSo5s3jbsAArQri.jpg",
+      "https://cms-assets.youmind.com/media/1789977637653_rxuaf9_HSo5s33bYAAW4l6.jpg",
+      "https://cms-assets.youmind.com/media/1789977639138_8nlxyx_HSo5s4EbYAEaFka.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35125,
+    "content": "A surreal mixed-media collage featuring two teenagers walking arm-in-arm across a striped surface. The girl on the left has long wavy brown hair, wearing a dark grey cardigan over a white top and blue jeans with a beige tote bag. The boy on the right has curly brown hair, wearing a dark grey fleece pullover and blue jeans with a backpack. They are looking at each other affectionately. To their right stands a giant red metal toolbox, open to reveal a portal showing a mountain landscape inside. The background is composed of torn paper textures revealing layers of newspaper print, concrete, and diagonal stripes in red, blue, black, and white. The entire image has a vintage, grainy texture with rough edges.",
+    "title": "Surreal Collage of Teens Walking Past Giant Toolbox",
+    "description": "A retro-style mixed-media collage depicting two young people walking past an oversized red toolbox that acts as a portal to a mountain scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977650421_a0d36s_HSoxTkwbgAAlYtj.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 34942,

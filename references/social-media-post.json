@@ -1,25 +1,142 @@
 [
   {
-    "id": 35056,
-    "content": "A vertical, split-panel travel poster featuring a photographic view on top and a 3D layered paper-craft illustration of the exact same scene on the bottom.\n\nTop Panel (Realistic Photography): A wide-angle, highly detailed, vibrant photograph of {argument name=\"location scenery\" default=\"a serene Swiss alpine valley with a modern blue train\"}. The lighting is {argument name=\"lighting style\" default=\"warm golden hour light\"}. The composition shows {argument name=\"main subject action\" default=\"a train curving on tracks\"}.\n\nBottom Panel (Paper-Craft Art): An intricate, multi-layered 3D paper-cut illustration re-creating the exact scene from the photo above. Hand-crafted dimensional paper layers create depth, with visible textured paper edges and shadows. Elements like the background mountains, trees, architecture, and subjects are constructed from distinct colored paper cutouts. The background paper behind the illustration is a warm, textured off-white cream color.\n\nTypography & Layout: Clean, minimalist travel poster design. Elegant dark serif typography for the main title: \"{argument name=\"title text\" default=\"Alpine Journey\"}\". Smaller sans-serif text aligned to the right or side: \"SCENIC ROUTE / NATURE / A BRIGHTER TOMORROW\". Minimalist captions and thin alignment lines placed on the cream paper background.",
-    "title": "Split-Panel Travel Poster Prompt for GPT Image 2",
-    "description": "A detailed prompt for generating a vertical travel poster that combines realistic photography on top with 3D paper-craft illustration on the bottom. It includes customizable fields for location, lighting, subject, and typography.",
+    "id": 35106,
+    "content": "Create a completely original 9:16 vertical lifestyle travel photograph inspired by the overall concept of two young friends posing playfully on a winding countryside road surrounded by open green fields and distant mountains.\n\nScene:\n\nTwo different young adult women traveling together in a peaceful mountain countryside. One woman is standing casually near the road, while the other is slightly crouching/leaning toward the camera with a playful travel-photo pose. Natural friendship energy, spontaneous vacation moment, relaxed smiles.\n\nEnvironment:\n\nA wide winding asphalt road through golden-green grasslands, rolling mountains in the background, scattered wildflowers, a few distant horses and cows, soft morning mist, small trees along the hills. Completely different landscape composition from the reference.\n\nCharacters:\n\nTwo new-looking female characters with distinct facial features and hairstyles.\n\nWoman 1: shoulder-length dark brown hair, beige knit sweater, olive-green cargo pants, cream sneakers, small navy crossbody bag.\n\nWoman 2: long wavy dark hair, mustard-yellow oversized jacket, light blue wide-leg jeans, white sneakers, small brown backpack.\n\nPose & composition:\n\nFull-body vertical composition. The women are positioned at different depths on the road, creating natural perspective. One casually walking while looking back at the camera, the other standing slightly sideways and laughing naturally. Candid travel photography rather than a staged fashion shoot.\n\nVisual style:\n\nPhotorealistic smartphone travel photography, authentic human proportions, natural skin texture, subtle imperfections, realistic fabric, realistic hair, natural daylight, soft overcast sky, slightly muted earthy colors, documentary vacation aesthetic, believable depth and perspective.\n\nCamera:\n\n9:16 vertical frame, eye-level smartphone camera, 28mm equivalent wide-angle lens, natural perspective, sharp subjects with realistic background detail, subtle photographic grain, no cinematic color grading.",
+    "title": "Countryside Road Lifestyle Photo Prompt",
+    "description": "A comprehensive prompt for generating a photorealistic lifestyle travel photo of two friends on a countryside road, optimized for GPT Image 2.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789891171902_3t0gre_HSo5s3jbsAArQri.jpg",
-      "https://cms-assets.youmind.com/media/1789891171896_ujcn5i_HSo5s33bYAAW4l6.jpg",
-      "https://cms-assets.youmind.com/media/1789891171896_sqponz_HSo5s4EbYAEaFka.jpg"
+      "https://cms-assets.youmind.com/media/1789977639069_1o12c5_HSt4pOUa0AAJYUI.jpg",
+      "https://cms-assets.youmind.com/media/1789977639052_xsi16k_HSt4p2caYAALqfq.jpg"
     ],
     "needReferenceImages": false
   },
   {
-    "id": 35055,
-    "content": "Cinematic ultra-realistic male portrait, use the provided reference image for facial features and overall appearance. Close-up head-and-shoulders composition of a man in his 30s with strong masculine facial structure, defined jawline, thick textured dark hair, realistic short beard, and detailed natural skin texture. He is wearing round vintage amber/tortoiseshell sunglasses with dark lenses and an oversized black hoodie. He looks directly into the camera with an intense, calm, neutral expression.\n\nMoody luxury fashion-editorial aesthetic, dramatic cool blue rim light from the side combined with a subtle warm key light on the skin, deep cinematic shadows, realistic reflections in the sunglasses, individually visible hair and beard strands. Soft blue-gray studio background with gentle atmospheric falloff, shallow depth of field, crisp focus on the face. Shot on an 85mm portrait lens at f/1.8, professional studio photography, high contrast, sophisticated dark color palette, subtle analog film grain, photorealistic, extremely detailed, natural proportions, cinematic color grading, premium magazine editorial look, 8K detail, centered composition.",
-    "title": "Cinematic Male Portrait Prompt for GPT Image 2",
-    "description": "A photorealistic portrait prompt using reference images for facial features, focusing on cinematic lighting, fashion editorial aesthetics, and high-detail skin/hair rendering.",
+    "id": 35111,
+    "content": "Ultra-realistic elegant portrait of a young South Asian woman seated indoors, with long, voluminous dark brown hair parted in the center and naturally flowing over her shoulders. She has delicate facial features, natural skin texture, soft makeup, defined brows, subtle eyeliner, rosy lips, and a calm confident expression looking directly at the camera. She is wearing a fitted black off-shoulder long-sleeve top with elegant traditional dangling earrings. A soft dusty-pink embroidered lehenga/skirt with intricate silver-gold detailing spreads naturally around her. Warm indoor natural lighting, luxurious modern interior background, soft neutral tones, shallow depth of field, realistic fabric texture, cinematic photography, natural skin pores, high detail, professional fashion editorial photography, 85mm lens, soft bokeh, photorealistic, vertical 4:5 composition.",
+    "title": "South Asian Woman Fashion Editorial",
+    "description": "A prompt for creating an elegant, photorealistic portrait of a South Asian woman in traditional attire within a luxurious interior.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1789891171968_78b4ke_HSoUJGmbQAAX-RX.jpg"
+      "https://cms-assets.youmind.com/media/1789977642416_5ad5pq_HSt0ZvjakAAHYiF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35126,
+    "content": "Please generate a 3:4 vertical \"Twin Poster\" based on the portrait photo I uploaded.\n\nThe image should be strictly divided into two equal halves (top and bottom), each occupying 50% of the frame.\n\nTop Half:\nPreserve the original photo's subject identity, facial features, hairstyle, clothing, pose, composition, and environmental context. Apply only slight high-end color grading.\nMaintain realistic photographic texture; do not alter the person or add extra characters.\n\nBottom Half:\nStill based on the same person in the same photo, preserving identity, face, clothing, pose, camera angle, and scene.\nGenerate a \"Spirit Companion\" behind, to the side-rear, or at the edge of the person's body.\n\nThis companion should look like a concrete manifestation of the person's hidden temperament, emotions, or power,\ncomposed of [{argument name=\"material_en\" default=\"smoke / light / ink / data particles / water flow / petals / flames / transparent energy / translucent animal silhouette\"}].\nThe companion must have a clear relationship with the person, appearing as if it is extending, growing, or emerging from them.\n\nRequirements:\nThe companion is a key visual focus but must not obscure the recognition of the main subject.\nOverall, maintain a high-end, realistic, cinematic photographic effect.\nNot horror/ghostly, no gore, no monsterization, no anime/cartoon style, no exaggerated game effects.\nThe bottom half should look like \"a real photograph capturing another invisible self.\"\n\nOverall Style:\nTop half is realistic documentary; bottom half is surreal companion presentation based on realistic photography.\nThe image needs a clear contrast between top and bottom but still belongs to the same visual system.",
+    "title": "GPT-Image-2 Prompt for Ethereal Twin Portrait Effect",
+    "description": "A detailed prompt for GPT-Image-2 that creates a split-composition portrait where the top half remains a realistic photo and the bottom half features an ethereal 'spirit twin' or elemental manifestation emerging from the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977649006_2dmwag_HStVn5hbUAAK2r8.jpg",
+      "https://cms-assets.youmind.com/media/1789977648964_r8776w_HStVn5YaUAA6FTJ.jpg",
+      "https://cms-assets.youmind.com/media/1789977648967_ishdgt_HStVn5abgAADxwJ.jpg",
+      "https://cms-assets.youmind.com/media/1789977649783_75ppr5_HStVn5XbcAAKWpl.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 35114,
+    "content": "A photorealistic candid outdoor portrait of a young woman sitting on a rustic wooden platform in a lush citrus garden. She has long, dark brown wavy hair flowing naturally over her shoulders and down her back, with a few delicate strands framing her face. She wears a soft beige headscarf or wide fabric headband wrapped loosely around her head.\nShe is looking up toward the camera with a playful, cheerful expression, winking with one eye and smiling brightly with soft coral-red lips. Her pose is relaxed and spontaneous, with one arm bent beside her body and one hand resting near her waist.\nShe is wearing a fitted white sleeveless textured top with delicate detailing, paired with high-waisted blue denim shorts. A simple black hair tie is worn around her wrist.\nShe is sitting beside a large woven wicker basket, with its curved handles and natural straw texture clearly visible. The wooden platform beneath her has warm natural wood grain and rustic character.\nSurrounding her is a dense green garden filled with lush grass, leafy plants, and a mature citrus tree covered with numerous small ripe orange fruits. Thick branches and vibrant green leaves fill the upper background, creating a beautiful natural canopy.\nComposition: vertical 4:5 portrait, slightly high-angle overhead perspective, subject positioned in the lower-center of the frame, face clearly visible, basket partially visible beside her, citrus tree filling the background, natural candid framing.\nLighting: soft warm natural daylight, gentle highlights on her hair and face, realistic shadows, fresh vibrant greenery, subtle warm color tones.\nPhotography style: ultra-realistic smartphone photography, candid Korean/Asian lifestyle aesthetic, natural skin texture, realistic hair strands, detailed wicker and wood textures, authentic outdoor colors, slight wide-angle perspective, subtle depth of field, soft film grain, high detail, 4K.\nNegative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, unnatural pose, warped basket, artificial hair, oversaturated colors, harsh studio lighting, blurry face, low resolution, text, watermark, logo.",
+    "title": "Citrus Garden Candid Portrait Prompt",
+    "description": "A prompt for a candid outdoor portrait of a woman in a citrus garden, emphasizing natural lighting and rustic textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977643868_qz26gy_HStP_xWbQAAun3Z.jpg",
+      "https://cms-assets.youmind.com/media/1789977643910_pwsu2r_HStQAikbQAACyps.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35115,
+    "content": "Create a 9:16 ultra-photorealistic fashion photograph of a stylish young blonde woman in a vibrant orange oversized cropped jacket, white fitted tank top, loose cream cargo pants and chunky white sneakers. She is crouching sideways on a bright orange urban rooftop ledge, with one sneaker extremely close to the camera creating exaggerated foreground perspective. Her body twists slightly away from the lens while she looks back over her shoulder with a playful confident expression. One hand grips the rooftop edge and the other casually adjusts her orange sunglasses. Wind blows through her hair and jacket. Shoot from a very low ground-level wide-angle perspective, dramatic depth, slightly tilted unconventional framing, strong foreground distortion, energetic candid movement. Behind her is a vivid cobalt-blue sky with large white clouds and colorful modern buildings with orange and coral accents. Extremely vibrant orange, blue and white color palette, punchy sunlight, deep natural shadows, saturated colors, realistic skin texture, realistic hair strands, authentic outdoor photography, spontaneous fashion editorial energy, slightly surreal perspective but completely photorealistic.",
+    "title": "Orange Rooftop Fashion Photo Prompt",
+    "description": "A dynamic fashion photography prompt featuring a blonde woman on an orange rooftop with exaggerated perspective and vibrant colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977644263_q6cmws_HSqh7IFaMAAgThh.jpg",
+      "https://cms-assets.youmind.com/media/1789977644272_ydxbpc_HSqh7p4a8AExMZ7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35122,
+    "content": "Subject:\nToast in a crimson dress\n\nMain Subject:\nA young woman sitting on a crimson velvet chair in an upscale, dimly lit bar in the center of the frame. The focus is on her body-hugging wine-red satin dress, the slender champagne glass in her right hand, and the amber lighting.\n\nPerson & Expression:\nSmall oval face, soft jawline, large dark brown eyes, thin eyebrows, refined nose bridge, and glossy pink lips slightly parted. Head tilted slightly to the right, gaze flowing to the left of the screen, with a calm smile. Long dark brown wavy hair parted near the center, spread over shoulders leaving thin bangs and side strands.\n\nClothing & Pose:\nShort wine-red satin dress with thin shoulder straps, crossed draping covering the chest, and diagonal wrinkles from waist to thigh. Small pearl earrings, thin necklace with black stones, delicate bracelets on both wrists. Sitting deep in the chair with legs crossed, left elbow on armrest with fingertips near chin, right hand holding the stem of the glass.\n\nBackground & Light:\nAmber shelf lighting behind with liquor bottles and glassware, fabric-shaded lamp and red flowers in the back right, crimson chairs on left and right. Black marble table in front left with candle and small plate. Warm shelf lights and lamps from left and right softly hitting face and satin, background with round bokeh.\n\nComposition & Camera:\n3:4 vertical composition, frontal camera at same height as seated person, capturing knee-up portrait from top of head to crossed knees. Person large in center, glass upper right, candle lower left. Right leg cropped at bottom edge, focus on eyes and glass, bar shelves deeply blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition deep gloss of satin, velvet, marble, glass, and natural skin sheen, cinematic night scene unified by wine-red and amber colors.\n\nNegative:\nChange dress color and crossed legs; omit glass or bar lighting",
+    "title": "GPT Image 2 Prompt: Woman in Red Dress at Bar",
+    "description": "A detailed prompt for GPT Image 2 to generate a photorealistic portrait of a young woman in a wine-red satin dress holding a champagne glass in an upscale bar with amber lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977649024_s9ljsn_HSbauMPbkAABUzx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35123,
+    "content": "Ultra-realistic high-speed cinematic photograph of a strikingly handsome young man in his early 20s, reaching one hand directly toward the camera as if breaking through the frozen moment. He has thick naturally wavy jet-black hair, strong eyebrows, deep dark-brown eyes, a defined sculpted jawline, subtle natural stubble, realistic skin texture, visible pores and fine facial details.\n\nThe man is perfectly sharp and completely still, while thousands of crystal-clear water droplets are suspended around him in mid-air, frozen at the exact instant of impact. Droplets of different sizes surround his face, hands, hair and shoulders, each individually visible with realistic reflections, refractions and tiny highlights. His extended hand is extremely close to the lens, creating dramatic depth and perspective.\n\nDynamic splashes and subtle motion trails exist only in the surrounding water, contrasting with his perfectly frozen pose. Macro photography aesthetic, ultra-high-speed shutter capture, extreme detail, shallow depth of field, razor-sharp eyes and water droplets, cinematic lighting, dramatic highlights and shadows, premium luxury advertising photography, dark atmospheric background, subtle mist, volumetric light rays, realistic physics, 85mm macro lens, f/2.8, HDR, 8K, photorealistic, natural skin tones, sophisticated color grading, breathtaking depth, no artificial-looking face, no text, no watermark.",
+    "title": "High-Speed Water Droplet Portrait",
+    "description": "A prompt for generating an ultra-realistic high-speed cinematic photograph of a young man surrounded by suspended water droplets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977648774_2enzt8_HSp-I0DbkAAM6DX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35128,
+    "content": "A photorealistic, high-resolution selfie taken by a young Asian woman with wet, shoulder-length dark brown hair and soft bangs. She is wrapped in a fluffy white bath towel, holding it securely at her chest with one hand while extending the other arm to take the photo. Her skin has a dewy, glistening texture, suggesting she has just finished bathing. The setting is a traditional Japanese onsen (hot spring) interior or semi-outdoor area. In the background, there is a stone basin with clear water flowing from a bamboo spout into a pool, creating gentle ripples. To the left, a warm, glowing paper lantern sits on a stone ledge next to a small potted plant and a wooden bucket. The lighting is moody and atmospheric, combining the warm glow of the lantern with the cool tones of the water and stone walls.",
+    "title": "Onsen Selfie with White Towel",
+    "description": "A photorealistic prompt for generating an image of a young woman taking a selfie while wrapped in a white towel inside a traditional Japanese hot spring.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977651720_plt2nq_HSno-O-aAAApSlG.jpg",
+      "https://cms-assets.youmind.com/media/1789977651731_1tvd2k_HSno-O4a4AEMI8y.jpg",
+      "https://cms-assets.youmind.com/media/1789977651704_cwunnk_HSno-O-aoAAZ13M.jpg",
+      "https://cms-assets.youmind.com/media/1789977652409_6iqh2h_HSno-O_aQAA2yzU.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35109,
+    "content": "Create a nostalgic 4-panel photo-booth style selfie collage of an adult woman, each panel featuring a different playful expression and pose, silver digital-camera flash, slightly overexposed highlights, glossy Y2K styling, colorful compact interior, tiny imperfections, authentic early-2000s snapshot quality, subtle grain, soft blur, fun nostalgic mood, photorealistic, 3:4.",
+    "title": "Y2K Photo Booth Collage Prompt",
+    "description": "A prompt for creating a nostalgic 4-panel photo-booth style selfie collage with Y2K aesthetics, using GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977640707_qx7hpi_HSpG_4FaUAAkDhV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35125,
+    "content": "A surreal mixed-media collage featuring two teenagers walking arm-in-arm across a striped surface. The girl on the left has long wavy brown hair, wearing a dark grey cardigan over a white top and blue jeans with a beige tote bag. The boy on the right has curly brown hair, wearing a dark grey fleece pullover and blue jeans with a backpack. They are looking at each other affectionately. To their right stands a giant red metal toolbox, open to reveal a portal showing a mountain landscape inside. The background is composed of torn paper textures revealing layers of newspaper print, concrete, and diagonal stripes in red, blue, black, and white. The entire image has a vintage, grainy texture with rough edges.",
+    "title": "Surreal Collage of Teens Walking Past Giant Toolbox",
+    "description": "A retro-style mixed-media collage depicting two young people walking past an oversized red toolbox that acts as a portal to a mountain scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977650421_a0d36s_HSoxTkwbgAAlYtj.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35105,
+    "content": "Created a Korean girl sitting gracefully on a beautiful classical stone terrace during golden hour. She has a soft, elegant face, fair natural skin, large expressive brown eyes, subtle pink blush, glossy natural lips, and very long, straight, silky jet-black hair with a clean center part falling naturally over both shoulders. She is wearing a fitted white long-sleeve top, sage-green high-waisted wide-leg trousers, delicate silver earrings, a small pendant necklace, and a cream shoulder bag. She is sitting naturally on the stone railing with her legs together and hands gently resting in her lap. Surrounding her are lush green vines covered with beautiful white flowers, an elegant vintage lantern, stone pillars, and a scenic view of a peaceful lake, distant mountains, and a warm pastel sunset. Soft golden sunlight creates beautiful rim lighting on her hair and face. Photorealistic skin texture, realistic fabric, natural body proportions, cinematic DSLR photography, shallow depth of field, soft background bokeh, warm romantic atmosphere, highly detailed, ultra-realistic, natural lighting, no distortion, no extra fingers, no artificial-looking skin.",
+    "title": "Korean Girl Golden Hour Portrait Prompt",
+    "description": "A detailed prompt for creating a photorealistic portrait of a Korean girl sitting on a stone terrace during golden hour, specified for GPT Image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977639073_9dquiz_HSobcbTboAAv9ym.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35107,
+    "content": "A high-resolution photorealistic eyelevel portrait of a stylish young Caucasian woman sitting in a warm, dimly lit Parisian café She has a serene gentle expression with soft brown eyes looking directly at the camera Her dark blonde hair is styled in an elegant braided updo bun with delicate face framing strands falling around her face She is wearing a deep navy blue silk satin wrap blouse with long sleeves accessorized with thick textured gold hoop earrings and a thin gold layered chain necklace Her hand rests gracefully across her opposite shoulder The background features shallow depth of field with warm golden bokeh light string reflections, classic dark wood panelling and bistro seating Soft natural window light highlights her glowing skin tones and silky fabric texture, shot on an 85mm portrait lens professional lighting filmic aesthetic.",
+    "title": "Parisian Café Portrait Prompt",
+    "description": "A prompt for generating a photorealistic portrait of a stylish woman in a Parisian café, created with GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977640344_a2gddy_HSoUVMOakAAW65J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35113,
+    "content": "A medium full-length street style portrait of a stylish young brunette woman walking along a bustling New York City street during blue hour twilight. She has long, dark, messy wavy hair, natural makeup, and is looking slightly to the side with a calm expression. She is wearing a black coat over a black top, high-waisted beige pleated trousers with a black belt, and carrying a black shoulder bag. Background features lit glass skyscrapers, One World Trade Center, warm glowing street lamps, blurred traffic light bokeh, wet reflections on the pavement, realistic photorealistic style, 8k resolution, shot on 35mm lens, f/1.8 depth of field.",
+    "title": "NYC Blue Hour Street Style Portrait",
+    "description": "A prompt for a street style portrait of a woman walking in New York City during blue hour twilight with city lights and skyscrapers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977643057_h2gbov_HSoDHfgbQAABaM0.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 35057,
@@ -38,6 +155,26 @@
     "description": "A detailed prompt for GPT Image 2 to generate a photorealistic portrait of a woman in a kimono sitting on tatami mats with a fan and tattoo details.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1789891171955_stnqvi_HSbM81cawAAO85v.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35124,
+    "content": "Subject:\nWhite towel lit by hot spring lanterns\n\nMain Subject:\nFrom center to left, a young woman approaches the camera she is holding towards herself, wrapping a white bath towel around her chest. Wet skin and hair, teal water, and the spout in the background are the main elements.\n\nCharacter & Expression:\nSlender oval face, small chin, large dark brown eyes, thin eyebrows, clear nose bridge, slightly parted glossy pink lips. Head tilted slightly right, sending a calm gaze toward the close camera. Wet black-brown hair tied up in a high casual bun, with thin bangs and long loose strands sticking to cheeks and neck.\n\nClothing & Pose:\nThick woven white bath towel wrapped strapless-dress style from chest to thighs, right hand gripping the right side of the chest to hold it. Sitting on the edge of the tub, left arm extended straight towards the camera for a selfie, right elbow bent pressing the towel against the body.\n\nBackground & Light:\nRectangular tub filled with teal water on the right, gray-brown stone wall in the back, square spout with flowing water, wooden bucket, small white towel, square lantern on the left, illuminated plants at the top. Soft warm light from the left lantern and above illuminates the face, shoulders, and water droplets, creating golden reflections on the water surface.\n\nComposition & Camera:\n3:4 vertical composition, close-up selfie shot from eye level with arm extended, capturing bust-up from crown to below chest and one thigh. Face large in upper left, towel in lower center, tub in right half. Left arm and thigh cropped at bottom edge, focus on both eyes and face, spout slightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition wet natural skin, fine loose hairs, water droplets, thick white towel, dark stones, transparent water and surface reflections, calm amber and teal hot spring night scene.\n\nNegative:\nChange of white towel and left arm in selfie; dry hair",
+    "title": "GPT Image 2 Prompt: Hot Spring Selfie with White Towel",
+    "description": "A detailed prompt for generating a photorealistic image of a young woman taking a selfie in a hot spring, wrapped in a white towel, using GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977650237_ci195m_HSbKgBTb0AAD1qZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35121,
+    "content": "Create a highly realistic portrait of a beautiful {argument name=\"ethnicity\" default=\"South Asian\"} woman wearing an elegant {argument name=\"outfit_color\" default=\"champagne-gold\"} {argument name=\"garment_type\" default=\"saree\"} with intricate black floral embroidery, shimmering sequins, and a matching embroidered blouse. She is wearing large traditional chandelier earrings and a small black bindi. Her dark hair is neatly tied back with a few soft strands framing her face. She gently touches one earring with her right hand while looking directly at the camera with a soft, confident expression. Warm natural sunlight falls across her face and outfit, creating a golden glow. Elegant indoor background with shallow depth of field, cinematic lighting, realistic skin texture, natural facial features, fine fabric details, photorealistic photography, high detail, 4:5 vertical composition. No text, no watermark, no artificial-looking skin.",
+    "title": "South Asian Woman in Champagne-Gold Saree Portrait",
+    "description": "A prompt for generating a highly realistic portrait of a South Asian woman wearing an elegant champagne-gold saree with intricate embroidery and warm natural lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1789977647381_qr9xrw_HSjf1RZXwAICfTD.jpg"
     ],
     "needReferenceImages": false
   },
