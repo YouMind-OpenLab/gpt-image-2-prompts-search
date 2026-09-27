@@ -1,21 +1,113 @@
 [
   {
-    "id": 35468,
-    "content": "A photorealistic medium portrait of a young woman with long, voluminous dark brown wavy hair cascading over her right shoulder. She has fair skin, defined eyebrows, and is looking off to the side with a calm, neutral expression. She is wearing a soft pink saree featuring intricate silver beadwork and embroidery along the border and scattered motifs on the fabric. Her accessories include large, ornate silver jhumka earrings, a heavy multi-layered silver statement necklace, and a stack of silver bangles on her wrist. The lighting is dramatic, with a distinct warm red rim light hitting her from the upper left, contrasting against a deep black background.",
-    "title": "Woman in Pink Saree with Silver Jewelry",
-    "description": "A realistic portrait of a woman wearing an embroidered pink saree and heavy silver jewelry under dramatic red lighting.",
+    "id": 35527,
+    "content": "A photorealistic portrait of a young Asian woman with long, wavy dark brown hair and soft wispy bangs. She is wearing a sage green satin robe featuring a delicate pink floral pattern, styled loosely to slip off one shoulder revealing her collarbone. She sits on a bed with white linens, posing with one hand gently touching her chin in a thoughtful expression. The background features warm ambient lighting from a bedside lamp and blurred beige curtains, creating a cozy nighttime bedroom atmosphere.",
+    "title": "Woman in Green Floral Satin Robe",
+    "description": "A photorealistic image of a young woman wearing a green floral satin robe in a cozy bedroom setting.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1790408749978_ei4gtq_HTGrBa6aUAAOm59.jpg"
+      "https://cms-assets.youmind.com/media/1790495308443_10fsk5_HTLjApOa4AAyAkS.jpg",
+      "https://cms-assets.youmind.com/media/1790495308459_rxlvjf_HTLjApDbAAAaFm2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35519,
+    "content": "A high-resolution photorealistic eye level portrait of a young East Asian woman with soft natural makeup, glowing skin subtle blush and glossy pink lipstick resting her chin gently on her hand while sitting at an outdoor cafe She has dark brown hair styled in a messy high bun with face framing strands. She is wearing a relaxed-fit unbuttoned white linen button-down shirt over a white tank top, light blue denim jeans a delicate gold pendant necklace, small stud earrings, and a smartwatch with a maroon strap Bright warm, natural sunlight casts dappled shadows from leafy trees in the background, creating a cozy and aesthetic lifestyle aesthetic Depth of field with a softly blurred outdoor cafe setting. Shot on 85mm lens, f/1.8, 8k resolution.",
+    "title": "Photorealistic Cafe Portrait Prompt",
+    "description": "A detailed prompt for generating a photorealistic portrait of an East Asian woman at an outdoor cafe using GPT Image 2, focusing on natural lighting and fabric details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790495301640_7llvaz_HTMYsq6bwAAmvhx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35517,
+    "content": "A realistic outdoor selfie of a young woman with long, straight light-brown hair, standing on a city street in bright natural daylight. She wears a stylish red-and-black striped oversized top with graphic lettering, black shoulder straps, and a casual streetwear aesthetic. She holds the camera at arm’s length for a close-up selfie, slightly tilting her head toward the camera, making a playful duck-face expression while raising one arm and lightly flexing her fist. Natural makeup, defined eyes, soft skin texture, detailed hair strands, confident playful pose. Background features a parked vintage beige car, paved street, greenery, modern buildings, and a pink storefront edge. Warm daylight, candid social-media photography, realistic proportions, sharp facial details, shallow depth of field, high-resolution smartphone camera look, vertical 4:5 composition.",
+    "title": "Streetwear Selfie with Duck Face",
+    "description": "A prompt for gpt-image-2 generating a realistic outdoor selfie of a woman in streetwear making a playful duck-face expression, with specific attention to lighting, background elements like a vintage car, and smartphone camera aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790495298433_v9somc_HTMRHTDakAAjpfp.jpg",
+      "https://cms-assets.youmind.com/media/1790495299844_uzfgkk_HTMRH2abYAAWcGn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35524,
+    "content": "Subject:\nCafe Shop Braided Hair\n\nMain Subject:\nCenter of the frame, a woman sitting before cake and coffee at a wooden cafe seat.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, neat nose, glossy pale pink lips. Face turned slightly left, gaze meeting camera with modest smile. Dark brown hair tied up high, leaving large clip and stray strands.\n\nClothing & Pose:\nBeige gathered halter neck top and dark gray wide cargo pants. Sitting on chair, legs flowing diagonally, hands lightly overlapped near thighs.\n\nBackground & Light:\nSmall cafe with wooden walls and shelves, white plate cake and dark coffee on round table in foreground. Warm natural light from front-left softly illuminates cheeks and top.\n\nComposition & Camera:\n3:4 vertical composition, diagonal frontal camera slightly lower than seat height capturing full body from top of head to near feet. Person placed largely in right half. Chair and table naturally cropped at screen edges, focus on face and gathered top, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin and hair, costume materials, surrounding props, maintaining calm colors of wood, beige, and dark gray.\n\nNegative:\nChange halter top; omit cake and coffee",
+    "title": "GPT Image 2 Prompt: Cafe Braided Hair Portrait",
+    "description": "A prompt for generating a photorealistic portrait of a woman with braided hair sitting in a cafe with cake and coffee.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790495305554_i05z92_HS5hAYPaMAAwcev.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35521,
+    "content": "{\n  \"prompt_type\": \"reference_template_identity_replacement\",\n\n  \"CORE_RULE\": \"Use the supplied image as a locked photographic template. Preserve the photograph as closely as possible, but replace the woman's facial identity with a completely different fictional adult woman.\",\n\n  \"PRESERVE\": [\n    \"exact pose and body position\",\n    \"head angle and gaze direction\",\n    \"camera angle, height, perspective and framing\",\n    \"subject scale and crop\",\n    \"background and environment\",\n    \"lighting and shadows\",\n    \"hairstyle, hair length and placement\",\n    \"ALL clothing exactly as shown in the reference\",\n    \"ALL accessories and jewelry exactly as shown in the reference\",\n    \"glasses, if present\",\n    \"clothing colors, materials, patterns, fit and silhouette\",\n    \"jewelry type, placement and appearance\",\n    \"overall smartphone photography aesthetic\"\n  ],\n\n  \"IDENTITY_CHANGE\": {\n    \"instruction\": \"Create a completely different fictional adult woman. Do not preserve the reference woman's recognizable identity or facial structure.\",\n    \"change\": [\n      \"face shape\",\n      \"eyes and eye spacing\",\n      \"eyebrows\",\n      \"nose\",\n      \"cheekbones\",\n      \"jawline\",\n      \"chin\",\n      \"lips\",\n      \"overall facial proportions\"\n    ],\n    \"rule\": \"The new woman must clearly look like a different person while keeping the same photograph composition.\"\n  },\n\n  \"CLOTHING_AND_ACCESSORIES\": {\n    \"instruction\": \"Do not invent, redesign or recolor the wardrobe. Automatically copy the clothing and accessories visible in the supplied reference image.\",\n    \"preserve\": [\n      \"top or shirt\",\n      \"bottoms\",\n      \"dress or outerwear if present\",\n      \"shoes if visible\",\n      \"glasses if present\",\n      \"necklaces\",\n      \"earrings\",\n      \"rings\",\n      \"bracelets\",\n      \"watches\",\n      \"all other visible accessories\"\n    ],\n    \"important\": \"Whatever the woman is wearing or carrying in the reference must remain visually consistent in the generated image.\"\n  },\n\n  \"PHOTOGRAPHY\": {\n    \"style\": \"authentic candid smartphone photograph\",\n    \"realism\": \"extreme photorealism\",\n    \"skin\": \"natural pores and realistic imperfections\",\n    \"processing\": \"natural smartphone HDR\",\n    \"retouching\": \"minimal and believable\"\n  },\n\n  \"CLEANUP\": [\n    \"remove text\",\n    \"remove watermarks\",\n    \"remove logos\",\n    \"remove captions\",\n    \"remove UI elements\",\n    \"remove screen borders\",\n    \"remove black strips or borders\"\n  ],\n\n  \"NEGATIVE_PROMPT\": [\n    \"same woman\",\n    \"same face\",\n    \"facial duplicate\",\n    \"recognizable identity\",\n    \"different pose\",\n    \"different camera angle\",\n    \"different framing\",\n    \"different background\",\n    \"different clothing\",\n    \"different accessories\",\n    \"invented jewelry\",\n    \"invented clothing\",\n    \"changed clothing color\",\n    \"missing accessories\",\n    \"missing glasses\",\n    \"CGI\",\n    \"3D render\",\n    \"plastic skin\",\n    \"airbrushed skin\",\n    \"anime\",\n    \"illustration\",\n    \"extr\"\n}",
+    "title": "GPT Image 2 Identity Replacement Template",
+    "description": "A structured JSON prompt for GPT Image 2 that replaces a person's facial identity while strictly preserving pose, clothing, lighting, and background from a reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790495300670_l9crsa_HTKoK-aWIAAjng9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35522,
+    "content": "Create an ultra-photorealistic candid smartphone travel photograph based closely on the uploaded reference image.\nA young woman is sitting naturally on the edge of an ancient weathered stone fortress wall beside a narrow historic cobblestone street. She is positioned on the right side of the frame, sitting sideways on the stone ledge while looking toward the camera with a warm, natural smile.\nShe has long dark brown-black hair, softly styled with loose natural strands around her face and shoulders, and is wearing a wide leopard-print headband. Her face has natural realistic skin texture, subtle pores, tiny imperfections, minimal makeup, natural eyebrows, realistic eyes and lips. Preserve a believable real-person appearance rather than a polished AI-model look.\nShe is wearing an elegant cream-white long-sleeve fitted top with subtle vertical ribbed texture and a long flowing cream-white skirt. The clothing should have realistic fabric fibers, natural folds, wrinkles and weight. She is wearing casual black-and-white sneakers, with the shoes and feet positioned naturally on the lower stone wall.\nHer hands are resting naturally together in her lap. Her posture is relaxed and slightly leaning toward the stone wall, with realistic body proportions and anatomy.\nThe environment is an authentic old European/Mediterranean historic district. Behind her is a massive ancient stone fortress wall made from irregular weathered beige and gray stone blocks, with visible rough texture, cracks, age marks and uneven mortar. The wall extends deep into the background and creates strong natural perspective.\nOn the left side, a narrow steep cobblestone street descends into the distance. The street contains small distant pedestrians and a dark vehicle, with historic buildings partially visible farther down the hill. A leafy green tree rises beside the old wall. The distant buildings should remain naturally detailed but slightly softer due to depth.\nLighting: warm late-afternoon golden sunlight coming from the left, softly illuminating the woman's face, cream clothing and ancient stone wall. Realistic warm highlights and natural cool shadows. The atmosphere should feel like a genuine travel photograph taken during golden hour.\nCamera: modern smartphone camera, vertical 4:3 composition, approximately 26mm equivalent lens, camera positioned at standing eye level slightly across from the woman, natural wide-angle perspective, realistic smartphone HDR, subtle exposure variation, authentic handheld framing, natural depth of field.\nThe image should retain the casual imperfections of real smartphone photography: tiny exposure inconsistencies, realistic digital detail, subtle lens softness, natural shadows, imperfect framing and believable perspective.\nExtremely realistic skin, individual hair strands, realistic stone texture, authentic fabric fibers, physically accurate shadows, natural shoe texture, realistic hands and fingers, believable architecture and a",
+    "title": "Realistic Travel Photo Prompt",
+    "description": "A detailed prompt for generating an ultra-photorealistic candid travel photograph of a woman sitting on a stone wall, optimized for GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790495303623_dibsna_HTJJwARbMAAnlQ6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35526,
+    "content": "A full-body anime-style illustration of a young woman standing in a minimalist, bright indoor space with large windows casting soft shadows on the floor. She has shoulder-length pink hair with teal-blue tips and blue eyes, looking back over her shoulder toward the viewer with a calm expression. She wears a crisp white button-up shirt tucked into high-waisted black wide-leg trousers with a side slit, paired with chunky black heeled ankle boots. One hand rests casually in her pocket while the other hangs relaxed at her side. The lighting is natural and diffused, creating a clean, modern fashion aesthetic.",
+    "title": "Anime Girl in Cross-Leg Fashion Pose",
+    "description": "Generates an anime-style portrait of a fashionable woman in a cross-leg pose wearing a white shirt and black trousers, ideal for character design or fashion illustration prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790495307844_9anviz_HTJFLq2bwAAdlYu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35525,
+    "content": "Subject:\nGray Gym Rest\n\nMain Subject:\nFrom center to right of frame, a woman lying prone on an inorganic gym floor, looking at camera over a barbell.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, neat nose, glossy pale pink lips. Face forward, gaze meeting camera in calm serious expression. Long dark brown hair loosely disheveled, wearing large black headphones.\n\nClothing & Pose:\nPale gray sports bra top and high-waist leggings pants, white sneakers. Both elbows on floor, upper body raised, legs extended back behind black barbell crossing foreground.\n\nBackground & Light:\nDark concrete-style gym with black racks, weights, benches. Soft white lighting from top-left illuminates cheeks and shoulders.\n\nComposition & Camera:\n3:4 vertical composition, low frontal camera near floor capturing full body from top of head to shoes. Person placed largely diagonally in right half. Barbell cropped at side edges, focus on face and upper body, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin and hair, costume materials, surrounding props, maintaining low saturation of gray, black, and skin tone.\n\nNegative:\nChange to standing pose; omit barbell and headphones",
+    "title": "GPT Image 2 Prompt: Gray Gym Rest",
+    "description": "A prompt for generating a photorealistic image of a woman resting on a gym floor with headphones and a barbell.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790495306699_00z4fi_HS5cLfpbgAATSiw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35459,
+    "content": "Subject:\nDryer's Circular Echo\n\nMain Subject:\nCenter of the frame, full body of a woman sitting on a wooden bench visible through multiple opened circular doors of large dryers.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, neat nose, glossy pale pink lips. Profile facing lower right, gaze dropped to floor in melancholy quiet expression. Dark brown hair in casual bun on top, thin bangs and stray hairs along cheeks.\n\nClothing & Pose:\nBeige thin-strap rib camisole top, black loose wide pants, black thick-heel sandals with ankle straps. Sitting sideways on wooden bench, left leg crossed over right, right hand on thigh, left arm lowered behind body.\n\nBackground & Light:\nForeground with triple large metal circular doors, notices and wooden bench on left, white dryers and Japanese signboard on right. Hard fluorescent light from above and soft light from back window illuminate person and metal rings.\n\nComposition & Camera:\n2:3 vertical composition, portrait capturing full body from top of head to sole of shoes through circular doors. Person placed small in lower center. Large circular frames cropped at screen edges, focus on person and concentric doors, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin and hair, costume materials, surrounding props, maintaining retro indoor light of silver, white, black, and wood.\n\nNegative:\nOmit dryer concentric circles; change bench sitting or black pants",
+    "title": "GPT Image 2 Prompt: Dryer Circular Echo",
+    "description": "A prompt for generating a photorealistic image of a woman sitting on a bench viewed through circular dryer doors in a coin laundry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790495307039_scc4b9_HS5V26sacAABe1F.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35468,
+    "content": "A photorealistic portrait of a beautiful young South Asian woman with long, voluminous dark brown wavy hair cascading over her right shoulder. She has fair skin, expressive brown eyes looking slightly off-camera to the left, and soft pink lips. She is wearing a delicate light pink saree with intricate silver embroidery along the border and scattered embellishments on the fabric. Her accessories include large, ornate silver jhumka earrings, a heavy statement silver necklace with detailed filigree work, and a stack of silver bangles on her wrist. The lighting is dramatic, with a warm reddish glow illuminating her face from the side against a dark, blurred background, creating an elegant and moody atmosphere.",
+    "title": "Portrait of Woman in Pink Saree",
+    "description": "A photorealistic portrait of a young woman wearing a pink embroidered saree and silver jewelry under dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790495307164_8zrxgq_HTGrBa6aUAAOm59.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 35462,
-    "content": "Subject:\nBottle mouth night selfie.\n\nMain Subject:\nIn the center of the frame, a close-up selfie of a woman leaning over a wooden table, touching her lips to the mouth of a transparent beverage bottle.\n\nCharacter & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, well-defined nose, glossy pale peach lips. Face turned forward, intense gaze meeting camera, playful expression with lips against bottle mouth. Long straight dark brown hair with thin bangs and side strands hanging onto desk.\n\nClothing & Pose:\nPlain black short-sleeve T-shirt. Upper body leaned over wooden desk, arms extended forward, supporting upright transparent bottle mouth with lips.\n\nBackground & Light:\nGlass bottle with cloudy white beverage in foreground center, metal appliance in background right, wood-grain desk in lower half. Hard indoor light from upper left creates bright reflections on face, hair, bottle, and desk.\n\nComposition & Camera:\n3:4 vertical portrait, close-up frontal selfie camera just above desk surface capturing bust shot from head to shoulder and bottle base. Person centered. Arms cropped at side edges, focus on both eyes and bottle mouth, background slightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High detail on natural skin, hair, clothing materials, surrounding props. Maintain natural indoor colors of wood, black, and transparent glass.\n\nNegative:\nChange lips touching bottle mouth; omit wooden desk or black T-shirt.",
-    "title": "Night Selfie with Bottle Prompt for GPT Image 2",
-    "description": "A prompt for generating a close-up selfie of a woman drinking from a bottle while resting her head on a wooden table at night, with specific lighting and texture details.",
+    "content": "Subject:\nBottle mouth night selfie\n\nMain Subject:\nA close-up selfie of a woman leaning over a wooden table, lips touching the mouth of a transparent beverage bottle, is the main subject in the center of the screen.\n\nCharacter & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, well-defined nose, glossy pale peach lips. Face turned forward, gaze strongly meeting the camera, playful expression with lips resting on the bottle mouth. Long straight dark brown hair hangs onto the desk with thin bangs and strands framing the face.\n\nClothing & Pose:\nPlain black short-sleeved T-shirt. Upper body leaning over the wooden table, both arms extended forward, supporting the mouth of the upright transparent bottle with lips.\n\nBackground & Light:\nGlass bottle with cloudy drink in the foreground center, metal appliance in the background right, wood-grain desk in the lower half. Hard indoor light from the upper left creates bright reflections on the face, hair, bottle, and desk.\n\nComposition & Camera:\n3:4 vertical composition, close-up frontal selfie camera just above the table surface capturing a chest-up close-up from crown to shoulders and bottle bottom. Portrait with person placed largely in the center. Arms cropped at left and right edges, focus on both eyes and bottle mouth, background slightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High definition of natural skin, hair, clothing materials, and surrounding props, maintaining natural indoor colors of wood tone, black, and transparent glass.\n\nNegative:\nChange of lips touching bottle mouth; omission of wooden desk or black T-shirt",
+    "title": "Bottle Mouth Night Selfie Prompt",
+    "description": "A detailed prompt for generating a photorealistic selfie of a woman drinking from a bottle at night, specifically for GPT Image 2.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1790408741326_91zi4q_HS5RvjsbwAE3roU.jpg"
+      "https://cms-assets.youmind.com/media/1790495303037_fgwv01_HS5RvjsbwAE3roU.jpg"
     ],
     "needReferenceImages": false
   },
