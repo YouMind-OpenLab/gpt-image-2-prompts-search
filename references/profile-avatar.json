@@ -1,5 +1,35 @@
 [
   {
+    "id": 35572,
+    "content": "Subject:\nGold lace by the sunset sea window.\n\nMain Subject:\nA woman in a gold lace dress is the protagonist, seated on the right side of the frame within an open window frame overlooking the sea.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, well-defined nose, glossy pale peach lips. She faces forward, looking directly at the camera with a faint smile. Long wavy dark brown hair flows to one side, leaving thin bangs.\n\nClothing & Pose:\nBeige-gold thin straps, deep neckline, floor-length dress with all-over embroidered lace. She sits on a stone windowsill, bending her right leg over her left, placing both hands on the left and right sides of the sill.\n\nBackground & Light:\nFrom left to right background: white open window, ivy and white flowers, balcony, coastal town, mountains, setting sun. Soft golden backlight from the sunset on the left illuminates her hair and dress.\n\nComposition & Camera:\n3:4 vertical composition, frontal camera slightly below eye level capturing full body from head to dress hem. Character placed largely in center-right, occupying most of the screen height. Flowers and window frames remain at edges, focus on face and gold lace, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin, hair, clothing materials, and surrounding props; maintain gold, white, green, and pink sunset tones.\n\nNegative:\nChange seating posture on windowsill; omit sunset sea and lace.",
+    "title": "GPT Image 2 Prompt: Sunset Sea Window Portrait",
+    "description": "A detailed prompt for generating a photorealistic portrait of a woman in a gold lace dress sitting by an open window overlooking the sea at sunset.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790582677443_29hmv1_HS53UoiaEAAiOEq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35567,
+    "content": "{\n  \"prompt_type\": \"reference_template_identity_replacement\",\n\n  \"CORE_RULE\": \"Use the supplied image as a locked photographic template. Preserve the photograph as closely as possible, but replace the woman's facial identity with a completely different fictional adult woman.\",\n\n  \"PRESERVE\": [\n    \"exact pose and body position\",\n    \"head angle and gaze direction\",\n    \"camera angle, height, perspective and framing\",\n    \"subject scale and crop\",\n    \"background and environment\",\n    \"lighting and shadows\",\n    \"hairstyle, hair length and placement\",\n    \"ALL clothing exactly as shown in the reference\",\n    \"ALL accessories and jewelry exactly as shown in the reference\",\n    \"glasses, if present\",\n    \"clothing colors, materials, patterns, fit and silhouette\",\n    \"jewelry type, placement and appearance\",\n    \"overall smartphone photography aesthetic\"\n  ],\n\n  \"IDENTITY_CHANGE\": {\n    \"instruction\": \"Create a completely different fictional adult woman. Do not preserve the reference woman's recognizable identity or facial structure.\",\n    \"change\": [\n      \"face shape\",\n      \"eyes and eye spacing\",\n      \"eyebrows\",\n      \"nose\",\n      \"cheekbones\",\n      \"jawline\",\n      \"chin\",\n      \"lips\",\n      \"overall facial proportions\"\n    ],\n    \"rule\": \"The new woman must clearly look like a different person while keeping the same photograph composition.\"\n  },\n\n  \"CLOTHING_AND_ACCESSORIES\": {\n    \"instruction\": \"Do not invent, redesign or recolor the wardrobe. Automatically copy the clothing and accessories visible in the supplied reference image.\",\n    \"preserve\": [\n      \"top or shirt\",\n      \"bottoms\",\n      \"dress or outerwear if present\",\n      \"shoes if visible\",\n      \"glasses if present\",\n      \"necklaces\",\n      \"earrings\",\n      \"rings\",\n      \"bracelets\",\n      \"watches\",\n      \"all other visible accessories\"\n    ],\n    \"important\": \"Whatever the woman is wearing or carrying in the reference must remain visually consistent in the generated image.\"\n  },\n\n  \"PHOTOGRAPHY\": {\n    \"style\": \"authentic candid smartphone photograph\",\n    \"realism\": \"extreme photorealism\",\n    \"skin\": \"natural pores and realistic imperfections\",\n    \"processing\": \"natural smartphone HDR\",\n    \"retouching\": \"minimal and believable\"\n  },\n\n  \"CLEANUP\": [\n    \"remove text\",\n    \"remove watermarks\",\n    \"remove logos\",\n    \"remove captions\",\n    \"remove UI elements\",\n    \"remove screen borders\",\n    \"remove black strips or borders\"\n  ],\n\n  \"NEGATIVE_PROMPT\": [\n    \"same woman\",\n    \"same face\",\n    \"facial duplicate\",\n    \"recognizable identity\",\n    \"different pose\",\n    \"different camera angle\",\n    \"different framing\",\n    \"different background\",\n    \"different clothing\",\n    \"different accessories\",\n    \"invented jewelry\",\n    \"invented clothing\",\n    \"changed clothing color\",\n    \"missing accessories\",\n    \"missing glasses\",\n    \"CGI\",\n    \"3D render\",\n    \"plastic skin\",\n    \"airbrushed skin\",\n    \"anime\",\n    \"illustration\",\n    \"extr\"\n  ]\n}",
+    "title": "Identity Replacement Template Prompt",
+    "description": "A structured JSON prompt for GPT Image 2 that uses a reference photo as a locked template, preserving pose, clothing, and background while replacing the subject's facial identity with a different fictional person.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790582674574_v06w9l_HTP1uPxWIAEYLmp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35573,
+    "content": "Subject:\nBeige portrait with leaf shadows.\n\nMain Subject:\nClose-up portrait of woman in beige jacket outdoors among leaf shadows is the protagonist, centered.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, well-defined nose, glossy pale peach lips. Face turned slightly left from front, looking at camera with soft expression. Long wavy dark brown hair down, leaving thin bangs and loose strands along cheeks.\n\nClothing & Pose:\nOversized tailored beige jacket, matching lace top at chest, thin gold layered necklace. Torso slightly tilted, shoulders relaxed standing naturally.\n\nBackground & Light:\nOutdoor shade with green leaves and pale wall heavily blurred. Soft dappled sunlight from top-left falls on cheeks, forehead, jacket.\n\nComposition & Camera:\n3:4 vertical composition, frontal camera at eye level capturing bust-up from head to below chest. Character placed largely in center. Hair and shoulders naturally cropped at edges, focus on eyes and leaf shadows on skin, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin, hair, clothing materials, and surrounding props; maintain natural low saturation of beige, green, skin tone.\n\nNegative:\nOmit leaf shadows; change jacket color.",
+    "title": "GPT Image 2 Prompt: Leaf Shadow Portrait",
+    "description": "A detailed prompt for generating a close-up portrait of a woman in a beige jacket outdoors with dappled leaf shadows on her face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790582678725_l3uksh_HS5xyk1boAEj_ML.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 35527,
     "content": "A photorealistic portrait of a young Asian woman with long, wavy dark brown hair and soft wispy bangs. She is wearing a sage green satin robe featuring a delicate pink floral pattern, styled loosely to slip off one shoulder revealing her collarbone. She sits on a bed with white linens, posing with one hand gently touching her chin in a thoughtful expression. The background features warm ambient lighting from a bedside lamp and blurred beige curtains, creating a cozy nighttime bedroom atmosphere.",
     "title": "Woman in Green Floral Satin Robe",
@@ -11,33 +41,46 @@
     "needReferenceImages": true
   },
   {
+    "id": 35578,
+    "content": "A highly detailed anime-style portrait of a handsome young man with messy black hair and intense purple eyes, wearing a small black top hat adorned with a large red and purple plaid bow. He has a cigarette in his mouth and is dressed in an elaborate Victorian gothic outfit featuring a black high-collared shirt, a matching plaid tie with a ruby brooch, and multiple gold chains including a cross pendant. The background is dark and moody, filled with gothic elements such as lit candles, a raven perched on old books, playing cards, a skull, and a birdcage, all set against a diamond-patterned wallpaper. The entire image is framed by an ornate golden border with decorative flourishes.",
+    "title": "Gothic Anime Portrait",
+    "description": "Generates a stylish anime portrait of a male character in Victorian gothic attire with a plaid theme, surrounded by dark atmospheric props like candles and skulls within a golden frame.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1790582681652_1ep36v_HTMp-Y6bYAEGZro.jpg",
+      "https://cms-assets.youmind.com/media/1790582681912_9pty3i_HTMp-ZCbgAAcUBy.jpg",
+      "https://cms-assets.youmind.com/media/1790582681671_fyepgm_HTMp-ZAbcAA7R93.jpg",
+      "https://cms-assets.youmind.com/media/1790582682531_nhybgw_HTMp-Y6bYAALjEk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35519,
     "content": "A high-resolution photorealistic eye level portrait of a young East Asian woman with soft natural makeup, glowing skin subtle blush and glossy pink lipstick resting her chin gently on her hand while sitting at an outdoor cafe She has dark brown hair styled in a messy high bun with face framing strands. She is wearing a relaxed-fit unbuttoned white linen button-down shirt over a white tank top, light blue denim jeans a delicate gold pendant necklace, small stud earrings, and a smartwatch with a maroon strap Bright warm, natural sunlight casts dappled shadows from leafy trees in the background, creating a cozy and aesthetic lifestyle aesthetic Depth of field with a softly blurred outdoor cafe setting. Shot on 85mm lens, f/1.8, 8k resolution.",
-    "title": "Photorealistic Cafe Portrait Prompt",
-    "description": "A detailed prompt for generating a photorealistic portrait of an East Asian woman at an outdoor cafe using GPT Image 2, focusing on natural lighting and fabric details.",
+    "title": "Cafe Portrait Prompt for GPT Image 2",
+    "description": "A detailed prompt for generating a photorealistic portrait of a young woman at an outdoor cafe using GPT Image 2.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1790495301640_7llvaz_HTMYsq6bwAAmvhx.jpg"
+      "https://cms-assets.youmind.com/media/1790582673252_i4m65q_HTMYsq6bwAAmvhx.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 35517,
     "content": "A realistic outdoor selfie of a young woman with long, straight light-brown hair, standing on a city street in bright natural daylight. She wears a stylish red-and-black striped oversized top with graphic lettering, black shoulder straps, and a casual streetwear aesthetic. She holds the camera at arm’s length for a close-up selfie, slightly tilting her head toward the camera, making a playful duck-face expression while raising one arm and lightly flexing her fist. Natural makeup, defined eyes, soft skin texture, detailed hair strands, confident playful pose. Background features a parked vintage beige car, paved street, greenery, modern buildings, and a pink storefront edge. Warm daylight, candid social-media photography, realistic proportions, sharp facial details, shallow depth of field, high-resolution smartphone camera look, vertical 4:5 composition.",
-    "title": "Streetwear Selfie with Duck Face",
-    "description": "A prompt for gpt-image-2 generating a realistic outdoor selfie of a woman in streetwear making a playful duck-face expression, with specific attention to lighting, background elements like a vintage car, and smartphone camera aesthetics.",
+    "title": "Realistic Outdoor Selfie Streetwear",
+    "description": "A prompt for generating a realistic outdoor selfie of a young woman in streetwear making a playful expression, with specific details on clothing, background elements, and camera settings.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1790495298433_v9somc_HTMRHTDakAAjpfp.jpg",
-      "https://cms-assets.youmind.com/media/1790495299844_uzfgkk_HTMRH2abYAAWcGn.jpg"
+      "https://cms-assets.youmind.com/media/1790582674409_yege0i_HTMRHTDakAAjpfp.jpg",
+      "https://cms-assets.youmind.com/media/1790582674456_t8u5fw_HTMRH2abYAAWcGn.jpg"
     ],
     "needReferenceImages": false
   },
   {
     "id": 35524,
-    "content": "Subject:\nCafe Shop Braided Hair\n\nMain Subject:\nCenter of the frame, a woman sitting before cake and coffee at a wooden cafe seat.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, neat nose, glossy pale pink lips. Face turned slightly left, gaze meeting camera with modest smile. Dark brown hair tied up high, leaving large clip and stray strands.\n\nClothing & Pose:\nBeige gathered halter neck top and dark gray wide cargo pants. Sitting on chair, legs flowing diagonally, hands lightly overlapped near thighs.\n\nBackground & Light:\nSmall cafe with wooden walls and shelves, white plate cake and dark coffee on round table in foreground. Warm natural light from front-left softly illuminates cheeks and top.\n\nComposition & Camera:\n3:4 vertical composition, diagonal frontal camera slightly lower than seat height capturing full body from top of head to near feet. Person placed largely in right half. Chair and table naturally cropped at screen edges, focus on face and gathered top, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin and hair, costume materials, surrounding props, maintaining calm colors of wood, beige, and dark gray.\n\nNegative:\nChange halter top; omit cake and coffee",
-    "title": "GPT Image 2 Prompt: Cafe Braided Hair Portrait",
-    "description": "A prompt for generating a photorealistic portrait of a woman with braided hair sitting in a cafe with cake and coffee.",
+    "content": "Subject:\nBraided hair at coffee shop.\n\nMain Subject:\nWoman sitting before cake and coffee at wooden cafe seat is the protagonist, centered.\n\nPerson & Expression:\nSmall oval face, large dark brown eyes, thin eyebrows, well-defined nose, glossy pale peach lips. Face turned slightly left, looking at camera with modest smile. Dark brown hair gathered high, leaving large clip and loose strands.\n\nClothing & Pose:\nBeige gathered halter-neck top and dark grey wide cargo pants. Sitting on chair with legs crossed diagonally, hands lightly overlapped near thighs.\n\nBackground & Light:\nSmall cafe with wooden walls and shelves, round table in foreground with cake on white plate and dark coffee. Warm natural light from front-left softly illuminates cheeks and top.\n\nComposition & Camera:\n3:4 vertical composition, diagonal frontal camera slightly lower than seat capturing full body from head to near feet. Character placed largely in right half. Chair and table naturally cropped at edges, focus on face and gathered top, background lightly blurred.\n\nTexture & Style:\nPhotorealistic live-action photo. High-definition natural skin, hair, clothing materials, and surrounding props; maintain calm colors of wood tone, beige, dark grey.\n\nNegative:\nChange halter top; omit cake and coffee.",
+    "title": "GPT Image 2 Prompt: Cafe Outfit Portrait",
+    "description": "A detailed prompt for generating a portrait of a woman sitting in a cafe with cake and coffee, wearing a beige halter top and cargo pants.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1790495305554_i05z92_HS5hAYPaMAAwcev.jpg"
+      "https://cms-assets.youmind.com/media/1790582677572_zbub1p_HS5hAYPaMAAwcev.jpg"
     ],
     "needReferenceImages": false
   },
