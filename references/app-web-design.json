@@ -10,6 +10,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 35864,
+    "content": "Using the provided reference image of a neon-lit arcade corner, transform the scene by adding realistic environmental storytelling elements. Specifically, generate a pile of trash and dirt buildup at the base of the wall where it meets the floor. Include a rusted metal pipe protruding from the wall, a discarded crushed aluminum can, crumpled plastic wrappers, and scattered dead leaves. Add a weathered electrical outlet box with a black cord plugged into it. Ensure the new objects have wet, reflective surfaces that match the existing puddle reflections on the cracked asphalt ground.",
+    "title": "Add Trash and Dirt to Neon Arcade Scene",
+    "description": "This prompt instructs the AI to take a clean 3D render of an arcade corner and overlay realistic decay elements like pipes, cans, and grime to create a lived-in atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791013857043_detj1d_HTpepzJXAAAIZ0l.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 35323,
     "content": "First distill the theme into a readable strong title, a few information lines, and a linear structure that can fill the screen; the first glance must be a very heavy, very black bold text block at the top, appearing cropped and pressing down on a large area of fine lines below, with the title looking like architectural beams rather than decorative characters. The main image does not appear as realistic objects but is translated into multiple groups of horizontal, slightly undulating, manually misaligned parallel thin lines, with breaks, crossings, local tilts, and incomplete alignment between line groups, forming an underlying grid where readable order and improvisational imbalance coexist. Theme energy intervenes in the line field through scattered paint dots, short scratches, and small color blocks, using a few high-saturation primary colors juxtaposed with light gray, light pink, light blue, green, and orange, resembling traces left by manual splashing or misregistration after printing; color dots vary greatly in size, ranging from needle-tip dots to fingertip-sized patches, distributed seemingly randomly but creating pauses, accents, and jumps around the rhythm of the lines. The text system uses extreme compression hierarchy: the main title is a heavy sans-serif black block, wide glyphs, uniform strokes, compressed inner white, straight ends, tight connections; any writing system should maintain this heavy sans-serif black block style. The background remains unadorned white paper, without gradients, shadows, photographic texture, exquisite illustrations, symmetrical decoration, or soft beautification, letting black order and colorful accidents jointly constitute the theme.\n\n——————\nTheme: {argument name=\"theme\" default=\"Mid-Autumn Festival\"}\nTotal 10 images\nEach is a different creative based on this aesthetic DNA",
     "title": "GPT Image 2 Abstract Line Art Prompt",

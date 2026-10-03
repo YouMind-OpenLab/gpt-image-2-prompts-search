@@ -10,13 +10,32 @@
     "needReferenceImages": true
   },
   {
-    "id": 35815,
-    "content": "【OUTFIT CHANGE ONLY】\n\nUse the attached character image as the highest-priority reference.\n\nCreate the final image in a vertical 4:5 composition.\n\nPreserve the original character identity and illustration style.\nKeep the original face, eyes, hairstyle, hair color, expression, and overall pose impression.\n\nChange only the outfit and matching accessories.\n\nRecompose the image naturally into a 4:5 vertical frame while preserving the original character, expression, pose impression, and overall scene feeling as much as possible.\n\nKeep the character’s face and hand-heart gesture clearly visible in the 4:5 composition.\n\nDo not redesign the scene.\nDo not create a completely new pose.\nDo not zoom out unnecessarily.\nDo not reveal additional body parts just to show outfit details.\nIf legs or feet are not visible in the original image, do not add them.\n\nOUTFIT:\n\nA cute retro-inspired dress in red, black, and white with a clean polka-dot design.\n\nBlack fitted bodice with a large rounded white Peter Pan collar.\n\nShort red puff sleeves with evenly spaced white polka dots and softly gathered cuffs.\n\nHigh-waisted red skirt with white polka dots and a softly flared A-line silhouette.\n\nLarge white fabric bow at the waist.\n\nOptional matching red-and-white polka-dot ribbon hair accessory.\n\nIf footwear is visible, use simple matching red shoes.\n\nClean coordinated costume design.\nConsistent polka-dot pattern.\nNo extra decorations.\n\nAdapt the outfit naturally to the character's existing visible area.",
-    "title": "GPT Image 2 Prompt: Retro Polka Dot Outfit Change",
-    "description": "An image editing prompt for GPT Image 2 that changes a character's outfit to a retro red, black, and white polka dot dress while preserving identity and pose.",
+    "id": 35856,
+    "content": "Create a professional game/animation character sheet. Original adult female high-altitude ruin explorer: warm brown skin tone, short messy silver-gray hair, transparent cyan-green goggles, old orange technical jacket, dark gray cargo pants, off-white heavy boots, cyan-green cylindrical breathing backpack.\n\nCharacter Lock: All views must maintain completely identical facial structure, hairstyle, body proportions, clothing cuts, backpack structure, colors, and wear positions; do not redesign the character.\n\nStrictly arranged from left to right: Full body front -> 90-degree side -> Full body back -> 3/4 action view; The right side independently displays equipment breakdown of goggles and breathing backpack. All characters maintain the same scale, feet on the same horizontal line, no occlusion between each other.\n\nOff-white character design paper background, precise ink lines + restrained concept design thick painting, able to clearly see fabric seams, buckles, metal wear, and equipment connection methods; uniform soft light, no dramatic depth of field. No text, no logos, no watermarks, do not add extra characters or duplicate equipment.",
+    "title": "GPT Image Character Sheet Prompt",
+    "description": "A detailed prompt for generating a professional game/animation character sheet with strict layout and consistency instructions.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1790927578736_ac5fo3_HTi-3iLasAAI-sU.jpg",
-      "https://cms-assets.youmind.com/media/1790927578732_dedu8q_HTi-3iPb0AA7IhQ.jpg"
+      "https://cms-assets.youmind.com/media/1791013851715_kd6auq_HTq_zX7aYAAdsvF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 35864,
+    "content": "Using the provided reference image of a neon-lit arcade corner, transform the scene by adding realistic environmental storytelling elements. Specifically, generate a pile of trash and dirt buildup at the base of the wall where it meets the floor. Include a rusted metal pipe protruding from the wall, a discarded crushed aluminum can, crumpled plastic wrappers, and scattered dead leaves. Add a weathered electrical outlet box with a black cord plugged into it. Ensure the new objects have wet, reflective surfaces that match the existing puddle reflections on the cracked asphalt ground.",
+    "title": "Add Trash and Dirt to Neon Arcade Scene",
+    "description": "This prompt instructs the AI to take a clean 3D render of an arcade corner and overlay realistic decay elements like pipes, cans, and grime to create a lived-in atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791013857043_detj1d_HTpepzJXAAAIZ0l.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 35863,
+    "content": "A cinematic, photorealistic image of a massive bipedal police robot lifting a heavy shipping container at a rainy port terminal. The robot is the central focus, towering over human-sized emergency responders in the foreground. It features a complex mechanical design with white and black armor plating, hydraulic joints, and a head unit equipped with multiple camera lenses resembling a sensor array. Red warning lights glow on its shoulders. The text \"警視庁 MPD\" (Metropolitan Police Department) is clearly visible in Japanese characters on the robot's chest and shoulder pads. The robot holds a large, rusted red shipping container labeled \"TCNU 897315 Z 45G1\" with both hands, appearing to move it from a collapsed stack. In the background, there are stacks of other containers (one blue with \"NYK\", one red with \"CMA CGM\") and large gantry cranes silhouetted against a stormy sky. Heavy rain falls throughout the scene, creating wet reflections on the asphalt ground. In the foreground, several firefighters wearing orange uniforms with reflective stripes and helmets (labeled \"東京消防庁\") and police officers in dark uniforms (labeled \"警視庁 MPD\") are directing operations or observing the robot. The lighting is dramatic, with bright floodlights illuminating the scene amidst the gloomy weather.",
+    "title": "MPD Robot Lifting Container",
+    "description": "A realistic depiction of a giant Metropolitan Police Department robot lifting a shipping container during a rainy accident scene at a busy port.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791013856292_u87xpm_HTn4K4xbwAAtxob.jpg"
     ],
     "needReferenceImages": true
   },
