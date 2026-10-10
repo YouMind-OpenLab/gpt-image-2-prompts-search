@@ -1,13 +1,66 @@
 [
   {
-    "id": 36160,
-    "content": "Create a nostalgic editorial scrapbook-style image combining one main photorealistic lifestyle photograph with a hand-drawn illustrated section underneath.\n\nThe top 50–55% should be a cinematic, highly realistic photograph of {argument name=\"subject\" default=\"[SUBJECT / SCENE]\"}, captured like an authentic film photograph. Natural candid composition, warm nostalgic atmosphere, soft diffused light, subtle film grain, realistic textures, slightly muted vintage colors, autumnal/warm earthy tones, shallow depth of field where appropriate, beautifully composed but not overly polished.\n\nThe bottom 45–50% should look like a vintage handmade scrapbook / travel journal page, printed on warm cream textured paper. Recreate small elements from the photograph as loose colored-pencil and watercolor doodle illustrations arranged in a clean 3×3 or balanced grid. Include simple hand-drawn objects related to the scene such as {argument name=\"object_1\" default=\"[OBJECT 1]\"}, {argument name=\"object_2\" default=\"[OBJECT 2]\"}, {argument name=\"object_3\" default=\"[OBJECT 3]\"}. Use imperfect sketch lines, subtle pencil strokes, watercolor bleed, slightly uneven coloring and authentic handmade imperfections.\n\nAdd a short handwritten title at the top of the illustrated section: \"{argument name=\"title\" default=\"[TITLE]\"}\", in casual imperfect black/gray handwritten lettering. Add tiny decorative elements such as hearts, dots, clouds, leaves, stars, waves or small doodles around the illustrations.\n\nAt the very bottom, add a small handwritten caption: \"{argument name=\"caption\" default=\"[SHORT CAPTION]\"}\".\n\nOverall aesthetic: cozy Pinterest editorial, nostalgic travel diary, vintage film photography + children’s sketchbook illustration, warm analog memories, premium lifestyle magazine composition, tactile paper texture, understated and elegant, emotionally warm, authentic rather than overly digital.\n\nComposition: vertical 4:5, clean separation between photograph and illustration, balanced negative space, consistent visual storytelling between the photo and drawings.\n\nImportant: preserve realistic photography in the top section; do not turn the photograph into an illustration. The lower section should clearly look hand-drawn. Avoid excessive text, distorted lettering, photorealistic doodles, CGI appearance, oversaturation, clutter, or overly perfect vector graphics.",
-    "title": "Nostalgic Editorial Scrapbook Template",
-    "description": "A comprehensive prompt template for creating a split-composition image combining a photorealistic top section with a hand-drawn scrapbook bottom section, designed for GPT Image 2.",
+    "id": 36222,
+    "content": "{argument name=\"character\" default=\"Anime Character\"}, clearly adult live-action adaptation, preserve facial structure, hairstyle, hair color, eyes, main character color, iconic clothing silhouette and identity accessories.\n\n2000s old Nokia phone photography × private handwritten diary × analog scrapbook × experimental fashion photography.\n\nCharacter placed in a real daily space, performing an action with a sense of life or slightly unconventional meaning. Action, expression, camera position, shot size, clothing details and space are autonomously designed by the model based on character identity.\n\nClose-range phone direct flash snapshot, slight wide-angle distortion, low pixels, JPEG compression, partial defocus, direct flash highlights and rough digital colors. Character retains real facial structure and natural skin texture, presenting the accidental moment of the action occurring.\n\nColorful handwritten doodles, simple symbols, date codes and private notes directly overlaid on the photo surface. Some lines extend along the character's body contour, some marks emphasize gaze, gestures and action direction; a few photo fragments and paper edges form scrapbook layers. Handwritten content naturally derives from character identity and current situation.\n\nPhotographic subject is clear, manual markings and real space interpenetrate. Colors are autonomously organized based on character main color and scene lighting, overall presenting an experimental vibe of fused colorful private imagery and handwritten records.\n\n3:4 portrait, very small vertical lowercase signature \"voxcat\" on the right edge.",
+    "title": "Nokia Photo with Handwritten Diary Doodles",
+    "description": "A prompt for generating images combining old Nokia phone photography aesthetics with handwritten diary doodles and scrapbook elements, featuring a specific character in a daily scene.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1791532573479_8fpyta_HUKHNs9bsAA5mtE.jpg",
-      "https://cms-assets.youmind.com/media/1791532573526_fvf747_HUKHNs4bAAEAZvu.jpg",
-      "https://cms-assets.youmind.com/media/1791532573448_xex9nt_HUKHNs2a8AActRf.jpg"
+      "https://cms-assets.youmind.com/media/1791618679697_a8ptne_HUPu-D9awAANKST.jpg",
+      "https://cms-assets.youmind.com/media/1791618679858_mqs40r_HUPu-D4a0AAIlSh.jpg",
+      "https://cms-assets.youmind.com/media/1791618679731_i68hnu_HUPu-G3aQAAHIAC.jpg",
+      "https://cms-assets.youmind.com/media/1791618680527_4wg2vx_HUPu-G3bgAA9f63.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36231,
+    "content": "Using the provided reference image, transform the scene into a cozy kitchen setting where three chibi girls are making pancakes. Keep the character designs (the yellow chick costume and blue shark hoodie) consistent with the reference style but add a third character in a white sheep costume. Change the background from a candy shop to a warm, pastel-colored kitchen with shelves of dishes and hanging utensils. \n\nAction details: The girl in the yellow chick suit is whisking batter in a pink bowl. The girl in the blue shark suit is pouring batter onto a pink electric griddle using a ladle. The new girl in the white sheep suit is holding a bowl of flour/mix. All three characters must have a small smudge of pancake mix on their noses.\n\nProps & Text: Include a bag labeled \"Fluffy Pancake Mix\", a jar labeled \"HONEY\", a bottle labeled \"MILK\", and a jar labeled \"SUGAR\". Add a stack of finished pancakes topped with strawberries and cream in the foreground. In the top right corner, include a chalkboard sign that reads \"Purin-chan & Same-chan & Koharu-chan Pancake Party\".",
+    "title": "Chibi Girls Making Pancakes",
+    "description": "A cute anime-style illustration of three chibi girls in animal costumes cooking pancakes together in a colorful kitchen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791618684967_se3h3n_HUPGU3sbUAAdm44.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36225,
+    "content": "A high-angle, photorealistic shot of a rustic wooden table bathed in warm, dappled sunlight. On the left side of the frame lies a vertical menu card printed on cream-colored paper with a thin dark green double-line border. The text on the card is arranged as follows: at the top, 'HARBOR STREET COFFEE' in small uppercase serif letters; below that, 'Fall Menu' in large, elegant dark green serif font; followed by a decorative horizontal line with a leaf motif in the center. The menu items are listed in dark green serif text: 'Maple Oat Latte $5.50', 'Pumpkin Cold Brew $5.00', and 'Cardamom Bun $4.25'. At the bottom of the card is another leaf motif and the text 'Open daily 7am - 3pm'. To the right of the menu sits a ceramic mug filled with a latte featuring intricate white rosetta latte art. In the upper left corner, the leaves of a potted plant are partially visible, casting soft shadows across the scene.",
+    "title": "Harbor Street Coffee Fall Menu",
+    "description": "A photorealistic overhead view of a coffee shop's seasonal fall menu card resting on a sunlit wooden table next to a latte.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791618681863_1szvfk_HUNRNATW8AAd050.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36219,
+    "content": "Based on the reference image of an adult female cosplayer, maintain the protagonist's face, ragdoll cat themed costume, black long hair, brown-white plush outfit and cat paw accessories.\n\nCharacter taking a close-up selfie, leaning slightly forward, tilting head, slight pout, with an expression of confusion, disdain, yet cute, looking directly at the camera.\n\nRagdoll cat fur color and styling details as per source material.\n\nNext to the person is a ragdoll cat, in the foreground is a rattan basket containing a fluffy yellow chick and a bunch of deep purple grapes.\nThe person, cat, chick, and grapes naturally squeeze into the same frame, forming an absurd yet everyday private photo.\n\nShot with an early 2000s old Nokia phone, low-pixel color digital photography, low resolution, slight defocus, rough digital noise, JPEG compression artifacts, slight skin tone shift, uneven white balance, limited dynamic range, soft edges, obvious dirty noise in shadows.\n\nSmall ordinary bedroom, old bed, wooden furniture, old CRT TV naturally entering the background. Dim indoor ambient light combined with direct phone flash, face slightly overexposed, background rapidly decaying into darkness. Close-range wide-angle selfie perspective, arm extending towards lens creating obvious near-large far-small effect, casual composition, slightly tilted, like a private photo taken by a friend with an old phone.\n\nOverall real, cheap, rough, snap-shot quality, no modern high-definition photographic texture. Only keep a very small fanfan signature.",
+    "title": "Nokia Phone Selfie with Ragdoll Cat Cosplay",
+    "description": "A prompt for generating a low-resolution, early 2000s Nokia phone-style selfie featuring a woman in ragdoll cat cosplay, including specific noise, lighting, and background details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791618678366_063z0n_HUMOm_iaEAA_UlQ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36228,
+    "content": "A vintage-style photograph of a young woman standing in a Japanese department store. She has short, dark bobbed hair with bangs and is looking directly at the camera with a gentle expression. She wears a cream-colored long-sleeved blouse with a Peter Pan collar, tucked into a brown plaid pleated skirt that falls just above her knees. A small brown leather satchel hangs from her shoulder, and she holds a book or pamphlet in her hands. Her outfit is completed with white ankle socks and dark brown loafers. The background shows glass display cases filled with perfumes and cosmetics on the left, with a sign reading '化粧品' (cosmetics). To the right, there are clothing racks and another sign reading '婦人服' (women's clothing). The floor is polished tile reflecting the warm lighting overhead. The overall atmosphere evokes nostalgia, reminiscent of late 20th-century Japan.",
+    "title": "Vintage Department Store Portrait",
+    "description": "This prompt generates an image capturing a nostalgic scene of a young woman posing inside a classic Japanese department store, perfect for creating retro-themed visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791618683474_5drfae_HULpyu_bcAAV0WV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36160,
+    "content": "Create a nostalgic editorial scrapbook-style image combining one main photorealistic lifestyle photograph with a hand-drawn illustrated section underneath.\n\nThe top 50–55% should be a cinematic, highly realistic photograph of {argument name=\"subject scene\" default=\"[SUBJECT / SCENE]\"}, captured like an authentic film photograph. Natural candid composition, warm nostalgic atmosphere, soft diffused light, subtle film grain, realistic textures, slightly muted vintage colors, autumnal/warm earthy tones, shallow depth of field where appropriate, beautifully composed but not overly polished.\n\nThe bottom 45–50% should look like a vintage handmade scrapbook / travel journal page, printed on warm cream textured paper. Recreate small elements from the photograph as loose colored-pencil and watercolor doodle illustrations arranged in a clean 3×3 or balanced grid. Include simple hand-drawn objects related to the scene such as {argument name=\"object 1\" default=\"[OBJECT 1]\"}, {argument name=\"object 2\" default=\"[OBJECT 2]\"}. Use imperfect sketch lines, subtle pencil strokes, watercolor bleed, slightly uneven coloring and authentic handmade imperfections.\n\nAdd a short handwritten title at the top of the illustrated section: “{argument name=\"title\" default=\"[TITLE]\"}”, in casual imperfect black/gray handwritten lettering. Add tiny decorative elements such as hearts, dots, clouds, leaves, stars, waves or small doodles around the illustrations.\n\nAt the very bottom, add a small handwritten caption: “{argument name=\"short caption\" default=\"[SHORT CAPTION]\"}”.\n\nOverall aesthetic: cozy Pinterest editorial, nostalgic travel diary, vintage film photography + children’s sketchbook illustration, warm analog memories, premium lifestyle magazine composition, tactile paper texture, understated and elegant, emotionally warm, authentic rather than overly digital.\n\nComposition: vertical 4:5, clean separation between photograph and illustration, balanced negative space, consistent visual storytelling between the photo and drawings.\n\nImportant: preserve realistic photography in the top section; do not turn the photograph into an illustration. The lower section should clearly look hand-drawn. Avoid excessive text, distorted lettering, photorealistic doodles, CGI appearance, oversaturation, clutter, or overly perfect vector graphics.",
+    "title": "Nostalgic Scrapbook Photo Prompt",
+    "description": "A prompt template for creating a nostalgic editorial scrapbook image that combines a realistic photograph with hand-drawn illustrations using GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791618679712_zplsbc_HUKHNs9bsAA5mtE.jpg",
+      "https://cms-assets.youmind.com/media/1791618679745_h7qmzo_HUKHNs4bAAEAZvu.jpg",
+      "https://cms-assets.youmind.com/media/1791618679711_ias94g_HUKHNs2a8AActRf.jpg"
     ],
     "needReferenceImages": false
   },
@@ -127,14 +180,14 @@
   },
   {
     "id": 36119,
-    "content": "A cozy, dimly lit living room decorated for a purple-themed Halloween party. The scene features deep plum-colored walls and dark wooden ceiling beams. In the center, a stone fireplace glows with a warm fire, topped by a garland of red berries, candles, and a jack-o'-lantern. A framed painting of a spooky castle under a full moon hangs above the mantel. To the left, a plush burgundy sofa is adorned with a white crocheted blanket and pillows featuring ghost and skull patterns. A large orange pumpkin sits on the floor near a round rug with a star pattern. On the right, a large projection screen displays a skeleton dancing alongside a numbered list of songs or items in yellow text. Small pumpkins and glowing lights are scattered across the floor and shelves, creating an inviting, festive atmosphere.",
+    "content": "A cozy, dimly lit interior of a spooky Halloween-themed living room. The walls are painted a deep purple, and the ceiling features dark wooden beams. A large stone fireplace sits in the center back wall with a roaring fire inside; above it hangs a framed picture of a haunted house under a full moon, flanked by candelabras and draped with red garland featuring a jack-o'-lantern face. To the left is a plush burgundy sofa adorned with various pillows, including one shaped like a white ghost and another with a skull pattern, along with a knitted throw blanket. In the foreground, an armchair has a black pillow with white skulls on it. On the floor lies a circular rug with a starry night pattern. Several orange pumpkins are scattered around the room, some glowing from within. To the right, a large flat-screen TV displays a yellow background with a skeleton character and a long list of song titles or text. Beside the TV stands a tall wooden bookshelf filled with books. A small window on the far left shows a twilight sky outside. The overall atmosphere is warm yet eerie, illuminated primarily by the fireplace glow and ambient lighting.",
     "title": "Cozy Purple Halloween Living Room",
-    "description": "Generates a photorealistic interior shot of a living room decorated for a purple-themed Halloween party with a fireplace and projector screen.",
+    "description": "Generates a detailed 3D render of a spooky but comfortable living room decorated for Halloween with purple walls, a fireplace, pumpkins, and themed furniture.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1791446366984_yojrk9_HUDt28CakAAwGKN.jpg",
-      "https://cms-assets.youmind.com/media/1791446366986_lumfw7_HUDt3QsaAAAgHxp.jpg",
-      "https://cms-assets.youmind.com/media/1791446366979_ya1clt_HUDt3ija8AAQjMe.jpg",
-      "https://cms-assets.youmind.com/media/1791446367955_3sf168_HUDt306aEAAG0HJ.jpg"
+      "https://cms-assets.youmind.com/media/1791618686424_lj8f14_HUDt28CakAAwGKN.jpg",
+      "https://cms-assets.youmind.com/media/1791618686504_bn31wg_HUDt3QsaAAAgHxp.jpg",
+      "https://cms-assets.youmind.com/media/1791618686432_3ddw3y_HUDt3ija8AAQjMe.jpg",
+      "https://cms-assets.youmind.com/media/1791618687083_p71exx_HUDt306aEAAG0HJ.jpg"
     ],
     "needReferenceImages": true
   },

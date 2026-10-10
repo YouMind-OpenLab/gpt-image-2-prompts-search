@@ -1,15 +1,39 @@
 [
   {
-    "id": 36160,
-    "content": "Create a nostalgic editorial scrapbook-style image combining one main photorealistic lifestyle photograph with a hand-drawn illustrated section underneath.\n\nThe top 50–55% should be a cinematic, highly realistic photograph of {argument name=\"subject\" default=\"[SUBJECT / SCENE]\"}, captured like an authentic film photograph. Natural candid composition, warm nostalgic atmosphere, soft diffused light, subtle film grain, realistic textures, slightly muted vintage colors, autumnal/warm earthy tones, shallow depth of field where appropriate, beautifully composed but not overly polished.\n\nThe bottom 45–50% should look like a vintage handmade scrapbook / travel journal page, printed on warm cream textured paper. Recreate small elements from the photograph as loose colored-pencil and watercolor doodle illustrations arranged in a clean 3×3 or balanced grid. Include simple hand-drawn objects related to the scene such as {argument name=\"object_1\" default=\"[OBJECT 1]\"}, {argument name=\"object_2\" default=\"[OBJECT 2]\"}, {argument name=\"object_3\" default=\"[OBJECT 3]\"}. Use imperfect sketch lines, subtle pencil strokes, watercolor bleed, slightly uneven coloring and authentic handmade imperfections.\n\nAdd a short handwritten title at the top of the illustrated section: \"{argument name=\"title\" default=\"[TITLE]\"}\", in casual imperfect black/gray handwritten lettering. Add tiny decorative elements such as hearts, dots, clouds, leaves, stars, waves or small doodles around the illustrations.\n\nAt the very bottom, add a small handwritten caption: \"{argument name=\"caption\" default=\"[SHORT CAPTION]\"}\".\n\nOverall aesthetic: cozy Pinterest editorial, nostalgic travel diary, vintage film photography + children’s sketchbook illustration, warm analog memories, premium lifestyle magazine composition, tactile paper texture, understated and elegant, emotionally warm, authentic rather than overly digital.\n\nComposition: vertical 4:5, clean separation between photograph and illustration, balanced negative space, consistent visual storytelling between the photo and drawings.\n\nImportant: preserve realistic photography in the top section; do not turn the photograph into an illustration. The lower section should clearly look hand-drawn. Avoid excessive text, distorted lettering, photorealistic doodles, CGI appearance, oversaturation, clutter, or overly perfect vector graphics.",
-    "title": "Nostalgic Editorial Scrapbook Template",
-    "description": "A comprehensive prompt template for creating a split-composition image combining a photorealistic top section with a hand-drawn scrapbook bottom section, designed for GPT Image 2.",
+    "id": 36225,
+    "content": "A high-angle, photorealistic shot of a rustic wooden table bathed in warm, dappled sunlight. On the left side of the frame lies a vertical menu card printed on cream-colored paper with a thin dark green double-line border. The text on the card is arranged as follows: at the top, 'HARBOR STREET COFFEE' in small uppercase serif letters; below that, 'Fall Menu' in large, elegant dark green serif font; followed by a decorative horizontal line with a leaf motif in the center. The menu items are listed in dark green serif text: 'Maple Oat Latte $5.50', 'Pumpkin Cold Brew $5.00', and 'Cardamom Bun $4.25'. At the bottom of the card is another leaf motif and the text 'Open daily 7am - 3pm'. To the right of the menu sits a ceramic mug filled with a latte featuring intricate white rosetta latte art. In the upper left corner, the leaves of a potted plant are partially visible, casting soft shadows across the scene.",
+    "title": "Harbor Street Coffee Fall Menu",
+    "description": "A photorealistic overhead view of a coffee shop's seasonal fall menu card resting on a sunlit wooden table next to a latte.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1791532573479_8fpyta_HUKHNs9bsAA5mtE.jpg",
-      "https://cms-assets.youmind.com/media/1791532573526_fvf747_HUKHNs4bAAEAZvu.jpg",
-      "https://cms-assets.youmind.com/media/1791532573448_xex9nt_HUKHNs2a8AActRf.jpg"
+      "https://cms-assets.youmind.com/media/1791618681863_1szvfk_HUNRNATW8AAd050.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36220,
+    "content": "{argument name=\"character A\" default=\"Game Character 1\"} {argument name=\"character B\" default=\"Game Character 2\"} {argument name=\"character C\" default=\"Game Character 3\"}, retro children's literature cover × naïve hand-drawn character illustration × mid-century book cover design.\n\nPreserve the hairstyles, hair colors, eyes, iconic accessories, clothing collars, and identity features of the three characters, adopting mature character settings. The three characters are arranged vertically in three layers along the center of the image, peeking out from behind invisible horizontal edges that match the background color: the top layer shows the head and hands, the middle layer shows only the head, and the bottom layer shows the head and hands resting on the edge. The lower body edges form clear horizontal occlusion, with sufficient whitespace between layers and on the sides.\n\nThe three characters display sleepy, surprised, cold, curious, or lazy expressions respectively. Proportions are slightly cartoonish, eyes are slightly enlarged, contours are clear. Use gouache color blocks, colored pencil lines, and dry brushes to render hair, fur, clothing, and skin, retaining rough hand-drawn strokes, paper grain, and retro printing feel.\n\nChoose a single dark background based on the character color scheme, contrasting warm skin tones with character color blocks. Simple composition, centered, vertical stacking, possessing the vibe of old children's books and mid-20th century book covers. 3:4 portrait aspect ratio, small voxcat signature at bottom right.",
+    "title": "Retro Children's Book Cover Character Illustration",
+    "description": "A prompt for creating retro children's book cover illustrations featuring three characters peeking from different layers, using naive hand-drawn styles and mid-century design aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791618678029_q3ynh8_HUKfAhmbwAE-PRB.jpg",
+      "https://cms-assets.youmind.com/media/1791618678044_4fb4mx_HUKfAkhbIAA9q_Y.jpg",
+      "https://cms-assets.youmind.com/media/1791618678066_54l2c5_HUKfAhkboAAVNgG.jpg",
+      "https://cms-assets.youmind.com/media/1791618678933_ozgky3_HUKfAkjaUAADS7u.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "id": 36224,
+    "content": "A minimalist, abstract digital painting featuring a small silhouette of {argument name=\"character\" default=\"Goku from Dragon Ball Z\"} standing on a geometric cliff edge. The character is viewed from behind, wearing an orange martial arts gi and holding a staff, facing a vast, surreal landscape composed of large overlapping circles in muted tones of cream, slate blue, and ochre. Thin vertical lines connect small colored dots, resembling a constellation or mobile structure against a textured, paper-like background. The style is reminiscent of mid-century modern graphic design with a weathered, grunge texture.",
+    "title": "Abstract Minimalist Goku Landscape",
+    "description": "A reverse-engineered prompt for generating a minimalist, abstract artwork featuring a character silhouette within a geometric composition of circles and lines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791618681224_olpi55_HULYjLuakAAJTbP.jpg",
+      "https://cms-assets.youmind.com/media/1791618681311_ofmirr_HULYkhbawAALHfi.jpg",
+      "https://cms-assets.youmind.com/media/1791618681245_rjp41x_HULYnIWaIAAqFrJ.jpg",
+      "https://cms-assets.youmind.com/media/1791618681854_3ewez9_HULYn5HbYAE28NK.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "id": 36168,
@@ -33,6 +57,17 @@
       "https://cms-assets.youmind.com/media/1791532578361_oi7e09_HUJU0hdawAAZbs3.jpg"
     ],
     "needReferenceImages": true
+  },
+  {
+    "id": 36216,
+    "content": "A poster whose headline you can actually read, plus a product edit: same earbuds, studio cube to a wet rock.",
+    "title": "Readable Headline Poster and Product Edit",
+    "description": "Generates a poster with legible typography and performs a product edit moving earbuds from a studio cube to a wet rock.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791618675606_i5b8f3_HUJU0hdawAAZbs3.jpg",
+      "https://cms-assets.youmind.com/media/1791618677011_4xfaby_HUJU0sYbkAAKKIL.jpg"
+    ],
+    "needReferenceImages": false
   },
   {
     "id": 36163,
