@@ -1,14 +1,59 @@
 [
   {
-    "id": 36222,
-    "content": "{argument name=\"character\" default=\"Anime Character\"}, clearly adult live-action adaptation, preserve facial structure, hairstyle, hair color, eyes, main character color, iconic clothing silhouette and identity accessories.\n\n2000s old Nokia phone photography × private handwritten diary × analog scrapbook × experimental fashion photography.\n\nCharacter placed in a real daily space, performing an action with a sense of life or slightly unconventional meaning. Action, expression, camera position, shot size, clothing details and space are autonomously designed by the model based on character identity.\n\nClose-range phone direct flash snapshot, slight wide-angle distortion, low pixels, JPEG compression, partial defocus, direct flash highlights and rough digital colors. Character retains real facial structure and natural skin texture, presenting the accidental moment of the action occurring.\n\nColorful handwritten doodles, simple symbols, date codes and private notes directly overlaid on the photo surface. Some lines extend along the character's body contour, some marks emphasize gaze, gestures and action direction; a few photo fragments and paper edges form scrapbook layers. Handwritten content naturally derives from character identity and current situation.\n\nPhotographic subject is clear, manual markings and real space interpenetrate. Colors are autonomously organized based on character main color and scene lighting, overall presenting an experimental vibe of fused colorful private imagery and handwritten records.\n\n3:4 portrait, very small vertical lowercase signature \"voxcat\" on the right edge.",
-    "title": "Nokia Photo with Handwritten Diary Doodles",
-    "description": "A prompt for generating images combining old Nokia phone photography aesthetics with handwritten diary doodles and scrapbook elements, featuring a specific character in a daily scene.",
+    "id": 36258,
+    "content": "Pale pastel anime style.\nA mummy girl wrapped loosely in beige cotton thread for a Halloween costume.\n\nThe wrapping is not medical white bandages but thin beige threads.\nUnevenly distributed on arms, legs, and torso, sparse like stitching.\nShe holds the end of a loose thread herself, with the thread caught on her finger.\nUnderneath the outfit is a light purple sleeveless dress.\nVisible through the gaps in the threads.\nThe head is not fully covered; only bangs and one eye are hidden by the thread.\nOne eye is visible. A small wooden spool sits beside her head.\n\nColors: beige, light purple, wood color, night blue.\nNo blood, wounds, or dirt.\nFull body, slightly troubled but cute face.",
+    "title": "Halloween Mummy Girl in Pastel Anime Style",
+    "description": "Generates a cute pastel anime-style girl dressed as a mummy with beige cotton thread instead of bandages, wearing a light purple dress underneath.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1791618679697_a8ptne_HUPu-D9awAANKST.jpg",
-      "https://cms-assets.youmind.com/media/1791618679858_mqs40r_HUPu-D4a0AAIlSh.jpg",
-      "https://cms-assets.youmind.com/media/1791618679731_i68hnu_HUPu-G3aQAAHIAC.jpg",
-      "https://cms-assets.youmind.com/media/1791618680527_4wg2vx_HUPu-G3bgAA9f63.jpg"
+      "https://cms-assets.youmind.com/media/1791705038533_hbmemd_HUMCBlzbsAAs51u.jpg",
+      "https://cms-assets.youmind.com/media/1791705039938_tajg45_HUMCCczbQAA2erM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36262,
+    "content": "Ultra-realistic photography editorial magazine cover featuring a creative Korean woman in a casual all-black outfit, eye pressed to the viewfinder of a Sony A7R VI mirrorless camera with a large G Master lens, mid-shot of something off-frame, fully absorbed in composing. Natural glowing skin, minimal creator makeup, hair loosely tied back. Background is a moody documentary-style dark studio with dramatic single backlight rim, lens flare streaking from light source. \"DIGITAL PHOTO PRO\" masthead in clean editorial sans-serif with \"SENSOR REVOLUTION ISSUE\" callout. 50mm lens, ultra-detailed Sony body texture and lens glass element, 8K photorealistic. \n\nNegative: cartoon, blurry, incorrect camera shape, watermark, distorted. 9:16",
+    "title": "Ultra-Realistic Magazine Cover with Photographer at Viewfinder",
+    "description": "A prompt for GPT Image 2 generating an ultra-realistic editorial magazine cover featuring a Korean woman looking through a Sony camera viewfinder. It specifies moody documentary lighting, lens flares, and typography details like 'DIGITAL PHOTO PRO' masthead.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791705042575_kdrfj4_HUUQ0guaoAA3pS2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36267,
+    "content": "A high-resolution, appetizing food photography poster featuring a close-up of freshly cooked Shanghai pan-fried buns (Shengjianbao). The buns are golden-brown and crispy on the bottom, topped with black sesame seeds and chopped green onions. Wisps of steam rise from the hot buns, emphasizing their freshness. The background is a dark teal gradient that transitions into a silhouette of the Shanghai skyline at night, including landmarks like the Oriental Pearl Tower. On the left side, there is a vertical layout of text and icons: large white Chinese characters '上海早安' (Good Morning Shanghai), followed by the date '2026-10-11 | Cloudy 23°C | Today starts with Shengjianbao'. Below this are three circular weather icons showing temperature (23°C), humidity (63%), and wind force (Level 2). Further down, stylized handwritten text reads '一座城 从一口热气开始' (A city begins with a mouthful of heat). At the very bottom left, English text says 'GOOD MORNING SHANGHAI' with a sun icon and smaller text '美好的一天 · 从上海味道开始' (A beautiful day starts with the taste of Shanghai). On the right edge, vertical red seal-style text reads '上海生煎包' (Shanghai Pan-Fried Buns) and '一口烟火 一座上海' (A bite of life, one Shanghai).",
+    "title": "Shanghai Good Morning Food Poster",
+    "description": "A stylish digital poster combining macro food photography of pan-fried buns with Shanghai cityscape elements and weather information.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791705045601_b7vubw_HUT_MW5aMAAZHzP.jpg",
+      "https://cms-assets.youmind.com/media/1791705045577_dpo9ci_HUT_MzoacAALd47.jpg",
+      "https://cms-assets.youmind.com/media/1791705045551_5b0ckm_HUT_NXmaoAAPsVb.jpg",
+      "https://cms-assets.youmind.com/media/1791705046904_4sfesw_HUT_N9SbgAA25bN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36261,
+    "content": "{\n\"prompt\": {\n\"style\": \"Cinematic monochrome double-exposure fashion photography\",\n\"aspect_ratio\": \"9:16\",\n\"subject\": {\n\"type\": \"Stylish adult woman\",\n\"pose\": \"Standing confidently on a large rugged rock beside the ocean, body slightly turned sideways, looking toward the left, one hand inside her trouser pocket\",\n\"expression\": \"Calm, serious, elegant and mysterious\",\n\"hair\": \"Long straight dark hair flowing naturally over the shoulders\",\n\"outfit\": {\n\"hat\": \"Black leather newsboy cap with a short curved brim and visible stitched panels\",\n\"coat\": \"Long black leather trench coat with structured shoulders, wide lapels, belted waist and realistic leather texture\",\n\"innerwear\": \"Fitted dark ribbed V-neck jumpsuit\",\n\"trousers\": \"Tailored straight-to-wide-leg trousers matching the jumpsuit\",\n\"shoes\": \"Minimal black pointed-toe ankle boots\"\n}\n},\n\"background\": {\n\"location\": \"Open ocean coastline\",\n\"details\": [\n\"Rugged dark coastal rock in the foreground\",\n\"Ocean waves breaking into white sea foam\",\n\"Flat distant horizon\",\n\"Soft overcast sky\",\n\"Minimal empty background\"\n]\n},\n\"composition\": {\n\"foreground\": \"Full-body woman positioned in the lower center, standing on the rock\",\n\"background_overlay\": \"An enormous semi-transparent close-up portrait of the same woman in left-facing side profile, wearing the same leather newsboy cap\",\n\"overlay_position\": \"Dominating the upper two-thirds of the image\",\n\"blend\": \"Seamless double exposure with the oversized portrait fading into the cloudy sky and ocean\",\n\"transparency\": \"Soft translucent effect with the sea horizon subtly visible through the portrait\",\n\"depth\": \"Strong contrast between the smaller sharply defined full-body figure and the giant faded portrait\"\n},\n\"lighting\": {\n\"type\": \"Soft diffused overcast daylight\",\n\"contrast\": \"Rich blacks, smooth gray midtones and luminous silver highlights\",\n\"mood\": \"Moody, sophisticated, dramatic and timeless\"\n},\n\"camera\": {\n\"shot\": \"Vertical full-body editorial portrait\",\n\"angle\": \"Slightly low eye-level perspective\",\n\"lens\": \"85mm portrait lens aesthetic\",\n\"focus\": \"Detailed clothing, realistic facial profile and softly atmospheric background\"\n},\n\"color_grading\": {\n\"palette\": \"Pure black, white and silver gray\",\n\"texture\": \"Fine analog film grain\",\n\"finish\": \"Vintage silver-gelatin fine-art photography\"\n},\n\"quality\": \"Photorealistic, highly detailed leather texture, natural anatomy, realistic ocean waves, seamless double exposure, premium fashion magazine aesthetic\",\n\"negative_prompt\": [\n\"Color photography\",\n\"Multiple foreground people\",\n\"Different faces in the two portraits\",\n\"Distorted facial features\",\n\"Extra limbs\",\n\"Deformed hands\",\n\"Unnatural anatomy\",\n\"Hard overlay edges\",\n\"Cartoon illustration\",\n\"Excessive blur\",\n\"Text\",\n\"Watermarks\",\n\"Oversaturated highlights\"\n]\n}\n}",
+    "title": "Cinematic Monochrome Double Exposure Fashion Portrait Prompt",
+    "description": "A structured JSON prompt for GPT Image 2 generating a cinematic monochrome double-exposure fashion portrait. It specifies a stylish woman on a rock with an oversized semi-transparent portrait overlay, detailing outfit, lighting, camera settings, and negative prompts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791705041966_69tyar_HUROcJKbQAAG68R.jpg",
+      "https://cms-assets.youmind.com/media/1791705041987_wtepq6_HUROdU-a0AARn2X.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36222,
+    "content": "{argument name=\"character\" default=\"[Character Description]\"}, clearly adult realism, preserving facial structure, hairstyle, hair color, eyes, character's main colors, iconic clothing contours, and identity accessories.\n\n2000s old Nokia mobile phone photography × private handwritten diary × analog scrapbook × experimental fashion photography.\n\nThe character is placed in a real everyday space, completing an action that feels lived-in or slightly unconventional. Action, expression, camera position, shot size, clothing details, and space are autonomously designed by the model based on the character's identity.\n\nClose-up direct flash snapshot, slight wide-angle distortion, low pixel count, JPEG compression, partial defocus, direct flash highlights, and rough digital colors. The character retains realistic facial structure and natural skin texture, presenting a moment where the action is happening.\n\nColorful handwritten doodles, simple symbols, date codes, and private notes are directly overlaid on the photo surface. Some lines extend along the character's body contours, some marks emphasize eye contact, gestures, and action direction; small photo fragments and paper edges form scrapbook layers. Handwritten content naturally derives from the character's identity and current situation.\n\nThe photographic subject is clear, with manual markings interwoven with the real space. Colors are autonomously organized based on the character's main colors and ambient light, presenting an experimental fusion of colorful private imagery and handwritten records.\n\n3:4 vertical format, extremely small vertical lowercase signature \"voxcat\" on the right edge.",
+    "title": "Nokia Phone Diary Aesthetic Prompt",
+    "description": "Detailed prompt for generating images with a low-quality Nokia phone camera aesthetic combined with handwritten diary overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791705039920_qt6mf6_HUPu-D9awAANKST.jpg",
+      "https://cms-assets.youmind.com/media/1791705038535_4djicz_HUPu-D4a0AAIlSh.jpg",
+      "https://cms-assets.youmind.com/media/1791705039914_fyg9vw_HUPu-G3aQAAHIAC.jpg",
+      "https://cms-assets.youmind.com/media/1791705039805_p39jk4_HUPu-G3bgAA9f63.jpg"
     ],
     "needReferenceImages": false
   },
@@ -19,6 +64,16 @@
     "description": "A cute anime-style illustration of three chibi girls in animal costumes cooking pancakes together in a colorful kitchen.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1791618684967_se3h3n_HUPGU3sbUAAdm44.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36264,
+    "content": "Goal: Create a vertical poster design featuring large, stylized Chinese typography for the greeting \"早安诸位\" (Good Morning Everyone) in a modern line-art style.\n\nCanvas: Vertical aspect ratio with a clean off-white background. The color palette is primarily cool blue (#4A90E2) with accents of warm yellow/orange (#F5A623).\n\nLayout:\n- Top Header: Left side has \"GOOD MORNING — 早安诸位\" in blue sans-serif. Right side displays the date \"2026-10-10\" and lunar calendar info \"星期六 农历八月三十\".\n- Central Visual: Four massive Chinese characters arranged in a 2x2 grid. These characters are constructed entirely from parallel horizontal and vertical lines (stripes), creating a wireframe or barcode effect. \n    - Top-left character (早): Contains a solid yellow circle representing the sun rising behind the stripes.\n    - Top-right character (安): Features curved striped strokes that transition from blue to orange at the ends.\n    - Bottom-left character (诸): Includes a small fan-like burst of radiating lines on its left radical.\n    - Bottom-right character (位): Has one vertical stroke block colored in orange stripes instead of blue.\n- Side Margins: Small vertical text blocks flank the main graphic. Left margin reads \"向着明亮的方向，一起出发。\" and \"平凡的日子也可以闪闪发光。\" Right margin lists keywords like \"清醒\", \"温柔\", \"专注\", \"前行\".\n- Footer: A horizontal divider separates the bottom section containing \"Morning Bulletin Visual Greeting System\", edition details, and copyright text.\n\nVisual Style: Minimalist, typographic, geometric, flat design, high contrast between the thin blue lines and the white space.",
+    "title": "Line Art Typography Poster",
+    "description": "A minimalist poster design featuring large Chinese characters constructed from blue parallel lines, accented with a yellow sun motif and orange gradients.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791705044204_mvuspx_HUOzpu0bcAAfEOx.jpg"
     ],
     "needReferenceImages": true
   },
@@ -45554,6 +45609,16 @@
     "description": "A prompt that transforms a standard portrait into a cinematic fisheye street shot with warm golden-hour lighting and realistic urban textures.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1779959571790_8ldq2a_HJVP8pXbIAAc-Jm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 23058,
+    "content": "Using the provided reference image, ultra-realistic luxury literary magazine cover featuring an elegant Korean woman in a rich burgundy velvet Victorian-style midi dress with puffed shoulders, ivory lace collar, pearl button detailing, and a cinched corseted waist. Long loose dark waves cascading over a worn leather-bound book held against her chest. Warm mocha skin, deep berry stained lip, kohl-rimmed eyes, feathery brows. Layered antique gold locket necklace, signet ring, velvet hair ribbon. Background: dusty candlelit library with towering bookshelves, warm amber shadows, soft candlelight glow. \"{argument name=\"magazine_title\" default=\"NUMÉRO\"}\" in tall aged serif masthead with handwritten-style editorial subtext. 85mm lens, cinematic golden candlelight, ultra-detailed velvet pile texture, aged paper grain overlay, 8K photorealistic. Negative: bright colors, modern setting, cartoon, blurry, watermark, distorted anatomy. 1744x2336",
+    "title": "Luxury Literary Magazine Cover GPT Image 2 Prompt",
+    "description": "An ultra-realistic prompt for generating a burgundy velvet literary magazine cover with candlelit library background using GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1791705043565_kb9i56_HJVP0dabQAA7g1F.jpg"
     ],
     "needReferenceImages": true
   },
