@@ -1,22 +1,70 @@
 [
   {
-    "id": 36460,
-    "content": "A vertical, full-body shot of a young Japanese woman standing by an outdoor swimming pool. She has short black bob hair and is wearing a dark navy blue one-piece swimsuit. She points directly at the camera with her right hand while her left arm rests naturally by her side. Her expression is calm and slightly serious. The background features a public swimming pool with other swimmers in the water and a building structure behind them. The image has a vintage, grainy texture typical of Showa-era photography (1970s/80s). There are vertical columns of Japanese text on both the left and right sides of the image, resembling a magazine layout or photo book page. The lighting is bright daylight.",
-    "title": "Vintage Japanese Swimsuit Portrait",
-    "description": "A retro-style portrait of a young woman in a swimsuit pointing at the camera, featuring Japanese text overlays reminiscent of a vintage magazine scan.",
+    "id": 36498,
+    "content": "[Brand]: {argument name=\"brand_en\" default=\"HOLLOW\"}\n[Product]: {argument name=\"product_en\" default=\"Short-shouldered transparent square bottle with amber whisky, black cap\"}\n[Title]: {argument name=\"title_en\" default=\"EMBER\"}\n[Category]: {argument name=\"category_en\" default=\"WHISKY\"}\n[Side Materials]: {argument name=\"side_materials_en\" default=\"Dark oak cross-section / Thick-walled amber glass\"}\n[Scene & Camera]: {argument name=\"scene_camera_en\" default=\"Wine cellar oak countertop, low-angle three-quarter view, warm side backlighting\"}\n[Optical Event]: {argument name=\"optical_event_en\" default=\"The liquid locally tints the title amber and slightly magnifies it; restrained caustics appear on the surface\"}\n[Main Color]: {argument name=\"main_color_en\" default=\"Amber Brown\"}\n\nCreate a 4:5 vertical liquor advertising poster, outputting one independent finished piece at a time.\n\nFixed visual language: Realistic commercial still-life photography, warm ivory negative space, huge high-contrast serif titles, restrained editorial layout. Use the wine bottle and transparent medium to refract text, combined with bright channels formed by side materials; avoid neon, glowing outlines, generic e-commerce cards, or golden luxury decorations.\n\nArrange [Product] according to [Scene & Camera]. Let [Side Materials] enter the frame as close-ups with partial cropping, forming asymmetric vertical negative space; openings can slowly expand/contract with the camera, do not make them mirror-image door frames. The bottle occupies about half to two-thirds of the screen height, fully recognizable within the negative space, with slight occlusion from one side material; upper part must have breathing room. Side materials must come from the storage, packaging, or drinking context of this liquor type; do not add irrelevant caves, flower fields, or uniformly copied photographic backgrounds.\n\nPlace the large title [Title] across layers in the middle-upper area, letting a small segment of strokes pass behind the wine bottle or transparent medium, undergoing local magnification, displacement, or color filtering in [Optical Event]. Parts of the text not passing through the medium remain normally clear; distortion is limited to the translucent area, do not twist the entire title into waves. Use [Main Color] as the only strong color, with warm ivory and charcoal black as auxiliaries; liquid translucency, glass thickness, contact shadows, condensation, and projections must be believable; do not draw optical effects as lasers.\n\nPlace [Brand] at the top in a small, sparse sans-serif font; place [Category] and \"Drink Responsibly\" at the bottom as two lines of small text. Bottle labels use only brand and category, leaving clean information density. Only the above text is allowed in the entire image; do not automatically add slogans, vintages, alcohol content, awards, origins, prices, or unprovided product claims. No people in the scene, do not express excessive drinking.\n\nPreserve delicate natural material textures and precise glass highlights; avoid heavy CGI, floating products, extra bottles, random letters, glare stacking, collages, and watermarks. Scene, camera, bottle shape, and optical events change with variables, but the visual language of warm ivory negative space, serif main titles, and localized refraction remains consistent.",
+    "title": "GPT Image 2 Liquor Poster Design Prompt",
+    "description": "A highly detailed prompt for generating liquor advertisement posters using GPT Image 2, focusing on material textures and light refraction.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1792050689671_8t6fii_HUpBUVQaAAAWBMF.jpg"
+      "https://cms-assets.youmind.com/media/1792136974549_sw5gmp_HUuAj58agAAEV6r.jpg",
+      "https://cms-assets.youmind.com/media/1792136973053_yk611k_HUuAj6BaEAAL3tJ.jpg",
+      "https://cms-assets.youmind.com/media/1792136973035_sg5o80_HUuAj5_acAAIDm6.jpg",
+      "https://cms-assets.youmind.com/media/1792136974148_a997yy_HUuAj6EakAA_FhG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36500,
+    "content": "Create one premium editorial poster for each uploaded photo, outputting each separately without combining images or reusing other photos’ designs.\n\nFORMAT: Strict vertical 3:4 composition, divided into two equal horizontal halves. The upper 50% preserves the original photograph’s subject, identity, pose, colors, textures, and natural lighting, with only subtle editorial color grading. Never distort the subject.\n\nLOWER HALF: Transform the main subject into a minimalist cut-paper collage using simplified silhouettes, geometric shapes, layered paper, and subtle grain. Remove unnecessary background details while preserving the subject’s recognizable identity and story.\n\nCOMPOSITION: Use a split color-field layout with generous near-white negative space above and a solid-color base spanning the entire bottom width. Position the subject near the boundary, optionally adding a simple geometric background panel. Maintain clean horizontal edges, asymmetrical balance, and strong visual hierarchy.\n\nCOLORS & TEXTURES: Extract 2–4 colors from the original photo and refine them into a soft, bright pastel palette. Use subtle paper grain, handcrafted edges, and delicate layering. Create depth through overlapping shapes rather than realistic shadows or perspective.\n\nTYPOGRAPHY: Use minimal, elegant editorial text only when appropriate, placed discreetly within the negative space or near the composition’s edges.\n\nSTYLE: Sophisticated art-magazine aesthetic combining authentic photography, minimalist paper-art collage, clean color blocks, generous negative space, and refined editorial design.\n\nAVOID: Clutter, complete scene redraws, gradients, heavy shadows, excessive details, distorted subjects, cartoon styles, 3D effects, and generic template-like layouts.\n\nGoal: Create a distinctive, gallery-worthy poster that preserves the original photograph above and artistically reinterprets its essence below.",
+    "title": "Premium Editorial Poster with Cut-Paper Collage Lower Half",
+    "description": "Generates a premium editorial poster split horizontally: top half preserves the original photo, bottom half transforms the subject into a minimalist cut-paper collage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792136975993_chdwho_HUuhi_saYAAnWgt.jpg",
+      "https://cms-assets.youmind.com/media/1792136975962_lss1mx_HUuhi_ra4AABS9y.jpg",
+      "https://cms-assets.youmind.com/media/1792136976029_59kbrv_HUuhjAvbEAAwUBl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36509,
+    "content": "A vertical digital collage poster featuring a central young woman with messy purple hair, freckles, and a mustard-yellow sleeveless top. She is looking over her shoulder at the viewer with a confident expression, raising one hand to point her index finger upward. Surrounding her are five distinct character portraits arranged in a fan-like layout: top-left shows a punk figure with blue skin, pink mohawk, and sharp teeth; top-center features an anthropomorphic orange cat with yellow eyes wearing a green jacket and black pants; top-right displays a fluffy white creature resembling a sheep or cloud made of petals; middle-left is a grayscale image of a person with dreadlocks, sunglasses, and a gas mask making a peace sign; middle-right shows a surreal baby-like figure with a large head, red sweater, and green pants carrying a bag shaped like another face. The background is a textured beige paper style filled with scattered autumn maple leaves and clusters of red rowan berries. At the bottom, elegant black cursive text reads \"Мои планы на осень — Творить!\".",
+    "title": "Autumn Creative Plans Collage",
+    "description": "A vibrant digital collage poster combining a central portrait of a woman with purple hair and various fantastical characters against an autumn-themed background with falling leaves and Russian calligraphy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792136982915_xvy9p0_HUtCiIcWoAAiZG0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36501,
+    "content": "Create a creative minimalist 3D scrapbook composition featuring a realistic photograph transformed into a thick, floating paper cutout on a warm ivory textured background. For the first scene, showcase a beautiful sunlit modern bedroom with an olive-green bed, walnut furniture, large windows, lush indoor plants, a round mirror, and soft natural sunlight. For the second scene, depict dramatic white coastal cliffs covered in vibrant green grass, deep blue ocean waves, and a striking red-and-white lighthouse beneath a cloudy sky. Make the photograph appear as a curved, folded sheet of thick paper with realistic depth, visible layered edges, soft shadows, and a floating effect. Add tiny hand-drawn black stick-figure characters interacting with the paper, pushing, lifting, or holding its edges, alongside playful handwritten captions such as \"{argument name=\"caption1\" default=\"Another version of my room\"}\" and \"{argument name=\"caption2\" default=\"Same place, different layer.\"} Elegant editorial photography, realistic textures, subtle imperfections, minimalist art direction, soft beige palette, creative visual storytelling, premium design magazine aesthetic, crisp details, balanced composition, vertical poster layout.",
+    "title": "3D Scrapbook Composition with Floating Paper Cutouts",
+    "description": "Creates a creative minimalist 3D scrapbook composition featuring realistic photographs transformed into thick floating paper cutouts with stick-figure characters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792136975883_7et53j_HUqON7mb0AAoTGs.jpg",
+      "https://cms-assets.youmind.com/media/1792136975874_8vsd61_HUqON7faIAA56vy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 36503,
+    "content": "Create a vertical 3:4 “Second World” editorial photography poster based on the uploaded photo.\n\n### COMPOSITION\nDivide the image into two perfectly equal horizontal halves.\n\nUpper Half: Preserve the original photograph exactly, allowing only proportional cropping. Keep the original subject, colors, composition, natural lighting, and realistic textures. No redraws or illustrations.\n\nLower Half: Use a warm ivory-white paper background with generous negative space.\n\n### CORE CONCEPT\nIdentify the photograph’s most recognizable visual structure and transform it into a tangible, three-dimensional photographic object in the lower half.\n\nThe object must retain the original photographic textures and look physically real, with visible thickness, subtle folds or curves, natural shadows, perspective, and realistic contact with the paper.\n\nSubject preservation is essential: If the photo contains a recognizable person, building, animal, landmark, or distinct object, make it the centerpiece of the lower half. Preserve its identity, realistic texture, and most of its complete silhouette. Never replace the main subject with background elements.\n\nThe lower half must clearly display a substantial photographic object, not merely torn paper or a tiny character.\n\n### CHARACTERS & CAPTION\nInclude 0–2 minimalist black line-art characters interacting meaningfully with the photographic object, such as lifting, unfolding, pushing, repairing, or entering it.\n\nAdd one short, casual, slightly humorous handwritten English caption. Avoid motivational quotes and clichés.\n\n### VISUAL STYLE\nRealistic photography + warm ivory paper + minimalist black doodles + subtle handmade collage + independent magazine aesthetics.\n\nKeep the design clean, bright, minimal, and visually striking.\n\n### AVOID\nFull-image illustration, generic torn-paper templates, tiny decorative characters, unrelated ornaments, clutter, complex illustrations, and commercial aesthetics.\n\nFINAL RULE: The lower half must feel like a real, three-dimensional piece of the original photograph brought into a second world. The main subject must remain immediately recognizable at first glance, even if its physical properties are creatively transformed.",
+    "title": "Second World Editorial Photography Poster",
+    "description": "Creates a vertical poster where the lower half transforms the main subject of an uploaded photo into a tangible 3D photographic object on paper.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792136977331_fbag1m_HUprOxmbEAEdPuQ.jpg",
+      "https://cms-assets.youmind.com/media/1792136977395_8sqwfk_HUprOxlaYAAHawd.jpg",
+      "https://cms-assets.youmind.com/media/1792136977398_41zot5_HUprOxnaUAAeKjp.jpg"
     ],
     "needReferenceImages": true
   },
   {
     "id": 36457,
-    "content": "A minimalist vertical poster design featuring a long, steep staircase ascending diagonally from the bottom left to the top right against a clean white background. The stairs are rendered in deep navy blue with crisp white edges, creating a strong geometric contrast. A small silhouette of a person carrying a briefcase is walking up the middle section of the stairs, next to a simple line-art clock on a pole. At the very top right, a soft orange sun or light source glows behind the peak of the stairs. \n\nText elements:\n- Top Left: Large bold Chinese characters \"早安,\" (Good Morning) in black, followed by \"准时上行\" (On Time Ascending) where \"准\" is highlighted in orange and the rest in black.\n- Below Title: Small text \"2026-10-15\" and \"ON TIME MORNING\".\n- Middle Left: Three lines of small grey Chinese text: \"准时出发\", \"让更好的自己\", \"更快抵达\", followed by English translation \"A MORE FOCUSED DAY\", \"A BRIGHTER YOU\".\n- Bottom Right: Vertical stack of small white text on the dark stair side: \"ON TIME\", \"HIGHER\", \"FARTHER\", \"A BRIGHTER YOU\".",
-    "title": "Minimalist Staircase Morning Poster",
-    "description": "A motivational graphic design featuring a diagonal staircase, a walking figure, and bilingual typography suitable for daily greetings.",
+    "content": "A minimalist vertical poster featuring a long, steep staircase ascending diagonally from the bottom left to the top right against a clean white background. The steps are rendered in deep navy blue with crisp white edges, creating a strong geometric rhythm. A small silhouette of a person carrying a briefcase walks up the stairs near the middle section, next to a simple line-art clock on a pole. At the top right corner, a warm orange sun rises behind the peak of the stairs, casting a soft glow. Large bold Chinese text \"早安，\" and \"准时上行\" appears in the top left, with the second line partially highlighted in orange. Below it is the date \"2026-10-15\" and English text \"ON TIME MORNING\". Smaller inspirational text lines appear on the left side: \"准时出发\", \"让更好的自己\", \"更快抵达\", followed by \"A MORE FOCUSED DAY\" and \"A BRIGHTER YOU\". In the bottom right corner, faint white text reads \"ON TIME\", \"HIGHER\", \"FARTHER\", \"A BRIGHTER YOU\". An orange arrow points rightward from the main title.",
+    "title": "Minimalist Morning Staircase Poster",
+    "description": "Generates a motivational graphic design poster featuring a diagonal staircase, a walking figure, and bilingual typography suitable for daily greetings or corporate inspiration.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1792050688235_yl7tu4_HUoo-graMAAaW3U.jpg",
-      "https://cms-assets.youmind.com/media/1792050688101_hox8pc_HUoo-DRaQAAN1tr.jpg"
+      "https://cms-assets.youmind.com/media/1792136981769_u95sgg_HUoo-graMAAaW3U.jpg",
+      "https://cms-assets.youmind.com/media/1792136981667_i7muz1_HUoo-DRaQAAN1tr.jpg"
     ],
     "needReferenceImages": true
   },
@@ -31,12 +79,14 @@
     "needReferenceImages": false
   },
   {
-    "id": 36449,
-    "content": "As Hive Fleet Hierophant Bio-titan swallows another Imperial world, one lone Knight of House Terryn stands against it.",
-    "title": "Warhammer Knight vs Bio-Titan",
-    "description": "An image generation prompt featuring a lone Knight of House Terryn standing against a Hive Fleet Hierophant Bio-titan swallowing an Imperial world.",
+    "id": 36502,
+    "content": "Create a modern sneaker promotional poster featuring a [shoe type] with [shoe appearance] as the main foreground visual. Use a fixed visual system of warm white, graphite black, and burning orange. Realistic commercial product photography with clear details of fabric, foam, rubber, and unified lighting. The shoe is complete and occupies about half of the frame; the scene serves the shoe's purpose.\n\nExecute corresponding scenes based on [shoe type]:\nRoad Running Shoes: Early morning city elevated track, low-angle three-quarter view, toe pointing upper right; ground lines converge into the distance, combined with moderate motion blur to express propulsion.\nTrail Shoes: Rock layers, forest slopes, and cold gray sky, wide angle close to the ground side-front; deep-toothed sole crosses gravel, kicking up a little dust, burning orange path climbs along the slope.\nCity Training Shoes: Warm white concrete training space, skylights and side light, low-angle upward shot, toe pointing upper left; short orange folded lines around the sole to express turning and stable support.\n\nIntegrate large [English action words] into the selected environment: Road models become perspective-thick track components; Trail models are embedded in cut rock layers; Training models fold along walls, columns, and floors. The font uses warm white front faces and burning orange cuts, with realistic occlusion, thickness, and shadows, maintaining recognizability.\n\nPlace [Product Name] and \"CONCEPT FOOTWEAR\" at the top; place [Slogan] and [Structure Labels] at the bottom. Small text should be concise and clear, using modern sans-serif fonts, ensuring hierarchy between product, spatial title, and auxiliary information.\n\nOutput only one independent poster each time. Avoid real brand logos, people, fictional performance numbers, irrelevant text, shoe deformities, plastic textures, and excessive decoration.",
+    "title": "GPT-2 Sneaker Ad Poster Prompt",
+    "description": "A prompt for generating modern sneaker advertising posters with specific scene-based performance visuals and typography integration using GPT Image 2.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1792050682401_6azl0y_HUoN-i-bIAAuFB8.jpg"
+      "https://cms-assets.youmind.com/media/1792136974513_k32rr5_HUoV19ya0AATbz8.jpg",
+      "https://cms-assets.youmind.com/media/1792136973051_o0lxwi_HUoV19waYAAK3af.jpg",
+      "https://cms-assets.youmind.com/media/1792136973222_eyhy20_HUoV19xbsAAhxvV.jpg"
     ],
     "needReferenceImages": false
   },
@@ -47,16 +97,6 @@
     "description": "A prompt for creating a surreal miniature scene where a camping setup (tent, trees, path) exists inside a ceramic teacup.",
     "sourceMedia": [
       "https://cms-assets.youmind.com/media/1792050686837_wcow4v_HUn-BMGbkAAzvA8.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
-    "id": 36451,
-    "content": "A brutal close-quarters clash between Ultramarines Space Marines and World Eaters Chaos Space Marines on a scorched, ash-covered hilltop of a burning hive world.",
-    "title": "Ultramarines vs World Eaters Clash",
-    "description": "An image generation prompt depicting a brutal close-quarters battle between Ultramarines and World Eaters Space Marines on a burning hilltop.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1792050683093_xqcb7t_HUny-BYb0AAQtCb.jpg"
     ],
     "needReferenceImages": false
   },
