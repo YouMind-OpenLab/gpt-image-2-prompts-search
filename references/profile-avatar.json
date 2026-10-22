@@ -1,5 +1,46 @@
 [
   {
+    "id": 36756,
+    "content": "Transform the uploaded photo into a beautiful, heartwarming, hand-drawn storybook illustration. Preserve the original subjects’ recognizable features, hairstyles, poses, expressions, clothing, body language, and emotional connection. Keep the composition and interaction faithful to the reference photo.\n\nART STYLE: Warm, playful, modern children's book illustration with a soft hand-painted, colored-pencil, and crayon texture. Use expressive black-brown sketch outlines, slightly imperfect lines, simplified organic shapes, gentle facial features, rosy cheeks, and natural, joyful expressions. Apply a warm pastel palette with coral pink, dusty blue, caramel brown, soft peach, and creamy off-white.\n\nTEXTURE & DETAILS: Visible pencil strokes, subtle paper grain, lightly uneven coloring, sketchy hair strands, minimal shading, and charming handmade imperfections. Create a cozy, nostalgic, affectionate atmosphere full of warmth and personality.\n\nBACKGROUND: Simplify the original background into a clean, minimal cream-colored paper backdrop. Add a few small, hand-drawn decorative marks, playful lines, tiny hearts, or expressive doodles that complement the scene without distracting from the subjects.\n\nCOMPOSITION: Maintain the original framing, subject placement, pose, and interaction. Make the subjects the clear focal point. Use clean shapes, balanced negative space, and an organic editorial storybook aesthetic.\n\nIMPORTANT: Illustrate the actual uploaded photo rather than inventing a new scene. Preserve the subjects' identities and defining characteristics. Avoid photorealism, 3D rendering, glossy digital painting, excessive detail, harsh shadows, complex backgrounds, and overly polished vector graphics. No text, watermark, or border.\n\nOUTPUT: A high-quality, charming, hand-drawn storybook illustration with a soft vintage print feel, warm colors, visible artistic texture, and genuine emotional expression. Adapt the illustration naturally to the uploaded photo, regardless of the subjects or setting.",
+    "title": "Hand-Drawn Storybook Illustration Prompt",
+    "description": "A GPT Image 2 prompt to transform an uploaded photo into a heartwarming, hand-drawn storybook illustration. It specifies warm pastel colors, colored-pencil textures, simplified backgrounds, and preservation of subject identities and emotional connections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792655532724_2oo1l7_HVNF_kAa4AAOvgY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36759,
+    "content": "Maintain the person, costume, composition, and art style of the original image, and apply a three-dimensional focus expression with shallow depth of field.\n\nFocus center on eyes and face. Keep pupils, eyelashes, and main facial lines clear. As you move away from the focal plane of the face, smoothly blur hair, shoulders, costume, and background according to distance. Create natural focus differences within the person as well.\n\nAdd soft foreground bokeh to hair and shoulders close to the camera, and large melting background bokeh for the background. Describe point light sources in the background as soft circular bokeh.\n\nIlluminate hair and skin contours thinly with warm diagonal backlighting, adding subtle bloom and light bleed only to strong highlights. Maintain calm darkness in shadows to create cinematic depth that draws the eye to the face.\n\nUniform blurring across the entire screen is prohibited. Do not erase facial details; maintain the original line art and drawing texture.",
+    "title": "Shallow Depth of Field I2I",
+    "description": "An image-to-image prompt for adding shallow depth of field effects to illustrations using GPT.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792655534539_05naqs_HVMz9zcakAAuWGW.jpg",
+      "https://cms-assets.youmind.com/media/1792655534527_2ug3a4_HVMz9znaMAAJQDC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36764,
+    "content": "A vertical portrait of a young woman with short, dark bobbed hair and bangs sitting on a brown tiled floor. She is wearing a loose, semi-sheer floral kimono-style robe in muted tones of cream, navy, and olive green. Her knees are pulled up to her chest, and she rests her chin on her clasped hands, looking directly at the camera with a melancholic expression. On her feet, she wears chunky platform sandals with ruffled white straps. A small flower clip is visible in her hair. The background features a textured white lace curtain. The image has a distinct Showa-era retro aesthetic, characterized by soft focus, warm color grading, and a nostalgic film grain texture.",
+    "title": "Showa Retro Portrait of Girl in Floral Kimono",
+    "description": "Generates a nostalgic, film-style portrait of a young woman in a floral kimono sitting on the floor, capturing a vintage Japanese aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792655538554_2yjent_HVJ6Nu0aAAAqJ-v.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36763,
+    "content": "A vertical medium-shot portrait of a young East Asian woman at the beach, styled with a nostalgic Showa-era retro film aesthetic. She is looking back over her left shoulder directly at the camera with a bright, genuine smile showing teeth. Her hair is dark brown, tied into two low braids or pigtails secured with small bands, and she wears a black hair clip on the side of her bangs. A large, wide-brimmed woven straw hat with a dark brown rim sits on her head, casting dappled shadows across her forehead and eyes. She wears a white eyelet lace top with thin straps, exposing her bare shoulders and upper back which show natural skin texture including small moles and freckles. Her right hand is raised, gently holding the brim of her hat near her cheek. The background features a sunny coastal scene with blue ocean water, white foaming waves crashing on a rocky shore, and a green forested hill in the distance under a clear blue sky. Two blurred figures are visible swimming in the water to the right. The image has a grainy, warm color palette typical of vintage 1970s or 80s Japanese idol photography.",
+    "title": "Showa Retro Beach Portrait",
+    "description": "Generates a nostalgic, film-style portrait of a smiling young woman wearing a straw hat and white lace top at a sunny beach.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792655537820_0estdf_HVH8-pybEAEv4T5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36721,
     "content": "Ultra-realistic dramatic portrait of the person ({argument name=\"photo\" default=\"imported photo\"}), messy hair strand over one eye, black turtleneck, centered, intense gaze. A bright and sharp horizontal red light illuminates only the eyes and reflects on the gray wall; the rest is in deep shadow. Dark, minimalist, and cinematic atmosphere.",
     "title": "Dramatic Portrait with Red Light on Eyes",
