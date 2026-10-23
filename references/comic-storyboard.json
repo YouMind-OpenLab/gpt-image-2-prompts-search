@@ -10,6 +10,16 @@
     "needReferenceImages": true
   },
   {
+    "id": 36800,
+    "content": "Using the provided reference image, regenerate the character in a new pose and context. Keep the character's design (pink hair, glasses, cap, bandana, hi-vis vest) unchanged. Change the scene to show her sitting back in an office chair with legs crossed, pointing directly at the viewer with one hand while holding a can of 'Lite' beer in the other. Update the speech bubble text to read: \"SKILL ISSUE.\" Change the background posters to feature a rabbit skull logo and text reading \"CANS CATS PLANES ETC.\" Add a mug on the desk that says \"BAD PLANS TODAY\".",
+    "title": "Anti-AI Rhetoric Reactions Part 1",
+    "description": "A comic-style illustration of a pink-haired woman in a hi-vis vest sitting in an office chair, holding a beer and pointing at the viewer with a speech bubble saying 'Skill Issue.'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792741906574_lrcp3h_HVSm2icWkAAzALz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 36725,
     "content": "Please turn the character in the attached image [Name: {argument name=\"character_name\" default=\"[Character Name]\"}] into a comical wanted poster/arrest-style visual where they are being taken away for a strange crime, even though they probably aren't at fault.\n\nDecide the charges randomly. Make the content light, fun, and comical.\n\nThe composition should be a pose standing in front of a height line, or the moment they are being lightly restrained. Additionally, place weird small items around them as \"evidence.\" It can be two cuts (front and side) or a single image. Do not use real police or national marks; keep it completely fictional and humorous. Leave space to write additional charges later.",
     "title": "GPT Image 2 Wanted Poster Character Prompt",
