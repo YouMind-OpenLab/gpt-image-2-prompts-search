@@ -10,12 +10,24 @@
     "needReferenceImages": true
   },
   {
-    "id": 36800,
-    "content": "Using the provided reference image, regenerate the character in a new pose and context. Keep the character's design (pink hair, glasses, cap, bandana, hi-vis vest) unchanged. Change the scene to show her sitting back in an office chair with legs crossed, pointing directly at the viewer with one hand while holding a can of 'Lite' beer in the other. Update the speech bubble text to read: \"SKILL ISSUE.\" Change the background posters to feature a rabbit skull logo and text reading \"CANS CATS PLANES ETC.\" Add a mug on the desk that says \"BAD PLANS TODAY\".",
-    "title": "Anti-AI Rhetoric Reactions Part 1",
-    "description": "A comic-style illustration of a pink-haired woman in a hi-vis vest sitting in an office chair, holding a beer and pointing at the viewer with a speech bubble saying 'Skill Issue.'",
+    "id": 36842,
+    "content": "Please draw a comical scene where the character from the attached image has summoned something unexpected through a grand summoning ritual.\n[Character]\nMaintain facial features, hairstyle, basic color scheme, and personality traits. Change expressions and poses to fit this scene.\n[Summoned Object]\nDo not specify examples or candidates; invent something new for this occasion. Create a strong contrast with the grand ritual, making it clear from the picture alone what appeared, and prompting viewers to ask 'Why did they summon that?' Avoid limiting it to things directly associated with the character's appearance or outfit; incorporate unexpected combinations.\n[Scene Composition]\nDecide the summoned object, its size/state, the character's reaction, and the impact on surroundings from separate perspectives. Then connect them into one understandable event. Do not fix the character's reaction to just surprise; ensure their relationship with the summoned object is conveyed through expression and movement.\n[Direction]\nMake the ritual performance authentic and grand, using the temperature difference with the appearing object to create humor. Limit the main punchline to one item, placing props and supporting characters to reinforce it. Do not rely on text explanations; create a composition where the character, summoned object, and reaction are readable at a glance. If images from this same project have already been generated in this conversation, do not reuse those objects or punchlines; take a different direction.",
+    "title": "Comical Summoning Ritual Prompt for GPT Image 2",
+    "description": "A prompt designed to generate a humorous image of a character performing a grand summoning ritual that produces an unexpected or absurd object. It instructs the model to maintain the character's appearance while creating a comedic contrast between the serious ritual and the silly outcome.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1792741906574_lrcp3h_HVSm2icWkAAzALz.jpg"
+      "https://cms-assets.youmind.com/media/1792827961529_s9waja_HVYKsM3b0AAmnqA.jpg",
+      "https://cms-assets.youmind.com/media/1792827961554_0r7ngh_HVYKueXbAAAXPh7.jpg",
+      "https://cms-assets.youmind.com/media/1792827961782_jtakkq_HVYKueObkAEjleF.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 36800,
+    "content": "Using the provided reference image, regenerate the character in a new pose and context. Keep the character's appearance (pink hair, glasses, cap, hi-vis vest) unchanged.\n\n**Transformation Instructions:**\n1. **Pose & Expression:** Change the character from standing to sitting casually in an office chair with legs crossed. Update her expression from angry/shouting to a smug, confident smirk. She is now pointing directly at the viewer with one hand while holding a can up in the other.\n2. **Dialogue:** Replace the original speech bubble text with \"SKILL ISSUE.\" in bold, black capital letters.\n3. **Props & Details:** \n   - Swap the \"Steel Reserve\" can for a generic white \"Lite\" beer can.\n   - Add red wired earphones hanging from her ears.\n   - Place a small grey cat plushie on her chest/vest area.\n4. **Background Changes:** \n   - Modify the poster on the left wall to feature a simple line-drawing of a cat face with X eyes above the text \"SAME SHIT DIFFERENT DAY\".\n   - Add a new poster on the right wall that reads \"CANS CATS PLANES ETC.\".\n   - Include a mug on the desk that says \"BAD PLANS TODAY\".",
+    "title": "Smug Character Sitting and Pointing",
+    "description": "A prompt to transform a standing angry character into a smug, seated figure delivering a 'Skill Issue' retort, including specific prop and background updates.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1792827963367_5kzh0f_HVSm2icWkAAzALz.jpg"
     ],
     "needReferenceImages": true
   },
