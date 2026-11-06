@@ -226,6 +226,7 @@ pnpm run generate
 
 ## Related Projects
 
+- 🖼️ [GPT Image 2](https://gptimage2.asia/) — Web tool for generating and editing GPT Image 2 visuals
 - 🎨 [awesome-gpt-image-2](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) — Full prompt gallery for GPT Image 2
 - 🍌 [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — Full prompt gallery with 10,000+ entries, 16 languages
 - 🎬 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) — Curated video generation prompts for Seedance 2.0
