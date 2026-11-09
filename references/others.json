@@ -5263,16 +5263,6 @@
     "needReferenceImages": true
   },
   {
-    "id": 14358,
-    "content": "Generate an image of a receipt for buying {argument name=\"item\" default=\"manga\"}. {argument name=\"title\" default=\"The manga title can be anything.\"}",
-    "title": "Realistic Manga Receipt Generator",
-    "description": "A prompt to generate a realistic-looking receipt for a manga purchase, with customizable items and titles.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1776883067210_4xa8pk_HGc04IGbUAAfq50.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 14366,
     "content": "{argument name=\"aircraft\" default=\"JAL A350-1000\"} {argument name=\"class\" default=\"First Class\"}",
     "title": "JAL First Class Cabin Interior",

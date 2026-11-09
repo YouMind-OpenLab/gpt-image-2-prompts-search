@@ -18181,17 +18181,6 @@
     "needReferenceImages": true
   },
   {
-    "id": 17097,
-    "content": "{\"type\": \"Close-up photography\",\"subject\": \"{argument name=\"subject\" default=\"A fictional ID card being held by a hand\"}\",\"card_content\": {\"header_text\": \"MODEL REPUBLIC / IDENTITY CARD / SAMPLE ID CARD\",\"logo\": \"A blue symbol field at the top left with the country code 'MR'\",\"portrait\": {\"appearance\": \"Young woman with long, straight blonde hair and a center part\",\"facial_features\": \"Fair skin with clearly visible natural freckles on the nose and cheeks, neutral expression, hazel eyes looking straight ahead\",\"clothing\": \"Black top with visible neckline\",\"accessories\": \"Small silver studs on the earlobes\"},\"text_data\": {\"surname\": \"SAMPLEXNAME\",\"given_name\": \"{argument name=\"given name\" default=\"ERIKA\"}\",\"birth_date\": \"{argument name=\"birth date\" default=\"07.11.1998\"}\",\"birth_place\": \"BERLIN\",\"expiry_date\": \"01.12.2030\"},\"surface_texture\": \"Glossy laminated surface with visible holographic security patterns and guilloche lines over portrait and text\"},\"foreground_hand\": {\"position\": \"Holds the bottom right corner of the card\",\"skin_tone\": \"Light\",\"fingernail\": \"Visible thumb with long, almond-shaped fingernail, painted in glossy Bordeaux red or dark red\"},\"background\": \"Plain, solid white surface\",\"lighting\": \"Soft, uniform indoor light with slight reflections on the card surface and the glossy nail polish\",\"framing\": \"Vertical close-up from a bird's eye view, fully focused on the card and the thumb\"}",
-    "title": "Detailed Identity Card Photography",
-    "description": "A structured JSON-style prompt for generating a realistic close-up photo of a fictional ID card held by a hand.",
-    "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1777539354805_hbir6j_HHFd9VkaMAA0DnC.jpg",
-      "https://cms-assets.youmind.com/media/1777539354781_lj7ok9_HHFeAUhagAAElyO.jpg"
-    ],
-    "needReferenceImages": false
-  },
-  {
     "id": 17079,
     "content": "[Character/Theme] = {argument name=\"character\" default=\"Master Yi Xuan from Zenless Zone Zero\"}.\nA colorful East Asian calligraphic linear figure illustration, based on a white-drawing (baimiao) skeleton where line-drawing dominates the form, with freehand-style light coloring. Ink lines from a calligraphy brush, utilizing mixed-hair brush strokes, centered brushwork, with some flying white (feibai) created by side-brushing to achieve a dry-brush texture. Hair is drawn with fine, gossamer lines. The outlines are open with intermittent double lines, creating a play between void and solid. Large areas of negative space on a white paper background. Transparent watercolor glazing, light ink washing, with partial boneless-style coloring. The color layers are transparent and the color blocks are pure with soft edges. Minimal shading, scattered lighting, weak contrast, and flattened coloring. The character is drawn strictly according to original designs for clothing, hairstyle, and accessories, avoiding generic Hanfu templates to preserve the character's unique logic. Hand structures are accurate with five complete and clear fingers, natural joints, and elegant gestures. Fully colored with unified and clear tones for skin, hair, clothing, and accessories.",
     "title": "Traditional Chinese Ink Illustration Style",
