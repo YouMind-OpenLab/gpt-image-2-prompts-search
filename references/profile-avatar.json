@@ -1,5 +1,16 @@
 [
   {
+    "id": 37510,
+    "content": "Please generate an image: Photorealistic vertical 2:3 aspect ratio, a solo photo of a fictional {argument name=\"age\" default=\"20-year-old\"} adult woman, youthful, like a college sophomore, not looking mature. Image 1 is the face reference: keep facial features, skin tone, hairstyle, and hair color consistent. Image 2 is the clothing reference: wear this outfit exactly as shown, keeping style, color, material, and accessories consistent. Image 3 is a grayscale depth map of a human model: only use it as a reference for body pose and camera angle; it is not a real person and does not provide clothing or face details. Scene: {argument name=\"scene_description\" default=\"a tree-lined path in a park on a spring afternoon\"}, with fresh green leaves and benches by the road, soft natural light, iPhone casual snapshot quality, realistic skin texture, slight film grain. Single image, no collage, no text or watermarks, hands naturally relaxed with all five fingers complete, face and limbs undistorted.\n\nPlease generate another image: Refer to the previous one: same person, hairstyle, clothing, scene, and lighting completely consistent, but change the body pose and camera angle to match the pose from this depth map (the depth map is just a human model, providing no clothing or face). Vertical 2:3 single image, no collage, no text or watermarks, fingers complete.",
+    "title": "GPT Image 2 Multi-View Character Consistency Prompt",
+    "description": "A prompt for generating consistent character photos using reference images for face, clothing, and pose depth maps with GPT Image 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1794728417207_k35343_HXHxYSvXEAAMbgb.jpg",
+      "https://cms-assets.youmind.com/media/1794728417157_lzb5tg_HXHxYSuWkAAM_cW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 37497,
     "content": "A full-body anime-style illustration of a cheerful young woman standing on a path covered in fallen yellow ginkgo leaves. She has long, flowing blonde hair tied into twin tails and pointed elf ears. Her eyes are bright green behind round red-rimmed glasses, and she is smiling happily with her mouth open. She wears a distinctive brown hooded cape patterned with white spots (resembling deer fur), featuring animal ears on the hood and a large pink ribbon bow at the neck. Underneath the cape, she wears a brown plaid skirt. On her legs, she wears slouchy brown knee-high boots over white ribbed socks. The background shows rows of vibrant yellow ginkgo trees under a blue sky, with loose leaves floating in the air.",
     "title": "Anime Girl in Deer Cape Autumn Outfit",
